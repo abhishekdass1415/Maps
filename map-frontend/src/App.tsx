@@ -332,7 +332,7 @@ export default function App() {
 
       // Fit map to show entire route
       if (mapRef.current && routeCoords.length > 0) {
-        const bounds = routeCoords.map(coord => [coord[0], coord[1]] as [number, number]);
+        const bounds = routeCoords.map((coord: [number, number]) => [coord[0], coord[1]] as [number, number]);
         mapRef.current.fitBounds(bounds as any, { padding: [50, 50] });
       }
     } catch (error) {
