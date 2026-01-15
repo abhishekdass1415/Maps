@@ -2,14 +2,20 @@ import "dotenv/config";
 import express from "express";
 import cors from "cors";
 import { prisma } from "./db";
+import { requestLogger } from "./middleware/requestLogger";
 
 import placesRouter from "./routes/places";
 import categoriesRouter from "./routes/categories";
+import healthRouter from "./routes/health";
+import directionsRouter from "./routes/directions";
 
 const app = express();
 
 app.use(cors());
 app.use(express.json());
+
+// Dev-only request logging
+app.use(requestLogger);
 
 /* 🔽 DEBUG ROUTE — MUST BE HERE */
 app.get("/debug/db", async (_, res) => {
@@ -19,8 +25,10 @@ app.get("/debug/db", async (_, res) => {
 });
 
 /* 🔽 API ROUTES */
+app.use("/api/health", healthRouter);
 app.use("/api/places", placesRouter);
 app.use("/api/categories", categoriesRouter);
+app.use("/api/directions", directionsRouter);
 
 app.get("/", (_, res) => {
   res.send("Map backend is running 🚀");
