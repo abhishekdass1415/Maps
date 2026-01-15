@@ -11,10 +11,25 @@ html, body, #root {
   height: 100vh;
   width: 100vw;
   overflow: hidden;
+  margin: 0;
+  padding: 0;
+  background: transparent;
+}
+
+.app-root.sidebar-closed {
+  grid-template-columns: 0 1fr !important;
+}
+
+.app-root.sidebar-closed .sidebar {
+  display: none !important;
 }
 
 @media (max-width: 768px) {
   .app-root {
+    grid-template-columns: 0 1fr;
+  }
+  
+  .app-root.sidebar-closed {
     grid-template-columns: 0 1fr;
   }
 }
@@ -34,9 +49,26 @@ html, body, #root {
 
 .sidebar.closed {
   transform: translateX(-100%);
-  width: 0;
+  width: 0 !important;
+  min-width: 0 !important;
   padding: 0;
   overflow: hidden;
+  border: none;
+  margin: 0;
+  opacity: 0;
+  pointer-events: none;
+  visibility: hidden;
+}
+
+.app-root.sidebar-closed .sidebar {
+  border: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  background: transparent !important;
+  width: 0 !important;
+  min-width: 0 !important;
+  max-width: 0 !important;
+  display: none !important;
 }
 
 .sidebar.open {
@@ -143,6 +175,30 @@ html, body, #root {
   overflow: hidden;
   z-index: 1;
   isolation: isolate;
+}
+
+.app-root.sidebar-closed .map-wrapper {
+  width: 100vw !important;
+  grid-column: 1 / -1 !important;
+  position: relative;
+  z-index: 1;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.app-root.sidebar-closed .map-wrapper .leaflet-container {
+  width: 100vw !important;
+  height: 100vh !important;
+}
+
+.app-root.sidebar-closed .map-wrapper .leaflet-map {
+  width: 100vw !important;
+  height: 100vh !important;
+}
+
+.app-root.sidebar-closed .map-wrapper .leaflet-map {
+  width: 100vw !important;
+  height: 100vh !important;
 }
 
 /* Force Leaflet to stay inside its grid cell */
@@ -404,13 +460,66 @@ html, body, #root {
 }
 
 @media (max-width: 768px) {
+  /* Sidebar as overlay on mobile */
+  .sidebar {
+    position: fixed !important;
+    z-index: 2000;
+    box-shadow: 2px 0 10px rgba(0, 0, 0, 0.5);
+  }
+  
+  .sidebar.closed {
+    transform: translateX(-100%);
+    background: transparent;
+  }
+  
+  /* Map always full width on mobile */
+  .map-wrapper {
+    width: 100vw !important;
+    grid-column: 1 / -1;
+  }
+  
+  .app-root.sidebar-closed .map-wrapper {
+    width: 100vw !important;
+  }
+  
   .sidebar-toggle-btn {
     left: 12px !important;
+    z-index: 2001;
+  }
+  
+  .app-root.sidebar-open .sidebar-toggle-btn {
+    left: 292px;
   }
   
   .search-bar {
-    max-width: calc(100% - 24px);
-    left: 12px;
-    transform: none;
+    max-width: calc(100% - 60px);
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 2002;
+  }
+  
+  /* Leaflet zoom controls positioning */
+  .leaflet-control-zoom {
+    margin-top: 70px !important;
+    margin-left: 12px !important;
+    z-index: 2000 !important;
+  }
+}
+
+@media (max-width: 480px) {
+  .sidebar {
+    width: 100vw !important;
+  }
+  
+  .sidebar.open {
+    width: 100vw !important;
+  }
+  
+  .app-root.sidebar-open .sidebar-toggle-btn {
+    left: calc(100vw - 52px);
+  }
+  
+  .search-bar {
+    max-width: calc(100% - 60px);
   }
 }
