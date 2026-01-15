@@ -1,0 +1,995 @@
+{
+  "city": "Bilaspur",
+  "state": "Chhattisgarh",
+  "count": 123,
+  "center": {
+    "lat": 22.0797,
+    "lng": 82.1409
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJ7_pF1qdzKDoRGKD4Kc2QI9E",
+      "name": "IndianOil",
+      "address": "Rahangi",
+      "lat": 21.9976099,
+      "lng": 82.09528859999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJW5IYJA5zKDoRpUT96F7izV4",
+      "name": "Panchdevi petroleum",
+      "address": "Chakarbhatha",
+      "lat": 22.0117142,
+      "lng": 82.09888749999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJ1HlTBRzKDoR0aRrJRGKFcU",
+      "name": "Petrol Pump",
+      "address": "24C2+9XW, Bodri",
+      "lat": 22.0209949,
+      "lng": 82.10245479999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLTZ_mrNyKDoRgSKfkvvTWAw",
+      "name": "Petrol Pump",
+      "address": "Bilaspur",
+      "lat": 22.0420205,
+      "lng": 82.05620669999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJLxUsdONtKDoRTS9nMI7usVw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Raipur - Bilaspur Expressway, Dhaurabha",
+      "lat": 21.9544309,
+      "lng": 82.02734120000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJr8WAY2tzKDoRzlgoxlZvngo",
+      "name": "IndianOil",
+      "address": "Ground Floor Pendridih Chowk, Sakri, Bypass Rd, Bahtarai",
+      "lat": 22.0057118,
+      "lng": 82.0562994,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlSaIn_ZzKDoRNIxorU85EjA",
+      "name": "Neel Mangal Fuels",
+      "address": "Sakri bypass, pendridih, Borsara",
+      "lat": 22.0054193,
+      "lng": 82.05625239999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ718nkgNzKDoRAP5-QqVJ2uM",
+      "name": "IndianOil",
+      "address": "near Hirri, Ground Floor NH 200, Hirri, near Hirri, Mines, Anda",
+      "lat": 22.0077352,
+      "lng": 82.0889143,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIScbLThzKDoRfJQWuRB2rbI",
+      "name": "Maa kaveri fuels",
+      "address": "238Q+J2X, Chhatauna Main Road, Amsena",
+      "lat": 22.0166114,
+      "lng": 82.0876205,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJD9YrkltyKDoRgMAJT7QzK8A",
+      "name": "HP PETROL PUMP - SHRI SIDDHI VINAYAK FUELS",
+      "address": "Ground Floor, Hardi",
+      "lat": 21.9910269,
+      "lng": 82.0687827,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBwf3lSxzKDoRS1_mMVcqg5g",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, opposite Pratap Chowk, Rahangi",
+      "lat": 22.011038,
+      "lng": 82.092259,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJN6pNBF1yKDoRSv8UBqhKELs",
+      "name": "Bharat Petroleum- Antulal & Sons",
+      "address": "X3Q7+MWH, Belan Road, Pendridih, Jhalpha",
+      "lat": 21.9891953,
+      "lng": 82.06486459999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZzhdIF1yKDoR7ebzIWpkfmU",
+      "name": "IndianOil",
+      "address": "Ground Floor Pendridih, Anda",
+      "lat": 21.98838799999999,
+      "lng": 82.0652272,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJndN1uURyKDoRfDTjUp-q-7w",
+      "name": "BHARAT GAS",
+      "address": "India",
+      "lat": 21.9860192,
+      "lng": 82.0690386,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ6Xcp1KRyKDoRrLH1Okf782A",
+      "name": "IndianOil",
+      "address": "Ground Floor, Takhatpur, Camp, Chakarbhatha, Amsena",
+      "lat": 22.0303001,
+      "lng": 82.0515001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWe5BTlxzKDoRUbzhOFnvC_g",
+      "name": "IndianOil",
+      "address": "near New High Court, Ground Floor, Bodari NH 200, near New High Court, Bilaspur Road, Camp, Chakarbhatha",
+      "lat": 22.01713489999999,
+      "lng": 82.09990359999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC3Njy7pyKDoRXHzug-pE4v8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Chakarbhata Camp Takhatpur, Hirri, Mines, Amsena",
+      "lat": 22.0315801,
+      "lng": 82.0518084,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3VzddHVzKDoRTzPKvhTATvc",
+      "name": "Ashok Leyland Truck Stock Yard",
+      "address": "X3M5+HF4, Hardi",
+      "lat": 21.9838779,
+      "lng": 82.0587127,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0UbihbNyKDoRPo1fcwywj2E",
+      "name": "Yash petroleum Bharat Petroleum",
+      "address": "India",
+      "lat": 22.0420373,
+      "lng": 82.0564919,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJmchEZaVzKDoRoTMjMTpj4vM",
+      "name": "Suresh Fuels Bilha",
+      "address": "X39P+3J9, Bilaspur",
+      "lat": 21.9676521,
+      "lng": 82.0866224,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJo1OZ9mdzKDoRy8-tFtAYz4Y",
+      "name": "Sitadevi Diesel Pump",
+      "address": "24M7+V2J, NH 200, Bilaspur",
+      "lat": 22.034723,
+      "lng": 82.1125302,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJV1xkSApyKDoRZJLffZq300w",
+      "name": "Tirupati Hydraulics",
+      "address": "X29V+R52, Service Rd",
+      "lat": 21.969505,
+      "lng": 82.04288079999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ9Vl6S0dzKDoRm1P-iJfQ5zY",
+      "name": "Bharat Petroleum Petrol Pump , MAHAVIR FUELS",
+      "address": "NEAR SARSWATI AGRO INDUSTRIESMAIN ROAD BILHA, POST, Bilha",
+      "lat": 21.9616959,
+      "lng": 82.0543604,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJT4EEF_lzKDoR1aUt8OzunnQ",
+      "name": "IndianOil",
+      "address": "near Hirri, Ground Floor Bilha,Nipania, near Hirri, Mines, Bilaspur",
+      "lat": 21.961657,
+      "lng": 82.05233009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4eIONzFzKDoRQnsdbZ5im-o",
+      "name": "IndianOil",
+      "address": "Ground Floor Bilha, Mines, Hirri",
+      "lat": 21.9551435,
+      "lng": 82.0901406,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjXoTqlNzKDoRm4Vaqseiv5E",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 200, Bilaspur Road, Bilaspur",
+      "lat": 22.0455901,
+      "lng": 82.1199401,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJi4iyFfBtKDoRHxG8LFECVRM",
+      "name": "Bharat Petroleum, Petrol Pump -Tirupati Petroleum",
+      "address": "DHAURABHATA, Bilaspur",
+      "lat": 21.96341,
+      "lng": 82.0330195,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJn8yAT1NzKDoRQVm2lRvd0oc",
+      "name": "Reliance Petroleum",
+      "address": "Ground Floor Raipur Road, Prasada, Transport Nagar, Bilaspur",
+      "lat": 22.0478514,
+      "lng": 82.12173589999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIdsLv1RzKDoRphf_-0cmDd0",
+      "name": "MAHAMAYA MOTORS",
+      "address": "India",
+      "lat": 22.0475161,
+      "lng": 82.1236543,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJLQazQKsMKDoRDqIF_ASu528",
+      "name": "IndianOil",
+      "address": "Kh No 1433, Camp, Tifra, Chakarbhatha",
+      "lat": 22.050165,
+      "lng": 82.12315699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaXfW8l8LKDoRhPSVtiRcOPo",
+      "name": "IndianOil",
+      "address": "Ground Floor, Tarbahar Phata, Bilaspur",
+      "lat": 22.0497086,
+      "lng": 82.1237309,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEz6F7rMNKDoRk0VWBuE6lh8",
+      "name": "Motilal service station",
+      "address": "beside as fun, Sirgitti chowk, beside as fun, Bilaspur Road, Parsada",
+      "lat": 22.0502983,
+      "lng": 82.1236043,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJw_oDFKsMKDoRilGfgdbhZQE",
+      "name": "Gumber Petrol Pump, Bilaspur",
+      "address": "Tifra, Bilaspur",
+      "lat": 22.0506501,
+      "lng": 82.1239032,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJW7yMmqgNKDoRV257-XZR5W0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, CSIDC, Tifra, Bilaspur",
+      "lat": 22.050721,
+      "lng": 82.124111,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJByXsFW50KDoRBdDtD3rMzuk",
+      "name": "Sati Devi fuels IndianOil",
+      "address": "Ground Floor, Camp, Dhamni",
+      "lat": 21.986001,
+      "lng": 82.1398001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq16awBQLKDoRAVoJ0Uyq9gw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Link Road, Bilaspur",
+      "lat": 22.077931,
+      "lng": 82.150531,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7znc3MQKKDoRoZbwWKDrYcU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Gurunanak Chowk, Torwa, Bilaspur",
+      "lat": 22.0671279,
+      "lng": 82.1834042,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB3y8rc50KDoRsUE2bl_niU8",
+      "name": "IndianOil",
+      "address": "near Bannak, Plot No 995/5, Chowk, Sirgitti, Bilaspur",
+      "lat": 22.0437146,
+      "lng": 82.1556002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKeHZYRkLKDoRmn7C0hhvqD4",
+      "name": "IndianOil",
+      "address": "Ground Floor, Tifra, Bahtarai",
+      "lat": 22.059411,
+      "lng": 82.130284,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDwMkDdILKDoRdUuijGgPvxY",
+      "name": "Ashish Mishra",
+      "address": "near by Indian Oil Petrol Pump, 02, Kali Mandir Road, Tifra, Bilaspur",
+      "lat": 22.0597207,
+      "lng": 82.13061669999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJT0c6oFsLKDoRGIiPkofxEt8",
+      "name": "IndianOil",
+      "address": "near Dps School, Ground Floor Maharanapratap Chowk, Tifra,Bahtarai, near Dps School, Bilaspur",
+      "lat": 22.065697,
+      "lng": 82.135764,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqUbRXQALKDoR6FTxtgCWQFY",
+      "name": "Jio pump Mahadev energy",
+      "address": "355J+32P, Sankar Nagar, Bilaspur",
+      "lat": 22.0553576,
+      "lng": 82.1798622,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ6dVtakELKDoRNItXviB0bk0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Vyapar Vihar Road, Bilaspur",
+      "lat": 22.0691861,
+      "lng": 82.14515589999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjVNONEILKDoRrhytfSJHka0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Ring Road, Priyadarshini Colony, Bilaspur",
+      "lat": 22.0707061,
+      "lng": 82.1430125,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJn0QWxyYLKDoRfng3BptZt-M",
+      "name": "Anurag Fuels (Indian Oil)",
+      "address": "3598+3X6, near Kanoi Paper Mill, Raigarh Road, Bilaspur",
+      "lat": 22.06765,
+      "lng": 82.167397,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJR4wXhWcLKDoR8KPtT-5nWB4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Ring Road, No 2, Maharana Pratap Chowk, Bilaspur",
+      "lat": 22.0739287,
+      "lng": 82.1366319,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMZqHQOsLKDoRX3ADXZBS67M",
+      "name": "Amba fuels",
+      "address": "Tikrapara, Bilaspur",
+      "lat": 22.0718745,
+      "lng": 82.162144,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJba3TEmcLKDoROZzpqQzzlYk",
+      "name": "IndianOil",
+      "address": "Ground Floor, Tifra, Bahtarai",
+      "lat": 22.07473,
+      "lng": 82.13511,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaRnD5SILKDoRVPyqxv2bypQ",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 22.0720068,
+      "lng": 82.1622337,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ6WKlQ7UKKDoRputk4ZPnIwQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, Torwa, Bilaspur",
+      "lat": 22.053331,
+      "lng": 82.193855,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrTPj2uh1KDoRle5FXGxVsaU",
+      "name": "IndianOil",
+      "address": "Ground Floor, Dhuma",
+      "lat": 22.0226977,
+      "lng": 82.2127604,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzbp8hRgLKDoR7-4fDbca6SQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Old High Court Road, Bilaspur",
+      "lat": 22.07512669999999,
+      "lng": 82.1637544,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJE4PPwuQLKDoRQ7-C4Y_jOlo",
+      "name": "IndianOil",
+      "address": "Indu Chowk, Ground Floor, Jarhabh, Rajiv Gandhi Chowk, Bahtarai",
+      "lat": 22.0784893,
+      "lng": 82.1405064,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4fy8bQALKDoRkUI0ukVK6Mw",
+      "name": "Khamtrai chowk",
+      "address": "34HR+V97, Bilaspur",
+      "lat": 22.0796545,
+      "lng": 82.1409152,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ24jeDAALKDoRHFT3cBjBSOA",
+      "name": "HP PETROL PUMP MOONI FUELS",
+      "address": "34HR+V97, Dhaurabha",
+      "lat": 22.0796545,
+      "lng": 82.1409152,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJSfohdQALKDoRY3RCcd_dhF0",
+      "name": "Jio bp Mahadev Energies",
+      "address": "beside Murg Musallam, Mandir Chowk, beside Murg Musallam, Jarhabhata Road, Bilaspur",
+      "lat": 22.0805156,
+      "lng": 82.1410556,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXSUepfTfJzoRKMHlJlFv3_o",
+      "name": "ANURAG FUELS BILASPUR",
+      "address": "Dhenka",
+      "lat": 22.0306271,
+      "lng": 82.219714,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJb_9v4wPfJzoR6Ji2tinnKKY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 200, Masturi",
+      "lat": 22.001441,
+      "lng": 82.253731,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtQxmp43fJzoR1OKMdSfKLtc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Bilaspur Masturi, Road, Dhenka",
+      "lat": 22.0269032,
+      "lng": 82.223927,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy0MspfTfJzoR3nx3oNM4YaA",
+      "name": "IndianOil",
+      "address": "Ground Floor, Raigrh Road, Darrighat",
+      "lat": 22.0303132,
+      "lng": 82.2200209,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdVPF0-HfJzoRZEtbTikQPX8",
+      "name": "IndianOil",
+      "address": "Ground Floor, Masturi",
+      "lat": 21.9983908,
+      "lng": 82.257982,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDe8E58ffJzoRxVbSlzOZSUU",
+      "name": "IndianOil",
+      "address": "Road, Masturi",
+      "lat": 21.970074,
+      "lng": 82.25744879999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJywPxyz_fJzoRRct1lTdJiUE",
+      "name": "Pratima Fuels Bhadora Masturi",
+      "address": "Pratima Fuels Bhadora, Masturi",
+      "lat": 22.01288359999999,
+      "lng": 82.2741863,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ3fZSVneJzoRmbUIcXNuOPw",
+      "name": "IndianOil",
+      "address": "Ground Floor Kirari, Masturi, Aramsahi",
+      "lat": 22.01331,
+      "lng": 82.274485,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJn25lWvLeJzoRBy6l8WHd3ZI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Masturi - Jairamnagar Road, Masturi",
+      "lat": 21.999197,
+      "lng": 82.276905,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJa19M-LkLKDoRddh--H9gCzQ",
+      "name": "Vineet fuels",
+      "address": "35GV+9VQ, Mopka Bypass Road, Rajkishore Nagar",
+      "lat": 22.0759602,
+      "lng": 82.19473459999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJVQHP72AMKDoRdc0yYuuClHU",
+      "name": "IndianOil",
+      "address": "near Uslapur, Ground Floor Mungeli Road,Uslapur, near Uslapur, Railway Crossing, Bilaspur",
+      "lat": 22.09997299999999,
+      "lng": 82.106515,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqzb9JYcMKDoRCEbQkFOhISs",
+      "name": "IndianOil",
+      "address": "Ground Floor, SH 7, Mungeli Road, Mangla, Bahtarai",
+      "lat": 22.093446,
+      "lng": 82.12191399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJp-kUlXELKDoRr38Lbh_FRNk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Mungeri Road, Tehsil Chowk, Bilaspur",
+      "lat": 22.0868351,
+      "lng": 82.14289529999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNZsUKQ0LKDoR9kYAOBHCSwc",
+      "name": "IndianOil",
+      "address": "Ground Floor, SH 2, Sarkanda, Bahtarai",
+      "lat": 22.095253,
+      "lng": 82.142534,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJiaD2OfoNKDoR6KVOp6z8O1s",
+      "name": "Bharat Petroleum, Petrol Pump -Sarwamangala Fuels",
+      "address": "USLAPUR, NEAR RLY CROSSING, Bilaspur",
+      "lat": 22.0998471,
+      "lng": 82.0701784,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_fUgLaQNKDoRAry2P1syYHo",
+      "name": "Police kalyan Petrol Pump",
+      "address": "Sakri, Bilaspur",
+      "lat": 22.1000456,
+      "lng": 82.0703455,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9UnIylgNKDoRx1okL_LTj_c",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Mungeli Road, Takhatpur - Bilaspur Road, Sakri, Bilaspur",
+      "lat": 22.1032056,
+      "lng": 82.0913121,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe8t4dEUNKDoRGtuYxasZ0HU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Takhatpur, Bypass, Sakri, Turkadih",
+      "lat": 22.1120125,
+      "lng": 82.0735344,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhWG2oJ8NKDoRCfSoWi0dqDY",
+      "name": "ks and sons",
+      "address": "NH,45 CHENNAI TO BANGALORE HIGWAY, KANCHEEPURAM",
+      "lat": 22.1133662,
+      "lng": 82.0685953,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJG-SRpkwNKDoR-wrMRDNcAQY",
+      "name": "Sarwamangala FuelsBharat Petroleum",
+      "address": "34X5+M4Q, Uslapur",
+      "lat": 22.099422,
+      "lng": 82.1080399,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ8R8_5x8NKDoR3u7jj6kpVVE",
+      "name": "Sarasvati Kaushik",
+      "address": "578, Uslapur",
+      "lat": 22.0886149,
+      "lng": 82.1167849,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJAyzUCQALKDoRUN-vg1zuDbc",
+      "name": "Petrol Pump Indian Oil",
+      "address": "34JH+MRM, Parijat Extension, Nehru Nagar, Bilaspur",
+      "lat": 22.081717,
+      "lng": 82.1295559,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJgyLULnQNKDoR_T_MpwMwTkU",
+      "name": "IndianOil",
+      "address": "Ground Floor Lokhandi, Takhatpur, Bahtarai",
+      "lat": 22.13230399999999,
+      "lng": 82.093819,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo5csSQALKDoRBgkzl3u5Lqg",
+      "name": "Nagar Nigam pumping station",
+      "address": "34WH+VQC, Mangla, Bilaspur",
+      "lat": 22.097191,
+      "lng": 82.1293881,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJfWGYU4ALKDoRILD__2hWNHI",
+      "name": "IndianOil",
+      "address": "Ground Floor, Mangla, Bahtarai",
+      "lat": 22.098853,
+      "lng": 82.130352,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTaeV63sLKDoRuRQ8jsSgdrA",
+      "name": "IndianOil",
+      "address": "Mungeli Naka Ground, Ground Floor Old, Kukudakhandi, Bahtarai",
+      "lat": 22.0895319,
+      "lng": 82.1345884,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOagdv3ELKDoRDIT-x2W7AxU",
+      "name": "Fuel",
+      "address": "34PV+Q24, District Court Area, Bilaspur",
+      "lat": 22.0868878,
+      "lng": 82.1425806,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ67AYNwATKDoRLnqHQejuoRI",
+      "name": "Petrol pump",
+      "address": "42F8+CF4, Kathakoni",
+      "lat": 22.1235028,
+      "lng": 82.01619029999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJP1AnNBMLKDoRrQ7V0_duRa4",
+      "name": "Bharat Petroleum, Petrol Pump -Antulal And Sons",
+      "address": "GATORI, Masanganj",
+      "lat": 22.0857891,
+      "lng": 82.14340469999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5wvh7CkLKDoR4A7qcTtevv8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Seepath Chowk, Sarkanda, Bilaspur",
+      "lat": 22.096316,
+      "lng": 82.144975,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeUeWuIwLKDoRMmUXa0B1QRs",
+      "name": "Santosh Petrol Pump",
+      "address": "NH 111, Koni, Bilaspur",
+      "lat": 22.1194655,
+      "lng": 82.1344934,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJseZQ-qYOKDoRAomqyH0sKIQ",
+      "name": "IndianOil",
+      "address": "Turkadih",
+      "lat": 22.1466003,
+      "lng": 82.1137509,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRykKNG0LKDoRxiNU1ComiXM",
+      "name": "Police kalyan Petrol Pump",
+      "address": "flower market road",
+      "lat": 22.0835756,
+      "lng": 82.1493773,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUfpcWwULKDoROjirOmxX0Oc",
+      "name": "IndianOil",
+      "address": "Ground Floor Chatapara, Bahtarai",
+      "lat": 22.08362,
+      "lng": 82.14955100000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH2oPVbgLKDoRUUukyRyst08",
+      "name": "Petrol pump",
+      "address": "Devkinandan chowk, Bilaspur",
+      "lat": 22.0876055,
+      "lng": 82.1488507,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJQ9fEKw0LKDoRaCHVWot4jrs",
+      "name": "HP PETROL PUMP - A V & RAMDASS CO.",
+      "address": "Opposite Pratap Chowk, Birkona-Sarkanda Road, Gol Bazar",
+      "lat": 22.0883,
+      "lng": 82.1499,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYXNTFbQLKDoRHHLASz0Uke8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Seepat Road, Chantideeh, Bilaspur",
+      "lat": 22.098351,
+      "lng": 82.159331,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ47NpehELKDoRgJJ1pTTPNlU",
+      "name": "IndianOil",
+      "address": "Ground Floor Chatideeh, Bahtarai",
+      "lat": 22.0978644,
+      "lng": 82.1630141,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSfuLJ2sLKDoRxcYShZOaItI",
+      "name": "Shri Shyama Fuels BHARAT PETROLEUM",
+      "address": "35X7+49H, Seepat Road, Devnandan Nagar Phase 2, Sarkanda, Bilaspur",
+      "lat": 22.097806,
+      "lng": 82.163484,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjXtp5QALKDoR3EcsrFOLmpA",
+      "name": "काबरा ग्रेनाइट एण्ड टाईल्स",
+      "address": "India",
+      "lat": 22.0957608,
+      "lng": 82.1683657,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbRI_YsgLKDoRdDUZTUZmwTs",
+      "name": "IndianOil",
+      "address": "near Secl HQ, Ground Floor Seepat Road, near Secl HQ, Baima Nagoi Road, Bilaspur",
+      "lat": 22.0954982,
+      "lng": 82.16879349999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJxTU7dHILKDoR-RSce_O2EeU",
+      "name": "Kartar Fuels(Bharat Petrolium)",
+      "address": "Lingiadih",
+      "lat": 22.0824878,
+      "lng": 82.17946839999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2_Kl5N4LKDoRt-6VD_In-lw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Raipur Road, Parsada",
+      "lat": 22.081489,
+      "lng": 82.179584,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ35njKekKKDoRX83Aa5L1pRc",
+      "name": "Sitadevi Petrol Pump Bharat Petroleum",
+      "address": "35QV+2C9, Rajkishore Nagar",
+      "lat": 22.08754,
+      "lng": 82.1936231,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx_W54JQLKDoREKOkFKTv3gY",
+      "name": "ANURAG FUELS",
+      "address": "35PX+MGG, Mopka",
+      "lat": 22.0866787,
+      "lng": 82.19882080000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJA2HifD8LKDoRW_3P3hXUzfM",
+      "name": "Bharat Petroleum, Petrol Pump -S. Devi Service Station",
+      "address": "BILASPUR RAIPUR ROAD BOD, Bilaspur",
+      "lat": 22.088145,
+      "lng": 82.2036388,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnVMiUoIKKDoRAssfV3C7pKQ",
+      "name": "IndianOil",
+      "address": "Ground Floor Sipat Road, Mopka, Baimanagoi, Bilaspur",
+      "lat": 22.092161,
+      "lng": 82.212266,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHd4ty0HhJzoRepzGBaJawcM",
+      "name": "VIRAJ FUELS Bharat Petroleum",
+      "address": "36JH+R69, Bilaspur",
+      "lat": 22.0827094,
+      "lng": 82.2276886,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYcCAH5rhJzoRv78woF55ZOE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Koyla Vihar Colony, Sarkanda, Lagra",
+      "lat": 22.102627,
+      "lng": 82.230212,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJscPNfUXhJzoR18d3D9UYkWY",
+      "name": "IndianOil",
+      "address": "Ground Floor Masturi, Aramsahi",
+      "lat": 22.0762051,
+      "lng": 82.2423993,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJO-SPCrThJzoRtSpeFKKfTp4",
+      "name": "Arya Fuels Bharat Petroleum",
+      "address": "India",
+      "lat": 22.1064069,
+      "lng": 82.24198539999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYbYOaPThJzoRD6ImrY5UCak",
+      "name": "IndianOil",
+      "address": "Seepat Road, Pandhi",
+      "lat": 22.1102724,
+      "lng": 82.2454059,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXYMk2UrgJzoRgArsqrDRpR0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Seepat Road, Bilaspur",
+      "lat": 22.1174846,
+      "lng": 82.2536271,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4Yl2mlwLKDoRxLnhplQkB3M",
+      "name": "Ashutosh Petroleum",
+      "address": "45QM+47, Nougai",
+      "lat": 22.1377987,
+      "lng": 82.183229,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJY6QymSUKKDoR6LEWzKWtg1c",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 22.1378937,
+      "lng": 82.183385,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ_eNSnvIPKDoRfYoNWJoAi6g",
+      "name": "IndianOil",
+      "address": "Ground Floor, Takhatpur, Ghutku",
+      "lat": 22.1780973,
+      "lng": 82.08743609999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJve_QZSsQKDoRtNariI8FA1g",
+      "name": "IndianOil",
+      "address": "Ground Floor Ganiyari, State Highway 8, Takhatpur",
+      "lat": 22.1880436,
+      "lng": 82.0375646,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvSQMQMoOKDoRR-1cQW7Sj5o",
+      "name": "Amit Motor's",
+      "address": "549F+GG3, National Highway 130, Sendri, Bilaspur",
+      "lat": 22.1687681,
+      "lng": 82.1237864,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJf1AUtswOKDoRmQSkMVKhfRg",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sendri, Bahtarai",
+      "lat": 22.174888,
+      "lng": 82.127436,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAQAAkEYJKDoR5EGSt8-qUaE",
+      "name": "Bharat Petroleum, Petrol Pump -Sharda Petroleum",
+      "address": "GIROLA, DURG",
+      "lat": 22.16396,
+      "lng": 82.1447634,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIeGZDtoIKDoRN_452jeCcY0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Ratapur Road, Sendri, Bilaspur",
+      "lat": 22.1985241,
+      "lng": 82.1382814,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQWYTX1kJKDoRBfHvFqjMSKE",
+      "name": "IndianOil",
+      "address": "National Highway 130, Gatauri",
+      "lat": 22.1903952,
+      "lng": 82.13663869999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJb7acNwAJKDoRVHo1KKA8Bwk",
+      "name": "Antulal and sons, Bharat Petroleum",
+      "address": "54RP+HP8, Sendri, Gatauri",
+      "lat": 22.1914035,
+      "lng": 82.1368293,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJsyumTMUIKDoRrnFVpj1_X4s",
+      "name": "HP Petrol Pump - R B Gatauri",
+      "address": "Hpcl Petrol Pump Vill.-gatauri, Bilaspur Ratapur Road PS- Sendri",
+      "lat": 22.203557,
+      "lng": 82.139732,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOQHOWO7jJzoRzn_qzycx8_o",
+      "name": "Shree Nand Petrolium",
+      "address": "56G8+V9Q, Paunsara",
+      "lat": 22.1772024,
+      "lng": 82.21598879999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJz1s1km3hJzoRuNzqjBODURg",
+      "name": "IndianOil",
+      "address": "Ground Floor Sipat, Beltara Road, Janji, Bilaspur",
+      "lat": 22.13101,
+      "lng": 82.27018699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2X6_hFvhJzoRnwEndrw_jNM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NTPC Township Sipat",
+      "lat": 22.142871,
+      "lng": 82.286091,
+      "open_now": true
+    }
+  ]
+}

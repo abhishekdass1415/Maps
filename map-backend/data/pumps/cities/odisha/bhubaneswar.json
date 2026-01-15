@@ -1,0 +1,1187 @@
+{
+  "city": "Bhubaneswar",
+  "state": "Odisha",
+  "count": 147,
+  "center": {
+    "lat": 20.2961,
+    "lng": 85.8245
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJF554g9enGToRncGUqGCz-Is",
+      "name": "IndianOil",
+      "address": "National Highway 16, Patrapada, Bhubaneswar",
+      "lat": 20.2435987,
+      "lng": 85.76889949999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWWSapP6oGToROaFhbob9d8w",
+      "name": "Petrol Pump",
+      "address": "6PGH+FW8, Santarapur",
+      "lat": 20.2261596,
+      "lng": 85.7298424,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJucYIdW-mGToRO-dBikWFOmk",
+      "name": "Anjana Filling Station BPCL",
+      "address": "6Q2W+6GM, Kantilo",
+      "lat": 20.2005902,
+      "lng": 85.79629249999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJazvmfZGnGToRdFCkR3KP9ec",
+      "name": "IndianOil",
+      "address": "National Highway 16, Baramunda, Bhubaneswar",
+      "lat": 20.26515,
+      "lng": 85.79245759999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNU964WCpGToRnibaMNXXrPs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Rajpath, Bhatakuri",
+      "lat": 20.2094501,
+      "lng": 85.6881401,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhdmuyIanGToR4J2lmZgnF3Q",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Fire Station Road, Paika Nagar, Baramunda, Bhubaneswar",
+      "lat": 20.276661,
+      "lng": 85.801921,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOcwg4xCpGToR2mWZLpm6uF4",
+      "name": "IndianOil - SWAGAT",
+      "address": "Ground Floor NH 16, Tamando, Bijipur",
+      "lat": 20.2322916,
+      "lng": 85.74219350000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP0eAlv2oGToRRasZZoS-dfM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, National Highway 16, Somnathpur, Janla",
+      "lat": 20.223401,
+      "lng": 85.726901,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx8mvZWWnGToRvvTE8vOT-Jo",
+      "name": "IndianOil",
+      "address": "Lock No 23008, NH 5, 10/2, Aiginia, Kuber Puri, Bhubaneswar",
+      "lat": 20.2452,
+      "lng": 85.7787,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzZeezU2nGToR1PbFYPXWivg",
+      "name": "CNG Gas station, GAIL",
+      "address": "6QWJ+MH6, Shreekhetra Vihar, Khandagiri, Bhubaneswar",
+      "lat": 20.2466552,
+      "lng": 85.781466,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJF4CpaG-nGToRfc3x3KlLu5Y",
+      "name": "Bharat Petroleum, Petrol Pump-Khandagiri fuel station",
+      "address": "Bhubaneswar",
+      "lat": 20.2549707,
+      "lng": 85.78732289999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJyywFhh6nGToRofRF1lZ6-D8",
+      "name": "My Fuel",
+      "address": "Maa Kali Building, Petrol Pump, Ghatikia, Bhubaneswar",
+      "lat": 20.2706351,
+      "lng": 85.77731080000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ6XB6A8ipGToRzsLFoPQG3vY",
+      "name": "Bharat Petroleum BP BBSR NXT",
+      "address": "7QG7+5GF, Kalinganagar, Bhubaneswar",
+      "lat": 20.2758379,
+      "lng": 85.7637171,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJX3bU1_OnGToRQF-7F2ovH5c",
+      "name": "IndianOil",
+      "address": "Ghatikia, Khandagiri, Bhubaneswar",
+      "lat": 20.272111,
+      "lng": 85.782111,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9SX3FgGnGToRWev1V01MPIQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Plot No 456, Pokhariput, Bhubaneswar",
+      "lat": 20.23768979999999,
+      "lng": 85.81107039999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL02ZUrinGToRX7qtsSs5gBc",
+      "name": "CNG FILLING GAIL POKHARIPUT",
+      "address": "Pokhariput Main Road, Pokhariput, Bhubaneswar",
+      "lat": 20.2438207,
+      "lng": 85.80991949999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJR4cu-IKnGToRwAaPFBsjrZg",
+      "name": "Saikrupa Fuels",
+      "address": "banki Road, Gobind Pur, cuttack",
+      "lat": 20.23984759999999,
+      "lng": 85.81187609999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJyw-ZXq2pGToR1qx5gdlDLhI",
+      "name": "IndianOil",
+      "address": "Ground Floor, Janala NH 5, Ogalpada, Talakheta, Angarpada",
+      "lat": 20.21027999999999,
+      "lng": 85.69744,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpeDbkvumGToRnHrWqZYH7KE",
+      "name": "IndianOil",
+      "address": "Ground Floor Airfield, Sundarpada, Bankual, Bhubaneswar",
+      "lat": 20.2266844,
+      "lng": 85.8141201,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ34Yw39inGToRhD50DBgknHA",
+      "name": "Champaty Filling Station",
+      "address": "6RG7+MMC, Jatni Road, Bhimatangi Housing Colony, Bhubaneswar",
+      "lat": 20.2266812,
+      "lng": 85.8141299,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYaPW-mipGToR8nVNrgHCItg",
+      "name": "GAIL Balaji Filling Station",
+      "address": "6M6W+7Q6, Near Maa Bata Bhuasuni Temple, Ogalapada, Radhacharanpur, Janla, Bhubaneswar",
+      "lat": 20.2106507,
+      "lng": 85.6968797,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-RlLp9epGToRjz29iMjiojU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Jathni, Janla, Gobindapur",
+      "lat": 20.203971,
+      "lng": 85.697081,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUyc9osanGToR2fizalKDQec",
+      "name": "Karan Mobile",
+      "address": "Bus Stand, 136, RBI Colony, Baramunda, Bhubaneswar",
+      "lat": 20.2751885,
+      "lng": 85.7908999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJyQfe9OynGToReYrwXSCJ5jQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, Jagamara, Bhubaneswar",
+      "lat": 20.267427,
+      "lng": 85.801253,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ41yEqJynGToRCcibrlr4XnE",
+      "name": "Petrol Station BP",
+      "address": "82, University Agriculture Farm Road, Soubhagya Nagar, Baramunda, Bhubaneswar",
+      "lat": 20.268196,
+      "lng": 85.8027254,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjfC4-oinGToRxQmLuLdwBZY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Baramunda, Bhubaneswar",
+      "lat": 20.2769701,
+      "lng": 85.7954201,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsU1XBgCnGToRaZk8W56A_5M",
+      "name": "Sumeet Security Service",
+      "address": "7RC3+5QP, Lane 4, Satabdi Nagar, Baramunda, Bhubaneswar",
+      "lat": 20.2704544,
+      "lng": 85.8044547,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJWQuvVQCnGToRnXjZCyBbzN4",
+      "name": "Kk",
+      "address": "7QHV+GWM, Baramunda, Bhubaneswar",
+      "lat": 20.2788292,
+      "lng": 85.7947875,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ98xz82CpGToRYL9f35-2oFk",
+      "name": "Petroleum",
+      "address": "India",
+      "lat": 20.2083168,
+      "lng": 85.6875295,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZwvBo9ipGToRUTMcEbyhqS8",
+      "name": "AROHI ENTERPRISES",
+      "address": "Odisha Mouza - Bhatakhuri, Gangapada",
+      "lat": 20.2080549,
+      "lng": 85.6874361,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJt_oVOwCpGToR8LRhuuGDBXk",
+      "name": "BPC bunk truck parking",
+      "address": "6M5Q+22R, Odisha Mouza - Bhatakhuri, Gangapada",
+      "lat": 20.2076156,
+      "lng": 85.68752719999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJk-j6SXenGToRm2LNz_bY6pk",
+      "name": "Sahoo babu",
+      "address": "L-197, Bhubaneswar",
+      "lat": 20.2805591,
+      "lng": 85.796087,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDWFISIupGToR4CEx8i8v34Q",
+      "name": "Bharat Petroleum Petrol Pump , SRI GURUDEV FILLING STATION",
+      "address": "AT - MENDHASALPS - CHANDAKA",
+      "lat": 20.263381,
+      "lng": 85.69189899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9yVUyEsBGToRCLjld9QXfyE",
+      "name": "IndianOil",
+      "address": "Ground Floor, Chandaka",
+      "lat": 20.2482307,
+      "lng": 85.6821092,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHcUnyWYJGToRUzECWL_aPhY",
+      "name": "IndianOil",
+      "address": "Ground Floor, Ghatikia, Bhubaneswar",
+      "lat": 20.2815723,
+      "lng": 85.8032441,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6fCv_i6nGToRMczpxBAEFpU",
+      "name": "SHREE DEBI FILLING STATION (Bharat Petroleum)",
+      "address": "opp. Kedar Gouri Temple, 3915, Lewis Road, Kedar Gouri Vihar, BJB Nagar, Bhubaneswar",
+      "lat": 20.2427404,
+      "lng": 85.84116689999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJexVrZ6ygGToRPtkPPShc8Zk",
+      "name": "Indian Oil",
+      "address": "Lock No, 13005/2, Cuttack Road, Bhubaneswar",
+      "lat": 20.2625023,
+      "lng": 85.8447705,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJiaDILDanGToRIZSDjVLuFik",
+      "name": "Bharat Petroleum, Petrol Pump -Joy Auto Centre",
+      "address": "KALPANA SQUARE BHUBANESW, KHORDHA",
+      "lat": 20.2574251,
+      "lng": 85.8410947,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH-DBn0anGToRwrNzwE-iK6I",
+      "name": "Bharat Petroleum - Rajdhani Service Station",
+      "address": "4, Raj Path, Unit-2, Ashok Nagar, Bhubaneswar",
+      "lat": 20.2636743,
+      "lng": 85.8345859,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQzaM6EOnGToR2dZTyI793Ac",
+      "name": "IndianOil",
+      "address": "No IG193, Lock, 2, Unit 1, Bapuji Nagar, Bhubaneswar",
+      "lat": 20.264434,
+      "lng": 85.832234,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJU1AbF1qhGToRwQLwXAkEGYY",
+      "name": "Bharat Petroleum",
+      "address": "Bhara Chhak, Khordha, NH-203, Jagannath Sadak, Pubasasan, Pipili",
+      "lat": 20.193877,
+      "lng": 85.859937,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJd6UVMFSnGToR61x5lvoBqnc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "5, Janpath, Bhubaneswar",
+      "lat": 20.2766209,
+      "lng": 85.8437233,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJyUMXZKygGToR12uZgqJsBUg",
+      "name": "IndianOil",
+      "address": "Plot No 4, Bomikhal, Bhubaneswar",
+      "lat": 20.27510599999999,
+      "lng": 85.851731,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8xytemahGToRVP_mwWn5wqI",
+      "name": "Bhubaneswar Gas INDANE",
+      "address": "5VWF+QCP, Trahi Achyuta Nagar Road, Balakati",
+      "lat": 20.1969729,
+      "lng": 85.873577,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJgxb0aN4JGToR9eqoDynWyUs",
+      "name": "IndianOil",
+      "address": "Lock No IG3784, Jayadev Vihar, Bhubaneswar",
+      "lat": 20.2860267,
+      "lng": 85.8264524,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4V9Rp_AJGToRW0j0BRZSbYY",
+      "name": "IndianOil",
+      "address": "Unit No 9, near IDBI Bank, Bhoinagar, Bhubaneswar",
+      "lat": 20.28529,
+      "lng": 85.84318429999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY6NTFtEJGToRgBXeV_7N5oA",
+      "name": "Bharat Petroleum: Krishna Filling Station",
+      "address": "in front of ISKON Temple, 1060, NH 5, Nayapalli, Bhubaneswar",
+      "lat": 20.2885914,
+      "lng": 85.81452449999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ494T8PAJGToRqPn0JXPakzM",
+      "name": "Bharat Petroleum Vanivihar Service Station",
+      "address": "JANPATH, Bhubaneswar",
+      "lat": 20.2958395,
+      "lng": 85.8415953,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQ34r0COnGToRneXFRW1-GS0",
+      "name": "MAA TARINI GAS POINT",
+      "address": "India",
+      "lat": 20.2405792,
+      "lng": 85.8311951,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJscGrENGmGToRpIaAVhz5PcY",
+      "name": "OMM POWER AGENCY",
+      "address": "India",
+      "lat": 20.2263376,
+      "lng": 85.8415998,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJYwBADNKmGToRs52BST_Ei9M",
+      "name": "IndianOil",
+      "address": "Ground Floor, Nuagaon Chowk, Lingipur, Bhubaneswar",
+      "lat": 20.222869,
+      "lng": 85.84452499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgx9qiTOhGToRU3CGAnjwfHs",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sisupalgarh, Bhubaneswar",
+      "lat": 20.216859,
+      "lng": 85.85206099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkwzGBDGnGToRCsU6B1DrHZI",
+      "name": "IndianOil",
+      "address": "Ground Floor, Lewis Road, BJB Nagar, Bhubaneswar",
+      "lat": 20.249672,
+      "lng": 85.841309,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJT0FvlAqnGToRw8wCWWMSWVA",
+      "name": "BharatKoosh",
+      "address": "A/2, Bapuji Nagar, Bhubaneswar",
+      "lat": 20.2584079,
+      "lng": 85.83328709999999,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJa8l3gISnGToR8TGywPF7dq4",
+      "name": "IndianOil",
+      "address": "Rab Bhawan Square, Ganga Nagar, Khorda",
+      "lat": 20.269426,
+      "lng": 85.820709,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC_aUcAChGToR9uVJwCIzmOM",
+      "name": "MAA TARINI FILLING STATION,(BPCL)",
+      "address": "6VR9+M65, near Sai TAMPLE, Tankapani Road, Laxmi Vihar, Baragarh, Bhubaneswar",
+      "lat": 20.2416265,
+      "lng": 85.8680986,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJAfbnRF2nGToRFPtgdtl8BQg",
+      "name": "IndianOil",
+      "address": "Ground Floor, Keshari Nagar, Bhubaneswar",
+      "lat": 20.2700806,
+      "lng": 85.8287228,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIYq6GK-gGToRiSIztuhS13U",
+      "name": "Sai Priyadarsani HP Gas Office",
+      "address": "784, East Canal Road, Santoshi Vihar, Laxmisagar, Bhubaneswar",
+      "lat": 20.2675519,
+      "lng": 85.8597355,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNz4a9o-nGToRpHDSwEzqFZ0",
+      "name": "Bharat Petroleum (Anjana Filling Station)",
+      "address": "AT - KANTILOPS, AIRFIELD",
+      "lat": 20.277576,
+      "lng": 85.843749,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJk8Nuk0KhGToR4VTi03pYKYU",
+      "name": "Nayara Petrol Pump - Maa Bhagabati Filling Station",
+      "address": "6V3J+62J, Plot No - 4597 Khata No-1616/225 Pratap Sasan Balianta, Banamalipur Road, Balakati",
+      "lat": 20.2032856,
+      "lng": 85.87946079999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCdgo0SWjGToReanIjhD9NVo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Jagannath Sadak, Cuttack - Puri Bypass Road, Kausalyapur",
+      "lat": 20.1786358,
+      "lng": 85.85795510000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ67hhJPujGToRDtuLzNSyWds",
+      "name": "Rajarani Petrol Pump",
+      "address": "5VH5+C5W, Jagannath Sadak, Kausalyapur",
+      "lat": 20.1786158,
+      "lng": 85.85796649999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJy1V0xWQJGToRDyUi6OPfLdA",
+      "name": "Mohan Pvt Ltd",
+      "address": "Bhagabt Billa, 1486, CRP - DAV Road, BRIT Colony, Bhubaneswar",
+      "lat": 20.2838232,
+      "lng": 85.8126221,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJA0kIGQAJGToRan_ksgM7Ako",
+      "name": "Indian oil",
+      "address": "7RPG+CG6, Kalinga Market, Nuasahi, Nayapalli, Bhubaneswar",
+      "lat": 20.2860391,
+      "lng": 85.8262719,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJO0ev7OuhGToR_VwLPyQ5-Co",
+      "name": "Tea Bettal Shop",
+      "address": "opp. to M.J. Plaza, Cuttack Road, Bomikhal, Jharapada, Bhubaneswar",
+      "lat": 20.2803786,
+      "lng": 85.8544814,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJl90ti9QJGToRumaHKKEm2Rg",
+      "name": "IndianOil",
+      "address": "National Highway 16, Nayapalli, Bhubaneswar",
+      "lat": 20.285879,
+      "lng": 85.810059,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg31YZ9EJGToRbI845AfPnGE",
+      "name": "IndianOil",
+      "address": "Unit No 16, Jaydev Vihar, Plot No 1496/3702, Bhubaneswar",
+      "lat": 20.2883681,
+      "lng": 85.8129798,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ01IbZgChGToRNXEdLLZbnjI",
+      "name": "Jio bp Petrol Pump",
+      "address": "Balakati",
+      "lat": 20.2009776,
+      "lng": 85.88756049999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQTVmFFegGToRwSUH71GknWo",
+      "name": "IndianOil",
+      "address": "Ground Floor Balianta, Balakati",
+      "lat": 20.245326,
+      "lng": 85.89406749999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQ3T08r0LGToRH3knph8IwEI",
+      "name": "GAS POINT",
+      "address": "2972, near Shibani Enclave, Dayanandnagar, West Canal Road, Bomikhal, Jharapada, Bhubaneswar",
+      "lat": 20.28559719999999,
+      "lng": 85.86117019999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ023oUACjGToRcABHpsSkk8o",
+      "name": "Nayara Energy -Lakshmi Narayan Filling Station",
+      "address": "5R6X+8QF, Matiapada, Pipili",
+      "lat": 20.1608007,
+      "lng": 85.8494248,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSQYvCPoJGToRip0ywbCiDNk",
+      "name": "IndianOil",
+      "address": "Ground Floor, Saheed Nagar, Bhubaneswar",
+      "lat": 20.2935785,
+      "lng": 85.84267559999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJV8OSDwAJGToROmY84L9hbYE",
+      "name": "Ambresh karad",
+      "address": "7RWF+9RX, Bhubaneswar",
+      "lat": 20.2959847,
+      "lng": 85.8246101,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJT-iRl3egGToRerVssFZ01Lc",
+      "name": "Bharat Petroleum, Petrol Pump -Ray Fuel Point",
+      "address": "Balianta, KHORDHA",
+      "lat": 20.2811965,
+      "lng": 85.90062569999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL-N8fwChGToRtWTFApvXzsk",
+      "name": "Nayara Energy- KN Sahoo Filling Station",
+      "address": "6WV3+WFM, Gotalagram",
+      "lat": 20.2448408,
+      "lng": 85.9036751,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJXbq1RIShGToRBfX7dAlcwMk",
+      "name": "Bharat petrol pump, Andhoti",
+      "address": "6WW9+25, Deandhoti",
+      "lat": 20.2449738,
+      "lng": 85.91802419999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJbyXIJIafGToR8VMd_jC8j7E",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Brahmanasarangi, Balianta, Bentapur",
+      "lat": 20.2476861,
+      "lng": 85.9338502,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCb5JDDmfGToRNgX_hKusA0c",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Primary school, Balabhadrapur",
+      "lat": 20.2307873,
+      "lng": 85.9437564,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYbVQIE6fGToRQCI1QiA5OMs",
+      "name": "Fiiling Station",
+      "address": "5WWR+H8V, Biswanathpur",
+      "lat": 20.1964999,
+      "lng": 85.9407992,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJi-63I06fGToRlyjjluR1lAw",
+      "name": "Indian Oil",
+      "address": "5WWR+JCG, Banamalipur Road, Anjira",
+      "lat": 20.1965727,
+      "lng": 85.9410771,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJt1Vv90YLGToR3bNmvQJIORw",
+      "name": "Lic Premium Point",
+      "address": "Plot No. 1069, East Canal Road, Bomikhal, Rasulgarh, Bhubaneswar",
+      "lat": 20.2895319,
+      "lng": 85.861526,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ5_fg8F8HGToRYRaOQ0NajAI",
+      "name": "GANESWARFILLING STATION",
+      "address": "Malipada",
+      "lat": 20.3005595,
+      "lng": 85.75897429999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJbVj1oVUHGToRfHlIpbWJ2Pw",
+      "name": "IndianOil",
+      "address": "Ground Floor Ghangapatana, Chandaka, Angarpada",
+      "lat": 20.304131,
+      "lng": 85.716044,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJU_B-IHIHGToRSAvXoaaDC7M",
+      "name": "Annapurna Green Fillings Station -NAYARA ENERGY",
+      "address": "Khurdha - Chandaka Rd, Giringaput, Jatni",
+      "lat": 20.297594,
+      "lng": 85.71212039999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlTRviwQJGToRAlGFaryj_S0",
+      "name": "Prabhujee Filling Station",
+      "address": "353/64-65, Jayadev Vihar-Ekamra Kanana Road, Jayadev Vihar, Bhubaneswar",
+      "lat": 20.29836389999999,
+      "lng": 85.8121053,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJu-dwBswJGToRIAZQxINcGoY",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 20.2985222,
+      "lng": 85.8122541,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJUX38ppEHGToRzn5FAosrE58",
+      "name": "HP Petrol Pump",
+      "address": "9Q65+M36, Chandaka",
+      "lat": 20.36167319999999,
+      "lng": 85.7576466,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVZwHTQAJGToRKU6IoEsIn8Y",
+      "name": "Pahal",
+      "address": "7RWF+9RX, Bhubaneswar",
+      "lat": 20.2959847,
+      "lng": 85.8246101,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJOUYY7acIGToR7TWexmO_JNU",
+      "name": "IndianOil",
+      "address": "Ground Floor, B G, P Pur, Chandaka",
+      "lat": 20.3616336,
+      "lng": 85.76740769999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJu0agJVIJGToRW0gCKcwjues",
+      "name": "Suraj Biswal",
+      "address": "near Saileshree, Hig-153, Sailashree Vihar, Bhubaneswar",
+      "lat": 20.3375471,
+      "lng": 85.8113363,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJmRFhwf8IGToRV0sh9Vq1Xco",
+      "name": "Essar Premium",
+      "address": "11, Chandrasekharpur, Bhubaneswar",
+      "lat": 20.339993,
+      "lng": 85.81009999999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJoWd9rKcJGToRCnZ25exwo0w",
+      "name": "Bharat Petroleum CNG Gas station",
+      "address": "8RGC+93W, District Center, Chandrasekharpur, Bhubaneswar",
+      "lat": 20.3259939,
+      "lng": 85.8201922,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOZnczukJGToRf6_2HqnR_ig",
+      "name": "Local Petrol Vendor Petrol Pump",
+      "address": "Сервис көчөсү, Acharya Vihar, Bhubaneswar",
+      "lat": 20.2968084,
+      "lng": 85.8290444,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbfQcYRAKGToRA-bN67qZpd8",
+      "name": "IndianOil",
+      "address": "Lock No 21018 Mancheswar, Rasulgarh, Bhubaneswar",
+      "lat": 20.296764,
+      "lng": 85.85999199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq3UJQxQJGToRw0qfxB4HGmM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Chandrasekharpur, Patia, Bhubaneswar",
+      "lat": 20.3484672,
+      "lng": 85.82479699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZwoLhj8JGToR1Or_RtIl_NA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Patia",
+      "lat": 20.355061,
+      "lng": 85.82784099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLfqW6EcJGToR6YKUPm0SWB8",
+      "name": "IndianOil",
+      "address": "Kalarahang, Kiitps, Chandrasekharpur, Bhubaneswar",
+      "lat": 20.3639045,
+      "lng": 85.829107,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeT-zIO8JGToR_eMHvqKsB2U",
+      "name": "KAR Gas",
+      "address": "7RWM+GM5, National Highway 16, Bhoi Nagar, Bhubaneswar",
+      "lat": 20.2962513,
+      "lng": 85.834246,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJW_i8ep0JGToRKCYUP9okaJg",
+      "name": "Sankar Bahadur",
+      "address": "7RWR+24P, Road, Vani Vihar, Bhubaneswar",
+      "lat": 20.2950842,
+      "lng": 85.8403434,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJn7sXbcsJGToRkp80lWPjdw4",
+      "name": "Exal Life Style Pvt Ltd",
+      "address": "8R3Q+HVM, Utkal Univarsity, Vani Vihar, Bhubaneswar",
+      "lat": 20.3039745,
+      "lng": 85.8396655,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJsc_pUx8LGToRyas2S75kB4w",
+      "name": "Maa Magala Aquarium Shops",
+      "address": "Maa Mangla aquarium Shops, Dalanai bazer Dalanai Bazer, Puri",
+      "lat": 20.2978687,
+      "lng": 85.8522028,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZTMkeSQKGToRROJL8a-Dtyg",
+      "name": "Laxmi Gas Filling",
+      "address": "India",
+      "lat": 20.3120046,
+      "lng": 85.85593039999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJCfBxVjgLGToR3gueH3B62tE",
+      "name": "Bharat Petroleum, Petrol Pump -S K Rahaman & S F Rahaman",
+      "address": "BHUBANESWAR",
+      "lat": 20.29790269999999,
+      "lng": 85.86033189999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJt1ci3xAKGToRWNMU9cCL3Pk",
+      "name": "ଜଗା ବଳିଆ ଚା ପାନ ଦୋକାନ",
+      "address": "7VX6+GGM, Cuttack Road, Sector A, Mancheswar Industrial Estate, Bhubaneswar",
+      "lat": 20.2988271,
+      "lng": 85.8612878,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJJ4kDYj4KGToRlc1SUL12BDM",
+      "name": "Shanaya Gas",
+      "address": "8V57+HXV, Murali Marg, Satya Vihar, Rasulgarh, Bhubaneswar",
+      "lat": 20.3089989,
+      "lng": 85.8649172,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJESjLIrAJGToRApu9MeStnIw",
+      "name": "IndianOil",
+      "address": "Lock No 22009, No A/1, 10/2 Khordha, Nandankanan Road, Bhubaneswar",
+      "lat": 20.3376308,
+      "lng": 85.8217676,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfQ9b9Q4JGToRQjZ0bQiLbO0",
+      "name": "GAIL COCO Chandrashekharpur Filling Station",
+      "address": "8RQC+3MP, Kanan Vihar, Chandrasekharpur, Bhubaneswar",
+      "lat": 20.3377002,
+      "lng": 85.8216923,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg0dsVwoJGToRXOTUS6N1808",
+      "name": "Subrat Petrolium Pvt Ltd",
+      "address": "Subrat Petrolium Pvt Ltd, Koel Campus, Bhubaneswar",
+      "lat": 20.3461925,
+      "lng": 85.8235431,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJG8188tcKGToRk2te2P44sQk",
+      "name": "IndianOil",
+      "address": "Ground Floor, Panchabati Bazar Jagannathpur, Jayarsasan, Balianta, Bhubaneswar",
+      "lat": 20.329908,
+      "lng": 85.921021,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJI_kJaRILGToRc5bx_H18Nno",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Nakhara, Phulnakhara",
+      "lat": 20.3503951,
+      "lng": 85.9008729,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnwsCaqwLGToRySxlp6RXvbs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 5, Pahala",
+      "lat": 20.3343071,
+      "lng": 85.8832733,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBWVRXQALGToRLlavcz0ufME",
+      "name": "Maa narayani gas store",
+      "address": "8VVP+CVJ, Pahala",
+      "lat": 20.343587,
+      "lng": 85.8871396,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJHwdAzqYLGToRoYn8HYa9rrM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Phulnakhara",
+      "lat": 20.3475301,
+      "lng": 85.88659,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvVqPfAALGToRWfSdqC9cGag",
+      "name": "Biswaswar fuling station",
+      "address": "9V3Q+PVC, Bhubaneswar",
+      "lat": 20.3543071,
+      "lng": 85.88964879999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJPR9FVXULGToRwGWROvwc1qE",
+      "name": "IndianOil",
+      "address": "Ground Floor, Infront of Harley Davidson Showroom, National Highway 16, Balianta, Pahala",
+      "lat": 20.354823,
+      "lng": 85.889411,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1UNAAYELGToR1l9jtvIP3w4",
+      "name": "Fule Pump",
+      "address": "9V6Q+RR4, Nakhara 25, Cuttack",
+      "lat": 20.3620186,
+      "lng": 85.889568,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJMVhAreafGToRQy93ejfnhn4",
+      "name": "SUNDER FILLING STATION",
+      "address": "Niali, Madab Road, Sundargram",
+      "lat": 20.2754459,
+      "lng": 85.9620949,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcTsVXqefGToRDVidVQCEvPM",
+      "name": "IndianOil",
+      "address": "Plot No 946/1699, Sundargarm, Kantapada",
+      "lat": 20.275132,
+      "lng": 85.9632165,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe5ZxfYifGToRtQAafeIekT4",
+      "name": "MUDULI Communication",
+      "address": "Sundargram",
+      "lat": 20.2736993,
+      "lng": 85.964349,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ76GhnoF1GToRiazCDDDfYKM",
+      "name": "purnaprativa filling station",
+      "address": "AT, PO, SADAR, Harianta",
+      "lat": 20.3180725,
+      "lng": 85.9669842,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJgd5QDhkJGToRwvKekmRCUwk",
+      "name": "HP GAS REFILLING CENTRE",
+      "address": "8RX7+CW4, Chandaka Industrial Estate, K I I T University, Patia, Bhubaneswar",
+      "lat": 20.3485005,
+      "lng": 85.8148386,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJK5v4JQAFGToRC72p2I9My3A",
+      "name": "Sai Suprava filling Station",
+      "address": "CQG7+57, Chakradharpur",
+      "lat": 20.4254375,
+      "lng": 85.7631875,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJyYl-bX4FGToR9oLRvUSWHhc",
+      "name": "Sri Sai Csk",
+      "address": "CPCH+G5P, Bhagipur",
+      "lat": 20.4213444,
+      "lng": 85.72796149999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJcX8b19IFGToRqCGmo0qKF-w",
+      "name": "IndianOil",
+      "address": "Ground Floor Bhagipur, Banki, Dampada, Banara",
+      "lat": 20.421795,
+      "lng": 85.727784,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUUG9MAAPGToRxdI9nOrWFmw",
+      "name": "Indian Oil Shrishti Sai Filling Center",
+      "address": "CQM9+4HR, Chakradharpur",
+      "lat": 20.4328715,
+      "lng": 85.7688907,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJRx7Nm_QPGToRfEEYrZVG9Wk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Infront of Andhra Bank, Nandankanan Road, Raghunathpur, Bhubaneswar",
+      "lat": 20.3905483,
+      "lng": 85.8243533,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDUEqgxgPGToRCivdISPCp28",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "MDR No 77, Banki - Cuttack Road, Chakradharpur",
+      "lat": 20.4347913,
+      "lng": 85.76981980000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwYMKUwAPGToRpXd1sUF6Tj4",
+      "name": "Indian oil petrol pump",
+      "address": "CQPC+8FG, Banki - Cuttack Road, Chakradharpur",
+      "lat": 20.4352127,
+      "lng": 85.77045509999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJFeq96EcJGToRWQaOgP0uHDI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Nandankanan Road, Raghunathpur, Cuttack",
+      "lat": 20.3768749,
+      "lng": 85.82956659999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0abvIwAFGToRaSOzJxr_PrE",
+      "name": "Bhagipur sabar sahi banki road Cuttack",
+      "address": "CPCJ+M3, Bhagipur",
+      "lat": 20.421632,
+      "lng": 85.730135,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJLxJyYFsMGToRAQQrRoaHFag",
+      "name": "Petrol CNG Twin City Filling Station",
+      "address": "NH-16, Bhanapur Road",
+      "lat": 20.4076265,
+      "lng": 85.8805699,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpRKhd4ILGToRyb_ErbFkYAg",
+      "name": "Jio-bp",
+      "address": "VILLAGE NUAHAT, PS CUTTACK SADAR, Rudrapur",
+      "lat": 20.3700202,
+      "lng": 85.8895198,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJD4yrWhILGToRXo_zcAymL8Q",
+      "name": "nayara petrol pump",
+      "address": "9VGQ+CMJ, Phulnakhara",
+      "lat": 20.3760798,
+      "lng": 85.8891289,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ75COR3wLGToRzrwxCjvSt3M",
+      "name": "Nayara Petrol pump- Sakambari FS",
+      "address": "AH45",
+      "lat": 20.3762508,
+      "lng": 85.8894478,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0VhI2f8LGToRTzOCNvpE1Ys",
+      "name": "Jio-bp pulse",
+      "address": "near Grand Bazar, Plot No 953, Nuahata, Bamphakuda",
+      "lat": 20.3770148,
+      "lng": 85.8893793,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy_BueTgPGToRcjP9vDTIbcM",
+      "name": "Suman filling station",
+      "address": "CRMJ+2H2, Trisulia",
+      "lat": 20.4325118,
+      "lng": 85.8313809,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJP5eKEWUOGToRT_QeaO3Rm20",
+      "name": "IndianOil",
+      "address": "Lock No 13010 Madhupur, Belgachia, Chauliaganj Near, Trisulia",
+      "lat": 20.4344002,
+      "lng": 85.8367449,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJU5LrVE0MGToROemF3FuXv_U",
+      "name": "IndianOil",
+      "address": "National Highway 16, Urali",
+      "lat": 20.4251983,
+      "lng": 85.87913739999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNb8OEKoNGToRHKW5VYr47PU",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bajrakabari Road, Srikoruan, Urali",
+      "lat": 20.43119,
+      "lng": 85.8902367,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSyPjCgANGToR9cWO5fDiKZA",
+      "name": "Baibhaba Filling Station",
+      "address": "CV2V+39, Urali",
+      "lat": 20.4009384,
+      "lng": 85.8918727,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9RJm6Ux1GToRISbIs3SjkEA",
+      "name": "SANKHATRAS PETROL PUMP",
+      "address": "9WGR+32C, Canal Road, Sankhatras",
+      "lat": 20.3751968,
+      "lng": 85.94001399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPYuwnjZ1GToRqN0gNCiGgDo",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sankhatras, Arada, Bhanpur",
+      "lat": 20.371708,
+      "lng": 85.944328,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ59qLDFIMGToR7Qf3DH-UZac",
+      "name": "IndianOil",
+      "address": "Ground Floor NH 5, Paikasahi Gopalpur, Chhatra Bazar, Cuttack",
+      "lat": 20.420805,
+      "lng": 85.879494,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy3AvTiUNGToRbZOpO73YMfc",
+      "name": "IndianOil",
+      "address": "No 42, Berhampur, Bentakar, Cuttack",
+      "lat": 20.41990329999999,
+      "lng": 85.9185583,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeepyMQANGToRSv9tB8dsHhc",
+      "name": "Cuttack",
+      "address": "Balikuda traffic chhak, Commercial Street, near Indian oil petrol pump site, National Highway 16, Gopalpur",
+      "lat": 20.4253283,
+      "lng": 85.8791617,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJm5RQD1FzGToRxuv6PXmTrCI",
+      "name": "Bharat Petroleum, Petrol Pump -Shri Narayan Filling Station",
+      "address": "JARASINGHA, ANGUL",
+      "lat": 20.3992319,
+      "lng": 85.953665,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEbmLEa8NGToR-6SuOv0nvBo",
+      "name": "IndianOil",
+      "address": "1038/1080, National Highway 16, Urali",
+      "lat": 20.43546749999999,
+      "lng": 85.88242149999999,
+      "open_now": true
+    }
+  ]
+}

@@ -1,0 +1,755 @@
+{
+  "city": "Thanjavur",
+  "state": "Tamil Nadu",
+  "count": 93,
+  "center": {
+    "lat": 10.7667,
+    "lng": 79.1333
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJdQIwa-m-qjsR1Sb-vR3BSMk",
+      "name": "IndianOil",
+      "address": "Lock No 627, Trichy Main Road, Vallam",
+      "lat": 10.7268189,
+      "lng": 79.0829991,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIZStPzq-qjsRL_F3tHdD8J8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 189, 17 & 190/1, Vallam",
+      "lat": 10.7278904,
+      "lng": 79.035001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJI-sGC9S-qjsRuRaRRvgdxaQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Melavasthachavady SIDCO Indutrial Estate, Trichy Main Road, Thanjavur",
+      "lat": 10.7377122,
+      "lng": 79.1053929,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC33IezC_qjsRBZOwWwA-ZMY",
+      "name": "HP PETROL PUMP - BR AGENCIES",
+      "address": "Medical College Road, Rahman Nagar, Thanjavur",
+      "lat": 10.7562818,
+      "lng": 79.09892599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ87iQdq29qjsRLkA5AddNE8s",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 36, Thirukanurpatti",
+      "lat": 10.688281,
+      "lng": 79.07344599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-61pxDG8qjsRvm53ThVcx9E",
+      "name": "IndianOil",
+      "address": "Lock No 11012, 221/2, Thirukkanoorpattis, Pudukkottai - Tanjore Road, Kurungulam",
+      "lat": 10.685361,
+      "lng": 79.072121,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGShP2AO8qjsRDV3-binD-qQ",
+      "name": "Bharat petroleum (Amman Enterprise) Thirukanur Patti 4 Road",
+      "address": "4 road Thirukkanur patti, Thirukkanur Patti, Thanjavur",
+      "lat": 10.7055116,
+      "lng": 79.0851821,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrbhead2_qjsRxNnBxc8RO7k",
+      "name": "Abinaya agency NAYARA PETROL BUNK",
+      "address": "17,18,19 thiruvalluvar nagar, Vallam",
+      "lat": 10.7197909,
+      "lng": 79.0705705,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJw9-rDOS-qjsRI_ujmY_dwUg",
+      "name": "IndianOil",
+      "address": "No 155/B3, Chennampatti Main Road, Pillayarpatty, Vallam",
+      "lat": 10.736284,
+      "lng": 79.08013199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJucXGdgy9qjsRQ85qS-hx_-c",
+      "name": "IndianOil",
+      "address": "Ground Floor, Pudukkottai - Tanjore Road, Ponakulam",
+      "lat": 10.6463326,
+      "lng": 79.0456397,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS2BjcXmVqjsRPjjMWKjc6aY",
+      "name": "IndianOil",
+      "address": "S No 126/2, Opposite Sastra University, Thirumalaisamudram",
+      "lat": 10.7309386,
+      "lng": 79.01860529999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhbGkX0u_qjsRCxcomTgAe6Q",
+      "name": "MPVR PETROLEUM",
+      "address": "near Tidel park, Melavasthachavadi, Thanjavur",
+      "lat": 10.7377161,
+      "lng": 79.10539399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1dR4px25qjsRafwjgBIPlM0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "173 Nagapattinam Bye Pass, NH 67, Nanjikottai, Thanjavur",
+      "lat": 10.7382056,
+      "lng": 79.1192138,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGfdBxQC_qjsRzCdY1_k5WCk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Medical College Road, Rahman Nagar, Thanjavur",
+      "lat": 10.7567354,
+      "lng": 79.0989851,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq6qqari7qjsRlNwxYq2nQ0U",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Vallam - Orathanadu Main Road, Marungulam",
+      "lat": 10.678421,
+      "lng": 79.1318695,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5wD4ALe5qjsRsJDo1ixxyXs",
+      "name": "NAYARA ENERGY-Abirami fuels",
+      "address": "Sekaran Nagar, Natarajan Nagar, Annai Sathya Nagar, Thanjavur",
+      "lat": 10.7463089,
+      "lng": 79.1151197,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCYImn06_qjsRqonPth3SyT0",
+      "name": "NAYARA PETROL BUNK.SAHANA AGENCIES",
+      "address": "#3, Medical College Road, Rahman Nagar, Thanjavur",
+      "lat": 10.7581244,
+      "lng": 79.1005352,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcU-3dRy9qjsRiAu_E5UP5zo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 31, 6/A/2, Gandarvakkottai, Pudunagar",
+      "lat": 10.6294584,
+      "lng": 79.0378929,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIT4KOMW4qjsRmIBshc5CV9Q",
+      "name": "Bharat Petrol Pump",
+      "address": "Q43C+WPM, Pudukkottai Road, Kavery Nagar, Natchathira Nagar, Thanjavur",
+      "lat": 10.7548427,
+      "lng": 79.12181249999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJE1pQDse4qjsRqSCgy19pbQM",
+      "name": "COVAI LPG - AUTO GAS - THANJAVUR",
+      "address": "OLD HOUSING UNIT BUS STOP, NEW BUS STAND ROAD, Thanjavur",
+      "lat": 10.764043,
+      "lng": 79.12437,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGfUQubC7qjsR3uy0sE1FOTo",
+      "name": "IndianOil",
+      "address": "SF No 12, 1A, Orathanadu Road, Marungulam",
+      "lat": 10.6710725,
+      "lng": 79.1448338,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYR5r0925qjsRXryYayI1dWc",
+      "name": "IndianOil",
+      "address": "Ground Floor Karambakudi, Mdr, Nanjikottai, Thanjavur",
+      "lat": 10.7343384,
+      "lng": 79.137824,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6Va_LAC5qjsR7CekHvU8rEs",
+      "name": "Jio-bp",
+      "address": "Survey No 202, 6C3 & 182/6A2, National Highway 83, Nanjikottai, Thanjavur",
+      "lat": 10.740659,
+      "lng": 79.12767699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKVTE69O4qjsR8xUsr-1n2Fk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "opposite New Bus Stand, RS No 270/2, Neelagiri",
+      "lat": 10.7500528,
+      "lng": 79.1142227,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-T-fFvm5qjsRzNRD1zajimA",
+      "name": "Bharat Petroleum, Petrol Pump -D. Balasubramaniam (New)",
+      "address": "MC ROAD, THANJAVUR, Thanjavur",
+      "lat": 10.7547424,
+      "lng": 79.1218626,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlVVJt8q5qjsRg5KD9Wj6EM8",
+      "name": "Bharat Petroleum, Petrol Pump -Serajpur Auto Gas Centre",
+      "address": "NO 1 SERAJPUR, NK Road, Thanjavur",
+      "lat": 10.7558323,
+      "lng": 79.1399978,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP898C225qjsRrG0HfUtrcgs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "SF No 283/1A5, VP Garden, AVP Azhagammal Nagar, Thanjavur",
+      "lat": 10.7573882,
+      "lng": 79.11855729999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXSpxcVi4qjsRcnil4_wxxMI",
+      "name": "IndianOil",
+      "address": "S No 204/4, Vilar Tanjore, Bypass, Regunathapuram",
+      "lat": 10.757634,
+      "lng": 79.15515719999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2TVKQ8a4qjsR5f5-10ijsqg",
+      "name": "Reliance Petrol Pump",
+      "address": "Nirmala nagar RESIDENTIAL AREA, Thanjavur",
+      "lat": 10.7620628,
+      "lng": 79.12307450000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs4RV9ky5qjsREe9RqBn3L3M",
+      "name": "SANTHI FUELS BPCL petrol pump",
+      "address": "1st street, Villar Road, kalaignar nagar, Thanjavur",
+      "lat": 10.7620854,
+      "lng": 79.147869,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhRDwtZq5qjsRAi_D3evCZeY",
+      "name": "IndianOil",
+      "address": "Lock, 11035, NK Road, Ganapathi Nagar, Thanjavur",
+      "lat": 10.7667017,
+      "lng": 79.14019110000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe14XAL25qjsR0QemDRV4Z0I",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NK Road, Thanjavur",
+      "lat": 10.766884,
+      "lng": 79.140743,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHR0WIO2wqjsR6mx14x9w7_U",
+      "name": "BEST FUELS-HP Petrol Bunk",
+      "address": "M6FF+F6J, Thanjavur - Karaikudi - Kalaiyarkoil - Sayalkudi Road, Ulur West",
+      "lat": 10.6737138,
+      "lng": 79.223028,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ45bT3Ue4qjsRQqJrZcTarM0",
+      "name": "IndianOil",
+      "address": "Lock No 13027, No, near Yagappa Chavadi, 555/1C2, Thanjavur - Pattukkottai Road, Azhiavaikal, Keelavastasvadi, Thanjavur",
+      "lat": 10.7113727,
+      "lng": 79.2075642,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJD7rBTbK3qjsRXBkA-j4kbWs",
+      "name": "BEST FUELS HPCL DEALER, MELA ULUR, THANJAVUR TO PATTUKOTTAI ROAD",
+      "address": "MELA ULUR THANJAVUR, TO, Thanjavur - Pattukkottai Road, Orathanadu",
+      "lat": 10.711743,
+      "lng": 79.20719179999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJO8HZeeexqjsR1KvBYr-lEy4",
+      "name": "Bharat Petroleum Petrol Pump , S.V.AGENCIES",
+      "address": "NO 137/7 &137/3B, TO, Thanjavur - Pattukkottai Road, Mela Ulur",
+      "lat": 10.685953,
+      "lng": 79.2187,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwx9AFPuxqjsR4cz3i7DWkr8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 94A/2B2, 3B/15, Thanjavur - Pattukkottai Road, Mela Ulur",
+      "lat": 10.6777834,
+      "lng": 79.2213179,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZRSkUjy3qjsRo6B1tlf3y10",
+      "name": "IndianOil",
+      "address": "Survey No 38/12B2, Vandayarriruppu",
+      "lat": 10.7222703,
+      "lng": 79.2304736,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSzHG-CW5qjsRuczj5orrPi8",
+      "name": "Bharat Petroleum - SIVAPREETHA FUELS",
+      "address": "P5QR+8VV, Paruthikottai",
+      "lat": 10.7391235,
+      "lng": 79.1926472,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJoQR_c7i5qjsRxBCZgZc2saE",
+      "name": "Bharat Petroleum",
+      "address": "P5VW+XVF, Thanjavur - Kodiakkarai Road, Thanjavur",
+      "lat": 10.7449416,
+      "lng": 79.19717279999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoetrGDG3qjsRgO_Kde64qnY",
+      "name": "Wahab Brothers",
+      "address": "SF No 270/9B1, Sadaiyarkovil, Raghavambalpuram",
+      "lat": 10.7152673,
+      "lng": 79.25442129999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYd0WTrG4qjsR0VmWS4PXh4s",
+      "name": "Bharat Petrol Pump பாரத் எரிபொருள் நிலையம்",
+      "address": "Q4C8+MFF, Medical College Road, Prabha Nagar Extension, Sundram Nagar, Thanjavur",
+      "lat": 10.7716874,
+      "lng": 79.11617679999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ-3ITf5q_qjsRFjJG7YFQ-b4",
+      "name": "IndianOil",
+      "address": "RS No 180/4, Alakkudi, Kallaperambur",
+      "lat": 10.771782,
+      "lng": 79.05330699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgXp_ORfBqjsReV_egRjOZMs",
+      "name": "Sekar Agencies",
+      "address": "No.8, karambai, Vannarapettai",
+      "lat": 10.7898982,
+      "lng": 79.0869408,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfy2ESgC_qjsR3Ry4iMQvxis",
+      "name": "HP Petrol Bunk - JBS Agencies",
+      "address": "4A, Reddipalayam Road, Natarajapuram North, Gandhipuram, Thanjavur",
+      "lat": 10.7710897,
+      "lng": 79.1069967,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJK3NnFwDBqjsRebCmIal7olQ",
+      "name": "Bharat petroleum, petrol pump -SKM Agency",
+      "address": "new bypass peacock road, new -sa, Sakarasamatham, Ramanathapuram Chief",
+      "lat": 10.8034545,
+      "lng": 79.0967943,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJ3Dg6XW5qjsR-D7rEd2u_Uk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "SF No 374, 10, Medical College Road, Thanjavur",
+      "lat": 10.7741597,
+      "lng": 79.121033,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC5CQ_Lq4qjsRo-KOpIXGkbM",
+      "name": "IndianOil",
+      "address": "No 1 & 2, Lock No 11013, Medical College Rd, Jayalakshmi Nagar, TPS, Ganapathi, Thanjavur",
+      "lat": 10.7749255,
+      "lng": 79.12368029999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhZUxDpy4qjsRx483g9aLHWI",
+      "name": "IndianOil",
+      "address": "Lock No 588 & 12006, Rtd 186, Thanjavur - Kumbakonam Main Road, North Gate, Thanjavur",
+      "lat": 10.7837122,
+      "lng": 79.1388955,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqdYmTp24qjsR-BlhJk3Nff0",
+      "name": "Bharat Petroleum, Petrol Pump -Bharat Agency",
+      "address": "near indian bank, THANJAVUR TOWN PERIPHE, near indian bank, Kollupettai Street, Keelavasal, Thanjavur",
+      "lat": 10.7879368,
+      "lng": 79.1435309,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7cMf23y4qjsRoA7uczj0g3g",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No1, Nagapattinam Road, Jothi Nagar, Thanjavur",
+      "lat": 10.7790115,
+      "lng": 79.1583021,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJiyad4mXHqjsRkKthUP8TpA8",
+      "name": "IndianOil",
+      "address": "Lock No 12007, Rtd 184, Thanjavur - Kumbakonam Main Road, North Gate, Thanjavur",
+      "lat": 10.7990209,
+      "lng": 79.137835,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2w7f0JC4qjsRD7Nj4YP8BKY",
+      "name": "IndianOil",
+      "address": "Lock No 603, RTD 182, Trichy Road, VOC Nagar, Thanjavur",
+      "lat": 10.775103,
+      "lng": 79.138391,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-2eFZJC4qjsRczBsF1RDcoc",
+      "name": "Low Bridge",
+      "address": "Lower Bridge, Graham Nagar, Shivaji Nagar, Thanjavur",
+      "lat": 10.7774979,
+      "lng": 79.14127959999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJgShMdpC4qjsRPKsDeMRVuIw",
+      "name": "IndianOil",
+      "address": "No 2889, Lock, 11014, Srinivasam Pillai Road, North Gate, Thanjavur",
+      "lat": 10.7773601,
+      "lng": 79.1418801,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdcua95u4qjsR17o1dZaJtU8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "33, Court Road, Thanjavur",
+      "lat": 10.7829283,
+      "lng": 79.1385907,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWwuGMeO5qjsRAnqoCGUtYH4",
+      "name": "Bharat Petroleum, Petrol Pump -Sri Srinivasa Service",
+      "address": "Q5H3+9PH, RING ROAD JN, TANJORE, State Highway, 99A, Evergreen Nagar, Thanjavur",
+      "lat": 10.77812,
+      "lng": 79.154426,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7-gQaizHqjsRSqP7i6-ywN4",
+      "name": "IndianOil",
+      "address": "Ward No 4, Block 3, Sy No 67/1 68 & 69/2, Cooperative Bldg, Theru, Thanjavur",
+      "lat": 10.7950811,
+      "lng": 79.13280220000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVY7fwfnDqjsRnefFXKW2BU0",
+      "name": "GKM Fuels",
+      "address": "Ground Floor, Thiruvaiyaru, Ichangudi, Ariyalurma, Ayyanar, Kovil Street, Thanjavur",
+      "lat": 10.7934582,
+      "lng": 79.1470575,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJd5CxhmbHqjsR1OeHfthWFTI",
+      "name": "Bharat Petroleum - Tanjore Filling Station",
+      "address": "India",
+      "lat": 10.7966391,
+      "lng": 79.1374402,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGwTiLWTHqjsR_3_A6eotx0k",
+      "name": "TCMF LTD.,",
+      "address": "India",
+      "lat": 10.7966381,
+      "lng": 79.1385607,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJWzxW8idZVToRrQ0dDkPksEI",
+      "name": "IndianOil",
+      "address": "Lock No 21016, 14, Cutchery Road, Arisikara Street, Thanjavur",
+      "lat": 10.7806319,
+      "lng": 79.1702224,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAxVy-STHqjsRkt8H-zQ7FNQ",
+      "name": "Bharat Petroleum - SRI FUELS",
+      "address": "Q5W6+FFX, Thanjavur",
+      "lat": 10.7962308,
+      "lng": 79.161237,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ0i8ZGzHqjsRlDv8hO2-SXc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Gandhiji Road, Karanthai, Thanjavur",
+      "lat": 10.807701,
+      "lng": 79.138701,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJn9l-9sjHqjsRGICs7WuhFTo",
+      "name": "IndianOil",
+      "address": "opposite Kodiyamman, S No 3077/1, Rajaveedhi, Tanjore, Vayalur, Karanthai, Kalimedu, opposite Kodiyamman, Selliamman Kovil Street, Thanjavur",
+      "lat": 10.8111784,
+      "lng": 79.1391663,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJd5cQW0vHqjsRn9LCMo5Bq8c",
+      "name": "IndianOil",
+      "address": "Ward No 1, Block No 56, TS No 2010, 2030 & 2031, Palliagraharam, Thanjavur",
+      "lat": 10.8250658,
+      "lng": 79.1414348,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoVRfpBq3qjsR6zBdxLrXj8I",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 31/1 to 31/3 Papanasam, Raramuthirakkottai",
+      "lat": 10.7831746,
+      "lng": 79.2022877,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUcE_xPq3qjsRW881RbtwNWY",
+      "name": "JSV Fuels",
+      "address": "Alangudi Bit",
+      "lat": 10.7818694,
+      "lng": 79.21031169999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJ6AsMAC3qjsRa700ksXmJT0",
+      "name": "BPCL PETROL PUMP Muthu Agencies",
+      "address": "Q7H7+X2, Poondi I",
+      "lat": 10.7808181,
+      "lng": 79.2625497,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJF71a3bzBqjsRFSzKltBtvBM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gr Floor, Thirukattupalli, Road Thiruppanthuruthi, Kandiyur",
+      "lat": 10.8599864,
+      "lng": 79.0744187,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSeux6nHBqjsR7L330yV2UB0",
+      "name": "HP PETROL BUNK - VV & SONS AGENCIES",
+      "address": "HP Petrol Bunk, Road, Thirukkattupalli",
+      "lat": 10.8602182,
+      "lng": 79.0858135,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjVxoCdrDqjsRtnX62xsRa-w",
+      "name": "Bharat Petroleum Petrol Pump , SAGAYAMADHA PETROLEUM",
+      "address": "PERUMPULIYURTHILLAISTANAM",
+      "lat": 10.8768594,
+      "lng": 79.08987809999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDRvG5bTGqjsRAsc0-PYjk_A",
+      "name": "IndianOil",
+      "address": "Ground, Brahmasira Kandeeswarar Kovil, Thiruvaiyaru",
+      "lat": 10.8576916,
+      "lng": 79.1115825,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJV1_o3gnHqjsRzFu0gXPoXmc",
+      "name": "IndianOil",
+      "address": "Ground Floor, Thiruvaiyaru - Thanjavur Road, Kandiyur",
+      "lat": 10.8540142,
+      "lng": 79.1146065,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkQ3U8vPBqjsRVHjZifusIK0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "SF No 17, 2 Mukasa, Thiruvaiyaru, Kalyanapuram",
+      "lat": 10.8748526,
+      "lng": 79.10447169999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDYUY3FXBqjsRrsy2Jr0qh2U",
+      "name": "Arasabakaran Petrol Bunk",
+      "address": "V4F3+XQ8",
+      "lat": 10.8749056,
+      "lng": 79.1044539,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKzpT-f7DqjsR3_JGXHnqdrQ",
+      "name": "Bharatgas",
+      "address": "India",
+      "lat": 10.8795761,
+      "lng": 79.1065104,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJA5ovUofpqjsRxRs--GhBObk",
+      "name": "sathanur /maharajapuram",
+      "address": "Sathanur",
+      "lat": 10.8767603,
+      "lng": 79.0156789,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJz8ojOf_DqjsRVn-RtM4NNGU",
+      "name": "Shruthi Petrol Bunk",
+      "address": "State Highway 22, Thiruvaiyaru",
+      "lat": 10.8811811,
+      "lng": 79.10805789999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJPxSFD_7pqjsRgDf01IlFCng",
+      "name": "Nayara Energy",
+      "address": "State Highway 22, Maharajapuram",
+      "lat": 10.8764268,
+      "lng": 79.0094393,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwSYWDO3tqjsRSO-fPuySwGQ",
+      "name": "IndianOil",
+      "address": "S No 194/1D & 193/1, Maharajapuram",
+      "lat": 10.8758432,
+      "lng": 79.00769629999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcTZtPmrCqjsRQ4fbJxJK7FE",
+      "name": "Suseela Agencies",
+      "address": "Kandiratheertham",
+      "lat": 10.9009223,
+      "lng": 79.03998899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJv6psnRTDqjsRjJz4F2yoIdc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, North Street, Thirumazhapadi",
+      "lat": 10.901021,
+      "lng": 79.03989419999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRQGGWJzpqjsRCX8Ty1tu2-o",
+      "name": "Valli Fuels",
+      "address": "main road, Maharajapuram",
+      "lat": 10.8741756,
+      "lng": 79.0030269,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJz4tLdOfFqjsRa_1O3lKmlX8",
+      "name": "Bharat Petroleum",
+      "address": "National Highway 45C, Pasupathikoil",
+      "lat": 10.8873097,
+      "lng": 79.1786499,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUzBcU3LHqjsRoAorACDbZko",
+      "name": "Nayara Petrol Bunk",
+      "address": "Vayaloor, Narasanayagipuram",
+      "lat": 10.8390706,
+      "lng": 79.14848959999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_wN2sUvGqjsRVc3jxEZsh0M",
+      "name": "Sridevi fuels Bharat Petroleum",
+      "address": "Thittai",
+      "lat": 10.838032,
+      "lng": 79.174188,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvU0huRXFqjsRumi2QppGNVU",
+      "name": "NAYARA PETROL BUNK",
+      "address": "Thirupazhanam",
+      "lat": 10.887352,
+      "lng": 79.12685379999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6Z8r_e_FqjsRPCyxC_oSwps",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 5, Railway Station Road, Ayyampettai",
+      "lat": 10.891205,
+      "lng": 79.1885521,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJj3pXL_DFqjsRjyd9ZO1b48c",
+      "name": "Nissia Bharat Gas Agencies",
+      "address": "1, Venkatraman Nagar, Ayyampettai",
+      "lat": 10.8955743,
+      "lng": 79.1921876,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0y2lMczJqjsRzfZ0x59GAfA",
+      "name": "Bharat Petroleum Petrol Pump , SIVA AGENCIES",
+      "address": "789 MAIN ROAD,SALIAMANGALAM, VIA, Thanjavur",
+      "lat": 10.824376,
+      "lng": 79.26993499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJN81t42nJqjsRToTEgFSZxhY",
+      "name": "Bharat Petroleum",
+      "address": "R7C9+4WP, Irumbuthalai",
+      "lat": 10.8203497,
+      "lng": 79.2698295,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJD5ACYfXFqjsReZKQ9sFH54M",
+      "name": "Bharat Petroleum Thiyagu Quality Fuels & NAB",
+      "address": "W53R+99X, Ganapathiagaraham road, Ayyampettai",
+      "lat": 10.9036713,
+      "lng": 79.1912301,
+      "open_now": null
+    }
+  ]
+}

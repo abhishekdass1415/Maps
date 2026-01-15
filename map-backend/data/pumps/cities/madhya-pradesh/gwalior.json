@@ -1,0 +1,1603 @@
+{
+  "city": "Gwalior",
+  "state": "Madhya Pradesh",
+  "count": 199,
+  "center": {
+    "lat": 26.2183,
+    "lng": 78.1828
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJf5ZevYzPdjkRFoN3hxbcpEc",
+      "name": "Reliance Petroleum",
+      "address": "Ground Floor, Ki, Bawadi, Bela",
+      "lat": 26.13780019999999,
+      "lng": 78.1050058,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJiQ4eOdvPdjkR1epKoDoF144",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Agra - Mumbai Highway, Gwalior",
+      "lat": 26.12197119999999,
+      "lng": 78.08069119999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtZ-zOV_EdjkRRgVZ5HauS84",
+      "name": "Maa Pitambra Trading Company",
+      "address": "Vicky factory tiraha, Saroj fuel Petrol pump",
+      "lat": 26.1749104,
+      "lng": 78.144994,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGTwVGEC4djkRgPr5VSNJGJQ",
+      "name": "NAYARA PETROL PUMP",
+      "address": "54RP+3Q2, Baraua Nurabad",
+      "lat": 26.1901434,
+      "lng": 78.1368956,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJn1WHVtjFdjkR458bgwMKgKw",
+      "name": "IndianOil",
+      "address": "Shop No 493/1, 493/2, Kedarpur",
+      "lat": 26.165118,
+      "lng": 78.16874299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTcoLiMzFdjkRsGquDJREy6w",
+      "name": "Bharat Petroleum Fuel Station",
+      "address": "55V3+GFJ, Kampoo Road, City Center, Lashkar, Gwalior",
+      "lat": 26.1938342,
+      "lng": 78.1536373,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJVnWYNfFdjkROr4fLvyzIO4",
+      "name": "Nayara Petrol Pump",
+      "address": "108, Nai Sadak, Sathe Ki Goth, Bakshi Ki Goth, Gwalior",
+      "lat": 26.2056151,
+      "lng": 78.1456594,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJU3TcQjnEdjkRcpeEtgOzJN4",
+      "name": "Jai Bharat Petroleum Fuel Station",
+      "address": "No. 2nd Floor, Om Complex, near Bank Of Baroda, Jhansi Road, Shriram Colony, Maharana Pratap Nagar, Lashkar, Gwalior",
+      "lat": 26.193735,
+      "lng": 78.1724708,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJASEhrunPdjkRALcGZy4D5S8",
+      "name": "Bharat Petrol Pump",
+      "address": "44W6+J33, Gwalior",
+      "lat": 26.1465248,
+      "lng": 78.11017420000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKetKOwDFdjkRINC1FiiwMBk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near Gwalior, Ground Floor NH 44, Neem chandoha, Shivpuri Link Road, near Gwalior, Jhansi Highway, Gwalior",
+      "lat": 26.140903,
+      "lng": 78.12312299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJE1kK67jPdjkReWxwR0oAUP8",
+      "name": "IndianOil",
+      "address": "S No 113 Min 1, 1/2 & 13, Min 1/1, Bela",
+      "lat": 26.1374409,
+      "lng": 78.1032792,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJv_Z_-uPFdjkRypXoaMdrLp8",
+      "name": "IndianOil",
+      "address": "S No 166, 1165158/1, Neem Chandouha, Ajaypur",
+      "lat": 26.141473,
+      "lng": 78.126873,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJn9xghmDPdjkRgycjzBIUtUQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Agra - Mumbai Highway, Girvai, Gwalior",
+      "lat": 26.17248099999999,
+      "lng": 78.108083,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgwxOBtLFdjkRdEJg5DsyMg4",
+      "name": "IndianOil",
+      "address": "Ground Floor, Infront Mudgal Krishi Farms, Old, Agra - Mumbai Highway, Girwai, Ajaypur",
+      "lat": 26.1749373,
+      "lng": 78.1090157,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2_bUpa7FdjkRzC9vcbc3e_Q",
+      "name": "NRA Petrol Pump",
+      "address": "449G+9X, Naugaon",
+      "lat": 26.118425,
+      "lng": 78.127416,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBc4s-JLFdjkRHKVYGliAJgM",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Aganbadi Kendra, Ajaypur Road, Veerpur, Gwalior",
+      "lat": 26.1818946,
+      "lng": 78.1243224,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTcWjFnLFdjkRXURwbkRtR60",
+      "name": "Petrol pump",
+      "address": "54JG+VRH, Sikandar Kampoo Road, Sikandar Kampoo, Gwalior",
+      "lat": 26.1821877,
+      "lng": 78.1271026,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJsWXK1InFdjkR-aTCUK8q-1I",
+      "name": "Kushwah ji ka Petrol pump",
+      "address": "Sikandar Kampoo, Gwalior",
+      "lat": 26.18181599999999,
+      "lng": 78.1329782,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ-ZX9mpXFdjkRBvuFfK_4RZ4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Saikandar Kampoo Road, Ke Pass, IMLI Naka, Gwalior",
+      "lat": 26.1819505,
+      "lng": 78.1327678,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgUTBQNvPdjkRxjD1L2SKoVM",
+      "name": "HP",
+      "address": "India",
+      "lat": 26.1216504,
+      "lng": 78.0809132,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJb4PVZ67FdjkRsrI2OV0cf2g",
+      "name": "IndianOil",
+      "address": "Ground Floor Gudi, Darpan Colony, Gwalior",
+      "lat": 26.1729311,
+      "lng": 78.1495125,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJge_W6cvadjkRVb5sGZ3odSQ",
+      "name": "Indian Oil",
+      "address": "India",
+      "lat": 26.1114358,
+      "lng": 78.1378758,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJkaW6EabbdjkRzHtUqrpdgjU",
+      "name": "M.S. balaji energy station",
+      "address": "NH 46, Gwalior South Bypass, Gram santau, Gwalior",
+      "lat": 26.1110248,
+      "lng": 78.1373461,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJjaOODADFdjkRwtNPQI-ex6o",
+      "name": "Bharat petroleum",
+      "address": "AH 47, Main Road, Agra - Mumbai Highway, Girwai, Gwalior",
+      "lat": 26.1910845,
+      "lng": 78.1250396,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ45459Z7FdjkRqtNFUNeZu_Y",
+      "name": "IndianOil",
+      "address": "S No 592593, Gudha, Achalpura",
+      "lat": 26.1811574,
+      "lng": 78.1464682,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJA4Mfo53FdjkRlXg6hrC18VE",
+      "name": "IndianOil",
+      "address": "Khasra No 255, Gudi, Ajaypur, near 14th Battalion, Gwalior",
+      "lat": 26.181013,
+      "lng": 78.1511575,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdXt6RtHPdjkRyN2cUebEZ4k",
+      "name": "IndianOil",
+      "address": "S Lock No, 12011, AB Road, Nayagaon",
+      "lat": 26.117427,
+      "lng": 78.071946,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJV4UQLADFdjkRn0gJVdhKjrE",
+      "name": "Barua hause",
+      "address": "55H4+4GF, Bhatpura, Gwalior",
+      "lat": 26.1778059,
+      "lng": 78.1562857,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJJbLwl8nFdjkRXcwALxLbopA",
+      "name": "IndianOil",
+      "address": "near SAF 2nd Battalion, S Lock No 1185 & 1186/219 Ajaypur, near SAF 2nd Battalion, Kampoo Road, Gwalior",
+      "lat": 26.187897,
+      "lng": 78.14910499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3Qz3BHXFdjkR0S-Srdw2UqM",
+      "name": "CNG POLICE WELFARE SOCIETY",
+      "address": "Jawahar Colony, Lashkar, Gwalior",
+      "lat": 26.18631349999999,
+      "lng": 78.1531251,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJK3IGR-_FdjkRDl3ZqpNa7B4",
+      "name": "Shri Ram Fule",
+      "address": "Seetla Mata Rd, Shri Ram Colony, Gwalior",
+      "lat": 26.198932,
+      "lng": 78.1299789,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJBaOxCJDPdjkRmu_X4RpLoOQ",
+      "name": "Jio-bp",
+      "address": "Patwari Halka No 23, Ghatigaon",
+      "lat": 26.11701189999999,
+      "lng": 78.06475170000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWZ_bku_FdjkRWNt7flU7cUM",
+      "name": "Suvidha Fuels",
+      "address": "Kampoo Road, Jawahar Colony, Madhav Ganj, Gwalior",
+      "lat": 26.19032,
+      "lng": 78.1500686,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWzhFb0fPdjkRuvNNHH0hvdo",
+      "name": "Laxmi Mukund Fuel station",
+      "address": "National Highway 46, Nayagaon",
+      "lat": 26.1172672,
+      "lng": 78.06365319999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJGQidyuLFdjkRRZwRWaouRVk",
+      "name": "Police Welfare CNG Filling Station",
+      "address": "55V2+26G, Idgah, Madhav Ganj, Gwalior",
+      "lat": 26.1924359,
+      "lng": 78.1505809,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdVNfbv7FdjkR1XpNGxjm6fQ",
+      "name": "Gupteshwar Petro Services",
+      "address": "Survey No-902,905, Village Bara, SADA, Pragati Vihar, Gwalior",
+      "lat": 26.2054228,
+      "lng": 78.1156415,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5dL9WM7FdjkR-4UOb81WmVA",
+      "name": "Priya Oil Agency",
+      "address": "54WX+7GV, Rath Khana, Madhav Ganj, Gwalior",
+      "lat": 26.1957403,
+      "lng": 78.1488071,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJYa87bszFdjkR6XoOKQvg1G8",
+      "name": "IndianOil",
+      "address": "Lock No 1197, 219, Sikandar Kampoo Road, Gwalior",
+      "lat": 26.19370799999999,
+      "lng": 78.15265699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7RwYaF7FdjkRoh9TPPK3wuA",
+      "name": "Feul Station",
+      "address": "Roxy Pull, Maharaj Bada Road, Gwalior",
+      "lat": 26.1958364,
+      "lng": 78.14981720000002,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJhy4EBdzFdjkRA_Vz_mHtae4",
+      "name": "Jain brothers Bharat petroleum",
+      "address": "Bohre marker.2nd floor.nehru petrol pump, Lashkar, Gwalior",
+      "lat": 26.2028286,
+      "lng": 78.138911,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJexBc-RTFdjkRGZdwm9fLOKg",
+      "name": "Bharat Petroleum - Saroj Fuel Shoppee",
+      "address": "Besides Venus Banquet Vicky Factory Tiraha, Jhansi Road, Gwalior",
+      "lat": 26.1691318,
+      "lng": 78.1752278,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmWLXBDDHdjkRzGy6CHyFq3M",
+      "name": "IndianOil",
+      "address": "Lock No 1144/219, Bara Ph No 65, No 899902903904905, Baraua",
+      "lat": 26.21027100000001,
+      "lng": 78.11709119999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-8-rIW3FdjkRv-RSYKoFUBQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, AB Road, Laxmi Ganj, Gwalior",
+      "lat": 26.205231,
+      "lng": 78.140421,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJw7xdtXnPdjkRpLK2-scO_7s",
+      "name": "Bharat Petroleum, Petrol Pump -Tikait Fuels & Highway Service",
+      "address": "VILL PANIHAR, DIST GWALIOR, Gwalior",
+      "lat": 26.11731899999999,
+      "lng": 78.05222169999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJ6CkG8jFdjkR1RM4lIOBaHQ",
+      "name": "IndianOil",
+      "address": "Lock No 1146, 219, Jhansi Road, Lashkar, Gwalior",
+      "lat": 26.160006,
+      "lng": 78.182983,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJG2_6GADFdjkRIc5D5FIeeRY",
+      "name": "Multan paint",
+      "address": "Maithili Sharan Gupt Chowk, Jinsi Road Number 2, Khurjewala Mohalla, Daulat Ganj, Gwalior",
+      "lat": 26.2001574,
+      "lng": 78.1566438,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJrcrCXI7FdjkRyqHimnrRhXI",
+      "name": "Rahul automobiles near railway bridge laliyapura jhansi road gwalior",
+      "address": "555M+HRV, Laliyapura, Jhansi Road, Gwalior",
+      "lat": 26.1589863,
+      "lng": 78.1845336,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC3S5G_rFdjkRkZwlPTAnt1U",
+      "name": "Feul Station",
+      "address": "near SBI, Bhander Salon B, near SBI, Salon B",
+      "lat": 26.190422,
+      "lng": 78.1693591,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJU0jqfavFdjkRHZCSdBmJ25U",
+      "name": "IndianOil",
+      "address": "Ground Floor, Jhansi Road, Bhatkhedi Ajaypur, Gwalior",
+      "lat": 26.1533069,
+      "lng": 78.18618870000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJk6EIOJvPdjkRgQyoAndLwIY",
+      "name": "Shivdev Fuels (BPCL)",
+      "address": "Shivdev Fuels, opposite CRPF camps, Panihar",
+      "lat": 26.1173743,
+      "lng": 78.0466933,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJz1XVQhzFdjkR6s9eZp9ZiBk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, opposite Police Thana, Jhansi Road, Lashkar, Mahalgaon, Gwalior",
+      "lat": 26.188813,
+      "lng": 78.17414219999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJK6VHQDrPdjkR8q_gf25bRWw",
+      "name": "Manohar Singh Solanki Filling Station",
+      "address": "428V+RXX, Agra - Mumbai Highway, Gwalior",
+      "lat": 26.1171175,
+      "lng": 78.045005,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoZrtVkPPdjkRC_3XimHFYL4",
+      "name": "Essar PETROL PUMP",
+      "address": "428V+RXX, Agra - Mumbai Highway, Gwalior",
+      "lat": 26.117106,
+      "lng": 78.044983,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlaGnL81XYjkROtmjOLoUIfo",
+      "name": "IndianOil",
+      "address": "S No 522/3, Min 1, Bhatkhedi, Gwalior",
+      "lat": 26.1444324,
+      "lng": 78.1889726,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjzitJVnFdjkRFjh8qgs0OWE",
+      "name": "Indian Oil",
+      "address": "Ground Floor, Patankar Bazar, Daulat Ganj, Gwalior",
+      "lat": 26.2003439,
+      "lng": 78.16242729999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJb085BS7EdjkRZ5-IEeBEpKE",
+      "name": "IndianOil",
+      "address": "S Lock 1061 & 1062, 219, Sanatan Dharam Mandir Road, Lashkar, Gwalior",
+      "lat": 26.2001908,
+      "lng": 78.162993,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpeZ8Wj_EdjkRa2wt3yZF9uA",
+      "name": "IndianOil",
+      "address": "Lock No 1174, 219, Jhansi Road, Gwalior",
+      "lat": 26.1896076,
+      "lng": 78.174319,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQ8qAtlfFdjkRfrUjlDCxQBk",
+      "name": "Laxmi Mukund Fuel station",
+      "address": "55RF+99G, Jhansi Road, Lashkar, Gwalior",
+      "lat": 26.190941,
+      "lng": 78.17345279999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzWbtOfXDdjkRTcu3fcQdQ70",
+      "name": "Vaishya & Mukerji (City)",
+      "address": "56R3+GHP, New Collectorate Road, Gwalior",
+      "lat": 26.192406,
+      "lng": 78.20402969999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwbRGiJ3GdjkRA28Xj0S-MMM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, MLB Road, Gwalior",
+      "lat": 26.2121009,
+      "lng": 78.171521,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4wZBgCTHdjkRqwBvWE7E2ho",
+      "name": "Bharat Petroleum, Petrol Pump -Vaishya & Mukherji, Stn Road",
+      "address": "IN FRONT OF RLY STN GWALIO, Gwalior",
+      "lat": 26.2141667,
+      "lng": 78.18206049999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8W2YTF_BdjkRse5pL32KtR0",
+      "name": "HP PETROL PUMP SHRI RAM HARSHAN PETROLEUM",
+      "address": "Public School, A.B Road, Opp Delhi, Rairu - Dabra Bypass Road, Gwalior",
+      "lat": 26.20306699999999,
+      "lng": 78.2243419,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJ59k8OObDdjkRLqF2nij-lrw",
+      "name": "IndianOil",
+      "address": "Lock No 1158, 219, Hurawali Tiraha, Bada Gaon, Morar, Gwalior",
+      "lat": 26.2046934,
+      "lng": 78.22160079999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqZXXcADDdjkRudyf2yjcQow",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near City Center, National Highway 44, Lakhnaoti, Kalan, Gwalior",
+      "lat": 26.144389,
+      "lng": 78.21414899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP4GcOWjDdjkRzrUhlQnLmmA",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Jai Gurudev Ashram, NH 3 & 75, Lakhnauti Kalan, Gwalior",
+      "lat": 26.1472058,
+      "lng": 78.2155262,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJA6BYHJ3DdjkRQ5bZp8EWTJM",
+      "name": "Bharat petroleum Petrol Pump- Kumar Filling Station",
+      "address": "569C+788, Rairu - Dabra Bypass Road, Antri",
+      "lat": 26.1676737,
+      "lng": 78.22060549999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq_leoUDddjkRK3jxcdkeX3o",
+      "name": "Bharat Petroleum Petrol Pump- Bhagwan Rokadiya Sarkar Fuel",
+      "address": "46C8+5J, Gwalior",
+      "lat": 26.1204404,
+      "lng": 78.2165985,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJr-HhzJ_DdjkRs-9i3OSWWgA",
+      "name": "CNG, K L Petroleum",
+      "address": "near DPS School, New Gwalior bypass, near DPS School, Nainagir",
+      "lat": 26.1698356,
+      "lng": 78.22214749999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM_dXQvzDdjkRJf96O3KYW2E",
+      "name": "IndianOil",
+      "address": "Khasra No 95, opp. Garden Palace, New City Center, Alapur",
+      "lat": 26.1788319,
+      "lng": 78.2140134,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJf16m-qPFdjkRvpt6uqG4w8o",
+      "name": "Madhusudan Filling Station",
+      "address": "Near, Harishankar Puram Road, Gwalior",
+      "lat": 26.1904744,
+      "lng": 78.1870194,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZWr9-m7FdjkRPpvLNk__j0M",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, New Registrar Office Road, Ohadpur, Gwalior",
+      "lat": 26.190227,
+      "lng": 78.19448299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbVJdMWHDdjkRipBcAFTuGCk",
+      "name": "Bharat Petroleum Petrol Pump , SUNDARAM PETROLEUM",
+      "address": "M.P, DONGARPUR , SIROL TIRAHANEW, COLLECTORATE AREA, Gwalior",
+      "lat": 26.1869821,
+      "lng": 78.2157008,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_x3xYQrEdjkRnq6ya6OZ4Eg",
+      "name": "IndianOil",
+      "address": "near JA Hospital, Lock No 1142/219, New City Centre, near JA Hospital, Vidhya Nagar, Mahalgaon, Gwalior",
+      "lat": 26.1941402,
+      "lng": 78.2010348,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmXMkOaLDdjkRR6TDyE1xqXM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Toll Tax, Gwalior Bypass Road, Gwalior",
+      "lat": 26.177139,
+      "lng": 78.226658,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgz6D_5_FdjkR3y4lNLdp57Q",
+      "name": "R K filling Station",
+      "address": "1-B, Shriram Colony, Chetakpuri, Lashkar, Gwalior",
+      "lat": 26.1983235,
+      "lng": 78.17414459999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs51VnzzEdjkRnmK9fvb8FAA",
+      "name": "IndianOil",
+      "address": "Lock No, 1011 & 1012 /219, Chetakpuri, Gwalior",
+      "lat": 26.1990954,
+      "lng": 78.17397,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ60CSWevDdjkRwFwoJGpG1NA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground FLoor, Road, Sirol Main Road, Morar, Gwalior",
+      "lat": 26.1935573,
+      "lng": 78.219202,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ92XxRgLDdjkRpBrovoD7Gsc",
+      "name": "IndianOil",
+      "address": "No 343Min/1343Min/2, Sirol, Badagaon, Gwalior",
+      "lat": 26.1884565,
+      "lng": 78.22668689999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo82Uuy7EdjkRGF921VNPbO4",
+      "name": "FIH फ्यूल इन्जेक्शन हाउस",
+      "address": "India",
+      "lat": 26.2044719,
+      "lng": 78.16312260000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJwfWCRm_DdjkRTMeefE7x9K8",
+      "name": "Petrol Pump",
+      "address": "Petrol Pump Badagao, Morar, Gwalior",
+      "lat": 26.19245789999999,
+      "lng": 78.22667489999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJrXkk-O7DdjkRSrLh26cWNN8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Infront of, Sachin Tendulkar Marg, DB City, Gwalior",
+      "lat": 26.200482,
+      "lng": 78.21636199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuYkzelvCdjkRfdpu9xxe00g",
+      "name": "IndianOil",
+      "address": "Survey No 10/87, Lock No 1003/219, Darpan Colony, Sausa, Gwalior",
+      "lat": 26.1821785,
+      "lng": 78.2641031,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJVV8nSPDdjkRooQiZgfio8E",
+      "name": "Bharat Petroleum Petrol Pump- Shri Ram Raja Petroleum",
+      "address": "579H+F73, Sonsa",
+      "lat": 26.1698659,
+      "lng": 78.27862189999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJQdykewDDdjkRsKpOjoth-Cg",
+      "name": "Indian oil Petrolpump",
+      "address": "662M+7G2, Harikheda Jarga Road, New Hurawali Colony, Hurawali, Gwalior",
+      "lat": 26.2006383,
+      "lng": 78.2337606,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ6b9vl4LDdjkRdoiLEFtbRQU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Hurawali Road, Morar, Hurawali, Gwalior",
+      "lat": 26.2030871,
+      "lng": 78.22435329999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOcs4zLvpdjkRyr6SWPhroxQ",
+      "name": "IndianOil",
+      "address": "Shop No 1156/11162/1/1, Badaga",
+      "lat": 26.2173421,
+      "lng": 78.266803,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSSmwkAe4djkRYuyZO3tlpqs",
+      "name": "IndianOil",
+      "address": "Indar Nagar, Agra - Mumbai Highway, Rairu, Gwalior",
+      "lat": 26.2321545,
+      "lng": 78.1246809,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJp6MVxFzGdjkR7OI9hkZ5Y7c",
+      "name": "IndianOil",
+      "address": "Lock No, 1177/219, Transport Nagar, Gwalior",
+      "lat": 26.234481,
+      "lng": 78.14059329999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoWgWEl3GdjkRqGkEiv32NCo",
+      "name": "Bharat Petroleum Petrol Pump",
+      "address": "64MW+RMH, Double Road, Transport Nagar, Anand Nagar, Gwalior",
+      "lat": 26.2345646,
+      "lng": 78.1467373,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZbf1SkXGdjkR_LoWsEHSxBw",
+      "name": "Bharat Petroleum",
+      "address": "Sancheti Petrol Pump, Transport Nagar, Moti Jheel, Gwalior",
+      "lat": 26.2433477,
+      "lng": 78.1448715,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJn38XfOPHdjkR4dX21NNSM2Y",
+      "name": "Bharat petroleum- Urja filling Station",
+      "address": "64PF+W9, Gwalior West",
+      "lat": 26.23727,
+      "lng": 78.1234316,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJCcIwIKDHdjkRpuoX7WXlq8E",
+      "name": "IndianOil",
+      "address": "Bahodapur, Laxmi Ganj, Chauraha",
+      "lat": 26.2182821,
+      "lng": 78.1480792,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtxct6D_HdjkRD4I1eySu2Es",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Bahodapur Road, Panchwati Colony, Ramji Ka Pura, Gwalior",
+      "lat": 26.2166958,
+      "lng": 78.14830789999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAxBrSnPHdjkR63-Q6WAXg9g",
+      "name": "Gaurav Filling Station",
+      "address": "AB road, Panchwati Colony, Gwalior",
+      "lat": 26.2180851,
+      "lng": 78.1483951,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJb52HmmbHdjkRf8gt9DwTZjM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Panchwati Colony, AB Road, Bahodapur, Gwalior",
+      "lat": 26.218035,
+      "lng": 78.14839599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkzm3uVzGdjkR_37at-cfXD8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Old, Agra - Mumbai Highway, Transport Nagar, Gwalior",
+      "lat": 26.2377268,
+      "lng": 78.1458621,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfyd-gInHdjkReWzXbKwtGX0",
+      "name": "IndianOil",
+      "address": "No 143146/1/147 Munjapta, Defence Colony, Akbarpur",
+      "lat": 26.2482492,
+      "lng": 78.1351007,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3Wh4szDHdjkRVMvU3TP2_cI",
+      "name": "Bharat Petroleum Petrol Pump , SHARDA AUTOMOBILES",
+      "address": "VINAYNGR SCT.NO1BW RMDSGHTI&BHDPRBHDPUR PLT9,10,16 KH1002,1003,1004",
+      "lat": 26.2198253,
+      "lng": 78.1529668,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOQnFqJnHdjkRfsbDm7xA6sw",
+      "name": "Milan Filling Station",
+      "address": "65G2+XP2, near Mazi Mall, Sagartal Road, Bahodapur, Anand Nagar, Gwalior",
+      "lat": 26.2273758,
+      "lng": 78.1517665,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS1eYydnHdjkRlNpfsj606dQ",
+      "name": "Bharat Petroleum, Petrol Pump -Express Highway Fuelling Centre",
+      "address": "65H2+2MP, TRANSPORT NAGAR GWALIOR, Sagartal Road, Bahodapur, Vinay Nagar, Gwalior",
+      "lat": 26.2274626,
+      "lng": 78.1517581,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJX7kbVHzGdjkRdP_EO0y8Ky8",
+      "name": "IndianOil",
+      "address": "Lock No, 1143/219, near Sup Of Police, Drp Line, Lashkar, Gwalior Fort, Gwalior",
+      "lat": 26.2188123,
+      "lng": 78.1531147,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQ2wXHRbHdjkRERw_qJwFw4s",
+      "name": "Indian Oil",
+      "address": "64XP+776, Motijheel, Moti Jheel, Gwalior",
+      "lat": 26.2481543,
+      "lng": 78.1356278,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJgQwG3vnHdjkR_YeOinjoBgA",
+      "name": "CNG PETROL PUMP STATION",
+      "address": "near Central Jail, Bahodapur Road, Police Line, Ghosipura, Gwalior",
+      "lat": 26.2188362,
+      "lng": 78.1532568,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJd0I4g3jHdjkRf9fl1sK-494",
+      "name": "Koteshwar Medical Shop",
+      "address": "Mohite Garden Ke Pass, Ramvihar Colony, F7, Bahodapur, Vinay Nagar, Gwalior",
+      "lat": 26.2301672,
+      "lng": 78.1557876,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJx5D0OgDHdjkR35sXfpIYzBQ",
+      "name": "Motijheel Auto Service",
+      "address": "742R+WJV, Moti Jheel, Gwalior",
+      "lat": 26.252364,
+      "lng": 78.1415576,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtULKT0zGdjkRTsHnEgcLIrs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Moti Jheel, Gwalior",
+      "lat": 26.252371,
+      "lng": 78.141731,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnzR1XavFdjkRQnHvhL2k5ek",
+      "name": "Tiwari Filing Station",
+      "address": "Shinde Ki Chhawani, Gwalior",
+      "lat": 26.2074278,
+      "lng": 78.1589929,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJI6ZYWUvGdjkRv0WB33U46nk",
+      "name": "Jio-bp",
+      "address": "Ground Floor, near Fruit Mandi, Ab Road, Moti Jheel, Gwalior",
+      "lat": 26.2547685,
+      "lng": 78.13920519999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ__Lbr6XFdjkR0taO41D3aXY",
+      "name": "THE SASS BAR",
+      "address": "57, Shinde Ki Chhawani, Gwalior",
+      "lat": 26.2075574,
+      "lng": 78.15992279999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJJ79y-JDFdjkRhx9m973fGx0",
+      "name": "Sharma Petrolpum",
+      "address": "01, Azad Nagar, Morar, Gwalior",
+      "lat": 26.2064796,
+      "lng": 78.1623287,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJrQDghs_HdjkRvmkJdzz94eI",
+      "name": "Shreejee Petrochem And Lubes",
+      "address": "Purani Chhawani, Gwalior",
+      "lat": 26.2617699,
+      "lng": 78.1352752,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy9fg9GHFdjkRpzxFl0WtjWg",
+      "name": "Modern Automobiles Indian Oil Petrol Pump",
+      "address": "No 11018, Lock No 1056, 219, Shinde Ki Chhawani, Gwalior",
+      "lat": 26.2119282,
+      "lng": 78.17009019999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtWnKI5_FdjkRW52_P2WrN6U",
+      "name": "IndianOil",
+      "address": "Lock No 1195, 219, MLB Road, Phool Bagh, Chowk, Gwalior",
+      "lat": 26.212187,
+      "lng": 78.17035,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxVT7Cp3GdjkR9ckNdZFKMmM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Mari Mata Road, Gwalior",
+      "lat": 26.2135224,
+      "lng": 78.17065269999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdactLjHBdjkRLhCAC1o7rlU",
+      "name": "Sarda Auto Fuel -IOCL Petrol Pump",
+      "address": "66V5+WXF, NH 92, Randhir Colony, Morar, Gwalior",
+      "lat": 26.2448106,
+      "lng": 78.2099104,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJX1NTaGDBdjkRejxKzUfJEr8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 2355, Singhpur Road, Kashipura, Patel Nagar, Morar, Gwalior",
+      "lat": 26.2185222,
+      "lng": 78.2260992,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJK81ng6bGdjkRyi8wAj4BqSQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Racecourse Road, Thatipur, Gwalior",
+      "lat": 26.21879869999999,
+      "lng": 78.1871802,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVaw6HgDHdjkRpN0qvA_ngC8",
+      "name": "Indian LPG pump",
+      "address": "65CQ+2J3, Racecourse Road, LNUPE Campus, Thatipur, Gwalior",
+      "lat": 26.2200231,
+      "lng": 78.1890437,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJb-eArh3EdjkRbT16DFxZ5J4",
+      "name": "IndianOil",
+      "address": "Lock No 1070, 219, City Center, Ajaypur, Gwalior",
+      "lat": 26.2107629,
+      "lng": 78.1873969,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC2zxRwDFdjkR7cwOq01_6IQ",
+      "name": "Bharat",
+      "address": "656G+W8P, Gwalior",
+      "lat": 26.2123487,
+      "lng": 78.1758284,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJNfe8GtXHdjkRllZt31kLnNA",
+      "name": "Bharat Petroleum, Petrol Pump -Gopanchal Filling Station",
+      "address": "Tansen Road, HAZIRA, Gwalior",
+      "lat": 26.2300966,
+      "lng": 78.1813011,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHYevRojHdjkRfMww0BS0lDA",
+      "name": "Bharat Petroleum, Petrol Pump -Maa Shitla Filling Station",
+      "address": "CHINOR, DIST GWALIOR, Gwalior",
+      "lat": 26.2301238,
+      "lng": 78.1810919,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAX4b6qXGdjkRwZXsyPTjlBo",
+      "name": "IndianOil",
+      "address": "near Lakshmibai National Institute Of Physical Education, Racecourse Road, Railway Colony, RVS Agriculture University Campus, Thatipur, Gwalior",
+      "lat": 26.2246755,
+      "lng": 78.1945123,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAzY-IN7HdjkRFerxFxkpEcw",
+      "name": "Pinku Prajapati",
+      "address": "behind 50Q Water, Line 5/76, Sanjay Nagar, Birla Nagar, Gwalior",
+      "lat": 26.2383187,
+      "lng": 78.1840522,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJIVyV-VXBdjkRgU1w-onvJUM",
+      "name": "IndianOil",
+      "address": "Lock No 1057 & 1082, 219, Residency, Thatipur, Gwalior",
+      "lat": 26.215084,
+      "lng": 78.2072852,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOdNDzITHdjkRWU3zQ-b4pqE",
+      "name": "Bharat Petroleum Petrol Pump- Shri RamJanki Ji Fuel Station",
+      "address": "65VR+23C, AB Road, Gadhaipura, Gwalior",
+      "lat": 26.2425941,
+      "lng": 78.18975859999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH6ksApPHdjkRJ41sD1INOtE",
+      "name": "IndianOil",
+      "address": "S No 217/MIN/3, Gadaipura, Birla Nagar, Gwalior",
+      "lat": 26.2455277,
+      "lng": 78.1853241,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY_5xHFjBdjkRlWKiJl6nUyw",
+      "name": "सांवरिया सेठ नास्ता सेंटर",
+      "address": "6687+HFX, Gandhi Road, Darpan Colony, Gwalior",
+      "lat": 26.2164766,
+      "lng": 78.2137468,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJcXZJtLLBdjkR9M2Ru4tmERM",
+      "name": "Bharat Petroleum, Petrol Pump -Gwalior Doodh Sangh Sahkari,Mydt",
+      "address": "GOLA KA MANDIR GWALIOR, Gwalior",
+      "lat": 26.2337624,
+      "lng": 78.20892429999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo5-T1yLBdjkR0AGZp0alpy4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 1523/1, Khasra, near Gole Ka Mandir Road, 1, Morar Road, Gwalior",
+      "lat": 26.236117,
+      "lng": 78.207178,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4_V7MEnBdjkRxJhha3fQ7OU",
+      "name": "Sanchi Petrol Pump",
+      "address": "66M5+8VQ, Kalpi Road, Mela Ground, Morar, Gwalior",
+      "lat": 26.2333333,
+      "lng": 78.2097222,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJHQPkj6jBdjkRJhmWxVA5bcQ",
+      "name": "IndianOil",
+      "address": "Krishnanand Vatika, Badagaon, Gwalior",
+      "lat": 26.2292009,
+      "lng": 78.2600496,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaXR-V-fBdjkRRpq0cpcSb3U",
+      "name": "Fuel Company",
+      "address": "near Army School, 62, Gas Godam Road, Gwalior",
+      "lat": 26.2355585,
+      "lng": 78.24743649999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJHTrYyGXBdjkRxE0PfdHavoM",
+      "name": "Apna Food House",
+      "address": "26 No. Shop, Garam Sadak, Gwalior",
+      "lat": 26.2267926,
+      "lng": 78.23080279999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJuxf0H73BdjkRQFTA6tNIcxE",
+      "name": "Shri Kamtanath filling station",
+      "address": "Badagaon",
+      "lat": 26.2338683,
+      "lng": 78.2740535,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQfFESPfBdjkRPNkJ47riI6w",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near New Gwalior Bypass, Morar, Badagaon",
+      "lat": 26.226098,
+      "lng": 78.281082,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJK4QgJwDBdjkRY9zhCubXO8k",
+      "name": "Tomar Filling Energy Station",
+      "address": "66RP+VX7, Outer Circular Road, तोमर गार्डन, Laltipara, Gwalior",
+      "lat": 26.2420173,
+      "lng": 78.2376337,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_XSGPADBdjkREVL-ChBRwpA",
+      "name": "100 TPD BIO CBG GAS PLANT",
+      "address": "66VP+G4C, Laltipara, Gwalior",
+      "lat": 26.2438047,
+      "lng": 78.2352677,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ__MtZQvBdjkRVja4GJHzpa4",
+      "name": "Bharat Petroleum, Petrol Pump -B.P.Sales",
+      "address": "Sahid Kargil Gate, Gandhi Road, Mayur Market, Mayur Nagar, Morar, Gwalior",
+      "lat": 26.2168179,
+      "lng": 78.2191045,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDZe3eQnBdjkRbbrsG2DHct8",
+      "name": "Bharat Petroleum Petrol Pump- Ganesh petroleum",
+      "address": "66JC+3MC, Kalpi Road, Morar Enclave, Kalpi Bridge Colony, Morar, Gwalior",
+      "lat": 26.230175,
+      "lng": 78.2216543,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJX3WDh0PBdjkRt2w7TFwvBaY",
+      "name": "IndianOil",
+      "address": "Lock No 1189/219, near Kalpi Bridge, Badagaon, Gwalior",
+      "lat": 26.2311355,
+      "lng": 78.2192494,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJle1dqjTBdjkRSBr0ukGKbmI",
+      "name": "Bharat Petroleum Petrol Pump- JAI PETROLEUM",
+      "address": "67GQ+99, Sunarpura Khalsa",
+      "lat": 26.2259863,
+      "lng": 78.2884103,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJNRimPLfBdjkR83pHJ0JzwfI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Khasra No, 181 & 182, Cakrampur",
+      "lat": 26.2411727,
+      "lng": 78.2818262,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJF4gXLgDBdjkREtV9cSt942I",
+      "name": "HP Petrol Pump",
+      "address": "66J7+RJF, Morar Road, Morar, Gwalior",
+      "lat": 26.2321006,
+      "lng": 78.21394480000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJT6XWUpDBdjkRyVBFHXC2TyM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Pinto Park Road, Jaderua Kalan, Gayatri Nagar, Gwalior",
+      "lat": 26.246327,
+      "lng": 78.217221,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq8wUsM7BdjkRdeJf4NEyTmQ",
+      "name": "Bharat Petroleum Petrol Pump , TOMAR FILLING STATION",
+      "address": "NEW GWALIOR BYEPAAS VILLAGE DHANELIKHASARA NO 184,NS CORRIDOR NH 44 GWALIOR, M.P",
+      "lat": 26.2504164,
+      "lng": 78.28648749999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcVx2tkLBdjkREni_wZOQsfI",
+      "name": "New Shankar Puri",
+      "address": "66R5+HWG, NEW SHANKAR PURI NEAR PATEL PETROL PUMP GOLE KA MANDIR",
+      "lat": 26.241445,
+      "lng": 78.2098219,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJy4E4jTbBdjkRqInD7nip0oo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Pinto Park, Bhind Road, Gwalior",
+      "lat": 26.2420144,
+      "lng": 78.2092705,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvyJm3ZvBdjkRXZ90FuZD_qU",
+      "name": "IndianOil",
+      "address": "Lock No 1015 & 1016, near Govardhan Colony, 219, Bhind Road, Pinto Park, Jaderua Kalan, Gwalior",
+      "lat": 26.2433117,
+      "lng": 78.20959719999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaUCBuI_BdjkRYWiHfAXFKyE",
+      "name": "Aavantika Gas Limited CNG Station",
+      "address": "66V5+8RF, Bhind Road, Morar, Gwalior",
+      "lat": 26.2433124,
+      "lng": 78.2095539,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJU6BdcQDBdjkRfeSWFoWZjjU",
+      "name": "Gwalior Energy Station Indian Oil Petrolpump",
+      "address": "A2, Vayu Nagar, Rachna Nagar, Deen Dayal Nagar, Gwalior",
+      "lat": 26.2503,
+      "lng": 78.2131451,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJH7NcwjHBdjkRGOzq8xjfJsI",
+      "name": "जी ऑयल मिल",
+      "address": "Purani Railway Line",
+      "lat": 26.2490837,
+      "lng": 78.2092698,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJESExTTDBdjkRB6tgCbVrcSI",
+      "name": "IndianOil",
+      "address": "Lock 1120/219, Bhind Road, Gwalior",
+      "lat": 26.2617111,
+      "lng": 78.21717679999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB6kdhxfBdjkRdvEo3rQrw00",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "KH No 81, 1 Min & 82, opposite DD Nagar, PH No 94/53, Maharajpura, Gwalior",
+      "lat": 26.262449,
+      "lng": 78.217272,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNUBiNS7BdjkRtuTwwWOLI38",
+      "name": "IndianOil",
+      "address": "Ground Floor, Ramanna, Maharajpura, Gwalior",
+      "lat": 26.264711,
+      "lng": 78.217186,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ25ePvinBdjkRAAAAMOjVtkA",
+      "name": "Lovegems",
+      "address": "12, Deen Dayal Nagar, Gwalior",
+      "lat": 26.25992,
+      "lng": 78.20937599999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJn5V9JijBdjkRVouHq8qVReg",
+      "name": "Petrol & CNG Pump -Sheela Sons",
+      "address": "Bharat Petrol Pump, opp. BSF colony, Airport Road, Gwalior",
+      "lat": 26.2656635,
+      "lng": 78.216931,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ1qKvN7BdjkRcqGyH66wme4",
+      "name": "Bawa Fuels",
+      "address": "Nh-35 (old nh-7) km stone no.50 village nevariya, dagmagpur mirzapur",
+      "lat": 26.2681477,
+      "lng": 78.29241189999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJI2Hsoge4djkR0rimuuUxoIc",
+      "name": "Bharat Petroleum",
+      "address": "Farm Asian Highway 47, Rairu",
+      "lat": 26.302342,
+      "lng": 78.119979,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqRS9YQa4djkReE23-JjY9VU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Agra - Mumbai Highway, Baraua Nurabad",
+      "lat": 26.3053749,
+      "lng": 78.1195096,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWczedhy4djkRbVyQwxFojfI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor AB Road, Baraua Nurabad, Rairu",
+      "lat": 26.3159841,
+      "lng": 78.11641999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM_knnyC4djkRT72n00vpsXM",
+      "name": "IndianOil",
+      "address": "Lock No 1179, 219, NH 3, Banmore",
+      "lat": 26.3276035,
+      "lng": 78.111423,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM9iaMAC5djkRt50kxmoEkf8",
+      "name": "Surindra Automobiles BPCL",
+      "address": "842C+X2G, Inder Nager (rairoo, Agra - Mumbai Highway, Milawali",
+      "lat": 26.3024272,
+      "lng": 78.1200728,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJDzkv9QS4djkR_gRFR6sfGBk",
+      "name": "Indian Oil",
+      "address": "India",
+      "lat": 26.3094977,
+      "lng": 78.1179947,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJLduhEGO5djkR8-7u0B3JjY4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Kh No 678 BY3, BY4 & BY5, Depot Road, Gwalior",
+      "lat": 26.307059,
+      "lng": 78.125584,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfWjBSl3HdjkRW8zu5sYsFHI",
+      "name": "IndianOil",
+      "address": "S No 598, Gangapur",
+      "lat": 26.2705376,
+      "lng": 78.1364449,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlRRazlDHdjkRn4VHT3-lvFM",
+      "name": "IndianOil",
+      "address": "S No 598, Gangapur",
+      "lat": 26.2705376,
+      "lng": 78.1364449,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpcpfHEu5djkRzjfuKUkEem8",
+      "name": "Aavantika Gas Limited CNG Station",
+      "address": "8488+9HF, Agra - Mumbai Highway, Jinawali",
+      "lat": 26.3159349,
+      "lng": 78.11642909999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJqfv5XQC5djkRIYW4PIIuzs4",
+      "name": "PIPS COLLEGE GWALIOR (Bright Skill Development Institute)",
+      "address": "Baraua Nurabad",
+      "lat": 26.3277375,
+      "lng": 78.1276094,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJgQLN5yq5djkRF5u4ADlczXA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 44, Gwalior Jhansi Hwy, Baraua Nurabad",
+      "lat": 26.326182,
+      "lng": 78.134598,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_2RJIADJdjkRKuykzvlqPP4",
+      "name": "Radha Raman energy station",
+      "address": "737F+9M, Gwalior West",
+      "lat": 26.26347,
+      "lng": 78.07418,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJr4gualO3djkReWGANf1l-jc",
+      "name": "HP Petrol Pump",
+      "address": "84Q4+82G, Agra - Mumbai Highway, Banmore",
+      "lat": 26.3383057,
+      "lng": 78.1050722,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJg6EZdJfHdjkRNE1W-a9y_9I",
+      "name": "Bharat Petroleum, Petrol Pump -Sonika Automobiles",
+      "address": "JALALPUR CHOURAHA GWALIOR, National Highway 92, Gwalior",
+      "lat": 26.2594524,
+      "lng": 78.1591301,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL81qYxW3djkRZ9PkBCv6C0s",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Shri Ram Group of Colleges, NH 3, Agra - Mumbai Highway, Banmore",
+      "lat": 26.343477,
+      "lng": 78.1026701,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHSIopv3GdjkR5cN9HA2QHuI",
+      "name": "IndianOil",
+      "address": "Survey No 312, Manpur, Gird, near Gwalior Residency, Gwalior",
+      "lat": 26.25587849999999,
+      "lng": 78.16478359999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtXpAwPy3djkRVO5erSmbXp8",
+      "name": "IndianOil",
+      "address": "Ground Floor, Agra - Mumbai Highway, Banmore",
+      "lat": 26.3453651,
+      "lng": 78.1013693,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJZjNeKDHdjkRGkXW4bcSTeY",
+      "name": "IndianOil",
+      "address": "Khasra No 558559560, Min1560/Min, Manpur, Badagaon, Gwalior",
+      "lat": 26.249426,
+      "lng": 78.1629792,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJn6tzBdYtcTkR2nWqtUFlUHU",
+      "name": "IndianOil",
+      "address": "Khasra No 558559560, Min1560/Min, Manpur, Badagaon, Gwalior",
+      "lat": 26.249426,
+      "lng": 78.1629792,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJA5NUY5u5djkRkfccRKOfwvM",
+      "name": "Bharat Petroleum Petrol Pump , A V FILLING CENTRE",
+      "address": "SABALGARH ROAD,VIJAYPUR, M.P",
+      "lat": 26.322984,
+      "lng": 78.173639,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmacLQAC5djkRcbWAN8HaJSI",
+      "name": "Jio petrol bank",
+      "address": "85CF+XP7, Susera",
+      "lat": 26.3224118,
+      "lng": 78.1742873,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm28nWYy5djkRHIiYO4DrpgU",
+      "name": "Reliance Petroleum",
+      "address": "Khasra No 893 To 896, Kothi Road, Dilabar Ka Pura, Purani Chhawani, Susera",
+      "lat": 26.3223971,
+      "lng": 78.1742989,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJc1c9ZBPHdjkRlMPJSQftGGM",
+      "name": "IndianOil",
+      "address": "S No 665/2/2, Bhadrouli, Defence Colony, Gwalior",
+      "lat": 26.3032386,
+      "lng": 78.18582669999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJewyPTGe3djkRb2lFe-xA2ks",
+      "name": "BPCL M/s Mohar Singh Filling Center",
+      "address": "Banmore",
+      "lat": 26.3586912,
+      "lng": 78.0967237,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJX9mWFADHdjkRa1p4gb_faI0",
+      "name": "Kunal petrol pump",
+      "address": "75MW+VF, Gwalior",
+      "lat": 26.2846862,
+      "lng": 78.1961802,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJwVbkNcKFdjkRhsGwNehIxUc",
+      "name": "IndianOil",
+      "address": "Shop No 45, 4/2 45/5/2/2, Karga, Banmore",
+      "lat": 26.3187855,
+      "lng": 78.2101915,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJ4gCO4e_djkR8VmKnxqi-7g",
+      "name": "Uttam Fuels",
+      "address": "AH43, Kheriya Chuneti",
+      "lat": 26.317599,
+      "lng": 78.21445299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTervoya_djkRmCD5bxWgN_o",
+      "name": "Laxmi Narayan Peteoleum BPCL",
+      "address": "Khasra 11 / 2 Kargawan NH-44 LHS Riaru, to, Dabra",
+      "lat": 26.3185792,
+      "lng": 78.2148103,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq2upKADBdjkRjDE3SuIvTCM",
+      "name": "Kargil feeling Station",
+      "address": "76VJ+266, Maharajpura, Gwalior",
+      "lat": 26.292527,
+      "lng": 78.230526,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJmR33dADBdjkRIMhXGHpG03g",
+      "name": "BPCL Kargil filling station & Becafe",
+      "address": "Sarpanch market, near Bharth Petrolpump, 115/1, Bhind Road, Maharajpura, Girgaw",
+      "lat": 26.289704,
+      "lng": 78.24466799999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJE5tgqsbBdjkR4d9zmVrcsA8",
+      "name": "Shri Balaji Group Filling Center",
+      "address": "Airport Road, Girgaon, Gwalior",
+      "lat": 26.3044665,
+      "lng": 78.2511581,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJQe1Omty_djkRh6ITZkicnNA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Bhind Road, Malanpur, Etawah",
+      "lat": 26.3428831,
+      "lng": 78.2836823,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1QsCJ9q_djkRRn0TX8hDe-M",
+      "name": "IndianOil",
+      "address": "Lock No 1034, 219, Bhind Road, Industrial Area, Malanpur, Dharamshala",
+      "lat": 26.347334,
+      "lng": 78.2875875,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdblw9RfBdjkR3cdy6XksYGI",
+      "name": "IndianOil",
+      "address": "Shop No 326, 4/1, Kheriya Mirdha",
+      "lat": 26.2941772,
+      "lng": 78.2801309,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJER4-SlrBdjkRO19z6MTaPbM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 44, Jhansi Hwy, Morar, Gwalior",
+      "lat": 26.2782278,
+      "lng": 78.2804985,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3UPD6xTBdjkRUYCJX20Sf4A",
+      "name": "KRISHNA DEF UREA FILLING PUMP",
+      "address": "near Mohit dhaba, Baretha bridge, near Mohit dhaba, jhansi highway, Agra",
+      "lat": 26.3025771,
+      "lng": 78.2817834,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJMyoJtrLpdjkRLmqMO5Ca1lU",
+      "name": "IndianOil",
+      "address": "Shop No 76, Dang, 1/276/2/2, Gwalior",
+      "lat": 26.3320497,
+      "lng": 78.2783463,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXbZFRui_djkRbs6KLQ2efmI",
+      "name": "Bhadauria Petrol Pump",
+      "address": "87PH+5WR, Kheriya Keshar",
+      "lat": 26.3354905,
+      "lng": 78.2797655,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmS69AKS_djkRsRn07LzrRc4",
+      "name": "Bharat Petroleum, Petrol Pump -Tirupati Filling Centre",
+      "address": "Malanpur, Gwalior",
+      "lat": 26.3363012,
+      "lng": 78.27973469999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJw0R-dy_djkR2PI4NU5-9ww",
+      "name": "Indian oil",
+      "address": "87VQ+227, Unnamed Road, Malanpur, Kheriya Keshar",
+      "lat": 26.3425398,
+      "lng": 78.2875613,
+      "open_now": null
+    }
+  ]
+}

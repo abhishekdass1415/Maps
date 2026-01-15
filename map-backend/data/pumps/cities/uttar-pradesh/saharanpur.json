@@ -1,0 +1,787 @@
+{
+  "city": "Saharanpur",
+  "state": "Uttar Pradesh",
+  "count": 97,
+  "center": {
+    "lat": 29.964,
+    "lng": 77.546
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJC7cU3yjtDjkRMeyNhGJSPGE",
+      "name": "Phandpuri CNG Filling Station",
+      "address": "WCJF+426, Khazoor Heri",
+      "lat": 29.9302983,
+      "lng": 77.4225111,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8ffyPsvqDjkRXhRj1huhMbA",
+      "name": "Nayara Energy(Essar Oil)",
+      "address": "Khasra No. 60 min, Khata No. 107, Plot No. 1a, 1b & 1c, Tehsil, Mohammadpur Mafi",
+      "lat": 29.9348148,
+      "lng": 77.5352055,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJcQZ07TSVDjkRr8o7WJx-VLc",
+      "name": "IndianOil",
+      "address": "Delhi Road, Chunati Gada",
+      "lat": 29.903814,
+      "lng": 77.514414,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx7OD5uGUDjkRsR2-ypEN0hY",
+      "name": "Shyam Service Station - Petrol Pump in Saharanpur",
+      "address": "Delhi - Saharanpur Road, Chunheti",
+      "lat": 29.904285,
+      "lng": 77.51550999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJR_yDd6iVDjkRev8yJalabqI",
+      "name": "IndianOil",
+      "address": "Ground Floor Pargana, Chunati Gada",
+      "lat": 29.904721,
+      "lng": 77.515625,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQ3WDsT2TDjkR9z-Le7DiNbM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Nakur, Halalpur, Harpal",
+      "lat": 29.87810140000001,
+      "lng": 77.41859769999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3T1eBS6VDjkRlMMQCYawCf8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Delhi Road, Saharanpur",
+      "lat": 29.9262814,
+      "lng": 77.5268464,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9U7QZ_iVDjkRuK8LJuRzlS4",
+      "name": "JKK MULTIFUEL STATION",
+      "address": "near ITI power station, I-9 industrial area, near ITI power station, Delhi - Saharanpur Road, Saharanpur",
+      "lat": 29.9287441,
+      "lng": 77.5291055,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDSEi78GVDjkRScU2ktKo-h4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Delhi - Saharanpur Road, Prem Nagar, Saharanpur",
+      "lat": 29.929548,
+      "lng": 77.53049399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1ZfLKQDtDjkRduxj3BlfrB8",
+      "name": "BHARAT Petrol Pump/CNG PUMP",
+      "address": "WCXQ+8W3, Jageta Najib",
+      "lat": 29.9478894,
+      "lng": 77.44029739999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6d4oO0qVDjkRMJL-pg1W94M",
+      "name": "सरसो ऑयल मिल",
+      "address": "India",
+      "lat": 29.9290025,
+      "lng": 77.5409655,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJr3_nGSmVDjkRaxJ1XD3pGig",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Malhipur Badgaon Road, Saharanpur",
+      "lat": 29.8882801,
+      "lng": 77.552837,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQykEsxDrDjkRk-TlgTNTfBo",
+      "name": "IndianOil",
+      "address": "Nakur Road, Khatauni, Saharanpur",
+      "lat": 29.958921,
+      "lng": 77.503677,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJa6V9E66WDjkRh0tGwh6Wg6U",
+      "name": "Nayra Energy (DHOOM & SONS)",
+      "address": "사하란퍼 - 델리 로드, National Highway 709B, Nand Pur",
+      "lat": 29.82409149999999,
+      "lng": 77.4747182,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgY-ebBiXDjkRL-ft1Ot_y_4",
+      "name": "IndianOil",
+      "address": "Ground Floor Pilkhani, Rampur Maniharan",
+      "lat": 29.8287899,
+      "lng": 77.5106997,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo4fq-Pm_DjkR2NFhPpTD09s",
+      "name": "Essar Fuel Filling Station",
+      "address": "WHJF+H58, StarPaper Mill Campus, Himmat Nagar, Saharanpur",
+      "lat": 29.9314088,
+      "lng": 77.57295479999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP4J7awCVDjkRLTJTAiO9DYk",
+      "name": "Shri Shambhu Filling Station",
+      "address": "VH94+3C8, Sadholi Hariya",
+      "lat": 29.867674,
+      "lng": 77.5560656,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJS7j7jIKVDjkRI9OJ_OX-pYc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Khasra No 295 Barun, Malhipur Road, Panjora, Saharanpur",
+      "lat": 29.92706699999999,
+      "lng": 77.551087,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAfjzkhm_DjkR_coQ50tgs3g",
+      "name": "Indian Oil",
+      "address": "Nagal, Rood, Tapri",
+      "lat": 29.9128224,
+      "lng": 77.5861201,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJAfis5_G_DjkRupsWe9ErZSk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Nagala Saharanpur Road, Shekhpura Kadeem",
+      "lat": 29.9266512,
+      "lng": 77.5778713,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP1a72wjrDjkR9sfvQW6tbCY",
+      "name": "MIlap gas Shop",
+      "address": "Ch Ibrahim Munsi Gate, Ch Ahmed Ali Road, Ilahipura, Praduman Nagar, Saharanpur",
+      "lat": 29.937003,
+      "lng": 77.54389619999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH5hlBl3rDjkRdzhtj4dB4CQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Delhi - Saharanpur Road, Mohammadpur, Saharanpur",
+      "lat": 29.93961079999999,
+      "lng": 77.5406544,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ15ieh7TrDjkRwNZv13S6wmY",
+      "name": "RamSons Filling Station",
+      "address": "near JV Jain Degree College, Malhipur Road, Saharanpur",
+      "lat": 29.9400664,
+      "lng": 77.54735459999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ73Ekj__rDjkRvw5Tu-TPjaU",
+      "name": "A.R New Age fuels",
+      "address": "South City Gate No. 2 near Hasanpur, chungi, Delhi Road, Saharanpur",
+      "lat": 29.93988629999999,
+      "lng": 77.5404271,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4wsXRFS-DjkR8TcGLEZgM_4",
+      "name": "IndianOil",
+      "address": "Ground Floor Aghiana , Mustahakam, Lakhnaur",
+      "lat": 29.8904818,
+      "lng": 77.6037164,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAyUgvaLrDjkR73JvGr_Bj3A",
+      "name": "Doaba Gas Service",
+      "address": "Paper Mill Road, Saharanpur",
+      "lat": 29.9471944,
+      "lng": 77.5600784,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJM17W3LTrDjkRwCo5jjkhCYY",
+      "name": "Helping Others",
+      "address": "E, Saharanpur",
+      "lat": 29.94869,
+      "lng": 77.552145,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJSXIvXFrrDjkRB5mRE9dHyro",
+      "name": "Bharat Petroleum, Petrol Pump & CNG Pump -Jagan Nath & Co.",
+      "address": "Court Road, Saharanpur",
+      "lat": 29.9509326,
+      "lng": 77.5471989,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJu2kEkaHqDjkRNp_4RYTApEw",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bajoria Road, Janak Nagar, Saharanpur",
+      "lat": 29.956221,
+      "lng": 77.557045,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9X_vo8PrDjkRPjpGTB3KXZs",
+      "name": "Dhiman Auto Center",
+      "address": "XG4H+JQW, Nawada Road, Ankit Vihar, Navin Nagar, Saharanpur",
+      "lat": 29.9566138,
+      "lng": 77.5294473,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJC74wUOjqDjkR42HVk5QS2YQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, Dara Shivpuri, Saharanpur",
+      "lat": 29.95788599999999,
+      "lng": 77.529839,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcyAZJgDrDjkRYZuOYNhcWs0",
+      "name": "Petrol Pump- Shiva Fuel centre",
+      "address": "Khalasi Lines, Saharanpur",
+      "lat": 29.95941,
+      "lng": 77.52991709999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4WUyUZ7qDjkR1ow9o-Nv6b4",
+      "name": "IndianOil",
+      "address": "Ground Floor, Khanalampura, Saharanpur",
+      "lat": 29.961751,
+      "lng": 77.55944099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtcXh05PqDjkRZ8YmNQwHRgU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Ambala Road, Saharanpur",
+      "lat": 29.9651372,
+      "lng": 77.5443329,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC8BCdxW8DjkRjmw0oBuBp0g",
+      "name": "CHOUDHARY FILLING STATION",
+      "address": "State Highway 59, Nangal",
+      "lat": 29.83127429999999,
+      "lng": 77.63146789999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvUuYBsa-DjkRSP29uaKWsaw",
+      "name": "IndianOil",
+      "address": "Ground Floor, SH 59 Sandpur, Muzzafarnagar, Rd, Saidpura",
+      "lat": 29.880539,
+      "lng": 77.6415779,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwdE1RQC_DjkRUhKzkfHTZ6I",
+      "name": "Arya Filling Station",
+      "address": "SIDKI, SH-59, to, Muzzafarnagar, Gagalheri",
+      "lat": 29.8720951,
+      "lng": 77.63884279999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_T0BZni_DjkR9oxGAnzzQGs",
+      "name": "Humara Pump Vaidhik Filling Station",
+      "address": "VJGV+2Q, Sidki",
+      "lat": 29.875088,
+      "lng": 77.644432,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNwpTqca_DjkRgeTf513SeTY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Haroda Jhabreda Road, Sidki",
+      "lat": 29.874998,
+      "lng": 77.64437099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4Udxnwm9DjkRni5_Czva3og",
+      "name": "IndianOil",
+      "address": "RJQH+P3R, Saharanpur Road, Valmiki Colony, Mahrshi, Nangal",
+      "lat": 29.8389044,
+      "lng": 77.627357,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1xIdEF_HDjkR_EyVUN26Vnc",
+      "name": "IndianOil",
+      "address": "Ground Floor, Deoband Road, Khajuri Akbarpur",
+      "lat": 29.9529859,
+      "lng": 77.65708479999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJV8ljp_LqDjkR-PCSUsA9_Co",
+      "name": "Prakash Diesel Service",
+      "address": "near SBI Branch, Ambala Road, Saharanpur",
+      "lat": 29.9678252,
+      "lng": 77.5380497,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJw_yLSJLqDjkRITcTFrWrwfo",
+      "name": "IndianOil",
+      "address": "Ground Floor, Ambala Road, Saharanpur",
+      "lat": 29.9659733,
+      "lng": 77.5435289,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJByDpZIfqDjkRfc6Abkb_jyk",
+      "name": "Bharat Petroleum",
+      "address": "Behat Road, Nawabganj, Saharanpur",
+      "lat": 29.98022539999999,
+      "lng": 77.5542176,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJuzszaLPrDjkRuEZ6GUTE1zM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Chak Kazi Wala",
+      "lat": 29.978292,
+      "lng": 77.50071,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2aliE_7qDjkReDNwB1WOwMI",
+      "name": "IndianOil",
+      "address": "Ground Floor, Ambala Road, Saharanpur",
+      "lat": 29.972578,
+      "lng": 77.517273,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfcIrYQDtDjkRoj8FmSJpU2c",
+      "name": "AVON FUEL SERVICES",
+      "address": "XC4G+W38, Chandpura",
+      "lat": 29.957289,
+      "lng": 77.42519899999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJVSfXcQDtDjkRC8hu3suWYwo",
+      "name": "Petrol",
+      "address": "XCWQ+CR, Noorpur Mafi",
+      "lat": 29.9960396,
+      "lng": 77.4395632,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJH63lBX3rDjkRkYs5aSl6SFA",
+      "name": "Indian oil petrol pump",
+      "address": "near Pilkhani, Ground Floor Bhojpur Gujjar, near Pilkhani, Patni Rd, Pilakhni",
+      "lat": 30.0108401,
+      "lng": 77.4743356,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJXQdYIiXtDjkR5unpv3p88n8",
+      "name": "Bharat Petroleum, Petrol Pump -Modern Service Station",
+      "address": "AMBALA ROAD, SAHARANPUR, Saharanpur",
+      "lat": 29.9690936,
+      "lng": 77.5320863,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ70csHwDrDjkRds2DsyrdxL4",
+      "name": "Indian oil petrol pump",
+      "address": "Street number 1, nadeem colony, near peerji parking, Mandi Samiti Road, Nisar Colony, Saharanpur",
+      "lat": 29.9726711,
+      "lng": 77.5317259,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo47EjfHqDjkRYj4gEqBRnSo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Ambala Road, Saharanpur",
+      "lat": 29.9690208,
+      "lng": 77.5326893,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJf5ChoUbqDjkRRT2VzKlkD5E",
+      "name": "KING AUTO LINKS ( Sadik’s Nayara Energy Pump)",
+      "address": "Halalpur, Saharanpur",
+      "lat": 29.995922,
+      "lng": 77.5320065,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB1-pGGHqDjkRVU63ecoHZ3g",
+      "name": "IndianOil",
+      "address": "Ground Floor, Chilkana Road, Saharanpur",
+      "lat": 29.983877,
+      "lng": 77.54227399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJF5TTVv7rDjkRZ_7R8a8o_sI",
+      "name": "Bharat Petroleum, Petrol Pump -Chawla Service Station",
+      "address": "JOGIAN BRIDGE , SAHARANPUR, Saharanpur",
+      "lat": 29.968208,
+      "lng": 77.5478364,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIbKMCMHrDjkR0Hvk9ZkEEAc",
+      "name": "M.K Enterprises",
+      "address": "arbi Madarsa, 15, Chilkana Road, Saharanpur",
+      "lat": 29.9787367,
+      "lng": 77.54698259999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJxwuDgJPtDjkROcikyIpnB0k",
+      "name": "JP Fuels",
+      "address": "Khasra No - 539, Vill- Budhera, Tehsil - Nakur NH-344, Saharanpur",
+      "lat": 29.9705137,
+      "lng": 77.4001231,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJz-hsGobqDjkRVInNYGqSeJE",
+      "name": "Sai Trading Company",
+      "address": "XHG2+7FJ, Khumran Road, Nawabganj, Saharanpur",
+      "lat": 29.975713,
+      "lng": 77.5511351,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJW3TKwGLrDjkREQvMx43QNWw",
+      "name": "Indian Oil Corporation Ltd",
+      "address": "Bsh, Saharanpur",
+      "lat": 29.9687921,
+      "lng": 77.55285219999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJgQtT2H7rDjkRyAgXSXGUd7U",
+      "name": "Shanti Enterprise",
+      "address": "Shop Number 05, Road Par Markit, Me, Rajgarh",
+      "lat": 29.9680034,
+      "lng": 77.55520659999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJP8kkGwDrDjkREoplIT7iuSw",
+      "name": "Bharat Petroleum",
+      "address": "XH94+634, Saharanpur",
+      "lat": 29.9680035,
+      "lng": 77.55520659999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJJ-6U333qDjkRRotJO0Z6Onw",
+      "name": "IndianOil",
+      "address": "Ground Floor, Behat Road, Saharanpur",
+      "lat": 29.982403,
+      "lng": 77.55606100000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwbQpGjDADjkR3DqVQqqScgw",
+      "name": "Nayara Petrol Pump",
+      "address": "Janta Road, Hanumat Vatika, Saharanpur",
+      "lat": 29.9722938,
+      "lng": 77.5739754,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsdDWCDnADjkRWByKXOMMk5c",
+      "name": "IndianOil",
+      "address": "NH 73, Dehradun Road, Saharanpur",
+      "lat": 29.968767,
+      "lng": 77.58099399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGVzDdCbADjkRqbaIvnDpXKo",
+      "name": "भारत पेट्रोलियम",
+      "address": "India",
+      "lat": 29.9691204,
+      "lng": 77.5674451,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ-S66ferBDjkRByI5BOQiFwU",
+      "name": "Bharat Petroleum, Petrol Pump -Star Automobile Service",
+      "address": "MAHIPURA , DEHRADUN ROAD, Dehradun Road, Mahipalpur, Saharanpur",
+      "lat": 29.9674013,
+      "lng": 77.5737518,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl5Jb8cfBDjkRP7tWLUyFYTw",
+      "name": "KALU RAM ROOP CHAND",
+      "address": "adjacent Five Star Dhaba, Dehradun Road, Saharanpur",
+      "lat": 29.9689713,
+      "lng": 77.58270019999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHSXENNzBDjkRQnhryXFxnlg",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 30.0019837,
+      "lng": 77.56881539999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJFwftx1rADjkR52b4AEiB2dg",
+      "name": "Reliance Petroleum",
+      "address": "Village Sarak Dudhli Dehradun Rd Saharanpur Uttar Pradesh 247001 IN, Dehradun Road",
+      "lat": 29.971946,
+      "lng": 77.597191,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjd1cD8rBDjkRiqSjQZW0GqE",
+      "name": "IndianOil",
+      "address": "Ground Floor, SH 57, Saharanpur Road - Behat, Naajirpura",
+      "lat": 30.0079989,
+      "lng": 77.5717359,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB3KMDn3BDjkRPib9ypgus0o",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Khasra No 28/1, near Sai Baba Mandir, Dewala",
+      "lat": 30.0106316,
+      "lng": 77.57249159999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRzqO4enADjkRQur8XQtGiXA",
+      "name": "IndianOil",
+      "address": "Ambala Road, KailashPur",
+      "lat": 29.9723783,
+      "lng": 77.6310091,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJE5xBCTHHDjkRlNG4pJVle_4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Dehradun Road, Gagalheri",
+      "lat": 29.976321,
+      "lng": 77.6612801,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFzzsSTHHDjkR0pWQegraiZU",
+      "name": "IndianOil",
+      "address": "Ground Floor, Gagalheri, Deoban Muzafarnagar Rd, Chowk, Bhagwanpur",
+      "lat": 29.9743931,
+      "lng": 77.6607047,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5-5ueLjBDjkRLtuGs4YJIJQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Tiwaya Road, Behrampur, Niwada Tiwaya",
+      "lat": 30.001334,
+      "lng": 77.644361,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgTRCMzvHDjkRzrMoay_J9-I",
+      "name": "YASH BHARAT GAS GRAMIN VITRAK",
+      "address": "India",
+      "lat": 29.9801757,
+      "lng": 77.6689401,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJE1pOUgXHDjkRY_p5qU-Hruc",
+      "name": "Super Fuels CNG AVAILABLE 24 HR [smart fleet facility available]",
+      "address": "Bhagwanpur Road, Makka Bans",
+      "lat": 29.9711324,
+      "lng": 77.6729818,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKfmiCp7BDjkRch5PCz4-d9c",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Barauli Marg, Janta Road, Saharanpur",
+      "lat": 30.0141092,
+      "lng": 77.60643449999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP44hk9PHDjkR9SdMsiLegJU",
+      "name": "IndianOil",
+      "address": "kashra Number 354, Bhagwapur road, Budha Khera",
+      "lat": 29.9678057,
+      "lng": 77.68765789999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6-OdZ7PHDjkRWy_2qVUHd3k",
+      "name": "Sharee Ram Fuels",
+      "address": "Bhagwanpur -Roorkee Road, Gagalheri",
+      "lat": 29.9675882,
+      "lng": 77.68794,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJyd_CvmTDDjkRwuTaza4-sqw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Shakhumbhari University, Janta Road, Punwarka",
+      "lat": 30.0350631,
+      "lng": 77.6268171,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoYtGND7pDjkRriVZNvg2feU",
+      "name": "IndianOil",
+      "address": "Chilkana Road, Katla Kalan Road, Katala",
+      "lat": 30.0460843,
+      "lng": 77.4919427,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJT8xXLQDpDjkR60DqVLabl5w",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Saharanpur Division, Ground Floor Chilkana Saharanpur Road",
+      "lat": 30.035234,
+      "lng": 77.50116,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPwKPiBjvDjkRvCuzn2o0WWg",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sarsawan Chilkana Road Sultanpur, Telipura, Alipura",
+      "lat": 30.034626,
+      "lng": 77.445595,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhQD5qvvvDjkRSL0CIgaeTMs",
+      "name": "SHRI DEEP SHAKTI SERVICE STATION",
+      "address": "Salooni",
+      "lat": 30.0308885,
+      "lng": 77.44168619999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJgfh6FgDpDjkRnD9MNPQW0j4",
+      "name": "Shri shyam filling station",
+      "address": "3F7H+P3R, Patni",
+      "lat": 30.06435849999999,
+      "lng": 77.4776328,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDWrLIjTvDjkRYQAuhlyX4ng",
+      "name": "IndianOil",
+      "address": "Saharanpur Road, Chilkana Sultanpur",
+      "lat": 30.0727174,
+      "lng": 77.4724622,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKS2WSsTvDjkRsh-676aKge4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Ambala Road, Saharanpur",
+      "lat": 30.01472499999999,
+      "lng": 77.413034,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJd5CFtjTvDjkR-kKxh1Ly1-k",
+      "name": "CNG PUMP Saharanpur Road Sarsawa",
+      "address": "Sarsawa, Saharanpur NH-73, Saharanpur Bypass Road, Yamuna Nagar, Saharanpur",
+      "lat": 30.01621010000001,
+      "lng": 77.40587769999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJy0Z0sJzvDjkRh1hf01DTNE4",
+      "name": "AGGARWAL GENETICS SERVICES",
+      "address": "299X+V52, Sarsawan Dehat",
+      "lat": 30.0196299,
+      "lng": 77.3979018,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJT-ikcQDDDjkR4BINAX4nUzI",
+      "name": "Ghunna Filling Station CNG",
+      "address": "3H8M+7C, Kalluwala",
+      "lat": 30.06568229999999,
+      "lng": 77.58356599999999,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJObHbEQDDDjkRoc5LPI6YLSw",
+      "name": "Sadbhavna filling station",
+      "address": "Matki Jharoli",
+      "lat": 30.0698318,
+      "lng": 77.58646279999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJb1jgaQDDDjkRy5Pa2MuDquQ",
+      "name": "Shree Ram filling station Jio BP",
+      "address": "3HFR+M2, Matki Jharoli",
+      "lat": 30.0743776,
+      "lng": 77.58966459999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYaAcbgDDDjkR96SSCuXcraY",
+      "name": "D.p gupta filling station",
+      "address": "Ghunna",
+      "lat": 30.07736280000001,
+      "lng": 77.5928531,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuV5NuXLDDjkRjLsT_Wo98zE",
+      "name": "fuel suppliers",
+      "address": "312, Randol, Saharanpur",
+      "lat": 30.09514009999999,
+      "lng": 77.5627135,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ0RXUrOTCDjkRv9LNw58dVok",
+      "name": "IndianOil",
+      "address": "Ground Floor, State Highway 57, Tajpur, Babail Buzurg",
+      "lat": 30.0852397,
+      "lng": 77.59946599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKxUMr_vDDjkRFTysQ48938Y",
+      "name": "Bharat Petroleum",
+      "address": "3MJ3+W9R, Manakpur Road, Badalpur",
+      "lat": 30.0823652,
+      "lng": 77.6533985,
+      "open_now": null
+    }
+  ]
+}

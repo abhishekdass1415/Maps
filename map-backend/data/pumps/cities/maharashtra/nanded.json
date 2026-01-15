@@ -1,0 +1,971 @@
+{
+  "city": "Nanded",
+  "state": "Maharashtra",
+  "count": 120,
+  "center": {
+    "lat": 19.1667,
+    "lng": 77.3333
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJVYMCsCIqzjsRdMUIV41CgZ4",
+      "name": "Petrol Pump",
+      "address": "NH 361, BYPASS ROAD, ARDHAPUR",
+      "lat": 19.0994513,
+      "lng": 77.2756105,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKalQjN8pzjsR5EwPo61qpdw",
+      "name": "BPCL- Pensalwar Pump.",
+      "address": "MHADA Colony, Nanded",
+      "lat": 19.12553459999999,
+      "lng": 77.3109516,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTeVBVwArzjsRAVIN_LaAxJY",
+      "name": "Rk cng pump 03 vishnupuri te somthana rod",
+      "address": "37G2+JX, Dhangarwadi",
+      "lat": 19.0773353,
+      "lng": 77.25269469999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ72UY6r0rzjsRG7WT8Oy-k_Q",
+      "name": "Bharat Petroleum, Petrol cng Pump -Gunaji Petroleum",
+      "address": "DERLA, NANDED LOHA ROAD, N, Nanded",
+      "lat": 19.077016,
+      "lng": 77.2531137,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVXig1fopzjsR9B3vs1ud9Ss",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "GUT No 95, near Latur Phata, Latur - Nanded Highway, Aundha Naganath, Nanded",
+      "lat": 19.1161099,
+      "lng": 77.2978574,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUyI73y0rzjsR-fQj-eIAFOc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gut No 106, Latur - Nanded Highway, Janapuri",
+      "lat": 19.05864099999999,
+      "lng": 77.239611,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9SfFFuIpzjsRAkKaNBmfTts",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 19.1241585,
+      "lng": 77.3027774,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJxf12fvgpzjsRFXVk-rPSfAM",
+      "name": "GUNDEGAONKAR KISAN SEVA KENDRA PETROL PUMP",
+      "address": "Cidco, to, Osman Nagar Road, at, Gundegaon",
+      "lat": 19.0814683,
+      "lng": 77.3130785,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJscrTj7Dj0TsR7Q0qlVpjvjA",
+      "name": "IndianOil",
+      "address": "Gut No 67, 1/1, Vasarni, Nanded",
+      "lat": 19.1196835,
+      "lng": 77.31015699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9YOEqJwpzjsRemGav1r-mLY",
+      "name": "Shlok Sales And Services Petroleum",
+      "address": "Nanded",
+      "lat": 19.0868125,
+      "lng": 77.3163125,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJR8RZzkXX0TsRbENT6g8HXrQ",
+      "name": "Mansi Tyre Pumchar Center",
+      "address": "1, Nanded",
+      "lat": 19.1290343,
+      "lng": 77.3064157,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJx9NorobV0TsRkXbY0zqaXjw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No, 134 & 135, Sugaon Khurd",
+      "lat": 19.1502494,
+      "lng": 77.2544874,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsfwUldspzjsRXE3iiAbQEFQ",
+      "name": "IndianOil",
+      "address": "S No, 51, Ambedkar Chowk, Cidco, Nanded",
+      "lat": 19.118893,
+      "lng": 77.316544,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLXAY9KcpzjsRURhqqfKQWQk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gut No 60 NH 50, CIDCO, Osman Nagar, Road, Waghala, Nanded",
+      "lat": 19.1047896,
+      "lng": 77.3233259,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZbef1KLV0TsRCknTlAZvXzU",
+      "name": "Krishna HP gas agency",
+      "address": "46F5+78M, Unnamed Road, Rahati Bk.",
+      "lat": 19.1232096,
+      "lng": 77.20830169999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJu60wxP_X0TsR4UMea7dmXnU",
+      "name": "Bharat petrol pump",
+      "address": "48R4+WRW, Gowardhan Ghat Bridge Road, Kautha, Nanded",
+      "lat": 19.1423676,
+      "lng": 77.3070718,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZRiO4XPW0TsRBJlFMnPbRNY",
+      "name": "Bharat Petroleum",
+      "address": "573V+F8Q, Waghi Road, Khadakpura, Nanded",
+      "lat": 19.15371739999999,
+      "lng": 77.293353,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJu-tWJj4pzjsR3NhijmF6-cA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gut No 16, Cidco Nanded, NH 50, near Osman Nagar Road, Rahimpur, Mujampeth",
+      "lat": 19.119101,
+      "lng": 77.326601,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3TjTSQDX0TsRKUg1Qb3DVw8",
+      "name": "KGN Petroleum",
+      "address": "1, Waghi Road, Dulleshah Raheman Nagar, Nanded",
+      "lat": 19.1539364,
+      "lng": 77.293351,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJEcKJhnHW0TsRbQ-7koXfbCs",
+      "name": "पावती ज्वेलेंस",
+      "address": "573W+P69, Waghi Road, Vazirabad, Nanded",
+      "lat": 19.1542913,
+      "lng": 77.29561749999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJnZD7H9QpzjsRYCQDLyqBtkA",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 19.1225693,
+      "lng": 77.32672529999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJIUXcYR3X0TsR7ehgB3wO6FI",
+      "name": "Girish Gas & Fuel - Kautha",
+      "address": "02, Juna Mondha Road Kautha Naka",
+      "lat": 19.1393196,
+      "lng": 77.31566289999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ4eRKxfsrzjsRUg-j4ODez14",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gut No 18 P, NH 361, Latur - Nanded Highway, Loha, Sonkhed",
+      "lat": 19.038201,
+      "lng": 77.223731,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxcxxgWrW0TsRxcsJSa82-Ok",
+      "name": "Kamdhenu Petroleum",
+      "address": "India",
+      "lat": 19.1517207,
+      "lng": 77.30924680000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJEcMRgWrW0TsRMMMiv4twvVU",
+      "name": "KAMDHENU PETROLEUM",
+      "address": "5825+PM9, Gowardhan Ghat Bridge Road, Borban Factory Area, Vazirabad, Nanded",
+      "lat": 19.1517836,
+      "lng": 77.3092398,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJbXCkR7fX0TsRDcurX8Mq7c4",
+      "name": "Zyada Gas Auto LPG Pump",
+      "address": "23/24, Gowardhan Ghat Bridge Road, Borban Factory Area, Vazirabad, Nanded",
+      "lat": 19.1517875,
+      "lng": 77.30930099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJie-KRwArzjsRWTDblwgwMG4",
+      "name": "Venkat Rao petrol pump Sankheda pump",
+      "address": "26QC+2W2, Haldav",
+      "lat": 19.0374937,
+      "lng": 77.223226,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJW4B7QP7X0TsRPW7tMTzv_yY",
+      "name": "Dhanegaonkar Petroleum",
+      "address": "48HH+XMG, Mujampeth",
+      "lat": 19.1302963,
+      "lng": 77.3296999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhSWTi9fX0TsRQcLTrts4Lkc",
+      "name": "IndianOil",
+      "address": "Ground Floor Dhanegaon, Adgaon, Nanded",
+      "lat": 19.1298258,
+      "lng": 77.34384659999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLxoK4ULW0TsR0ifXxdap4ag",
+      "name": "GUNWANT PETROLEUM, HP Petrol Pump",
+      "address": "Station Road Nanded, Sholapur",
+      "lat": 19.1592745,
+      "lng": 77.3120158,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHw8Es1vW0TsRZVSBCp9m3NM",
+      "name": "Dantiwala Bharat Petroleum",
+      "address": "5889+35V, Railway Station Road, Maganpura, Hyder Bagh, Dashmesh Nagar, Harsh Nagar, Nanded",
+      "lat": 19.165246,
+      "lng": 77.31792999999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJTbuq9S8ozjsRJ8zDZFnZxkI",
+      "name": "Bharat Petroleum- Munjaji Petroleum",
+      "address": "India",
+      "lat": 19.1177408,
+      "lng": 77.3436802,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjUi3U9fX0TsRvuK9_wqLiK8",
+      "name": "Dhanegaon Petroleum Pump",
+      "address": "Gut No 36, National Highway 161, Babarpur, Dhanegaon, Nanded",
+      "lat": 19.133791,
+      "lng": 77.343301,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHWWCLcUpzjsRYSL7gI9bKqQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 201/2 SH 06, Nanded Hyderabad Road, Tuppa",
+      "lat": 19.0847542,
+      "lng": 77.36093319999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJi_1gLrzX0TsR5eiE9K_yVmM",
+      "name": "PMK PRIDE",
+      "address": "48JQ+WG5, Nagpur - Tuljapur Highway, Dhanegaon, Nanded",
+      "lat": 19.1326244,
+      "lng": 77.3385309,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJyY2vOJkozjsRXVYpkoFiUX0",
+      "name": "IndianOil",
+      "address": "Survey No 97, 1 97/2, Degloor - Nanded Road, Kakandi",
+      "lat": 19.0643271,
+      "lng": 77.3714356,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm_IoEsPX0TsRInS-oJlLJPI",
+      "name": "RK Petroleum Nanded",
+      "address": "India",
+      "lat": 19.14241999999999,
+      "lng": 77.3514514,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ36-FVqPX0TsRhVcg91odHKs",
+      "name": "IndianOil",
+      "address": "Gut No 28, Kapsi, Fattepur",
+      "lat": 19.1407217,
+      "lng": 77.3602518,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3eW1iMQlzjsRtZdSVduNVHM",
+      "name": "IndianOil",
+      "address": "Gut No 216, Chauphala - Degloor Naka Road, Martala",
+      "lat": 19.1482849,
+      "lng": 77.3300458,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0V08DUrX0TsR65oDCJmA09w",
+      "name": "Petrol Pump",
+      "address": "Hind, Ganga Nagar Road, Nanded",
+      "lat": 19.1492407,
+      "lng": 77.33410649999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ9WQZRCTX0TsRcBZScG3miWs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gut No 81, P & 84/P, Wadi Puyad",
+      "lat": 19.138178,
+      "lng": 77.369506,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkxqzXEfX0TsRsifCmPcaqNQ",
+      "name": "Deep Naresh Petroleum",
+      "address": "1, Nanded",
+      "lat": 19.1497022,
+      "lng": 77.32076409999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJq3I_Ij4pzjsRWCEmUWnYgqY",
+      "name": "Ramakrishna Petroleum",
+      "address": "Gut No :- 215, Hyderabad Highway, Nanded",
+      "lat": 19.059373,
+      "lng": 77.3752587,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJyWXV8EfW0TsRkD_ViwEXYHs",
+      "name": "IndianOil",
+      "address": "CTS No 2035, Bhagat Singh Road, Nanded",
+      "lat": 19.1502446,
+      "lng": 77.32003929999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEXBrUxTX0TsRsE4mx4H7gso",
+      "name": "Bharat Petroleum Petrol Pump , BABA PETROL PUMP",
+      "address": "Banana Research Center, OPP, NANDED CITY, Nanded",
+      "lat": 19.1559538,
+      "lng": 77.3251023,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDeTzn7TX0TsR8Ocq5VDlC7Y",
+      "name": "HYDER PETROLEUM",
+      "address": "1 & 2،, Hyder Bagh Street, Hyder Bagh 1 & 2",
+      "lat": 19.15656,
+      "lng": 77.33387909999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-xgUgobX0TsRM5MfH9FD3TQ",
+      "name": "Go Gas",
+      "address": "5859+M3P, Samrat Nagar, Hyder Bagh, Dashmesh Nagar, Nanded-Waghala",
+      "lat": 19.1592014,
+      "lng": 77.3177113,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJtWhllQsnzjsRcFF6LYOnBG0",
+      "name": "Bharat Petroleum Petrol & CNG Pump , SHRI BALAJI PETROLEUM",
+      "address": "TARFE TUPPANANDED, Degloor - Nanded Road, AT, Kakandi",
+      "lat": 19.051499,
+      "lng": 77.381905,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFfb1iOnX0TsRdZjKN5Ni-dU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 6 Gate, No 2, near Railway Station - Bafna Road, Railway Station Road, Nanded",
+      "lat": 19.1590373,
+      "lng": 77.3116196,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJi_7Rq5TX0TsRB41O2i7rlPo",
+      "name": "Bharat Petroleum, Petrol Pump -G.R. Choudhari",
+      "address": "STATION RD NANDED, NR RAI, Nanded",
+      "lat": 19.15918259999999,
+      "lng": 77.31097129999999,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJ2Umg2VrW0TsREKBVaeZMuDM",
+      "name": "DELTA",
+      "address": "India",
+      "lat": 19.1623222,
+      "lng": 77.3183472,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJOcqzVQXX0TsRohxUz8W_pC0",
+      "name": "Girish Gas & Fuel LPG @Bafna",
+      "address": "near Bafna Bridge, LIC Office Road, near Bafna Bridge, Nanded",
+      "lat": 19.1646164,
+      "lng": 77.323019,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJP2o7kQgmzjsR9CTDn5sPK6E",
+      "name": "Balaji Filling Station",
+      "address": "Martala, Nanded, NH-161, Hingoli Nanded Degloor Road, Nanded, Nanded",
+      "lat": 19.041973,
+      "lng": 77.39080799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJF4kNv1UlzjsRnKo5a0gUPyY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gut No, 273 Loha, Kapsi Main Road, Martala",
+      "lat": 19.03590119999999,
+      "lng": 77.39433400000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRWK55p3W0TsRktBdRigj2Qs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near Pawde Mangal Karyalay, Gut No 219/A/B Purna Road, Wadi BK, near Pawde Mangal Karyalay, Pawdewadi",
+      "lat": 19.1881166,
+      "lng": 77.2881498,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1XnEz1nW0TsRTbyUwTuH9cw",
+      "name": "IndianOil",
+      "address": "Ground Floor, Asdullabad, Limbgaon",
+      "lat": 19.169689,
+      "lng": 77.32009099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzUN8jUXU0TsRjtWgdrjOdpw",
+      "name": "IndianOil",
+      "address": "Survey No 110/A, Ashoknagar, Wadi Bk.",
+      "lat": 19.18112139999999,
+      "lng": 77.2561891,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbdRLshrV0TsRTWzajGn7fmM",
+      "name": "SINDHUTAI PAWDE PETROLEUM & CNG",
+      "address": "Sindhu nagar, opposite Shubham function hall, Purna Road, Wadi(Bk, Nanded",
+      "lat": 19.1909117,
+      "lng": 77.28400239999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC5ctg8TV0TsR5RU4cOlCWGs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gut No 160, P Nanded Purna Road, Sayal Road, Nanded",
+      "lat": 19.1817275,
+      "lng": 77.23191100000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_dSug5vW0TsRl7D59iymJLE",
+      "name": "M/s. Pawde Petroleum",
+      "address": "Plot no 216A2, Purna Road, Chatrapati Nagar, Wadi Bk.",
+      "lat": 19.1863144,
+      "lng": 77.29287000000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM1VDwWnX0TsR2eI83PqNdwk",
+      "name": "Zyada Gas Auto LPG Pump",
+      "address": "Frount of BSNL Office, Purna Road, Naka, Nanded",
+      "lat": 19.1852783,
+      "lng": 77.29841560000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ8UTV3bX0TsRL58vVQhjyG0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 6458, near Police Quarters, ITI Road, Sneh Nagar, Nanded",
+      "lat": 19.172748,
+      "lng": 77.304729,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkVEuEGHW0TsRibFATLwBF6w",
+      "name": "IndianOil",
+      "address": "Cts No 6365, Plot No 120/C, Guru Gobind Singh Ji Road, Industrial Estate, Nanded",
+      "lat": 19.1682729,
+      "lng": 77.3056855,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaVJNaADX0TsRATXOmPcJj8c",
+      "name": "Gitte petrol pump nanded",
+      "address": "Gitte petrol pump, Nanded Malegaon Road, Nanded",
+      "lat": 19.1907219,
+      "lng": 77.2974046,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJt7D34pDX0TsRNpwGOgxXh9c",
+      "name": "VIJAYMALA AIR CENTER",
+      "address": "SHOP NO 1, near INDIAN OIL NEAR ITI, Nanded",
+      "lat": 19.1685065,
+      "lng": 77.30583759999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJWclxk-PX0TsRaPfzX6fTIRE",
+      "name": "MP Gite Bharat Petroleum",
+      "address": "57RW+QVX, Nanded Malegaon Road, Bodhisattva Nagar, Ashtvinayak Nagar, Nanded",
+      "lat": 19.1919795,
+      "lng": 77.297247,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJlekV2o3W0TsRBWnYrLHQkME",
+      "name": "IndianOil",
+      "address": "Survey No 12, Jangamwadi",
+      "lat": 19.181707,
+      "lng": 77.304146,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ78-oxerX0TsRZT-W2cyJkkc",
+      "name": "HP Free Air",
+      "address": "Shop No, near Hp Petrol Pump, 7, Airport Road, Chandan Nagar, Nanded",
+      "lat": 19.1843699,
+      "lng": 77.30799449999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJo4RQJHvX0TsRImuDKc4JS_I",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gut No 227, Tarodekar Chambers, near Shiv Mandir Road, Vital Nagar, Taroda Bk.",
+      "lat": 19.184381,
+      "lng": 77.30834899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpX4j0qXW0TsR4b4n7ooFw-4",
+      "name": "G. J. Munde Fuel Station",
+      "address": "673V+F4W, taroda road, Malegaon",
+      "lat": 19.2037488,
+      "lng": 77.2928403,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ_wL2KunX0TsRdeQuwBfPr2k",
+      "name": "Bhadre Petroleum",
+      "address": "Shakarnagar, Bhopala",
+      "lat": 19.1930518,
+      "lng": 77.3053334,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJY-yeqTLX0TsR7dhSei0ag_M",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gut No 221, near RAJ CORNER, Chaitanya Nagar, Taroda Bk.",
+      "lat": 19.184679,
+      "lng": 77.31317899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpWVMXKnW0TsRNEKoiRWAHJ8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gut No 130, Nanded Malegaon Road, Pasadgaon",
+      "lat": 19.2115647,
+      "lng": 77.2909902,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHTyBXnLX0TsRVnoBfXlcoMc",
+      "name": "Ratnakars Auto Fuels",
+      "address": "Shop No.1, 2, 3, 4, 5, Pandurang Appartment, Hingoli Bypass Road, Namskar Chowk, Nanded",
+      "lat": 19.1762706,
+      "lng": 77.3262474,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ45JBPqbX0TsR5cRzRMxb-yk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gut No 142, near Namaskar C, 2/C, New Airport Bypass Road, Nanded",
+      "lat": 19.1749029,
+      "lng": 77.3311861,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNb-_m3_X0TsRvVdfEyGuvY8",
+      "name": "IndianOil",
+      "address": "Survey No 37 Cts No 9479, Sangvi",
+      "lat": 19.1849127,
+      "lng": 77.3313151,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrTxvxBDR0TsRPpEHU9TNyh8",
+      "name": "Anurag Petroleum | BPCL",
+      "address": "AT NERALI GUT NO 59NANDED, Nanded Malegaon Road, Nanded",
+      "lat": 19.2302889,
+      "lng": 77.292313,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJMdOyiFXX0TsRNgPtKu8FbYk",
+      "name": "IndianOil",
+      "address": "Gut No 21/A, Mhalja, Nanded",
+      "lat": 19.17528099999999,
+      "lng": 77.338814,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4WvI3iLX0TsRKMTdpn2IR6Q",
+      "name": "IndianOil",
+      "address": "Survey No 235, Pimpalgaon Mahadeo",
+      "lat": 19.2008491,
+      "lng": 77.34267659999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJebxFCjTX0TsRGXMLqSotR2w",
+      "name": "Sunder motors Bharat petroleum",
+      "address": "688X+XW3, SH148, Pimpalgaon Mahadeo",
+      "lat": 19.2173875,
+      "lng": 77.3497969,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNYdDh6PX0TsR_ulYWNZiOoI",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kapsi, Bondhar Tarf Haveli",
+      "lat": 19.1670281,
+      "lng": 77.34980379999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJD3GhVgXX0TsRdX0BO1nyxYY",
+      "name": "Girish Gas & Fuel LPG @Aasna",
+      "address": "GAT NO.276, DIST, KAMTHA KHURD, TAL",
+      "lat": 19.1861289,
+      "lng": 77.3436571,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhc85tw_X0TsReA2em1NCnhQ",
+      "name": "Bharat Petroleum, Petrol Pump -Lala Petroleum",
+      "address": "KAMATHA, NANDED BYE PASS, Nanded",
+      "lat": 19.1848381,
+      "lng": 77.34606,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtcnf-2nX0TsR-2Wqn2F2oU8",
+      "name": "Bharat Petroleum (BPCL) - Aspire Petroleum / CNG",
+      "address": "Aspire petroleum ,Gut no.127, Pimpalgaon Mahadeo ,Tq, Dist, Ardhapur",
+      "lat": 19.2139583,
+      "lng": 77.34980519999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM0EHYADX0TsRw3MOhLzpr2w",
+      "name": "RK_cng_nanded_to_hingoli_rod",
+      "address": "6982+Q5, Pimpalgaon Mahadeo",
+      "lat": 19.2140503,
+      "lng": 77.3497387,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJo8mJaCba0TsRPbPBuU-DkCk",
+      "name": "Bharat Petroleum",
+      "address": "Mudkhed, NH-222, Basmath Nanded Bhokar Bhainsa Nirmal Road, Nanded",
+      "lat": 19.230806,
+      "lng": 77.410725,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYcU6Ldbb0TsR2YeElf2GWdw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "GUT No 23 Khairgaon, Ardhapur, Barad",
+      "lat": 19.2285066,
+      "lng": 77.4330533,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2yvVWTrZ0TsRQMNCBIrBHno",
+      "name": "Bharat Petroleum, Petrol Pump -Sunder Motors",
+      "address": "PIMPALGAON, HINGOLI RD, Nanded",
+      "lat": 19.2191178,
+      "lng": 77.3854647,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbyNlJgDb0TsReFkTCsRRCLk",
+      "name": "Naded patrol pump",
+      "address": "6CJ6+94G, National Highway 61, Barasgaon",
+      "lat": 19.2307837,
+      "lng": 77.4106915,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJvf-gmEzf0TsRPbirlp1WvbU",
+      "name": "IndianOil",
+      "address": "Ground Floor, Mudkhed",
+      "lat": 19.1540578,
+      "lng": 77.4715004,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpxbfSELb0TsRMv-thCQ0cNU",
+      "name": "IndianOil",
+      "address": "Gut No 253, Part, Barasgaon",
+      "lat": 19.2328701,
+      "lng": 77.3976879,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJT6M2injS0TsRGPQ-sJUjXCk",
+      "name": "Padmavati Petroleum (Bharat Petroleum)",
+      "address": "Basmat - Nanded Road, Tirumala Nagar, Nanded",
+      "lat": 19.307173,
+      "lng": 77.248982,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJO6cf_Q7T0TsRuSjuZkL10Vo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gut No 247, Nanded Road, Marlaknila, Nila",
+      "lat": 19.2396883,
+      "lng": 77.2335816,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNRCrfsXT0TsRpl9B0eE4b9I",
+      "name": "सिंधू ताई पेट्रोलियम नांदेड",
+      "address": "66QM+W9H, Nanded",
+      "lat": 19.2398059,
+      "lng": 77.2334857,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJyyhIVGTT0TsRMXbzRbM2RcY",
+      "name": "IndianOil",
+      "address": "Gut No 25, Daur",
+      "lat": 19.2817286,
+      "lng": 77.2688763,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJve4QBUTT0TsRRdyhyCm7MGo",
+      "name": "Jayesh petroleum malegaon",
+      "address": "NH752",
+      "lat": 19.2987862,
+      "lng": 77.28122359999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJl5a31jPT0TsRs2rvIWYNP1k",
+      "name": "Shri Sai Servo Care",
+      "address": "Ardhapur - Basmath Road, Tq, Malegaon",
+      "lat": 19.3021802,
+      "lng": 77.26576179999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJt19Duo_Q0TsRXX_q3knlmqg",
+      "name": "Bharat Petroleum",
+      "address": "NH-204, Latur Nanded Yavatmal Wardha Road, Nanded",
+      "lat": 19.26004099999999,
+      "lng": 77.36485499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqQk7wQLR0TsRrpbSH0EjK8E",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gut No 229, P Manik Nagar, Ardhapur, Dabhad",
+      "lat": 19.229212,
+      "lng": 77.352481,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGRQc4UvR0TsRNDm9JFDezqo",
+      "name": "IndianOil",
+      "address": "Ground Floor, Latur-Nanded Highway, Nanded",
+      "lat": 19.232808,
+      "lng": 77.353807,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzUyyC8jQ0TsROrffuaTn7xM",
+      "name": "Jio-bp",
+      "address": "Gat No 212, MSH 2, Hingoli Road, Nanded",
+      "lat": 19.2340901,
+      "lng": 77.3543803,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJk87FuFnR0TsRjCqY3WK_RCM",
+      "name": "Kamal Petroleum",
+      "address": "Gut No 279/P, Dabhad",
+      "lat": 19.2401327,
+      "lng": 77.35628779999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8yZ0ZyXX0TsRqmcbk16o7FI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "GUT No 30, NH 61, Nagpur - Tuljapur Highway, Nanded",
+      "lat": 19.22201009999999,
+      "lng": 77.35072009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNRKqOL_Q0TsRU4X4RVZ7meI",
+      "name": "SAI BABA PETROL PUMP",
+      "address": "69R4+CPQ",
+      "lat": 19.2410838,
+      "lng": 77.3568519,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ0aXLz5XQ0TsRpD3VONc4pSw",
+      "name": "MUJAWAR PETROLEUM - HP PETROL PUMP",
+      "address": "Jamrun",
+      "lat": 19.2478281,
+      "lng": 77.3598758,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJV_Hgqq3R0TsR_pcDqNl0I78",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gut No 271/P, Near, Jamrun",
+      "lat": 19.2484514,
+      "lng": 77.3603629,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1Sbju7zQ0TsRFEb5LvxjLqs",
+      "name": "IndianOil",
+      "address": "Gut No 73 Dabhad, Ardhapur, Kapsi",
+      "lat": 19.2415623,
+      "lng": 77.3657831,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPbaSoJHQ0TsRCThYxhEtCAs",
+      "name": "IndianOil",
+      "address": "Gut No 77, Ardhapur, Jambharun, Saregaon",
+      "lat": 19.2549762,
+      "lng": 77.3628057,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJta7WdgzR0TsRYJy603boUQ8",
+      "name": "Bharat petrol pump",
+      "address": "78GH+RJQ, Gondiya - Ghungarde - Hadgaon Road, Ganpur",
+      "lat": 19.2770792,
+      "lng": 77.3290967,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJv2NJWRstujsRaG5nmGngczs",
+      "name": "IndianOil",
+      "address": "Gut No 636 SH 3, Hingoli, Ardhapur, Chauphala, Near, hingoli road",
+      "lat": 19.2637131,
+      "lng": 77.36760149999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-4l8agDR0TsR9FBAuPf4jsI",
+      "name": "Rk_CNG पंप किसान",
+      "address": "79C9+9RM, Hingoli - Kalamnuri - Nanded Road, Ardhapur",
+      "lat": 19.2709714,
+      "lng": 77.36955139999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJQZsvg33Q0TsRyOeOjWy6UKc",
+      "name": "Kisan Petrol Pump/CNG (BPCL)",
+      "address": "Nanded- Hingoli Road, Ardhapur",
+      "lat": 19.2708829,
+      "lng": 77.3698908,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsbnujEzR0TsRftbQuMa0bWI",
+      "name": "STAR PETROLEUM SERVICES , Bharat petroleum",
+      "address": "AT RAHIMPUR ARDHAPUR BYPASSNANDED-AKOLA ROAD",
+      "lat": 19.2685917,
+      "lng": 77.37677099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHUn3ttbR0TsR76-IgEW9LyU",
+      "name": "IndianOil",
+      "address": "Ground Floor, Ardhapur",
+      "lat": 19.283277,
+      "lng": 77.377414,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhQHDkdnb0TsRowHMyFyBbp4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gut No 425, P NH 361, Ardhapur Road, Ardhapur",
+      "lat": 19.284646,
+      "lng": 77.387159,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGygnEFrZ0TsRwYo363Sq0a4",
+      "name": "SHIVBABA PETROL PUMP( Nayara Energy Ltd)",
+      "address": "6FF5+45Q, National Highway 61, Barad",
+      "lat": 19.2228269,
+      "lng": 77.4579957,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ98SRxAHZ0TsRcJEfY3P-iEU",
+      "name": "Bharat petroleum",
+      "address": "6CGW+WFC, Barad",
+      "lat": 19.2273125,
+      "lng": 77.4461457,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJR2qnoK_Z0TsRl830pGzQnFs",
+      "name": "SAI PETROLIUM NH061 BARAD",
+      "address": "NANDED BHOKAR HIGH WAY, Nanded",
+      "lat": 19.22770879999999,
+      "lng": 77.44652889999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJwXMWUHHb0TsRAb1tvRpn3ZU",
+      "name": "IndianOil",
+      "address": "Gut No 317, Lahan",
+      "lat": 19.27289339999999,
+      "lng": 77.4464295,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIxvBwNDZ0TsRgQGfLNcuRis",
+      "name": "Vithai Gas Agency",
+      "address": "6FF8+XP8, Indiranagar, Barad",
+      "lat": 19.2249046,
+      "lng": 77.46682109999999,
+      "open_now": null
+    }
+  ]
+}

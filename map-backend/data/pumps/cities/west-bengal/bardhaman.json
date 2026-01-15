@@ -1,0 +1,515 @@
+{
+  "city": "Bardhaman",
+  "state": "West Bengal",
+  "count": 63,
+  "center": {
+    "lat": 23.25,
+    "lng": 87.85
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJ95_Swys3-DkRpf1ap6TqZIk",
+      "name": "Bharat Petrol Pump",
+      "address": "6Q9J+R4Q, Salun",
+      "lat": 23.2195851,
+      "lng": 87.7803684,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ09jZZ9Qw-DkRVr2Qq2KrO4c",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, SH 8, Bardhaman - Bankura Road, Khandagosh, Sasanga, Bardhaman",
+      "lat": 23.2192416,
+      "lng": 87.77329499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3wuEKUo5-DkRQvAfJD6jva0",
+      "name": "Bharat Petroleum Sabila Auto Service",
+      "address": "5Q4G+GR8, Bardhaman",
+      "lat": 23.1562911,
+      "lng": 87.77708109999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJW-AsJQA5-DkROpTS7RTwJAA",
+      "name": "MAA Abhaya Fuel Centre,BPCL Petrol Pump",
+      "address": "5R9F+J3J, Gopalpur",
+      "lat": 23.1690958,
+      "lng": 87.82264169999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsV364c03-DkRDg3baf7kbDo",
+      "name": "Maa Abhaya Fuel Center",
+      "address": "canel pole, Telipukur, to, Arambagh - Bardhaman Road, Gopalpur",
+      "lat": 23.1790578,
+      "lng": 87.8272877,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkdLFgfQ3-DkRVtloh5yVR2M",
+      "name": "Jio-bp",
+      "address": "PLOT NO 240 & 241, JL NO 2, MOUZA BABROKPUR, SAGRAI, PS RAINA, DISTRICT: BURWDAN Sehera Bazar",
+      "lat": 23.180193,
+      "lng": 87.828256,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJxw8r2a05-DkR-i66zLfanMY",
+      "name": "Ma Durga Fuel(COCO)",
+      "address": "4RR6+WH9, Sipta",
+      "lat": 23.1422949,
+      "lng": 87.81149889999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJvQpQjI03-DkRXVDFxZx9590",
+      "name": "IndianOil",
+      "address": "Lock No 13010, Rtkm 120, Chakpurhit, Machkhanda, Sehara",
+      "lat": 23.188305,
+      "lng": 87.832291,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXfIeVj05-DkRkzlARpWX0Kw",
+      "name": "IndianOil",
+      "address": "Burdwan, Khatian No 195, JL No 013 Plot No 2746, Gopalpur, Shyamsundar East",
+      "lat": 23.1512323,
+      "lng": 87.8234536,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJh9c6qmM5-DkRpA0EnB0BMjE",
+      "name": "Manna Filling Station",
+      "address": "near Tirupati Rice Mill, Unit 2, Gopalpur",
+      "lat": 23.1511864,
+      "lng": 87.8234311,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbyrT2605-DkRYlQbu4YDAEU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Burdwan Aranbag Road, SH 7, Khandaghosh - Badulia Road, Badulia",
+      "lat": 23.138905,
+      "lng": 87.81109269999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM3Thic43-DkR9eMsXIiRCRA",
+      "name": "IndianOil",
+      "address": "State Highway 7, Purba, Bardhaman",
+      "lat": 23.194201,
+      "lng": 87.83752199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJx2wlcI3-DkRaa20zgcP4A4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Machhkhara",
+      "lat": 23.201921,
+      "lng": 87.844031,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9TSqYwAx-DkRTlACB8LMLKE",
+      "name": "Berugram Fuelling Station(IOCL Petrol Pump)/বেড়ুগ্রাম ফুয়েলিং স্টেশন(ইন্ডিয়ান অয়েল পেট্রোল পাম্প)",
+      "address": "5PG5+JH, Ukhrid",
+      "lat": 23.1765651,
+      "lng": 87.7089141,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJHzO0ChEx-DkRfgHTKw88Ax8",
+      "name": "M.R Filling Centre (Reliance Jio BP Petrol pump)",
+      "address": "Aradanga - Rupsa Road, Khandaghosh",
+      "lat": 23.2153721,
+      "lng": 87.7187845,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJz1qj9_tI-DkRV_8RWz4_hoc",
+      "name": "IndianOil",
+      "address": "Lock No 13005, Bamchandipur, Joteram",
+      "lat": 23.219426,
+      "lng": 87.899829,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJI8K3IGZH-DkR_iUlrOsuRb0",
+      "name": "IndianOil",
+      "address": "Lock No 13007, Rt km 146, Shyamsundar",
+      "lat": 23.110122,
+      "lng": 87.864684,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRy7kUy5I-DkRxXmhvW05qsY",
+      "name": "Bishalakshmi Petrol Pump",
+      "address": "Rammudipally, Becharhat P",
+      "lat": 23.2164984,
+      "lng": 87.86271359999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmQeDxIhI-DkR3iFmPZJZL88",
+      "name": "শ্রীকৃষ্ণ বসালয়",
+      "address": "5VRX+P7Q, Dhamas - Burdwan Road, Bamunia",
+      "lat": 23.191835,
+      "lng": 87.8982429,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ5-gd7TM2-DkRW2HCDKEM3H8",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 2, Nutanganj, Tejganj, Bardhaman",
+      "lat": 23.22906619999999,
+      "lng": 87.84115279999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKXbKGZ1J-DkRqVwa_kB9RLo",
+      "name": "Alisha fuel station",
+      "address": "BUS STAND, near ALISHA, Gopalnagar Avenue, Bardhaman",
+      "lat": 23.2169829,
+      "lng": 87.8878194,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJyzF-GVFI-DkROr7iOnGHck0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Gopalnagar Avenue, Bardhaman",
+      "lat": 23.2173662,
+      "lng": 87.8878489,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwQjv8MpJ-DkRiK-yj2O_098",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Grand Trunk Road, Police LIne Bazar, Bardhaman",
+      "lat": 23.227571,
+      "lng": 87.872991,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJswvyH4E4-DkRtL55RZlJuDc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Burdwan, Ground Floor Sagrai Road, Shyamsundar East",
+      "lat": 23.1265175,
+      "lng": 87.8514543,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2VJYYsVJ-DkRy8t8k1wovdc",
+      "name": "Dholdighi Petrol Pump",
+      "address": "Grand Trunk Road, Khosbagan, Bardhaman",
+      "lat": 23.2370779,
+      "lng": 87.8664744,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJySUDYcVJ-DkROJpQiCiNRuA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "97, Grand Trunk Road, Bardhaman",
+      "lat": 23.237171,
+      "lng": 87.86621099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLbkDrRBJ-DkRrENlpU14Toc",
+      "name": "IndianOil",
+      "address": "Lock No 13008, 48/1, Grand Trunk Road, Bardhaman",
+      "lat": 23.2439042,
+      "lng": 87.8685095,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsUqH3M9J-DkR_6FNtzCIf7U",
+      "name": "NARAYAN AUTO STORES - (BPCL)",
+      "address": "BUS STAND, 66, GT, ROAD, OLD TINKONIA, opposite of SIDDHARTHA HOTEL, Bardhaman",
+      "lat": 23.2455567,
+      "lng": 87.86880470000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3cfgZzBP-DkRhKthVfpWAsc",
+      "name": "Petrol Pump",
+      "address": "6W6R+PRQ",
+      "lat": 23.2118392,
+      "lng": 87.9421158,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJh7P7dAZG-DkRnhindarTCQA",
+      "name": "Maa Durga Filling Station",
+      "address": "Dhamas - Burdwan Road, Haripur",
+      "lat": 23.1687847,
+      "lng": 87.9293569,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlcBAT6RJ-DkR-IYOdt61fK0",
+      "name": "Reliance Petroleum",
+      "address": "NH-2, VILLAGE GANGPUR, POST OFFICE JOTHRAM, DISTRICT: BURDWAN Burdwan -1 (Rev 01",
+      "lat": 23.2165079,
+      "lng": 87.9293393,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL4wQXQBP-DkRWp9GLJBbd24",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 2, Kandorsona",
+      "lat": 23.21195,
+      "lng": 87.941841,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIwff9DpP-DkR2f4N3S_Xsfs",
+      "name": "IndianOil",
+      "address": "near Agriculture Farm, Ground Floor, Joteram, near Agriculture Farm, Kandorsona",
+      "lat": 23.2113848,
+      "lng": 87.94449039999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm7f3JKBP-DkR4bZHyBaraPI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, G T Road, Bardhaman",
+      "lat": 23.203381,
+      "lng": 87.974031,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1SgOgg9P-DkRiM5CT9FB_A0",
+      "name": "Mondal Auto Mobiles",
+      "address": "Mondal Auto mobiles, Paschim Memari",
+      "lat": 23.186543,
+      "lng": 87.9830167,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJFYtNZwBJ-DkRXlRe1qmyUEI",
+      "name": "Hindustan Petroleum Petrol Pump",
+      "address": "6WR3+5R, Dangachha",
+      "lat": 23.2396693,
+      "lng": 87.90446349999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5-eefrxJ-DkR9FWoq0YsoNo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "JL No 71, Plot No 181, Kalna Road, Bardhaman",
+      "lat": 23.2396129,
+      "lng": 87.9036117,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-REO1ZBP-DkRhEOuPCz6h-8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near 581 KM Stone, Ground Floor, Kalanabagram NH 2, Saktigarh, near 581 KM Stone, Bypass Road, Konarpara",
+      "lat": 23.1968955,
+      "lng": 87.9857978,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB_5Boho2-DkRnotr4Pc4vrg",
+      "name": "Bharat Petroleum - FRIENDS Service Station",
+      "address": "UIT, near Burdwan, Goda, Bardhaman",
+      "lat": 23.2590977,
+      "lng": 87.84560680000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJQTMQD-JJ-DkRXtsA2ha8Dks",
+      "name": "Hindustan Petroleum - Charu Petrol Pump",
+      "address": "Grand Trunk Road, Khagragorh, Bardhaman",
+      "lat": 23.2555264,
+      "lng": 87.85539419999999,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJ71qRfOFJ-DkRhIYEUFbNaAY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Bhangakuthi BSNL Tower, Ground, Old, Grand Trunk Road, Bardhaman",
+      "lat": 23.254501,
+      "lng": 87.857601,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJI2tJ83U3-DkRzwuQttrRAuU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Block Burdwan 1, Belkash",
+      "lat": 23.2587515,
+      "lng": 87.78552529999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQ3LdahA0-DkRgCyFxbdOWKU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 2, Shyamsundarpur, Nala",
+      "lat": 23.2846853,
+      "lng": 87.7875212,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJD74Xg1I1-DkRYYOpoHKdTKc",
+      "name": "Bharat Petroleum, Petrol Pump -Friends Service Station",
+      "address": "KESHABGANJ, Bardhaman",
+      "lat": 23.2735949,
+      "lng": 87.81132099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9ye1cwAz-DkRyZ1pjrBIF5g",
+      "name": "Sahid DEF Point⛽⛽",
+      "address": "7QVC+F6W, Belgram",
+      "lat": 23.2937257,
+      "lng": 87.7705814,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ49ReJHc2-DkR6hKIIvljI5s",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Bus Stand, Fagupur, Nababhat",
+      "lat": 23.267176,
+      "lng": 87.827652,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ-6obG02-DkRfyBqQmsKDmM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Byepass Road, Lakhoti, Goda, Bardhaman",
+      "lat": 23.258841,
+      "lng": 87.83383099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrfp9agAz-DkRz1omGhPljlc",
+      "name": "Nurtazz Xpress",
+      "address": "8Q25+44P, National Highway 19, Sanko",
+      "lat": 23.3003371,
+      "lng": 87.75815639999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoYXBxTVJ-DkRf1-BSuERmmA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Grand Trunk Road, Khagragorh, Bardhaman",
+      "lat": 23.2555012,
+      "lng": 87.8551979,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH5d9g-hJ-DkRCyu9KF3Z6eI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Mehdi Bagan, Grand Trunk Road, Bardhaman",
+      "lat": 23.252331,
+      "lng": 87.864961,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUWZrQ-xJ-DkRCRko5xcDtzc",
+      "name": "IndianOil",
+      "address": "Lock, 13012, Katwa - Bardhaman Road, Bijoyram, Bardhaman",
+      "lat": 23.2703001,
+      "lng": 87.8755001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqT36DR1J-DkRIUGJXVoRu5c",
+      "name": "VK PETROLEUM",
+      "address": "near Gopal Nagar, 7V59P44, Bardhaman",
+      "lat": 23.2607382,
+      "lng": 87.8651635,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJpefKeQBJ-DkRNozd3vSt2-8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Das Para",
+      "lat": 23.27198659999999,
+      "lng": 87.8759697,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJf8FHIg5K-DkR2STpWeqEW0E",
+      "name": "Radhakrishna Filling Station",
+      "address": "Palitpur Road, Kamnara",
+      "lat": 23.289174,
+      "lng": 87.8553328,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4dgPEwBP-DkRk0bHBJ7vFsA",
+      "name": "Maa Sarada Service Station",
+      "address": "7X5H+4G3, Bodhpur",
+      "lat": 23.2577704,
+      "lng": 87.978803,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJI7cUYgBN-DkRh3YcMICnlTA",
+      "name": "Pravat's Land",
+      "address": "7XHR+R2J, Barshua",
+      "lat": 23.2795948,
+      "lng": 87.9900024,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ-yvtkfA0-DkRNY5o4UszzRg",
+      "name": "Nayara Petrol Pump - Atithi Centre",
+      "address": "near National Highway 2B, Haldi",
+      "lat": 23.3275205,
+      "lng": 87.80496529999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl0cYPvQy-DkRPwi5wLN_CpM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Ura, Galsi, Galsi",
+      "lat": 23.32243,
+      "lng": 87.72126,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKZ4AC05L-DkRo0SN175StuU",
+      "name": "IndianOil",
+      "address": "Plot No 8290, No 2246, Mahachanda",
+      "lat": 23.3423041,
+      "lng": 87.8729541,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfx7NGvhK-DkRAw_dzhFKj0k",
+      "name": "Kshetia Petrol Pump",
+      "address": "Ketia Railway Gate, Nabinagar, Kharjuli",
+      "lat": 23.3213251,
+      "lng": 87.8849309,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ02t9mbdL-DkRpxvi_Tzghmo",
+      "name": "IndianOil",
+      "address": "Karjjana",
+      "lat": 23.3476105,
+      "lng": 87.8920797,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuZPH0L9L-DkRkpVozwlGEbo",
+      "name": "Petrol Pump",
+      "address": "Amarun",
+      "lat": 23.354545,
+      "lng": 87.92268340000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJe0QMozlN-DkRao78zyw-wtA",
+      "name": "Bharat Petroleum Petrol Pump , MAA DURGA FILLING STORES",
+      "address": "SONAPALASI, KURMUN, PS-BARDHAMAN SABARDHAMAN, Nadanghat Rd, Purbha, Bardhaman",
+      "lat": 23.3295823,
+      "lng": 87.9618222,
+      "open_now": true
+    }
+  ]
+}

@@ -1,0 +1,275 @@
+{
+  "city": "Gangtok",
+  "state": "Sikkim",
+  "count": 33,
+  "center": {
+    "lat": 27.3389,
+    "lng": 88.6065
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJxY-AMRyk5jkRv6u4PLRWuNQ",
+      "name": "IndianOil",
+      "address": "No 32 Mile, Stone Lower, Martam",
+      "lat": 27.263658,
+      "lng": 88.57027699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsbBAEmOm5jkRF76iJMiikZA",
+      "name": "IndianOil",
+      "address": "Ground Floor, Samsing, Pachey",
+      "lat": 27.246784,
+      "lng": 88.598573,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJT6WjgPik5jkRPyIhJw9uZbU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Youth Hostel, NH 10, 6th Mile, Tadong, Gangtok",
+      "lat": 27.307981,
+      "lng": 88.587999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ55CpS_mk5jkRecb4AJ_XF-o",
+      "name": "Bharat Petroleum",
+      "address": "8H6R+V3G, NH-31A, Tadong, Gangtok",
+      "lat": 27.312181,
+      "lng": 88.590189,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJv63BMhih5jkRqmR6lqvn4_Y",
+      "name": "PETROL PUMP BABA FUELS",
+      "address": "MIDDLE CAMP, NH 10, Gangtok",
+      "lat": 27.2414912,
+      "lng": 88.5207803,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJqSj5KgCl5jkRETg0r5Dm0pU",
+      "name": "Bharat Petroleum",
+      "address": "7H9H+FC, Namli",
+      "lat": 27.2686875,
+      "lng": 88.57843749999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJNcm6zWak5jkR2bXrMZ7icRo",
+      "name": "IndianOil",
+      "address": "Ground Floor, Rumtek",
+      "lat": 27.3014125,
+      "lng": 88.5726881,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzXkkmC2l5jkRVQgBB3GBL_E",
+      "name": "View Point",
+      "address": "View Point Petrol Pump, Sajong, Rumtek",
+      "lat": 27.3014413,
+      "lng": 88.5726873,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5earVIGh5jkRA-zkqXBvwDU",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 31A, Singtam - Dikchu Road, Bardang",
+      "lat": 27.233154,
+      "lng": 88.502213,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJTlun8Ch5jkRxobhc6Kg5FQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, Singtam - Chungthang Road, Duga",
+      "lat": 27.231804,
+      "lng": 88.49842799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJu86GMRyk5jkRGdiFOtkW95g",
+      "name": "IndianOil",
+      "address": "Ground Floor, RTKM 47, Ranipool",
+      "lat": 27.2922488,
+      "lng": 88.5895706,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJV94BA_al5jkRtqXBzhoFh3A",
+      "name": "Mayarath Fuel Centre",
+      "address": "Aho Yangtam GPU, Setipool, Near Saramsa Garden, Chotta Singtam, Pakyong, Road, Ranipool",
+      "lat": 27.2804763,
+      "lng": 88.59737899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJi0FeiFCl5jkRGTC6vhmAjEY",
+      "name": "Bharat Petroleum, Petrol Pump -Bhagirathi & Sons Fuelling Station",
+      "address": "6TH MILE, SIKKIM EAST",
+      "lat": 27.3069942,
+      "lng": 88.5889529,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP-udGFuf5jkRVhGYuE2b_y8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Sirwani RCC Bridge, Namchi Road, Sirwani, Singtam",
+      "lat": 27.2441654,
+      "lng": 88.47097010000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJr-TT8P-k5jkRiJjAtT2GfEw",
+      "name": "IndianOil",
+      "address": "Ground Floor, RTKM 58, Deorali, Gangtok",
+      "lat": 27.307961,
+      "lng": 88.594535,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL48r8AGl5jkRAJJB9hQ_P-Y",
+      "name": "IndianOil",
+      "address": "Ground Floor, Deorali Road, RTKM 57, Tadong, Gangtok",
+      "lat": 27.312683,
+      "lng": 88.59592599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJF35UvDyl5jkRgytKv3j2uP0",
+      "name": "Petrol Pump",
+      "address": "8JP4+694, Gangtok - Rangpo Road, Sungava, Gangtok",
+      "lat": 27.3355119,
+      "lng": 88.60595939999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJJ0N6vw-l5jkRY-8gXrGGAcI",
+      "name": "IndianOil",
+      "address": "Deorali Bazar, East District, NH-31A, Deorali Road, Gangtok, Gangtok",
+      "lat": 27.3179877,
+      "lng": 88.6051987,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJV9ZHOwWl5jkRQMRKpm8m-fg",
+      "name": "IndianOil",
+      "address": "8J93+953, NH 31A, Upper Tadong, Tadong, Gangtok",
+      "lat": 27.3185143,
+      "lng": 88.6028522,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcZpzIQCl5jkRDCVPCcqpIOo",
+      "name": "Bharat petroleum",
+      "address": "8HMW+7GG, Gangtok",
+      "lat": 27.3331804,
+      "lng": 88.5963403,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZYr7zbWl5jkRRCIu8j5Ge_o",
+      "name": "Bharat Petroleum Petrol Pump , KARWANG FUELS",
+      "address": "Chandmari Road",
+      "lat": 27.33568,
+      "lng": 88.624876,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNew3ZACl5jkRKeQ0n0554I8",
+      "name": "chandmari petrol pump",
+      "address": "8JQF+4CW, Chandmari, Gangtok",
+      "lat": 27.337776,
+      "lng": 88.62318499999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJbbRCTGml5jkRUHMTZv-rBLU",
+      "name": "IndianOil",
+      "address": "Khatian No 9, Plot No 103/822, 563, Chandmari, Bhusuk",
+      "lat": 27.337984,
+      "lng": 88.62391199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGbIQxmGp5jkRbLJ0fu4s4Tc",
+      "name": "PETROL PUMP RONGLI",
+      "address": "DALAPCHAN, Dalapchan Slip Reserve Forest",
+      "lat": 27.2010203,
+      "lng": 88.6905446,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJG_mZTzCl5jkRFbLI7jQCyus",
+      "name": "BPCL Holiday Home",
+      "address": "77, BDO office Building, Oppsite DM Office,, Upper Sichey, Gangtok",
+      "lat": 27.34525349999999,
+      "lng": 88.606526,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJW89rB92j5jkRASbsDtCk-BU",
+      "name": "Bharat Petroleum Petrol Pump , ROSHAN ENTERPRISE",
+      "address": "P.O, Singtam - Dikchu Road, Tumin",
+      "lat": 27.3363976,
+      "lng": 88.49097259999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNd1Sizyl5jkRdns6Wn6oh7Y",
+      "name": "DALLOM FUELS",
+      "address": "Ranka Road, Sungava, Gangtok",
+      "lat": 27.3417737,
+      "lng": 88.6033858,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTwBUGh2l5jkRHshEY6WW5GU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Gangtok",
+      "lat": 27.3427368,
+      "lng": 88.60497649999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6XjAjmul5jkR1hpDoyNGbzI",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bazar, Sichey, Indira Bypass Road, Gangtok",
+      "lat": 27.340943,
+      "lng": 88.605481,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGQF5FnG75jkRQgpn3RVKMGE",
+      "name": "Euro Diamond Car Care Kit",
+      "address": "Bojoghari 3 Mail Bojoghari",
+      "lat": 27.3648506,
+      "lng": 88.6105939,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJGRgQjLC65jkRlrZ3JeueMfQ",
+      "name": "Bharat Petroleum",
+      "address": "Bojoghari, East District, NH-31A, Bhojagari 3rd Mile Road, Gangtok, Gangtok",
+      "lat": 27.365474,
+      "lng": 88.621381,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-9yCQqK75jkROuW1PuMR6HQ",
+      "name": "Bharat Petroleum Petrol Pump , JUNCTION FUEL CENTRE",
+      "address": "Paljor Stadium Road, Gangtok",
+      "lat": 27.360294,
+      "lng": 88.621916,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOzdtxHy_5jkRfDCtfAWvnQY",
+      "name": "BP Petrol Pump",
+      "address": "U. Mangshila",
+      "lat": 27.4648844,
+      "lng": 88.52499759999999,
+      "open_now": null
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "city": "Lunglei",
+  "state": "Mizoram",
+  "count": 10,
+  "center": {
+    "lat": 23.4333,
+    "lng": 92.7667
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJ2bUYYFufTTcRP3rPpozmmKE",
+      "name": "Sialsuk Filling Station — BPCL (Opposite Châkkhai Hotel)",
+      "address": "9QJ2+G46",
+      "lat": 23.3812756,
+      "lng": 92.750265,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ4YuVbNsKTTcRAqe3VlUERdo",
+      "name": "ZOZO Filling Station",
+      "address": "GROUND FLOOR, 0, Sailam",
+      "lat": 23.3199517,
+      "lng": 92.79165309999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJeVWUDUELTTcRStGxSDDAGtI",
+      "name": "IndianOil",
+      "address": "Ground Floor Sailam, E.Bungtlang",
+      "lat": 23.319625,
+      "lng": 92.79156599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH1maEgCfTTcR7hFioYijWnA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, World Bank Road, Thelret Kawn, Aizawl",
+      "lat": 23.4183581,
+      "lng": 92.7577302,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5_IlcQChTTcRIE4KxSEixlY",
+      "name": "site for churchill filling station",
+      "address": "9R6W+553, Bukpui, Serchhip",
+      "lat": 23.3603938,
+      "lng": 92.8454295,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJCf7e2CYKTTcRt0IrT8PCNgc",
+      "name": "PB Lalzuithanga Filling Station (IOCL), Serchhip",
+      "address": "i.o.c, New Serchhip, Serchhip",
+      "lat": 23.3254375,
+      "lng": 92.8545625,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2yMOE1cLTTcRK4yZgxELu00",
+      "name": "Kawlni Filling Station",
+      "address": "Plot No.25, Thenzawl Road, Chhilam, Serchhip",
+      "lat": 23.3115128,
+      "lng": 92.8562348,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJCeK9O5aZTTcRPzzHzc_IMQ0",
+      "name": "IndianOil",
+      "address": "Ground Floor Hmuifang, Aizawl, Balhlakawn",
+      "lat": 23.459715,
+      "lng": 92.74772,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7ecJAMKjTTcRM3LMyAyo5RE",
+      "name": "IndianOil",
+      "address": "Ground Floor, Mualpui, Chhingchhip",
+      "lat": 23.4712797,
+      "lng": 92.8562843,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVYOSh3fjTDcR8xuzMaI7lkM",
+      "name": "IndianOil",
+      "address": "Sailulak, Mualpui, Aizaw, Chhingchhip",
+      "lat": 23.487106,
+      "lng": 92.85637129999999,
+      "open_now": true
+    }
+  ]
+}

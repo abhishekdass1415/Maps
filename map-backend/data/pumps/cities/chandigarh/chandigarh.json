@@ -1,0 +1,1667 @@
+{
+  "city": "Chandigarh",
+  "state": "Chandigarh",
+  "count": 207,
+  "center": {
+    "lat": 30.7333,
+    "lng": 76.7794
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJ83XUnZvuDzkRiiVyLXmQhkA",
+      "name": "IndianOil",
+      "address": "Ground Floor, Phase No 8, Sector 55, Sahibzada Ajit Singh Nagar",
+      "lat": 30.6968588,
+      "lng": 76.73237519999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ97lNi9HoDzkRblkRirmtVYQ",
+      "name": "Reliance Petroleum",
+      "address": "Sector 108, Banur Road, Mohali",
+      "lat": 30.6580785,
+      "lng": 76.6773848,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJValRHeLoDzkRGU2OnpmmqbU",
+      "name": "Nanak Filling Station",
+      "address": "Sector 103, Baba Banda Singh Bhadur Marg Vill, Saneta",
+      "lat": 30.6367307,
+      "lng": 76.6869648,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPQw-q5XuDzkRQuLtbAidaNI",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Gurdwara, Sector 70, Sahibzada Ajit Singh Nagar",
+      "lat": 30.6928807,
+      "lng": 76.7135602,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoyKP1TPvDzkRX-QZulirV3M",
+      "name": "Bhatti fuels station bharat petroleum",
+      "address": "140307, Sector 110, Sahibzada Ajit Singh Nagar",
+      "lat": 30.6691526,
+      "lng": 76.6728132,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJu9MWoA_sDzkRsdwdLfHGyuA",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sector 65, Sahibzada Ajit Singh Nagar",
+      "lat": 30.6796615,
+      "lng": 76.7464784,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm_6n8R_sDzkRai8F_6hIzsA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Phase 9, Sector 63, Sahibzada Ajit Singh Nagar",
+      "lat": 30.692001,
+      "lng": 76.734601,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_yLdannpDzkRKcQMFrkCxDc",
+      "name": "NAYARA Filling Station",
+      "address": "Chandigarh International Airport Road, Aerotroplis, Sahibzada Ajit Singh Nagar",
+      "lat": 30.6281568,
+      "lng": 76.7268034,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTRTDREDsDzkRIO2Wj5ymaY0",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sector 49, Chandigarh",
+      "lat": 30.6969845,
+      "lng": 76.758506,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3U4F7kDsDzkR8toZg89nXMw",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sector 46D, Sector 46, Chandigarh",
+      "lat": 30.698511,
+      "lng": 76.758614,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy85VcjHsDzkRTAzuJLIZ7GE",
+      "name": "Amalia Pump CNG Filling Centre",
+      "address": "44C, National Highway 21, Chandigarh",
+      "lat": 30.7097261,
+      "lng": 76.748739,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXUeNIi3sDzkRrbYUOGLi4kw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Sector 52B, Chandigarh",
+      "lat": 30.714641,
+      "lng": 76.742891,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl9vySXnuDzkRxvQoaZRmncE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Phase 3 A, Sector 53, Sahibzada Ajit Singh Nagar",
+      "lat": 30.720431,
+      "lng": 76.729291,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ02r6eZzvDzkR-joYgiZc25g",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kharar Landran Rd, Railon Chapar Chiri Khurd, Sector 116, Sahibzada Ajit Singh Nagar",
+      "lat": 30.712416,
+      "lng": 76.65644999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ88AyNPPlDzkRiugivrQdtBc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Chandigarh Sirhind Road, Kharar",
+      "lat": 30.681873,
+      "lng": 76.633817,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrwSj1HfuDzkRUZYaYdKur_c",
+      "name": "BPCL CNG Petrol pump",
+      "address": "PPHM+H83, Vikas Marg, Block C, Sector 41, Chandigarh",
+      "lat": 30.7288858,
+      "lng": 76.7333074,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaaSAd0XpDzkRuotzTaxaxmE",
+      "name": "PAWAN PETRO STATION",
+      "address": "SECTOR- 84, Sahibzada Ajit Singh Nagar",
+      "lat": 30.6636957,
+      "lng": 76.7153494,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNR7DLADvDzkRkyXjIa0vXqI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Sector 97, Sambhalki, Sahibzada Ajit Singh Nagar",
+      "lat": 30.6704812,
+      "lng": 76.6925315,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4egdfQDvDzkRAOon4e2gtSo",
+      "name": "Indian oil petrol pump",
+      "address": "MMFR+757, Sector 97, Sahibzada Ajit Singh Nagar",
+      "lat": 30.6733165,
+      "lng": 76.69039099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6avcW7ruDzkR0-X9FBMlOkI",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sector 79, Sahibzada Ajit Singh Nagar",
+      "lat": 30.68168589999999,
+      "lng": 76.718728,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9ZFvr8bvDzkRvO4XNNQawDg",
+      "name": "Pollution centre",
+      "address": "MPR5+8V8, Sohana, Sahibzada Ajit Singh Nagar",
+      "lat": 30.6907906,
+      "lng": 76.70969989999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJq3crCADvDzkRIJ0kmUKfHNs",
+      "name": "Cng pump",
+      "address": "MPV7+2F, Sahibzada Ajit Singh Nagar",
+      "lat": 30.6928258,
+      "lng": 76.71387349999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJPcExfx3pDzkRY2h9Wp3pJnU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Banur Road, Kharar",
+      "lat": 30.634041,
+      "lng": 76.687811,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ1a5IwDtDzkRH9NYKyhjcGs",
+      "name": "Indian Oil Petrol Pump",
+      "address": "House No. 1301, 5, Phase 11, Sector 65, Sahibzada Ajit Singh Nagar",
+      "lat": 30.6795995,
+      "lng": 76.7465163,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJB2LQUQLvDzkR6b_BpwAcyTA",
+      "name": "Car washing",
+      "address": "2017, Mattaur Road, Sector 71, Sahibzada Ajit Singh Nagar",
+      "lat": 30.7011366,
+      "lng": 76.7100818,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJlVUJUBrvDzkRUJFLEW2NzUA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Sohana, Lakhnaur, Sahibzada Ajit Singh Nagar",
+      "lat": 30.694695,
+      "lng": 76.67818299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJN3UtWTvpDzkRhYxJFr948L0",
+      "name": "Indianoil-Adani Gas Pvt Ltd CNG Station",
+      "address": "JMFR+PF6, National Highway 205A",
+      "lat": 30.6242903,
+      "lng": 76.6911349,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ71fZfnLpDzkRDxEzkFbM_WI",
+      "name": "IndianOil",
+      "address": "Ground Floor Banur Landran Road, Bathlana, Durali",
+      "lat": 30.624399,
+      "lng": 76.69060499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEVBL0XDvDzkRUGYOmH9YMHg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Sector 61, Sahibzada Ajit Singh Nagar",
+      "lat": 30.7044598,
+      "lng": 76.72643699999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJh-rrkLzvDzkRiUuZROdY_6k",
+      "name": "IndianOil",
+      "address": "near CHD Engineering College, Ground Floor Landran, near CHD Engineering College, Kharar - Landran Road, Chunni Kalan",
+      "lat": 30.68905299999999,
+      "lng": 76.66478699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzaMOA0zvDzkRuTkLeIrbXG4",
+      "name": "JIA Petros",
+      "address": "MMR7+4P2, State Highway 4, Sector 112, Sahibzada Ajit Singh Nagar",
+      "lat": 30.69027059999999,
+      "lng": 76.664272,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1_cV6dDrDzkRZsi6jPIyfag",
+      "name": "IndianOil",
+      "address": "Ground Floor, Aerocity Road, Block F, Sector 55, Chandigarh",
+      "lat": 30.6387001,
+      "lng": 76.7564001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL6HhAf3tDzkRalFWhgw4R_A",
+      "name": "Maurya Traders",
+      "address": "792, Faidan Nizampur, Bair Majra, Chandigarh",
+      "lat": 30.6873148,
+      "lng": 76.7654268,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJXwYA2U7tDzkR2RIcZU_2bOE",
+      "name": "Maan Vehicle Pollution Check Centre 49",
+      "address": "Ground Floor, Vikas Marg, Sector 48B, Sector 49, Chandigarh",
+      "lat": 30.69702550000001,
+      "lng": 76.7587984,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVcqjeADtDzkRbmn2HCO5B8Q",
+      "name": "Karan Filling Station, Vill. Kajheri, Sector 52, Chandigarh - 160036.",
+      "address": "PP6V+C6G, Kajheri Village, Sector 52, Chandigarh",
+      "lat": 30.7110299,
+      "lng": 76.74309509999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJmUwX6fftDzkRbtt7FoN6E68",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sector 52, Chandigarh",
+      "lat": 30.711113,
+      "lng": 76.7430526,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJn5vSzRLtDzkRzTbYHxiJpj0",
+      "name": "IndianOil",
+      "address": "Sector 51, Chandigarh",
+      "lat": 30.70984979999999,
+      "lng": 76.74723139999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ40RKRwDtDzkRYK4Nr6ou-CY",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sector 44, Chandigarh",
+      "lat": 30.709665,
+      "lng": 76.74904599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCxDfIBPrDzkRHg4KIvKI9r8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Block G, Gmada Aerocity, Sahibzada Ajit Singh Nagar",
+      "lat": 30.62973229999999,
+      "lng": 76.7703963,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJw0CTOF3rDzkRGzSfRAxEozg",
+      "name": "Pollution Check Centre",
+      "address": "6422, Block G, Gmada Aerocity, Sahibzada Ajit Singh Nagar",
+      "lat": 30.6293532,
+      "lng": 76.770566,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJv9O-DQDtDzkRsglJEjcJeKk",
+      "name": "Indian oil Petrol pump",
+      "address": "PPFQ+465, Vikas Marg, 42C, Sector 42, Chandigarh",
+      "lat": 30.7228076,
+      "lng": 76.7381059,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJe1K6yjTsDzkRt0K61J8-ct8",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sector 43, Chandigarh",
+      "lat": 30.716741,
+      "lng": 76.752579,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfZzQGRDvDzkRdgmi1ePR2YI",
+      "name": "Bharat Petroleum, Petrol Pump -Mohali Cargo Movers",
+      "address": "6, Balongi Road, Sector 57, Balongi, Sahibzada Ajit Singh Nagar",
+      "lat": 30.72949659999999,
+      "lng": 76.6985581,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZYjK9KLvDzkR5BAxLU_kvlw",
+      "name": "Panday Chulla Repair",
+      "address": "Shop No 609, near Water Tanki, Balongi, Sahibzada Ajit Singh Nagar",
+      "lat": 30.7288344,
+      "lng": 76.6933519,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJyXDWHgDrDzkRzQao3h7XvJU",
+      "name": "Aero Mart",
+      "address": "JQHJ+XC4, Bakarpur Link Road, Gmada Aerocity, Naraingarh",
+      "lat": 30.62989499999999,
+      "lng": 76.7810712,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ9cDyBMTpDzkRvsdvaxNtWNU",
+      "name": "Hp",
+      "address": "India",
+      "lat": 30.59293929999999,
+      "lng": 76.70421,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJvXAbSNTpDzkRcI29aG7xNMQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 205A, Kharar Banur Highway, Tangori",
+      "lat": 30.592831,
+      "lng": 76.704141,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkempUCLrDzkRdX3hvhRgxq8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 64, Patiala, Rajpura Road, Nabha",
+      "lat": 30.6400501,
+      "lng": 76.8046501,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL2BQuE_rDzkR5p3J-h9kdrk",
+      "name": "IndianOil",
+      "address": "Ground Floor, Ambala Road, Zirakpur",
+      "lat": 30.665453,
+      "lng": 76.816332,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNSk_6YzsDzkRHllaClg3Iac",
+      "name": "Bharat Petroleum",
+      "address": "Plot No.738, Ram Darbar, Industrial Area Phase II, Chandigarh",
+      "lat": 30.6962207,
+      "lng": 76.78749309999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDx7pyTXrDzkR0opILYMVJZM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Ambala - Chandigarh Road, Zirakpur",
+      "lat": 30.6539601,
+      "lng": 76.82170099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ91gHWSzrDzkRT5aDzZtVdxU",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 22, Ambala - Chandigarh Road, Baltana, Singhpura",
+      "lat": 30.641392,
+      "lng": 76.82294499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMcegrkWTDzkRnJZP0RMjE2I",
+      "name": "IndianOil",
+      "address": "GROUND FLOOR, GK Panchkula, Sector 16, Panchkula",
+      "lat": 30.6722669,
+      "lng": 76.83954949999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm1VS3VTsDzkRchhRJr-5qGo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Dakshin Marg, 20C, Sector 20, Chandigarh",
+      "lat": 30.718041,
+      "lng": 76.776231,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJr2wsTtzsDzkRI7XCO-oqfWQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sector 28 C, Sector 28, Chandigarh",
+      "lat": 30.714531,
+      "lng": 76.80646500000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZbgoIL-UDzkRBC_aum4qXwA",
+      "name": "Natraj Filling Station",
+      "address": "K - Area Road, Sector 20, Panchkula",
+      "lat": 30.6613496,
+      "lng": 76.84480560000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJj7eTwdbtDzkRDrz1AYLmS3o",
+      "name": "IndianOil",
+      "address": "Sector 42, Chandigarh",
+      "lat": 30.71838039999999,
+      "lng": 76.7636794,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx44NPa3tDzkRGYO5CQSIWqc",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sector 34B, Chandigarh",
+      "lat": 30.720192,
+      "lng": 76.77031699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2eR4BZztDzkR0DGGnRC4LDE",
+      "name": "Bharat Petroleum (COCO)",
+      "address": "457, Dakshin Marg, Sector 21C, Sector 21, Chandigarh",
+      "lat": 30.7232745,
+      "lng": 76.77161629999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqaX2WbmUDzkRNAPOpebxPOM",
+      "name": "IndianOil",
+      "address": "Ground Floor Industerial Area Phase 1, Plot 1, Sector 12, Near, Panchkula",
+      "lat": 30.669782,
+      "lng": 76.84934799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKQwTNKztDzkRDeZQFUF4pyk",
+      "name": "IndianOil",
+      "address": "Dakshin Marg, Sector 21, Chandigarh",
+      "lat": 30.724312,
+      "lng": 76.770866,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcfz25F-TDzkR74j9RqqKeAA",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sector 12 & 14, near DC Residence, Panchkula",
+      "lat": 30.6822437,
+      "lng": 76.8481626,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJr-7ywtjsDzkRlyGbrv3jZp8",
+      "name": "IndianOil",
+      "address": "Madhya Marg, Sector 26, Chandigarh",
+      "lat": 30.720783,
+      "lng": 76.809944,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRTkpqTOTDzkRAWFkU-JyqcQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Pocket, 4 & 5, Sector 13, Chandigarh",
+      "lat": 30.710241,
+      "lng": 76.82918099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJE3Amj9nsDzkRKZNhhOs_MNw",
+      "name": "Petrol Pump",
+      "address": "Madhya Marg, Sector 26, Chandigarh",
+      "lat": 30.7256294,
+      "lng": 76.8042656,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB5MidLDtDzkR4CZtUSvcfWI",
+      "name": "BPCL Petrol Pump",
+      "address": "2948, Sector 22C, Sector 22, Chandigarh",
+      "lat": 30.7293832,
+      "lng": 76.7664049,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJT747Va_tDzkRRTrl-87c2h8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Aroma Hotel, 22B, Sector 22 Market Road, Sector 22B, Sector 22, Chandigarh",
+      "lat": 30.730261,
+      "lng": 76.77433099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJR6A1-RntDzkR9ugradTQwAY",
+      "name": "INDIAN OIL BHAWAN",
+      "address": "plot no 3a, Sector 19A, Madhya Marg, Chandigarh",
+      "lat": 30.7324405,
+      "lng": 76.79740559999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJj1jCe2qTDzkRnh-5pm5dXtg",
+      "name": "Bharat Petroleum",
+      "address": "Sector 8, Panchkula",
+      "lat": 30.7010475,
+      "lng": 76.84941770000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeVuMDnjrDzkRxR761_5BLFg",
+      "name": "Hlo",
+      "address": "1102, Chandigarh",
+      "lat": 30.6738734,
+      "lng": 76.8000091,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ2VTM__nrDzkRYXbnMBiYRrg",
+      "name": "Varuna Pump (LGMPL)",
+      "address": "Sco. 21, Sant Kirpal Nagar, Zirakpur",
+      "lat": 30.6573633,
+      "lng": 76.8143517,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7VfdL8rrDzkR8szvc-ILwYM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Khasra No 551, National Highway 7, Nabha Sahib",
+      "lat": 30.64274009999999,
+      "lng": 76.8062901,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs3nHiZLsDzkRO68pOEcEsWY",
+      "name": "I.S. Industries ( Cng Kit Dealer )",
+      "address": "Plot No. 48, 10, Marla Kothi Road, Ram Darbar, Industrial Area Phase II, Chandigarh",
+      "lat": 30.6957526,
+      "lng": 76.7923143,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDwcMeObtDzkRh7BnFiykMPg",
+      "name": "Citco Petrol Pump",
+      "address": "Apartment Building, Industrial Area Phase I, Chandigarh",
+      "lat": 30.69268749999999,
+      "lng": 76.8023125,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP7Qp0OrrDzkRNgTxBjEc64A",
+      "name": "Anamika gas chulla repair",
+      "address": "JRV7+3QP, near PRINCE PHARMACEUTICALS, Lohgarh, Zirakpur",
+      "lat": 30.6427424,
+      "lng": 76.8142426,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJKSALavDtDzkRP2iF-xLcX2g",
+      "name": "IndianOil",
+      "address": "2, Dakshin Marg, Industrial Area Phase II, Chandigarh",
+      "lat": 30.69669039999999,
+      "lng": 76.79630159999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEaowUSbtDzkRrtpTDV_AvaU",
+      "name": "IndianOil",
+      "address": "2, Dakshin Marg, Industrial Area Phase II, Chandigarh",
+      "lat": 30.69669039999999,
+      "lng": 76.79630159999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJi42jEPHsDzkRHfQJRjoNo-4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Sector 31, Chandigarh",
+      "lat": 30.705381,
+      "lng": 76.787311,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgXbHXBXtDzkR_5K4c20EFHA",
+      "name": "IndianOil",
+      "address": "Phase 3, Industrial Area Phase 2, Chandigarh",
+      "lat": 30.68762549999999,
+      "lng": 76.8250214,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2VylJQDrDzkR3DPfuUAU1uc",
+      "name": "EV CHARGING STATION",
+      "address": "JQ9W+M85, Chhat",
+      "lat": 30.6191346,
+      "lng": 76.7958682,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZcD2LkbtDzkRxMMsHnZhSJc",
+      "name": "15 Petrol Pump",
+      "address": "MRRG+Q94, Mauli Jagran, Daria, Chandigarh",
+      "lat": 30.6918985,
+      "lng": 76.8259612,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJAe82QwCVDzkR7Sr6jCxfG_Y",
+      "name": "BHARAT PETROL PUMP",
+      "address": "New Generation Independent Duplex, 1, Guru Gobind Singh Nagar, Dhakoli, Zirakpur",
+      "lat": 30.6590534,
+      "lng": 76.83825519999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJwwY42QHrDzkRPpN3_enkRyI",
+      "name": "IndianOil",
+      "address": "PR 7, Ground Floor, Airport Road Road, Bypass, Dhurali, Zirakpur",
+      "lat": 30.617364,
+      "lng": 76.80538399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgwgKUG7rDzkRcNh114kBDtQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Aerocity Road, Derabassi, Shatabgarh",
+      "lat": 30.616688,
+      "lng": 76.805916,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx0S7bFeNDzkRhvR9mGxzE9M",
+      "name": "IndianOil",
+      "address": "Ground Floor, Pinjore Nalagarh Road NH21A, Charnia, Sector 20, Panchkula",
+      "lat": 30.6722669,
+      "lng": 76.83954949999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJI61zoFeTDzkRZC0xkUwtBtU",
+      "name": "BP-Industrial Area",
+      "address": "MRMP+8GP, Industrial Area Phase 2, Panchkula",
+      "lat": 30.6833301,
+      "lng": 76.8363217,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdQrK2mrtDzkR-bImWRgTzj8",
+      "name": "IndianOil COCO",
+      "address": "Coco 33, Sector 33, Chandigarh",
+      "lat": 30.7173523,
+      "lng": 76.7756876,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzVf6WbmUDzkRQz6Kg99mswM",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 22, National Highway 5, Dhakoli, Patiala",
+      "lat": 30.6638869,
+      "lng": 76.8423986,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJD__6gm-TDzkRRT5g7a6TlgI",
+      "name": "IndianOil",
+      "address": "Ground Floor, Industrial Estate, Urban Estate, near Huda City Centre 2, Sector 5, Panchkula",
+      "lat": 30.69443099999999,
+      "lng": 76.857698,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3apGxqmVDzkR9mGp02lDTs4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Ramgarh Road, Mubarakpur, Kakrali",
+      "lat": 30.631371,
+      "lng": 76.873291,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoQ4Wzg2VDzkR-CmlAfTzdOg",
+      "name": "RLB Industries",
+      "address": "Ramgarh Road, Mubarakpur, Sanauli",
+      "lat": 30.62025580000001,
+      "lng": 76.86300159999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeYfsnz2TDzkRh7eZmN0lJso",
+      "name": "Banveet service station and Petrol Pump",
+      "address": "329, Chandigarh - Panchkula Road, Motor Market, Motor Market, Sector 13, Chandigarh",
+      "lat": 30.7127433,
+      "lng": 76.8463644,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjZAmHhiTDzkRjvfbJEAGBPk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Sector 5, Panchkula",
+      "lat": 30.71565,
+      "lng": 76.8492918,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZcdf-cWVDzkR__lM90DQaRg",
+      "name": "IndianOil",
+      "address": "National Highway 7, Sector 20, Panchkula",
+      "lat": 30.6666706,
+      "lng": 76.8484099,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKxBgRt2VDzkROnYwU-j3QV8",
+      "name": "Paul Petroleum Consultants | Reconstitution Of Petrol, Diesel, CNG & LPG Dealership",
+      "address": "# 457, Sector: 12A, Panchkula",
+      "lat": 30.6717062,
+      "lng": 76.8488764,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJW99wrHyVDzkRUT6i-AVL2gI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Main Market, Sector 20, Panchkula",
+      "lat": 30.6680958,
+      "lng": 76.85906460000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXdufp8CVDzkR3-V_UeRd-VE",
+      "name": "Petro India Filling Station",
+      "address": "Inner market, near BSNL office, Sector 20, Panchkula",
+      "lat": 30.6655708,
+      "lng": 76.8618262,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVR8PAwCTDzkRZhMZcWCdPTc",
+      "name": "Petrol Pump Sec14",
+      "address": "MRJX+V6Q, Sector 14, Panchkula",
+      "lat": 30.6822166,
+      "lng": 76.8481204,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRzmc2mWTDzkRAzTB_j7crvQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sector 4, Panchkula",
+      "lat": 30.691739,
+      "lng": 76.855542,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1983sn6TDzkR7aP1rduavIw",
+      "name": "IndianOil",
+      "address": "&, Ground Floor NH 22, Kalka Shimla Road, 3, Sector 8, Panchkula",
+      "lat": 30.689042,
+      "lng": 76.867131,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuVoZS1uUDzkRWr_1Nrd_OR8",
+      "name": "MAXCARE",
+      "address": "India",
+      "lat": 30.6558113,
+      "lng": 76.8835161,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ9cIEV0SUDzkRFvaZO4l_4QY",
+      "name": "Sainik Filling Station",
+      "address": "National Highway 73, Sector-27, Panchkula Extension, Panchkula",
+      "lat": 30.6550392,
+      "lng": 76.886892,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpyk3xZyTDzkRhp4j9r0vhlo",
+      "name": "Central Market 5",
+      "address": "NLG RETAIL SHOPPEE, C/O, Sector 8, Panchkula",
+      "lat": 30.6965107,
+      "lng": 76.8571835,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtWM5PVOUDzkRMEmTUXyXlPo",
+      "name": "IndianOil",
+      "address": "Ground Floor Morthikri, Dera Bassi",
+      "lat": 30.6411387,
+      "lng": 76.87986149999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1U02DQCVDzkR3kZIdARjHiA",
+      "name": "Prakash petros",
+      "address": "Prakash petors pradushan kendar, Old Ambala Road",
+      "lat": 30.62874,
+      "lng": 76.8487762,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJj7cOegSVDzkRTLDnPihlQTk",
+      "name": "Parkash Petros",
+      "address": "Nagla",
+      "lat": 30.6286875,
+      "lng": 76.8493125,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_ey12W2UDzkRsMf2aU9RpIQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sector 20 & 25, Panchkula",
+      "lat": 30.67255600000001,
+      "lng": 76.889528,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJh93iFGqTDzkRl3ZZEhuZXzs",
+      "name": "IndianOil",
+      "address": "1, Sector 5 & 8, City Centre, Ground Floor, Panchkula",
+      "lat": 30.7001924,
+      "lng": 76.8503186,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNfvYlHGTDzkRQQ0yUzUwesQ",
+      "name": "Sector 2 BP Petrol Pump",
+      "address": "Sector 2, Panchkula",
+      "lat": 30.69878639999999,
+      "lng": 76.8619401,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZwe7q62VDzkRNL0KtlkFvNE",
+      "name": "IndianOil",
+      "address": "Ground Floor, Ramgarh, Road, Mubarakpur, Kakrali",
+      "lat": 30.63110199999999,
+      "lng": 76.873924,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJF-FFMVOVDzkRlCbdcEkLj3E",
+      "name": "Jasmeet Petroways",
+      "address": "JRFX+RVV, Old kalka, Jammu - Delhi Road, Mubarakpur, Dera Bassi",
+      "lat": 30.6246223,
+      "lng": 76.8496814,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJE-fPxA2VDzkRCtP8WsY5Duk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Mubarakpur, Dera Bassi",
+      "lat": 30.62023099999999,
+      "lng": 76.862501,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ68CGJuiTDzkRf966J4QgFLk",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sector 1 & 8, Panchkula",
+      "lat": 30.706819,
+      "lng": 76.86602599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBfQd0WqVDzkRemNcuxprcr8",
+      "name": "IndianOil",
+      "address": "Ground Floor, Ramgarh Road, Mubarakpur, Bhankharpur",
+      "lat": 30.616957,
+      "lng": 76.85546409999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpU6IygqTDzkR06G3GATbX2I",
+      "name": "IndianOil",
+      "address": "Ground Floor, Industrial Estate, near Suraj Cinema, Panchkula",
+      "lat": 30.7067575,
+      "lng": 76.8707271,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJb1c1ZwCTDzkRb94_DPlHH9M",
+      "name": "CNG PUMP",
+      "address": "Shop No 4, near Petrol Pump, Khark Mangoli",
+      "lat": 30.7067671,
+      "lng": 76.8707408,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ3xFckYmTDzkRTb8sIJLOAj8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Chandigarh Kalka Road, Panchkula",
+      "lat": 30.7121901,
+      "lng": 76.8481401,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhfsALRWVDzkRsEq4WEvEKr0",
+      "name": "HIRDA RAM MANSA RAM",
+      "address": "near Bus Stand, Mubarakpur, Dera Bassi",
+      "lat": 30.6144142,
+      "lng": 76.8513155,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHbO-XgqTDzkRRy6oKT10tfk",
+      "name": "Indianoil-Adani Gas Pvt Ltd CNG Station",
+      "address": "92, Modern Housing Complex, Sector 13, Chandigarh",
+      "lat": 30.7125023,
+      "lng": 76.8484647,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmwm4njSVDzkRApjlIYTLJFE",
+      "name": "Jio-bp",
+      "address": "Ground Floor Lhs Zirakpur, Rd, Dera Bassi",
+      "lat": 30.6171896,
+      "lng": 76.82778449999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwws7YwCVDzkRD52qYz8o2kg",
+      "name": "Indian Gas agency in zirakpur pandwala",
+      "address": "JV8H+5VM, Pandwala",
+      "lat": 30.6154656,
+      "lng": 76.87966879999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJJx0AdwCVDzkRpK1D50xV8jA",
+      "name": "Indian Oil - Adani Gas CNG Station",
+      "address": "Ambala - Chandigarh Expressway, Dappar",
+      "lat": 30.6077345,
+      "lng": 76.8367422,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJH5sCEaftDzkRFvj7tjNilSc",
+      "name": "National Service Centre - BPCL",
+      "address": "Neelam Cinema, Jan Marg, Sector 17-E, Chandigarh",
+      "lat": 30.73928679999999,
+      "lng": 76.7801908,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJm8DPgXTuDzkRO0e4xTtO5xU",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sector 55, Sahibzada Ajit Singh Nagar",
+      "lat": 30.73439200000001,
+      "lng": 76.727989,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJa0FkqA3uDzkRkBDBb5touBU",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sector 56, Sahibzada Ajit Singh Nagar",
+      "lat": 30.73965099999999,
+      "lng": 76.724357,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_fM-yQ3uDzkRsCDXMMOWsGA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Vikas Marg, Sector 39, Chandigarh",
+      "lat": 30.74112939999999,
+      "lng": 76.7242555,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIYCukcvvDzkRo6FCKXNMYRg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Chandigarh, Kharar Rd, Daun Majra, Rupnagar",
+      "lat": 30.737241,
+      "lng": 76.683571,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ80-MHuvtDzkRvQJMR7--niU",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sector 37A, Sector 37, Chandigarh",
+      "lat": 30.74269699999999,
+      "lng": 76.75497399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhesBLqHtDzkRRJjLcZFXhpU",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sector 22, Chandigarh",
+      "lat": 30.7367889,
+      "lng": 76.7760883,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvei7TVXlDzkR-P5Yxbthjps",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Bus Stand, Kharar",
+      "lat": 30.7503301,
+      "lng": 76.6404201,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxXhWbHPtDzkROtARhTJljlg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Madhya Marg, Sector 17A, Chandigarh",
+      "lat": 30.744541,
+      "lng": 76.786621,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq6qqqgvtDzkR9FqkAZbVhmA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Madhya Marg, 17B, Chandigarh",
+      "lat": 30.7420839,
+      "lng": 76.7891502,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4X4RMg3tDzkRbh9ieBftX7Q",
+      "name": "Bharat Petroleum Pump",
+      "address": "NIELT, 138, Madhya Marg, Sector 32D, 9C, Sector 9, Chandigarh",
+      "lat": 30.7430476,
+      "lng": 76.7893256,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM958QQbvDzkRlxsz4aHo6WY",
+      "name": "IndianOil",
+      "address": "Ground Floor, Phase 6, Sahibzada Ajit Singh Nagar",
+      "lat": 30.73599209999999,
+      "lng": 76.7150028,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJiQy-WADvDzkRi8nSZCL7T9E",
+      "name": "Amit",
+      "address": "SCO-22, Phase 6, Sector 56, Sahibzada Ajit Singh Nagar",
+      "lat": 30.7368333,
+      "lng": 76.71522499999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJk7f5VBPuDzkRLUsnAvFSaiw",
+      "name": "Company Owned & Company Operated Pump",
+      "address": "PPP8+J97, Chandigarh Road, Sector 57, Sahibzada Ajit Singh Nagar",
+      "lat": 30.736542,
+      "lng": 76.7159113,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeaDFXQDvDzkR9nX7FBUBIHc",
+      "name": "Dhadkan Bharat Gas",
+      "address": "PPXF+7C3, Daddu Majra Colony, Chandigarh",
+      "lat": 30.7481375,
+      "lng": 76.7235469,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJSXVnuuPtDzkRcAvgO5b3Rb4",
+      "name": "IndianOil",
+      "address": "Ground Floor, Shanti Path, Sector 38 West, Sector 38, Chandigarh",
+      "lat": 30.745636,
+      "lng": 76.73736600000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJi18ZFQDvDzkRIMPTR-QUtnk",
+      "name": "Sawhney filling station",
+      "address": "Sawhney filling station, opposite VR Mall 160055, Sahibzada Ajit Singh Nagar",
+      "lat": 30.7397205,
+      "lng": 76.67804,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJn8QfRDbvDzkRfZLbmLxlVUs",
+      "name": "Chawla Gas Station",
+      "address": "Sector 118, Sahibzada Ajit Singh Nagar",
+      "lat": 30.7381784,
+      "lng": 76.6750958,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ01yIZgDvDzkRbGZaPrhADqc",
+      "name": "Reliance Petroleum",
+      "address": "PMQG+828, Sector 118, Sahibzada Ajit Singh Nagar",
+      "lat": 30.738593,
+      "lng": 76.67510109999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJLYttHpvvDzkR_yQV3bJqAh0",
+      "name": "IndianOil",
+      "address": "Ground Floor Airport Road, Sohana, Ballomajra, Sector 55, Kharar",
+      "lat": 30.738091,
+      "lng": 76.6746903,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSa_qdADvDzkR5RB5qFglsYA",
+      "name": "GS Filling Station Petrol Pump Chajju Majra",
+      "address": "Chajju Majra Road, Model Town, Punjab",
+      "lat": 30.73592559999999,
+      "lng": 76.66642949999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ2QDOJ7ftDzkRQPuw5n0tLlc",
+      "name": "Petroleum Consultant",
+      "address": "House no. 1210, Sector 37-B, Chandigarh",
+      "lat": 30.7396592,
+      "lng": 76.7545351,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKaF0_RDxDzkR6E8850pWO8Q",
+      "name": "IndianOil",
+      "address": "PR 4 Road, Togan, Kharar",
+      "lat": 30.7700709,
+      "lng": 76.7278743,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpzLHvt7tDzkRVu24AG4iSSY",
+      "name": "Super Bharat Gas agency (godown)",
+      "address": "QQ42+6RG, Unnamed Road, Sector 25 West, Chandigarh",
+      "lat": 30.7555578,
+      "lng": 76.75207739999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJtyXuSxjxDzkRqQ3MX3BCrJ8",
+      "name": "Elite Electrical",
+      "address": "SUNRISE HOMES, Jandpur Road, Sector 125, Kharar",
+      "lat": 30.75949510000001,
+      "lng": 76.6664272,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjy-RNZ3xDzkRO57x372T_iI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No PR/4, Chandigarh Kurali Road, Tira",
+      "lat": 30.777581,
+      "lng": 76.721932,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH5c6zeXvDzkR2x36ayHoc-c",
+      "name": "IndianOil",
+      "address": "Ground Floor Ropar Chandigarh Road, Kharar, Sahibzada Ajit Singh Nagar",
+      "lat": 30.74399,
+      "lng": 76.65785199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY-YRZIDtDzkR_KZ8bQCjr2A",
+      "name": "Bharat Petroleum",
+      "address": "Dakshin Marg, 35B, Sector 35, Chandigarh",
+      "lat": 30.72906029999999,
+      "lng": 76.7657752,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJI9xS2NjsDzkRDmpFfgSqOOU",
+      "name": "Bharat Petroleum & CNG Station",
+      "address": "Madhya Marg, Sector 28, Chandigarh",
+      "lat": 30.72011449999999,
+      "lng": 76.80953579999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBUkPFQrtDzkR-GB_5sqTZic",
+      "name": "IndianOil",
+      "address": "Ground Floor, 920 A I A-2, 17F, Sector 17, Chandigarh",
+      "lat": 30.73833419999999,
+      "lng": 76.7810764,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuyAX1nLtDzkR_EYsTCyKfGY",
+      "name": "Pollution centre",
+      "address": "National service centre BPCL, 17E, Sector 17, Chandigarh",
+      "lat": 30.740018,
+      "lng": 76.777654,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS9052P_tDzkRoBWqc7kRy04",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sector 21, Chandigarh",
+      "lat": 30.7241366,
+      "lng": 76.7708966,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJf66xGXPtDzkRKyw06puO8F0",
+      "name": "Kapoor service station",
+      "address": "Sector 21, Chandigarh",
+      "lat": 30.7241124,
+      "lng": 76.7708808,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEaEFIw3tDzkRBmBa3pl1kPA",
+      "name": "HP PETROL PUMP - HAPPY SERVICE CENTRE",
+      "address": "Madhya Marg, 17B, Chandigarh",
+      "lat": 30.74210219999999,
+      "lng": 76.7888234,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUVgJfLDtDzkRu-FTb1nU2_Q",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 30.7286232,
+      "lng": 76.765851,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZ8PDTRftDzkROdKr9AY0eaw",
+      "name": "Hindustan Petroleum Corporation Ltd (Regional Office)",
+      "address": "No 6A, Madhya Marg, 19B, Sector 19, Chandigarh",
+      "lat": 30.73369469999999,
+      "lng": 76.79742089999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJAVP-7hntDzkR4pKw3yLNcaw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Madhya Marg, Sector 19A, Chandigarh",
+      "lat": 30.7318301,
+      "lng": 76.7980501,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJT5eaqrLtDzkR01GCrcnvxq8",
+      "name": "IndianOil",
+      "address": "ground, Sector 34B, Sector 34, Chandigarh",
+      "lat": 30.718891,
+      "lng": 76.768166,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFWN1-9HtDzkRkM1yiT_lDjo",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sector 7-C, Sector 7, Chandigarh",
+      "lat": 30.73679499999999,
+      "lng": 76.800247,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJybkdZQ7tDzkRbhdbO3x5OXA",
+      "name": "Sidhu Service Station",
+      "address": "Sidhu Service Station, Sector 7-C, Sector 7, Chandigarh",
+      "lat": 30.7325211,
+      "lng": 76.80073010000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJW_SLw3HtDzkRRpo2I9g1CDk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Sector 10, Chandigarh",
+      "lat": 30.7510301,
+      "lng": 76.79055009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJE8o264LtDzkRGLXYlj5Cm64",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, opposite Govt College For Women, Sector 15, Chandigarh",
+      "lat": 30.75496100000001,
+      "lng": 76.777771,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQ8JI0-DsDzkRiV9WL9Agu1Q",
+      "name": "Braham Sarup & Sons",
+      "address": "28, Sector 28 D, Chandigarh",
+      "lat": 30.7162997,
+      "lng": 76.8004424,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJqUOv0GjtDzkRhAYR2EQaTcw",
+      "name": "BPCL Petrol Pump Auto Service Station",
+      "address": "4A, Vigyan Path, Road, Sector 4, Chandigarh",
+      "lat": 30.7529381,
+      "lng": 76.7977557,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOXFrK4XtDzkRcZMKdblTK-g",
+      "name": "28 Petrol Pump",
+      "address": "PR74+WG8, Sector 28 Market Road, 28B, Sector 28, Chandigarh",
+      "lat": 30.71478879999999,
+      "lng": 76.80633689999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJPV0dZzqSDzkRGlTLyKcqEOk",
+      "name": "Bharat Petroleum",
+      "address": "Chuna Bhatti, Bhagwanpur",
+      "lat": 30.7449761,
+      "lng": 76.9032589,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHw7G5jySDzkRpeHnakhrG-M",
+      "name": "IndianOil",
+      "address": "Ground Floor, Chandigarh Kalka Road, Chandi Mandir",
+      "lat": 30.75193799999999,
+      "lng": 76.90501499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQRtSXT2SDzkRDSCquKPY8KA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor NH 5, Panchkula Kalka Highway, Surajpur, Near, Chandi Mandir",
+      "lat": 30.7546301,
+      "lng": 76.9052401,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKX7ED-GSDzkRTjjpdnGxYko",
+      "name": "Petro Connect - BPCL Petrol Pump",
+      "address": "PVJ3+83Q, Mansa Devi Complex, MDC Sector 4, Sukteri",
+      "lat": 30.7308342,
+      "lng": 76.852719,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ2Vp0aOTDzkR3dNDwIyPLnw",
+      "name": "IndianOil",
+      "address": "Ground Floor, near The Lalit Hotel, IT Park Road, Chandigarh",
+      "lat": 30.731057,
+      "lng": 76.836423,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJR4XnRaftDzkRpcRXi7E058I",
+      "name": "Government Petrol Pump Pwd",
+      "address": "PR77+4WX, Industrial Area Phase I, Chandigarh",
+      "lat": 30.7128687,
+      "lng": 76.8148449,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJF3jdOAuTDzkR43E0ukTqeso",
+      "name": "Toll tax",
+      "address": "Chandimandir Toll Plaza, Chandigarh Kalka Road, Chandimandir Cantonment, Panchkula",
+      "lat": 30.73884919999999,
+      "lng": 76.89792659999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJK7vtSADtDzkRQ2h3FahYaOA",
+      "name": "Indian oil Petrol Pump",
+      "address": "QQCX+946, Khuda Ali Sher Road, Khuda Ali Sher, Nayagaon",
+      "lat": 30.7709217,
+      "lng": 76.7977676,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAyvWtimSDzkRxQGzME528U4",
+      "name": "IndianOil",
+      "address": "Burj Kotian, Morni Road, Chandi Mandir",
+      "lat": 30.741828,
+      "lng": 76.91645199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUdUXJrfzDzkRYgnUUWYx5uw",
+      "name": "Balaji filling station",
+      "address": "near uco bank, Khuda Ali Sher Road, Nayagaon",
+      "lat": 30.7707876,
+      "lng": 76.79711759999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy3L2cNDwDzkRqQ0zcl24Ls8",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kurali, Boothgarh, Majhi, Sahauran, Siswan Road, Sahibzada Ajit Singh Nagar",
+      "lat": 30.83396200000001,
+      "lng": 76.677733,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRe4UgtrwDzkR7jcXHnzrOwU",
+      "name": "Nayara Petrol Pump",
+      "address": "RMMH+889, Sialba",
+      "lat": 30.8332963,
+      "lng": 76.678366,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhyjV2Qb6DzkRipYxlke2xnM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Kurali Chandigarh Road, Siswan",
+      "lat": 30.834101,
+      "lng": 76.638201,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3UyI4F7xDzkR5OZ99H6j974",
+      "name": "Jio-bp pulse",
+      "address": "Flat No 723B, Gr Flr, Omaxe Silver Birch, New Chandigarh",
+      "lat": 30.813024,
+      "lng": 76.700853,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSeDb1gHxDzkR4sFS02UygaE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Khasra No 12, Chandigarh Kurali Rd, 8/1/1, PR 4 Road, Bansepur",
+      "lat": 30.788175,
+      "lng": 76.715082,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJb0LoIhzxDzkRR2qAKe0HCNY",
+      "name": "IndianOil",
+      "address": "Ground Floor Salamatpur, Kharar",
+      "lat": 30.814157,
+      "lng": 76.72403,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZbZo4lDxDzkReZ4ok4_9Epc",
+      "name": "IndianOil",
+      "address": "Pr 4, Kansala, Kharar, Taqipur, Hoshiarpur",
+      "lat": 30.824623,
+      "lng": 76.69359899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVwqnDADxDzkRqK2izgFZM3o",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Kurali, PR4 Road, Kansala",
+      "lat": 30.8246282,
+      "lng": 76.6930297,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvZJsFADzDzkRe3p3C0a6UQw",
+      "name": "IndianOil",
+      "address": "Ground Floor Eco City, Mullanpur, Sahauran",
+      "lat": 30.811055,
+      "lng": 76.73899899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtXk9n4XzDzkRVnU53FEpikA",
+      "name": "Jio-bp pulse",
+      "address": "Sales Office, OMAXE THE LAKE, PN 6, Kurali Chandigarh Road, Apt, Mohali",
+      "lat": 30.8232185,
+      "lng": 76.73471909999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDaiSbqLxDzkRWZuGqIRtDl0",
+      "name": "Chandigarh Fuel Station",
+      "address": "near Sunny Enclave, PR-7 Airport Road Village Husainpur Sector 123, near Sunny Enclave, Kharar",
+      "lat": 30.77461809999999,
+      "lng": 76.6795824,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ93-ubQDxDzkRCD79wOWdceI",
+      "name": "Indian oli",
+      "address": "QMFH+XF6, Sahibzada Ajit Singh Nagar",
+      "lat": 30.774908,
+      "lng": 76.6786379,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJATaqd8fxDzkRg-66t8oYS-o",
+      "name": "Bharat Petroleum, Petrol Pump -Khattra Fuelz",
+      "address": "SULTANPUR KHARAR SAS NAGAR, Chandigarh Baddi Road, SAS NAGAR",
+      "lat": 30.8495643,
+      "lng": 76.7265156,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLWdgL7TzDzkRk0Bw-w40btI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Milkman Colony, Dhanas, Chandigarh",
+      "lat": 30.767895,
+      "lng": 76.749421,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2-nD75_xDzkRTVt8YUeoo2k",
+      "name": "Bharat Petroleum Petrol Pump , SHIVALIK FILLING STATION",
+      "address": "VILLAGE-CHANDPUR, TEH-MAJARIKURALI, SISWAN ROAD, Sahibzada Ajit Singh Nagar",
+      "lat": 30.8337937,
+      "lng": 76.6541652,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJRaEIwDzDzkRX3Y3d5aleJ8",
+      "name": "Nikhil Home",
+      "address": "QQXQ+322, Chhoti Bari Parachh",
+      "lat": 30.7976387,
+      "lng": 76.78750029999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJybEQRUb3DzkR42UUK0jhVpc",
+      "name": "ESSAR",
+      "address": "India",
+      "lat": 30.85607079999999,
+      "lng": 76.6606312,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJPboWRUb3DzkRynp1E-57s88",
+      "name": "Nayara Petrol Pump, Khera",
+      "address": "Khera",
+      "lat": 30.85629149999999,
+      "lng": 76.660836,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgyt3QbzyDzkRzCKeTUMEqp8",
+      "name": "GOGA JI SERVICE STATION",
+      "address": "India",
+      "lat": 30.7824874,
+      "lng": 76.8070077,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJPapwVQDzDzkRi1ecVe-s88w",
+      "name": "Nayagaon punjab",
+      "address": "QQFV+6C6, Nayagaon",
+      "lat": 30.7730251,
+      "lng": 76.793527,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJNXPIlliMDzkRVwcpCd4jqzs",
+      "name": "IndianOil",
+      "address": "near Km Stone 6, Ground Floor NH 21A, Giridah, Ambala, BCW Suraj Pur, near Km Stone 6, Ambala",
+      "lat": 30.834891,
+      "lng": 76.872948,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe84tI_mNDzkRFHN4u8KFIBw",
+      "name": "HP Both Petrol Pump",
+      "address": "HMT Factory Pinjore, Panipat",
+      "lat": 30.78193899999999,
+      "lng": 76.911221,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSUl0U4eODzkR3nbpV2gLEjs",
+      "name": "IndianOil",
+      "address": "Ram Nagar, Ground, Pinjore - Swarghat Road, Kalka",
+      "lat": 30.8253611,
+      "lng": 76.9241543,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy6QLjWeLDzkRZ2fJEc-AlRs",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 21A, Nanakpura, Pinjore",
+      "lat": 30.871938,
+      "lng": 76.849659,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJd0H0LbGNDzkRymbCNly_EEs",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 21A Nalagarh, Road, Dhamala, Pinjore",
+      "lat": 30.813505,
+      "lng": 76.88924399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuZS0C7iNDzkRRD6fIo6yzgM",
+      "name": "Bharat Petroleum, Petrol Pump -Target Fuels & Lubricants",
+      "address": "PINJORE BADDI, PINJORE BAD, Panchkula",
+      "lat": 30.8093942,
+      "lng": 76.894983,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJc8pH-3SNDzkRW8drdFqyp50",
+      "name": "Bharat Petroleum, Petrol Pump -Doon Valley Filling Station",
+      "address": "NAVANAGAR, PINJORE BADDI R, Panchkula",
+      "lat": 30.8582431,
+      "lng": 76.8565804,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJDbMBpxONDzkRM419yjnkYH0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near HMT Factory, Pinjore",
+      "lat": 30.782271,
+      "lng": 76.910921,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJU_847G-MDzkRU9mY1HWErf0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Kalka - Baddi Road, Charnia",
+      "lat": 30.8536276,
+      "lng": 76.8845523,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC9yoBn6ODzkRge-0j4w7QAE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Kalka - Shimla Highway, Kalka",
+      "lat": 30.8244601,
+      "lng": 76.9235301,
+      "open_now": true
+    }
+  ]
+}

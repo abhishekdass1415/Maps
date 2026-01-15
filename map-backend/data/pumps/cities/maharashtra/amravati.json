@@ -1,0 +1,715 @@
+{
+  "city": "Amravati",
+  "state": "Maharashtra",
+  "count": 88,
+  "center": {
+    "lat": 20.9333,
+    "lng": 77.75
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJw8QZQWWw1jsRe_e7Gc8yXO0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Badnera Road, Pala, Amravati",
+      "lat": 20.826201,
+      "lng": 77.709701,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJczFWlViw1jsR3qePdAfwud4",
+      "name": "Shreyanshi PUC BHARAT PETROL PUMP",
+      "address": "Kolkata - Mumbai Highway, Morgaon",
+      "lat": 20.80747689999999,
+      "lng": 77.700466,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL-qLYQC71jsRGGUMhMgkC2E",
+      "name": "Arhant Automotive Indian Oil Petrol Pump",
+      "address": "RPXF+33Q, Akola - Amravati Road, new town, Badnera, Amravati",
+      "lat": 20.8477242,
+      "lng": 77.72273440000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEVQ7xMm71jsRAFFvaLJ81vg",
+      "name": "Mamarde Auto LPG Gas Pump",
+      "address": "Vilage Sy. No. 8/5, Lontek Batkuli Road SH.No. 200, Amravati",
+      "lat": 20.9060916,
+      "lng": 77.69427739999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLxIZg3i71jsR3cAotruOovM",
+      "name": "Bharat Petroleum, Petrol Pump -Kasturi Fuels",
+      "address": "BADNERA, AMRAVATI RD, AMRA, Amravati",
+      "lat": 20.864809,
+      "lng": 77.7315443,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJG4DJ5uC71jsR-dHo4VkM0Zk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Pandhri, Bhatkuli, Amravati",
+      "lat": 20.907404,
+      "lng": 77.657647,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzcIfPI271jsRFu8sSFI2PfA",
+      "name": "Indian Auto Gas",
+      "address": "VP9P+H6X, Maharashtra Major State Highway 6, Juni Basti, Amravati",
+      "lat": 20.8689887,
+      "lng": 77.7356026,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJc4r258m61jsRPJFs5wFvmBo",
+      "name": "IndianOil",
+      "address": "Ground Floor, Badnera, Amravati",
+      "lat": 20.865305,
+      "lng": 77.738205,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJD4WFfwC71jsRW4_3BiBj9Cw",
+      "name": "Parimal Servo Petroleum Indian Oil",
+      "address": "WP2C+RMC, Ring Road, Navsaari, Amravati",
+      "lat": 20.9020692,
+      "lng": 77.7216335,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0WPknliw1jsR6msW9Z9QNZ4",
+      "name": "IndianOil",
+      "address": "Ground Floor Belora, Nagziri Phata, NH 6, Belora, Shivaji Nagar, Amravati",
+      "lat": 20.807418,
+      "lng": 77.699446,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKX51XgCx1jsR4_sBJPoGLqA",
+      "name": "NILANJAY SERVICE Bharat petrol Pump",
+      "address": "Ground Floor Belora, Nagziri Phata, NH 6, Belora, Shivaji Nagar, Amravati",
+      "lat": 20.8076418,
+      "lng": 77.70081040000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJI1KgJ_iw1jsRCvc7zC6atz0",
+      "name": "LPG GAS STATION CAR",
+      "address": "RM3W+4XW, Nagpur - Chhatrapati Sambhaji Nagar Highway, Morgaon",
+      "lat": 20.8028678,
+      "lng": 77.6974419,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJI6nfheql1jsRl6x3VAY1Cw8",
+      "name": "Bharat Petroleum, Petrol Pump -Amravati Highway Petrocarbon",
+      "address": "AMRAVATI BYPASS ROAD ,AMRA, Amravati",
+      "lat": 20.8697566,
+      "lng": 77.7486033,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsyp7D2-l1jsRKzp2LK6y2TQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 13, Plot No 9/10A/B, MIDC Road, Badnera, Amravati",
+      "lat": 20.872677,
+      "lng": 77.74986799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY0G3Ucql1jsR_Ol2jaZs0ls",
+      "name": "Bharat Petroleum Petrol Pump , JAIKA MOTORS",
+      "address": "Badnera Road, Amravati",
+      "lat": 20.892672,
+      "lng": 77.74713899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm69ONXyl1jsRaxTMbRW94-E",
+      "name": "Purti gass pump",
+      "address": "Badnera Road, Guruchhaya Colony, Gopal Nagar, Amravati",
+      "lat": 20.8936166,
+      "lng": 77.7474235,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJB1IDPwC51jsRfl_unq9FH8k",
+      "name": "Mauli Indian Oil Petrol Pump",
+      "address": "WJ49+5G, Kaliche Khede",
+      "lat": 20.9054371,
+      "lng": 77.6188657,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJl-EpZaKx1jsRekPc1ZaKgZA",
+      "name": "Bharta tyre service",
+      "address": "R p bhagwat petroleum, NH...6, Loni",
+      "lat": 20.79219,
+      "lng": 77.680097,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ-4-G7lml1jsRoaY7gNLFctk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 53, Amravati Bypass, Badnera, Amravati",
+      "lat": 20.867459,
+      "lng": 77.756198,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnzuv_Tml1jsRhtZzX01F-zw",
+      "name": "IndianOil",
+      "address": "G No 14/2&10/1Aa, Amravati Bypass, Mouza, Amravati",
+      "lat": 20.8711435,
+      "lng": 77.75713809999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3cV_Xsmk1jsRvIoKjds03cg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Mouje Peth, Ground Floor, Old Bypass Road, SH 46, Badnera Road, Amravati",
+      "lat": 20.907781,
+      "lng": 77.75128099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ04Kfxuqk1jsRjXYElqJ3msI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, MIDC Road, Yashoda Nagar, Dastur Nagar, Amravati",
+      "lat": 20.913881,
+      "lng": 77.770541,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7zRJ_KKk1jsRk8zGnfIrqIs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Sheet No 40C, opposite Bus Stand, Plot No 2/9, Road, Rukmini Nagar, Amravati",
+      "lat": 20.927551,
+      "lng": 77.76556099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAaGaKaak1jsRfnZdGGCKemA",
+      "name": "M/S S D ASORIYA ADHOC, Bharat Petroleum Petrol Pump",
+      "address": "Amravati",
+      "lat": 20.9327975,
+      "lng": 77.7567002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGWZGy56k1jsRz-dqUurxWN8",
+      "name": "Police Kalyan Petrol Pump",
+      "address": "WQJC+JR6, Maltekdi, Amravati",
+      "lat": 20.9315419,
+      "lng": 77.7720183,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRcXu81ml1jsRodJUD5pi6fg",
+      "name": "Lad Petroleum- Essar Oil Limited Nayara oil limited",
+      "address": "Mhasala",
+      "lat": 20.847921,
+      "lng": 77.757784,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1_nJptyk1jsR6A1r_PVzRyA",
+      "name": "IndianOil",
+      "address": "Jewadparagne, Dastur Nagar, Amravati",
+      "lat": 20.900299,
+      "lng": 77.762703,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdYCUzM2k1jsR6blmmIa-vbk",
+      "name": "IndianOil",
+      "address": "Badnera Road, Saturna, Amravati",
+      "lat": 20.903503,
+      "lng": 77.749977,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJveLT2r2l1jsRmwEfwKvRqEQ",
+      "name": "Bharat Petroleum station",
+      "address": "WP7X+6J7, Krishnarpan Colony, Kanwar Nagar, Guruchhaya Colony, Sharda Vihar, Amravati",
+      "lat": 20.9130456,
+      "lng": 77.7490566,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJyVK1Hrel1jsRx-zI50XmBkM",
+      "name": "IndianOil",
+      "address": "Pharsi Stop, Bapu Colony, Amravati",
+      "lat": 20.9140156,
+      "lng": 77.7600563,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSXZTbUGl1jsRQfkyMtFuyrU",
+      "name": "Yash Shop",
+      "address": "Shop, Road Number 1, Ravi Nagar, Sharda Vihar, Amravati",
+      "lat": 20.9151593,
+      "lng": 77.74824660000002,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJtcfDFgCl1jsREpe6QImxdIA",
+      "name": "Samruddhi Puc Center",
+      "address": "WQ79+2X2, MIDC Road, Yashoda Nagar, Dastur Nagar, Amravati",
+      "lat": 20.9125146,
+      "lng": 77.76989189999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJD_PZ0Lak1jsR1oR3j0zY2As",
+      "name": "Bharat Petroleum",
+      "address": "WQ83+P8M, Badnera Road, Amravati",
+      "lat": 20.916836,
+      "lng": 77.7532896,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJofD-5i6w1jsRIHLAsreSVCE",
+      "name": "Nayara Energy Petrol Pump",
+      "address": "Survey No.61/2, Village –Jula, Taluka –Nandgaon Khandeshwar, Amravati",
+      "lat": 20.8019542,
+      "lng": 77.7378336,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoRA1vnCl1jsRGeVmJAbw-88",
+      "name": "JAGTAP PETROLEUM",
+      "address": "40/A Joglekar Plot Rukhmini Nagar, Congress Nagar Road, Amravati",
+      "lat": 20.9281806,
+      "lng": 77.7627821,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ76bFhqOk1jsRXMyWgQu9g1Y",
+      "name": "Bharat Petroleum",
+      "address": "WQH7+72X, Congress Nagar Road, Vivekanand Colony, Amravati",
+      "lat": 20.928248,
+      "lng": 77.7626094,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJoRdMxqik1jsRVrgf1vUo2IU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Jaistambh Chowk, Amravati",
+      "lat": 20.9312801,
+      "lng": 77.755101,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVRvWq6el1jsRbPRVnHAU3tw",
+      "name": "Om Namahashivaya Esatet Ajency",
+      "address": "Shop No 2, Wasudev Nagar, Amravati",
+      "lat": 20.9319855,
+      "lng": 77.7523037,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJj7x5NKqk1jsR_3EeUTABaCQ",
+      "name": "Gajadhar Beniprasad Jajodia Petrol Pump",
+      "address": "WPMX+5WM, Maharashtra Major State Highway 6, Amravati",
+      "lat": 20.9329675,
+      "lng": 77.74979619999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNdK1eACl1jsR1OCiSuJCS8M",
+      "name": "SRPF PETROL PUMP",
+      "address": "WQHW+984, SRPF Colony, Amravati",
+      "lat": 20.9283338,
+      "lng": 77.7965428,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJz1qe2R-91jsR2kbM4XE0h-k",
+      "name": "Bharat Petroleum",
+      "address": "XPJC+74W, Maharashtra Major State Highway 6, Sultanpur, Amravati",
+      "lat": 20.9807321,
+      "lng": 77.7203402,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJa-z8ww-91jsRO2OxL8Sgrsw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Amravati Walgaon Road, Walgaon, Warwad",
+      "lat": 20.992801,
+      "lng": 77.709801,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKQQAdgC91jsR0mcO_KlT6FI",
+      "name": "KK PETROLLUM",
+      "address": "RELINCE JIO PB, KK PETROLUM, Ring Road",
+      "lat": 20.960635,
+      "lng": 77.7270709,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ7xaO6cS81jsRUf0RX4JwZZU",
+      "name": "Jio bp",
+      "address": "India",
+      "lat": 20.967829,
+      "lng": 77.7298691,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJyc8hFqq91jsRgK4F7yDn3og",
+      "name": "NAYARA PETROL PUMP",
+      "address": "XP2Q+XFX, Transport Nagar, Amravati",
+      "lat": 20.9524346,
+      "lng": 77.7386308,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJu5Nh0U291jsRu7heayfriXg",
+      "name": "Indian Auto Gas Lpg",
+      "address": "WPXR+X6M, opposite Darga, Walgaon Road, Greenpark colony, Transport Nagar, Amravati",
+      "lat": 20.9499639,
+      "lng": 77.7405543,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ3VYgR6u81jsRiPhpZ9TkEvI",
+      "name": "Asoriya Petrol Pump",
+      "address": "MSH6, Zakir Colony, Amravati",
+      "lat": 20.9398801,
+      "lng": 77.7442894,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWZTXGI51ujsRoum5L_ggJfI",
+      "name": "IndianOil",
+      "address": "Ground Floor, SH 6, Amravati Walgaon Road, Rewasa, Amravati",
+      "lat": 20.9807336,
+      "lng": 77.7203361,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpWHUBKa91jsRdJkdkhakvjU",
+      "name": "S.D.Asoriya Petrol Pump (Changapur Fata) CNG Pump",
+      "address": "Paratwada Road, Amravati",
+      "lat": 20.9794097,
+      "lng": 77.7229315,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJU5ZXiC-91jsRAyUIN38sKZQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 98 Achalpur, Road, Amravati",
+      "lat": 20.9851025,
+      "lng": 77.7166345,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYZMP3ni91jsRm4qas3Z2qLE",
+      "name": "Sid's Fuels LLP",
+      "address": "Tq & Dist :, Plot No 153/2 Mouje Pimpalvihir On Amravati Nagpur NH -53, Amravati",
+      "lat": 20.9564321,
+      "lng": 77.7450447,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-T726Q-91jsRig-OKIsNqe8",
+      "name": "HP Petrol Pump- S.N.KALANTRI",
+      "address": "SH 194, Warwad Post, Walgaon, Nagpur",
+      "lat": 20.9931793,
+      "lng": 77.7096969,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJv-zMlGqj1jsRdFa_31ivZjM",
+      "name": "Sai gajanan Oil centre",
+      "address": "Shop No, 2, VMV Road, Cotton Green Colony No-01, Amravati",
+      "lat": 20.9611344,
+      "lng": 77.750909,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJTVhWMGej1jsRjfEjTUneVZE",
+      "name": "IndianOil",
+      "address": "Ground Floor, Morshi Road, Amravati",
+      "lat": 20.943619,
+      "lng": 77.77008099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0RKHVESi1jsRPfMlaAB1Zik",
+      "name": "DATTATRAYA KOLHATKAR TRAVELLING SERVICES DEALERS BHARAT PETROLEUM CORPORATION LIMITED WITH CNG STATION",
+      "address": "NEAR ITC CHOWPAL SAGAR NAGPUR ROAD NH 6 NANDGAOPETH, Amravati",
+      "lat": 20.996311,
+      "lng": 77.78516309999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmaYFSwyl1jsRPLB0d8KiR9I",
+      "name": "Bharat Petroleum, Petrol Pump -G. M. Agarwal",
+      "address": "IRWIN CHOWK,NH6,AMRAVATI, Amravati",
+      "lat": 20.9349456,
+      "lng": 77.7618499,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGe-QoqCk1jsRh44ztv4LfRk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Morshi Road, Amravati",
+      "lat": 20.936201,
+      "lng": 77.763801,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_____z-51jsRIeZruSkFKvM",
+      "name": "Agrasen Petroleum Amravati",
+      "address": "WQP7+GJJ, near Irwin Chowk, beside Hotel Shripad Continental, Nagpur Road, Amravati",
+      "lat": 20.93632819999999,
+      "lng": 77.7640296,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHZ251Vqj1jsR5v0m-Tvh-q8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Infront of, Ground Floor College Road, New Cotton Market Road, Sahakar Nagar, Amravati",
+      "lat": 20.947863,
+      "lng": 77.75938400000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6bSxczCj1jsRms0DNcSxUhQ",
+      "name": "NAYARA Petrol Pump",
+      "address": "Susanyog Colony, near Gajanan Maharaj Temple, Amravati",
+      "lat": 20.9696272,
+      "lng": 77.7560158,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJX_U3pUij1jsReB9kACBUo7k",
+      "name": "Lokhande Petroleum",
+      "address": "Lokhande Petroleum, opp. Golden Leaf Hall, Ring Road, Rahatgaon, Nagpur",
+      "lat": 20.9760789,
+      "lng": 77.7652837,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmyCODwCj1jsR6bI8_qqNrgY",
+      "name": "Bharat Petroleum,Petrol Pump",
+      "address": "XQG7+JGF, Amravati",
+      "lat": 20.9762655,
+      "lng": 77.76524979999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJSVf_ktCi1jsRsql0dai4LdY",
+      "name": "IndianOil",
+      "address": "Survey No 60, 2/A & 63/2, Kathora",
+      "lat": 20.9907202,
+      "lng": 77.7557074,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJi9T7Uouj1jsRDo8bVwgP-hM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, SH 30/3, Amravati Khura Road, Rajura, Amravati",
+      "lat": 20.9455901,
+      "lng": 77.813701,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJi0xEt6yj1jsRribw6Py62mc",
+      "name": "Nayara Petrol Pump",
+      "address": "XQPX+555, Morshi Road, Rahatgaon, Amravati",
+      "lat": 20.9853802,
+      "lng": 77.7979694,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNxIERBWh1jsRHUvcuBclhiQ",
+      "name": "Aarya Petroleum Amravati",
+      "address": "Mardi Road, Parsoda",
+      "lat": 20.9515374,
+      "lng": 77.8544009,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs8JQGWij1jsR2N7e_KBQW14",
+      "name": "Anuradha Petrol Pump",
+      "address": "Shop No 1 Near By Golden Restaurant And Bar, Opp Of Bappu Ka Dhaba Amravati- Nagpur, National Highway, Borgaon Dharmale",
+      "lat": 20.9968554,
+      "lng": 77.8025278,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJxcFgalKi1jsR_yLQfJmhdfo",
+      "name": "IndianOil",
+      "address": "Ground Floor, Borgaon",
+      "lat": 20.997269,
+      "lng": 77.803037,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLXurPSaj1jsRUWsy8gxLAtc",
+      "name": "Essar Petrol Pump, Nandgaon Peth",
+      "address": "2R24+FHP, Walki",
+      "lat": 21.0012231,
+      "lng": 77.8064495,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJr3UFbACj1jsR9ogiD6UukBQ",
+      "name": "Nayara petroleum",
+      "address": "2R24+HJM, Walki",
+      "lat": 21.0014604,
+      "lng": 77.8065524,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJdU10U0Si1jsRN-TPj_rpwKs",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 21.0014603,
+      "lng": 77.8057092,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJFxftFna91jsRux89glLX4eg",
+      "name": "IndianOil",
+      "address": "Survey No 408/2, New Cotton Market, Plot No 2 & 12, Walgaon, Amravati",
+      "lat": 21.0094845,
+      "lng": 77.70040010000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP92TA_mX1jsRCG71aNh8j-Y",
+      "name": "Nayara Petrol Pump - Paras Petroleum",
+      "address": "Survey No-325, Walgaon-Paratwada road,Walgaon Walgaon",
+      "lat": 21.0249877,
+      "lng": 77.6793308,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx86FyBK91jsR2H8PHWA5K4A",
+      "name": "Bharat Petroleum, Petrol Pump -S D Asoriya Walgaon Road",
+      "address": "WALGAON ROAD ,AMRAVATI, Amravati",
+      "lat": 21.011425,
+      "lng": 77.7064063,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9afvNgCV1jsRGuwFtbQBiak",
+      "name": "Durga Petroleum BPCL",
+      "address": "Near, Paratwada - Amravati Road, Ashti",
+      "lat": 21.0528014,
+      "lng": 77.6530385,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJW1VqHAC_1jsR00UlVbUIB94",
+      "name": "Jyoti Petrol pump",
+      "address": "XJVC+CCX, Daryapur - Amravati Road",
+      "lat": 20.9936157,
+      "lng": 77.62110679999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5WJqz2GV1jsROkp8JK-7v1c",
+      "name": "ARK ENTERPRISES",
+      "address": "Ashti",
+      "lat": 21.0574059,
+      "lng": 77.6480486,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTc0gPBCi1jsRCBYIk6E__eM",
+      "name": "Hindustan Petroleum",
+      "address": "Nadgaon Peth, NH-6, Mumbai Nagpur Highway, Amaravati",
+      "lat": 21.0220432,
+      "lng": 77.82318959999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe2-OBFCj1jsRYybJzbUMtXU",
+      "name": "Laxmi Aqua",
+      "address": "2Q98+PQP, Unnamed Road, Takli jaha",
+      "lat": 21.0193451,
+      "lng": 77.7669531,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ-VyJtRyj1jsRL71lLAwTn6w",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 6, Nandgaon Peth",
+      "lat": 21.0121701,
+      "lng": 77.8152901,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDaVtPhCi1jsRXeKXWytzaKU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 53, Nandgaon Peth",
+      "lat": 21.0219601,
+      "lng": 77.8237601,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJw461nVOj1jsRd6c9NGs4F2g",
+      "name": "Bharat Petroleum, Petrol Pump -D.K.Travelling Services",
+      "address": "NANDGAON PETH, NH 6, AMRAV, Amravati",
+      "lat": 21.02262199999999,
+      "lng": 77.823802,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJB06-Evah1jsRbj702913oo8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 53, Nagpur - Chhatrapati Sambhaji Nagar Highway, Amravati",
+      "lat": 21.019381,
+      "lng": 77.838111,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPQ9D0Skg1DsRWVaDr6oW3pM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kothoda, Nandgaon Peth",
+      "lat": 21.023338,
+      "lng": 77.8351137,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnQNSpC-j1jsRak7IlySXc-Y",
+      "name": "Bharat Petroleum, Petrol Pump -Agarwal Auto Service",
+      "address": "POST NANDGAONPET,NH6,AMRAV, Amravati",
+      "lat": 21.02490999999999,
+      "lng": 77.8283285,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpcmGDgSi1jsRVvtHCiJok_U",
+      "name": "Agrawal Petrol Pump",
+      "address": "2RHJ+955, NH 6, Nandgaon",
+      "lat": 21.0283879,
+      "lng": 77.8304905,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9c9yDgCh1jsR5iYIXK7t_ic",
+      "name": "D petroleum BPCL",
+      "address": "2V83+MW, Jamthi",
+      "lat": 21.0166272,
+      "lng": 77.8548469,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDQSG43uf1jsRDuEtLX99F6s",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 175/3 MIDC, Nandgaon Peth, Narayanpur",
+      "lat": 21.0424218,
+      "lng": 77.8447185,
+      "open_now": true
+    }
+  ]
+}

@@ -1,0 +1,443 @@
+{
+  "city": "Silchar",
+  "state": "Assam",
+  "count": 54,
+  "center": {
+    "lat": 24.8322,
+    "lng": 92.7923
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJCxNhmupJTjcRiyiZQPYrZ-Y",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bharakhai,Ghoongoor, Masimpur, Silchar",
+      "lat": 24.760217,
+      "lng": 92.79611799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ55IvW5cxTjcRFO257bzgBs4",
+      "name": "IndianOil",
+      "address": "PT 2, Ground Floor, Mohanpur Road, Chibita Bichia, Near, Algapur",
+      "lat": 24.7643007,
+      "lng": 92.6766049,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKxRl--43TjcRGKz1uC5Fb1E",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Assam University, Silcoorie Grant",
+      "lat": 24.704434,
+      "lng": 92.764917,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYSw8KxpKTjcR3_7qkIvQS9Q",
+      "name": "IndianOil",
+      "address": "Ground Floor, Batertal, Silchar",
+      "lat": 24.792029,
+      "lng": 92.792519,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJET7uwx5KTjcRtyUAxDWxuoI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Meherpur",
+      "lat": 24.788288,
+      "lng": 92.79437899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJozI2sqk1TjcRVR-IK6Y8caY",
+      "name": "Reliance Petroleum",
+      "address": "Dag No109, Patta No33, Potarapurkhelma, Ramnagar, Silchar",
+      "lat": 24.829573,
+      "lng": 92.74522600000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJp3z8J3JJTjcRPBXDvWtMO5g",
+      "name": "Bharat Petroleum",
+      "address": "Silchar Road, Saidpur, Sonabarighat Pt I",
+      "lat": 24.764763,
+      "lng": 92.82560389999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1SNpBXRKTjcRTFuOpnPUS5o",
+      "name": "IndianOil",
+      "address": "Ground Floor Cachar, CR Avenue, Silchar",
+      "lat": 24.8124448,
+      "lng": 92.78240459999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJF2RAfvhKTjcRC_a778-KEOM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Arkatipur, Rongpur, Silchar",
+      "lat": 24.830727,
+      "lng": 92.81023599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJk7ojPQBJTjcRGtEEm6x-8G8",
+      "name": "A LASKAR FILLING STATION",
+      "address": "QRG9+535, Silchar",
+      "lat": 24.7753524,
+      "lng": 92.8175071,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRReUMQBJTjcRo3C1NKgBlXM",
+      "name": "Mohammed Sahed",
+      "address": "QR6F+XWJ, Sonabarighat Pt I",
+      "lat": 24.7624569,
+      "lng": 92.8247701,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJgcwpjEVJTjcREwp5bb65mjA",
+      "name": "IndianOil",
+      "address": "Ground Floor, Dhanehari, Dakhin Krishnapur",
+      "lat": 24.76298,
+      "lng": 92.828475,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNTQIlwhLTjcRPeEM3i3mxQA",
+      "name": "Sunil Automobiles",
+      "address": "Nutan Bazaar Road, Silchar",
+      "lat": 24.8036592,
+      "lng": 92.80188419999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJi9mZ2j5KTjcRxaMhcq0CgYY",
+      "name": "Tribeni Filling Station",
+      "address": "near house, Mizoram Road, Kanakpur, Silchar",
+      "lat": 24.8037848,
+      "lng": 92.80143969999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOxe22D5KTjcR5SGoynVN6hg",
+      "name": "IndianOil",
+      "address": "Ground Floor, Trinayani Lane, Kanakpur, Silchar",
+      "lat": 24.803809,
+      "lng": 92.80197,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJb6Sf6RRKTjcRbDReLajZ18A",
+      "name": "M/s A.S.T.C. Silchar Energy Station",
+      "address": "RQ4W+42W, Meherpur Road, Birbal Bazar, Silchar",
+      "lat": 24.8053535,
+      "lng": 92.79507770000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJrXMb72pLTjcRcfqPykevA8k",
+      "name": "J RAMA FILLING STATION",
+      "address": "J Rama Filling Station College Veng, 12, Silchar",
+      "lat": 24.8054424,
+      "lng": 92.8006272,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ36vepmJLTjcRGwxbAUxwAKM",
+      "name": "DHALESWARI FILLING STATION",
+      "address": "HAILAKANDI",
+      "lat": 24.80871920000001,
+      "lng": 92.79125049999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJsW4x8kJKTjcR1gaMl2yex9Q",
+      "name": "IndianOil",
+      "address": "Ground Floor, N S Avenue, CR Avenue, Silchar",
+      "lat": 24.8101319,
+      "lng": 92.79613049999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKZWqWWpKTjcRzHEjwtqcjuQ",
+      "name": "Silchar Automobiles (INDIAN OIL PETROL PUMP)",
+      "address": "RQ6W+6JR, NS Avenue, Rangirkhari, Silchar",
+      "lat": 24.81060849999999,
+      "lng": 92.7965104,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPW7QKQBLTjcR_cxxPgGt6aw",
+      "name": "GEEPEE INDANE NEW UPDATED",
+      "address": "RQ6H+VXV, Radha Madhab Path, Tarapur, Ambicapur Pt VIII",
+      "lat": 24.812248,
+      "lng": 92.77990690000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJk0pjON5LTjcR-muVFDsikfY",
+      "name": "BERENGA PETROL PUMP - INDIANOIL",
+      "address": "Berenga Pt II",
+      "lat": 24.8124457,
+      "lng": 92.8247265,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ01LVmWNLTjcRefec0LAgdDE",
+      "name": "IndianOil",
+      "address": "Ground Floor Premtola, Dewanji Bazar, Silchar",
+      "lat": 24.821698,
+      "lng": 92.79895200000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMTYQsF9KTjcRVbgLXXXPSMo",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Debdoot Cinema Hall, Central Road, Dewanji Bazar, Silchar",
+      "lat": 24.828324,
+      "lng": 92.79964400000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJn7NnPn1KTjcRpAIz-k1TNlM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Tarapur, Chirukandi, near Railway Station, Silchar",
+      "lat": 24.8292516,
+      "lng": 92.7868111,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJd5254olKTjcRHryFhyWvusM",
+      "name": "IndianOil",
+      "address": "Ground Floor Chirukandi, Sadarghat, Tarapur, Silchar",
+      "lat": 24.830931,
+      "lng": 92.792171,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCYUlomlPTjcR0YvyVgkWlyY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ward No 6, Silchar Road, Sonai",
+      "lat": 24.737571,
+      "lng": 92.87212099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtYf93atPTjcRGVkGSbOK4SA",
+      "name": "Mozmul Fuel",
+      "address": "Shadwin, Sonai Bazar Road",
+      "lat": 24.73163499999999,
+      "lng": 92.8897121,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJbQJoV8xPTjcRqPIw2W3K7GU",
+      "name": "MS M N SERVICE STATION",
+      "address": "Matinagar Road, Sonai",
+      "lat": 24.7303697,
+      "lng": 92.9018863,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJDTqaeaxPTjcRor1A5iBngws",
+      "name": "IndianOil",
+      "address": "Ground Floor Amjurghat, Sonai",
+      "lat": 24.730327,
+      "lng": 92.90292800000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy2wNFABNTjcR9hOxnoH4JvM",
+      "name": "Bharat Petroleum",
+      "address": "RV6C+M9, Badripar Pt I",
+      "lat": 24.812068,
+      "lng": 92.8717329,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJqYLdXIlJTjcRPo8-Ez7IQCg",
+      "name": "Sunil Automobile",
+      "address": "MRWQ+85P, Nutan Bazar",
+      "lat": 24.6958264,
+      "lng": 92.83794309999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJGY435Xg1TjcRedP2a9cHA7I",
+      "name": "IndianOil",
+      "address": "Ground Floor Ramnagar, Chirukandi, Silchar",
+      "lat": 24.83347999999999,
+      "lng": 92.771309,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3StY97UzTjcRYQKXfaNRsSQ",
+      "name": "IndianOil",
+      "address": "Ground Floor Baglaghat, Srikona Part 2, Rajnagar",
+      "lat": 24.831398,
+      "lng": 92.69613,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJS3N6aczTjcRX9C6v5_RA18",
+      "name": "IndianOil",
+      "address": "Ground Floor, Baglaghat,Ghagrapar, Srikona",
+      "lat": 24.8321888,
+      "lng": 92.6816542,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJd1psZzs1TjcRhFund2dYFYc",
+      "name": "IndianOil",
+      "address": "Ground Floor, Masimpur Road, Arunachal, Nischintapur",
+      "lat": 24.861717,
+      "lng": 92.749408,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFzPULFYzTjcRRbUVgkODatg",
+      "name": "M/S Anand & R.A. fuel service station - Bharat Petroleum",
+      "address": "salchapra, Shivbari Road, Srikona Pt III",
+      "lat": 24.8317994,
+      "lng": 92.6786262,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8RN3ZOU1TjcRkE2hrfF0jC4",
+      "name": "IndianOil",
+      "address": "Ground Floor, Topkhana, Silchar,Arunachal, Nischintapur",
+      "lat": 24.855585,
+      "lng": 92.761318,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJofQU33g1TjcRQNbKjSyPg7s",
+      "name": "IndianOil",
+      "address": "Ground Floor Tarapur, PT 7, Ramnagar, Silchar",
+      "lat": 24.834167,
+      "lng": 92.772089,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl-JYOI01TjcRCqaB4TAxB5M",
+      "name": "Mazumder Filling Station",
+      "address": "VPHP+762, Kalain Road, Niz-Joynagar",
+      "lat": 24.8781409,
+      "lng": 92.7355259,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJ3OSDQBLTjcRVn65boEW-tE",
+      "name": "Indian oil",
+      "address": "RQWP+J7C, Ramnagar, Silchar",
+      "lat": 24.84656720000001,
+      "lng": 92.7856491,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJH4OmSgBLTjcRLEXR1Fu3tnk",
+      "name": "Petrol pump",
+      "address": "RQQQ+VJX, Dudhpatil Pt V",
+      "lat": 24.839727,
+      "lng": 92.789096,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJPbi3MkVLTjcR0UH86JMPfzc",
+      "name": "B SANGCHEMA FILLING STATION",
+      "address": "22, Itkhola, Bazar, Silchar",
+      "lat": 24.8364759,
+      "lng": 92.8028487,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJF2RAfvhKTjcRAtRdUoqJ-ow",
+      "name": "IndianOil",
+      "address": "Ground Floor, Rongpur, Arkatipur",
+      "lat": 24.832268,
+      "lng": 92.814864,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJU6vuNQlLTjcRsAqnFvXSrXQ",
+      "name": "Bajrangbali Filling Station",
+      "address": "Nayara Energy, Rongpur, Silchar",
+      "lat": 24.8384869,
+      "lng": 92.84310169999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJWWgFj7NMTjcRCy-7EkxlaKk",
+      "name": "IndianOil",
+      "address": "Ground Floor, Udarbond",
+      "lat": 24.8727644,
+      "lng": 92.87232759999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJv_2OV9qzTzcRH7NICr76zuE",
+      "name": "IndianOil",
+      "address": "Ground Floor, Udarbond",
+      "lat": 24.896435,
+      "lng": 92.895267,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJA1hqyb_MTzcRuSxc1-a5M4s",
+      "name": "IndianOil",
+      "address": "Ground Floor, Chandpur, Barjatrapur",
+      "lat": 24.9028134,
+      "lng": 92.6812822,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZbcGMLDLTzcR_AzRkXLDA10",
+      "name": "IndianOil",
+      "address": "Ground Floor, Borkhola,Hayairbond, Jarailtola Bazar",
+      "lat": 24.9395165,
+      "lng": 92.7301049,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3ZGkopnLTzcRtC8zpBQMXKo",
+      "name": "Southern Assam Cylinder Testing Center",
+      "address": "Jarailtola Bazar Road, Harinchera",
+      "lat": 24.943071,
+      "lng": 92.7231663,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjUcWBGPKTzcR6x1JvVmSFAQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, Dalu, Chotorampur Grant",
+      "lat": 24.929271,
+      "lng": 92.766649,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5d2An5q1TzcRu_K9cJWMOl8",
+      "name": "Saiful Polty Farm",
+      "address": "Dolu Bazar",
+      "lat": 24.923036,
+      "lng": 92.7843609,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJH816HACzTzcR7gg17X8DGHU",
+      "name": "Bharat petroleum",
+      "address": "WV35+QP, Larsingpar Grant",
+      "lat": 24.9043817,
+      "lng": 92.859305,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJhbQEE5C1TzcRxrFDuRSG5pg",
+      "name": "Dhar service station",
+      "address": "Jhapirbond Pt II",
+      "lat": 24.9050352,
+      "lng": 92.8593039,
+      "open_now": true
+    }
+  ]
+}

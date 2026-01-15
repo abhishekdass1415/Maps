@@ -1,0 +1,1667 @@
+{
+  "city": "Mysore",
+  "state": "Karnataka",
+  "count": 207,
+  "center": {
+    "lat": 12.2958,
+    "lng": 76.6394
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJvw3Vl0ZlrzsRFQLONTZXvw4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "1st Stage, near Canara Bank, near Vivekananda Circle Road, D. No: 38/B, 2nd Main Road, Aravinda Nagar, Vivekananda Nagar, Mysuru",
+      "lat": 12.2743722,
+      "lng": 76.62299589999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhT1O8EVlrzsRjsIWKV6_yO4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 88/4 SH 33, Jayapura, Hobli, Kenchalagodu",
+      "lat": 12.228333,
+      "lng": 76.59033699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkyy6lAVkrzsRTi-R15scFmY",
+      "name": "Sri Devi Petrol Bunk Essar Oil Petrol Pump",
+      "address": "6H44+QCQ, Mananthavadi Road, Mysuru",
+      "lat": 12.206953,
+      "lng": 76.556104,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJWfR_eABlrzsRcfPKJsVQGCc",
+      "name": "Kadu mane super fuels",
+      "address": "SH 33, Kalalavadi",
+      "lat": 12.2305974,
+      "lng": 76.59817029999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJVw2soJVwrzsRStMO5dpiMvE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 191, SH 33, Maharadawade Road, Jayapura",
+      "lat": 12.200171,
+      "lng": 76.551841,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-QzHk3xnrzsRdltvr3dJjAM",
+      "name": "Bharat Petrol Bunk",
+      "address": "104, Doora Main Road, Thaluru",
+      "lat": 12.1934279,
+      "lng": 76.59346339999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJH0ECIABlrzsR_SfnJm4AwKs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 37, Kasaba Hobli, Chowdahalli",
+      "lat": 12.2414636,
+      "lng": 76.6088046,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFxYW0v1lrzsRcdDXouyQtyg",
+      "name": "IndianOil",
+      "address": "Ground Floor, Lingambudhi Road, Mysuru",
+      "lat": 12.2622429,
+      "lng": 76.605884,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJw2k0GFhlrzsRDryfU_ooMzM",
+      "name": "IndianOil",
+      "address": "South Mysore, opposite Nie, Mananthavadi Road, Mysuru",
+      "lat": 12.1828768,
+      "lng": 76.5329462,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ040OucljrzsRUo5X8vFFoqk",
+      "name": "NAYARA fuel station",
+      "address": "7GHQ+HX9, Beerihundi",
+      "lat": 12.2789074,
+      "lng": 76.5399999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqfZnfFRjrzsRUaXnFqYneGY",
+      "name": "IndianOil",
+      "address": "Survey No 82/10, Site No 179, Khata No Kumbarabeedu, Beerihundi, Alanahalli",
+      "lat": 12.282572,
+      "lng": 76.54387899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6RGJYgBlrzsRmLRZglA1uHA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 33/7, Yelawala, Kumarabeedu",
+      "lat": 12.284626,
+      "lng": 76.549014,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPyWvJmVnrzsR-VAB7pTDj50",
+      "name": "IndianOil",
+      "address": "Survey No 193/8, Jayanagar, Sindhuvalli",
+      "lat": 12.1957385,
+      "lng": 76.6315146,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJV-_mUPtlrzsROAbhBP4LyVw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 123/2, Kasaba Hobli, Dattagalli, Mysuru",
+      "lat": 12.282209,
+      "lng": 76.60968799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdahuABFlrzsR15emJnEl1wk",
+      "name": "IndianOil",
+      "address": "S No 144, 2, Vivekananda Circle, Sriramapura, Mysuru",
+      "lat": 12.2637781,
+      "lng": 76.6300141,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2WxzcpFvrzsRjle6BbmpP40",
+      "name": "Coco Bandipalya Indian Oil Petrol Bunk",
+      "address": "7M64+RJ6, JP Nagar, Kuppalur",
+      "lat": 12.262065,
+      "lng": 76.656482,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_3fUBmdlrzsRp4pM2t6OrdM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 56/1, HD Kote Road, near Nachanahalli Extension, SH 33, Fort Mohalla, Kuvempu Nagara, Mysuru",
+      "lat": 12.265445,
+      "lng": 76.632913,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJK6DT2PZvrzsRX7F1LT9C8J4",
+      "name": "IndianOil",
+      "address": "Khillee Industrial, 56, 2nd Stage, Visveshwara Nagar",
+      "lat": 12.276622,
+      "lng": 76.645943,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJA5jDovhvrzsRLSb4tCVZ_no",
+      "name": "Shell",
+      "address": "Mananthavadi Road, Mysuru",
+      "lat": 12.28378,
+      "lng": 76.64192,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbwTciE1lrzsRrTLiSGVJYZA",
+      "name": "IndianOil",
+      "address": "No 1, Mk, JCST Block, 1, Udayaravi Road, Chamaraja, Bengaluru",
+      "lat": 12.286213,
+      "lng": 76.62958499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJR5HoB0dvrzsRfijj7-sGoAQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Kamakshi Hospital, 10th K M, Mysuru - Ooty Road, Chakkalur, Mysuru",
+      "lat": 12.216035,
+      "lng": 76.6622344,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ15pRcKFvrzsRlSfvIYDhqMs",
+      "name": "Shell",
+      "address": "Taluk & District, Mysuru - Ooty Road, Mysuru",
+      "lat": 12.245211,
+      "lng": 76.659761,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXao0-v5vrzsRhOrJtdouNIo",
+      "name": "Bharat Petroleum, Petrol Pump -JP Service Station",
+      "address": "Kumbara Koppal Main Road, Mysuru",
+      "lat": 12.254553,
+      "lng": 76.64254679999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLd6BwjZprzsRWOIJvXp2aJ8",
+      "name": "Siddhartha fuels",
+      "address": "Unnamed Road, Byathahalli",
+      "lat": 12.1939333,
+      "lng": 76.6469825,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6yDaMQBprzsRxpnBmEmiCj4",
+      "name": "MRPL Shivamrita Fuel station",
+      "address": "Kadakola",
+      "lat": 12.2007438,
+      "lng": 76.66457439999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1bxOfQlvrzsRqmEFbKmGZLU",
+      "name": "Food And Restaurant",
+      "address": "433, Bandipalya, Mysuru",
+      "lat": 12.2547086,
+      "lng": 76.6606281,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJIwTFRABlrzsRAJIbBZ4SFUA",
+      "name": "Emission test center",
+      "address": "7J8M+439, Mananthavadi Road, Kuvempu Nagar 2nd Stage, Ashokapuram, Mysuru",
+      "lat": 12.2652908,
+      "lng": 76.6327232,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJxTlZ55NvrzsRJyJb2fnmHc0",
+      "name": "Bright Diesel Garage",
+      "address": "113, 7, Opposite A.P.M.C Gate Petrol, Opposite Nanjangud Main Road, Bandipalya, Mysuru",
+      "lat": 12.26383,
+      "lng": 76.65717,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJxbm14GpvrzsRr6yTbHsDFUk",
+      "name": "Bharat Petroleum, Petrol Pump -B.Chandrasekarappa & Sons",
+      "address": "Bandipalya, Mysuru",
+      "lat": 12.2642093,
+      "lng": 76.65751519999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrx_JE55vrzsRMXmziFnceBw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Site No 22, Industrial Suburb, JP Nagar, Mysuru",
+      "lat": 12.2682784,
+      "lng": 76.6438292,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8wgusShlrzsRUM6nJ-RcVJI",
+      "name": "Bharat Petroleum, Petrol and CNG Pump",
+      "address": "MANANDAVADI RD, MYSORE, Mysuru",
+      "lat": 12.2685298,
+      "lng": 76.63721149999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdU9YXMVvrzsRMdzp-CucVEY",
+      "name": "IndianOil",
+      "address": "near G S Ashram, Survey No 45/3 Uttanahalli, near G S Ashram, Main Road, Hosahundi",
+      "lat": 12.257171,
+      "lng": 76.6713967,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLYPMTeRvrzsRqN5wvB4qtC0",
+      "name": "Nayara petrol pump station",
+      "address": "6MPM+4V6, Gate, Chikkagowdana Hundi, Makanahundi",
+      "lat": 12.235282,
+      "lng": 76.684634,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ47OmawBprzsR1FLk9r3J0kk",
+      "name": "BPCL Eesha Energy Station",
+      "address": "Vidyaranyapura - Nanjangud Road, Mysore",
+      "lat": 12.1854012,
+      "lng": 76.6674867,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP0SHKtRvrzsRnsMP3iTT2sk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No, 45/1, Kasaba Hobli, Bandipalya, Mysuru",
+      "lat": 12.258191,
+      "lng": 76.678274,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvTLgpg9vrzsRaFn4-ce3x7A",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 45/1, Kasaba Hobli, Bandipalya, Mysuru",
+      "lat": 12.258191,
+      "lng": 76.678274,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-5P29SJvrzsRKUlbBMQPvFo",
+      "name": "Total Gas",
+      "address": "Ganesh Temple, Vidyaranyapura, Visveshwara Nagar",
+      "lat": 12.2761024,
+      "lng": 76.64637669999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXaXxDwBprzsRca0HgP1SObE",
+      "name": "Indian oil petroleum",
+      "address": "5MM9+HFX, Vidyaranyapura - Nanjangud Road, Thandavapura",
+      "lat": 12.1829174,
+      "lng": 76.6689035,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJtz7xegBprzsRk7RifbZlJhQ",
+      "name": "Royal Fuels HPCL",
+      "address": "5MJ9+C4, Dore's farm, Kochanahalli",
+      "lat": 12.181237,
+      "lng": 76.668786,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJxSzr3wxprzsRmxpZf6PcWA8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 302, 1 & 302/3, Jayapura, Kadakola",
+      "lat": 12.1811689,
+      "lng": 76.6687443,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeY06kCxvrzsRlAiiviwoPcs",
+      "name": "RAJARAJESHWARI PETROL STATION",
+      "address": "56 , VISHWESHWARIAH NAGAR, STERLING THEATRE ROAD, Industrial Suburb, Mysuru",
+      "lat": 12.2814744,
+      "lng": 76.6445652,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJlaZAG_hvrzsRAkyqF2m-36Q",
+      "name": "Essay Petroleum - Mysure Gas Auto LPG",
+      "address": "near Indian Oil Bunk, 1st Cross Road, Gundurao Nagar, Chamundipuram, Mysuru",
+      "lat": 12.2783691,
+      "lng": 76.6591198,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2_-FBz5vrzsRdky36T7XGPM",
+      "name": "IndianOil",
+      "address": "No 166 Bangalore, 1st Cross Road, Mysuru",
+      "lat": 12.2784376,
+      "lng": 76.65920609999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaYW7fvhvrzsRnKtP8884bwY",
+      "name": "Auto Gas",
+      "address": "7JJR+QJP, Vidayaranya Puram, Visveshwara Nagar",
+      "lat": 12.2819587,
+      "lng": 76.6415732,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBw7tfvhvrzsRKSJzbMpzRBU",
+      "name": "go gas",
+      "address": "India",
+      "lat": 12.2820178,
+      "lng": 76.6415334,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJORqc6vpvrzsR2ofy8ZEZ4LY",
+      "name": "Vasudeva Rao & Communication",
+      "address": "Near Andani Circle, 192/1, 4th Main, Sarvajanika Hostel Road, 4th Main, Near Andani Circle, Sarvajanika Hostel Road, Vidyaranyapura, Mysuru",
+      "lat": 12.28144,
+      "lng": 76.65136,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ62ckGQBvrzsRanqyFdlZFx8",
+      "name": "Vasantha service station",
+      "address": "7JMR+5J9, NIE College of Science Road, Vidyaranyapura, Visveshwara Nagar",
+      "lat": 12.282915,
+      "lng": 76.64159959999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJo0ny7wllrzsRaCFYj5eru7U",
+      "name": "Sphatika Service Station",
+      "address": "ring road, S.Uttanahally",
+      "lat": 12.2609935,
+      "lng": 76.6857572,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs2c2CPxvrzsR6pNlYqKuiGw",
+      "name": "Sri Byrava Bike Zone",
+      "address": "India",
+      "lat": 12.2853953,
+      "lng": 76.6479318,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZeIzBBNprzsRS5D7NVV4FQk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Khata No 914/771, Mysore Ooty Road Nanjangud, NH 212, Thandavapura",
+      "lat": 12.173351,
+      "lng": 76.672601,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6w0UTiVvrzsRCngPg3pcCjA",
+      "name": "Bharat Petroleum -Laashya Fuel Station",
+      "address": "Sy no 111,Jlb road, near by st. Marys circle, kasaba hobli, Mysuru",
+      "lat": 12.2861982,
+      "lng": 76.65253589999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJD4P9YuNvrzsRcbZyjXBf6ps",
+      "name": "Hoysala Autogas (Aegis Autogas)",
+      "address": "7MP3+6XR, Jhansi Lakshmi Bai Road, Gundurao Nagar, Chamundipuram, Mysuru",
+      "lat": 12.285808,
+      "lng": 76.65484099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLy2UZONvrzsRLdEcC2iPgck",
+      "name": "Essar Petrol and Diesel Bunk",
+      "address": "7MP3+CXR, Gundurao Nagar, Chamundipuram, Mysuru",
+      "lat": 12.2861199,
+      "lng": 76.6548866,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsXid4_1vrzsRAtK_09oLpNk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near Chamundipuram, 2934, Jhansi Lakshmi Bai Road, Chamundipuram, Circle, Mysuru",
+      "lat": 12.2871842,
+      "lng": 76.6505492,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJk5O4vUtlrzsRlbM_ycXopEE",
+      "name": "ADITYA SERVICE STATION",
+      "address": "7JPF+G47, Paduvana Road, Kuvempu Nagar 1st Stage, Kuvempu Nagara, Mysuru",
+      "lat": 12.286278,
+      "lng": 76.62279350000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ7wiAA_9vrzsRumiXRwGPCGk",
+      "name": "Bharat Petroleum, Petrol Pump -U.M.S. Fuel Station",
+      "address": "JLB ROAD, MYSORE, Mysuru",
+      "lat": 12.2911722,
+      "lng": 76.6468677,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJv0MnagBxrzsRxfQje3JfXwk",
+      "name": "AEE BEE TOTALENERGIES GAS BUNK",
+      "address": "2554/1, Madavachar Road, Chamrajpura, Mysuru",
+      "lat": 12.2923245,
+      "lng": 76.6474717,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJcegyoQFwrzsRF5oefySYpO8",
+      "name": "Sri Mahaganapathi Service Station Chamundipuram, Lakshmipuram, Mysore",
+      "address": "916/A, J.L.B. Road, J.L.B. Road, Near S.D.M.C., Lakshmipuram, Mysuru",
+      "lat": 12.2933659,
+      "lng": 76.64524279999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSeFLMxVvrzsRPIM8H8wvAPo",
+      "name": "Indian oil petrol bunk",
+      "address": "7M8W+X9, Mysuru",
+      "lat": 12.2670051,
+      "lng": 76.69563649999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJDWDZjbN6rzsRER8bFvtaJLU",
+      "name": "IndianOil",
+      "address": "No 1364/A, Double Road, Kuvempu Nagara, Mysuru",
+      "lat": 12.293447,
+      "lng": 76.62456499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWxzGJABxrzsRP-LRPBD-54E",
+      "name": "Propel Auto Gas, Mysuru",
+      "address": "Chamundi Puram, Chamundipuram Road, Chamundipuram, near State Bank of, Road, NR Mohalla, Lakshmipuram, Mysuru",
+      "lat": 12.2948356,
+      "lng": 76.6480613,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJn4l_eR5wrzsRpYlr0EgCTe0",
+      "name": "IndianOil",
+      "address": "opposite Madhuvan Gardens, No 151/1B, Mysore Ooty Road, Ramanagara",
+      "lat": 12.293252,
+      "lng": 76.659027,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJA7pkrRd7rzsRpoY0NNRJY1Y",
+      "name": "Bharat Petroleum Petrol Pump",
+      "address": "KUVEMPUNAGARVISHWAMANAVA DOUBLE ROAD, Mysuru",
+      "lat": 12.2951319,
+      "lng": 76.62591270000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJURS4mq56rzsRPYiBC4VnTsA",
+      "name": "IndianOil",
+      "address": "15/D, New Kantharaj Urs Road, Saraswathipuram, Mysuru",
+      "lat": 12.296644,
+      "lng": 76.63362099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQeV8UQB7rzsRTWvdWSic1vs",
+      "name": "Mukhyaprana heritage fuels, Bharat Petroleum",
+      "address": "1163, Krishnaraja Boulevard Road, Chamarajapura, Chamarajapuram Mohalla, Lakshmipuram, Mysuru",
+      "lat": 12.2970034,
+      "lng": 76.6387981,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5bJlTwBtrzsRPDG3mIjuJI8",
+      "name": "Mahalakshmi sales and service",
+      "address": "6Q8F+84F, maradihundi, Kurahattikaval",
+      "lat": 12.2158068,
+      "lng": 76.7728029,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJxVCQS99xrzsRR9VaGMM8qfA",
+      "name": "IndianOil",
+      "address": "No 157/1, 182/2 NH 212, Alanahalli, Mysuru",
+      "lat": 12.294839,
+      "lng": 76.705238,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg12JkCttrzsRyE2cdqZQ3BM",
+      "name": "IndianOil",
+      "address": "Survey No 493, Chamundi Betta, Varakodu",
+      "lat": 12.2683952,
+      "lng": 76.7657194,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1WcJYlV6rzsR3SHuob7hOKU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "S No J, 28, Mangalore - Mysore Highway, Hinkal, Mysuru",
+      "lat": 12.333271,
+      "lng": 76.59691099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2WvI89t6rzsRmpQOkwi6wM8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 89/4, near Bogadi Main Road, Outer, Ring Road, Bhogadi",
+      "lat": 12.3073114,
+      "lng": 76.60175319999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJA1GrD717rzsRzwPz7Sfv9KI",
+      "name": "IndianOil",
+      "address": "No 33, Mysore Mercara Rd, Indl Area, Belawadi",
+      "lat": 12.3456043,
+      "lng": 76.5739755,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpTf3S8F6rzsRQRTX4z-J2-M",
+      "name": "IndianOil",
+      "address": "No 123/1B, near Speech Hearing Circle, 1194, Bogadi Road, Mysuru",
+      "lat": 12.306321,
+      "lng": 76.61359399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx4Mfu8d6rzsR3k8yJvYxWCU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near Sahukar Chennaiah Road, S No 174 & 174/A TK Layout, near Sahukar Chennaiah Road, Gangothri Layout, Mysuru",
+      "lat": 12.302601,
+      "lng": 76.6161901,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_-AnyvB6rzsRu6WkA9w-S3s",
+      "name": "Shell",
+      "address": "Hunsur Rd Vill Hinkal, Kasaba Hobli, Mysuru",
+      "lat": 12.32785,
+      "lng": 76.60819,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJERML_bB6rzsRo8MPugnPi7o",
+      "name": "IndianOil",
+      "address": "13, Vishwamanava Double Road, Vivekananda Nagar, Mysuru",
+      "lat": 12.298331,
+      "lng": 76.626274,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJF--TqZl6rzsRtCqj8DjJiyA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "S No 22, Valmiki, Hunsur Road, Paduvaralli, Mysuru",
+      "lat": 12.315731,
+      "lng": 76.63255099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcY_orgxwrzsRrm2FzZLBrYI",
+      "name": "IndianOil",
+      "address": "Ground Floor, Vinoba Road, Mysuru",
+      "lat": 12.312262,
+      "lng": 76.639832,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdS2Njg18rzsRfORHgPKP5Gs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 303, 1A Hunsur, Thalassery - Mysore Road, Yelawala",
+      "lat": 12.359869,
+      "lng": 76.537891,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJE_DZpQxwrzsRGDlEFpDwN7c",
+      "name": "IndianOil",
+      "address": "916/1J, LB Road, Mysuru",
+      "lat": 12.298938,
+      "lng": 76.642781,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5c2E3Jt7rzsRhofs1clh7FM",
+      "name": "IndianOil",
+      "address": "Survey No 21/6, Old Survey, 21/2, Maratikyathanahalli, Alanahalli",
+      "lat": 12.304468,
+      "lng": 76.570161,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC9yQRwh7rzsR4uSwSYIcPPA",
+      "name": "Bharat Petroleum Petrol Pump , SHIVAMURTHY FUEL STATION",
+      "address": "SY. NO. 49/5, MARATIKAYATHANAHALLIROOPANAGAR, MYSORE TALUK",
+      "lat": 12.3049003,
+      "lng": 76.57576399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJV9IxBfN7rzsR-f4tsB4f5Ys",
+      "name": "IndianOil",
+      "address": "S No 73, 4, Junction Hinkel, Bhogadi",
+      "lat": 12.3117746,
+      "lng": 76.5960406,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJyZDI0RR7rzsRoRtp77qOkDA",
+      "name": "Nayara Fuel Station Bogadi",
+      "address": "8H6W+MQW, Ring Road, Mysuru",
+      "lat": 12.3117325,
+      "lng": 76.59696,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJCSU9i956rzsRlFqdnDiaYl0",
+      "name": "Bharath Petroleum Laxmi Patil Service Station",
+      "address": "Ring Road Circle, Towards, Gaddide Road, Bhogadi",
+      "lat": 12.3050479,
+      "lng": 76.60168,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJF4tcxdF7rzsR6GZ8hCU416Q",
+      "name": "SRI KALABAIRAVESHWARA FUEL STATION",
+      "address": "73/6, Bogadi, Ring Road, Mysuru",
+      "lat": 12.3035628,
+      "lng": 76.6058044,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJU4bsCjd7rzsR6JfWR2--0Rk",
+      "name": "Bharat Petroleum, Petrol Pump -Sri Lakshmi Narasimha Fuel Station",
+      "address": "N NIVEDITA NAGAR, New Kantharaj Urs Road, Ananda Nagar, Bogadi 2nd Stage, Niveditha Nagar, Mysuru",
+      "lat": 12.2954183,
+      "lng": 76.6077356,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpyjmd6l7rzsRR45djDDglyQ",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 12.3356597,
+      "lng": 76.5884789,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJSd-9KQB7rzsRJl_RHAgJHnE",
+      "name": "Belvadi",
+      "address": "8HRF+933, Belavadi Main Road, Mysuru",
+      "lat": 12.3408788,
+      "lng": 76.57266810000002,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ_Xwmeup7rzsRnuKxFKB126M",
+      "name": "Bharat Petroleum, Petrol Pump -Natraj Fuel Point",
+      "address": "23, 2, Hunsur Road, Hinkal, Mysuru",
+      "lat": 12.3344045,
+      "lng": 76.59355090000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlZdNpfl6rzsRVnRh0ZJTSvY",
+      "name": "Sri Vinayak Diesel Pump Services",
+      "address": "8JJ3+4RP, Hunsur Main Road, Hinkal, near Ganapathi Temple, Hinkal, Mysuru",
+      "lat": 12.3303374,
+      "lng": 76.6045816,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJbxHlB297rzsRno-NOf4HBdc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Site No 74, General Thimmaiah Road, Hinkal, Mysuru",
+      "lat": 12.3351361,
+      "lng": 76.60098219999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXXJR6nl7rzsRrLEoGN6P2eo",
+      "name": "Propel Auto LPG - Green Auto Gas",
+      "address": "Vijayanagar 1st Stage, Vijayanagar, Mysuru",
+      "lat": 12.3265776,
+      "lng": 76.60981509999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwQiKGfJ6rzsR9vX0qqPu72s",
+      "name": "IndianOil",
+      "address": "Hunsur Road, Vijay Nagar 3rd Stage, Vijayanagar, Mysuru",
+      "lat": 12.323828,
+      "lng": 76.613061,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnb4FvnZ7rzsRph0PJoqKcEw",
+      "name": "IndianOil",
+      "address": "Survey No 826 & 827, General Thimmaiah Road, 1st Stage, Vijayanagar, Mysuru",
+      "lat": 12.3278382,
+      "lng": 76.61201109999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTcOnRgB7rzsRxYGzTANJSfA",
+      "name": "IndianOil",
+      "address": "8JH6+6X7, Vijayanagar 1st Stage, Vijayanagar, Mysuru",
+      "lat": 12.3280389,
+      "lng": 76.6124279,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJE8bVBa57rzsRj79LzlhhKqo",
+      "name": "Bharat Petroleum, Petrol Pump -Venkateshwara Fuel Station",
+      "address": "Hootagalli, Mysuru",
+      "lat": 12.3483524,
+      "lng": 76.57984499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-dEttRh7rzsROgWKpEA9aaQ",
+      "name": "IndianOil",
+      "address": "Plot No 15/A, Hootagalli, Belawadi",
+      "lat": 12.349922,
+      "lng": 76.579358,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTVS60rJ7rzsRdHmw1fPAfC8",
+      "name": "Siddligeswara Gas Services",
+      "address": "Lunurs Limited, 265/F, Hebbal Industrial area, Hebbal, Mysuru",
+      "lat": 12.3465,
+      "lng": 76.59500000000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJAzBLHa96rzsRWTSJ-10uezs",
+      "name": "Jain Fuels",
+      "address": "No P1, 2nd Main, 8th Cross, Kamakshi Hospital Road, Mysuru",
+      "lat": 12.2998397,
+      "lng": 76.627766,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP_9bdel7rzsR3SHS2QDTHCo",
+      "name": "IndianOil",
+      "address": "Ground Floor, Hunsur Road, Mysuru",
+      "lat": 12.316985,
+      "lng": 76.62525529999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJk_cmvgJ7rzsR5tLhnPid20c",
+      "name": "Bharat Petroleum Petrol Pump",
+      "address": "Solarium, No 17, KIADB Layout, Service Road Near Damden, Hebbal 2nd Stage, Ilavala Hobli",
+      "lat": 12.3458217,
+      "lng": 76.60165719999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJCYQkvxN7rzsRnco5lgpHbW4",
+      "name": "BPCL Petrol Pump NH 275",
+      "address": "NH 275, Mysore - Madikeri Road, Yelawala",
+      "lat": 12.3526465,
+      "lng": 76.5507925,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJJ-yXzGJ7rzsRhsUK_8beA_w",
+      "name": "IndianOil",
+      "address": "25, Kalidasa Road, Panchavati Circle, Vontikoppal, Mysuru",
+      "lat": 12.324411,
+      "lng": 76.6241969,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqQ8pK3F7rzsR1_zaPOnGKLE",
+      "name": "MRPL Fuel Station - Sri Balaji Petroleums",
+      "address": "9H4J+P9, Mysuru",
+      "lat": 12.3569582,
+      "lng": 76.5807268,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl_lTbF56rzsR1VrdvBvs9I8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "S No 156, near Surya Bakery, Main Road, Mahadeshwara Layout, Vijayanagar, Mysuru",
+      "lat": 12.338946,
+      "lng": 76.616485,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMTXjV8Z7rzsRz2SivuM5qr0",
+      "name": "DHURVES MODERN",
+      "address": "9H5J+86H, KRS Road",
+      "lat": 12.3583144,
+      "lng": 76.5806163,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJVageOl57rzsRPzSvy1bll1w",
+      "name": "Bharat Petroleum, Petrol Pump -Shree Service Station",
+      "address": "inside Bharat Petroleum Fuel, Station, 2902, Kantharaja Urs Road, K.G Koppal, Saraswathipuram, Mysuru",
+      "lat": 12.3016819,
+      "lng": 76.63538299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJd9FcEol6rzsRsLrwYlGUPVw",
+      "name": "MANJULA SERVICE STATION",
+      "address": "India",
+      "lat": 12.3310599,
+      "lng": 76.6256105,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJAVM8lIh6rzsRwX-5OwQpyWQ",
+      "name": "S & S Associates Lpg Bottling Private Limited",
+      "address": "230, 2nd Floor, Sharada Complex, Gokulam, 1st Main, Gokulam 2nd Stage, Gokulam, Mysuru",
+      "lat": 12.3296658,
+      "lng": 76.6300081,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJfV8wd7B7rzsRq8ITOI6N-U0",
+      "name": "SLN Fuel station (Nayara Energy Limited)",
+      "address": "Infosys Road, Mysuru",
+      "lat": 12.3551339,
+      "lng": 76.6056006,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJd3bOZnR7rzsRynxAVLeKyPs",
+      "name": "Galaxy Energy Station",
+      "address": "299-c, Hebbal Industrial Area, Mysuru",
+      "lat": 12.3552532,
+      "lng": 76.6055569,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcY_orgxwrzsRwl93cqu9_8U",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "D No 15, S No 2245/A, Jhansi Rani Lakshmi Bai Road, Devaraja Mohalla, Mysuru",
+      "lat": 12.3130901,
+      "lng": 76.64469009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJW_0mrwxwrzsRqJSq90eOvok",
+      "name": "HP PETROL PUMP GANESH And CO",
+      "address": "Gayatri Bhavan Building, Dhanavantri Road, OPP:, Yadavagiri, Mysuru",
+      "lat": 12.312802,
+      "lng": 76.64746699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmRXFWnFwrzsRgvgJlvE-QzA",
+      "name": "IndianOil",
+      "address": "Bus Stand, Old, next to Vidhyavardhaka College, New, Sayaji Rao Road, Chitradurga",
+      "lat": 12.3183887,
+      "lng": 76.6487094,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJofzBDDpwrzsRDb7_erIhXiU",
+      "name": "IndianOil",
+      "address": "A/1, TN P, No 28/25, near Chamundi Vihar Sports Complex, Stadium, Nazarbad, Mysuru",
+      "lat": 12.308439,
+      "lng": 76.6695544,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJh0O7t35wrzsRrdX-4O0ppmY",
+      "name": "IndianOil",
+      "address": "Abdul Kalam Azad Circle, Bannimantap, Mysuru",
+      "lat": 12.331159,
+      "lng": 76.645752,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ79alc2RwrzsRjucY1ixwTCk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 18, Bangalore - Mysore Road, Bannimantap, Mysuru",
+      "lat": 12.330141,
+      "lng": 76.65695099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnY1Ifn16rzsRgTcQTiT4dYE",
+      "name": "IndianOil",
+      "address": "KRS Road, 4th Stage, Gokulam, Mysuru",
+      "lat": 12.334212,
+      "lng": 76.6326284,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNainAM5xrzsRcyaKRCJrVys",
+      "name": "Reliance Petroleum",
+      "address": "147A, Bannur Road, T Narsipura Road, Junction, Alanahalli Extension, Mysuru",
+      "lat": 12.3045874,
+      "lng": 76.6932911,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm9Y1p5VwrzsRub-mq4FCjrg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "opposite KR Mill, No 521/5, Bangalore - Mysore Road, KR Mill Colony, Mysuru",
+      "lat": 12.3570533,
+      "lng": 76.6614747,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAbNFNpVxrzsR7NNzmhpdig4",
+      "name": "Bharat Petroleum, Petrol Pump -B. Chandrasekharappa & Sons",
+      "address": "100 feet Road, Chamrajpura, Mysuru",
+      "lat": 12.3013521,
+      "lng": 76.6521503,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWVKm36RxrzsRYXkKns958gw",
+      "name": "Bharat Petroleum, Petrol Pump -K Nandibasappa & Sons",
+      "address": "Santhepete Road, Mysuru",
+      "lat": 12.3048396,
+      "lng": 76.6512893,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJD7u0GgtwrzsRvL-Eu_3SksA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near Metropole Circle, S No 1294/4/87 Jn of Viceroy Yelwal Rd, JLB Rd, near Metropole Circle, Vinoba Road, Mysuru",
+      "lat": 12.3111101,
+      "lng": 76.6448101,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJscXIGgtwrzsRooM-VbCK_uw",
+      "name": "Metropole Petrol bunk ️",
+      "address": "8J6V+FW2, Jhansi Rani Lakshmi Bai Road, Devaraja Mohalla, Shivarampet, Mysuru",
+      "lat": 12.3111262,
+      "lng": 76.6447683,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5XJ2TgtwrzsRcgRlSpOn94g",
+      "name": "Mullana and Sons",
+      "address": "Dhanvantari Road, near Vartha Bhavana, Dhanvantari Road, Devaraja Mohalla, Mysuru",
+      "lat": 12.31292,
+      "lng": 76.64621,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJVeP1qExxrzsRyC8Qz6_RRyc",
+      "name": "IndianOil",
+      "address": "Ground Floor, Dhanavantri Road, Bengaluru",
+      "lat": 12.3125894,
+      "lng": 76.64725279999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTXE0XwBxrzsRug-4vE2LHzk",
+      "name": "VIJAYA SERVICE STATION",
+      "address": "Dhanvantri Building, Devaraja Mohalla, Shivarampet, Mysuru",
+      "lat": 12.3119083,
+      "lng": 76.6514797,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJwwUpYHFwrzsRSTBxXhtd6cg",
+      "name": "Diesel Pump Service",
+      "address": "opposite Private Bus Stand, 1873B, Sayyaji Rao Road, Mysuru",
+      "lat": 12.3190791,
+      "lng": 76.647848,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_aKXu7lxrzsRokTCjFFF1Sk",
+      "name": "IndianOil",
+      "address": "Subash Circle, Sayyaji Rao Road, Mysuru",
+      "lat": 12.319311,
+      "lng": 76.647964,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ10WP13NwrzsRInyz7ZjbGfI",
+      "name": "Puttu Oil Corner",
+      "address": "1888, 6th Cross Road, Mandi Mohalla, Mysuru",
+      "lat": 12.3188999,
+      "lng": 76.64923879999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJKzXhDXJwrzsRIObhsQd0L8E",
+      "name": "Shree Ganesha Oil Mill",
+      "address": "India",
+      "lat": 12.3181002,
+      "lng": 76.6521746,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJQ1obKQBxrzsRdoUWWbmixMU",
+      "name": "Indian auto stand",
+      "address": "8J9X+XJX, 6th Cross Road, Tilak Nagar, Mysuru",
+      "lat": 12.3199988,
+      "lng": 76.6491125,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ7zOVwmByrzsRnYZeGCfif1w",
+      "name": "IndianOil",
+      "address": "Survey No 1046, Chamundi Betta, Hobli, Varuna",
+      "lat": 12.31782,
+      "lng": 76.77548,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWYbWoYrJWTkRV1rgCSgXqwg",
+      "name": "IndianOil",
+      "address": "CA 06, Lalithadripura, Outer, Ring Road, S.Uttanahally",
+      "lat": 12.2992577,
+      "lng": 76.70489599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbRddshRxrzsRReF37y2Qs_Q",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 74, 1, Alanahalli, Mysuru",
+      "lat": 12.299824,
+      "lng": 76.705112,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1zmwvgZxrzsReblNxrquVuI",
+      "name": "Bharat Petroleum, Petrol Pump -Nagalakshmi Fuel Station CNG",
+      "address": "Bannur Road, Mysuru",
+      "lat": 12.3044175,
+      "lng": 76.7063967,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ56FoULdxrzsRbviTXTbd3k0",
+      "name": "IndianOil",
+      "address": "No 87, 1, Bannur Road, Alanahalli, Nazarbad, Mysuru",
+      "lat": 12.304553,
+      "lng": 76.705528,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOxmm4tA7rzsRiR-Ftf9H9r8",
+      "name": "MRK Fuels Station",
+      "address": "156/3,157/4, 157/5, T Narsipura Road, Madapura",
+      "lat": 12.3044697,
+      "lng": 76.6980126,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1fhcBNJxrzsRWTeyRcfwB-s",
+      "name": "Bharat Petroleum, Petrol Pump -Balaji Service Station",
+      "address": "ALANAHALLY ON T.NARSIPUR R, Mysuru",
+      "lat": 12.30388,
+      "lng": 76.69286509999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJF0HKHs1xrzsRpga7L2vgtQg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "New No 4, S No 1823, T Narsipura Road, Siddarthanagar, Giriboviya Palya, Mysuru",
+      "lat": 12.306748,
+      "lng": 76.68900099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgdLKQ516rzsR28oHFDIgOhw",
+      "name": "IndianOil",
+      "address": "Ground Floor, Siddhartha Layout, Mysuru",
+      "lat": 12.307734,
+      "lng": 76.67527799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJw2xLe0lwrzsR7AEryJ2TeUY",
+      "name": "Chousiya Service Station",
+      "address": "8M9J+CG2, Ghousia Nagar Main Road, Ghousia Nagar, Mysuru",
+      "lat": 12.3185013,
+      "lng": 76.6812623,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ0Va5dgBzrzsRdr2eKAxTJcg",
+      "name": "VRS Vodagal Rangnathaswamy Service Station",
+      "address": "8P5W+MMQ, Bonthagahalli",
+      "lat": 12.3084102,
+      "lng": 76.7476582,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFViDaARxrzsRWNGDV82ptCM",
+      "name": "Nayara Petrol Bunk",
+      "address": "Mahadivepura main road, opp. Essar petrol station, Complex, Azeez Sait Main Road, Mysuru",
+      "lat": 12.3292504,
+      "lng": 76.6865521,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJr56LG09wrzsR7Fhx5W5K3qw",
+      "name": "Auto Station Service ️",
+      "address": "115/1, Near Mahadevpura Main Road, Shanthi Nagar, Mysuru",
+      "lat": 12.32232,
+      "lng": 76.67842999999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJIx02gUdwrzsRxQXCxZAvUcQ",
+      "name": "IndianOil",
+      "address": "S No, 38 & 39, North, 1st Stage, Gayathri Puram, Chamrajnagar",
+      "lat": 12.3162691,
+      "lng": 76.6734335,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ57OVXgBxrzsRp8farYnJ5oM",
+      "name": "Hindustan computerized emission test centre",
+      "address": "11, T Narsipura Road, Chamundi Vihar Layout, Mysuru",
+      "lat": 12.308457,
+      "lng": 76.669095,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJucoNI2VxrzsRCBOVcSuPNOo",
+      "name": "Hindustan computerized emission test center",
+      "address": "nagsaroj fuels, Male mahadeshwara road, Mysuru",
+      "lat": 12.30848,
+      "lng": 76.6689707,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAb0H5w1xrzsRAZdhKjB8OMg",
+      "name": "Bharat Petroleum, Petrol Pump -Sri Vara Siddhi Vinayaka Service Stn",
+      "address": "Bannur Road, Siddhartha Layout, Mysuru",
+      "lat": 12.3084862,
+      "lng": 76.6689365,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZxs351FwrzsRywWMbCGVGg0",
+      "name": "Indian Service Station",
+      "address": "India",
+      "lat": 12.3265366,
+      "lng": 76.68037079999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJkxmYP2hxrzsRWaIg3kl_pt0",
+      "name": "IndianOil",
+      "address": "Sy No 305/2, Site No 01, Wood Villa, Hanchya",
+      "lat": 12.3383933,
+      "lng": 76.7026078,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJK5MnSkRwrzsRvHGPDdMt1ts",
+      "name": "Nayara Petrol Pump",
+      "address": "Udayagiri, Mysuru",
+      "lat": 12.3217119,
+      "lng": 76.6726774,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtYeQ921xrzsR4T01kCT88iE",
+      "name": "Bharat Petroleum, Petrol Pump -J.N. Khan Fuel Dome",
+      "address": "UDAYAGIRI, MYSORE, Mysuru",
+      "lat": 12.3223597,
+      "lng": 76.672873,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-QYYkglxrzsRCm3m7dET-Ww",
+      "name": "BPCL Petrol Bunk- RANI SS",
+      "address": "Hanchya",
+      "lat": 12.3402958,
+      "lng": 76.70402779999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsYjA0VZwrzsRjNFB0lDjgZw",
+      "name": "BISMILLAH SERVICE STATION",
+      "address": "8MJH+VQ8, 12th Cross Road, Shantinagara North, Rajiv Nagar, Mysuru",
+      "lat": 12.3321744,
+      "lng": 76.6794437,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJlVxjYQBzrzsRlHRkw0BCdhQ",
+      "name": "Nayara Energy Limited- Y S Fuel Station",
+      "address": "8Q54+R8, Bonthagahalli",
+      "lat": 12.309539,
+      "lng": 76.755774,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7S9hbGpwrzsR_5nzGj2L-mk",
+      "name": "Total LPG Gas Pump ️",
+      "address": "Earangere, Mandi Mohalla, Mysuru",
+      "lat": 12.3181308,
+      "lng": 76.66336640000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbT42dPVxrzsR8GO_zqFoGY0",
+      "name": "Shell Fuel Station",
+      "address": "Bangalore Nilagiri High Road, Lashkar Mohalla, Mysuru",
+      "lat": 12.320054,
+      "lng": 76.66180400000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ17QpTABxrzsR8okjO2Qom-U",
+      "name": "GasPlus Auto LPG - MYSORE",
+      "address": "293, 32 Cross Rd, Lashkar Mohalla, Tilak Nagar, Mysuru",
+      "lat": 12.3161661,
+      "lng": 76.658806,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSzibpgxxrzsRDpIPnOtg4CU",
+      "name": "OLA & JUGNU AUTO",
+      "address": "213, Rajivnager",
+      "lat": 12.3160223,
+      "lng": 76.6569063,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJP9B5sWdwrzsRGV875-Dg_E0",
+      "name": "N.R. SERVICE STATION",
+      "address": "8MG6+VQ6, 3rd Cross Road, N R Mohalla, Rajendra Nagar, Mysuru",
+      "lat": 12.3271669,
+      "lng": 76.6618888,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJO8fuZGpxrzsRxALJrzaqi7I",
+      "name": "Bharat Petroleum Fuel Station",
+      "address": "SH17, BB Keri, Rajendra Nagar, Mysuru",
+      "lat": 12.325467,
+      "lng": 76.6586722,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJzysbOepxrzsR6Z9QooFEEuc",
+      "name": "IndianOil",
+      "address": "Rajendra Circle, N R Mohalla, Mysuru",
+      "lat": 12.3251417,
+      "lng": 76.65814809999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJc166SBp5rzsR_ykxD4nEVBU",
+      "name": "Bharat Petroleum Bunk",
+      "address": "KRS Dam Road, Krishnarajasagara",
+      "lat": 12.4129667,
+      "lng": 76.579475,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrYuCPQ58rzsR7eu2wsfP76Q",
+      "name": "ಶ್ರೀ ರಾಮೇಶ್ವರ ಟಿಂಬರ್ಸ್",
+      "address": "India",
+      "lat": 12.3597463,
+      "lng": 76.53817049999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJV9Xrm9p5rzsRYQC0AJavr5k",
+      "name": "Bharat Petroleum, Petrol Pump -Surinder`S Service Station",
+      "address": "BELAGOLA, MANDYA",
+      "lat": 12.3904587,
+      "lng": 76.5904362,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaTTTlW15rzsRmVdUa2_-2AE",
+      "name": "IndianOil",
+      "address": "No 636 Hulikere, Srirangapatna",
+      "lat": 12.3958071,
+      "lng": 76.58220519999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5bfDwBF8rzsRWpe6RR5kKMY",
+      "name": "IndianOil",
+      "address": "Sy No 301/B, MH Road, Yelawala",
+      "lat": 12.360004,
+      "lng": 76.5361314,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJX3R-GinHzjsRmyOyJrFs9Xc",
+      "name": "IndianOil",
+      "address": "Ground Floor, Mnpm Circle, SR Road, Patna",
+      "lat": 12.3902886,
+      "lng": 76.5929735,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPe64oHB7rzsRxNs55J-2tn0",
+      "name": "H.P PETROL PUMP NANDI SS",
+      "address": "307, Near Sri Lakshmi Kantha Swammy Temple, Hebbal Industrial Estate, Hebbal, Mysuru",
+      "lat": 12.3643041,
+      "lng": 76.6097015,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq6qqOjt6rzsRF52sSD-ESj0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, opposite HPCL LPG Plant, Industrial Area, Hebbal, Mysuru",
+      "lat": 12.364368,
+      "lng": 76.609785,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx4NC1EB6rzsRzf2QZDg-FL4",
+      "name": "Bharath Petroleum",
+      "address": "India",
+      "lat": 12.3538858,
+      "lng": 76.61262359999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJf14KZ997rzsRVIfm8v80UzI",
+      "name": "CAUVERY FUEL SERVICE STATION (Bpcl outlet)",
+      "address": "# CA 426, PART-III, 1ST STAGE, Hebbal Industrial Area, Mysuru",
+      "lat": 12.3654415,
+      "lng": 76.6160738,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEV5Dy0F6rzsRcO7TCbppr8E",
+      "name": "IndianOil",
+      "address": "No 440/A, Outer Ring Kasaba Hobli, Indl Area, Hebbal, Mysuru",
+      "lat": 12.353654,
+      "lng": 76.617142,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY1Kr6SF5rzsRXkvBIdY8OEE",
+      "name": "Nayara Energy - Sri Mahadeshwara Fuel Station",
+      "address": "KRS Road, Belagola, Mysuru",
+      "lat": 12.3918129,
+      "lng": 76.6174102,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQStgGwB7rzsR6gIZ9ylevvc",
+      "name": "Surya bekri",
+      "address": "8JVC+W76, near hosilu maramma temple, Kumbara Koppal Main Road, Lokanayaka Nagar, Hebbal 1st Stage, Mysuru",
+      "lat": 12.3446191,
+      "lng": 76.6207605,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJhxFSa2x6rzsRdVay7JyagMc",
+      "name": "MYSORE MULTI CLEAN SYSTEMS",
+      "address": "opposite Shahi export, 613 RByraveshwara temple, ring road, Beside the kalparuksha bar, opposite Shahi export, service road, Metagalli, postt",
+      "lat": 12.3528712,
+      "lng": 76.62457210000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpYJONox7rzsR5qPSZbgEENU",
+      "name": "IndianOil",
+      "address": "Ground Floor, Mogarahalli Belagolla, Hobli, KRS Road, Srirangapatna",
+      "lat": 12.3746086,
+      "lng": 76.6259082,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0_7foRF6rzsROMAazpIZ8mc",
+      "name": "IndianOil",
+      "address": "opposite Vikranth Tyres, No 20/B, KRS Road, Metagalli, Mysuru",
+      "lat": 12.3640587,
+      "lng": 76.62701009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAb-OFe55rzsRIRgG7ZkrxIU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Katha No 385, Sri Rangapatna, Hosa Anandur Main Road, Belagola",
+      "lat": 12.3918667,
+      "lng": 76.62534959999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwaBHR3N5rzsR_Vz6M1Cnoh0",
+      "name": "Hindustan Petroleum, Petrol Pump -M.A.S. Jeelani",
+      "address": "FOUNTAIN CIRCLE MYSORE, Mysuru",
+      "lat": 12.392032,
+      "lng": 76.626465,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDb_DBnp6rzsRuxgAEGfb5kk",
+      "name": "Kallurtri Service Station",
+      "address": "1st Main, Near Railway Track B.M, Srinagar",
+      "lat": 12.3460622,
+      "lng": 76.63505529999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJM1H8Ry9_rzsRInf675BgzNY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 61/1, Yelawala",
+      "lat": 12.3927227,
+      "lng": 76.50624359999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3ZRjJvd7rzsRCo7JJb0PURM",
+      "name": "Bharat Petroleum- Sri Varaganapathi Fuel Station",
+      "address": "9J2Q+4H, Mysuru",
+      "lat": 12.3503552,
+      "lng": 76.6389516,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgVfbyOeBpTsRCRGrCa9t_e8",
+      "name": "IndianOil",
+      "address": "Survey No 40 Siddalingapura, Bannimantap, Near, KR Mill Colony, Mysuru",
+      "lat": 12.3633513,
+      "lng": 76.6613421,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJd1Ncq7lwrzsRjJT-VE2_SuE",
+      "name": "Shiva Shakthi Service Station Bharat Petroleum",
+      "address": "Siddingepura, Siddalingapura, Mysore SH-17, Bangalore, Mysore Road, Mysuru",
+      "lat": 12.3675768,
+      "lng": 76.6614579,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6yH2L5RxrzsRDgY3Z3hE4g8",
+      "name": "Bharat Petroleum Petrol Pump , CHANDRAKALA REDDY FUEL STATION",
+      "address": "SY NO. 27/6 (OLD SY NO. 27/2),SIDDALINGAPURA, Kasaba Hobli, Mysuru",
+      "lat": 12.366399,
+      "lng": 76.662138,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJf8gh4NxrzsRU6qJ-OrcbCM",
+      "name": "mahadevaswamy",
+      "address": "No89/6, behind Colombia Asia Hospital, Ring Road, Siddique Nagar, Kasaba Hobli, Belavata",
+      "lat": 12.3502166,
+      "lng": 76.6567934,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJeyttCfBxrzsRGw4bf8bIA5I",
+      "name": "Nagesh R",
+      "address": "151, Outer, Ring Road, Siddique Nagar, Tilak Nagar, Mysuru",
+      "lat": 12.35029,
+      "lng": 76.65723059999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ25Z8OP9xrzsR4LtHYxm2nFw",
+      "name": "IndianOil",
+      "address": "No 89/6, Hobli, Belavata",
+      "lat": 12.3500518,
+      "lng": 76.65708599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6S5OxbdwrzsROqzU7sr5DJ0",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bengaluru - Mysuru Expressway, Naganahalli",
+      "lat": 12.3721503,
+      "lng": 76.66352169999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM1tryoBwrzsRC2q4DE8aBa8",
+      "name": "Gas Service Station",
+      "address": "4/ A-2, Bannimantap Extension, Industrial A Layout, Near Yerdi Distributors, Bannimantap, Mysuru",
+      "lat": 12.33718,
+      "lng": 76.64677999999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJV3gBP4dwrzsRXszGt9019sg",
+      "name": "Jawahar Agencies ️",
+      "address": "near Yezdi Distilleries, 15-E-2 A Layout, Industrial Area, Bannimantap Extension, near Yezdi Distilleries, Bannimantap, Mysuru",
+      "lat": 12.33735,
+      "lng": 76.64829,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJj2rDPihxrzsRNjjTtqyFUWw",
+      "name": "AEGIS & ESSAR - Vishnu Fuels",
+      "address": "NO. 13/A, NEAR, Abdul Kalam Azad Circle, Bannimantap, Mysuru",
+      "lat": 12.3306812,
+      "lng": 76.6454518,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ3QyStUBxrzsRcxu6nquKlco",
+      "name": "AEE BEE AUTO LPG (MYSORE) ️",
+      "address": "#51, HIGHWAY CIRCLE,OPPOSITE TO PUTHALI PAR HIGHWAY CIRCLE, Bannimantap Road, Mysuru",
+      "lat": 12.330246,
+      "lng": 76.64602099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8wwVAABxrzsRxQ7uP_DbFlc",
+      "name": "Indian oil",
+      "address": "696, Saba Home Rd, 2nd Stage, Rajiv Nagar, Mysuru",
+      "lat": 12.3461413,
+      "lng": 76.6718868,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJqcyqCQB3rzsR-scsekNeE9M",
+      "name": "Indian Oil Petrol pump",
+      "address": "Vijaykumar land, State Highway 17, Brahmapura",
+      "lat": 12.3925488,
+      "lng": 76.66685629999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJxxism2RwrzsRfB0rYoSubro",
+      "name": "Silver Gas Suppliers ️",
+      "address": "Near K.S.R.T.C Bus Depot, 61/2, C V Road, Bannimantap, Mysuru",
+      "lat": 12.33,
+      "lng": 76.65478,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ9dsqMfd3rzsRDO37t8tRvTg",
+      "name": "Avinash&brother s land palahally",
+      "address": "KRS Road, Rampura",
+      "lat": 12.4073929,
+      "lng": 76.64781359999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLRBSlVd2rzsR932Vtd7-sQk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Sy No 310/1A2, Baburayanakoppal",
+      "lat": 12.4293535,
+      "lng": 76.6975496,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfWTYwXJ3rzsRkJ5zgDN5k8A",
+      "name": "Nimisha Fuel Station - Nayara Energy Ltd.",
+      "address": "SY No 217/1, Chinnayakanahalli Village, Taluk, Srirangapatna",
+      "lat": 12.4183638,
+      "lng": 76.7257668,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWZDpdRx6rzsRDuNWNdqhGzo",
+      "name": "IndianOil",
+      "address": "D No 1265, Gosegowda Street, Srirangapatna",
+      "lat": 12.4164885,
+      "lng": 76.6852054,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJde3XfhV3rzsR81a9NNiOWKc",
+      "name": "Anupama Fuel Station -IOCL",
+      "address": "Srirangapatana Service Road, Baburayanakoppal",
+      "lat": 12.4230604,
+      "lng": 76.7071605,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ__8_Jvx2rzsR966StMvuszk",
+      "name": "BPCL - Sri Nimishamba Service station",
+      "address": "Kirangoor Main Road, Srirangapatna",
+      "lat": 12.4279285,
+      "lng": 76.6964366,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ83kr5Fh2rzsR40-0WcNG5lk",
+      "name": "IndianOil",
+      "address": "Ground Floor Baburayanakoppal, Srirangapatana",
+      "lat": 12.4309238,
+      "lng": 76.7029281,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs896yfp3rzsRUXs9zY22B-U",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 46, 9 Srirangapatana, Karimanti",
+      "lat": 12.419271,
+      "lng": 76.667681,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvS07otd3rzsRZtrLDkkL-cg",
+      "name": "Shri Krishna Fuels - MRPL HiQ",
+      "address": "SURVEY NO. 36, GLP URDU SCHOOL, T Narasipura - Srirangapatna Road, Kirangoor",
+      "lat": 12.4354044,
+      "lng": 76.6983411,
+      "open_now": true
+    }
+  ]
+}

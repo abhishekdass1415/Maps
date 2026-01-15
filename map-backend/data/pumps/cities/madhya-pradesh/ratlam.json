@@ -1,0 +1,603 @@
+{
+  "city": "Ratlam",
+  "state": "Madhya Pradesh",
+  "count": 74,
+  "center": {
+    "lat": 23.3333,
+    "lng": 75.05
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJw_Uy25n9YzkRfnnfsmzPNOY",
+      "name": "IndianOil",
+      "address": "Ground Floor, Rajpura",
+      "lat": 23.2801834,
+      "lng": 74.9799465,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmTrd7DX9YzkRQr1-ib2rq-8",
+      "name": "Shree Jaleshwar Petroleum KSK Rajpura",
+      "address": "103/3, Rajpura",
+      "lat": 23.2805857,
+      "lng": 74.9796496,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJBfW-XAD9YzkRq0WY_4cT8B0",
+      "name": "NAYARA PUMP FRIENDS FUELS",
+      "address": "72Q9+RW, Kaneri",
+      "lat": 23.289119,
+      "lng": 75.0190647,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ4ceYiho_ZjkRreF9JIvaVBw",
+      "name": "IndianOil",
+      "address": "Ground Floor, SH 26, Kalmoda",
+      "lat": 23.25667499999999,
+      "lng": 75.0355022,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5xpcbuv8YzkRgQi1onv3Ocw",
+      "name": "lanOil",
+      "address": "724P+P74, Madhya Pradesh State Highway 39A, Alniya",
+      "lat": 23.25676289999999,
+      "lng": 75.0357171,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJc-v2VNT9YzkRuZgiyvghdP0",
+      "name": "Kalpatru Automobile",
+      "address": "724P+M89, Kuajhagar",
+      "lat": 23.256667,
+      "lng": 75.0358724,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ0wIWY9XYTkRwY6yFcFNN1M",
+      "name": "Reliance Petroleum",
+      "address": "KHASRA NO.191/8, 191/9, PH NO.31, PUSTIKA NO.97413, GRAM, Khara Khedi",
+      "lat": 23.2639863,
+      "lng": 74.92087719999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGfRGGLz9YzkRr9zHruxcVzM",
+      "name": "Bharat petroleum corporation limited care of shri ram petroleum sagod",
+      "address": "8256+X5X, Dholawad Road, Sagod",
+      "lat": 23.3099792,
+      "lng": 75.01048899999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ3Xa6ukb9YzkRCpjI8S-gOpQ",
+      "name": "Jai Balaji Enterprise, Essar Pump",
+      "address": "827G+45G, Moti Nagar, Ratlam",
+      "lat": 23.3128186,
+      "lng": 75.0254557,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAe4AizfjYzkRU757HaFqKx4",
+      "name": "Essar Mundri petroleum",
+      "address": "Ratlam, Jhabua Road, Mundri",
+      "lat": 23.2170918,
+      "lng": 75.0361829,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbbvYcgDjYzkRYi0sm62gksI",
+      "name": "BHARAT PETROLEUM - YUGM RAMDEVO FUEL",
+      "address": "628P+9GM, Mundri",
+      "lat": 23.2159726,
+      "lng": 75.03629459999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJRffPYsX9YzkR6Q7qHrMOahM",
+      "name": "Mahavir Fuel Bharat Petroleum",
+      "address": "1, 937, 28C, Karamdi Road, Ratlam",
+      "lat": 23.3106476,
+      "lng": 75.0384504,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0-qwt5j7YzkRjePXeYcte9c",
+      "name": "Reliance Petroleum",
+      "address": "Ph No 31 Pustika No 97413, Khasra No 191/8 & 191/9, Ratlam",
+      "lat": 23.2861755,
+      "lng": 75.08333809999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFV3M26_-YzkRHdC9ANywRlo",
+      "name": "IndianOil",
+      "address": "Ground Floor, Mhow - Neemuch Road, Banjali",
+      "lat": 23.3216895,
+      "lng": 75.0598553,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaanCIaH-YzkRUi3CxJTUu5k",
+      "name": "Nayara Petrol Pump",
+      "address": "near nagar nigam mahalwada, opposite Nagar nigam, 31, Palace Road, Ratlam",
+      "lat": 23.3252576,
+      "lng": 75.0422926,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS3tW3MD7YzkR6x9mi4qMxoc",
+      "name": "Bharat Petrol Pump",
+      "address": "NH 79, Khara Khedi",
+      "lat": 23.2832861,
+      "lng": 75.0843108,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6WBd2e77YzkR5BEI8qOYZ6g",
+      "name": "IndianOil",
+      "address": "Ground Floor Kharakhedi, SH 31, Banjli, Ratlam",
+      "lat": 23.2860479,
+      "lng": 75.0823864,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_90EJpH7YzkRFcDAM_fh_2k",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Mhow - Neemuch Road, Sala Khedi",
+      "lat": 23.29414,
+      "lng": 75.07791999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOc_qZ437YzkRbkHtDPhokc4",
+      "name": "IndianOil",
+      "address": "Ground Floor Salakhedi, Mhow - Neemuch Road, Banjli, Ratlam",
+      "lat": 23.30036999999999,
+      "lng": 75.072222,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsQ4bZ437YzkRHsiS48UHhrk",
+      "name": "Gujarat Gas CNG Station",
+      "address": "832C+4WV, Sala Khedi",
+      "lat": 23.3003525,
+      "lng": 75.07230349999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJb6xkv8r7YzkRgSDuwKea6SM",
+      "name": "Friends Automobiles Petrol",
+      "address": "71/2/4, Mhow - Neemuch Road, Sala Khedi",
+      "lat": 23.3003682,
+      "lng": 75.0724671,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJFfdTUg38YzkRmV6wJhCO6PM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Karamdi Road, Ratlam",
+      "lat": 23.306391,
+      "lng": 75.042935,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgYey4DP7YzkRezGDNDqWJRY",
+      "name": "IndianOil",
+      "address": "Km Stone 85, Betn Km Stone 75, Dharad",
+      "lat": 23.2577656,
+      "lng": 75.1011524,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJReCCGff7YzkRgzAPhvhm0g8",
+      "name": "Highway Fuels",
+      "address": "1 Salakhedi, Ratlam",
+      "lat": 23.3105358,
+      "lng": 75.0651695,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCcMnw0n7YzkRe6glDkCP5E0",
+      "name": "IndianOil",
+      "address": "Ground Floor, Police Line, Ratlam",
+      "lat": 23.312441,
+      "lng": 75.064345,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBdsk0sPjYzkR76E852hV0I0",
+      "name": "Jai Omkar fuels",
+      "address": "Mundri",
+      "lat": 23.210063,
+      "lng": 75.0361695,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJf41VSRz8YzkRCB1oznZ-F6w",
+      "name": "India Fuels Essar Petrol Pump",
+      "address": "Survey No.474/2/2, Near Sethia Marriage Garden, Unkala Ganesh Road, Ratlam",
+      "lat": 23.3192718,
+      "lng": 75.0453869,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGwcEUv_7YzkRMmi1sFWVE38",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Mahatma Gandhi Road, Ganga Khedi",
+      "lat": 23.3187101,
+      "lng": 75.06182009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQzsS84L9YzkRQP9O46qoLl4",
+      "name": "Bharat Petroleum, Petrol Pump -Highway Fuels",
+      "address": "SALAKHEDI,MHOW-NEEMUCH RD,, Ratlam",
+      "lat": 23.3222371,
+      "lng": 75.05936799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJWQzvL_7YzkRZxlGrqQL83U",
+      "name": "Panola energy station BPCL petrol pump",
+      "address": "Binjasan Mata ji Mandir, bhatpachlana Marg, Sala Khedi",
+      "lat": 23.2808323,
+      "lng": 75.1147258,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoVX-EQD7YzkROAEWBl7g0IE",
+      "name": "Gujarat Gas plant",
+      "address": "83FC+P54, Hapu Khedi",
+      "lat": 23.324266,
+      "lng": 75.0704964,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJPepiiiP_YzkRyyemPnlCtM4",
+      "name": "BHUPENDRA BARAIYA",
+      "address": "09, Mhow Road, Ratlam",
+      "lat": 23.3302506,
+      "lng": 75.0542952,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJbXR2qK_-YzkRybk4L3IYQ-Y",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Mhow - Neemuch Road, Ratlam",
+      "lat": 23.332021,
+      "lng": 75.051631,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7wfUsa_-YzkRAGrgBtnAG9o",
+      "name": "Patel Automobiles (Patel Petrol Pump)",
+      "address": "Mhow-Neemuch Road, Fawara Chowk, Mhow Road Railway Colony, Shastri Nagar, Ratlam",
+      "lat": 23.3324358,
+      "lng": 75.0517157,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy0VepaT-YzkRpHjazRW8Kzg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Power House Road, Ratlam",
+      "lat": 23.3333501,
+      "lng": 75.04418009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4a_gZQ3_YzkRE7F2P96Bm1I",
+      "name": "Excellent Automobiles - Hero MotoCorp",
+      "address": "Esquire Complex, Mhow Road, Ratlam",
+      "lat": 23.3343649,
+      "lng": 75.0513142,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUcNwNCX_YzkRPxcsdPrNa6g",
+      "name": "Reliance Petroleum",
+      "address": "Municipal House, near Hotel Rituraj, Pn 22, Power House Road, Ratlam",
+      "lat": 23.333754,
+      "lng": 75.038923,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL9vbVzL9YzkRHyWUIY7300s",
+      "name": "IndianOil",
+      "address": "Ground Floor, Mhow - Neemuch Road, Banjali",
+      "lat": 23.3344973,
+      "lng": 75.0515004,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJU0kw7TxYzkR2sLISUJnbJE",
+      "name": "Kesar Fuel",
+      "address": "Bhatpachlana - Ratlam Road, Chorani",
+      "lat": 23.2669973,
+      "lng": 75.1711036,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7WxadXjvYzkRoG9uKHj3DsE",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bilpank",
+      "lat": 23.2318464,
+      "lng": 75.1616064,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_b1odsvlYzkR7_lmcjsovnE",
+      "name": "IndianOil",
+      "address": "Ground Floor, Mhow Neemuch Road Ambodia, Fanta, Satrunda",
+      "lat": 23.2113067,
+      "lng": 75.1343706,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9wpFJoXwYzkRWCQqr_J35sE",
+      "name": "IndianOil",
+      "address": "Survey No 87, 2/3 & 87/5/2/1, Banjli, Shivpur",
+      "lat": 23.2994291,
+      "lng": 75.1634377,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJn-GMKwL7YzkRkI2cgIrGF_w",
+      "name": "IndianOil",
+      "address": "Ground Floor, Nagra",
+      "lat": 23.3251732,
+      "lng": 75.09751469999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJa5TgyO3-YzkRXYFhBxv8lN0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Alkapuri, Ratlam",
+      "lat": 23.348797,
+      "lng": 75.028424,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaaq78Qn_YzkRTo98PTuMcU4",
+      "name": "IndianOil",
+      "address": "Survey No 798/1/2798/1/3, Ph No 27 Palsoda, Banjali",
+      "lat": 23.3827104,
+      "lng": 75.01552939999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJw7fNXYv_YzkRECOJggRBU2o",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bibrod",
+      "lat": 23.3352472,
+      "lng": 74.98863469999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkYpXl3z_YzkR2wWfgtYDrDk",
+      "name": "Vaishali Filling Junction",
+      "address": "5, Mohan Nagar, Choraya, Ratlam",
+      "lat": 23.3334314,
+      "lng": 75.0245994,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJu_DRyO3-YzkRJ4-NQHHw6JI",
+      "name": "Nirmal Krishna Complex",
+      "address": "behind Sakshi Petrol pump, Naya Gaon, Alkapuri, Ratlam",
+      "lat": 23.348892,
+      "lng": 75.0284605,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAWDKcQP_YzkRHfb-BBcQB5E",
+      "name": "Shivani Dresses",
+      "address": "Shakshi Petrol Pump, Shiv Nagar, near Komal Nagar, 18/1, Ratlam",
+      "lat": 23.3485814,
+      "lng": 75.0322166,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJpaLnWAT_YzkRi_GrwFdAMJk",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sailana Road, Banjali",
+      "lat": 23.3746032,
+      "lng": 75.0230534,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJb_Mlkxz_YzkRhFDK3nSEUt4",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sejawata Bypass Road, Banjali",
+      "lat": 23.374182,
+      "lng": 75.02811899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtT59Vij_YzkRQjvRPllJ8fM",
+      "name": "Sri Balaji Jadaw Kisan Sewa Kendra",
+      "address": "Servey No 314/3, Vill, Banjali",
+      "lat": 23.3773693,
+      "lng": 75.0280652,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJIUXsGc_-YzkRv7iqWzGWv4U",
+      "name": "IndianOil",
+      "address": "Ground Floor, Jaora Road, Industrial Area, Banjli",
+      "lat": 23.354159,
+      "lng": 75.051626,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL1C7SrT-YzkR8XPHzozL4Y8",
+      "name": "Sagar Automobiles",
+      "address": "192, opp. D-Mart, Old, Bypass Road, Ratlam",
+      "lat": 23.3440163,
+      "lng": 75.05677589999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-eq3aTP_YzkR3Rqt0IdbZO0",
+      "name": "Indian Oil",
+      "address": "93P5+PWW, National Highway 79",
+      "lat": 23.3868623,
+      "lng": 75.0598329,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYXorHq35YzkRHpYuf_Z3xmQ",
+      "name": "IndianOil",
+      "address": "Survey No 6, 3/2, Sanavada Banjli, Ratlam",
+      "lat": 23.3310966,
+      "lng": 75.0783036,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJh40XBNb-YzkRZBOuLWEC1YI",
+      "name": "Shakti Fuel Point",
+      "address": "Dosigoan Near NH 79, Jaora Road, Ratlam",
+      "lat": 23.3696137,
+      "lng": 75.0547297,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJC5pOjdr_YzkRyfaGmVm9_ag",
+      "name": "Jio-bp",
+      "address": "Plot No 79/1 & 79/2 Nh 79, Ratlam",
+      "lat": 23.3854094,
+      "lng": 75.0584034,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRc9s_M_4YzkRdkXLNHkEo0g",
+      "name": "IndianOil",
+      "address": "Phase No 20, Survey No 449, 4 449/5, Banjali, Sejawta",
+      "lat": 23.3836822,
+      "lng": 75.0721822,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJK5_I6UD9YzkR9UHMI_eF-IM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Mhow - Neemuch Road, Ratlam",
+      "lat": 23.3870283,
+      "lng": 75.0599033,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVxzS2Hz5YzkR1ipn8SNTJ8M",
+      "name": "IndianOil",
+      "address": "PH No 35, Survey No 222/4, Jadwa Khurd, Banjali",
+      "lat": 23.366648,
+      "lng": 75.118062,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvai9mwL6YzkRSBMjI0ir9rg",
+      "name": "IndianOil",
+      "address": "Bangla, Survey No 305/1/38, Badodiya",
+      "lat": 23.331746,
+      "lng": 75.14533300000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGW7OCJT5YzkRo2OMFFkWY1s",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bangrod",
+      "lat": 23.3985747,
+      "lng": 75.10326359999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFRvQ_A35YzkRiT_AyTj-wrc",
+      "name": "MAA CHAMUNDA PETROLEUM",
+      "address": "near by Balaji Marriage Garden, Sejawta, near by Balaji Marriage Garden, Road, Bangrod",
+      "lat": 23.3995596,
+      "lng": 75.10509019999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJPWJyddMGZDkRO9zdvFNTypc",
+      "name": "IndianOil",
+      "address": "National Highway 79",
+      "lat": 23.4709965,
+      "lng": 75.0639442,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZzEDlqv4YzkRxM6j4g_jH7w",
+      "name": "IndianOil",
+      "address": "Ground Floor, Mhow - Neemuch Road, Dhonswas",
+      "lat": 23.4130972,
+      "lng": 75.065429,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHdpFQ_L5YzkRvp-pwED-JN4",
+      "name": "Gagan Automobiles",
+      "address": "Mhow - Neemuch Road, Dhonswas",
+      "lat": 23.4137819,
+      "lng": 75.0656991,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ04fop8kHZDkRg1RkmmTmiZk",
+      "name": "IndianOil",
+      "address": "Ground Floor, Km Stone, 82 & 116, Dhonswas",
+      "lat": 23.4332264,
+      "lng": 75.0666037,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQYatVQAHZDkR0lsfssr_TjQ",
+      "name": "KRISHA PETROLEUM (क्रिशा पेट्रोलियम)",
+      "address": "Survey No 3, 2/1/3/2 SH-52, Mhow - Neemuch Road, Dhonswas",
+      "lat": 23.4350705,
+      "lng": 75.0650619,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2f4eRxkBZDkRCRq6Rtt-BR4",
+      "name": "BPCL PUMP (Shree Balaji Petroleum",
+      "address": "Mhow - Neemuch Road, Namli",
+      "lat": 23.4558479,
+      "lng": 75.056961,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJT0WHhSEHZDkRNeqzSHaGHfk",
+      "name": "IndianOil",
+      "address": "Ground Floor Shajapur, Semliya, Road, Namli",
+      "lat": 23.4599904,
+      "lng": 75.0820954,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHSiXIn4HZDkRO-3RyECgCmo",
+      "name": "Navkar Petrol Pump",
+      "address": "F3F7+H8X, Mhow - Neemuch Road",
+      "lat": 23.4739845,
+      "lng": 75.0633579,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJIVqxTTIGZDkR0f7Mkjc6p34",
+      "name": "IndianOil",
+      "address": "H No 12, Survey No 534/1534/2, Banjali",
+      "lat": 23.4691778,
+      "lng": 75.1290841,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJT0kxpb33YzkRdXrlJ5vLeoc",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kanwas",
+      "lat": 23.4001206,
+      "lng": 75.19448489999999,
+      "open_now": true
+    }
+  ]
+}

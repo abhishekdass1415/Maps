@@ -1,0 +1,979 @@
+{
+  "city": "Imphal",
+  "state": "Manipur",
+  "count": 121,
+  "center": {
+    "lat": 24.8167,
+    "lng": 93.9333
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJWVPHt44oSTcRSfjS-req4vs",
+      "name": "Petrol Pump",
+      "address": "QVXR+WV7, Imphal",
+      "lat": 24.799779,
+      "lng": 93.8921761,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJS-Nva68nSTcRy6fAlBNm2fs",
+      "name": "IndianOil",
+      "address": "Ground Floor Puramakhong, near DM College, Singjamei Road, Chingamakha, Imphal",
+      "lat": 24.765698,
+      "lng": 93.92761399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ60PDCMglSTcRhs2lFlAfH4A",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kunjanh 39, near Manipur University, Langthabal Kunja",
+      "lat": 24.7351119,
+      "lng": 93.9373554,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZZzESGUmSTcRrvIp4bS1ArE",
+      "name": "IndianOil",
+      "address": "Ground Floor, near DM College, Kakwa, Imphal",
+      "lat": 24.7702079,
+      "lng": 93.9377894,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJya0HHgAnSTcRsQ9Ktw_4WRo",
+      "name": "SASC Filling Station",
+      "address": "Meitram NH-02, Tiddim Road, Imphal",
+      "lat": 24.743536,
+      "lng": 93.8686237,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5eJLOFAvSTcRJQGLCohmqys",
+      "name": "IndianOil",
+      "address": "Ground Floor Malom, near DM College, Imphal",
+      "lat": 24.7434011,
+      "lng": 93.868601,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL5WoHQAvSTcR5t3ZzLn-gU0",
+      "name": "Petrolpump site",
+      "address": "PVVC+H36, National Highway 2, Changangei",
+      "lat": 24.7439194,
+      "lng": 93.8701506,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJl-FVbxsvSTcRyRSq8w9b9DM",
+      "name": "Utlou oil pump",
+      "address": "PVH2+765, National Highway 2, Yarou Meitram",
+      "lat": 24.7281472,
+      "lng": 93.8506104,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJIwz57WgvSTcR4YYDk-EyRTc",
+      "name": "chaningleima service station",
+      "address": "NH-150, Phoijing Awang",
+      "lat": 24.7273813,
+      "lng": 93.84863329999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnc1zqGIpSTcRwmpwefmxN4s",
+      "name": "IndianOil",
+      "address": "Ground Floor Changangei, Tulihal",
+      "lat": 24.7626924,
+      "lng": 93.8873977,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy486BWIvSTcR5EgFDTez1Wk",
+      "name": "IndianOil",
+      "address": "Ground Floor, Phoijing, Bishnupur",
+      "lat": 24.7178701,
+      "lng": 93.85823959999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSZxDPY0uSTcRjq_AyOVUNeE",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 150, Nambol - Heigrujam Road, Bazar, Awangjiri",
+      "lat": 24.722419,
+      "lng": 93.843868,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJyT6NsV8tSTcRZa_KvUuGJ70",
+      "name": "IndianOil",
+      "address": "Ground Floor, Nambol Heikrujam Road Imphal West, Awangjiri",
+      "lat": 24.737914,
+      "lng": 93.8245872,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ00lHi1cvSTcRoUF5DaMbfgE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 106, Hiyangthang",
+      "lat": 24.7576787,
+      "lng": 93.9041992,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJATZ50uYvSTcRjbeR7MiJ3No",
+      "name": "IndianOil",
+      "address": "Ground Floor, Arong, Hiyangthang, Imphal",
+      "lat": 24.7174901,
+      "lng": 93.896198,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWWF2IVgvSTcRrXimOXasWzw",
+      "name": "IndianOil",
+      "address": "Ground Floor, Awangjiri, Utlou",
+      "lat": 24.7052623,
+      "lng": 93.85415789999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFwN4UAArSTcRSzC-JfBPBpQ",
+      "name": "SLHS BPCL OIL PUMP",
+      "address": "QR98+46Q, Makha Leika, Moidangpok",
+      "lat": 24.7680857,
+      "lng": 93.8171479,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJS8QDWwApSTcRIQwv3mDFO6U",
+      "name": "Petrol Pump",
+      "address": "QVQQ+PPM, Toubungkhok, Road, Imphal",
+      "lat": 24.7890488,
+      "lng": 93.89017969999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJO4ODtPsvSTcR3S_elstYqWo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Wangoi, Samurou",
+      "lat": 24.715087,
+      "lng": 93.904762,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOYpEKxwmSTcRIPyi83QXdHE",
+      "name": "Emoinu Oils",
+      "address": "QWG5+9JJ, Imphal",
+      "lat": 24.7759621,
+      "lng": 93.9090299,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgegaCJkoSTcRQ7pxtDNpPnc",
+      "name": "IndianOil",
+      "address": "Ground Floor, near DM College, Shadokpham Road, Shadokpham, Imphal",
+      "lat": 24.7862053,
+      "lng": 93.89865019999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4RUqYx4mSTcRiNQ_rKaPRHI",
+      "name": "M/s Krishnadas service station",
+      "address": "Ghari",
+      "lat": 24.7770272,
+      "lng": 93.9086521,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSRUhwPApSTcRC4vm6uGTyl8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Part 3, Patsoi",
+      "lat": 24.7964033,
+      "lng": 93.8788907,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJa4p1Oe4lSTcR3phNdphSL5E",
+      "name": "IndianOil",
+      "address": "Ground Floor, Khaidem, Imphal",
+      "lat": 24.7215076,
+      "lng": 93.9148668,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0cLIhI0oSTcRNJEv3H017Fc",
+      "name": "IndianOil",
+      "address": "Ground Floor, Langjing Achouba, near DM College, Imphal",
+      "lat": 24.795218,
+      "lng": 93.88886199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQaybEtAnSTcRIMI8Ke0Xo_c",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 137 A, near Manipur University, Monsangei",
+      "lat": 24.7618428,
+      "lng": 93.9214829,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzWXFHNwrSTcR5wsMefxFOrc",
+      "name": "Keithelmanbi Petrol Pump",
+      "address": "QR84+WCG, Keithelmanbi",
+      "lat": 24.7673103,
+      "lng": 93.80607599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJr99ExY8nSTcRikfTmxDnUh0",
+      "name": "IndianOil",
+      "address": "near DM College, Ground Floor CC Pur Road, Sangaiprou, near DM College, Imphal",
+      "lat": 24.780313,
+      "lng": 93.91363009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDa9IlionSTcRH1VG-AHtywA",
+      "name": "IndianOil",
+      "address": "Ground Floor Langjing, Imphal - Silchar Road, Imphal",
+      "lat": 24.7956695,
+      "lng": 93.8958127,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5_-CwG0nSTcRRXAbWRykWcs",
+      "name": "M/S Y. S. Service Station",
+      "address": "QWJ8+X98, Sangaiprou Mamang Leikai, Imphal",
+      "lat": 24.7824042,
+      "lng": 93.9159554,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY4QlrR4rSTcRaled8-CyF5A",
+      "name": "IndianOil",
+      "address": "near CRPF, Ground Floor, JNV Rd NH 37, Langjing, Keithelmanbi, Khumbong, near CRPF, Imphal",
+      "lat": 24.770035,
+      "lng": 93.80032299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlc1KQAEnSTcR8Wvhuu-OwM8",
+      "name": "IndianOil",
+      "address": "Ground Floor, Ningthemcha Karong, near Heirangoithong Bridge, Imphal",
+      "lat": 24.772787,
+      "lng": 93.92646540000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJyw60bu4nSTcRaeXNDMP6-ts",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 45, Airport Road, Imphal",
+      "lat": 24.784706,
+      "lng": 93.91884689999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSxB6ebAtSTcR-44b4XJjcw4",
+      "name": "Nambole Refilling Outlet",
+      "address": "Maibam Chingning, Tiddim Road, Bishnupur",
+      "lat": 24.7025529,
+      "lng": 93.8117757,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJr1n1V9MlSTcRR1GjaiDQD3M",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kyamgei Palli, near Manipur University, Imphal",
+      "lat": 24.747747,
+      "lng": 93.93532599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQeWCeWsmSTcRzJ7CgUr2UfQ",
+      "name": "IndianOil",
+      "address": "near DM College, Ground Floor Mayai Lambi Road, near DM College, Heirangoithong Bridge, Imphal",
+      "lat": 24.776037,
+      "lng": 93.92893199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgx66VbcpSTcRwCB6u5Wm-SA",
+      "name": "IndianOil",
+      "address": "Ground Floor, near DM College, Iroisemba, Imphal",
+      "lat": 24.8081455,
+      "lng": 93.8974614,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtWPPYlMlSTcR10RxejQo4Hc",
+      "name": "Waikhom filling station, bpcl",
+      "address": "QW4Q+GPM, Thongju Part II, Imphal",
+      "lat": 24.7563315,
+      "lng": 93.93929999999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJoX0A_jEmSTcRNeuZWy6FJ0w",
+      "name": "IndianOil",
+      "address": "Ground Floor, DM College, near DM College, Tera Bazaar-Nouramthong Road, Sagolband, Imphal",
+      "lat": 24.7992501,
+      "lng": 93.91674010000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOZ7tejgmSTcRH9QKMNEdsTA",
+      "name": "IndianOil",
+      "address": "Ground Floor, near DM College, NH 150, CCPur Rd, Kwakeithel Thokchom Leikai, Imphal",
+      "lat": 24.791337,
+      "lng": 93.92604299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuyAy71AmSTcRWen7Xda_UVo",
+      "name": "IndianOil",
+      "address": "Ground, near DM College, Moirangkhom, Imphal",
+      "lat": 24.7954297,
+      "lng": 93.9404299,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBzDReTQnSTcRtbgZSRP402A",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bashikhong Torban, Khongman",
+      "lat": 24.7527921,
+      "lng": 93.94705569999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe8UyvU4nSTcR_tnFIU1Ha_Y",
+      "name": "IndianOil",
+      "address": "near Manipur University, Ground Floor Part 1 Pheijaleitong, Thongju, near Manipur University, Imphal",
+      "lat": 24.759961,
+      "lng": 93.941323,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP6jne2YmSTcRqlIQ55-s17Y",
+      "name": "Bharat Petroleum NES Imphal City-3",
+      "address": "India",
+      "lat": 24.775881,
+      "lng": 93.93900219999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzfIEhoQlSTcRFS9TcyZtiJA",
+      "name": "IndianOil",
+      "address": "Ground Floor Moreh, Road, Lilong Chajing",
+      "lat": 24.714125,
+      "lng": 93.942527,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWQHls18mSTcRDdrIpnPJB04",
+      "name": "Bharat Petroleum South City Petroleum",
+      "address": "QWMV+7W6, Singjamei - Kongba Road, Singjamei, Imphal",
+      "lat": 24.7831583,
+      "lng": 93.9447782,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJKw3ET6cnSTcRMuO4ot1qR88",
+      "name": "IndianOil",
+      "address": "Ground, near DM College, Churachandpur Road, Imphal",
+      "lat": 24.7853593,
+      "lng": 93.93636599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJyel-d4_XSDcRyGLsa6s2hXI",
+      "name": "IndianOil",
+      "address": "Christan Centre, Ground, Mayang Langjing, Haochong",
+      "lat": 24.7853593,
+      "lng": 93.93636599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTe7Ua7wmSTcRo9dkAkZlcss",
+      "name": "IndianOil",
+      "address": "Ground, near DM College, Takhok Awang, Imphal",
+      "lat": 24.7853593,
+      "lng": 93.93636599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJv6gSZFwmSTcRFabnAbUsR3I",
+      "name": "IndianOil",
+      "address": "Ground Floor, near DM College, Singjamei, Imphal",
+      "lat": 24.7861445,
+      "lng": 93.939689,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7XrxyPMmSTcRhEzyTZGda-s",
+      "name": "IndianOil",
+      "address": "Ground Floor, near DM College, Singjamei - Kongba Road, Chingangbam Lekai, Khurai, Imphal",
+      "lat": 24.7855701,
+      "lng": 93.954154,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJt_88__0nSTcR0wZ1cZKgYYQ",
+      "name": "Cosmo Fuel Care (BPCL)",
+      "address": "near Kongba Uchekon, Kongba Uchekon",
+      "lat": 24.7759721,
+      "lng": 93.9692761,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJIz2Tz0snSTcRPZXGQwusL4A",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kongba Road, lairenpak, Imphal",
+      "lat": 24.7737145,
+      "lng": 93.97142629999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcWpVl60nSTcRvUH9lRBGcDc",
+      "name": "IndianOil",
+      "address": "Ground Floor, near DM College, Elenagbam Leikai, Keishamthong, Imphal",
+      "lat": 24.79107089999999,
+      "lng": 93.93666879999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRfUeGgIlSTcRaZs6sGgOzUI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 16, Lilong",
+      "lat": 24.7033985,
+      "lng": 93.94593850000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzaTp7kgmSTcRtYSUfRWpK04",
+      "name": "IndianOil",
+      "address": "Ground Floor, Keisampat Market, near DM College, Tiddim Road, Imphal",
+      "lat": 24.79540799999999,
+      "lng": 93.9300501,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNWuwya4nSTcRUfhwlKbRcRw",
+      "name": "NRL Oil pump Ayangpalli",
+      "address": "QXQ5+XR7, Kongkham Leikai",
+      "lat": 24.7899199,
+      "lng": 93.9595336,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvQa7q-8mSTcR82CUnNMmU7M",
+      "name": "Bharat Petroleum Wangkhei Ayangpalli Petroleum",
+      "address": "India",
+      "lat": 24.7899911,
+      "lng": 93.95957639999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJCR3q7eEnSTcR29aw91Ko8Sk",
+      "name": "IndianOil",
+      "address": "Ground Floor, pukhri mupal, Sayang Road, Imphal",
+      "lat": 24.7965479,
+      "lng": 93.9213946,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_1B3IwAnSTcREmxH5iD-EWg",
+      "name": "M/S KEIKHU FELLING STATION",
+      "address": "QXP9+9R9, Naharup Pangong Makhong Road, Makha Leikai, Imphal",
+      "lat": 24.7859048,
+      "lng": 93.96959629999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJvxHoKQAnSTcR8QOUXOvMubE",
+      "name": "Bharat Petroleum AZ Service Station",
+      "address": "Angom Colony, Lairikyengbam Leikai",
+      "lat": 24.7995648,
+      "lng": 93.95023839999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJt3qiIxIlSTcRcxJift1KyFM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Lilong Chajing",
+      "lat": 24.692671,
+      "lng": 93.949524,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkyYXAwAnSTcRvyQufPLrw0o",
+      "name": "Patrol Pump Bharat Petroleum",
+      "address": "RW3F+35F, Sagolband Bijoy Govinda Leirak, Sagolband, Imphal",
+      "lat": 24.8026914,
+      "lng": 93.9229184,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJoRaDav4mSTcR3aI9aqVTW3Y",
+      "name": "IndianOil",
+      "address": "Ground Floor, near DM College, N S Road, Palace Gate Home Church Lane, Imphal",
+      "lat": 24.803095,
+      "lng": 93.95089399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMSXrN0gnSTcRqzY90CQFJjg",
+      "name": "IndianOil",
+      "address": "Ground Floor, near DM College, Uripok Kangchup Road, Imphal",
+      "lat": 24.807627,
+      "lng": 93.9276501,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP59VRsgnSTcRXBXB07WlHp4",
+      "name": "Uripok Energy Station (BPCL)",
+      "address": "RW4F+XPJ, Uripok Ningthoukhongjam Leikai, Uripok Ahanthem Leikai, Uripok, Imphal",
+      "lat": 24.8074595,
+      "lng": 93.92425689999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJdTHrSHUnSTcR8Alk31cU_ao",
+      "name": "IndianOil",
+      "address": "Ground Floor, near JNIMS Road, Ayangpalli Road, Awang Konmgpal, Wangkhei, Porompat",
+      "lat": 24.805444,
+      "lng": 93.957742,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwUltNgInSTcR18NnQMeI1zY",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 24.807268,
+      "lng": 93.95333169999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJkTcr_BIlSTcR3QdZK0O_pyU",
+      "name": "A ahmed",
+      "address": "MWMR+888, Chingkham Road, Chingkham Hill, Chingkham Kabui, Haoreibi",
+      "lat": 24.6832827,
+      "lng": 93.94082859999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJl7AO4zElSTcRiXI9PxT_gaA",
+      "name": "IndianOil",
+      "address": "Ground Floor Ushoipokpi, Arapti",
+      "lat": 24.68316699999999,
+      "lng": 93.94044199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjc3szaEnSTcRz7Ghx_9uZtE",
+      "name": "M/S LR LOKTAK FILLING STATION",
+      "address": "Awang Leikai, Ningthoukhong, Imphal",
+      "lat": 24.8109862,
+      "lng": 93.92363929999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJH6KVb0UnSTcRkWslhyoy9fk",
+      "name": "Manipur Gas",
+      "address": "RW7P+8MM, Majorkhul North Street, Majorkhul, Thangal Bazar, Imphal",
+      "lat": 24.8133328,
+      "lng": 93.9366869,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJiRP4yH0jSTcRlokg3TECuHU",
+      "name": "IndianOil",
+      "address": "Ground Floor, Andro, Imphal",
+      "lat": 24.715414,
+      "lng": 94.02887899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS2CDfRAjSTcRA4SJbLjcpBI",
+      "name": "IndianOil",
+      "address": "Ground Floor Yairipok, Angtha",
+      "lat": 24.68394,
+      "lng": 94.038118,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdWGIDpIpSTcRN-fQ1W-Ndmk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ward No 1, Mamang Lekai, Lamshang",
+      "lat": 24.823871,
+      "lng": 93.86397099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJK4-iBCUpSTcRv8rklLG_hHI",
+      "name": "IndianOil",
+      "address": "Lamshang",
+      "lat": 24.8283232,
+      "lng": 93.8564802,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJF3Iqq8MpSTcRlmWfiVYF5iI",
+      "name": "Akham Energy Station",
+      "address": "RVR8+G2C, Mayang Langjing - Lamshang Road, Mayang Langjing",
+      "lat": 24.8413186,
+      "lng": 93.8650152,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJXVYtOD8pSTcR3lbhf3sRI_s",
+      "name": "IndianOil",
+      "address": "near CRPF, Ground Floor Langjing, Tera Uthak, Lairensajik, near CRPF, Imphal",
+      "lat": 24.845035,
+      "lng": 93.83166399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkRn1J_ApSTcRg4GTi4dfyMk",
+      "name": "IndianOil",
+      "address": "Ground Floor, Langol, Meitei, Near, DM College Road, Imphal",
+      "lat": 24.838604,
+      "lng": 93.90587599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ84s5m14oSTcRgcU899IYlcI",
+      "name": "IndianOil",
+      "address": "Christan Centre, Ground Floor, Kangchup, Rd, Lamsang, Haochong",
+      "lat": 24.8363104,
+      "lng": 93.80868319999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJE7tkujYnSTcRRdhOtHxFt5A",
+      "name": "Mahipal Petrol Pump",
+      "address": "Lamphel Road, Lamphelpat, Imphal",
+      "lat": 24.8206355,
+      "lng": 93.92625849999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJjXuf104nSTcRwpiVfCg6VCo",
+      "name": "IndianOil",
+      "address": "Ground Floor, near DM College Road, Lamphelpat, Imphal",
+      "lat": 24.82696799999999,
+      "lng": 93.93059009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ30S63DcnSTcRssN4H4SKxrQ",
+      "name": "IndianOil",
+      "address": "near DM College, Ground Floor NH 150, near DM College, Khoyathong, Imphal",
+      "lat": 24.8152101,
+      "lng": 93.94002499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNwLohp4nSTcR2ngdqWn4WDQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, near DM College Road, Dimapur Road, Chingmeirong, Imphal",
+      "lat": 24.833409,
+      "lng": 93.94476499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo1u8kg8nSTcRnEW2ytHolhU",
+      "name": "NRL Pump",
+      "address": "KHURAI THANGJAM LEIKAI, PO LAMLONG, BAZAR, PS POROM, Imphal",
+      "lat": 24.8173379,
+      "lng": 93.95592099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJayWUnHLYSDcRYNU5eybn670",
+      "name": "IndianOil",
+      "address": "near DM College, Ground Floor Imphal Dimapur NH, near DM College, Khabam Lamkhai, Imphal",
+      "lat": 24.864317,
+      "lng": 93.9288401,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnwt8QxPYSDcRE9V4ZdF5-KI",
+      "name": "Kangleipak Service Station",
+      "address": "VW9G+V67, Luwangsangbam Makha Leikai, Luwangsangbam, Imphal",
+      "lat": 24.8696615,
+      "lng": 93.92555899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJz8v-7agnSTcR3jPTVJG7ths",
+      "name": "IndianOil",
+      "address": "Ground Floor, near DM College, Dimapur Rd, North A, O C, Imphal",
+      "lat": 24.815134,
+      "lng": 93.94369499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQ5RXqaEnSTcR6AjAYIQ7USk",
+      "name": "IndianOil",
+      "address": "Ground Floor, near DM College, Dingku road, Khongnang Ani Karak, Imphal",
+      "lat": 24.82596299999999,
+      "lng": 93.94381299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJ3kEM6AnSTcR3rCbP9PRK1w",
+      "name": "IndianOil",
+      "address": "Ground Floor, near DM College Road, Road, Chingmeirong, Imphal",
+      "lat": 24.82779499999999,
+      "lng": 93.944572,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJr9d79KMnSTcRbyyzp3vEPSg",
+      "name": "MS PG PETROLEUM AGENCY",
+      "address": "Chingmeirong, Imphal",
+      "lat": 24.8276468,
+      "lng": 93.94487769999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJyX886AYnSTcRUGUJfuPl5wY",
+      "name": "IndianOil",
+      "address": "Ground Floor, Chingmang, Lamlong Bazaar, Sawombung",
+      "lat": 24.812198,
+      "lng": 93.95041599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM5Y-LSsnSTcR_wF2MEA9jE8",
+      "name": "MS Manipur Gas",
+      "address": "RWMW+VM2, Sangakpham Bazar Near Don Bosco School, Chingmeirong, Imphal",
+      "lat": 24.8346485,
+      "lng": 93.9466412,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJh6AztFsnSTcRXvgsYP4B1v4",
+      "name": "IndianOil",
+      "address": "GF, Minuthong to, Junction, Lamlong Bridge, Khurai Thangjam Leikai, Chingmang",
+      "lat": 24.819447,
+      "lng": 93.957276,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFznDVbEnSTcRyfmi93Wrryo",
+      "name": "M CUBE filling station",
+      "address": "M Cube Filling Station, Khurai Thangjam Leikai, Imphal",
+      "lat": 24.82188949999999,
+      "lng": 93.95727219999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJHSdGVZknSTcRNopJUG3QzwE",
+      "name": "IndianOil",
+      "address": "Ground Floor, Khongnang Karak, Near, Lamlong Bridge, Imphal",
+      "lat": 24.8242701,
+      "lng": 93.958485,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjxAlbJcnSTcRsZvDswICRdM",
+      "name": "IndianOil",
+      "address": "Ground Floor Imphal Ukhrul Rd, Chingmang, Khurai, Imphal",
+      "lat": 24.82592099999999,
+      "lng": 93.9647501,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCfpcPRcnSTcRkZBeCZmopzQ",
+      "name": "IndianOil",
+      "address": "Ground Floor Khurai, Lamlong Bazar, Chingmang",
+      "lat": 24.8291461,
+      "lng": 93.9686471,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeTUIkEMnSTcRhS9Alxudhq8",
+      "name": "Janeshwor Service Stations",
+      "address": "Imphal - Ukhrul Road, Khurai Thongam Leikai, Imphal",
+      "lat": 24.8291874,
+      "lng": 93.96911310000002,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ_ySfoVAnSTcRc6k1i-7zBqM",
+      "name": "IndianOil",
+      "address": "Ground Floor, near DM College, NH 39, Mantripukhri, Imphal",
+      "lat": 24.851801,
+      "lng": 93.935676,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPfdTOgAnSTcRGNO3WsmpHnY",
+      "name": "Laxmi Service Station",
+      "address": "16, Khurai Thongam Leikai, Imphal",
+      "lat": 24.8231817,
+      "lng": 93.9730033,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJd4FhinbYSDcRnJuYJgWQHmA",
+      "name": "NRL Oil Pump",
+      "address": "near NRL oil Pump, Chumbrei Thong, Mantripukhri, Achanbigei, Imphal",
+      "lat": 24.8557703,
+      "lng": 93.9328627,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJ9Mji3bYSDcRjmyIF7rUQjM",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 24.8558355,
+      "lng": 93.9329515,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJlwc-RjcnSTcRH9Cyxk7ZUGI",
+      "name": "IndianOil",
+      "address": "No 49, Bheigyabati Leikai Brahmapur Mangji, Chingmang",
+      "lat": 24.82274199999999,
+      "lng": 93.97864009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSRrIwCInSTcRACxeyaSn9pA",
+      "name": "PETROL PUMP KHURAI KHOMIDOK",
+      "address": "RXW9+5VM, Imphal",
+      "lat": 24.8454625,
+      "lng": 93.9696719,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUYcaklEnSTcRS0EobLunuVM",
+      "name": "IndianOil",
+      "address": "Ground Floor NH 150, Angom Leikai, Khabeisoi, Imphal",
+      "lat": 24.8412801,
+      "lng": 93.982124,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlRa_vpffSDcRXGU3mXfWp0w",
+      "name": "IndianOil",
+      "address": "Chingarel Tejpur, Ground Floor, Waiton Chingarel Rd Waiton, Chingmang",
+      "lat": 24.866254,
+      "lng": 94.006222,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIeba4IPfSDcRsSwtG-EGja8",
+      "name": "MS CHINGAREL TEJPUR",
+      "address": "Chingarel Tejpur, Imphal - Ukhrul Road",
+      "lat": 24.8662957,
+      "lng": 94.0061229,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJx2YU0IPfSDcRDZcijaBhvs4",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Lamlai, NH 202, Imphal - Ukhrul Road, Sawombung",
+      "lat": 24.8726874,
+      "lng": 94.0145465,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUVfbRtLfSDcRHqhUjxu3LGg",
+      "name": "IndianOil",
+      "address": "Ground Floor Huyumpok, near DM College, Paorabi Road, Imphal",
+      "lat": 24.873783,
+      "lng": 94.01352299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcQ70SJTfSDcRY3fTTTctLcE",
+      "name": "A & I OIL STATION",
+      "address": "Lamlai",
+      "lat": 24.869604,
+      "lng": 94.04541119999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJVZueNgDfSDcRbP8RgbeqPew",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Bazar, Imphal - Ukhrul Road, Lamlai",
+      "lat": 24.869814,
+      "lng": 94.052803,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP684zCTXSDcR7qAtUH_3LpA",
+      "name": "IndianOil",
+      "address": "Ground Floor Pheidinga, Ahallup, Imphal",
+      "lat": 24.902101,
+      "lng": 93.884001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYyEfCg3XSDcRCSa4D0rsLfE",
+      "name": "Tendongyan Petrol Station",
+      "address": "WV6M+HC8, Tendongyan",
+      "lat": 24.9114011,
+      "lng": 93.8835758,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6T8Vx0XXSDcRUVERNrTdOCo",
+      "name": "Khonghampat Petrol Pump",
+      "address": "VVPX+QQR, Khonghampat",
+      "lat": 24.8869849,
+      "lng": 93.8993965,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJC1R6RDPXSDcRfWdVKSwVoik",
+      "name": "IndianOil",
+      "address": "Ground Floor, Lamhang, Maharabi",
+      "lat": 24.9288411,
+      "lng": 93.87958839999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJI-dZegTZSDcRMhVb6SxlL7M",
+      "name": "Langam Nganthoi",
+      "address": "W7X, Imphal",
+      "lat": 24.8984955,
+      "lng": 93.9108083,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJMWzfzAnZSDcRh6C-GUaBFhg",
+      "name": "IndianOil",
+      "address": "Ground Floor, near DM College Road, Leikinthabi - Koirengei Road, Koirengei, Imphal",
+      "lat": 24.889194,
+      "lng": 93.916176,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCUMtPADXSDcRyr3c30HB2vo",
+      "name": "Helipad",
+      "address": "WRWX+FGV",
+      "lat": 24.9462334,
+      "lng": 93.84879389999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJE2BWkzHZSDcRR-4zaKuLjxk",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 2, Imphal Dimapur Rd Ahallup, Khabam Lamkhai, Luwangsangbam, Imphal",
+      "lat": 24.861111,
+      "lng": 93.931165,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx4i_yRHfSDcRZzCOpIzpTIg",
+      "name": "G.P.S. OIL SERVICE STATION",
+      "address": "Imphal-Saikul Road, Yumnam Khunou",
+      "lat": 24.9242591,
+      "lng": 93.9914372,
+      "open_now": true
+    }
+  ]
+}

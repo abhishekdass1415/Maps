@@ -1,0 +1,651 @@
+{
+  "city": "Latur",
+  "state": "Maharashtra",
+  "count": 80,
+  "center": {
+    "lat": 18.4,
+    "lng": 76.5833
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJkeFBLtKDzzsRWexgh27Mp4I",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 24B, Ausa Road, NH 361, Rajiv Gandhi Chowk, Kanheri",
+      "lat": 18.3791051,
+      "lng": 76.5582063,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuWe_Kv1_zzsRfRcXmq4T21s",
+      "name": "IndianOil",
+      "address": "Gut No 52, Budhada, Harsala Circle U, Ardhapur, Budhada",
+      "lat": 18.3195946,
+      "lng": 76.5422552,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJI_TOUeCBzzsRaL9ZRmvtwas",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gut No 78 NH 361, Tuljapur, Solapur - Latur Road, Peth",
+      "lat": 18.3275901,
+      "lng": 76.54466099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC-pi5v6BzzsRUu8M2KXAM8s",
+      "name": "IndianOil",
+      "address": "Ground Floor, Peth",
+      "lat": 18.331145,
+      "lng": 76.547113,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJv5R2PTV_zzsRqH_lVfGoEBM",
+      "name": "Hake Petroleum (BPCL ,CNG)",
+      "address": "7GXM+FJ8, Budhada",
+      "lat": 18.2986875,
+      "lng": 76.53406249999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPWIyXH1_zzsR2RviDyq6vaA",
+      "name": "Chandrashekhar Petroleum",
+      "address": "At, Post, Almala",
+      "lat": 18.3045088,
+      "lng": 76.47962799999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJGYxU4BKDzzsR4Kpi9tLpuOs",
+      "name": "Bharat Petroleum, Petrol Pump -Shubhada Petroleum",
+      "address": "LATUR AUSA ROAD LHS, DIST-, Latur",
+      "lat": 18.3525424,
+      "lng": 76.55240669999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaz8JWQB_zzsRRFK_Jwed5IY",
+      "name": "Indian Oil",
+      "address": "7GMG+8VQ, Wagjewadi",
+      "lat": 18.2833472,
+      "lng": 76.52723259999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ3RT9zSyCzzsR1wBdfx-AXgo",
+      "name": "Thormote Petroleum",
+      "address": "Lord Mahadev Temple, New, Sona Nagar, Latur",
+      "lat": 18.3732752,
+      "lng": 76.5566648,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTcWVwVh_zzsRNpAlMpOeEOo",
+      "name": "Shri ramchandra bio petrolium",
+      "address": "National Highway 361, Wagjewadi",
+      "lat": 18.269192,
+      "lng": 76.52173700000002,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJdzK8XzmBzzsRe_bLg0PO0h0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Plot No P/60 SH 77, Barshi Road, MIDC, Latur",
+      "lat": 18.3893671,
+      "lng": 76.491286,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP7XIfwCBzzsRwu5wpIc4hQU",
+      "name": "Indian Oil CNG",
+      "address": "9FQQ+FM9, Additional Latur MIDC, Patil Nagar",
+      "lat": 18.3885004,
+      "lng": 76.48867849999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJIcmIoDODzzsRvIWKNAL41EQ",
+      "name": "ASHOKA CNG PUMP (S M BIDVE ENTERPRISES)",
+      "address": "OPP BIDVE LAWNS WASANGOAN, Ausa Road, Latur",
+      "lat": 18.3768311,
+      "lng": 76.55828609999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP3KjEy6F5zsRoiY5bz_d9r8",
+      "name": "Jio-bp",
+      "address": "near Rajiv Gandhi Chowk, Survey No 12, Gate 14 Ausa Road, Mojewasangaon, near Rajiv Gandhi Chowk, Latur",
+      "lat": 18.37755,
+      "lng": 76.5584133,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqbO7nwWDzzsR4XR0QMx5hHc",
+      "name": "Ashoka CNG Gas ,CNG Station",
+      "address": "9HP2+99P, Ram Nagar, Latur",
+      "lat": 18.3859624,
+      "lng": 76.5509582,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHwALIMV_zzsRFCld6igv7AE",
+      "name": "Salunke Petroleum, Nayara Energy,Petrol pump",
+      "address": "Gut No 104/B, Village Ausa District",
+      "lat": 18.2631884,
+      "lng": 76.518957,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCy5lbQB_zzsRq1j-cS03_lU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gut No 115, NH 361, Tuljapur Butibori Highway, Ausa",
+      "lat": 18.25901099999999,
+      "lng": 76.518281,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJA3S9kZWDzzsR0C7DcfeIEiw",
+      "name": "H N Kamdar Bharat Petrol Pump",
+      "address": "MG Road (SH-145), Sawe Wadi, Latur",
+      "lat": 18.39915,
+      "lng": 76.5758216,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0xgZNreDzzsR-9viW0jb6Mg",
+      "name": "Mankari Petrol Pump",
+      "address": "Patel Nagar, Latur",
+      "lat": 18.3824883,
+      "lng": 76.5796371,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJewiqtzCDzzsRQg7Ge0_-Dn0",
+      "name": "Khubba Petroleum (Aegis Autogas)",
+      "address": "9HMP+JMX, Latur",
+      "lat": 18.3841177,
+      "lng": 76.5867385,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGwH7bbeDzzsR1Iuszbti-fc",
+      "name": "Bharat Petroleum, Petrol Pump -Kamdar Petroleum",
+      "address": "KANEHRI, LATUR, 5, Ring Road, kanheri chowk, Latur",
+      "lat": 18.3854488,
+      "lng": 76.57566709999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJI2knCLCDzzsRLwGu-9vD8zk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 149, B5 Nanded Bypass Road, Basweshwar Chowk, Latur",
+      "lat": 18.3869957,
+      "lng": 76.5827324,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBfw-00l3zzsRNCarLqc0L3g",
+      "name": "अमर गॅस एजन्सी",
+      "address": "Gondri",
+      "lat": 18.3147684,
+      "lng": 76.64510330000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe2mAAwCDzzsRnR4PyPVZKkg",
+      "name": "RK_CNG/&सांज पेट्रोलियम बाभूळगावं",
+      "address": "kazi petrol pump, Latur - Babhalgaon Road, हुडको अंद सिडको, लातूर",
+      "lat": 18.3906845,
+      "lng": 76.6133322,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ_x8ElJ6DzzsRL46bGOHUAIw",
+      "name": "Islam Dagdusab Shaikh",
+      "address": "1, Latur",
+      "lat": 18.3972638,
+      "lng": 76.58577919999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJBbf-1i2DzzsRpZT2x_j6Z78",
+      "name": "Zyada Gas Auto LPG Pump",
+      "address": "Samrat Chowk, Nanded Road, Ganj Golai, Latur",
+      "lat": 18.3973041,
+      "lng": 76.5856761,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg9iCOBeDzzsRwudANyPtnIs",
+      "name": "Saanj Petroleum",
+      "address": "Latur - Babhalgaon Road, DIST, Latur",
+      "lat": 18.3911249,
+      "lng": 76.6133107,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxTYudHmDzzsRXvPxSPeoHBE",
+      "name": "Keshav Kathar",
+      "address": "Shop No 02, Samrat Chowk, near Jyada Lpg Gas Pump, Latur",
+      "lat": 18.3975476,
+      "lng": 76.5856833,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ56CELACDzzsRv94XTb-lj_Q",
+      "name": "सेलू",
+      "address": "9JHJ+VQR, Babhalgaon",
+      "lat": 18.3797466,
+      "lng": 76.631885,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJi5rDUReDzzsRVE2BxVV-i2Y",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gut No 458, Plot No 1, Latur Nilanga Road, Babhalgaon",
+      "lat": 18.38983869999999,
+      "lng": 76.6176816,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNeaDZaKDzzsRqJu6MCS4jJ0",
+      "name": "Kawale Petroleum",
+      "address": "Samrat Chowk, Nanded Road, Latur",
+      "lat": 18.3981523,
+      "lng": 76.58708539999999,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJDbE09L2DzzsRMj9KbHwUq1o",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "CTS 6228/H/31/4, Gandhi Chowk, Latur",
+      "lat": 18.3982201,
+      "lng": 76.5788601,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM3dneQCDzzsR8zicCYtPWZU",
+      "name": "INDIAN AUTO GAS",
+      "address": "9JR9+632, Police Quarters, HUDCO and CIDCO, Latur",
+      "lat": 18.3903943,
+      "lng": 76.617465,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJFYpPBet3zzsRPyy3lDyKXZc",
+      "name": "IndianOil",
+      "address": "Gut No 27, Hatte Road, Lodga",
+      "lat": 18.3132979,
+      "lng": 76.6725213,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrf3yA6adzzsR8RxDFIVtF_A",
+      "name": "Padile Petrol Pump",
+      "address": "Gut No 384, Tilak Nagar, Bori",
+      "lat": 18.3718456,
+      "lng": 76.69296709999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVYFtsgqEzzsRee1OD-tfZKI",
+      "name": "IndianOil",
+      "address": "Survey No 267, 1, Ambajogai Road, Sawe Wadi, Latur",
+      "lat": 18.422041,
+      "lng": 76.571804,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCcox3keBzzsRJV8uCGkL18U",
+      "name": "IndianOil",
+      "address": "Gut No 103, Plot No 1211 & 12, Tilak Nagar, Harangul",
+      "lat": 18.405518,
+      "lng": 76.524483,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmchsDVCBzzsRyBdMyW9nmi8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 30, PVR Chowk, SH 77, Barshi Road, Sona Nagar, Latur",
+      "lat": 18.4078708,
+      "lng": 76.5385886,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwWxLVGeDzzsRf2CpwtayEcg",
+      "name": "Bharat Petroleum, Petrol Pump -Swastik Petroleum",
+      "address": "LATUR INDUSTRIAL AREA, Latur",
+      "lat": 18.412684,
+      "lng": 76.5399912,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9-S2Wl6BzzsReTEzGYITFkU",
+      "name": "IndianOil",
+      "address": "Survey No 37, Hatte Road, Ring Road, Khadgaon, Latur",
+      "lat": 18.39817369999999,
+      "lng": 76.544854,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ35iMlkCBzzsR5AHjGeEueaE",
+      "name": "Bharat Petroleum Petrol Pump , SHREE PADMAVATI PETROLEUM",
+      "address": "MIDC CORNER, SQUARE, NO.1, Barshi Road, Latur",
+      "lat": 18.408874,
+      "lng": 76.546402,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJR87bYACBzzsRfn6Z234LCU8",
+      "name": "Padmavati petrolium 1no chouk latur",
+      "address": "1 no Chowk, Barshi Road, Sree Nagar, Latur MIDC, MIDC, Latur",
+      "lat": 18.4088987,
+      "lng": 76.5467461,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJUcwLP0-HzzsRAra8tYIhUjw",
+      "name": "Vatsala Baliram Petroleum",
+      "address": "Kallam-Latur Road, Sree Nagar, Latur MIDC, Latur",
+      "lat": 18.4303396,
+      "lng": 76.4968274,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJwXzZ9cCDzzsRcYOCBeu7zKQ",
+      "name": "Reliance Petroleum",
+      "address": "Survey No 48, Reliance Retail Outlet, Barshi Road, Khadgaon, Latur",
+      "lat": 18.40716159999999,
+      "lng": 76.5507161,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJu8WIdOaDzzsRSoDlNARUqSM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Hatte Road, Latur",
+      "lat": 18.402734,
+      "lng": 76.558797,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNzfqGgCFzzsRL1L4gP41dUw",
+      "name": "Halkude petroleum",
+      "address": "Latur Ring Road, Deep Jyoti Nagar, Latur",
+      "lat": 18.4201875,
+      "lng": 76.5539375,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJXcQL6RiDzzsRVZCpQxftLGM",
+      "name": "Hindustan Petroleum ⛽ Pump (HP) - Harishchandra Petroleum, Railway Station Ring Road, Latur",
+      "address": "Railway Station, Latur Ring Road, Latur",
+      "lat": 18.4193396,
+      "lng": 76.558356,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY4l2fRqDzzsRtzZ8oZujJOg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gut No 134/P, MIDC Road, Arvi",
+      "lat": 18.4191891,
+      "lng": 76.5588374,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ46SZUumDzzsRTSOp3fD9QME",
+      "name": "Kayamkhani Petrol Pump",
+      "address": "Ambajogai Road, State Highway 144, Sawe Wadi, Latur",
+      "lat": 18.4032603,
+      "lng": 76.56555829999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy4h4rxmBzzsRvZW2rKrfM1I",
+      "name": "Mulay Petroleum",
+      "address": "Gut No.44/1, At sakhara, Near Airport Road, Barshi - Latur Highway, Latur",
+      "lat": 18.3918726,
+      "lng": 76.4600727,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlRPoePODzzsRdWyPzAjLE6w",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gut No 259, NH 548B, Ambajogai Road, Latur",
+      "lat": 18.4146025,
+      "lng": 76.56893409999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJV-FMdqDzzsRmWY76LiR4iw",
+      "name": "Go Gas Station(LPG)",
+      "address": "CH89+CR5, Ambajogai - Latur Road, Sharda Nagar, Latur",
+      "lat": 18.4160121,
+      "lng": 76.5695991,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJado5PGdDxTsRRAM5t28TOaU",
+      "name": "IndianOil",
+      "address": "Survey No 167, 3, Ambajogai - Latur Road, Adas, Bardapur, Beed",
+      "lat": 18.4224985,
+      "lng": 76.57210309999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH599ehZ-xTsR0523vrgt564",
+      "name": "Bharat Petroleum, Petrol Pump -Hiremath Petroleum",
+      "address": "SAKHARA, LATUR, Latur",
+      "lat": 18.3906067,
+      "lng": 76.439466,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCafYjHSDzzsRkPFcDVa0gtA",
+      "name": "IndianOil",
+      "address": "Survey No 93A/1, Plot No 2 & 3, Vivekanand Chowk, Shevgaon",
+      "lat": 18.4023449,
+      "lng": 76.5994455,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx2yycg-DzzsRN_tv1mKg54A",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gut No 5 & 4, P Ring Road, Maharana Pratap Nagar, Latur",
+      "lat": 18.416487,
+      "lng": 76.59266199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJh7dMCL6DzzsRmJfJFQ8b8zM",
+      "name": "IndianOil",
+      "address": "Gut No 40/4, Hatte Road, Maharanapratapnagar, Latur",
+      "lat": 18.4136742,
+      "lng": 76.60056639999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9eJJMgCDzzsRHToJomJ6Ra4",
+      "name": "Petrol pump",
+      "address": "Shop No 4, Nanded Road, Malwati Road, Latur",
+      "lat": 18.4137258,
+      "lng": 76.6008696,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJB9i2PXCDzzsRPlscpgQ4va8",
+      "name": "Bharat Petroleum, Petrol Pump -Parandekar Petroleum",
+      "address": "SH 3, Maharanapratapnagar, Latur",
+      "lat": 18.410569,
+      "lng": 76.6055706,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_9dsommEzzsRPwpiZDeILqg",
+      "name": "Bharat Petroleum, Petrol Pump -Viresh Agencies",
+      "address": "BORWATI, Latur",
+      "lat": 18.4424456,
+      "lng": 76.5794319,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJb1zbmlmDzzsRHocCJcNDzJU",
+      "name": "IndianOil",
+      "address": "Gut No 28, 2A/1, Pratap Nagar, Tilaknagar, Latur",
+      "lat": 18.420246,
+      "lng": 76.62732120000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoVOIQkOEzzsRcqk8oF0m1f4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gut No 84, NH 548B, Ambajogai Road, Latur",
+      "lat": 18.4501401,
+      "lng": 76.5821101,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJp4TeNwCDzzsRhC5nBhJRNtE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gat No 115, Nagpur - Tuljapur Highway, Latur",
+      "lat": 18.422866,
+      "lng": 76.636068,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ37FjcaqczzsRJappW5Zgb0E",
+      "name": "Bharat Petroleum, Petrol Pump -Manjara Petrol Pump",
+      "address": "Latur Road, Kolpa",
+      "lat": 18.4260614,
+      "lng": 76.64524039999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJixWWWQCdzzsR2PWR7ol2064",
+      "name": "Appa Petroliym kolpa",
+      "address": "CJHW+72Q, Latur",
+      "lat": 18.4261778,
+      "lng": 76.64705889999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ6_UxujeFzzsRk-O5P8nuGZ8",
+      "name": "IndianOil",
+      "address": "Gut No 147, 1/1, Hatte Road, Mahapur",
+      "lat": 18.4666268,
+      "lng": 76.593322,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC5VNi4abzzsRRmIcVm7OuUE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gut No 265, NH 361, Latur - Nanded Highway, Bhatangli",
+      "lat": 18.4344501,
+      "lng": 76.69582009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaRghzjabzzsRoGnd-izCjGI",
+      "name": "IndianOil",
+      "address": "Gut No 137, 1, Kolpa - Kasarkheda Road, Tilaknagar, Latur",
+      "lat": 18.4515729,
+      "lng": 76.6415366,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJG6Z4bmabzzsRyFwqajrtEG0",
+      "name": "Bharat Petroleum Petrol Pump , A.G.MALWADE PETROLEUM",
+      "address": "Latur - Nanded Highway",
+      "lat": 18.4406524,
+      "lng": 76.712653,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSeK_i4yFzzsRHAa8ziImku0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gut No 924 NH 548B, Ambajogai Road, Latur, Renapur, Latur",
+      "lat": 18.507561,
+      "lng": 76.574551,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ63K9c8ePzzsR3InFkJ4C1YM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gut No 186, Latur Ambejogai Road, National Highway 548B, Renapur, Samsapur",
+      "lat": 18.5228551,
+      "lng": 76.55677,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJG4jtmFmPzzsRmkaCw-TCsk4",
+      "name": "HP PETROL PUMP - S.P. PETROLEUM",
+      "address": "GUT NO. 186 AT Renapur Village Samsapur Taluka Renapur, Sholapur",
+      "lat": 18.518253,
+      "lng": 76.5625228,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIxrywiaFzzsRwc0OyDZSaJQ",
+      "name": "Bharat Petroleum, Petrol Pump -Ganesh Petroleum",
+      "address": "KASBE RENAPUR, LATUR",
+      "lat": 18.5102434,
+      "lng": 76.5715331,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ75VnZgCFzzsRZ4P8wmH99UY",
+      "name": "MAHANAGAR GAS CNG PUMP",
+      "address": "GH3H+97, Renapur, Rupchand Nagar",
+      "lat": 18.5034375,
+      "lng": 76.5781875,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJt-LrlFCFzzsR7M-KaTNTX60",
+      "name": "Ashirwad Petroleum",
+      "address": "Ambajogai - Latur Road, NH548B, Renapur",
+      "lat": 18.5048426,
+      "lng": 76.5787436,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJc59-2z2FzzsRfh9s3WnTc4o",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gut No 834P, NH 548B, Ambajogai Road, Renapur, Latur",
+      "lat": 18.505216,
+      "lng": 76.578887,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJT0crxACPzzsRA0DReXc-Bpw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gut No 1055, NH 361H, Latur Renapur Road, Renapur, Latur",
+      "lat": 18.5179933,
+      "lng": 76.5720624,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgTdsNXqPzzsRH_EjMDB7_EE",
+      "name": "IndianOil",
+      "address": "Gut No 1099, Renapur, Kamkheda",
+      "lat": 18.5241231,
+      "lng": 76.58782479999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJocIa86iPzzsRUtYg9vml7pk",
+      "name": "IndianOil",
+      "address": "Gut No 371, SH 169, Stone, 48 to 50, Hatte Rd, Renapur, Latur",
+      "lat": 18.523347,
+      "lng": 76.61679300000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7zO75QKbzzsRgS2-_a7u5nI",
+      "name": "Bharat Petroleum Petrol Pump , SHRI VIGHNAHAR PETROLEUM",
+      "address": "Austa Mode railway Track, Renapur",
+      "lat": 18.5145842,
+      "lng": 76.6441226,
+      "open_now": true
+    }
+  ]
+}

@@ -1,0 +1,1323 @@
+{
+  "city": "Jammu",
+  "state": "Jammu and Kashmir",
+  "count": 164,
+  "center": {
+    "lat": 32.7667,
+    "lng": 74.8333
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJEamyMQObHjkR-AYli_iqZfI",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Miran Sahib, Devian, Khour",
+      "lat": 32.6537001,
+      "lng": 74.831001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzWw3VGKPHjkRGyD4GDwdgJU",
+      "name": "Amar filling station",
+      "address": "Alora r, 54 Mandal Phallian Road, Jammu",
+      "lat": 32.69413109999999,
+      "lng": 74.7642074,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJX8GZ7u-PHjkR-EpCgIYoC9o",
+      "name": "IndianOil",
+      "address": "Ground Floor, Alora",
+      "lat": 32.6931782,
+      "lng": 74.76174759999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJiYxShz6PHjkRLH1BwDgMzUs",
+      "name": "AMAR FILLING STATION",
+      "address": "Dei Chack Sohanjna Road, Jammu",
+      "lat": 32.6967783,
+      "lng": 74.7440053,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJcwyNxFuFHjkRGQY6mxpmL60",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Phliyan Road, Jammu",
+      "lat": 32.6969541,
+      "lng": 74.7874435,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH1-QinSPHjkRa1niAk7A_XU",
+      "name": "HP PETROL PUMP - SHRI RAM FILLING STATION",
+      "address": "Ghou Manhasan Road Bhadrore Near to Hanuman Mandir, Jammu",
+      "lat": 32.7265004,
+      "lng": 74.7589911,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8y1OawCPHjkRsHDSXXVt1eE",
+      "name": "Sai Ram filling station",
+      "address": "PPFR+6PC, Ghou Manhasan",
+      "lat": 32.72347,
+      "lng": 74.7424333,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJuSL4B86FHjkR1LUdqlsyyRk",
+      "name": "Bharat Petroleum, Petrol Pump -Rahat Filling Station",
+      "address": "JAMMU CITY, Jammu",
+      "lat": 32.6871202,
+      "lng": 74.815994,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJFYbgfwCFHjkRgNGvUXSgMLY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Manhas Road, Jammu",
+      "lat": 32.7306438,
+      "lng": 74.81381929999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJj_oFNQaPHjkRTJl8prY6_8I",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floorsk NH 244A, Marh Ring Road, Marh, Karloop",
+      "lat": 32.743641,
+      "lng": 74.723091,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfQFP9ruFHjkRE-CIbmQuGDc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near Tawi Bridge, No 4 Satwari Road, Jammu",
+      "lat": 32.700975,
+      "lng": 74.832559,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJA0IF4H6bHjkRXKQ4Ox2BvTo",
+      "name": "Yahowa filling station",
+      "address": "Yahowa Filling Station, Jammu",
+      "lat": 32.64682189999999,
+      "lng": 74.8016401,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJWYiBmCabHjkR9Qd3kfqowkg",
+      "name": "AMAR SERVICE STATION",
+      "address": "",
+      "lat": 32.6723729,
+      "lng": 74.83264129999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJs_lOe_eFHjkRDoq5gPOUTdI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Marh Road, Sangram Pur",
+      "lat": 32.7583442,
+      "lng": 74.7841444,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJcQuhrOFHjkRtOgP6hknwMM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Jammu",
+      "lat": 32.742761,
+      "lng": 74.817131,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUQ-UcOebHjkR4UwEUQVAHnU",
+      "name": "IndianOil",
+      "address": "Ground Floor Malikpur Miran Sahib,Khour Devian, Near Talli Morh",
+      "lat": 32.637615,
+      "lng": 74.797501,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ42jzwlyFHjkRAdFmKPXvyaw",
+      "name": "IndianOil",
+      "address": "Ground Floor, Gadigarh Chatha Road, Khour",
+      "lat": 32.670222,
+      "lng": 74.8372062,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbxlDUeWbHjkR6GXjwwj8RuM",
+      "name": "IndianOil",
+      "address": "Jammu",
+      "lat": 32.6702488,
+      "lng": 74.83722399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJK9PQebGFHjkREX3UlYLw9pc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Jammu",
+      "lat": 32.7441822,
+      "lng": 74.8207619,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ868SwjmFHjkRfGc6xzBlVtQ",
+      "name": "KAITH FILLING STATION",
+      "address": "54 PATTA, Jammu",
+      "lat": 32.7442948,
+      "lng": 74.8206567,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJtYuZ7sObHjkRFlj7IWCaYqM",
+      "name": "Divyanshi Traders",
+      "address": "opposite Saheed Bhagat Singh Park, Miran Sahib",
+      "lat": 32.6419562,
+      "lng": 74.81296189999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ6Vl61iKbHjkRCnknKOTAdSA",
+      "name": "Da Fresh Fuel",
+      "address": "",
+      "lat": 32.6688262,
+      "lng": 74.83861750000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJJVFbBo-QHjkR86OTtGDIXt0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Gazipur Kullian, Ranbir Singh Pura",
+      "lat": 32.6271301,
+      "lng": 74.76637480000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ66Hczg-bHjkRkbvBA3yqF8s",
+      "name": "IndianOil",
+      "address": "Airport Road, Miran Sahib",
+      "lat": 32.6444913,
+      "lng": 74.8182875,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5-_nuyKbHjkRi7hw6isIt0c",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Gadigarh, near Karan Bagh, Jammu",
+      "lat": 32.66442660000001,
+      "lng": 74.83706169999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ68wT572bHjkRvroC1whaAmI",
+      "name": "M/S GS PETROLEUM",
+      "address": "Delhi Delhi",
+      "lat": 32.66428189999999,
+      "lng": 74.8372854,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ_c26vv2aHjkRNnvM_He0dI0",
+      "name": "Karam Chand Saraf & Sons - Bpc Petrol Pump",
+      "address": "Miran Sahib",
+      "lat": 32.6497209,
+      "lng": 74.8255447,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsS7Eq2aFHjkRHSu4Obrr_rE",
+      "name": "Bharat Petroleum, Petrol Pump -Sh. Muktanand Auto Aids",
+      "address": "TALABTILLO,GOVT GUEST HOU, Jammu",
+      "lat": 32.7387669,
+      "lng": 74.8321757,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNfUxdT2FHjkRQRHp4gfmShw",
+      "name": "IndianOil",
+      "address": "Akhnoor Road, Jammu",
+      "lat": 32.74972,
+      "lng": 74.821016,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRSy4bsqEHjkR7MDPHrUtyAI",
+      "name": "IndianOil",
+      "address": "Ground Floor, Satwari Chowk, Jammu",
+      "lat": 32.6923922,
+      "lng": 74.84866830000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUZ-clLmEHjkRKBHSurshEx4",
+      "name": "IndianOil",
+      "address": "Ground Floor, Jammu",
+      "lat": 32.702991,
+      "lng": 74.85548399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJyySJ_vaEHjkROe5MsPIspww",
+      "name": "Kashmir Automobile store ADHOC",
+      "address": "PRHR+WV6, Jammu",
+      "lat": 32.7297831,
+      "lng": 74.8421422,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJv8w4VI6EHjkRnGkfVT0ZRec",
+      "name": "Petrol Pump",
+      "address": "PVG5+HM8, Jammu",
+      "lat": 32.7264211,
+      "lng": 74.8592037,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaaidW1-DHjkRo23rZeVI3yc",
+      "name": "IndianOil",
+      "address": "Rail Head Complex, Railway Road, Jammu",
+      "lat": 32.710171,
+      "lng": 74.874657,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsfrQwYmEHjkRtCykr0_i4S8",
+      "name": "Auto Fuels Bharat Petroleum",
+      "address": "NH 1A, Jammu",
+      "lat": 32.733582,
+      "lng": 74.85803589999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJQVjoebKcHjkRYe4CiQaPK74",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, RLY Underpass, near Railway Station, Link Road, Jammu",
+      "lat": 32.69074889999999,
+      "lng": 74.8861166,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzb7tuWOEHjkRmJCT3dF-qSA",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Shankutla Cinema, B.C Road, Jammu",
+      "lat": 32.738511,
+      "lng": 74.858269,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtShCPkSEHjkRtZDOyHHRydM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Rehari Subhash Nagar Road Subash Nagar, Jammu",
+      "lat": 32.7483827,
+      "lng": 74.8432871,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJI0NcDECEHjkRvgzYCjPZZzw",
+      "name": "BPCL PETROL PUMP",
+      "address": "Hight court Chowk, 198, Jammu",
+      "lat": 32.7553386,
+      "lng": 74.8494649,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJJeuq3DqEHjkRgWoBdyPod0w",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Bantalab Road, Jammu",
+      "lat": 32.7647544,
+      "lng": 74.8412165,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJp6ZtSt2FHjkRpDOGYz4fMv0",
+      "name": "Ravi Nath and sons Gas Agency",
+      "address": "Jammu",
+      "lat": 32.6991749,
+      "lng": 74.8533616,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJhWYIrVaFHjkRXJCcwTsEZiw",
+      "name": "IndianOil",
+      "address": "Ware House, PT Yard, Jammu",
+      "lat": 32.714462,
+      "lng": 74.856411,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqbRteZaEHjkRjFCy6bNo0Tw",
+      "name": "Bharat Petroleum",
+      "address": "",
+      "lat": 32.714875,
+      "lng": 74.8568512,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJOQwUAfeFHjkRtM82CRTHpeo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Jammu",
+      "lat": 32.7126424,
+      "lng": 74.8601663,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwfTTZL2EHjkR-_8Sb2h4C58",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Jammu",
+      "lat": 32.7126424,
+      "lng": 74.8601663,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZe1i77eFHjkR0cKnvcN8bOM",
+      "name": "IndianOil",
+      "address": "Ground Floor, 4th Tawi Bridge to Bikram Chowk, Jammu",
+      "lat": 32.714401,
+      "lng": 74.86008500000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJw0b_UQaFHjkRVGLvlz3SlVw",
+      "name": "IndianOil",
+      "address": "GL Dogra Marg, Jammu",
+      "lat": 32.7149606,
+      "lng": 74.8600341,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq1BS7nGFHjkRMqpbNDhKNDc",
+      "name": "Police petrol pump jammu",
+      "address": "19 A/D, Jammu",
+      "lat": 32.7134087,
+      "lng": 74.8622151,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJvV8FCgCFHjkRy92ZkEDZf-s",
+      "name": "Akhnoor",
+      "address": "Akhnoor Palace, Sungal Morh, Jammu",
+      "lat": 32.71647669999999,
+      "lng": 74.860173,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ5YzIoOmFHjkRH065ASdFzPc",
+      "name": "Bharat Petroleum Petrol Pump , POLICE PARIVAAR FUEL CARE G NAGAR",
+      "address": "GULSHAN GROUND COMPLEX, Jammu",
+      "lat": 32.7110293,
+      "lng": 74.8665445,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUYkPNh-bHjkRUf51jzXGDXU",
+      "name": "IndianOil",
+      "address": "Main road, Jammu",
+      "lat": 32.6895131,
+      "lng": 74.86998899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJf5TmCkKFHjkRm_zegl4VAvg",
+      "name": "Bharat Petroleum, Petrol Pump -Shah Ji Filing Station",
+      "address": "CHANNI RAMA,NANAK NAGAR,J, Jammu",
+      "lat": 32.70190159999999,
+      "lng": 74.87046090000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNeXcKVSbHjkRw_i9wCRq6kU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Jammu",
+      "lat": 32.6867758,
+      "lng": 74.8708817,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-aoFYDiFHjkRpQBT_LPxvRM",
+      "name": "Amar Filling Station Adhoc",
+      "address": "Talab Tillo Road, Jammu",
+      "lat": 32.7295812,
+      "lng": 74.8419883,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJU6KS35GEHjkR3__gEnT55OE",
+      "name": "Sai Baba Service Station",
+      "address": "PVF5+F6Q, Gulab Singh Marg, Jammu",
+      "lat": 32.72372199999999,
+      "lng": 74.8581197,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJO71_F6eEHjkRKxeghwI22UI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Rail Head Complex, Jammu",
+      "lat": 32.707481,
+      "lng": 74.87184189999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdUe8WQCFHjkRLbphV4noVBw",
+      "name": "Sharma Filling Station, Central University",
+      "address": "PVG4+JRR, Village suchnai Po Rahyaa, Central University of Jammu road, vijaypur",
+      "lat": 32.7266016,
+      "lng": 74.8570259,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZz_6MnyZ4TgRyGNEXT7YleQ",
+      "name": "HP Petrol Pump",
+      "address": "Narbal baramulla Road, Lawaypora, NH-44",
+      "lat": 32.7266016,
+      "lng": 74.8570259,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJpagEDliEHjkR79S2ZI7QiXk",
+      "name": "H.S Surinder Singh & Co.",
+      "address": "Canal Road, Jammu",
+      "lat": 32.73323949999999,
+      "lng": 74.84006980000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzYom3neDHjkRcQhsEhq7mNM",
+      "name": "Bharat Petroleum",
+      "address": "Railway Station, below Hotel Le, Roi Main Railway Station, Jammu",
+      "lat": 32.7062316,
+      "lng": 74.8760781,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYWY2tl2bHjkRZ_Wb7PAXhcU",
+      "name": "IndianOil",
+      "address": "NH 1A, Jammu",
+      "lat": 32.671741,
+      "lng": 74.866806,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxX3FyJqEHjkRkbF8HHrl-KY",
+      "name": "SHAHBAZ SERVICE STATION",
+      "address": "",
+      "lat": 32.7239447,
+      "lng": 74.86419049999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ1yY-qW2FHjkRlVkIJGTDrGc",
+      "name": "KISAN SEWA KENDRA",
+      "address": "Malik Pura Check Post, Malik Pura Bhatyas, Doda",
+      "lat": 32.7258443,
+      "lng": 74.8631073,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJt6GkO4mEHjkR4-A9JvSZvlo",
+      "name": "IndianOil",
+      "address": "Ground Floor, B.C Road, Jammu",
+      "lat": 32.730251,
+      "lng": 74.858543,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPwwIJl6bHjkRZWHX0Z0Kq2s",
+      "name": "Bharat Petroleum",
+      "address": "",
+      "lat": 32.6708031,
+      "lng": 74.8701498,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJq3iX_PKDHjkRvfrqRogMhR4",
+      "name": "Bharat Petroleum Petrol Pump , TRIKUTA FILLING STATION",
+      "address": "70 MIN, RAILWAY STN. TO CHUNNI ROAD, Jammu",
+      "lat": 32.696873,
+      "lng": 74.88134409999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ109Jtl2bHjkRLW3BCqnCKhw",
+      "name": "BPCL Petrol Pump",
+      "address": "MVCC+62Q, Jammu",
+      "lat": 32.67059510000001,
+      "lng": 74.8701203,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJU0D9Q9KbHjkRL4Ywf0p66ho",
+      "name": "IndianOil",
+      "address": "Talab, Talab NH 1A, Jammu",
+      "lat": 32.6701567,
+      "lng": 74.87035949999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJI6J06cidHjkRP_G_dy2SzaE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Industrial Estate, Jammu",
+      "lat": 32.6771147,
+      "lng": 74.8764573,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSRq1KaGDHjkRR2vHnvvNBqo",
+      "name": "Jewan Kumar",
+      "address": "Jewan Kumar, Jammu",
+      "lat": 32.7022076,
+      "lng": 74.88305989999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ7ahZO2CbHjkRfPNEKAASRME",
+      "name": "JianOil",
+      "address": "",
+      "lat": 32.66873449999999,
+      "lng": 74.87331739999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJt3P6JGCbHjkRQxlO6lAPmGg",
+      "name": "Shadeed Filling Station",
+      "address": "MV9F+FC2, NH 1A, Jammu",
+      "lat": 32.6686421,
+      "lng": 74.8735267,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJD-aHj8OdHjkRkZtThsXDhYE",
+      "name": "IndianOil",
+      "address": "Sector 3, Jammu",
+      "lat": 32.690501,
+      "lng": 74.885893,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMSusClKEHjkRwoPtbDogG4M",
+      "name": "IndianOil",
+      "address": "Ground Floor, opposite Toph Bridge, Jammu",
+      "lat": 32.7425646,
+      "lng": 74.83161760000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJX6wFNV2DHjkRYrVuhYuNBXQ",
+      "name": "IndianOil",
+      "address": "Site No, opposite Transport Nagar, 1, Jammu",
+      "lat": 32.7144428,
+      "lng": 74.88571,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzaPQC1aDHjkRhe7atEGM_xw",
+      "name": "Bharat Petroleum Petrol Pump , CROWN FILLING STATION",
+      "address": "SYED MEHMOOD-ABAD QUYEN TEHSIL- PAMPORE PULWAMA, JK",
+      "lat": 32.70791699999999,
+      "lng": 74.88850500000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJ1geSUmcHjkRjnTPbA0GuqM",
+      "name": "IndianOil",
+      "address": "Ground Floor Samba, Jammu",
+      "lat": 32.636372,
+      "lng": 74.91382399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5Sr-C8CDHjkRs3c2RjaKzf4",
+      "name": "IndianOil",
+      "address": "Bypass Road, Sidhra",
+      "lat": 32.762021,
+      "lng": 74.898384,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ676hKDWDHjkRE2CPuuzOQ4M",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, opposite Chani Himat, Nagrota Bypass Road, Jammu",
+      "lat": 32.6965681,
+      "lng": 74.9000909,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJK0_AbiyDHjkRpy8t8eAhe9s",
+      "name": "ALI SERVICE STATION",
+      "address": "PW27+FJR, Sunjuwan Road, Jammu",
+      "lat": 32.7012339,
+      "lng": 74.9140194,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ4Xax2tucHjkRkPTXmmVkZME",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Chowadhi, Jammu",
+      "lat": 32.6827327,
+      "lng": 74.9149075,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4eN0z0ODHjkRW5j40T1nq6I",
+      "name": "Highway Petroleum Petrol Pump",
+      "address": "PV7R+975, Jammu",
+      "lat": 32.7133757,
+      "lng": 74.89071969999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ5wwuJHeDHjkRGm0Ap8Ls9zg",
+      "name": "Gas Repairng Shop",
+      "address": "near Radisson Blu, Road, Jammu",
+      "lat": 32.7158397,
+      "lng": 74.8907854,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJbVO7RG2DHjkRAoyY0eeO79s",
+      "name": "IndianOil",
+      "address": "Ground Floor, Jammu",
+      "lat": 32.714409,
+      "lng": 74.88694799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLeeCx0KDHjkRtOyjYI_6LOE",
+      "name": "IndianOil",
+      "address": "Jammu",
+      "lat": 32.71492619999999,
+      "lng": 74.88692619999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe2A62mqDHjkREh7V38u30vY",
+      "name": "IndianOil",
+      "address": "Ground Floor, Jammu",
+      "lat": 32.7147321,
+      "lng": 74.8859499,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJG_zU4BSdHjkRz8fg9DJeRpY",
+      "name": "Bharat Petroleum Petrol Pump , TRB FUELS",
+      "address": "NO 798, CHOWADI KHASRA, Jammu",
+      "lat": 32.676308,
+      "lng": 74.922883,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJobuvc72cHjkRdvtXE9DPsco",
+      "name": "Bharat Petroleum",
+      "address": "",
+      "lat": 32.673472,
+      "lng": 74.8882124,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ8avOc72cHjkRlBBlQhC73rs",
+      "name": "Shankar Filling Station",
+      "address": "Shanker Filling Station, Bye Pass Kujwani, Jammu",
+      "lat": 32.6734283,
+      "lng": 74.8881742,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzyo1qvKdHjkR1dxy_NMuAxY",
+      "name": "IndianOil",
+      "address": "Kaluchak, Jammu",
+      "lat": 32.662724,
+      "lng": 74.893593,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsyF885ucHjkRMr8rF17ao2E",
+      "name": "Kunjwani Pump No1",
+      "address": "MV7J+R57, NH 1A, Jammu",
+      "lat": 32.6645313,
+      "lng": 74.8804086,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJw8wWDJucHjkRteaaIhGbzeg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 1A, Jammu",
+      "lat": 32.6630425,
+      "lng": 74.8818734,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLepZQF-dHjkRzsPCze90oXo",
+      "name": "Bharat Petroleum, Petrol Pump -Fairdeal Filling Station",
+      "address": "Jammu",
+      "lat": 32.6562984,
+      "lng": 74.8947013,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUy0faR6dHjkRXPvvTvFvme4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Purmandal Road, Jammu",
+      "lat": 32.656259,
+      "lng": 74.93153099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ58AywM-dHjkRTdsZc0u2Lh8",
+      "name": "Bharat Petroleum, Petrol Pump -Shankar Filling Station",
+      "address": "GREATER KAILASH ON JAMMU, Jammu",
+      "lat": 32.65224680000001,
+      "lng": 74.9242727,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL-KdcQCdHjkRYUbk3UqLr_s",
+      "name": "BIRPUR FILLING STATION",
+      "address": "MW2F+WQ9",
+      "lat": 32.6522812,
+      "lng": 74.9244806,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJh7uoDxuGHjkR54lUiKWBuyY",
+      "name": "IndianOil",
+      "address": "Ground Floor, Akhnoor Road, Jammu",
+      "lat": 32.78349560000001,
+      "lng": 74.78829680000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ86PXUv-JHjkR7Bgg-1YUnFk",
+      "name": "Bharat Petrolium, JBL",
+      "address": "Chack jaggar Nagbani, Jammu",
+      "lat": 32.7700251,
+      "lng": 74.7604343,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJd_38y1GJHjkRXxqGmjB67ek",
+      "name": "IndianOil",
+      "address": "Ground Floor Bhour, Camp Road, Gajansoo",
+      "lat": 32.769547,
+      "lng": 74.741692,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKVg5rQmGHjkRYcO12SfSuaY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Damana Road, Jammu",
+      "lat": 32.773309,
+      "lng": 74.7952112,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaXeYrqaHHjkRLElI9PKn2VM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Akhnoor Road, Jammu",
+      "lat": 32.796516,
+      "lng": 74.782646,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmyjq2rmHHjkRxWnvRjSgZmg",
+      "name": "Bharat Petroleum, Petrol Pump -K.N Filling Station",
+      "address": "Jammu Akhnoor Highway, Jammu",
+      "lat": 32.8005919,
+      "lng": 74.7753087,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkSMkc1KFHjkRlVakfggPEcc",
+      "name": "IndianOil",
+      "address": "Ground Floor, Jammu",
+      "lat": 32.76729199999999,
+      "lng": 74.808556,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe4aGNBeFHjkRWaU0pTcTPhM",
+      "name": "Pinku Kumar Tyre Works",
+      "address": "181205 Barnai, Jammu",
+      "lat": 32.76737029999999,
+      "lng": 74.808641,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJbV4H0IWIHjkR8khoJzXlB0s",
+      "name": "IndianOil",
+      "address": "Ground Floor, Akhnoor Road, Jammu",
+      "lat": 32.80586599999999,
+      "lng": 74.770851,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs_aHKACFHjkRoeMpOkpxGHI",
+      "name": "Ambala city",
+      "address": "QRCF+55F, Jammu",
+      "lat": 32.77042730000001,
+      "lng": 74.82293159999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJVcH93-uFHjkRl4tW31AZNXQ",
+      "name": "Kargil Shaeed Maj Ajay Jasrotia Gas Agency",
+      "address": "QR5G+65M, Migrant Camp Road, near Masjid Nagrota, Nagrota",
+      "lat": 32.7580886,
+      "lng": 74.8254299,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJOciuW36GHjkRUfV55L-LEPU",
+      "name": "K N Filing Station",
+      "address": "QRHG+64W, Bantalab Road, Jammu",
+      "lat": 32.7781226,
+      "lng": 74.82531329999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvUQElnCHHjkR1NpnkkwdhBo",
+      "name": "IndianOil",
+      "address": "Ground Floor, Near Bantalab, Baran",
+      "lat": 32.78372129999999,
+      "lng": 74.8236843,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAfVAktqFHjkRiP4BU9YwRtU",
+      "name": "Bharat Petroleum, Petrol Pump -Jai Durga Filling Station",
+      "address": "PALOURA ON JAMMU-AKHNOOR R, Jammu",
+      "lat": 32.748537,
+      "lng": 74.8232975,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGTkj1GaGHjkR8m-GifMqR44",
+      "name": "IndianOil",
+      "address": "Thattar, Bantalab Road, Jammu",
+      "lat": 32.79307899999999,
+      "lng": 74.82103699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfZCUVymEHjkR-G-vFk94UNE",
+      "name": "IndianOil",
+      "address": "Sector 3, Jammu",
+      "lat": 32.771004,
+      "lng": 74.832954,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhcHgMC-JHjkRvVrhUPPVnjo",
+      "name": "Royal Filling Pump ,ROYAL GROUP",
+      "address": "Hari Singh Gharat, 1 Jhiri Road, Shamachak",
+      "lat": 32.8202041,
+      "lng": 74.7247685,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2wfUTByJHjkRp9gDjXCrWc0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 144A Poonch Road, Jammu",
+      "lat": 32.8296073,
+      "lng": 74.75532299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8-KkHFKGHjkRzAvR18yIfpQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Bhalwal, Janipur Akhnoor Road, Kot",
+      "lat": 32.812448,
+      "lng": 74.81651099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKUKyN7CJHjkRBrBkNC8HPF4",
+      "name": "Shiv Shakti Traders",
+      "address": "1 Nagbani Akhnoor Road, Machliyan",
+      "lat": 32.83492159999999,
+      "lng": 74.7686882,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJI-BrTQCFHjkRtDxpYL7HZZU",
+      "name": "Moksar Filling Station",
+      "address": "Main Stop, Jammu",
+      "lat": 32.7615867,
+      "lng": 74.84639539999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM6ZhUACFHjkRjBK-6dhAO3Q",
+      "name": "Petrol pump",
+      "address": "QR4W+WX3, Jammu",
+      "lat": 32.75725589999999,
+      "lng": 74.8474234,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJUdkNm2CBHjkRyCkAfhY0U30",
+      "name": "HPCL",
+      "address": "NH 1A",
+      "lat": 32.7874959,
+      "lng": 74.89800749999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZ0WeDkCEHjkRNsLiPb096CU",
+      "name": "Bharat Petroleum",
+      "address": "",
+      "lat": 32.7553601,
+      "lng": 74.8496247,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJAQAAAG2EHjkRJURfh0n-X3o",
+      "name": "HP Petrol Pump",
+      "address": "Jammu",
+      "lat": 32.7543125,
+      "lng": 74.8594375,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJaxEwq3qEHjkRPhS4GVwTF7g",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, B.C Road, Jammu",
+      "lat": 32.746005,
+      "lng": 74.86237369999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIcIMgNSFHjkRm0GW7CLSINQ",
+      "name": "Bharat Petroleum, Petrol Pump -Auto Fuel",
+      "address": "below KC THEATRE, B.C Road, Jammu",
+      "lat": 32.7416374,
+      "lng": 74.85877459999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo7jfFWKFHjkRIvmexamwRPQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, B.C Road, Jammu",
+      "lat": 32.7479744,
+      "lng": 74.8655893,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcRVxUbmFHjkRrfyeQdID2z0",
+      "name": "Bharat Petroleum, Petrol Pump -Bharat Motor & Cycle Co.",
+      "address": "below GUMMAT, Jammu",
+      "lat": 32.7402701,
+      "lng": 74.85828649999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLfGpx3CEHjkR6k_uSXiS1ok",
+      "name": "Bharat Petroleum",
+      "address": "",
+      "lat": 32.7484874,
+      "lng": 74.867347,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ-9HeyxWFHjkRlbxjJlwrmeo",
+      "name": "Nirdesh Khajuria",
+      "address": "Nirdesh Khajuria Dhundi, Kishtwar",
+      "lat": 32.7465747,
+      "lng": 74.86619320000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJrbTZkGOEHjkR8dqDvsajXI4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, B.C Road, Jammu",
+      "lat": 32.7395438,
+      "lng": 74.8584952,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3S9b1IKFHjkRjCbgBHbYnOI",
+      "name": "IndianOil",
+      "address": "Ground Floor, Jail Road, Jammu",
+      "lat": 32.74496299999999,
+      "lng": 74.86622299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoXIMdjmDHjkR0QmTqFxg_Po",
+      "name": "Bharat Petroleum, Petrol Pump -Amar Filling Station",
+      "address": "DOGRA HALL ,JAMMU, Jammu",
+      "lat": 32.7376555,
+      "lng": 74.863115,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL5eMSfyDHjkRrSPTbKTh-f0",
+      "name": "Bharat Petroleum, Petrol Pump -Parshotam Filling Station",
+      "address": "SIDHARA BYPASS,JAMMU ON NH, Jammu",
+      "lat": 32.7668338,
+      "lng": 74.8823195,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl-itLf2DHjkRPOTFpdc_BLA",
+      "name": "IndianOil",
+      "address": "Ground Floor, J Kotli, Near Bypass NH 1A, Nagrota",
+      "lat": 32.7800833,
+      "lng": 74.8854437,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJiQk_sRCDHjkRzLlNJ969QfI",
+      "name": "Nagrota Road Jammu",
+      "address": "QVMV+745, Nagrota",
+      "lat": 32.7831313,
+      "lng": 74.8928578,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJM5jiHsyBHjkRZJzNaEw3exs",
+      "name": "IndianOil",
+      "address": "Ground Floor NH 1A, Nagrota",
+      "lat": 32.7852607,
+      "lng": 74.8954954,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL4D6rsCDHjkRaKnyvzHGeA4",
+      "name": "Charat Petroleum",
+      "address": "",
+      "lat": 32.76283249999999,
+      "lng": 74.90283649999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJvwryrsCDHjkRliKSoIkwSuQ",
+      "name": "Bharat Petroleum",
+      "address": "",
+      "lat": 32.76282610000001,
+      "lng": 74.9028648,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJt3blf5qBHjkR8pstf3uzD1M",
+      "name": "Guru Nanak Filling Station",
+      "address": "Unnamed Road, Jammu",
+      "lat": 32.7900572,
+      "lng": 74.9018971,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJs2ZTwy-BHjkRhbalY0EELco",
+      "name": "IndianOil",
+      "address": "Ground Floor Nagrota, Jammu",
+      "lat": 32.7906001,
+      "lng": 74.902001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJQhCDsKBHjkRp-whTAzEFA8",
+      "name": "Rajput Petrol Pump",
+      "address": "SARVOTTAM DWAR, Nagrota Bypass Road, Jammu",
+      "lat": 32.7913681,
+      "lng": 74.9035559,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJG4zDibGBHjkRXrWAR-zbbsg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Nagrota",
+      "lat": 32.7915499,
+      "lng": 74.8965382,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzdSpcpWDHjkR9pY_rOSQFtQ",
+      "name": "Petrol pump Bajalta",
+      "address": "QW5X+RFM, Baljata",
+      "lat": 32.7595759,
+      "lng": 74.94866350000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJmfE20G6BHjkRdziQPpboMbw",
+      "name": "IndianOil",
+      "address": "Ground Floor, J Kotli NH 1A, Nagrota",
+      "lat": 32.803783,
+      "lng": 74.920881,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJd3D2WgCBHjkR3-F1EPFbOGw",
+      "name": "Bharat petrolium",
+      "address": "RV4W+RCH, Ban",
+      "lat": 32.8070503,
+      "lng": 74.8960968,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJoa-7MQCBHjkRUPRLSQRf8z0",
+      "name": "jagti",
+      "address": "RV4W+PCJ, Jagti",
+      "lat": 32.8074056,
+      "lng": 74.89602289999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJuz1_eW-CHjkRCm3sIN43T6g",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Chak Largan, Baljata",
+      "lat": 32.75793820000001,
+      "lng": 74.9526783,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ61z2hciBHjkRK-TwgCQoz1U",
+      "name": "HP PETROL PUMP Ravinder Kumar and Brothers",
+      "address": "near IIT college, National Highway 44, Jammu",
+      "lat": 32.8105253,
+      "lng": 74.8967614,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ_WBbHfeJHjkR4NArf5JRp4Y",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Rajpura to Jhiri Road, Jammu",
+      "lat": 32.8496671,
+      "lng": 74.72474509999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJb9OVG4hiHjkRkj-qMqPUziw",
+      "name": "SHIV SERVICE STATION",
+      "address": "",
+      "lat": 32.8636352,
+      "lng": 74.7341531,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJr9TnzpOHHjkRO1bqBF6jVGk",
+      "name": "Bharat Petroleum Petrol Pump , D.K.FILLING STATION",
+      "address": "VILL. BHALWAL NEAR KANGAR MORE JAMMU, JK",
+      "lat": 32.830819,
+      "lng": 74.81608,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ63RsfvZiHjkRGOymQMh6KnI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Akhnoor, Doomi, Jammu",
+      "lat": 32.87989539999999,
+      "lng": 74.73618739999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJURz6sQ9jHjkRbu6f0qm51mw",
+      "name": "Datta Filling Station",
+      "address": "Gurha pattan, Bye Pass Road, Jammu",
+      "lat": 32.8844865,
+      "lng": 74.7413321,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJj3xnkfBiHjkRR_aHbiolOC4",
+      "name": "Bharat Petroleum",
+      "address": "",
+      "lat": 32.8846372,
+      "lng": 74.7414806,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJd1OeOtpjHjkRVxxJGtMtsSc",
+      "name": "Aaditya Filling Station",
+      "address": "VQQ2+6H3",
+      "lat": 32.8880081,
+      "lng": 74.7514173,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9ThPCuZiHjkRd_diNSsyr6U",
+      "name": "Bharat Petroleum",
+      "address": "",
+      "lat": 32.8880162,
+      "lng": 74.7514063,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJhcN7AQB9HjkR_gHAxpRwnpE",
+      "name": "Indian oil",
+      "address": "VQRP+4M9, Jandyal",
+      "lat": 32.8902901,
+      "lng": 74.7867492,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJVYeIKtpiHjkROxqCg2VABWs",
+      "name": "IndianOil",
+      "address": "Khasra No 2047 Min, Kahat No 353 Khewat No 35, Jandial, Baran",
+      "lat": 32.894132,
+      "lng": 74.76637699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWZtPvk9iHjkRoelJgHVE5Ao",
+      "name": "HP PETROL PUMP - DIVAKAR SINGH AND SONS",
+      "address": "Ground Floor, Akhnoor, Patiari",
+      "lat": 32.8845,
+      "lng": 74.72031319999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGb0UzQNjHjkRujTQqG18xU4",
+      "name": "IndianOil",
+      "address": "Ground, Akhnoor Palace, near Punjab National Bank",
+      "lat": 32.8992026,
+      "lng": 74.74041559999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy_BNtkNjHjkRNfq7YbUjgIw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Sungal Morh, Jammu",
+      "lat": 32.8980609,
+      "lng": 74.7317716,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJu_FHjwRjHjkRhgLMeC26RDw",
+      "name": "Pawar Filling Station",
+      "address": "near KAMESHWAR TEMPLE, ROAD, Jammu Cantonment",
+      "lat": 32.90308619999999,
+      "lng": 74.74293580000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkXx_VVBjHjkRAuxanFwraHA",
+      "name": "Pushpa Filling Station",
+      "address": "Pushpa Filling Station, Jammu",
+      "lat": 32.89464139999999,
+      "lng": 74.7134555,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZfmNPvt_HjkRAtEg7tYgOJM",
+      "name": "IndianOil",
+      "address": "Jammu",
+      "lat": 32.886439,
+      "lng": 74.9572164,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJre9oTLOBHjkRlquDBDTbopc",
+      "name": "Bharat Petroleum",
+      "address": "",
+      "lat": 32.8325089,
+      "lng": 74.937394,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJG91Ky0qBHjkROXMn9A_Qr5g",
+      "name": "M/S Karan Motors BPCL",
+      "address": "Bantalab,Nagrota, Near Ban Toll Plaza, Jammu",
+      "lat": 32.832444,
+      "lng": 74.93748719999999,
+      "open_now": true
+    }
+  ]
+}

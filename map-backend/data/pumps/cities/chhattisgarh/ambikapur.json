@@ -1,0 +1,571 @@
+{
+  "city": "Ambikapur",
+  "state": "Chhattisgarh",
+  "count": 70,
+  "center": {
+    "lat": 21.4833,
+    "lng": 81.8
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJ687YsOrlKDoRx-rEkJDoBfY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 387/3 & 387/7, NH 200, Raipur - Bilaspur Expressway, Charoda",
+      "lat": 21.3869746,
+      "lng": 81.66997649999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJa3eVRUXuKDoRysBFe-scY6c",
+      "name": "HP PETROL PUMP - DHARAM FUELS",
+      "address": "Ground Floor Saragaon, Road, Dharsiva",
+      "lat": 21.4275139,
+      "lng": 81.7468157,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRbGWK2_lKDoRRn6b8HDtYqQ",
+      "name": "Hindustan Petroleum",
+      "address": "Kapsada NH-200, Highway, Raipur",
+      "lat": 21.429212,
+      "lng": 81.678049,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHeLqTADvKDoRi37mT4JoK6o",
+      "name": "Kurud silyari",
+      "address": "CPFV+C76, Kurud, Siliyari",
+      "lat": 21.4235448,
+      "lng": 81.743149,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJpSxmRfnvKDoRXD0nnNQ-tZw",
+      "name": "Bharat Petroleum Petrol Pump , MANAS FUELS",
+      "address": "S.NO. 185/3MALAUD, Raipur",
+      "lat": 21.435104,
+      "lng": 81.75263199999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJp6gaKBnvKDoRVGQ2prmVbYc",
+      "name": "IndianOil",
+      "address": "Ground Floor, Raita, Raipur",
+      "lat": 21.439048,
+      "lng": 81.712291,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ00_ibDPvKDoR62IiDtk5kF4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Kapsada",
+      "lat": 21.435091,
+      "lng": 81.700732,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQWRhJXDvKDoRGS10lEwoHUg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Khasra No 357/1, Kutharail",
+      "lat": 21.44728199999999,
+      "lng": 81.741501,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-64pO5vlKDoRstqwsyWQwGw",
+      "name": "SHRI VAIBHAV PETROLEUM (BPCL)",
+      "address": "India",
+      "lat": 21.4034078,
+      "lng": 81.679341,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2fjBtpDdKDoRTL_pHdfdJbo",
+      "name": "Reliance Jio Bp Petrol Pump",
+      "address": "B R COMMERCIALS RELIANCE JIO-BP PETROL PUMP PLOT NO. 438/1, SILTARA DHARSIVA BYPASS NH-30, RAIPUR BILASPUR EXPRESS WAY, DIST, VILAGE, Dharsiwa",
+      "lat": 21.4084066,
+      "lng": 81.6768795,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHeQkdiXlKDoRkrdLk3uj--k",
+      "name": "IndianOil",
+      "address": "Ground Floor NH 30, Kunra",
+      "lat": 21.434659,
+      "lng": 81.679541,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJv0j_rBzlKDoRgN5jeiwpk8E",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kunra",
+      "lat": 21.436178,
+      "lng": 81.67996699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJp09HXnflKDoRkNFQzV9523g",
+      "name": "IndianOil",
+      "address": "Ground Floor, Dharsiva",
+      "lat": 21.4405977,
+      "lng": 81.68244949999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJb2HSuaXlKDoRhKugYdhuf9w",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 30, Raipur - Bilaspur Expressway, Dharsiwa",
+      "lat": 21.41202239999999,
+      "lng": 81.6721214,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAR0TcXXlKDoRVG9o8lHgWcE",
+      "name": "JIGYASA FUELS",
+      "address": "CM6C+VJ3, Bilaspur Rd, Dharsiwa",
+      "lat": 21.4121304,
+      "lng": 81.6715321,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJRRninfvlKDoR0xdkkZjw3EM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "PH No 18/91, Khasra No 36, 1/2, Dharsiwa",
+      "lat": 21.4122421,
+      "lng": 81.6707325,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYznZ9dvxKDoRKhRK6Opzdzs",
+      "name": "IndianOil",
+      "address": "Ground Floor, Tilda, Raipur",
+      "lat": 21.469475,
+      "lng": 81.75133699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0cVRRNDlKDoR9dIFFh8siPE",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kayabandha, near NRDA Office, Raipur",
+      "lat": 21.3849769,
+      "lng": 81.6695955,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNduPGgDlKDoRA8Dre1jdoM4",
+      "name": "SUPER FUELS SILTARA (BPCL)",
+      "address": "9MG8+FJ, Akoli-2",
+      "lat": 21.37622829999999,
+      "lng": 81.6665517,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJufN76oDlKDoRia2jM9V_r7E",
+      "name": "Jio-bp",
+      "address": "Survey No 434/1, 437/1 & 438/1, Dharsiwa",
+      "lat": 21.374107,
+      "lng": 81.6670801,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJf6zgId3lKDoReGwnNfNhiOE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Phz 2, CSIDC, No 527 & 531/7/P, Amenity C, NH 200, Raipur - Bilaspur Expressway, Siltara",
+      "lat": 21.374001,
+      "lng": 81.6662001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM_SKQPPrKDoR35b786K9HEE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, State Highway 9, Saragaon",
+      "lat": 21.3629066,
+      "lng": 81.7992532,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPylbAdTtKDoRvhXw8KzIsKA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Baraunda, near Management College, Raipur",
+      "lat": 21.382073,
+      "lng": 81.824184,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJp9g-awDtKDoR-zu7kjbNaMQ",
+      "name": "VINAYAK FUELS, Bharat Petroleum",
+      "address": "9RXW+378, Bangoli",
+      "lat": 21.3976607,
+      "lng": 81.84570310000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJKbhysovrKDoRCZqqnOfo5mQ",
+      "name": "HP PETROL PUMP - SHRI BALAJI PETROLEUM",
+      "address": "Hpcl Retail Outlet, State Highway 9, Saragaon",
+      "lat": 21.367088,
+      "lng": 81.80402699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTcBYCMTsKDoRM7-2OxgxmSI",
+      "name": "IndianOil",
+      "address": "Ground Floor, Tilda, Bangoli, Bangoli",
+      "lat": 21.403001,
+      "lng": 81.850201,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm2TeAii1KDoRLfrW6yl44Xg",
+      "name": "IndianOil",
+      "address": "Ground Floor, Rajim, Baronda",
+      "lat": 21.374538,
+      "lng": 81.8308047,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKXh0jAGDKDoRj4ketB0phrQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, Saragaon, Dondekhurud,Latuwa, Baloda Bazar",
+      "lat": 21.3612947,
+      "lng": 81.7964952,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4V4KdQvtKDoRY-QpwZvtZFA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor NH 130B, Raipur Kharora, Road, Bangoli",
+      "lat": 21.397557,
+      "lng": 81.854124,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWQiaxADtKDoReyF4xsItulA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor NH 130B, Raipur Kharora, Road, Bangoli",
+      "lat": 21.397557,
+      "lng": 81.854124,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJU_otlIftKDoRSy8iZLqs77k",
+      "name": "Aastha Fuels",
+      "address": "FR5J+PRX, Raikheda",
+      "lat": 21.4593544,
+      "lng": 81.83209649999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJE22SeJSTKDoRLKDp4ZZ3uEg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Tilda, Mura",
+      "lat": 21.439741,
+      "lng": 81.869575,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzbero0GTKDoRLHZNG9hKvrs",
+      "name": "IndianOil",
+      "address": "Ground Floor Tilda, Mohrenga",
+      "lat": 21.434869,
+      "lng": 81.892127,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBRcNeXaTKDoRbyVch4vm-Nk",
+      "name": "IndianOil",
+      "address": "Ground Floor Math, Kharora",
+      "lat": 21.392901,
+      "lng": 81.90730099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe6Sh43KTKDoR9-RjoIEUs9Q",
+      "name": "IndianOil",
+      "address": "Ground Floor Tilda, Raipur",
+      "lat": 21.458181,
+      "lng": 81.86885099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJXm8XL2TKDoROFo6PaLn938",
+      "name": "IndianOil",
+      "address": "Ground Floor, Tilda, Kharora, Kharora",
+      "lat": 21.40043499999999,
+      "lng": 81.921852,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOacVnZeTKDoRt2IF7wxuIwQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, near New Bus Stand, Kharora",
+      "lat": 21.396802,
+      "lng": 81.9214989,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJX5T_U8eTKDoRY6caXbtjxMc",
+      "name": "R S FUELS",
+      "address": "KHARTORA, ROAD, ROHASI",
+      "lat": 21.3977431,
+      "lng": 81.9284509,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJg5fpB-yTKDoRnGzHX91ZJcw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Kharora",
+      "lat": 21.394471,
+      "lng": 81.93649099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDS1_7GHxKDoRfzYCQcBdGeg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Dharsiwan, Tilda, Tarpongi",
+      "lat": 21.494672,
+      "lng": 81.696753,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcZbADNjdKDoRzp9-xhHfAQw",
+      "name": "IndianOil",
+      "address": "Ground Floor Tilda, Saddu, Tilda",
+      "lat": 21.50843489999999,
+      "lng": 81.6924128,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6bV8DzrxKDoRyFgalNldunE",
+      "name": "RADHA RANI PETROLEUM",
+      "address": "GM5R+GW9, NS30, Raipur",
+      "lat": 21.5087868,
+      "lng": 81.69235499999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ3TYUsJ3xKDoRav9SzAcOGGQ",
+      "name": "Bharat Petroleum Petrol Pump , JAI AMBE FUELS",
+      "address": "VILLAGE SADDU, NH30(OLD NH 200, Bilaspur Road, Raipur",
+      "lat": 21.51645139999999,
+      "lng": 81.6941068,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJR3xlDQDxKDoRLV92uuksujQ",
+      "name": "Ajay filling station jota",
+      "address": "GQGG+7CW, Jota",
+      "lat": 21.5257369,
+      "lng": 81.776085,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ_7zotgzxKDoRKTKY82YOtIg",
+      "name": "IndianOil",
+      "address": "Ground Floor, Tilda Road, Jota",
+      "lat": 21.535206,
+      "lng": 81.770881,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP7FdcwDxKDoRn9MdvVqlriE",
+      "name": "संकरा, छत्तीसगढ़ भारत गैस",
+      "address": "GMWW+MV, Sankara",
+      "lat": 21.546704,
+      "lng": 81.697176,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJA705VBXxKDoRd13vkSeXIKc",
+      "name": "IndianOil",
+      "address": "State Highway 2, Sankara",
+      "lat": 21.5475113,
+      "lng": 81.69772259999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbUZQ4yrzKDoR2kXYLbL3PwY",
+      "name": "IndianOil",
+      "address": "Ground Floor, Tilda, Bartori",
+      "lat": 21.509955,
+      "lng": 81.8203601,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJr7AxQfjzKDoRbIICEemKn2A",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Neora, Tarasiw, Raipur",
+      "lat": 21.483691,
+      "lng": 81.84453599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm2uXYwDzKDoRta6iyQffWk8",
+      "name": "Yadav Ji Fuels",
+      "address": "SH 20, Tilda Simga Road, Kharora",
+      "lat": 21.5262831,
+      "lng": 81.808067,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJle0a6urzKDoRFx3a8n9q4n0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Kharora Road, Tilda",
+      "lat": 21.5375515,
+      "lng": 81.7992854,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx6CGF-vzKDoRWfBOrVSRkLU",
+      "name": "Mangalam Fuels",
+      "address": "GQQX+QJV, Tilda",
+      "lat": 21.5394907,
+      "lng": 81.7990604,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJa7BduZ3zKDoRn-onqRseGSI",
+      "name": "IndianOil",
+      "address": "Ground Floor, Tulsi, Raipur",
+      "lat": 21.5402806,
+      "lng": 81.8056213,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKXegdvTzKDoRYFDOPJv0W6c",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Railway Station, Tilda",
+      "lat": 21.553401,
+      "lng": 81.796801,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe2ymMTLzKDoRvRs4kAxvxHs",
+      "name": "Bharat Petroleum, Petrol Pump -Mangalam Fuels",
+      "address": "NEVRA TILDA, RAIPUR",
+      "lat": 21.5552042,
+      "lng": 81.79733300000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJJSMrhjjzKDoRxsbMDwLnD-M",
+      "name": "HP PETROL PUMP - SHRI SAIKRIPA FUELS",
+      "address": "Hpcl Retail Outlet Village- Mura Tehsil- Tilda, Raipur",
+      "lat": 21.537656,
+      "lng": 81.852313,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJlfVJ5sWNKDoRDPXmEwONXaE",
+      "name": "Petrol Pump",
+      "address": "493195, Mohra",
+      "lat": 21.5057486,
+      "lng": 81.93770620000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJEe5qXO2NKDoRKfYfwvrUhQA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Mura, Marg, Suhela",
+      "lat": 21.506942,
+      "lng": 81.937843,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9WpnV5v3KDoRomH3vrir7LE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 2000 Raipur Bilaspur Road, Simga, Aurethi",
+      "lat": 21.6080532,
+      "lng": 81.7030231,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRfK64Qb3KDoRmH5a-p_pajg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Sarora Road, Tilda",
+      "lat": 21.5585228,
+      "lng": 81.75849269999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcXneYOX3KDoRft3It2DuLcA",
+      "name": "Ushara Fuel Station ( भारत पेट्रोलियम )",
+      "address": "Raipur - Bilaspur, National Highway 30, Bhumiya",
+      "lat": 21.5648954,
+      "lng": 81.70025869999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJU1VVJPTzKDoRufn3TPrfVPQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, Boria Khurd, Neora",
+      "lat": 21.56060099999999,
+      "lng": 81.78190099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS_8AoIzzKDoRBfN4Rhha5WQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Khasra No 100, Infront of Pursue Turn, 8 Sasaholi, Simga Road, Tilda",
+      "lat": 21.55682669999999,
+      "lng": 81.7861135,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzVOMVADzKDoR6lcBAdSF9eU",
+      "name": "Lal Fuels Indian oil petrol pump",
+      "address": "Ground Floor, Tulsi, Raipur",
+      "lat": 21.5713697,
+      "lng": 81.7893376,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_bXuWJv3KDoR3wgQRTRoMik",
+      "name": "HP PETROL PUMP - SOMNATH FUELS",
+      "address": "HP Petrol Pump Raipur Bilaspur NH 2000 Village Aurethi, Simga, Bilaspur Road, Raipur",
+      "lat": 21.6082291,
+      "lng": 81.7026219,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ68RaeAD1KDoRL7DvtALCJyk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "280/1, Plot No 274/1, Tilda",
+      "lat": 21.566002,
+      "lng": 81.806231,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOQlC4hDzKDoRsqW_F9S7pD8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Tilda Newra",
+      "lat": 21.560972,
+      "lng": 81.83315800000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdyF6VuTzKDoRWWmGl0FqOjY",
+      "name": "SHRI GYAN FUELS",
+      "address": "manpur road, Kota",
+      "lat": 21.5609816,
+      "lng": 81.8332622,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQy90BwCLKDoR-sl8iD9ORrg",
+      "name": "Shree Shambhu Dayal Fuels",
+      "address": "JV8G+MF, Pousari",
+      "lat": 21.616749,
+      "lng": 81.876243,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJDa6fsxOLKDoRlj6cCBCKHzg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Simga, Road, Hathbandh",
+      "lat": 21.617302,
+      "lng": 81.8666401,
+      "open_now": true
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "city": "Raigarh",
+  "state": "Chhattisgarh",
+  "count": 9,
+  "center": {
+    "lat": 21.0817,
+    "lng": 82.7747
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJm91rSAF0JjoResEYtDLUcxk",
+      "name": "M/S Khushil KSK",
+      "address": "Petrol Pump, Khariar - Bhandarpuri Road, Beltukuri",
+      "lat": 21.0254474,
+      "lng": 82.6435489,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJU4QnKyWCJjoRuXRvOfkATiM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Paikmal Road, Jharbandh",
+      "lat": 21.055276,
+      "lng": 82.793452,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-XzQcjt7JjoR6pHi4oLidnw",
+      "name": "Jharbandh Petrol Station 1",
+      "address": "Jharbandh",
+      "lat": 21.0552917,
+      "lng": 82.7935488,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJIRY1sf97JjoRsJYrcx0yiJo",
+      "name": "INDANE Gas Agency",
+      "address": "3Q6R+8P8, Krafadgang",
+      "lat": 21.0607705,
+      "lng": 82.7918031,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJd_7Vt7p7JjoRO5FZkX9cjuM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Jharbandh",
+      "lat": 21.0713289,
+      "lng": 82.7899935,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmyEtB8pxJjoR-h7y6_sAyYA",
+      "name": "Maa Durga Petrol pump",
+      "address": "4P54+W26, Bhandarpuri-Dabha Road, Bolangir",
+      "lat": 21.1097874,
+      "lng": 82.7050275,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJUUEK-e5jJjoRUFK0vGZltH8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Jharbandh, Laudidhara, Niljipatra",
+      "lat": 21.14916669999999,
+      "lng": 82.85055559999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcQf3zlRvJjoRiLfvzkScMvo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Jampali Chhuipali Road, Padakipali, Saraipali",
+      "lat": 21.2090368,
+      "lng": 82.6808404,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJT8WjKQpjJjoRkLaROufmOi0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Padampur Road, Basna",
+      "lat": 21.21197699999999,
+      "lng": 82.85876499999999,
+      "open_now": true
+    }
+  ]
+}

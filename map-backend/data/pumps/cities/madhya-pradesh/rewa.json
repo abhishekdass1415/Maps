@@ -1,0 +1,355 @@
+{
+  "city": "Rewa",
+  "state": "Madhya Pradesh",
+  "count": 43,
+  "center": {
+    "lat": 24.4833,
+    "lng": 81.0833
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJ91FTLnBlhDkRfMkj8MRVjwQ",
+      "name": "IndianOil",
+      "address": "Ground Floor Bandha, Aira, Rampur",
+      "lat": 24.4577001,
+      "lng": 81.0233001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJle6GNpVuhDkRUqtWeDmyX-U",
+      "name": "R.S",
+      "address": "93H2+4PG, Maihar - Rewa Road, Sarbaka",
+      "lat": 24.3778083,
+      "lng": 81.05181809999999,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJkYc4TJVuhDkRSsyFe9eLmlM",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 24.3777032,
+      "lng": 81.05260419999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJyblvwvlvhDkRJ_jkSCKxwTI",
+      "name": "R.S.fuels ( Rajan Petrol pump Hardi House )",
+      "address": "93V8+HFX, Rewa Road, Bari",
+      "lat": 24.3939795,
+      "lng": 81.0662447,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJicWSJ7lvhDkRV2_yF8QHQ7Y",
+      "name": "Shri vaishno fules",
+      "address": "93F2+VQV, Sarbaka",
+      "lat": 24.3747315,
+      "lng": 81.0519204,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJS3kN1nNlhDkRa-sgfKTOWyE",
+      "name": "Vindhya KSK Indian Oil Petrol Pump, Bandha, Rampur Baghelan",
+      "address": "F27F+X9C, Rampur - Amarpatan Road, Ward 14, Amarpatan",
+      "lat": 24.4649476,
+      "lng": 81.0234018,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM8kFBgBxhDkRsW-k-S3OgW4",
+      "name": "Star Filling station",
+      "address": "9X8H+CPV, Rampur - Amarpatan Road, Rampur",
+      "lat": 24.3661143,
+      "lng": 80.9792835,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkU3KXCtshDkRvnL26hiHFtE",
+      "name": "IndianOil",
+      "address": "Plot No 169/2 & 171/1/2, Kakra, Amarpatan",
+      "lat": 24.3484016,
+      "lng": 81.0324972,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgX86XStshDkRHllqUQY9Dao",
+      "name": "IndianOil",
+      "address": "India",
+      "lat": 24.3483036,
+      "lng": 81.03256139999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJN0BbbI9phDkRDk7b51sQlZg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 447/2, Mauhari",
+      "lat": 24.43288699999999,
+      "lng": 81.103251,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJb1TCzLNphDkR923Wyohc_YI",
+      "name": "SAI FUELS",
+      "address": "Maihar - Rewa Road, Amarpatan",
+      "lat": 24.4369375,
+      "lng": 81.1081875,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJp_VC9m1nhDkROVd-iwkA1Z8",
+      "name": "IndianOil",
+      "address": "Ground Floor, Khutaha, Amarpatan, Satna, Thp Sirmour, Rewa",
+      "lat": 24.4601309,
+      "lng": 81.1316014,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSUpBNgBnhDkRXDeV9jOmCm8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 550, NH 7, Amarpatan to Bela Road, Khutaha West, Satna",
+      "lat": 24.4616001,
+      "lng": 81.1321001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJK12GWI1nhDkRKtzQk54LVyc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Khasra No 172/4, NH 7, Ruhiya",
+      "lat": 24.478506,
+      "lng": 81.15229099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH6nyWsJnhDkRDMGztwnMu10",
+      "name": "shri sneh oils",
+      "address": "F49Q+QV4, Maihar - Rewa Road, Khutha",
+      "lat": 24.4693976,
+      "lng": 81.1396893,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJp4uuNA5nhDkRYVpLEUcNQsU",
+      "name": "IVPS Filling Station",
+      "address": "Khutha",
+      "lat": 24.4699422,
+      "lng": 81.13950609999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZWs4oTlDhDkRTPSqCnCAbVY",
+      "name": "MPEB office Tala",
+      "address": "957Q, Unnamed Road, Tala",
+      "lat": 24.3640429,
+      "lng": 81.1896033,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ9Wi5jkJkhDkRN6sGFESCSQs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, SH 6, Satna Rewa Road, Rampur",
+      "lat": 24.517831,
+      "lng": 81.044921,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZbvBmFhjhDkRgX7WXeYbQ_I",
+      "name": "Bharat Petroleum Universal Transport Company",
+      "address": "G2R2+6VP, Mahurachh, Satna",
+      "lat": 24.5406,
+      "lng": 81.00220000000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy5qUtEN7hDkRCOGjFz282hw",
+      "name": "IndianOil",
+      "address": "No 3/1/1, Bakia, Lilaha",
+      "lat": 24.4879774,
+      "lng": 80.9710913,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6UWAo0JkhDkREilV_8-XzzE",
+      "name": "HP PETROL PUMP - PETRO FILLING STATION",
+      "address": "Satna Rewa Road SH -6 Rampur Baghelan District, Jabalpur",
+      "lat": 24.517561,
+      "lng": 81.04472129999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYw4APJlkhDkRrxbml98l_50",
+      "name": "IndianOil",
+      "address": "Ground Floor Mahurachh, NH 75, Satna Rewa Road, Bakia",
+      "lat": 24.5338123,
+      "lng": 81.0130185,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-S1BEIZnhDkRR8iYXH8r11U",
+      "name": "Hindustan Petroleum",
+      "address": "Bela, Rewa, NH-75, Panna-Satna Road, Satna",
+      "lat": 24.4913881,
+      "lng": 81.158968,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP84QWNFnhDkRX-wr0bkQjic",
+      "name": "Jio-bp",
+      "address": "Aaraji No 86, Lami, 1/2, Amarpatan, Karhi",
+      "lat": 24.505113,
+      "lng": 81.09497499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzfBmhfhmhDkRqUdYvPtgrlY",
+      "name": "Rimar Petrol CNG Pump",
+      "address": "Korigawan",
+      "lat": 24.5002625,
+      "lng": 81.1119223,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ4ROpqGdhhDkRd1VSFSEw1xs",
+      "name": "IndianOil",
+      "address": "Khasra No 1343/1, Aira, Rampur",
+      "lat": 24.5452695,
+      "lng": 81.08904799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB70GnNRdhDkRqnOlo1pnKjc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Kh No 141/2/3, Rampur Baghelan, Bela",
+      "lat": 24.489389,
+      "lng": 81.164688,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIUgniXJdhDkRh7D7xz0FZsw",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 7 Bela, Maihar - Rewa Road, Satna",
+      "lat": 24.4929417,
+      "lng": 81.183312,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-0F1eWNdhDkRw8Uu3Br-fc0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Huzur, Baijnath",
+      "lat": 24.507818,
+      "lng": 81.176284,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxc5jRxhdhDkRC3_e_YogEZs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, SH 49, Govindgarh Road, Bela",
+      "lat": 24.4827044,
+      "lng": 81.1980988,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJA8TPlgVdhDkRJbXlUCqLBaQ",
+      "name": "IndianOil",
+      "address": "Ground Floor Bela, NH 7, Satna Rewa Road, Kemar",
+      "lat": 24.497496,
+      "lng": 81.197988,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJ7V7sOJFdhDkRh0tcxRAB81s",
+      "name": "IndianOil",
+      "address": "Ground Floor NH 7, Umri, Thp Sirmour Near RHS Bela, Road, Varanasi",
+      "lat": 24.50126,
+      "lng": 81.208626,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJO_0BCC1nhDkRZaYEuJHrpDQ",
+      "name": "Sandeep General Store",
+      "address": "House No 88, near Ramkaran Niwas, G5P6 HM5, Madhepur",
+      "lat": 24.5363303,
+      "lng": 81.1616786,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ4YNJCVhchDkReluzmA55Kxg",
+      "name": "Reliance Petroleum",
+      "address": "beside Naresh Kumar & Co, Ch 243, S No 674/2 Nh 7, Bela, beside Naresh Kumar & Co, Rewa",
+      "lat": 24.5064385,
+      "lng": 81.2197738,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZR5_ZwBdhDkR0T9EzRUU1gU",
+      "name": "Jio bp petroliyam chorahta baipas",
+      "address": "G649+GX2, Chorhata, Rewa",
+      "lat": 24.5062683,
+      "lng": 81.2199031,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJpSFBSABehDkRUIJOFZVilK8",
+      "name": "IndianOil",
+      "address": "Naubasta Road, Chhijwar",
+      "lat": 24.5521297,
+      "lng": 81.1652005,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_93WDA1fhDkRHEqUlGW76tw",
+      "name": "Bharat Petroleum Petrol Pump , SINGH PETROLEUM",
+      "address": "JP NAGAR REWA, M.P",
+      "lat": 24.5517479,
+      "lng": 81.17265379999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPUjNK39jhDkRD45BXkBRf58",
+      "name": "Maa Sharda fuels",
+      "address": "Bamhauri",
+      "lat": 24.5592813,
+      "lng": 81.0085098,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_3jrrXxjhDkRxJo6BHF1VGc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Kh No 144 Bamhori, Rampur Baghelan, Bamhauri",
+      "lat": 24.563204,
+      "lng": 81.007599,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLSq9_OVjhDkRgYGw1-cffIA",
+      "name": "Indian Oil Petrol Pump",
+      "address": "H2C6+J69, Bamhauri",
+      "lat": 24.57152689999999,
+      "lng": 81.01060600000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJWcDeHiR9hDkRRp-97MrC7IE",
+      "name": "SHREE HARSH VALLABH FUELS",
+      "address": "SAJJANPUR BYPASS SATNA, TO, REWA",
+      "lat": 24.5537705,
+      "lng": 80.95876319999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB0ikYAFehDkR7ckbXIi-uz0",
+      "name": "IndianOil",
+      "address": "Plant, Khasra No 225 Chhijwar, Hujur, JP, Road, Bholagadh, Rewa",
+      "lat": 24.5555526,
+      "lng": 81.16788179999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuwKavAlehDkRlgP6odumxF0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Huzur",
+      "lat": 24.552691,
+      "lng": 81.178581,
+      "open_now": true
+    }
+  ]
+}

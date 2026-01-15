@@ -1,0 +1,1459 @@
+{
+  "city": "Jalandhar",
+  "state": "Punjab",
+  "count": 181,
+  "center": {
+    "lat": 31.326,
+    "lng": 75.5762
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJdVNu4ktDGjkRyNiMmPTd_7E",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Jalandhar - Nakodar Road, Lambra",
+      "lat": 31.239951,
+      "lng": 75.521771,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWe4tiopEGjkRW6KZ47GIjs8",
+      "name": "IndianOil",
+      "address": "Ground Floor, Jalandhar - Kala Sanghian Road, Nijjran, Jullunder, Kala Sanghian",
+      "lat": 31.273014,
+      "lng": 75.482002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ16U-ERtbGjkR2So6xckjHVY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Ramdasspura, opposite Deol Nagar, Jalandhar - Nakodar Road, Bootan Mandi, Jalandhar",
+      "lat": 31.299381,
+      "lng": 75.56087099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJd2m__t1aGjkRH2l7adJ3dsE",
+      "name": "PETRO ZONE R.O. Bharat Petroleum Corp. Ltd.",
+      "address": "Kala Sanghian Road,, Basti Sheikh, Jalandhar",
+      "lat": 31.3115168,
+      "lng": 75.5503985,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJMUYTwpRCGjkRdVRpTsOm1Ng",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Jalandhar - Nakodar Road, Nakodar, Gohir",
+      "lat": 31.18654100000001,
+      "lng": 75.500461,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ02cCtFJDGjkREOFqtXqaUIE",
+      "name": "IndianOil",
+      "address": "Ground Floor Lambran Nakodar Road, NH 71, Kalyanpur",
+      "lat": 31.24823799999999,
+      "lng": 75.527154,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx5HBRTdDGjkRROQCETtHVaU",
+      "name": "IndianOil",
+      "address": "Ground Floor Jalandhar Nakodar Road, Singha, Kalyanpur, Jalandhar",
+      "lat": 31.229668,
+      "lng": 75.51688399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmbC1o1BbGjkRkZa4eLfGf18",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Jalandhar - Nakodar Road, Tajpur",
+      "lat": 31.266301,
+      "lng": 75.538901,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJn0H_qCVDGjkRLDPsFUTj0fY",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 71, Jalandhar - Nakodar Road, Kang Sahbu",
+      "lat": 31.219993,
+      "lng": 75.5138997,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHZ96UdFEGjkR3ryCGRffyUk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Dhaliwal, Kalasinga Road, Basti Guzan, Dhaliwal",
+      "lat": 31.296281,
+      "lng": 75.52134099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGe6beApFGjkRGS59e7Du3nM",
+      "name": "Davinder filling stations",
+      "address": "7FP7+V5C, Kohala",
+      "lat": 31.2871998,
+      "lng": 75.4628774,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJA4ZPIUlEGjkRJDAR1gp3r3o",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Kohala",
+      "lat": 31.2877061,
+      "lng": 75.46191449999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJF2TbvxZbGjkRaoqcp3TUIBs",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 31.2906408,
+      "lng": 75.555318,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJR6pP1BZbGjkRAgAsPPX8FYo",
+      "name": "IndianOil",
+      "address": "near Jalandhar TV Tower, Nakodar Road, near Jalandhar TV Tower, Satguru Kabir Chowk, Jalandhar",
+      "lat": 31.2920839,
+      "lng": 75.55676629999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoXN8dgNEGjkRYRHe0DZQ3as",
+      "name": "IndianOil",
+      "address": "Ground Floor Kapurthala, Nakodar - Kapurthala Road, Kala Sanghian",
+      "lat": 31.25673,
+      "lng": 75.439206,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYXrxu_BcGjkRQc0nw2lNxc8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Partapura Jamsher, Road, Udhopur",
+      "lat": 31.23010709999999,
+      "lng": 75.5673006,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdfLrjL5FGjkRt0KwnjULsAM",
+      "name": "Bhagwati Auto Fuels",
+      "address": "village Sukhani, to, Nakodar - Kapurthala Road, PO, Kala Sanghian",
+      "lat": 31.27493169999999,
+      "lng": 75.43911609999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY9WI3mJcGjkRZC68J-Vkffc",
+      "name": "IndianOil",
+      "address": "Ground Floor, Quadianwala,Ladhewali, near Govt School, Jalandhar",
+      "lat": 31.25153,
+      "lng": 75.576912,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUegyQG1HGjkRWvSxmF2I_ws",
+      "name": "Balaji Auto Fuels",
+      "address": "7C4J+Q4R, Kapurthala",
+      "lat": 31.2569782,
+      "lng": 75.4302641,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB4Mwc95aGjkRatCQvlEFkTc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Kala Singha Road, Basti Sheikh, Jalandhar",
+      "lat": 31.310621,
+      "lng": 75.54946100000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzeUZ3HtbGjkRZBb1cKX4ALQ",
+      "name": "RAJ FILLING STATION BHARAT PETROLEUM",
+      "address": "7H9P+PJX, Village, Pholriwal Road, Jalandhar",
+      "lat": 31.2693682,
+      "lng": 75.58660909999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJpSITBqJbGjkR43f4pK-jNEs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Phase 2, Mithapur Road, Jalandhar",
+      "lat": 31.286961,
+      "lng": 75.580711,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkXn0HZZbGjkRYiXTq46NgmM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near Urban Estate, Dairy Complex Urban Estate 2, Mithapur, near Urban Estate, Road, Jalandhar",
+      "lat": 31.3004583,
+      "lng": 75.58050229999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVUODjqlbGjkROcKMVsmpC78",
+      "name": "Petrol Pump",
+      "address": "716, Model Town, Jalandhar",
+      "lat": 31.3024503,
+      "lng": 75.5760857,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJn8VZucxbGjkR0FOhr-2tbBE",
+      "name": "IndianOil",
+      "address": "Ground Floor, BSF Chowk, Jalandhar",
+      "lat": 31.310806,
+      "lng": 75.604439,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJ912SjNaGjkRruw5Is_1YVU",
+      "name": "IndianOil",
+      "address": "BSF Chowk, Rail Cross, Jalandhar",
+      "lat": 31.311638,
+      "lng": 75.603127,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ0nQKExaGjkRmcfUXlZhcRY",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Narinder Palace, Jawahar Nagar, Jalandhar",
+      "lat": 31.315575,
+      "lng": 75.589691,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnWBArVdaGjkRBSfBV7YqKqs",
+      "name": "Petrol Pump",
+      "address": "291-B, Mahavir Marg, Guru Nanak Chowk, Shastri Nagar, Lajpat Nagar, Jalandhar",
+      "lat": 31.3170796,
+      "lng": 75.576523,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTzj2LTRaGjkRBOl7JVGib4Y",
+      "name": "IndianOil",
+      "address": "Ground Floor, Ladowali Road, Fentonganj, Jalandhar",
+      "lat": 31.31638899999999,
+      "lng": 75.600792,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ49i4QPdaGjkR96kvFdQtXu4",
+      "name": "IndianOil",
+      "address": "Ground Floor, opposite TV Station, Ring Road, Jalandhar",
+      "lat": 31.3205479,
+      "lng": 75.569393,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqbn7hHpZGjkRGOmBqa5Pnw4",
+      "name": "IndianOil",
+      "address": "Grand Trunk Road, Jalandhar Cantt, Jalandhar",
+      "lat": 31.3059662,
+      "lng": 75.63200979999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJI5guYMFaGjkRaPfSk1aNUug",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Babu Jagjivan Ram Chowk, 120 Feet Road, Basti Sheikh, Jalandhar",
+      "lat": 31.322001,
+      "lng": 75.54675010000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq2-tiURaGjkRI9j4rKe2giA",
+      "name": "IndianOil",
+      "address": "near Daily Ajit Office, Nehru Garden Road, Central Town, Jalandhar",
+      "lat": 31.325945,
+      "lng": 75.588737,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHdNkkZBbGjkRDQKDIBgvVWA",
+      "name": "HP Petrol Pump - Harkirat Filling Station",
+      "address": "Pholriwal Road, 66 Feet Road, Mithapur, Jalandhar",
+      "lat": 31.279899,
+      "lng": 75.58694799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg-mEIMNbGjkRVRI3FBIqyus",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Pholriwal Road, Mithapur, Jalandhar",
+      "lat": 31.27990789999999,
+      "lng": 75.58697819999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJD5WOEABdGjkRnL82Dv0n2i0",
+      "name": "Petrol Pump Bharat petroleum",
+      "address": "Dhina",
+      "lat": 31.2582074,
+      "lng": 75.6119712,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJLfGFDxtcGjkRAT-b1epnqyY",
+      "name": "IndianOil",
+      "address": "Ground Floor, Jalandhar Cantt - Jandiala Road, Bazar Shahidan, Jamsher",
+      "lat": 31.2545188,
+      "lng": 75.6127599,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYasQ9n1dGjkRhNmQXSLAwPQ",
+      "name": "HANDA FILLING STATION",
+      "address": "7J38+MP8, Byepass from pragpur towards, Jamsher",
+      "lat": 31.2541734,
+      "lng": 75.61684319999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrfbyc-tbGjkRmhtb6LCMpLE",
+      "name": "Bharat Petroleum, Petrol Pump -Savrupson Petro Point",
+      "address": "JALANDHAR CITY,JALANDHAR, Jalandhar",
+      "lat": 31.2943906,
+      "lng": 75.5789527,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJt9Od0oBfGjkRjtMOTf7-FlA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Jalandhar Cantt - Jandiala Road, Jamsher",
+      "lat": 31.2598554,
+      "lng": 75.6220645,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJV6kuegBbGjkRmWAgOuXkiGc",
+      "name": "KSP",
+      "address": "7JG8+3WW, Jalandhar Cantt, Jalandhar",
+      "lat": 31.2752426,
+      "lng": 75.6173274,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJORsnYxVfGjkRvMeJEEWT75A",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sansarpur, Jalandhar",
+      "lat": 31.2633431,
+      "lng": 75.6244124,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLy2-aQBbGjkRspiDKNWPk5M",
+      "name": "Indian Oil",
+      "address": "301, Green Avenue, Dada Nagar, Model Town, Jalandhar",
+      "lat": 31.298035,
+      "lng": 75.57919710000002,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJEQc4p2ZbGjkRGnRTRK17ry8",
+      "name": "IndianOil",
+      "address": "Ground Floor, Urban Estate, Jalandhar",
+      "lat": 31.29752899999999,
+      "lng": 75.58934099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbwcEhCtcGjkRz7l7v_z0bmQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Jalandhar Cantt - Jandiala Road, Jamsher",
+      "lat": 31.2265802,
+      "lng": 75.61537659999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJofTLPbhbGjkR6c62xo9Pm28",
+      "name": "Amrit Service Centre (PETROL PUMP)",
+      "address": "105, Garha Road, Garha, Jalandhar",
+      "lat": 31.29858999999999,
+      "lng": 75.595877,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbdaBOwBdGjkR0tpYgrsNluA",
+      "name": "MARUTI FILLING STATION",
+      "address": "6J87+QH, Diwali",
+      "lat": 31.2168838,
+      "lng": 75.6139398,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaQj1ZFpbGjkRu9MB5Mb-t98",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gururavi Dass Ngr, Plot No 10, Ngr Rd, Guru Teg Bahadur Nagar, Jalandhar",
+      "lat": 31.3074971,
+      "lng": 75.5679275,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_ecOMd1bGjkRGLWw3LNTru4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Shri Guru Ravidass Chowk, Nakodar Road, Jalandhar",
+      "lat": 31.309807,
+      "lng": 75.566315,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeWFA8DFbGjkRc4CSoL5yrXw",
+      "name": "Bharat Petroleum, Petrol Pump -Bindra Fuel Point",
+      "address": "NAKODAR ROAD JALANDHAR, Jalandhar",
+      "lat": 31.31145549999999,
+      "lng": 75.56802350000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDRuth8hbGjkRMbJSxoQO0d0",
+      "name": "Bharat Petroleum, Petrol Pump -United Service Station",
+      "address": "LAJPAT NAGAR,JALANDHAR, Jalandhar",
+      "lat": 31.3126863,
+      "lng": 75.59451829999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJu0c5Q_laGjkRUvcCJAT-KJA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Nari Niketan Road, Jalandhar - Nakodar Road, Basti Sheikh, Jalandhar",
+      "lat": 31.3146201,
+      "lng": 75.5691501,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL30L4s_1GjkRnwE-t9UTAGU",
+      "name": "IndianOil",
+      "address": "Ground Floor, near BSF Chowk, Grand Trunk Road, Phagwara",
+      "lat": 31.3108088,
+      "lng": 75.604382,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJN8gpNeRaGjkRJDTVfXNsXtA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Model House Road, Basti Sheikh, Jalandhar",
+      "lat": 31.314901,
+      "lng": 75.55800099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZzX7nNJbGjkRSvBTdnTkb2o",
+      "name": "IndianOil",
+      "address": "Ground Floor, Pap Chowk, Jalandhar",
+      "lat": 31.31035100000001,
+      "lng": 75.609596,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjT3NjNJbGjkRlrNqztE2nIk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Pap Lines, Grand Trunk Road, Jalandhar",
+      "lat": 31.310351,
+      "lng": 75.610731,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjbgiTVlaGjkRyyDc6eH3SB0",
+      "name": "Bharat Petroleum, Petrol Pump -Shamsher Singh Sehgal & Sons",
+      "address": "BMC CHOWK,JALANDHAR CITY, Jalandhar",
+      "lat": 31.3183005,
+      "lng": 75.58445859999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ____71laGjkRA94avfFOVc8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, GT Road, Near BMC Chowk, Jalandhar",
+      "lat": 31.320311,
+      "lng": 75.58339099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMQpuTUJbGjkR9KImKCxiHjE",
+      "name": "IndianOil",
+      "address": "Ground Floor, Ladowali Road, Jalandhar",
+      "lat": 31.31883119999999,
+      "lng": 75.59747209999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeyL6yulaGjkReaGdiHJLT_M",
+      "name": "Parkash Petroleum",
+      "address": "8H92+XWJ, Gobind Nagar Extention, Jalandhar",
+      "lat": 31.3199569,
+      "lng": 75.55227339999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ7_7M0sVbGjkR7t96qPZdSVM",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Babrik Chowk, Basti Sheikh, Jalandhar",
+      "lat": 31.3198588,
+      "lng": 75.55154759999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl8tarsNaGjkRtJo10fs2Aos",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Babu Jagjivan Ram Chowk, Basti Sheikh Road, Jalandhar",
+      "lat": 31.3198709,
+      "lng": 75.5477482,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJI7XFJc5eGjkRrATQb08PUio",
+      "name": "IndianOil",
+      "address": "Ground Floor Jalandhar Cantt, Kukkarpind, Rd, Khusropur, Jalandhar",
+      "lat": 31.26514099999999,
+      "lng": 75.655459,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHxbKfxpbGjkRbrwnzRcOB84",
+      "name": "Sunshine Fuel Station",
+      "address": "8HFP+P63, Nehru Garden Road, Jalandhar",
+      "lat": 31.3242539,
+      "lng": 75.5855413,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIekjvQpbGjkRTyG-GbvgbjQ",
+      "name": "Bharat Petroleum, Petrol Pump -Bindra Petro Point",
+      "address": "BASTI ADDA,JALANDHAR, Jalandhar",
+      "lat": 31.325853,
+      "lng": 75.57649769999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzdZzJiNZGjkRp9nEKXaZ0sQ",
+      "name": "IndianOil",
+      "address": "No 222/5, Grand Trunk Road, Paragpur",
+      "lat": 31.291987,
+      "lng": 75.656452,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJyzR6U9ZYGjkRDM4hkAsej0c",
+      "name": "IndianOil",
+      "address": "Ground Floor, Paragpur",
+      "lat": 31.282467,
+      "lng": 75.669792,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1bdwS09fGjkRnaY_TG6KYyU",
+      "name": "IndianOil",
+      "address": "Ground Floor, Semi, Jaland, Khajurla",
+      "lat": 31.2896645,
+      "lng": 75.68558340000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQ-cHLy9aGjkRwf1941BxKS0",
+      "name": "IndianOil",
+      "address": "NH 1, Amritsar Bypass Road, Chugitti, Jalandhar",
+      "lat": 31.32180099999999,
+      "lng": 75.614403,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ38tBueBZGjkREZUILEKuwGs",
+      "name": "Bharat Petroleum Petrol Pump , COL KULWANT SINGH FILLLING STATION",
+      "address": "DEEPANAGRNEAR VILLAGE PARAGPUR, Jalandhar",
+      "lat": 31.2834895,
+      "lng": 75.6588677,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ98VwBaFZGjkRRYsgHyOLlKY",
+      "name": "IndianOil",
+      "address": "No 367/389 GT Road, Kot Kalan, Kukar Pind",
+      "lat": 31.283848,
+      "lng": 75.66727399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnzKkHCNZGjkRLlzPhVmjBVo",
+      "name": "IndianOil",
+      "address": "Ground Floor, GT Road Khajurla, Road, Banga",
+      "lat": 31.27884499999999,
+      "lng": 75.67540009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2TDBr0hfGjkRh5i623-7ZkU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Jalandhar Ludhiana, Chaheru Road, Phagwara",
+      "lat": 31.266831,
+      "lng": 75.695741,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJX9y_CnJZGjkRjcftX12C3bQ",
+      "name": "IndianOil",
+      "address": "Mile Stone No 364 Phagwara, Road, Chaheru",
+      "lat": 31.26728839999999,
+      "lng": 75.6965689,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9fOQEABfGjkRZOZsr2lGQLE",
+      "name": "Jalandhar, Phagwara",
+      "address": "7P82+PWR, Jalandhar",
+      "lat": 31.26686950000001,
+      "lng": 75.70225669999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ_W_xr0tfGjkR1UmDZl0t2Ww",
+      "name": "Leo filling",
+      "address": "Phagwada, Jalandhar",
+      "lat": 31.26196989999999,
+      "lng": 75.7075153,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJXR9EhStZGjkRN7uuAqtDoGw",
+      "name": "S K Filling Station",
+      "address": "Sansarpur Dhina, Road, Jalandhar",
+      "lat": 31.31116179999999,
+      "lng": 75.6392803,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJO9ZlxQFZGjkRbD9D5uiZW2A",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Rehana Jattan, Road, Dhilwan, Talhan",
+      "lat": 31.3152938,
+      "lng": 75.6665158,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXQGYwVhZGjkREhpM1HYwCVU",
+      "name": "Harman Gas Service",
+      "address": "56, Street No-1, New Dashmesh Nagar, Rama Mandi, Jalandhar",
+      "lat": 31.31900589999999,
+      "lng": 75.6355518,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPySvfQZaGjkRy-aG-eKxleo",
+      "name": "IndianOil",
+      "address": "Hoshiarpur Road, Cantonment, Rama Mandi, Jalandhar",
+      "lat": 31.3190443,
+      "lng": 75.6318072,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJp32g0C5aGjkReTXb3CDLix0",
+      "name": "D K MOTOR",
+      "address": "8JC7+7M4, Chogiti Bypass, Jalandhar Bypass Road, Guru Nanak Pura East, Avtar Nagar, Rail Vihar, Jalandhar",
+      "lat": 31.3206368,
+      "lng": 75.6141937,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7XY9XV9FGjkR7pW3xRx1RYM",
+      "name": "IndianOil",
+      "address": "Kapurthala Road, Wariana",
+      "lat": 31.34504299999999,
+      "lng": 75.50885099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQ-aGaYpPGjkREgkFTvH5h74",
+      "name": "Mand Filling Station - Bharat Petroleum Corporation Limited",
+      "address": "Kapurthala - Jalandhar Road, Mand, Jalandhar",
+      "lat": 31.3461234,
+      "lng": 75.5003516,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_8oWSr9aGjkRGu04jnmfOb0",
+      "name": "IndianOil",
+      "address": "120 Feet Road, Mithu Basti, Jalandhar",
+      "lat": 31.328636,
+      "lng": 75.545609,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmcRMR4VaGjkRdWsvS-u68tA",
+      "name": "IndianOil",
+      "address": "Ground Floor, GT Road, Near HMV College, Jalandhar",
+      "lat": 31.3421715,
+      "lng": 75.5637897,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJR-eF8otaGjkRVsld_KAbcKU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, GT Road, Near Patel Chowk, Jalandhar",
+      "lat": 31.334391,
+      "lng": 75.568991,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL9lDtfRaGjkRYARIbmGunno",
+      "name": "Bharat Petroleum",
+      "address": "8HJ9+3W4, GT Road, Adda Bastian, Hamidpura, Jalandhar",
+      "lat": 31.3301345,
+      "lng": 75.5698134,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJRfFeF6hbGjkRNPtHTzKGBSA",
+      "name": "Bharat Petroleum, Petrol Pump -Sterling Filling Station",
+      "address": "Gazi Gulla Road, MOHALLA GAZIGULLA, Jalandhar",
+      "lat": 31.342028,
+      "lng": 75.5729257,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPUkdjHpQGjkRtoLSwzSL6rs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 1, Grand Trunk Road, Guru Amar Dass Nagar, Jalandhar",
+      "lat": 31.3606824,
+      "lng": 75.5637004,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_1dAjn9QGjkRe9X6wi27F4w",
+      "name": "IndianOil",
+      "address": "No 30, Patel Chowk, Industrial Area, Jalandhar",
+      "lat": 31.3532711,
+      "lng": 75.57227259999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs2kTnntQGjkR59WKDPH414c",
+      "name": "Bharat Petroleum",
+      "address": "1A, Hill View Colony, Kalia Colony, Jalandhar",
+      "lat": 31.3606136,
+      "lng": 75.56726929999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0-vTx2daGjkR3RCjjLH9L7Y",
+      "name": "IndianOil",
+      "address": "169, Old Railway Road, Dhan Road, Jalandhar",
+      "lat": 31.3359196,
+      "lng": 75.5836029,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH7qj_kJaGjkRyw1KAe4afV0",
+      "name": "Indian Oil - Sansari Mal Subash Chander",
+      "address": "50, Mandi Fenton Ganj, Gobind Garh, Fentonganj, Jalandhar",
+      "lat": 31.329815,
+      "lng": 75.588465,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM-OBZQBbGjkRVoOJNDkj0bI",
+      "name": "NRO Basti Bawa Khel",
+      "address": "8GQH+XRP, Basti Bawa Khel, Jalandhar",
+      "lat": 31.3399653,
+      "lng": 75.5295768,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJAW2jOQBbGjkRG_N6f0wW304",
+      "name": "BPCL Krishna Filling Station",
+      "address": "8GQH+XRQ, Basti Bawa Khel, Jalandhar",
+      "lat": 31.3399589,
+      "lng": 75.5296101,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMysU2MFbGjkR3nHyo2BCZ9s",
+      "name": "IndianOil",
+      "address": "Usha Dharam Kanta Complex, Kapurthala Road, Basti Bawa Khel, Jalandhar",
+      "lat": 31.3378481,
+      "lng": 75.5345128,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYeM9Fq5aGjkRCI0ayBUkev0",
+      "name": "Usha Filling Station ,",
+      "address": "8GQM+7R5, Raj Nagar, Basti Bawa Khel, Jalandhar",
+      "lat": 31.33814180000001,
+      "lng": 75.5345971,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBZzF__hbGjkRkPusE8dRNY0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, opposite State Bank of India, Kapurthala Road, Basti Bawa Khel, Jalandhar",
+      "lat": 31.337501,
+      "lng": 75.53826099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJox3Uj5VaGjkRuCzSZafwVA8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Mithu Basti, Arjun Nagar, Jalandhar",
+      "lat": 31.3331826,
+      "lng": 75.5508025,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQaK7YgBbGjkRAMMRGakeZpw",
+      "name": "New petrol pump",
+      "address": "8HM3+8RX, Mithu Basti, Adarsh Nagar, Jalandhar",
+      "lat": 31.3333643,
+      "lng": 75.5545989,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJhQ9rH45aGjkRIq1Fqm5wpl8",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Tagore Hospital, Kapurthala Chowk, Jalandhar",
+      "lat": 31.3363033,
+      "lng": 75.562888,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5RGU0QtbGjkRfLIq7PjvLUQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 193, Jalandhar - Nakodar Road, Near Football Chowk, Adarsh Nagar, Jalandhar",
+      "lat": 31.329501,
+      "lng": 75.564264,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJO2WIcJhbGjkR4RfK18rt_Hg",
+      "name": "Medichem distributor",
+      "address": "Transport Nagar, Harnam Daspura, Jalandhar",
+      "lat": 31.337245,
+      "lng": 75.5668261,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJf40zCWhRGjkRBOQJTpydj88",
+      "name": "Bharat Petroleum, Petrol Pump -Bawa & Company",
+      "address": "MAQSUDAN, JALANDHAR CITY, Jalandhar",
+      "lat": 31.3626343,
+      "lng": 75.5511808,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJK02pyY5aGjkRlOpnDgUCZD0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Patel Chowk, Plot No NN/16, Workshop Chowk Road, Gopal Nagar, Jalandhar",
+      "lat": 31.337251,
+      "lng": 75.567861,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjbgiTVlaGjkRreKXJguP-Xw",
+      "name": "IndianOil",
+      "address": "Ground Floor, Patel Chowk, Jalandhar",
+      "lat": 31.334728,
+      "lng": 75.56899299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJn8V6vXlRGjkR-8J4ITnBk6Q",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Verka Milk Plant, Guru Amar Dass Nagar, Adarsh Nagar, Jalandhar",
+      "lat": 31.3618742,
+      "lng": 75.5604397,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx28qsClRGjkRIl050pc35KE",
+      "name": "IndianOil",
+      "address": "Ground Floor, Amardass Nagar, near Verka Milk Plant, Jalandhar",
+      "lat": 31.3612857,
+      "lng": 75.5623992,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMx2FHppRGjkRWYSiHKtP4XA",
+      "name": "IndianOil",
+      "address": "AH1, Bhagat Singh Colony, Jalandhar",
+      "lat": 31.36032029999999,
+      "lng": 75.5657201,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzx0P_05RGjkRFxLkYD4f3Xo",
+      "name": "Bharat Petroleum, Petrol Pump -Dharam Filling Station A/C Bye Pass",
+      "address": "G.T.ROAD,JALANDHAR CITY, Jalandhar",
+      "lat": 31.3605959,
+      "lng": 75.5672147,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJw8M0NEhPGjkR7FTdhHuihqQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Kapurthala - Jalandhar Road, Kapurthala",
+      "lat": 31.359251,
+      "lng": 75.442951,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxezF_i5QGjkRpY_jAc-QDKg",
+      "name": "IndianOil",
+      "address": "Grand Trunk Road, Suranussi, Jalandhar",
+      "lat": 31.385431,
+      "lng": 75.535934,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDTnyBnxaGjkRoicmnv4g9vo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near JMP Chowk, Sodal Road, Industrial Area, Jalandhar",
+      "lat": 31.34762099999999,
+      "lng": 75.58007099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJd2fTh0NbGjkRUkNXJ3khY48",
+      "name": "MLA AVTAR HENRY (PUNJAB) Jalandhar ADMINISTRATION OFFICE",
+      "address": "Unnamed Road, Bhai Ditt Singh Nagar, Dhan Mohalla, Jalandhar",
+      "lat": 31.3344472,
+      "lng": 75.5847749,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJs83V4Z1QGjkRLNRW2rtATrA",
+      "name": "IndianOil",
+      "address": "Service Road, Div Colony, Sarabha Nagar, Jalandhar",
+      "lat": 31.3584478,
+      "lng": 75.59315769999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJE00v321aGjkRMr34zQFRDzc",
+      "name": "Bharat Petro Point",
+      "address": "Hoshiarpur Road, Prithvi Nagar, Kishanpura, Jalandhar",
+      "lat": 31.3422111,
+      "lng": 75.5918679,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ2gvbphQGjkRJH2pVMoyZcE",
+      "name": "Bharat Petroleum",
+      "address": "National Highway, 1A, Nurpur",
+      "lat": 31.364981,
+      "lng": 75.596773,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJE10XZr5QGjkRyicresf_3ts",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Pathankot - Jalandhar Road, Nurpur",
+      "lat": 31.373921,
+      "lng": 75.599761,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJk5oHVOZZGjkRjwgUOkaFl94",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Hoshiarpur Road, Jalandhar",
+      "lat": 31.352071,
+      "lng": 75.64101099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKdjLHFZbGjkRJ3jAIIVznhM",
+      "name": "M/s Aggarwal Enterprises",
+      "address": "8HMP+MF7, Dhan Mohalla, Jalandhar",
+      "lat": 31.334158,
+      "lng": 75.5861816,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJC9tLmHBaGjkReA4U1jQcS80",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Tanda Road, Near Doaba Chowk, Jalandhar",
+      "lat": 31.347351,
+      "lng": 75.586511,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnYiagnJaGjkRCAMCHDzHaBQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "opposite Metro Hospital, Ground Floor, Hoshiarpur Road Kishanpura Chowk Road, opposite Metro Hospital, Chowk, Lamba Pind, Jalandhar",
+      "lat": 31.344277,
+      "lng": 75.595238,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcyGgeG1XGjkRj0gJ7V18auc",
+      "name": "IndianOil",
+      "address": "PH No 700234455434, Hoshiarpur Road, Jandu Singha",
+      "lat": 31.38187799999999,
+      "lng": 75.655273,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5_c_hkdZGjkRs0z1vvuL_kg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Patara Road, Bolina",
+      "lat": 31.340678,
+      "lng": 75.649478,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtXbPycBZGjkR5m8jBGvaVng",
+      "name": "Pehalwan Mohindar singh Bolina Filling station",
+      "address": "8JRX+7QR, Patara Road",
+      "lat": 31.3407327,
+      "lng": 75.6493986,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJb0kCkUhZGjkR-H1F1VAZVhc",
+      "name": "Bolina doaba",
+      "address": "8MW3+3M2, Patara Road, Bolina",
+      "lat": 31.34513530000001,
+      "lng": 75.6541364,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJMVhwTABZGjkROy3-VIfQiOM",
+      "name": "Pehalwan Mohindar singh Bolina Filling station",
+      "address": "8MW3+PPJ, Bolina",
+      "lat": 31.3468275,
+      "lng": 75.6542661,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJlw_7bBZZGjkRaSb7viOo4ZM",
+      "name": "Bhagwati Petroleum (bpcl pump)",
+      "address": "8JVG+37R, Suchi Pind, Jalandhar",
+      "lat": 31.34274,
+      "lng": 75.6256466,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmS7aZGlbGjkRMH-is51Og58",
+      "name": "IndianOil",
+      "address": "Ground Floor, opposite Surya Enclave, Grand Trunk Road, Jalandhar",
+      "lat": 31.33137829999999,
+      "lng": 75.61372399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJywWpKx9aGjkRnVng6EZQbR4",
+      "name": "Indian Oil Corporation Limited",
+      "address": "Jalandhar Area Office Indane Area Office, BYE Pass Road, Suchi Pind, Jalandhar",
+      "lat": 31.3370742,
+      "lng": 75.6152911,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVTq8w1dbGjkRI_9JxcRljXI",
+      "name": "K.K. Washing Center",
+      "address": "opposite Akshardhaam Mandir, Grand Trunk Road, Chugitti Bypass, Jalandhar",
+      "lat": 31.3336696,
+      "lng": 75.6130704,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtQv3bhhaGjkRJpjMXGB4h1Y",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 1, Grand Trunk Road, Surya Enclave, Jalandhar",
+      "lat": 31.3358147,
+      "lng": 75.6111073,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJn-r0sANbGjkR3VqabSEKSUI",
+      "name": "Bharat petroleum corporation ltd",
+      "address": "8JV8+V9H, Unnamed Road, Suchi Pind, Jalandhar",
+      "lat": 31.34468019999999,
+      "lng": 75.61598819999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJQzWVfLBbGjkRyBAAmKtUslg",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Lamba Pind, Bypass Road, Lamba Pind, Jalandhar",
+      "lat": 31.337866,
+      "lng": 75.610283,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxy1AzhlaGjkR3Bg93mY8jXE",
+      "name": "Jeevan Petroleum IOC Petrol Pump",
+      "address": "65 SF, Grand Trunk Road, Guru Gobind Singh Avenue, Jalandhar",
+      "lat": 31.3379736,
+      "lng": 75.60998219999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ09bmaIxbGjkRCOKSPM66WcY",
+      "name": "Indian Oil petrol pump (Punjab spirits)",
+      "address": "near lamba pind, Hoshiarpur Road, chowk, Jalandhar",
+      "lat": 31.3522196,
+      "lng": 75.61178070000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJv6qqqq5QGjkRuMlgY6FS0Rk",
+      "name": "Vee Care Point Pollution Check Center",
+      "address": "near Parminder Hospital, Vee Care Point(HP Petrol Pump)Lamba Pind,Jalandhar, near Parminder Hospital, Jalandhar City",
+      "lat": 31.3496839,
+      "lng": 75.607492,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPySvfQZaGjkRJ-4z4fh9NSo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Lambapind, Hoshiarpur Road, Chakhussaina, Jalandhar",
+      "lat": 31.349821,
+      "lng": 75.607331,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFxcfbfZXGjkRZbvt47t_EuQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, Hoshiarpur Road, Jandu Singha",
+      "lat": 31.36976500000001,
+      "lng": 75.643852,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWy5LHBJXGjkR0BFaMG3Metg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Link Road, Jandu Singha",
+      "lat": 31.371167,
+      "lng": 75.66326939999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCUSIrUpJGjkRifUzirkyIB4",
+      "name": "HP PETROL PUMP - AJAY HP FUELS",
+      "address": "Village Dianpind, Kapurthala - Kartarpur Road, Jalandhar",
+      "lat": 31.404675,
+      "lng": 75.4341608,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJi4GMKyZOGjkRYYn4n1hKOTw",
+      "name": "ਇੰਡੀਅਨ ਟੈਂਟ 'ਹਾਊਸ",
+      "address": "CG3F+FQ9, Service Rd",
+      "lat": 31.4036703,
+      "lng": 75.5244955,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJW9d3q4JPGjkRhNJ-dG0nBYI",
+      "name": "IndianOil",
+      "address": "Ground Floor, Jalandhar Amritsar Road, NH1, Bazar Shahidan, Bidhipur",
+      "lat": 31.40337,
+      "lng": 75.525578,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJf0J-fE5PGjkRRqHcLybu5_8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 3, Jalandhar Amritsar Road, Jalandhar",
+      "lat": 31.423454,
+      "lng": 75.510469,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHUmtLgBPGjkRU78mYNWSZ78",
+      "name": "Ibadat filling station bpcl",
+      "address": "CGG6+87J, Kahlwan",
+      "lat": 31.426,
+      "lng": 75.50993299999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJcaN96gBNGjkRxfaqfYL3zU4",
+      "name": "IndianOil",
+      "address": "Grand Trunk Road, Kartarpur",
+      "lat": 31.4262186,
+      "lng": 75.50971559999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBXVbctpNGjkRHVvSIlNAHRo",
+      "name": "IndianOil",
+      "address": "CFQV+H2G, NH-1, Jalandhar to Amritsar Road, Kartarpur",
+      "lat": 31.43971029999999,
+      "lng": 75.4942875,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeyGUTeNNGjkReHWmpE5KeqE",
+      "name": "Shri Gangsar filling Point",
+      "address": "Kishangarh Road, Kartarpur",
+      "lat": 31.4405462,
+      "lng": 75.5158383,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJT77iwttRGjkRF4tr_axp7Nc",
+      "name": "HP Gas Warehouse",
+      "address": "9HP6+G55, Fazilpur",
+      "lat": 31.3862722,
+      "lng": 75.560475,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJK04-EbpNGjkRXs30tkwExRA",
+      "name": "Bharat Petroleum, Petrol Pump -Jagatjit Industries Ltd.",
+      "address": "Jagatjit Industries Limited, Kapurthala",
+      "lat": 31.44213509999999,
+      "lng": 75.49117869999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJN4_KOKJOGjkRw-3MF_mCJCE",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kartarpur Kapurthala Road Bisrampur, Mustafapur, Jalandhar",
+      "lat": 31.42212099999999,
+      "lng": 75.456085,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVZauZKVNGjkR6OxJOKqhv7w",
+      "name": "Bharat Petroleum, Petrol Pump -Sekhri Power Point",
+      "address": "KARTARPUR,JALANDHAR, Jalandhar",
+      "lat": 31.4469082,
+      "lng": 75.48156879999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ82msRV9QGjkRhsNZk1qj5k4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, beside Focal Point, Road, Randhawa Masanda, Mokhe",
+      "lat": 31.38003850000001,
+      "lng": 75.57358169999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQTyY8TZMGjkRi593apLhVVM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Dera Radhey Swami Satsang, Grand Trunk Road, Dialpur",
+      "lat": 31.450383,
+      "lng": 75.47355900000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXU8D5kFJGjkRtjS5uPHy7as",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Kapurthala - Kartarpur Road, Dainwind",
+      "lat": 31.404823,
+      "lng": 75.43423849999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMV22LzhMGjkRqj4bSCWAll8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "ST No 395, NH 1, Kartarpur",
+      "lat": 31.450601,
+      "lng": 75.468801,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJv18d6idNGjkRv01lDnZJuuY",
+      "name": "Jio bp petrol pump",
+      "address": "Jio bp petrol pump, Dialpur",
+      "lat": 31.4524221,
+      "lng": 75.4630932,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJywvTCgBNGjkREypWQNjSJhM",
+      "name": "Reliance",
+      "address": "Jalandhar-2, Dialpur",
+      "lat": 31.4524626,
+      "lng": 75.4630571,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIQp5zIZQGjkR0I-pHHU4Jks",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 1, Grand Trunk Road, Transport Nagar, Jalandhar",
+      "lat": 31.3592669,
+      "lng": 75.5782487,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKcA7JdhQGjkReadChcC-yPs",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 1A, Pathankot - Jalandhar Road, Raipur",
+      "lat": 31.3998523,
+      "lng": 75.6090376,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhyfNQLBRGjkRQsGMIDA60kw",
+      "name": "MIDHA FILLING STATION",
+      "address": "near Hemkunt Public School, Raipur Rasulpur",
+      "lat": 31.3875412,
+      "lng": 75.60450879999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJRfUWudNRGjkRFBSBvlUn28U",
+      "name": "Unique filling station,jalandhar",
+      "address": "Pathankot - Jalandhar Road, Raowali, Jalandhar",
+      "lat": 31.3745268,
+      "lng": 75.6004631,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl32ESQBRGjkRMgdygmKfv9M",
+      "name": "Bharat Petroleum",
+      "address": "9JF2+Q5V, Pathankot - Jalandhar Road, Bulandpur, Jalandhar",
+      "lat": 31.3744779,
+      "lng": 75.6004281,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJHdLEa4VQGjkRltcXTUu1b2s",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Transport Nagar, Jalandhar",
+      "lat": 31.3643331,
+      "lng": 75.5841925,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH8p7FC5RGjkRNNupTxN11vo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Pathankot - Jalandhar Road, Bal",
+      "lat": 31.412381,
+      "lng": 75.613871,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4cPcp9VbGjkRJuNIXxfGLlU",
+      "name": "Puran Sant Petro Point",
+      "address": "Site No. 2, Transport Nagar, Industrial Area, Jalandhar",
+      "lat": 31.359623,
+      "lng": 75.5817869,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2XBSbQBRGjkRaUxsyP1vGEU",
+      "name": "Bharat pump",
+      "address": "1, Transport Nagar, Jalandhar",
+      "lat": 31.3595533,
+      "lng": 75.58140499999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJcRukIFFRGjkRNUzWPn4t0Co",
+      "name": "Shah Service Station",
+      "address": "Dhaliwal",
+      "lat": 31.3571798,
+      "lng": 75.5863019,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ_1OG335RGjkRpkbuGutN7wI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Kartarpur Kishangarh, Road, Rahimpur",
+      "lat": 31.438601,
+      "lng": 75.57717099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDe-1VA1bGjkR59UDDLWBG_A",
+      "name": "Bharat Petroleum",
+      "address": "9H3Q+GX9, Pathankot Road, B D A Enclave, Santokh Pura, Jalandhar",
+      "lat": 31.35379499999999,
+      "lng": 75.58999399999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJX6yYsBFRGjkRgHvu7rsHE1I",
+      "name": "Reliance Petrol Pump, Kishangarh",
+      "address": "CJF8+FM9, Kishangarh",
+      "lat": 31.4236576,
+      "lng": 75.6167348,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg0C-52JbGjkRt_AAILS2Kiw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near KMV Marg, Tanda Road, Reru",
+      "lat": 31.3529329,
+      "lng": 75.5900755,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJf9_MrkxRGjkRaPIedovyAx8",
+      "name": "IndianOil",
+      "address": "Ground Floor, Pathankot - Jalandhar Road, Kishangarh",
+      "lat": 31.43145579999999,
+      "lng": 75.62038240000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdWCnpCdXGjkRwkljDEdhPyU",
+      "name": "IndianOil",
+      "address": "Ground Floor Dhogri, Rd, Alawalpur",
+      "lat": 31.401245,
+      "lng": 75.6381001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJk0OYTzRWGjkRl45lUWxxbmc",
+      "name": "IndianOil",
+      "address": "National Highway 3, Udesian",
+      "lat": 31.4151348,
+      "lng": 75.6942713,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHVfNqDFWGjkR47-xczXr66I",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Jill HSPR Road, Adampur",
+      "lat": 31.419971,
+      "lng": 75.69971100000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJh7Bi2-xWGjkRPzQCLYL9N_8",
+      "name": "IndianOil",
+      "address": "Ground Floor, Alawalpur",
+      "lat": 31.428172,
+      "lng": 75.652101,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJn6mRWklXGjkRRScAHLBekqk",
+      "name": "IndianOil",
+      "address": "Ground Floor, Singha Daroli Kalan Rd Jandu Singha, Budhiana",
+      "lat": 31.368675,
+      "lng": 75.696953,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPxpOZuJVGjkRri_Zot0inxY",
+      "name": "IndianOil",
+      "address": "Ground Floor, Beas Jullundur, Alampur",
+      "lat": 31.455425,
+      "lng": 75.626351,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCb3c7Q5UGjkRqpbBg68B2M8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "KM Stone 17, Ground Floor NH 1A, Beas Pind",
+      "lat": 31.464173,
+      "lng": 75.631002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzxsYHgBXGjkRtUO1-UTUGAE",
+      "name": "RAI PETRO",
+      "address": "CMHP+VJW, Alawalpur Adampur Road, Alawalpur",
+      "lat": 31.4298135,
+      "lng": 75.6879131,
+      "open_now": null
+    }
+  ]
+}

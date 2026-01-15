@@ -1,0 +1,243 @@
+{
+  "city": "Pelling",
+  "state": "Sikkim",
+  "count": 29,
+  "center": {
+    "lat": 27.0167,
+    "lng": 88.3167
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJ__8PN9ox5DkROBkSrDAETWs",
+      "name": "Bharat Petroleum",
+      "address": "X79F+289, Hill Cart Road, Sonada",
+      "lat": 26.9675421,
+      "lng": 88.2733524,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLwx3znsu5DkRhQv8qJILjuU",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Bloomfield, Ghoom",
+      "lat": 27.0131001,
+      "lng": 88.2517001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbesuBrQ85DkRIYL9_AnY3U4",
+      "name": "Suntalay Petrol Pump",
+      "address": "XCC8+CG7, NH 31A, Suntalay, West Bengal, NH 31A, Suntalay",
+      "lat": 26.9709916,
+      "lng": 88.4162368,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6fGLKII95DkR9SMd1N_RHDo",
+      "name": "IndianOil",
+      "address": "Ground Floor, Suntalay NH 31A, Kalimpong, Lohapool, Baikunthpur, Siliguri",
+      "lat": 26.972001,
+      "lng": 88.4163001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpaK1rocu5DkRXiWV04FNjBw",
+      "name": "Dali Petrol Pump",
+      "address": "27F3+JF9, West Point, Darjeeling",
+      "lat": 27.024045,
+      "lng": 88.25373499999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJFaGgxZAv5DkRR-67JqJHXsE",
+      "name": "IndianOil",
+      "address": "near Railway Road, 799, Hill Cart Road, Darjeeling",
+      "lat": 27.0395001,
+      "lng": 88.264001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJu1F4TK0v5DkRTGjmDwpkRJI",
+      "name": "Bharat Petroleum, Petrol Pump -R.N.Agarwala & Son",
+      "address": "Darjeeling",
+      "lat": 27.040023,
+      "lng": 88.2639003,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_0E_Orkv5DkRxgMtC0QSfPw",
+      "name": "Goenka Petrol Pump",
+      "address": "Bidhan Road, Chauk Bazaar, Darjeeling",
+      "lat": 27.0406896,
+      "lng": 88.2639942,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJv_pt-VIv5DkRZBLSZPWRbH8",
+      "name": "AUTO POINT",
+      "address": "RN Sinha Road, Chauk Bazaar, Darjeeling",
+      "lat": 27.0412185,
+      "lng": 88.2644488,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJd-zkESwv5DkRqgTvF1DUFjI",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Motsr Stand, Kanth Road, Kothi Gaon, Darjeeling",
+      "lat": 27.0454001,
+      "lng": 88.2655001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY1wixV0v5DkRncwNrk037-M",
+      "name": "Bharat Petroleum, Petrol Pump -Auto Point",
+      "address": "N.C.GOENKA ROAD DARJEELI, Darjeeling",
+      "lat": 27.0484156,
+      "lng": 88.262951,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsUNWY-Yt5DkRBEZVJ3iYxS8",
+      "name": "Majidhura Petrol Pump",
+      "address": "253C+VMV, Majdhura, Ghoom Pahar Forest",
+      "lat": 27.0047359,
+      "lng": 88.17167409999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJh7VuGwAr5DkRwglOTKBT9S0",
+      "name": "Bijanbari",
+      "address": "36F2+R65, Pulbazar",
+      "lat": 27.0737604,
+      "lng": 88.19980059999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJSzlvTPgj5DkRqDtR81Kdmpo",
+      "name": "IndianOil",
+      "address": "Ground Floor, 6th 1/2 Mile, Rishi Road, 7th Mile, Kalimpong",
+      "lat": 27.062974,
+      "lng": 88.44720219999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ28BCDjYn5DkRPXcQkjzyq5c",
+      "name": "Simbong div",
+      "address": "39J3+M75, Kambal Tea Garden",
+      "lat": 27.0816406,
+      "lng": 88.3532192,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJj9DWpyUo5DkRNCVsiBxjK1Q",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Namchi - Nayabazar Road, Jorethang",
+      "lat": 27.147175,
+      "lng": 88.289457,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJt_dSX7gp5DkR7oq-hzp8w7Q",
+      "name": "IndianOil",
+      "address": "Ground Floor Naya Bazar, Darjeeling - Jorethang Road, km 104, Okharey",
+      "lat": 27.132029,
+      "lng": 88.276215,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM2szlLAp5DkR54Fyu8FTzzY",
+      "name": "Chandra Sales Agency, Bharath Petroleum",
+      "address": "47JG+RJ4, Jorethang",
+      "lat": 27.1320245,
+      "lng": 88.2765731,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKZu3_P4p5DkRxEQai9Kf3S0",
+      "name": "Bharat Petroleum",
+      "address": "47HP+GX5, Jorethang",
+      "lat": 27.129061,
+      "lng": 88.287297,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ9UXMS4cp5DkR8H4YWWs8gWs",
+      "name": "Bharat Petroleum Petrol Pump , HILL SHIP FUELS",
+      "address": "PIPELEYLLEGSHIP ROAD",
+      "lat": 27.146875,
+      "lng": 88.27976819999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhfMa5kMn5DkRO8dkN7FfVAo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Jorethang, Melli - Nayabazar Road, Namchi, Manpur",
+      "lat": 27.1089047,
+      "lng": 88.3245768,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJueUjWcMp5DkR5CrSajyqqzY",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bharikhola,Okharey",
+      "lat": 27.12123,
+      "lng": 88.32036000000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg5rQ3Okn5DkRgu-v7fSP65A",
+      "name": "IndianOil",
+      "address": "Ground Floor, Mickhola, Namchi",
+      "lat": 27.141572,
+      "lng": 88.34678699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRQxDYZAh5DkRU_CXFZnEKR8",
+      "name": "Hindustan Petroleum",
+      "address": "NH-31A, Melli - Nayabazar Road, Melli",
+      "lat": 27.085336,
+      "lng": 88.451033,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJD7BL7Joh5DkRSMnR8xIgyvU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Road, Melli",
+      "lat": 27.0843402,
+      "lng": 88.4486991,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJD7ob8JAh5DkRBVFA2V55E1U",
+      "name": "IndianOil",
+      "address": "East Sikkim, Ground Floor Melli,Gangtok Bazar, Near Sikkim Check Post",
+      "lat": 27.08625799999999,
+      "lng": 88.45188600000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTSKLSAAj5DkRmAbLbo6NqeY",
+      "name": "BISHWA KIRAN FUELS 6TH MILE PETROL KALIMPONG",
+      "address": "3C8X+3X6, Kalimpong",
+      "lat": 27.0651718,
+      "lng": 88.4498978,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ-b8ughQj5DkRLrD8rInGuB0",
+      "name": "Bharat Petroleum, Petrol Pump -Ratiram Banshilal",
+      "address": "KALIMPONG, Darjeeling",
+      "lat": 27.0651291,
+      "lng": 88.4498991,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJV4rW-xgi5DkR6HZKcC9HkLc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Lower Bridle Road, Kalimpong",
+      "lat": 27.062638,
+      "lng": 88.46163399999999,
+      "open_now": true
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+
+model Place {
+  id         String   @id @default(uuid())
+  name       String
+  type       PlaceType
+  latitude   Float
+  longitude  Float
+
+  address    String?
+  city       String?
+  state      String?
+  country    String   @default("India")
+
+  externalId String?  @unique
+  source     String
+  isActive   Boolean  @default(true)
+
+  categories PlaceCategory[] @relation("PlaceCategories")
+
+  createdAt  DateTime @default(now())
+  updatedAt  DateTime @updatedAt
+
+  @@index([latitude, longitude])
+  @@index([city, state])
+}
+
+enum PlaceType {
+  PETROL_PUMP
+  EV_CHARGER
+  HOSPITAL
+  TOILET
+  ATM
+  PARKING
+  RESTAURANT
+  CAFE
+  HOTEL
+  POLICE
+  FIRE_STATION
+  OTHER
+}
+
+model PlaceCategory {
+  id          String   @id @default(uuid())
+  slug        String   @unique
+  displayName String
+  places      Place[] @relation("PlaceCategories")
+}
+
+model DataSyncLog {
+  id         String   @id @default(uuid())
+  source     String
+  entityType String
+  status     String
+  message    String?
+  startedAt  DateTime
+  finishedAt DateTime?
+}
+

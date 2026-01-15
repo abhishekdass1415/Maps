@@ -1,0 +1,1747 @@
+{
+  "city": "Rajkot",
+  "state": "Gujarat",
+  "count": 217,
+  "center": {
+    "lat": 22.3039,
+    "lng": 70.8022
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJXy7mHcvLWTkRTSOrmkhii0s",
+      "name": "Bharat Petroleum",
+      "address": "Kalawad Road, Vrindavan Society, Nana Mava, Rajkot",
+      "lat": 22.2782735,
+      "lng": 70.762579,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJb0QJMcvLWTkRvf_rP_G61Oo",
+      "name": "Shell",
+      "address": "Kalawad Road, Vrindavan Society, Rajkot",
+      "lat": 22.2793346,
+      "lng": 70.763922,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSXShczPKWTkRhS0gAuHCciA",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kalawad Road, Rajkot",
+      "lat": 22.282818,
+      "lng": 70.766853,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlRNKhdLLWTkRZ9STGOtge9M",
+      "name": "HP Petrol Pump",
+      "address": "University Road, Panchayat Nagar, Rajkot",
+      "lat": 22.2875813,
+      "lng": 70.7621502,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJX_Jko2nKWTkRuIH-AIqwhXA",
+      "name": "Suryavandana transport Bharat Petrol pump",
+      "address": "Street No.1, Mavdi Main Road, Mavadi Industrial Area, Chandreshnagar, Rajkot",
+      "lat": 22.2713284,
+      "lng": 70.79057019999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJh1dZPorLWTkRzXH_2IwAigo",
+      "name": "BPCL Fuel Station",
+      "address": "Rajkot",
+      "lat": 22.2384126,
+      "lng": 70.7596664,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbeoe4CbLWTkR3cGj-pYE8bs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Lodhika Road, Pal",
+      "lat": 22.222151,
+      "lng": 70.761641,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNwt1UZbLWTkREzuZnljpbPA",
+      "name": "TILALA CNG ONLINE",
+      "address": "Pal",
+      "lat": 22.228282,
+      "lng": 70.7647405,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJG4EcLwDLWTkR6oQ244JylbE",
+      "name": "TILALA PETROLEUM",
+      "address": "2nd Ring Road, Pal",
+      "lat": 22.2263592,
+      "lng": 70.7658902,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJozmNb9LLWTkRWbinrGaiDV4",
+      "name": "I KHODAL PETROLEUM",
+      "address": "Village Pal Mavdi Ravki, Road, Rajkot",
+      "lat": 22.2098496,
+      "lng": 70.7557601,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJyXVp80jLWTkRXBZbrXxBWaw",
+      "name": "Balaji Petro Club",
+      "address": "2, near Balaji Petro Club, C/O, Mavdi Main Road, Rajkot",
+      "lat": 22.2369425,
+      "lng": 70.7672679,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWRLwZqVJxzsR6ll6LJcA9rM",
+      "name": "IndianOil",
+      "address": "Survey No 138, Mota Mava, Rajkot",
+      "lat": 22.2604638,
+      "lng": 70.7535497,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8Q1rtpw1WDkRU1JsyIsCGtg",
+      "name": "Shree radhe petroleum",
+      "address": "6P2M+4R5, Mavdi Main Road, Ravki",
+      "lat": 22.2003125,
+      "lng": 70.7338125,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5St2j_jLWTkRmcZk8vPlDy4",
+      "name": "Bharat Petroleum, Petrol Pump -BP-Rajkot",
+      "address": "KALAWAD ROAD RAJKOT NR RAN, Rajkot",
+      "lat": 22.2671562,
+      "lng": 70.7240518,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJE30fEADLWTkRH7amH5Mf9M8",
+      "name": "Bharat Petrolium",
+      "address": "7Q37+H65, Rajkot",
+      "lat": 22.2538769,
+      "lng": 70.7631099,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ2ciYSHDMWTkRJXD62J1iA1Y",
+      "name": "IndianOil",
+      "address": "Ground Floor, Vajdi Virda, SH 23, Kalawad Road, Kankot, Rajkot",
+      "lat": 22.2588356,
+      "lng": 70.7043115,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJN2QqwTvLWTkRGTKbyrAzmt4",
+      "name": "Centria Fuels",
+      "address": "near Saraza, Kalawad Road, Rajkot",
+      "lat": 22.2699434,
+      "lng": 70.741686,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-UIvhoXLWTkRfQeycvDjtc4",
+      "name": "Nayara Petrol Pump - L and D Energy",
+      "address": "S. No. 27, Survey No. 343/1 Paiki, Plot No. 85 to 90, T.P, F.P. No. 16 O.P. No. 16, Mavdi, Rajkot",
+      "lat": 22.2470264,
+      "lng": 70.7704778,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrcTGfQDLWTkRZiBdvmVAToM",
+      "name": "Gujarat Gas CNG Station",
+      "address": "Mavdi Plaza, near Sarvodaya School, 203, 80 Feet Road, Mavdi, Rajkot",
+      "lat": 22.2459052,
+      "lng": 70.7720176,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJx2wHiv_LWTkRy3YMwNLJg2A",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Plot No 52, Pal Road, Mavdi, Rajkot",
+      "lat": 22.2464498,
+      "lng": 70.7724662,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-zV2qZbLWTkRt1FjMiTq7jY",
+      "name": "JK Energy",
+      "address": "near Jay Khodiyar Farm, 2nd Ring Road, Lodhika, Pal",
+      "lat": 22.2152666,
+      "lng": 70.7700029,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcU2Nm_7LWTkRd3lp8RzckH8",
+      "name": "B & H FUELS AND LOGISTICS",
+      "address": "Oppo Kathiyavadi Jalsa, Kalawad Road, Nana Mava, Rajkot",
+      "lat": 22.2736457,
+      "lng": 70.75185119999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ56HfVqVA_xMRrnG0PDnlr4s",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, SH 23, Rajkot Jamnagar Highway, Vajdi",
+      "lat": 22.2497201,
+      "lng": 70.6835901,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJb_CfhI3LWTkRQMA030CEAjU",
+      "name": "MAA petrochem",
+      "address": "202, Nana Mava Road, Satyam Park, Shastri Nagar, Rajkot",
+      "lat": 22.2708211,
+      "lng": 70.766424,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIcwDw1DMWTkRe5GLWGEjs0I",
+      "name": "Gohil Raj Petroleum",
+      "address": "VAJDI, NR GIDC, Metoda, Rajkot",
+      "lat": 22.24926409999999,
+      "lng": 70.67909259999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhZ0Pw1vKWTkR-dqoz5fi7hk",
+      "name": "EAGLE MOTORS",
+      "address": "India",
+      "lat": 22.261282,
+      "lng": 70.7805408,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJj-RdDUHLWTkROVqIS7XFDF0",
+      "name": "Nayara Petrol Pump - Narendra Petroleum",
+      "address": "Nana Mava Road, Rajkot",
+      "lat": 22.2719228,
+      "lng": 70.77126799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWXY_5NfLWTkRCcy4BORlr1w",
+      "name": "Vavdi Fuels",
+      "address": "opposite Tapan Hights, 80 Feet Road, Rajkot",
+      "lat": 22.2414043,
+      "lng": 70.7893251,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJa-XF4gbLWTkR8BnODxfgHrk",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Rani Tower, Kalawad Road, Rajkot",
+      "lat": 22.2790185,
+      "lng": 70.76364319999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwwJeXU3LWTkReIXiS-A4nhM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 54/P/2, Survey, Vavdi, Rajkot",
+      "lat": 22.2405316,
+      "lng": 70.78982959999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP3xi-Do1WDkRfPe_tM4NuMA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Rs No 13 Kansiyali, Road, Dholra",
+      "lat": 22.1996238,
+      "lng": 70.7776232,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5w8gR0XNWTkRFxxIYYHSXTQ",
+      "name": "Reliance Gas (Prabhu Gas Agency)",
+      "address": "opp. Sahyog complex, 20, Kalawad Road, GIDC, Lodhika, Metoda, Rajkot",
+      "lat": 22.2443218,
+      "lng": 70.6743295,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJjZJjlkTKWTkRHSz3ugL1ZsE",
+      "name": "GS Caltex",
+      "address": "India",
+      "lat": 22.267813,
+      "lng": 70.7812118,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJNZtccQDLWTkRH_hwNTA-MJU",
+      "name": "Pumping",
+      "address": "7PRJ+7Q7, Rajkot",
+      "lat": 22.2906717,
+      "lng": 70.7319117,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJDS0t-yjLWTkRH6GMqfewH1s",
+      "name": "Nayara Petrol Pump- Amrut Petroleum",
+      "address": "150 Feet Road, Umiya Chowk, Shastri Nagar, Dharam Nagar, Rajkot",
+      "lat": 22.261785,
+      "lng": 70.7862908,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJld5Ox6HLWTkRYtx_fXxAPFY",
+      "name": "Shell Petrol Station",
+      "address": "opp. Hotel Fortune Park, 150 Feet Ring Road, Mavdi, Rajkot",
+      "lat": 22.2578647,
+      "lng": 70.78885249999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJISxM_MTLWTkRyY0TEWEycRw",
+      "name": "Siyansh Petrolium",
+      "address": "B 1, Corner, Sadhu Vasvani Road, Rajkot",
+      "lat": 22.2838185,
+      "lng": 70.7639014,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJy68C0I7LWTkR4ms1imfIxZs",
+      "name": "IndianOil",
+      "address": "150 Feet Ring Road, Nana Mava, Rajkot",
+      "lat": 22.2723,
+      "lng": 70.78009999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnUxvt_PLWTkRT4RDs5fbzU4",
+      "name": "MSHSD HP Auto Centre RMC2 Petrol Pump - HP Petrol Pump",
+      "address": "Circle, 150 Feet Ring Road, Nana Mava, Rajkot",
+      "lat": 22.2771703,
+      "lng": 70.7778206,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfUImzdjLWTkRnoISamst8Mw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Plot No 4, 150 Feet Ring Road, Rajkot",
+      "lat": 22.277249,
+      "lng": 70.7778817,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJw5O60fzLWTkRw2XoVzEDn4c",
+      "name": "Radhe fuel (nayra petrol pump)",
+      "address": "6Q7V+CVW, near RADHE FUEL (NYARA PETROL PUMP, Punit Nagar Road, Punit Nagar, Mavdi, Rajkot",
+      "lat": 22.2136182,
+      "lng": 70.7947025,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXaBt1j7LWTkRIE3HlqD7Ks4",
+      "name": "Shiv Petrochem",
+      "address": "On 150 FT Ring Road, Opp. BRTS bus stand, Gondal Chowkdi, Rajkot",
+      "lat": 22.2434639,
+      "lng": 70.7990037,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZUTk8v7JWTkRKJmjTlhxtUk",
+      "name": "SATADHAR PETROLEUM-BPCL. CNG PUMP ONLINE",
+      "address": "new 150ft ring road",
+      "lat": 22.2964576,
+      "lng": 70.7282602,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTealXIQ1WDkRCtLBoX3zC5k",
+      "name": "POOJA PETROLEUM",
+      "address": "nr. Pooja Pan, Virva Dholra, nr. Pooja Pan, opp. Khodal Hotel, Main Road, Virva",
+      "lat": 22.17213839999999,
+      "lng": 70.7439216,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJw1ukFlg1WDkR7ecTXDkgBQg",
+      "name": "Ram petroleum",
+      "address": "2nd Ring Road, Dholra",
+      "lat": 22.1937227,
+      "lng": 70.78422069999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUfhpR3HLWTkRQ6rajtU8bmY",
+      "name": "Bharat Petroleum, Petrol Pump -Suryavandana Transport",
+      "address": "MAVDI ROAD,RAJKOT NEAR FIR, Rajkot",
+      "lat": 22.247475,
+      "lng": 70.79969109999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB437iY_KWTkRxpKAmr2z0yw",
+      "name": "IndianOil",
+      "address": "Gondal Road, Kotharia",
+      "lat": 22.2471791,
+      "lng": 70.7998033,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzwZbn5rKWTkR9hBLSpIDB5Q",
+      "name": "Pride",
+      "address": "India",
+      "lat": 22.2442248,
+      "lng": 70.8004148,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJpbm7IKXKWTkRzf1UfGUWBDw",
+      "name": "Amin",
+      "address": "6RG2+7GJ, Maruti Steel Road, Vavdi, Rajkot",
+      "lat": 22.22571360000001,
+      "lng": 70.80127929999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJs8DLUKVA_xMRwpVqEUWPhT8",
+      "name": "Amco Diesel Service",
+      "address": "6RX2+V5F, Outside Octroi Naka, Gondal Road, Rajkot",
+      "lat": 22.249688,
+      "lng": 70.800414,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJFeExxEHKWTkRrG9y43wPpRY",
+      "name": "Ravi Mandap Service",
+      "address": "India",
+      "lat": 22.2746075,
+      "lng": 70.7871426,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJVySRK-TLWTkRLKCMi5x5WYY",
+      "name": "Tripada petroleum & CNG Pump",
+      "address": "Gondal Road, Rajkot",
+      "lat": 22.2537451,
+      "lng": 70.7998872,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9VifsUXLWTkRh2fHs1kaFWs",
+      "name": "Guru Nanak fuel station",
+      "address": "Laxmi Co Operative Housing Society, Chandreshnagar, Rajkot",
+      "lat": 22.2775974,
+      "lng": 70.7855819,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlQo-YNrLWTkRiz2pyyYpjBg",
+      "name": "Khodal Petroleum",
+      "address": "Ganga Hall Chowk, Surya Park, opp. Chandan Super Market, Amin Marg, Rajkot",
+      "lat": 22.2848692,
+      "lng": 70.7775049,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL6b4rKjKWTkRUIFwIbovD6Q",
+      "name": "Aerodyne pump industries",
+      "address": "PLOT NO 1 B , VARDHMAN INDUSTRIAL AREA , B/H KOTHARIYA SOLVANT, Chandreshnagar, Rajkot",
+      "lat": 22.2724594,
+      "lng": 70.7904126,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJu7nYM4TKWTkRlS8ImbbHOVI",
+      "name": "FI STAR SUBMERSIBLE PUMP",
+      "address": "India",
+      "lat": 22.2493864,
+      "lng": 70.8025637,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJE0PmKBs1WDkRDHxzmviT09k",
+      "name": "IndianOil",
+      "address": "S No 36, Paiki 1, Survey No 167, Old, Kangsiyali Road, Lodhika, Khokhdadad",
+      "lat": 22.2106603,
+      "lng": 70.800697,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7wT71jE1WDkR2VeU4FyRD0k",
+      "name": "YUVRAJ FUELS (BPCL RO)",
+      "address": "ON NH-27, Rajkot - Gondal Highway, Rajkot",
+      "lat": 22.2103493,
+      "lng": 70.80057339999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJN3c6k6jLWTkRkl9fgXZQwZQ",
+      "name": "RMC 5 HP Petrol Pump & Gas Station",
+      "address": "Plot No 515, Gopal Chowk, Rajkot",
+      "lat": 22.2960146,
+      "lng": 70.7618914,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYfeiTVzLWTkRU8ryLzNCiI4",
+      "name": "AMUL PETROLEUM",
+      "address": "Gondal Road, Panchsheel Park, Samrat Industrial Area, Rajkot",
+      "lat": 22.260075,
+      "lng": 70.7999652,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLYkjq87FXzkR96453TZKffw",
+      "name": "IndianOil",
+      "address": "Ground Floor, opposite Murlidhar Way, Gondal Ahmdedabad Bypass, Kothariya",
+      "lat": 22.26632,
+      "lng": 70.82401469999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqQ4uhg3KWTkRuvHN42agfM8",
+      "name": "Gujarat Gas CNG PUMP",
+      "address": "Dhebar Road, Bhaktinagar Station Plot, Bhakti Nagar, Rajkot",
+      "lat": 22.2835892,
+      "lng": 70.8002233,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQfNlpBLKWTkRk5JQYX1J7_Q",
+      "name": "Shell",
+      "address": "Gondal Road, Rajkot",
+      "lat": 22.2803176,
+      "lng": 70.79957259999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8_K85A3KWTkR3FhRt_tyLho",
+      "name": "IndianOil",
+      "address": "Ground Floor, Dhebar Road, Rajkot",
+      "lat": 22.285366,
+      "lng": 70.8010547,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCc_3NA7KWTkRrz02dzqxhV4",
+      "name": "\"Bhadlawala\" Bharat Petrol Pump",
+      "address": "Dhebar Road, Millpara, Bhakti Nagar, Rajkot",
+      "lat": 22.2888565,
+      "lng": 70.80149229999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrwaI0tXLWTkRb1Gu7mmclRc",
+      "name": "Bharat Petroleum, Petrol Pump -Malviya Brothers & Co",
+      "address": "Malaviya Chowk, Rajkot",
+      "lat": 22.2914163,
+      "lng": 70.7991144,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkYB-EAXKWTkRgJJS-1Ncegc",
+      "name": "STERLING AGENCIES",
+      "address": "Street Number 3, Rajputpara, Rajkot",
+      "lat": 22.29286279999999,
+      "lng": 70.8021004,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpfK4OgXKWTkRd7tarJNsqCI",
+      "name": "Shell",
+      "address": "Doctor Yagnik Road, Trikon Baug, Rajkot",
+      "lat": 22.29359999999999,
+      "lng": 70.80093,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOeGWBHE1WDkR7t8080ro1Vg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, National Highway 27, Pardi, Rajkot",
+      "lat": 22.1730588,
+      "lng": 70.7966793,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJk88E6Z41WDkR4xDXjabt60Y",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 27, behind Maruti Petroleum, Porbandar Highway, Rajkot",
+      "lat": 22.163301,
+      "lng": 70.792701,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbbS63qHKWTkRa1N48GNtGwM",
+      "name": "Shivam fuel, Bharat Petroleum",
+      "address": "India",
+      "lat": 22.2348352,
+      "lng": 70.80782479999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJew0_e485zzsRJ_GR1IoSUkU",
+      "name": "IndianOil",
+      "address": "Survey No 285/1 Paiki 1, Paiki 123, Kotharia",
+      "lat": 22.22981559999999,
+      "lng": 70.8173011,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-VhrzNtLWDkRJ3bD8WQVnDQ",
+      "name": "DHANLAXMI PETROCLUB",
+      "address": "6RJ9+845, NR.TELEPHONE EXE. KOTHARIYA, KHOKHADAD ROAD, Rajkot",
+      "lat": 22.2302186,
+      "lng": 70.8174538,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq9fD7K-1WTkR5R3LagKiA8g",
+      "name": "Nayara Petrol Pump - Nandanvan Petroleum",
+      "address": "opp. Kothariya Main Road, sutha hanuman sorathiya circle, opp. Kothariya Main Road, Swati Park, Rajkot",
+      "lat": 22.2401709,
+      "lng": 70.8168257,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJA91gGK61WTkREhiHmpv1zAA",
+      "name": "Gujarat CNG Gas Online",
+      "address": "6RJ9+F4, Rajkot",
+      "lat": 22.23125469999999,
+      "lng": 70.8181511,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB57S6-DLWTkRM4fT4lGrpJg",
+      "name": "KRISHNARAJ PETROLEUM",
+      "address": "Kothariya Ring Road, GIDC, Rajkot",
+      "lat": 22.2493475,
+      "lng": 70.8059531,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJV9wC8rXLWTkRgXqO_mTRbOI",
+      "name": "Ved Industries",
+      "address": "Virani Agat, Madhav Nut Bolt Street, Dharti Industries,1st Floor,Pragati Society, 2, Bolbala Main Road, Rajkot",
+      "lat": 22.2505962,
+      "lng": 70.80400510000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJswt22Z7LWTkREoiPeFWkUAg",
+      "name": "Dharti Die Repairing",
+      "address": "First Floor, Pragati Society, Street -2, Bolbala Main Road, Rajkot",
+      "lat": 22.2506388,
+      "lng": 70.80423809999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZ2O9MFbLWTkRvBrVvTTyKBE",
+      "name": "DHARTI INDUSTRIES",
+      "address": "PRAGATI SOCIETY, Virani Aghat, STREET -2, Bolbala Main Road, Rajkot",
+      "lat": 22.2507151,
+      "lng": 70.804345,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBcX952DLWTkR9tSqSvPI9oQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Kotharia",
+      "lat": 22.250756,
+      "lng": 70.811403,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFY_HSmPKWTkRvMpZ1AZdKHo",
+      "name": "IndianOil",
+      "address": "near Toyota And Skoda car show room, Post T. B. Hospital N. H. 8-B, Rajkot - Gondal Highway, Rajkot",
+      "lat": 22.2080706,
+      "lng": 70.8011649,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqx5RUI3LWTkRg-hRahWaOQ0",
+      "name": "V V BHARAT ENERGY STATION",
+      "address": "opp. TRUE VALUE, Gondal Road, Rajkot",
+      "lat": 22.2656932,
+      "lng": 70.7999486,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOx7HQJi1WTkRTfviVYTyaC4",
+      "name": "Nayara Petrol Pump - Raghuvir Petroleum",
+      "address": "Raghuvir Petroleum, opp. Manav Uthhan Seva Samiti, Kothariya Main Road, Shri Ram Park, Rajkot",
+      "lat": 22.2648284,
+      "lng": 70.8139798,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJf3LiCYO1WTkRVwZSble_aow",
+      "name": "Speed Industries",
+      "address": "7R7C+C93, Street Number 5, Africa Colony-6, Madhuram Society, GIDC, Rajkot",
+      "lat": 22.2635032,
+      "lng": 70.82091729999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJEarSY3DKWTkRVVBTQVhuDTo",
+      "name": "Jalaram Petroleum",
+      "address": "7R93+X56, Near Debar Colony Phatak, Narayan Nagar Main Road, Bhakti Nagar, Rajkot",
+      "lat": 22.2699,
+      "lng": 70.8028889,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEfeXCIq1WTkRJpYqvsR0Mqk",
+      "name": "SUN Petroleum",
+      "address": "near nilkanth cinema, Kothariya Main Road, Rajkot",
+      "lat": 22.27139219999999,
+      "lng": 70.8130243,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJz8fvi27KWTkRpugyN71IjEA",
+      "name": "Balaji Pump",
+      "address": "No 2, Gondal Road, Trikon Baug, Panchnath Plot, Sardar Nagar, Rajkot",
+      "lat": 22.2727242,
+      "lng": 70.7968097,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJYdjr8TY1WDkR-9GND-OazY0",
+      "name": "Sadguru Energy, Nayara Petrol Pump",
+      "address": "Survey no.361,plot no.2/c,at.paradi, ta, lodhika",
+      "lat": 22.1945812,
+      "lng": 70.7942915,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ4VuBFJW0WTkRTFCFE25-BJA",
+      "name": "IndianOil",
+      "address": "S No 73/P Bhandaria, Kalipat",
+      "lat": 22.24636,
+      "lng": 70.88541599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJecbrg0G1WTkRcd-g_bs2EVo",
+      "name": "Gujarat Gas CNG Station",
+      "address": "6VWP+C3M, Gujarat State Highway 25, Rajkot",
+      "lat": 22.2460993,
+      "lng": 70.8851796,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5RnvHgC1WTkRXM3BUS-FgXY",
+      "name": "કાળીપાટ ચોકડી",
+      "address": "6VWP+4CC, Gujarat State Highway 25, Rajkot",
+      "lat": 22.2453215,
+      "lng": 70.8860002,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJoWwtiFW1WTkRNOMIsn1Agvc",
+      "name": "Bharat Petroleum Petrol Pump , PATEL PETROLEUM",
+      "address": "MAHIKA THORALA, SH-25, Rajkot",
+      "lat": 22.275572,
+      "lng": 70.8599048,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJI8mzOLJMWDkRoytGX1xNxB4",
+      "name": "IndianOil",
+      "address": "Ground Floor, Tramba",
+      "lat": 22.221675,
+      "lng": 70.92094999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJa68RI7K1WTkRmg4oVqse_VA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Aji vasahat, opposite Octroi Naka, Rajkot",
+      "lat": 22.276901,
+      "lng": 70.83930099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJR3ZcsjZNWDkRp6LXQF6_lGw",
+      "name": "Bharat Petroleum Petrol Pump, Bhavdeep Petroleum",
+      "address": "VILLAGE ANIYARA, Bhavnagar - Rajkot Road, SH",
+      "lat": 22.2119586,
+      "lng": 70.9279444,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ92sKLgdLWDkRa-Mj8UIJlHM",
+      "name": "Shreeji Petroleum BPCL",
+      "address": "5RVH+P2X, Khokhaddad - Kotdasangani Road, Rajkot",
+      "lat": 22.194367,
+      "lng": 70.8276166,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSSeyludLWDkRRnmONc_hxw8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Khokhaddad - Kotdasangani Road, Rajkot",
+      "lat": 22.183971,
+      "lng": 70.838571,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJidwUEce1WTkRXKqfAeu9ZMQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 163, Ahmedabad Porbandar Highway, Rajkot",
+      "lat": 22.2847318,
+      "lng": 70.8370348,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqyrplQJNWDkRN4t8CTmz5Eo",
+      "name": "Gel Maa Petroleum",
+      "address": "6W4M+G34, Aniyala",
+      "lat": 22.2062608,
+      "lng": 70.9327095,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJMVqSiXa1WTkR7nuURploUhQ",
+      "name": "RMC Petrol Pump",
+      "address": "7RMJ+MF2, Bharat Nagar, GIDC, Rajkot",
+      "lat": 22.2841448,
+      "lng": 70.8311306,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcQMXHN61WTkRs-mZd7moiys",
+      "name": "Jio-bp petrol pump",
+      "address": "Aaji dem, Ambedkar Nagar, GIDC, Rajkot",
+      "lat": 22.28449729999999,
+      "lng": 70.828147,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJf-nBxom1WTkRceMjeX02DDw",
+      "name": "PREMIUM PETROLEUM COMPANY",
+      "address": "India",
+      "lat": 22.27403989999999,
+      "lng": 70.8132711,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJx8iNtvO1WTkRIPL-pXaTATs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Rajkot porbandar Hwy, NH 27, Dudhsagar Road, Rajkot",
+      "lat": 22.2927337,
+      "lng": 70.8344077,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTWz3HGS1WTkRC_iNCgTNZdU",
+      "name": "Mahadev Petroleum Nayara Petrol Pump",
+      "address": "om enterprise, opp. Saral Stove, 80 Feet Road, Sarvodya Society, Aji Industrial Estate, Rajkot",
+      "lat": 22.2837975,
+      "lng": 70.8215798,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJiyMsxO21WTkRNt4nCgNdG58",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Bhavnagar Road, Rajkot",
+      "lat": 22.287733,
+      "lng": 70.8260817,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqcnKABS1WTkRBgkhDLprUIg",
+      "name": "Jio-bp",
+      "address": "Cts Kacheri, opposite Field Marshal, 12, 80 Feet Road, Aji Industrial Estate, Rajkot",
+      "lat": 22.2829636,
+      "lng": 70.8197101,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtZ3Xove1WTkRr9K4dUOho5M",
+      "name": "Mahadev petroleum",
+      "address": "7RM9+6CQ, near hyundai showroom aji, 80 Feet Road, GIDC, Rajkot",
+      "lat": 22.2830986,
+      "lng": 70.8186157,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEX7k0PS1WTkRE3yF1GHPDXM",
+      "name": "IndianOil",
+      "address": "Sorathiawadi, 80 Feet Road, Rajkot",
+      "lat": 22.2827825,
+      "lng": 70.8154917,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlbxi1JzJWTkRBoHn8jIS-lk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Ramapir Chowk, 150 Feet Ring Road, Rajkot",
+      "lat": 22.3104801,
+      "lng": 70.7673401,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1cd67YDJWTkRc-P70Kp77b0",
+      "name": "IndianOil",
+      "address": "150 Feet Ring Road, Chokdi, Near, Raiya Road, Rajkot",
+      "lat": 22.300681,
+      "lng": 70.768089,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ72Isx9_IWTkRPfPMFLkrXqg",
+      "name": "Gujarat Gas CNG Station",
+      "address": "8PVQ+6Q2, Rajkot",
+      "lat": 22.3430131,
+      "lng": 70.7393826,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-Yqd6abJWTkREu28lq4DH6w",
+      "name": "Gujarat Gas CNG Station",
+      "address": "8QH9+M9W, Jamnagar Road, Manharpura 1, Madhapar, Rajkot",
+      "lat": 22.3292254,
+      "lng": 70.76846309999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJPdZAm6PJWTkR0Cpp7ASYUr0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Plot No 13A, Jamnagar Road, Madhapar, Rajkot",
+      "lat": 22.327308,
+      "lng": 70.7729324,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMxi3iMfJWTkRcMlcVmvsdn8",
+      "name": "Vivek Fuel - BPCL Petrol Pump",
+      "address": "Vivek Avenue, Main Road, 80 Feet Road, Railnagar, Rajkot",
+      "lat": 22.3336671,
+      "lng": 70.7884845,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ31dd0L3JWTkR7PBL5aRbHtM",
+      "name": "Nayara Petrol Pump - Vikram Petroleum",
+      "address": "Vikram Petroleum, opp. Shriji complex Nr. Aalap green city, Raiya Road, Rajkot",
+      "lat": 22.3015188,
+      "lng": 70.7598123,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ70z-8dLJWTkRIUEx_Ctn5b4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Scheme No 4, near Raiya Shopping Centre, Plot No 654, Raiya Road, Rajkot",
+      "lat": 22.301083,
+      "lng": 70.76158459999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC_svWgDJWTkRuRhj0PgvOqQ",
+      "name": "ZALAWAD PETROLEUM",
+      "address": "Rajkot",
+      "lat": 22.3349225,
+      "lng": 70.7355551,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2bEMFFrJWTkR5L5E0oHhSrg",
+      "name": "Shell petrol pump",
+      "address": "STERLING HOSPITAL, 150 Feet Ring Road, Rajkot",
+      "lat": 22.306656,
+      "lng": 70.768525,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJz8mcFBXKWTkRGDU5muWSrRs",
+      "name": "REEVA ARCHITECTURE PLUS DESIGN",
+      "address": "310 - VISION 2020, NEAR LIJJAT PAPAD, Ring Road Circle, 150 Feet Ring Road, Rajkot",
+      "lat": 22.3141732,
+      "lng": 70.767395,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJE5Tf0-PJWTkRyNKkhjKXkJg",
+      "name": "BODA RAKEAH RAJUBHAI",
+      "address": "Gandhigarm, Main Road, SK Chowk, Gandhigram",
+      "lat": 22.307097,
+      "lng": 70.76931309999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJb6PcQADJWTkRSYfQElfkMjg",
+      "name": "Vikrant Petroleum",
+      "address": "8Q79+M5H, 150 Feet Ring Road, Rajkot",
+      "lat": 22.3141796,
+      "lng": 70.7679994,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJS3O3khjJWTkRVVJC-KPiQro",
+      "name": "Vijay Arjun",
+      "address": "403, The Spire, Nr Shital Park BRTS Stop, 150 Feet Ring Rd, Sheetal Park, Manharpura 1, Raya Chowk, re Bapa Stram, Dharam Nagar, Rajkot",
+      "lat": 22.3188799,
+      "lng": 70.7670168,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJM9mQa-PJWTkRUQOyoFCgnuI",
+      "name": "DIPAK SOMESHWAR",
+      "address": "opp. Gayatri Dairy Form, Gandhigram Main Road, SK Chowk, Satyanarayan Park, Gandhigram, Rajkot",
+      "lat": 22.305716,
+      "lng": 70.7706934,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJzWQ2fQDLWTkR4H8oHP1t7jU",
+      "name": "Teja Engineering Industries Ltd",
+      "address": "7QWC+R2H, Raval Nagar, Rajkot",
+      "lat": 22.2970609,
+      "lng": 70.7701043,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJs68lZrbJWTkRD2HwHZ84VtI",
+      "name": "YASH BODI REPERING",
+      "address": "Kanya chowk main road, Raiya Road, Shivpara, Rajkot",
+      "lat": 22.3025964,
+      "lng": 70.7708365,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJrVu5cinJWTkRIxFR2vF-y4c",
+      "name": "AFSANA AMINBHAI BALAPARIYA",
+      "address": "Street no 9, Main Road, Gandhigram, Rajkot",
+      "lat": 22.3056611,
+      "lng": 70.7712,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ8XORwQfJWTkRwfZ8xquLHIw",
+      "name": "IndianOil",
+      "address": "Ground Floor, Jamnagar Road, Hadmatiya, Madhapar, Rajkot",
+      "lat": 22.3336018,
+      "lng": 70.76279029999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOXKpLKTJWTkRD7Aoa0ByGrw",
+      "name": "IndianOil",
+      "address": "Madhapar Chokdi, Jamnagar - Rajkot Highway, Rajkot",
+      "lat": 22.3294,
+      "lng": 70.7684,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJb8KScADJWTkR9nFE-OVFX30",
+      "name": "Nayara Petrol Pump Nandanvan Fuel",
+      "address": "Jamnagar - Rajkot Highway, Para Pipaliya",
+      "lat": 22.3469401,
+      "lng": 70.72739659999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcbgXZNTLWTkRBNCsYGd9OPE",
+      "name": "IndianOil",
+      "address": "Kalawad Road, Kotecha Nagar, Rajkot",
+      "lat": 22.291471,
+      "lng": 70.780807,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9bcFGgDJWTkRGXO-rJ1Qx5Y",
+      "name": "Radhe Petroleum IOCL",
+      "address": "8PXV+WMV, AIIMS Hospital Road",
+      "lat": 22.349869,
+      "lng": 70.744173,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJKz8JhgPLWTkRjmLCrkpnFqM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kalawad Road, Rajkot",
+      "lat": 22.291911,
+      "lng": 70.781711,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2wOgCEPLWTkRVpDSThJjMkA",
+      "name": "Raj Rajeshwari Petroleum",
+      "address": "Raj Rajeshwari Petroleum, near Bamanbore Toll Gate, National Highway 8A, Race Course, Rajkot",
+      "lat": 22.30025010000001,
+      "lng": 70.78648220000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl15I1XdnsDsRQOofFp9vJ2k",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sadar, Rajkot",
+      "lat": 22.3007358,
+      "lng": 70.7865514,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmzVAXbfJWTkR4bNpEwnUp2k",
+      "name": "VADECHA SANJAY GANDABHAI",
+      "address": "nr. Bas Stop, Jamnagar - Rajkot Highway, Rajkot",
+      "lat": 22.3174856,
+      "lng": 70.78646909999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJRcSxlGnJWTkR4bJmibBNMs0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, 150 Feet Ring Road, Ronki",
+      "lat": 22.3404561,
+      "lng": 70.77822499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNdJmp5LJWTkR4u4_EVneRsw",
+      "name": "Bharat Petroleum Petrol Pump , RCT POLICE WELFARE PETROL STATION",
+      "address": "RAJKOT CITY, C-3-28, Jamnagar - Rajkot Highway, Police Head Quarter, Rajkot",
+      "lat": 22.3119231,
+      "lng": 70.7934023,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJgaOHpB7KWTkRQQIs2vVtSEo",
+      "name": "IndianOil",
+      "address": "Kanya Chhatralaya Road, Bheelwas, Sadar, Rajkot",
+      "lat": 22.297316,
+      "lng": 70.793641,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP--WRQC2WTkRBsmRoJsRRfc",
+      "name": "Bharat Petroleum",
+      "address": "8R47+PJR, Near Deluxe Cineam, Kuvadava Road, Sadguru Nagar, Rajkot",
+      "lat": 22.3068623,
+      "lng": 70.8140085,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ55CtVwC2WTkRd9VsflC4pUk",
+      "name": "Shell",
+      "address": "Kuvadava Road, Rajkot",
+      "lat": 22.306961,
+      "lng": 70.81483,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq6paAgq2WTkR7JEiqs0GBKs",
+      "name": "Gspc",
+      "address": "8R4H+QXX, Shakti Society, Arya Nagar, Rajkot",
+      "lat": 22.3069932,
+      "lng": 70.8299727,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJE--xAwq2WTkRAq9ObCqxZGk",
+      "name": "Gujarat Gas CNG Station",
+      "address": "8R4J+Q2V, Service Road, Shakti Society, Arya Nagar, Rajkot",
+      "lat": 22.30699899999999,
+      "lng": 70.83004629999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKQcZpdTJWTkRGyMAwQYY31E",
+      "name": "IndianOil",
+      "address": "Ground Floor, SH 24, Rajkot - Morbi Highway, Bedi, Rajkot",
+      "lat": 22.348649,
+      "lng": 70.80679099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJk2ib5g5G_xMRl9WcyOWR1O0",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 8B, Tpt Nagar, Navagam, Anandpar",
+      "lat": 22.3259888,
+      "lng": 70.8530917,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJj3v1CmS2WTkRMtRZxp7yxmU",
+      "name": "IndianOil",
+      "address": "Ground Floor, opposite Saat Hanuman Temple, NH 8B, Kuvadava Road, Navagam, Anandpar",
+      "lat": 22.325261,
+      "lng": 70.853595,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC1gVSom2WTkRksmD9O9TbSs",
+      "name": "Yatayat Sangam Bharat Petrol Station",
+      "address": "Rajkot - Ahmedabad Highway, Rajkot",
+      "lat": 22.3268665,
+      "lng": 70.86453999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwdOVrCPJWTkR4JN4VFWunYc",
+      "name": "XTRA CARE SERVICES",
+      "address": "near Malod Chokdi, By Pass Road, Rajkot",
+      "lat": 22.3038946,
+      "lng": 70.8021601,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJkU6IERXLWTkR1BlZmueGBFM",
+      "name": "Cng Petrol",
+      "address": "Lohanpara, Jawahar Road, Javahar Road, Rajkot",
+      "lat": 22.3024708,
+      "lng": 70.8018355,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJC4L0eBLKWTkRXeLI1IWtu9Q",
+      "name": "Parekh Estate Consultant",
+      "address": "Harihar Chowk, Doctor Rajendra Prasad Road, Panchnath Plot, Sadar, Rajkot",
+      "lat": 22.298469,
+      "lng": 70.799168,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJI3AbDnTJWTkRRsndLbr2jqY",
+      "name": "MITHAPARA SAGAR TALSI",
+      "address": "15, Junction Plot Main Road, Junction Plot, Rajkot",
+      "lat": 22.3104393,
+      "lng": 70.7988345,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJG__9RwC2WTkRk0EYnjut06s",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Old Rajkot, Ahmedabad Highway, Bedipara, Rajkot",
+      "lat": 22.306801,
+      "lng": 70.813441,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfwfUfcW3WTkRNJgHMAe6JgM",
+      "name": "National Petro Chem Authorize Dealer BPCL",
+      "address": "Kuvadava Road, Sadguru Nagar, Rajkot",
+      "lat": 22.3068505,
+      "lng": 70.8140947,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJc2a86XW1WTkRYNTIOJttGGQ",
+      "name": "Dc Enterprises",
+      "address": "2, Street Number 1, Rajkot",
+      "lat": 22.3013485,
+      "lng": 70.816249,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJw-k-QwC3WTkRObKQGYddDv0",
+      "name": "Reliance petrol pump",
+      "address": "42, Kuvadava Road, Bhagvati Park, Ranchod Nagar Society, GIDC, Rajkot",
+      "lat": 22.3073368,
+      "lng": 70.8164019,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJPV_m65O2WTkRHFEWHbJUFLI",
+      "name": "Jio-bp",
+      "address": "No 2953/54, next to Patel Parotha House, Paiki, Kuvadava Road, Rajkot",
+      "lat": 22.3074128,
+      "lng": 70.81647,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNS046A_KWTkRQxOSxz7O58g",
+      "name": "OM PETROLEUM",
+      "address": "Shop no.16, Sanjay Complex, Rajputpara - 8, Rajkot",
+      "lat": 22.2901679,
+      "lng": 70.800983,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJCe3TWSXLWTkRO0Y-_AIJ0DA",
+      "name": "Shiv Shakti Petroleum",
+      "address": "Madhapar Chowkdi Main Road, Main Road, Jamnagar",
+      "lat": 22.2900863,
+      "lng": 70.8026927,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJf8zctg_KWTkRDq2NQR7-nG4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Canal Road, Rajkot",
+      "lat": 22.289271,
+      "lng": 70.801911,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGZAMd13LWTkR-qMLg6jRkBc",
+      "name": "Janvi Motors",
+      "address": "Gondal Road, Gunatit Nagar, Atika South, Panchsheel Park, Panchsil Society, Rajkot",
+      "lat": 22.2862417,
+      "lng": 70.7991013,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJLQlxdBHKWTkRBgLU3iBHMyU",
+      "name": "Navinchandra And Co",
+      "address": "India",
+      "lat": 22.2864791,
+      "lng": 70.7967914,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ17thIAC1WTkRozzyPQujlq4",
+      "name": "Hp petrol pump",
+      "address": "Kailash Pan Wali Sheri, near Osho Print, Sant Kabir Main Road, Mayur Nagar, Shakti Industrial Zone, Rajkot",
+      "lat": 22.2969965,
+      "lng": 70.82112339999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJjf9r6Q3KWTkRveCt5phS8Oo",
+      "name": "ભારત સ્ટીલ & મેટલ",
+      "address": "7RM2+WGP, Kanta Stri Vikas Grah Road, Lakshmiwadi, Bhakti Nagar, Rajkot",
+      "lat": 22.2848373,
+      "lng": 70.8013337,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJL0Tp-561WTkR7CRcnoYSiY4",
+      "name": "IndianOil",
+      "address": "Bhavnagar Road, Chunarawad Chowk, Rajkot",
+      "lat": 22.294422,
+      "lng": 70.82041699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJi_dsTRLKWTkRt2WsRIgQHfY",
+      "name": "Eagle Pump",
+      "address": "opp. Bank of Baroda, 12, Bhakti Nagar Station Plot, Bhaktinagar Station Plot, Bhakti Nagar, Rajkot",
+      "lat": 22.2844538,
+      "lng": 70.79812299999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJO1Nm-HfLWTkRoIvZBTKy234",
+      "name": "Bpcl bombay garage petrol pump",
+      "address": "Swaminarayan Circle, near shyam complex, Gondal Road, Bhaktinagar Station Plot, Bhakti Nagar, Rajkot",
+      "lat": 22.2835634,
+      "lng": 70.8000331,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ2R2BqPy1WTkRZUMkgmtm7Xo",
+      "name": "Raj Auto Garage",
+      "address": "opposite Gokul Pan, St Kabir Rd 2-Gathiya Nagar Corner, opposite Gokul Pan, Arya Nagar, Rajkot",
+      "lat": 22.3000121,
+      "lng": 70.82520149999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOe8RIADJWTkRg8jhdPtIubk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "RS No 16P4, Main Road, TPS 31, Bhagvati Para, Rajkot",
+      "lat": 22.325616,
+      "lng": 70.807266,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVQhzupu1WTkRpgTzlGRlkHU",
+      "name": "Shivay Fuels -Dealer Indian Oil Corporation Ltd.",
+      "address": "near Rajmoti Oil Mill, Bhavnagar Road, Rajkot",
+      "lat": 22.29165949999999,
+      "lng": 70.8229276,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAYNue7zLWTkRyTi7m-2GcIc",
+      "name": "Gautam Traders",
+      "address": "Quarter No 289, 80 Feet Road, Garbi Chowk, Kothariya Colony, Rajkot",
+      "lat": 22.28154349999999,
+      "lng": 70.8085172,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJRbQNzQzKWTkRBgCoArPjq90",
+      "name": "Ashis Patroleum",
+      "address": "Near Bhakti Nagar Circle,, Street No. 9, 80 Feet Road, Bhaktinagar Society, Bhakti Nagar, Rajkot",
+      "lat": 22.2805836,
+      "lng": 70.80392859999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6c51RfW1WTkRodGZDNY1s0g",
+      "name": "IndianOil",
+      "address": "80 Feet Road, Sorathiawadi Circle, Rajkot",
+      "lat": 22.282328,
+      "lng": 70.81294299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ40cyTnPKWTkRxo7X1JvoxmQ",
+      "name": "Sunflower Oil",
+      "address": "India",
+      "lat": 22.280081,
+      "lng": 70.8052506,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJLaUX5p63WTkRH0oJJQ1T_7w",
+      "name": "BPCL Lubes (MAK Lubricants) Depot Rajkot",
+      "address": "Kherdi Road, Maliyasan Village, Rajkot - Ahmedabad Highway, Rajkot",
+      "lat": 22.31645129999999,
+      "lng": 70.8809255,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJye6_VAC3WTkRcd0Gtkq2jnk",
+      "name": "Jio-bp Petrol pump",
+      "address": "8VJG+6F2, Maliyasan",
+      "lat": 22.3305052,
+      "lng": 70.876127,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFYTet2a2WTkRWlB7xel9KUs",
+      "name": "ARABIAN PETROLEUM LTD",
+      "address": "India",
+      "lat": 22.3278823,
+      "lng": 70.8529795,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJW2nrAwC3WTkRsSV0asmtAt8",
+      "name": "Landmark petroleum",
+      "address": "8VJQ+2C, Maliyasan",
+      "lat": 22.3300946,
+      "lng": 70.88856109999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0V_yG7-2WTkR0acIZqAG_mM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 27, Rajkot - Ahmedabad Highway, Maliyasan",
+      "lat": 22.3339201,
+      "lng": 70.88735009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYf0lNQC3WTkRx3gBKcIUuGg",
+      "name": "Shukla Ashar & Co.",
+      "address": "8VP4+FC, near Chowdi, behind BP petrol pump, Sokhada",
+      "lat": 22.3353805,
+      "lng": 70.8562579,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJa-PxaG3WTkR4K7foQhhSAc",
+      "name": "Nayara Petrol Pump - Balaji Filling Station",
+      "address": "Navagam - Anandpar Main Road, Rajkot - Ahmedabad Highway, Navagam",
+      "lat": 22.3148315,
+      "lng": 70.8364516,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHaQre4K1WTkRm8JE5hfAGyI",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Marketing Yard, Anandpar, Navagam, Rajkot",
+      "lat": 22.2990972,
+      "lng": 70.83359089999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJafcJxpy3WTkRktE7lAIUZ6g",
+      "name": "Dhanlaxmi Petrol Pump",
+      "address": "Rajkot",
+      "lat": 22.3369144,
+      "lng": 70.8942114,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJc9QStvu1WTkRA4eCcm_hDjU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 8, Plot No 152/P, Rajkot - Ahmedabad Highway, TP Scheme, Arya Nagar, Rajkot",
+      "lat": 22.3066922,
+      "lng": 70.8300403,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSXXeaQC3WTkRakrROoSmGX8",
+      "name": "JoYa CNG Pump",
+      "address": "CNG Fuel Station, Service Road, Shakti Society, Arya Nagar, Rajkot",
+      "lat": 22.3069932,
+      "lng": 70.8299727,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ9_6-tH63WTkR2OJwLjdzc-8",
+      "name": "Nayara Petrol Pump - Sagar Petroleum",
+      "address": "Sagar Petroleum, near Blackstone Hotel, Sokhada",
+      "lat": 22.3361002,
+      "lng": 70.8466466,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJ_f3tQO3WTkRaQHHRIYUMKw",
+      "name": "Jai Babari Fuels",
+      "address": "Ground Floor 150 Ft Bypass, Road, Sokhada",
+      "lat": 22.3368362,
+      "lng": 70.84538450000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSXCrSl63WTkRSINJpJ4Nqkc",
+      "name": "HP PETROL PUMP RMC 6",
+      "address": "near Greenland Chokdi, Plot No 94, TP Scheme 12, Rohidaspra, Rajkot",
+      "lat": 22.3163511,
+      "lng": 70.8265504,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQYHUXwC3WTkRDtspVCOejSE",
+      "name": "SUDARSHAN PETROLEUM",
+      "address": "Rajkot",
+      "lat": 22.3372065,
+      "lng": 70.8363746,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJaxYh_8q2WTkR-4qGrgnwsB0",
+      "name": "Essar",
+      "address": "India",
+      "lat": 22.3410276,
+      "lng": 70.90432129999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJv0LKMDWxWTkRt6DcePNutbU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 27, Rajkot - Ahmedabad Highway, Rajkot",
+      "lat": 22.340725,
+      "lng": 70.9078849,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJO8IOy8q3WTkRDHX_F2oqbX4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 163, P5/P1/P2, Anandpar, Rajkot",
+      "lat": 22.338427,
+      "lng": 70.831491,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJozfjkSq3WTkRKIob9b1xG4k",
+      "name": "Zaisha Petroleum",
+      "address": "Indraprasth Society, Jai Nandan Nagar, Rajkot",
+      "lat": 22.326975,
+      "lng": 70.819672,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL2PNa3XKWTkRQR9J4I3aLWw",
+      "name": "IndianOil",
+      "address": "near Sorathiawadi Circle, Kothariya Main Road, Bhakti Nagar, Rajkot",
+      "lat": 22.279688,
+      "lng": 70.81092799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHSrEbhrIWTkRCZiO8h_UVHM",
+      "name": "IndianOil",
+      "address": "Ground Floor, SH 24, Rajkot - Morbi Highway, Gavridad",
+      "lat": 22.3792193,
+      "lng": 70.8012802,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJN_GsNsDHWTkRqXAipdG-yn0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "RSA No 176, SH 24, Rajkot - Morbi Highway, Ratanpar",
+      "lat": 22.4132804,
+      "lng": 70.7874084,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ24AKaynHWTkRwnyDukqHhls",
+      "name": "Shree Gajanan KSK Petrol Pump",
+      "address": "Unnamed Road, Anandpar",
+      "lat": 22.4033604,
+      "lng": 70.7309156,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP235C0TPWTkRyJYo-EKKXf4",
+      "name": "IndianOil",
+      "address": "Ground Floor SH 25, Padadhari, Hadmatiya",
+      "lat": 22.365746,
+      "lng": 70.699243,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJV22wxkPJWTkRY-7DaNlARiU",
+      "name": "Nayara Petrol Pump - BMF Fuels",
+      "address": "near Opera Hardware, Between Madhapar Chokdi to Bedi Chokdi At Ronki, On Right Side After Flyover, near Opera Hardware, Rajkot",
+      "lat": 22.3420776,
+      "lng": 70.7797946,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoWrwKw_JWTkRDcwrqEGF42w",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, 150 Feet Ring Road, Ronki",
+      "lat": 22.344421,
+      "lng": 70.789538,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJR3IiIpbJWTkRdTU51jc9iIk",
+      "name": "Dhanveer Petroleum",
+      "address": "near Hotel ADB \"Atithi Devo Bhava, 150 Feet Ring Road, Ronki",
+      "lat": 22.3446346,
+      "lng": 70.79123469999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJqQQZH-fJWTkR2ZZiW2ai4UE",
+      "name": "SATYNARAYAN PETROLEUM NAYARA",
+      "address": "near MARWADI COLLEGE, Rajkot - Morbi Highway, Rajkot",
+      "lat": 22.3712685,
+      "lng": 70.7993178,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_Wq5WuHHWTkR3Co7og57ULI",
+      "name": "Bharat Petroleum Petrol Pump , JAYSON PETROLEUM",
+      "address": "ON RAJKOT MORBI, SH, Rajkot",
+      "lat": 22.4040981,
+      "lng": 70.7912616,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJZjyLT3IWTkRnoZr5c63B8U",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, H 24, Rajkot - Morbi Highway, Gavridad",
+      "lat": 22.3732373,
+      "lng": 70.7996891,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMbU9yZrHWTkRW9SVv8sNvIA",
+      "name": "IndianOil",
+      "address": "S No 361/p1, Motadadva",
+      "lat": 22.415791,
+      "lng": 70.78821099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJt5fK3c_JWTkRPjlkLNzPbmk",
+      "name": "IndianOil",
+      "address": "Survey No 67/1/2P 1/P 1 Ronki, Navagam, Anandpar",
+      "lat": 22.3396622,
+      "lng": 70.7993776,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRWNqFaTHWTkR7VU7txL7Occ",
+      "name": "Rajlaksha Petroleum",
+      "address": "Sy No 89/P, Rajkot- Morbi Highway, 24, Village, Vijaynagar",
+      "lat": 22.4307513,
+      "lng": 70.78113259999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_6wQDt_JWTkRpkoBlV5PZLg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Rajkot - Morbi Highway, Chaukri, Bedi, Rajkot",
+      "lat": 22.343105,
+      "lng": 70.806876,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ85vKDgDJWTkR9ipMwHzC5Pc",
+      "name": "Bedi chokdi",
+      "address": "8RQ5+WM6, Bedi Chokdi, Velnath Para, Rajkot",
+      "lat": 22.3397979,
+      "lng": 70.8091462,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ-_2Pkyq3WTkR57iMZP9kjpg",
+      "name": "Nayara Petrol Pump - Khodaldham Petroleum",
+      "address": "near ganesh park, Surway no. 26, near ganesh park, Rajkot - Morbi Highway, Rajkot",
+      "lat": 22.3342372,
+      "lng": 70.81230049999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWdNA4KnHWTkRe3PU6wZ3wQY",
+      "name": "શ્રીવલ્લભ સીતી ઓઇલ ઇન્ડસ્ટ્રીઝ",
+      "address": "India",
+      "lat": 22.4365446,
+      "lng": 70.77174099999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJzc3jROy5WTkRIQxKe_8tVoM",
+      "name": "Nitanjali Petroleum",
+      "address": "Sanosara",
+      "lat": 22.4230773,
+      "lng": 70.8885454,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcaFwaxyxWTkRqq-gNNz0uME",
+      "name": "Nayara Petrol Pump - Shri Ram Petroleum Co.",
+      "address": "At Ranpur Village Kuvadva-Wankaner Highway",
+      "lat": 22.3787738,
+      "lng": 70.9281881,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4ZEcGnqxWTkRHSvD-FByAMQ",
+      "name": "Bombay Petroleum",
+      "address": "Wankaner Road, Ranpur, Kuvadva",
+      "lat": 22.3736925,
+      "lng": 70.929778,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ_Rgn2kqxWTkRp37_fw_aWd4",
+      "name": "Bhagirath Petroleum",
+      "address": "nr. Krishna Water Park, Bhagirath Petroleum, BPCL-RO, Rajkot-Ahmedabad NH-8B, nr. Krishna Water Park, Rajkot - Ahmedabad Highway, Kuvadva",
+      "lat": 22.3533926,
+      "lng": 70.9314653,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJnYOU-RexWTkRaQoPmugCLOI",
+      "name": "GSPC CNG Pump",
+      "address": "Bhagirath Petroleum, BPCL-RO, Rajkot-Ahmedabad NH-8B, Nr. Krishna Water Park, Village Kuvadva, Dist. Rajkot, Rajkot - Ahmedabad Highway",
+      "lat": 22.3529674,
+      "lng": 70.931624,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo-nZm5uxWTkRB5qzlBHIOKY",
+      "name": "IndianOil",
+      "address": "Survey No 520, near Krishna Water, P/1, NH 8B, Kuvadva",
+      "lat": 22.3545908,
+      "lng": 70.9327873,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ17TxRmxWTkRW5aU0O0S76c",
+      "name": "IndianOil",
+      "address": "Ground Floor NH 8B, Kuvadva",
+      "lat": 22.3553116,
+      "lng": 70.9346039,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJX-jbIQCxWTkRFV5-UEetqxU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "RS No 554, P1 NH 27, Kuvadva",
+      "lat": 22.3560589,
+      "lng": 70.93534079999999,
+      "open_now": true
+    }
+  ]
+}

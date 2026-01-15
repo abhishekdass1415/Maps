@@ -1,0 +1,131 @@
+{
+  "city": "Udaipur",
+  "state": "Tripura",
+  "count": 15,
+  "center": {
+    "lat": 23.5333,
+    "lng": 91.4833
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJ_W3xp52bUzcREjMsYfVf1RI",
+      "name": "IndianOil",
+      "address": "Kakraban",
+      "lat": 23.486036,
+      "lng": 91.40688,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJc66NgnuZUzcRN-G7ZdNe4YM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Palatana",
+      "lat": 23.50975,
+      "lng": 91.44897200000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ961Q8KObUzcReaPzTcRrM8I",
+      "name": "M/S Ishita Petroleum Agency. BPCL",
+      "address": "Unnamed Road, Chandul",
+      "lat": 23.4851777,
+      "lng": 91.3719871,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpRYgyJOfUzcRHntVXHvsco8",
+      "name": "IndianOil",
+      "address": "Ground Floor, Garji,Garjee, Garji",
+      "lat": 23.430963,
+      "lng": 91.501966,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJ317jqmfUzcRClR4fKtaKzY",
+      "name": "B.R PETROLEUM",
+      "address": "Shop No 5, No 8, National Highway, Birchandranagar",
+      "lat": 23.4274283,
+      "lng": 91.5043743,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJFwYwn4yZUzcRLWAVP7M_RYA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Gomati, Udaipur, Matabari",
+      "lat": 23.503442,
+      "lng": 91.495328,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbxoRJl2YUzcROdPhcaqPL-w",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 44, Udaipur",
+      "lat": 23.528912,
+      "lng": 91.499702,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSTpzdk6YUzcRHx19Jf_zwVE",
+      "name": "IndianOil",
+      "address": "Ground Floor Udaipur, Radhakishorepur",
+      "lat": 23.531841,
+      "lng": 91.487025,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJW3G5Yl6ZUzcRY_sKiCqleYU",
+      "name": "MS FHULAN PETROLEUM AGENCY (B.P. PETROLEUM)",
+      "address": "Bondhuar, Durga Bari, Banduar, Fulkumari Part",
+      "lat": 23.5281808,
+      "lng": 91.5131907,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbToaRlSiUzcRgxIFQBSUXoA",
+      "name": "IndianOil",
+      "address": "Ground Floor, Maharani Udaipur Court, Amarpur-Udaipur Road",
+      "lat": 23.513712,
+      "lng": 91.556411,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM3PErzCFUzcRqo4XDflLQIs",
+      "name": "IndianOil",
+      "address": "Ground Floor, Nalchar,Sepahijala, Melaghar",
+      "lat": 23.536571,
+      "lng": 91.357053,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZbzpEKeZUzcRmsIiMjkA1qU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Udaipur",
+      "lat": 23.5429964,
+      "lng": 91.487299,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJE9FaN0GYUzcRmW9ZETjJjcA",
+      "name": "IndianOil",
+      "address": "Ground Floor, Radhakishorepur, Udaipur",
+      "lat": 23.537726,
+      "lng": 91.49733499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-xzjvbOPUzcRLdyKJRB4L0Y",
+      "name": "Bishramganj Petrol Station",
+      "address": "Shillong - Agartala - Sabroom Road, Bishramganj",
+      "lat": 23.6106262,
+      "lng": 91.34085370000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ_VCSKgCPUzcRAVs4Nn_zR_c",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sephaijala Tripura Barjala, Matabari",
+      "lat": 23.61229290000001,
+      "lng": 91.33661599999999,
+      "open_now": true
+    }
+  ]
+}

@@ -1,0 +1,1355 @@
+{
+  "city": "Thiruvananthapuram",
+  "state": "Kerala",
+  "count": 168,
+  "center": {
+    "lat": 8.4867,
+    "lng": 76.9558
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJ_Wwd9Tm7BTsR5jxe60C6-5M",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, opposite Madhyamam, NH By Pass Road, Ambalathara, Thiruvananthapuram",
+      "lat": 8.4530846,
+      "lng": 76.94583329999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoYpIEzK7BTsRymBYuNWgO8A",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 47, Bypass Rd, Karimbuvila, Thiruvallam, Thiruvananthapuram",
+      "lat": 8.4441065,
+      "lng": 76.9517824,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2Y3q9Dy7BTsRe1tLnTZSr9o",
+      "name": "Bharat Petroleum - Arjun Fuels",
+      "address": "Ambalathara, Manacaud, Swagath Nagar, PO, Paravankunnu, Thiruvananthapuram",
+      "lat": 8.457417999999999,
+      "lng": 76.950195,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxSmLHD27BTsRxPOgz1bYDoE",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kallattumukku, Attukal, Ambalathara, Thiruvananthapuram",
+      "lat": 8.459167700000002,
+      "lng": 76.9510818,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYxaChGy7BTsR0cxaMmvMAi0",
+      "name": "IndianOil",
+      "address": "Ground Floor, near New Rajasthan marble, NH Bypass, Manacaud - Muttathara Road, Vallakkadavu, Thiruvananthapuram",
+      "lat": 8.467159200000001,
+      "lng": 76.9387654,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJieK91pOlBTsRcNu5SjOl1j4",
+      "name": "IndianOil",
+      "address": "Ground Floor, opposite Police Station, Kottappuram, Vizhinjam, Thiruvananthapuram",
+      "lat": 8.3818808,
+      "lng": 76.9955974,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuUYy7726BTsRhdUG0xlqF_Y",
+      "name": "IndianOil",
+      "address": "Ground Floor, Nemom",
+      "lat": 8.461739099999999,
+      "lng": 76.99416699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx-wGToilBTsR0y2hqcDmOgc",
+      "name": "IndianOil",
+      "address": "Vizhinjam - Balaramapuram Road, Mukkola, Vizhinjam, Thiruvananthapuram",
+      "lat": 8.386311100000002,
+      "lng": 77.008301,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ38A9WaS6BTsRxbH_CdT6j8g",
+      "name": "IndianOil",
+      "address": "NH 47, Nemom",
+      "lat": 8.4562998,
+      "lng": 77.00169369999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJndEzjgm7BTsRBa3eWrjua4s",
+      "name": "Bharat Petroleum Nana Auto Fuels",
+      "address": "FWJX+92X, near Kollam Supreme, Mahatma Gandhi Road, East Fort, Chalai, Thiruvananthapuram",
+      "lat": 8.480977,
+      "lng": 76.94761489999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJD93SOQC7BTsROGr2s2Zy8iQ",
+      "name": "IndianOil",
+      "address": "NH 47, Karamana, Thiruvananthapuram",
+      "lat": 8.481163100000002,
+      "lng": 76.96309699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJn4uAuAC7BTsRZKAhKWf3oxE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Cape Road, Killipalam, Thiruvananthapuram",
+      "lat": 8.481580100000002,
+      "lng": 76.959451,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6Ubzb6i7BTsRDgfBYeB-Acw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Power House Road, Aryasala, Chalai, Thiruvananthapuram",
+      "lat": 8.484700099999998,
+      "lng": 76.95359100000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtVkymu-vBTsRewp3i1Hv8Xk",
+      "name": "IndianOil",
+      "address": "Ground Floor, Punnamoodu, Naruvamoodu",
+      "lat": 8.4306421,
+      "lng": 77.02433599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXZDMS6C7BTsRDH1J-kevKLQ",
+      "name": "Varma Travels Fuel Centre",
+      "address": "FWMV+W47, Padmavilasam Road, Fort, East Fort, Pazhavangadi, Thiruvananthapuram",
+      "lat": 8.484793000000002,
+      "lng": 76.942807,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCX-5wqa7BTsRa5qgi60g4RU",
+      "name": "Bharat Petroleum - Radhakrishnan & Brothers",
+      "address": "Power House Road, Thiruvananthapuram",
+      "lat": 8.4858571,
+      "lng": 76.9483446,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJb1EqQla6BTsR7oq4uCJ_488",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kunjalumoodu, Karamana, Karumom",
+      "lat": 8.485157000000001,
+      "lng": 76.971327,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ64pfk6a7BTsRi0EzrGsWY_U",
+      "name": "Indian Oil",
+      "address": "FWPX+QH3, Overbridge, Pavithra Nagar, Santhi Nagar, Thampanoor, Thiruvananthapuram",
+      "lat": 8.4868814,
+      "lng": 76.94892279999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7WAoYuSvBTsRjM_BJFhwA7M",
+      "name": "IndianOil",
+      "address": "Survey No 170, 10 10/1 & 10/2, Neyyattinkara, Pallichal",
+      "lat": 8.436209399999997,
+      "lng": 77.0248811,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ93KLEgClBTsRuwD_qNPwT-s",
+      "name": "Indian Oil Petrol Pump",
+      "address": "CXF7+8CQ, Pachalloor Road, Pachalloor, Thiruvananthapuram",
+      "lat": 8.4231313,
+      "lng": 76.9637772,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAaP3OQClBTsR1ozo5khhJBg",
+      "name": "Alfar Fuels",
+      "address": "CX79+VWP, Pachalloor Road, Vazhamuttom, Thiruvananthapuram",
+      "lat": 8.4148125,
+      "lng": 76.9693458,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmwO3oyilBTsRi7CRw1F6Xpw",
+      "name": "IndianOil",
+      "address": "Ground Floor Thiruvallam, Pachalloor, Thiruvananthapuram",
+      "lat": 8.431004599999998,
+      "lng": 76.96974019999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOZqzxDylBTsRziq-rayhBRw",
+      "name": "IndianOil",
+      "address": "Ground Floor, CGO Complex Vellayani, Venganoor Road, Poonkulam, Thiruvananthapuram",
+      "lat": 8.4220651,
+      "lng": 76.977009,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbSjtHJelBTsRDB8iJpKg-Kk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Vizhinjam, Thiruvananthapuram",
+      "lat": 8.385010099999999,
+      "lng": 76.991101,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWXDvfoCvBTsREMEOpf70UUQ",
+      "name": "IndianOil",
+      "address": "Ground Floor Chavadinada, Venganoor",
+      "lat": 8.4020001,
+      "lng": 77.00880099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBYQ-fAC7BTsR6Zu05CZsLfo",
+      "name": "Kalidas Petroleum",
+      "address": "FX9F+97R, Kaimanam Thiruvallam Road, Krishna Nagar, Snehapuri, Thiruvananthapuram",
+      "lat": 8.4684791,
+      "lng": 76.9731267,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjf1JgWK7BTsRBP4AsrRcbK0",
+      "name": "EASWARA Gas Stove Service",
+      "address": "FXC8+C79, Thaliyal, Thiruvananthapuram",
+      "lat": 8.471046,
+      "lng": 76.96574629999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNVsXOQCvBTsRyzBepc-lRzs",
+      "name": "India Oil Panna Pump",
+      "address": "C226+G6P, Vizhinjam, Venganoor",
+      "lat": 8.4013318,
+      "lng": 77.0105878,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJpzBLMwClBTsRrSNrAIYOXJo",
+      "name": "Nayara petrol pump",
+      "address": "Geetha Bhavan, Kattachalkuzhi Mangalattukonam Road, Mukkola, Vizhinjam, Kovalam",
+      "lat": 8.3828113,
+      "lng": 77.0029971,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8_5HrVe7BTsRr37rXJbK_DA",
+      "name": "Bharat Petroleum - Vijaya Fuels",
+      "address": "near Vijaya Fuels, Panvel - Kochi - Kanyakumari Highway, Kaimanam, Pappanamcode, Thiruvananthapuram",
+      "lat": 8.4742338,
+      "lng": 76.9764359,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtRr9FgCvBTsR0RwKGCaMrOw",
+      "name": "Kamala Fuels Nayara",
+      "address": "92Q6+CWJ, Vizhinjam - Uchakkada Road, Mukkola, Vizhinjam, Kovalam",
+      "lat": 8.388510999999998,
+      "lng": 77.011774,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJszeSWwCvBTsRg9AW8rcIK2M",
+      "name": "Petrol Pump(NAYARA) Kidarakkuzhi",
+      "address": "92Q6+CWJ, Vizhinjam - Uchakkada Road, Mukkola, Vizhinjam, Kovalam",
+      "lat": 8.3883124,
+      "lng": 77.0119242,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJTwrIKAC7BTsRpPm_NNXkVeg",
+      "name": "Aravid Gas Godown",
+      "address": "FXFJ+Q7Q, Chirakkara Temple Road, Haritha Nagar, Kaimanam, Pappanamcode, Thiruvananthapuram",
+      "lat": 8.4744539,
+      "lng": 76.98095479999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJV4NcIzi7BTsR0EVrBJBJJG0",
+      "name": "Kerosene Pump",
+      "address": "FWGP+Q6V, Puttenpalam road, Puthenpalam, Pavithra Nagar, Subhash Nagar, Thiruvananthapuram",
+      "lat": 8.4769986,
+      "lng": 76.9355406,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJBbcURACxBTsRpTSYUXcqPB0",
+      "name": "Indian oil petrol pump",
+      "address": "C2X7+69M, Pallichal",
+      "lat": 8.447785399999999,
+      "lng": 77.01323239999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJwU335-K7BTsRPP244u-UOkA",
+      "name": "Bharat Petroleum - VR Agencies",
+      "address": "Killipalam, Karamana, Thiruvananthapuram",
+      "lat": 8.481449699999999,
+      "lng": 76.9609759,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm9T5vv-6BTsREt7qenivltg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Karamana Junction, Thiruvananthapuram",
+      "lat": 8.4816101,
+      "lng": 76.965971,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL1NsFXO7BTsRfF__Glj_i1Y",
+      "name": "IndianOil",
+      "address": "Ksrtc, Bus Depot, East Fort, Thiruvananthapuram",
+      "lat": 8.4834345,
+      "lng": 76.9480282,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGed9s6m7BTsRkJALmRvDLc4",
+      "name": "Emarald Auto Fuels (HP)",
+      "address": "HPC Dealers, Chalai, Thiruvananthapuram",
+      "lat": 8.48447,
+      "lng": 76.95582,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJt07SNS67BTsR2NVXtK025P8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Chalai, Thiruvananthapuram",
+      "lat": 8.484470099999998,
+      "lng": 76.955821,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCTuOJwCvBTsR1rrUe3ENRhU",
+      "name": "Petrol pump",
+      "address": "92VC+497, Star Traders Uchakkada Mukkola Rd, near Santhinigedhan School, Uchakkada - Nellimoodu Road, uchakkada, Vizhinjam, Venganoor",
+      "lat": 8.3927952,
+      "lng": 77.02091829999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJlddXtae7BTsR5cZ8Ky3ZBEM",
+      "name": "American Auto Stores",
+      "address": "Opp. Railway station, Power House Road, Thiruvananthapuram",
+      "lat": 8.4855587,
+      "lng": 76.9499994,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmXOIJAC7BTsRtF5QhgoQp5Y",
+      "name": "Tiru",
+      "address": "FWJJ+X2P, Eanchakkal, Thiruvananthapuram",
+      "lat": 8.4824513,
+      "lng": 76.93007089999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ1ab8TPGvBTsRlXiIxlj0Gqs",
+      "name": "Ammu Fuels HP Petrol Pump",
+      "address": "92J9+HC3, Payarumoodu Road, Vizhinjam, Kottukal",
+      "lat": 8.3815946,
+      "lng": 77.0183136,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJk3h-sbOvBTsRID-jdO_6uuk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "S No 576/23 & 576/23/1, Punnamkulam Road, Vizhinjam, Thiruvananthapuram",
+      "lat": 8.3815533,
+      "lng": 77.0183315,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlWlAN527BTsRe_w_O8bhFIM",
+      "name": "IndianOil",
+      "address": "NH Bypass, Attakulangara - Enchakkal Road, Vallakkadavu, Thiruvananthapuram",
+      "lat": 8.4835321,
+      "lng": 76.930336,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB4PKPbKvBTsRNQleHxcpEmM",
+      "name": "Reliance Petroleum",
+      "address": "opposite Telecom Centre, Ground Floor Neyyattinkara, Balaramapuram, opposite Telecom Centre, Pallichal",
+      "lat": 8.4262962,
+      "lng": 77.0421408,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCd0_q8mvBTsRuU3y5sGMUYE",
+      "name": "Bharat Petroleum",
+      "address": "C2FX+H56, Near Balaramapuram Junction, Main Road, Balaramapuram, Thiruvananthapuramm",
+      "lat": 8.423917,
+      "lng": 77.047899,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJhezwa0yuBTsRAPsJRH-DspI",
+      "name": "Bharat Petroleum - Sree Nagaraja Fuels",
+      "address": "BALARAMAPURAM, TRIVANDRUM, Thiruvananthapuram",
+      "lat": 8.4154602,
+      "lng": 77.060448,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsd26RRivBTsRiLU1ru7PNc0",
+      "name": "Indian oil",
+      "address": "Balaramapuram - Poovar Road, Nellimoodu",
+      "lat": 8.3801174,
+      "lng": 77.0469243,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFcW9pl2uBTsRwUC67Y2zaS4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Koottappana, Neyyattinkara",
+      "lat": 8.4087801,
+      "lng": 77.07759100000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYQu0XoK6BTsRvqBmkJIOhxk",
+      "name": "Bharat Petroleum BP Petrol Pump AVJ Fuels",
+      "address": "F2G5+MCX, Choozhattukootta",
+      "lat": 8.476744999999998,
+      "lng": 77.0085979,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJG0F48YiuBTsRwhE-qkDd81M",
+      "name": "K Krishnankutty & Co",
+      "address": "Indian Oil Petrol Pumb, near Akshaya Complex, Neyyattinkara",
+      "lat": 8.3978865,
+      "lng": 77.0896892,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo4W2fdSuBTsRKY-QgRqwlk4",
+      "name": "IndianOil",
+      "address": "Ground Floor Manaveli, Kanjiramkulam, Mulluvila Road, Thiruvananthapuram",
+      "lat": 8.3602531,
+      "lng": 77.06186699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHX5fQwCvBTsREurqP0XctWI",
+      "name": "Petrol Pump Mangalathukonam",
+      "address": "C25P+Q94, Venganoor",
+      "lat": 8.4095184,
+      "lng": 77.03585919999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJsw15YgCvBTsRCNF0eAWpNgk",
+      "name": "Indian oil petrol pump",
+      "address": "C2JH+H43, Vedivachankoil, Pallichal",
+      "lat": 8.4313878,
+      "lng": 77.02779819999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJiTlWSwCvBTsR7q1q7N1GPEA",
+      "name": "Thiruvananthapuram",
+      "address": "C2PG+4G2, Remya Auditorium Entrance Road, Pallichal",
+      "lat": 8.435263899999999,
+      "lng": 77.0262771,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJIek5RwCvBTsR2ToIed-4jQQ",
+      "name": "Vedivechan Kovil",
+      "address": "P.O, Balaramapuram",
+      "lat": 8.435843499999999,
+      "lng": 77.0405473,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJE38uDpSvBTsRAlo_YTHMvWQ",
+      "name": "AMBUJA FUELS _ BPCL",
+      "address": "near RAILWAY STATION, THEMPAMUTTAM KATTAKADA ROAD, Balaramapuram",
+      "lat": 8.4350372,
+      "lng": 77.05304029999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJD2hXBiqvBTsROeUi_UsuTAs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Balaramapuram - Poovar Road, Nellimoodu",
+      "lat": 8.385169300000001,
+      "lng": 77.0483005,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdf8KETSwBTsR04BBmpdy470",
+      "name": "IndianOil",
+      "address": "Ground Floor, Ooruttambalam, Govindamangalam",
+      "lat": 8.4602006,
+      "lng": 77.0515787,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLUQElBSxBTsR9dJtETV3PKo",
+      "name": "Bharat Petroleum- Petrol Pump-AMJ Associates Auto Fuels",
+      "address": "Vizhinjam - Balaramapuram - Kattakkada Road, Ooruttambalam",
+      "lat": 8.454648299999999,
+      "lng": 77.0602442,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJbUySS-vBTsR5ew-FafJZjI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Kanjiramkulam",
+      "lat": 8.366920099999998,
+      "lng": 77.050201,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB8HhdMaxBTsRb_YGcgWrqso",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Kottamukal, Ooruttambalam",
+      "lat": 8.4562643,
+      "lng": 77.06903779999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe__I-VCwBTsRNZNgL8Cp8hY",
+      "name": "Nayara Energy - Shanu Fuels",
+      "address": "F2HW+6V3, Valiyarathala - Kanavila - Malayinkeezhu Road, Malayinkeezh",
+      "lat": 8.4780107,
+      "lng": 77.0471701,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0W7cFwCvBTsR2dnisKyZrq0",
+      "name": "Bharat Petroleum - Rams Fuels",
+      "address": "9368+X5M, Manaveli, Athiyannur",
+      "lat": 8.361753799999999,
+      "lng": 77.0651717,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJt6qX9JWuBTsRXW_tUQPjxX8",
+      "name": "IndianOil",
+      "address": "Ground Floor, Thazhe Varambil, Olathanni",
+      "lat": 8.380069,
+      "lng": 77.083568,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKdFx-pKxBTsRj9UK8lObEBs",
+      "name": "IndianOil",
+      "address": "Ground Floor, Malayinkeezhu, Santhumoola, opposite Kannamangalam Shiva Temple, Thiruvananthapuram",
+      "lat": 8.4859968,
+      "lng": 77.0346983,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9eECO-2xBTsRNTz6LIs-84E",
+      "name": "Nayara Fuel Station",
+      "address": "F38G+PPV, Maranalloor",
+      "lat": 8.4670402,
+      "lng": 77.0761356,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJU1DUlamvBTsR-T7_iai2k7A",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 47, Neyyattinkara",
+      "lat": 8.3925771,
+      "lng": 77.09318069999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ26tzdBa8BTsRZbhX2G9rzbs",
+      "name": "IndianOil",
+      "address": "Ground Floor Titanium, Kochuveli, Thiruvananthapuram",
+      "lat": 8.5078391,
+      "lng": 76.897247,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkz1kl4--BTsRoeCvANnvRUk",
+      "name": "IndianOil",
+      "address": "Bypass Attipra, Kulathoor, Thiruvananthapuram",
+      "lat": 8.534877,
+      "lng": 76.8817041,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-dH_QZG7BTsR7_Cp6EdZ3PQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Beach Road, Pettah, Thiruvananthapuram",
+      "lat": 8.497140100000001,
+      "lng": 76.934061,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWdgBcr67BTsRAI5EERH6nTw",
+      "name": "Bharat Petroleum - Gopala Krishna Fuel Center",
+      "address": "Vanchiyoor, Thiruvananthapuram",
+      "lat": 8.4991569,
+      "lng": 76.9425741,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGYVha7m7BTsRFUkOqgMf1Bw",
+      "name": "IndianOil",
+      "address": "Ground Floor, Mahatma Gandhi Road, Statue, Palayam, Thiruvananthapuram",
+      "lat": 8.499877099999999,
+      "lng": 76.948779,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJz-t5vt27BTsRbj-OnKqhcJ0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Pattom Palace, Pattom, Thiruvananthapuram",
+      "lat": 8.518270099999999,
+      "lng": 76.942841,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbTgCu1-5BTsRL7DwyQRPIGA",
+      "name": "Bharat Petroleum - KI George",
+      "address": "NSP Nagar, Kesavadasapuram, Thiruvananthapuram",
+      "lat": 8.5270265,
+      "lng": 76.9392088,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqZOE4Uu5BTsRF1g0jc_Vido",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Pongumoodu, Thiruvananthapuram",
+      "lat": 8.5418101,
+      "lng": 76.92382099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-18U7ce7BTsR54RUWqcSNuI",
+      "name": "Hindustan Petroleum - Rukson Trades",
+      "address": "TC 14/255, Mahathma Gandhi Road, Opp. Chandrasekharan Nair Stadium, Palayam, Thiruvananthapuram",
+      "lat": 8.5046628,
+      "lng": 76.9515229,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrYkNwiy9BTsRENn7NfUD3GA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Karikkakam, Thiruvananthapuram",
+      "lat": 8.507971600000001,
+      "lng": 76.9057353,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB43_ZOC9BTsRRytwyf3o9fQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, near KSRTCE Bus Terminal, Anayara, Thiruvananthapuram",
+      "lat": 8.5130584,
+      "lng": 76.9003323,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJebgvVQy8BTsRqdZZchGU6JI",
+      "name": "IndianOil",
+      "address": "near Anayara Bus Stop, Finesse Junction, NH Bypass, Venpalavattom, Thiruvananthapuram",
+      "lat": 8.5060281,
+      "lng": 76.90920299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0_XNlVS_BTsR-b0ZzBZABbs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near NISH Road, Ulloor - Akkulam Road, University, Aakkulam, Thiruvananthapuram",
+      "lat": 8.5241321,
+      "lng": 76.90365299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFT15I3u_BTsR-cGNI6E1OEk",
+      "name": "Memalayil Fuels",
+      "address": "No. 9, Sunrise Park, opp. UST Global Campus, Phase II, Aakkulam, Kazhakkoottam",
+      "lat": 8.533158,
+      "lng": 76.9041976,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBaMjABG7BTsRaRZIHBfI9A0",
+      "name": "IndianOil",
+      "address": "GH Road, Pattoor - Vanchiyoor Road, Thiruvananthapuram",
+      "lat": 8.4969886,
+      "lng": 76.935766,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJp9zyMqG5BTsR4gs5dHFjpS8",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Medical College, Ulloor, Thiruvananthapuram",
+      "lat": 8.5282905,
+      "lng": 76.9283888,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQcp0Xnu7BTsRTl-e7Yo5RSg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near General Hospital Junction, Red Cross Road, Thiruvananthapuram",
+      "lat": 8.499510100000002,
+      "lng": 76.944401,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-6JEaQC7BTsR0RejP5L7RX0",
+      "name": "IndianOil",
+      "address": "General Hospital Road, Kunnukuzhy, Thiruvananthapuram",
+      "lat": 8.500383099999999,
+      "lng": 76.9455366,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM7dJPbS5BTsRlPuVcA7P-bs",
+      "name": "INDIANOIL-T.K.VARGHESE & SONS",
+      "address": "Kochulloor, Thiruvananthapuram",
+      "lat": 8.5321248,
+      "lng": 76.9287902,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBbAEZXi7BTsRiXPHmcyDx5U",
+      "name": "KSRTC Yathra Fuels,Vikas Bhavan",
+      "address": "Ground Floor, Vikas Bhavan, Depot, Vikas Lane, PMG, Thiruvananthapuram",
+      "lat": 8.508567900000001,
+      "lng": 76.9466386,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJn6lTkVC5BTsR2ECOIjFX7Cg",
+      "name": "IndianOil",
+      "address": "Medical College Ulloor Road, Thiruvananthapuram",
+      "lat": 8.535757799999999,
+      "lng": 76.92753259999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxa6_ot27BTsRiov6nr1uHmU",
+      "name": "IndianOil",
+      "address": "Ground Floor, Salem-Kanyakumari Highway, Vrindavan Gardens, Pattom, Thiruvananthapuram",
+      "lat": 8.517873100000001,
+      "lng": 76.94276599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkUzEkqW7BTsRQZHrhYyJRP8",
+      "name": "KSRTC Workshop",
+      "address": "FXQ2+QQ8, Thampanoor Masjid Road, Overbridge, Thampanoor, Thiruvananthapuram",
+      "lat": 8.4894197,
+      "lng": 76.95194359999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJt2Rt_q-7BTsR6RGEQDYLETA",
+      "name": "IndianOil",
+      "address": "Model School Junction, Chenkalchoola Colony, Thycaud, Thiruvananthapuram",
+      "lat": 8.4933361,
+      "lng": 76.953094,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJj0_JF8a7BTsR-fxmWevBCRE",
+      "name": "Bharat Petroleum - M/s Unemployed Engineers Cooperative Society Limited",
+      "address": "Bakery, Thycaud, Thiruvananthapuram",
+      "lat": 8.5008467,
+      "lng": 76.95383570000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPSHpXk26BTsRp6hAcGfq8TA",
+      "name": "IndianOil",
+      "address": "Ground Floor, Jagathy, Thiruvananthapuram",
+      "lat": 8.501042,
+      "lng": 76.9670151,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnX3Gm0e7BTsR8hSuD6Ju1AQ",
+      "name": "Bharat Petroleum - Pradeep Filling Station",
+      "address": "Vivekananda Nagar, Edapazhanji, Thiruvananthapuram",
+      "lat": 8.503823,
+      "lng": 76.9690097,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm_ZRcsy7BTsRlw3EAcE_1Fc",
+      "name": "IndianOil",
+      "address": "Ground Floor, opposite KWA, Vellayambalam, Thiruvananthapuram",
+      "lat": 8.510208099999998,
+      "lng": 76.96024299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJayLzQ9K7BTsRLgH_SLzdLBQ",
+      "name": "Bharat Petroleum - M/s PK Parameswaran Nair",
+      "address": "GX86+P4X, Opposite Jawahar Nagar, Belhaven Gardens, Kowdiar, Thiruvananthapuram",
+      "lat": 8.5168678,
+      "lng": 76.9603738,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCaxp8yS6BTsRCPIe6xtO9rA",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kanjirampara, Thiruvananthapuram",
+      "lat": 8.5181151,
+      "lng": 76.979935,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-xf6otO7BTsRGUVh6XJ61yo",
+      "name": "HP Petrol Pump",
+      "address": "Kowdiar, Thiruvananthapuram",
+      "lat": 8.5190615,
+      "lng": 76.96089889999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx3peaJi5BTsR1rdDpRXjL6E",
+      "name": "IndianOil",
+      "address": "Kerala Police, Athani Lane, opposite Parade Ground, SAP Camp Road, Peroorkada, Thiruvananthapuram",
+      "lat": 8.524767299999997,
+      "lng": 76.9701442,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJj9K7ymy6BTsR5pWeLjZuBBo",
+      "name": "IndianOil",
+      "address": "Alumoodu Lane, Thirumala, Thiruvananthapuram",
+      "lat": 8.5054929,
+      "lng": 76.99395299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDxZ2Gp25BTsR7tsg2tblDvI",
+      "name": "IndianOil",
+      "address": "Ground Floor, Peroorkada Junction, Thiruvananthapuram",
+      "lat": 8.538706099999999,
+      "lng": 76.966469,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC_5mefW5BTsRko_utGGrowk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Vattiyoorkavu, Thiruvananthapuram",
+      "lat": 8.5274865,
+      "lng": 76.98986649999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCbXJrKCwBTsR8DixdulgLrM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Opposite School, Pallimukku, Peyad",
+      "lat": 8.511468999999998,
+      "lng": 77.010836,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ09ytTgu5BTsR1eebqucK2cQ",
+      "name": "IndianOil",
+      "address": "Kudappanakunnu Road, Peroorkada, Thiruvananthapuram",
+      "lat": 8.5476195,
+      "lng": 76.9595743,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTffVmKK5BTsRFK3j6ZMwh0U",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Puravoorkonam, Vazhayila, Karakulam, Thiruvananthapuram",
+      "lat": 8.5481401,
+      "lng": 76.974221,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJj879dpewBTsRRcFCswUWld0",
+      "name": "IndianOil",
+      "address": "Ground Floor, Peyad - Pidaram Road, Malayinkeezh",
+      "lat": 8.503579799999999,
+      "lng": 77.02285619999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB2cAfwC7BTsRGB6PAPBof-A",
+      "name": "COMPANY OWNED PETROL PUMP (A R FUELS)",
+      "address": "A R FUELS ADHOC, Poojappura Main Road, Jagathy, Thiruvananthapuram",
+      "lat": 8.4941377,
+      "lng": 76.96564,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo4W87n67BTsRk6cvb2Uv9c0",
+      "name": "Bharat Petroleum - A Veeraraghava Iyer & Co",
+      "address": "VAZUTHACAUD - THYCAUD RO, Thiruvananthapuram",
+      "lat": 8.500747200000001,
+      "lng": 76.95884699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0bfAB7m7BTsRQ2r6mICE_hA",
+      "name": "IndianOil",
+      "address": "Ground Floor, Karamana - Poojapura Road, Poojapura, Thiruvananthapuram",
+      "lat": 8.488266,
+      "lng": 76.9725069,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcVIt-nm7BTsRAkK4qW0Y2M8",
+      "name": "Bharat Petroleum - Supplyco",
+      "address": "TRIVANDRUM, Thiruvananthapuram",
+      "lat": 8.507445499999998,
+      "lng": 76.96214739999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJewEi9JOwBTsRUAAUVYhUGSM",
+      "name": "Bharat Petroleum, Petrol Pump (Sai Fuels) Karipur",
+      "address": "TRIVANDRUM -KATAKADA ROAD, Thiruvananthapuram",
+      "lat": 8.5011341,
+      "lng": 77.028711,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5RHLIBWxBTsR3MkrboaLObQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, Amachal, Kattakkada",
+      "lat": 8.505938,
+      "lng": 77.07836,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJxSieYmxBTsRQKaFh8NG5Bk",
+      "name": "SAI FUELS",
+      "address": "BPCL Petrol Pump, Karipur, Malayinkeezh",
+      "lat": 8.501146599999998,
+      "lng": 77.0287125,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJiZyKGv6wBTsRy6_WNWGwUUI",
+      "name": "HP PETROL PUMP - SREE GANESH FUELS",
+      "address": "HPC Dealers, Meppukada, Malayinkeezhu P.O",
+      "lat": 8.488438499999997,
+      "lng": 77.04507029999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH4pKeqSxBTsRstVCd4b7s-0",
+      "name": "Nayara Energy, Christ nager.",
+      "address": "F3W2+R2G, Anthiyoorkonam",
+      "lat": 8.497072999999999,
+      "lng": 77.0500629,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZ_EpgeO7BTsR8UhCniAGHmM",
+      "name": "Bharat Petroleum - KK Fuels",
+      "address": "Thirumala, Thiruvananthapuram",
+      "lat": 8.496740299999999,
+      "lng": 76.99542389999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGeokMwCxBTsRIFfI_9I43f0",
+      "name": "Indian Oil Petrol Pump (IOCL)",
+      "address": "G2CH+FP3, Kollamkonam, Peyad",
+      "lat": 8.5211265,
+      "lng": 77.0293063,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ__OANbKxBTsRIv8Q_Old_G4",
+      "name": "Jio BP Petrol Pump, Epsilon fuels",
+      "address": "Kottappuram, Kollode, P.O, Kattadada, road, Malayinkeezh",
+      "lat": 8.4950376,
+      "lng": 77.0613406,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ93f49k67BTsRsnFVRfDqvGU",
+      "name": "A R FUELS",
+      "address": "Vettamukku Road, Thirumala, Thiruvananthapuram",
+      "lat": 8.503481599999997,
+      "lng": 76.98887119999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJj6WUYGq6BTsR9twIBGom5rw",
+      "name": "IndianOil",
+      "address": "Ground Floor, Vettamukku, Thirumala, Thiruvananthapuram",
+      "lat": 8.5075567,
+      "lng": 76.98565049999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBT_RoqaxBTsR-JUfLP0599s",
+      "name": "SK Petroleum | IndianOil",
+      "address": "Neyyattinkara Kattakkada Road, Kandala, Maranalloor",
+      "lat": 8.4824377,
+      "lng": 77.072632,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS3E7B1K7BTsRzI9-u4wh1Hw",
+      "name": "Annakkutty Bharatgas Service",
+      "address": "Annakkutty Bharatgas Service, Vattiyoorkavu, Thiruvananthapuram",
+      "lat": 8.5258869,
+      "lng": 76.99175699999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJzw7Wx8a3BTsRwQfyPro8CcM",
+      "name": "Bharat Petroleum - Naga Fuels",
+      "address": "Near Puliyarakonam Junction, Vattiyoorkavu - Kulasekharam Road, Puliyarakonam, Vilappil",
+      "lat": 8.5383266,
+      "lng": 77.02058509999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_U-CGmyxBTsRqezEhtIy33M",
+      "name": "Bharat Petroleum, Petrol Pump -M. S. Fuels",
+      "address": "Kattakkada",
+      "lat": 8.502745599999997,
+      "lng": 77.0787806,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL07REQCxBTsRydBwMQ2QOIw",
+      "name": "Hp petrol pump",
+      "address": "G39P+V33, Poovachal",
+      "lat": 8.519628799999998,
+      "lng": 77.0851793,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ30m10T_ABTsRmd3UJS4Kw8s",
+      "name": "IndianOil",
+      "address": "Ground Floor, Mangalapuram, Thiruvananthapuram",
+      "lat": 8.5650965,
+      "lng": 76.8750012,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6307wpa_BTsR1zrqf1tkDI0",
+      "name": "IndianOil",
+      "address": "Ground Floor, Alumoodu, Kaniyapuram",
+      "lat": 8.5650965,
+      "lng": 76.8750012,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMZj97cbqBTsRZA09lKEpi-s",
+      "name": "IndianOil",
+      "address": "Ground Floor, Perumathura, Thiruvananthapuram",
+      "lat": 8.5650965,
+      "lng": 76.8750012,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTSxb6EDqBTsRmbXToOqWssI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Koonthalloor, Chirayinkeezhu Near Erattakkalunge, Thiruvananthapuram",
+      "lat": 8.5650965,
+      "lng": 76.8750012,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDyNtPs2-BTsR__Ytcbj_sqs",
+      "name": "IndianOil",
+      "address": "Chekkalamukku, Sreekaryam, Thiruvananthapuram",
+      "lat": 8.5549731,
+      "lng": 76.91682399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJA8O2WaLABTsRk1Ka7E9zufA",
+      "name": "IndianOil",
+      "address": "Ground Floor, Pothencode",
+      "lat": 8.6173661,
+      "lng": 76.896898,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoVlPDhS_BTsRsx1DHTy77yU",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kazhakkuttom, opposite Police Station, Kodikulam",
+      "lat": 8.5707811,
+      "lng": 76.871681,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMWVBXQC_BTsRP5qqQq0tQps",
+      "name": "IndianOil",
+      "address": "NH Road, Kazhakkoottam",
+      "lat": 8.573641000000002,
+      "lng": 76.869884,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJASD5GgC_BTsRyta2ec_4vdQ",
+      "name": "ANAGHA FUELS Bharat petroleum",
+      "address": "Ajish n Roopa, Sreekariyam - Pothencode Road, Sabari Nagar, Chempazhanthy, Thiruvananthapuram",
+      "lat": 8.5629448,
+      "lng": 76.9124555,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjfRfMEm-BTsRk3KMMc-Nobo",
+      "name": "Bharat Petroleum, Petrol Pump -St Jude Fuels",
+      "address": "MEENAMKULAM, Thiruvananthapuram",
+      "lat": 8.5580156,
+      "lng": 76.8541173,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQxvgAAC_BTsR0jOPg_xS-u0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Pothencode Road, Kazhakkoottam",
+      "lat": 8.58883,
+      "lng": 76.87862650000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvdwrdgC_BTsR02-czEvNWa8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Pothencode Road, Kazhakkoottam",
+      "lat": 8.58883,
+      "lng": 76.87862650000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUfkwFgC_BTsR3zX1uCwJT4I",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Marine Fuels, Saint Andrews Road, Thiruvananthapuram",
+      "lat": 8.576075799999998,
+      "lng": 76.8529859,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDU8_4NK_BTsRVvb_SsdV2jA",
+      "name": "IndianOil",
+      "address": "Ground Floor, Psachira, Pallipuram, Pothencode",
+      "lat": 8.5956701,
+      "lng": 76.86152489999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJw3Bwoxe5BTsR5RHpkcDhIxA",
+      "name": "IndianOil",
+      "address": "Kottamugal, Mannanthala, Thiruvananthapuram",
+      "lat": 8.556619099999999,
+      "lng": 76.943321,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJz2UCmqfABTsRS6I7M9nqjnk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, 7/100, Plamoodu, Kariyam-Pothencode Road, Plamoodu, Plamoodu, Ayiroopara, Pothencode",
+      "lat": 8.6109701,
+      "lng": 76.904491,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJiwlgfgDBBTsRksXPtJNv6TM",
+      "name": "Reliance JIO bp",
+      "address": "JV9X+QFQ, Pothencode",
+      "lat": 8.619465999999997,
+      "lng": 76.8987284,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZXMCYzzBBTsRO0XeYdelpNQ",
+      "name": "Bharat Petroleum, Petrol Pump -Kamala Fuels",
+      "address": "POTHENCODE, Thiruvananthapuram",
+      "lat": 8.620892999999999,
+      "lng": 76.8922528,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAcmu_MC5BTsRSm7f6sHZ-CY",
+      "name": "IndianOil",
+      "address": "Ground Floor, Nettayam, Cheriyakonni",
+      "lat": 8.5516141,
+      "lng": 76.989642,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ45h9Oxa4BTsRfbx8J0pwNjM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near 10 KM Stone, Chenkotta Road, Maruthinakam, Thiruvananthapuram",
+      "lat": 8.592340199999999,
+      "lng": 76.9950009,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJldEhhg-4BTsRaN2ZUEzwXVo",
+      "name": "IndianOil",
+      "address": "Ground Floor, near 11th Stone, Nedumangad",
+      "lat": 8.6042996,
+      "lng": 76.99853689999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHx_3UtW5BTsRwZ8SW1yOfWw",
+      "name": "IndianOil",
+      "address": "Vazhayila, Peroorkada, Thiruvananthapuram",
+      "lat": 8.5459938,
+      "lng": 76.9736631,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJryV1Sqa5BTsRX5cKBuGbMkc",
+      "name": "MELATHIL FUELS, IOC Petrol Pump",
+      "address": "Thiruvananthapuram - Ponmudi Road, Azhicode",
+      "lat": 8.5779744,
+      "lng": 76.9965165,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeYi2ppm4BTsRAM9MRnVb638",
+      "name": "IndianOil",
+      "address": "Ground Floor, Vettinad - Velavoor Road, Vattappara",
+      "lat": 8.602911099999998,
+      "lng": 76.94520299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNchfq3G5BTsRfhcCeqYQ8lY",
+      "name": "Reliance Petroleum",
+      "address": "Ground Floor, Valicode, Thiruvananthapuram - Ponmudi Road, Nedumangad",
+      "lat": 8.598083299999999,
+      "lng": 76.9953333,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFUzZ_gS4BTsRNcs2US_YyuM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Pazhavadi, Nedumangad",
+      "lat": 8.605060099999998,
+      "lng": 77.00204099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJj6OeRQDHBTsRONRpCz6emrQ",
+      "name": "BPCL petrol pump - AS fuels",
+      "address": "Venkavila",
+      "lat": 8.6156698,
+      "lng": 76.9906752,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx9V1Sou5BTsRKSDFtgCnYtA",
+      "name": "Bharat Petroleum - Mohandas & Co",
+      "address": "TRIVANDRUM -VITHURA ROAD, Thiruvananthapuram",
+      "lat": 8.6111974,
+      "lng": 76.9979221,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJT6aWBQDHBTsRO4iRCYrY2h4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, SH 47, Venkavilla, Anad",
+      "lat": 8.6199063,
+      "lng": 76.9857838,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfZaFYZi3BTsRz8DE6zX9MMk",
+      "name": "IndianOil",
+      "address": "Ground Floor, Vellanad - Kuthirakalam Road, Mundela",
+      "lat": 8.579557099999999,
+      "lng": 77.03246299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRaJ1bUO2BTsR1D7tsilSOAA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, opposite Old Age Home, Tholoor, Aryanad",
+      "lat": 8.585428799999999,
+      "lng": 77.0749763,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFxvKVF22BTsRERMqFQuUNXg",
+      "name": "IndianOil",
+      "address": "Ground Floor, Aryanad",
+      "lat": 8.583516099999999,
+      "lng": 77.079083,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHcH1uaK2BTsR5QCB2RWpmuM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Pezhummoodu",
+      "lat": 8.5507788,
+      "lng": 77.0919373,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_5KBf_22BTsRUJTKxpQtwpM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Vellanad",
+      "lat": 8.5640701,
+      "lng": 77.05662099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJa1zA7yW3BTsRHPcZrtwSmvc",
+      "name": "Deva Fuels",
+      "address": "Kurinjilakkode Mundela, Nedumangad",
+      "lat": 8.591465699999999,
+      "lng": 77.02296919999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkYG5Wb23BTsReUIcvYghQCE",
+      "name": "Bharat Petroleum",
+      "address": "H2WJ+9G4, Konganam",
+      "lat": 8.5958987,
+      "lng": 77.0313283,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJPxnr7ee3BTsRe1TJIgdcIf4",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kambanimukku, Aryanad, Aryanad",
+      "lat": 8.569602099999997,
+      "lng": 77.064407,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJX_-oAQC3BTsRl7yIRHGftZ4",
+      "name": "BPCL Petrol Pumb - Conpex Energy",
+      "address": "H2X8+7M2, Nettirachira, Nedumangad",
+      "lat": 8.5981314,
+      "lng": 77.0162462,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJH-4XIUO2BTsRhb6E1cKP56s",
+      "name": "HP Petrol Pump - United Petroleum",
+      "address": "Hpcl Dealers, Tholoor, Opp.oldage Home, Aryanad, Cochin",
+      "lat": 8.5847705,
+      "lng": 77.0764346,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEcRiVV22BTsRUYfnR5_ODcQ",
+      "name": "Tholoor Aryanad",
+      "address": "H3MH+CQG, State Highway 45, Cherukulam, Aryanad",
+      "lat": 8.583556699999999,
+      "lng": 77.07946319999999,
+      "open_now": true
+    }
+  ]
+}

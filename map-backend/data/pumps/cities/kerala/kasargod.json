@@ -1,0 +1,371 @@
+{
+  "city": "Kasargod",
+  "state": "Kerala",
+  "count": 45,
+  "center": {
+    "lat": 12.4997,
+    "lng": 74.972
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJq8a14nWBpDsR25BGYAIPBhg",
+      "name": "IndianOil",
+      "address": "Tin 32130543609C Kanhangad, Kalanad Road, Chemnad",
+      "lat": 12.456026,
+      "lng": 75.015125,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl0IZfQ6BpDsR7gMVX--62Uk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Udma",
+      "lat": 12.444861,
+      "lng": 75.023301,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy52N55KBpDsRA8ut11HufYU",
+      "name": "Bharat Petroleum, Petrol Pump -Rockland Fuels",
+      "address": "UDUMA KSGD, KASARGOD",
+      "lat": 12.4181147,
+      "lng": 75.02196769999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJn6N8y_OApDsRipJ_Kv03S7s",
+      "name": "Bharat Petroleum, Petrol Pump -Shivapriya Fuels",
+      "address": "Kasaragod - Kannur Road, Kottikkulam, Bekal",
+      "lat": 12.4109113,
+      "lng": 75.02293879999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhdHVq4GDpDsRakY8V6h392I",
+      "name": "MRPL Petrol Pump - M.I.K Fuel Station",
+      "address": "opposite Jama-ath Higher Secondary School, Chemnad",
+      "lat": 12.491879,
+      "lng": 75.0027577,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdydPC1OBpDsRDpSMbrn-ppk",
+      "name": "IndianOil",
+      "address": "Tin No 32130296752C, NH 17, Poinachi",
+      "lat": 12.468351,
+      "lng": 75.058449,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJb_64vhGBpDsR1O7JtT-Pwv4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Unnamed Road, Thekkal, Poinachi",
+      "lat": 12.4581101,
+      "lng": 75.0591401,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo0USUACBpDsRmQTjaxi9hQg",
+      "name": "Biogas Plant",
+      "address": "92QR+4GM, Pallikere",
+      "lat": 12.387827,
+      "lng": 75.041292,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJR5ujLaeApDsRWeh6EfHsIqQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, Pallikere - Periye Road, Kanhangad",
+      "lat": 12.387702,
+      "lng": 75.04357399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-2LSo5SHpDsRigfReZqrysg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Navodaya Nagar, Hosdurg, Periye",
+      "lat": 12.4155282,
+      "lng": 75.0905811,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsQ1tUXOHpDsR4cjUZ_tp0nQ",
+      "name": "Bharat Petroleum, Petrol Pump and CNG Station -Safari Agencies",
+      "address": "National Highway 66, Vadakkekara, Periye",
+      "lat": 12.4122558,
+      "lng": 75.0926236,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFbJ7Pm6HpDsRvH0rW1dVCFE",
+      "name": "IndianOil",
+      "address": "Tin No 32130663759C, Road Chittari, Alakkode",
+      "lat": 12.403508,
+      "lng": 75.095726,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo63uumaCpDsRwYbBjGJG4Hw",
+      "name": "IndianOil",
+      "address": "Ground Floor, Karanthakad, Adkathbail, near Fire Station, Kasaragod",
+      "lat": 12.50947,
+      "lng": 74.98601,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrxRG6UKCpDsRZOoTu3J6bUQ",
+      "name": "C T Moideen Kunhi And Brothers",
+      "address": "Petrol Pump, Kasaragod",
+      "lat": 12.5033616,
+      "lng": 74.9928786,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKdRDuomDpDsRpnkNK0qoRFM",
+      "name": "Jilu auto gas",
+      "address": "Bus Stop, Karndakkad, Edappally - Panvel Highway, Siraj Nagar, Kasaragod",
+      "lat": 12.5087831,
+      "lng": 74.98589079999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJnTVFRQCDpDsRzfWYktwsoNc",
+      "name": "Jio bp",
+      "address": "opp. Thalipadup maidan, Kasaragod",
+      "lat": 12.5133134,
+      "lng": 74.9823818,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZ4MVpYODpDsRKV17s6zy9n0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, MG Road, Kasaragod",
+      "lat": 12.503391,
+      "lng": 74.99291099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg7k8E1yCpDsRALSxIAbvBSo",
+      "name": "IndianOil",
+      "address": "Ground Floor, MG Road, Choori, Kasaragod",
+      "lat": 12.509399,
+      "lng": 74.996033,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-UCREFmCpDsRChkR2040p5o",
+      "name": "Indian Oil Corporation IOC Fuel station",
+      "address": "SH 31, Kasaragod",
+      "lat": 12.5130463,
+      "lng": 74.99881719999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJD8bb652CpDsRzEwIo_01KEw",
+      "name": "Chowki Bharat Petroleum BPCL Petrol Pump",
+      "address": "PO, Kavugoli, Kudlu",
+      "lat": 12.5305576,
+      "lng": 74.96889829999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJF80XLQ-DpDsRf2_WeWzVUcw",
+      "name": "Bharat Petroleum, Petrol Pump -K.V. Kamat & Co.",
+      "address": "NH17 VIDYANAGAR KSGD",
+      "lat": 12.5152521,
+      "lng": 75.0078856,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2U0VBQCDpDsRGNR2o-V-epc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Vidyanagar - Uliyathadka Road, Kasaragod",
+      "lat": 12.517921,
+      "lng": 75.014941,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJowXudcOCpDsRAPmCFywBSGs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Kasargod Madhur Road, Uliyathadka, Madhur",
+      "lat": 12.543463,
+      "lng": 74.9998586,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe8I95QuDpDsRAIIAS5j7bdU",
+      "name": "AK SONS PETROLEUM",
+      "address": "Kasaragod – Madhur Road Uliyathadukka-madhur, road, Chowki -Uliyathadukka, Kasaragod",
+      "lat": 12.5438228,
+      "lng": 75.00006320000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7SsKPgCDpDsRl9V8XmP_PE0",
+      "name": "Jio-bp",
+      "address": "opposite Toto Mall, No CGPW/20/245A, Naimarmoola - Perumbala Kadavu Road, Chengala",
+      "lat": 12.513701,
+      "lng": 75.02551009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDzZOQIWDpDsRfOhNyoMnI0M",
+      "name": "BPCL PETROL PUMP (M. A. AGENCIES)",
+      "address": "near GHSS, NH 66, 5th Mile, CENTRAL, Cherkala",
+      "lat": 12.5098361,
+      "lng": 75.05080989999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCxMA2UKEpDsRMDZShylgkDU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Cherkala",
+      "lat": 12.509021,
+      "lng": 75.05787099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY9nmQZiEpDsRBDExbgfYVAc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Edneer, Chengala",
+      "lat": 12.5415674,
+      "lng": 75.0710498,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmQDGab2FpDsRvGy1ob4Duys",
+      "name": "POVVAL FUELS",
+      "address": "PO, Povval, MULIYAR",
+      "lat": 12.5073031,
+      "lng": 75.0815557,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJB0vBCQCFpDsRDzGt9ZvFH6M",
+      "name": "Indian oil",
+      "address": "G35M+MCQ, Povval, Muliya",
+      "lat": 12.5098262,
+      "lng": 75.0824547,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJA1BwEgiFpDsRX6uv2mLNO38",
+      "name": "United Agencies Adhoc Bharat petrol station bovikanam",
+      "address": "G34V+P83, Cherkala - Jalsoor Road, Bovikanam",
+      "lat": 12.5067637,
+      "lng": 75.0932972,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPTBhXG-FpDsRafxXTe_2zOk",
+      "name": "IndianOil",
+      "address": "208/2A2, Guru Nagar, Nellikatte",
+      "lat": 12.5474003,
+      "lng": 75.0705242,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGTq7JbxiozsR3E1nhTabeFE",
+      "name": "IndianOil",
+      "address": "National Highway 66, Perwad, Mogral",
+      "lat": 12.5772174,
+      "lng": 74.95056,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuYG1Z75iozsR_rrtfj37LNM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Rajeev Nagar, Perwad, Kumbla (Kumble)",
+      "lat": 12.5785129,
+      "lng": 74.9488135,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJh26tsZFiozsR9RiJupvRKn4",
+      "name": "Bharat Fuel Agencies Petrol Pump",
+      "address": "Kumbla–Badiadka Road, Kumbla (Kumble)",
+      "lat": 12.5901062,
+      "lng": 74.95252339999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPeo4qUliozsR3b5aWiGxumM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 17, Bandiyod, Shiriya",
+      "lat": 12.6217245,
+      "lng": 74.92918240000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUUQxKbxiozsRwrRR1O22MXI",
+      "name": "Formula-1 Service Station",
+      "address": "Nh66, Perwad, Kumbla",
+      "lat": 12.5775341,
+      "lng": 74.9504422,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ48ykc1BjozsR-BUbVvRYJPQ",
+      "name": "InSquare Petroleum (MRPL)",
+      "address": "JWPF+GRQ, Bandiyod, Mangalpady",
+      "lat": 12.6367479,
+      "lng": 74.92529259999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeScvQQCdpDsR8q9V2D40RMU",
+      "name": "HP Petrol Pump",
+      "address": "Seethangoli",
+      "lat": 12.5947452,
+      "lng": 75.00509319999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfYc6Hh-dpDsR5XXhcm5P7so",
+      "name": "IndianOil",
+      "address": "Tin 32130539379 C Bela, Seethangoli",
+      "lat": 12.5869701,
+      "lng": 75.0102101,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJn0veniydpDsRcBETsuCcUIc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 211/2PT, Seethangoli, Edanad",
+      "lat": 12.609851,
+      "lng": 75.0083241,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxSbN3k-bpDsRSNvEnJkFOvA",
+      "name": "IndianOil",
+      "address": "Ground Floor Ariyapady, Neerchal",
+      "lat": 12.574781,
+      "lng": 75.072942,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAVQmfWibpDsRZ-IumCnvtA8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Perdala, Badiyadka",
+      "lat": 12.590421,
+      "lng": 75.073471,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYRkEGwCbpDsR4aw51NsWHdo",
+      "name": "Fuelex services",
+      "address": "H3HF+98H, Badiyadka",
+      "lat": 12.5784268,
+      "lng": 75.07335859999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ44peyuqbpDsRk_kdWCmZqfI",
+      "name": "Bharat Petroleum Petrol Pump , FUELEX ಭಾರತ್ ಪೆಟ್ರೋಲಿಯಂ ಪೆಟ್ರೋಲ್ ಬಂಕ್ SERVICES",
+      "address": "Badiyadka",
+      "lat": 12.5784114,
+      "lng": 75.0733735,
+      "open_now": true
+    }
+  ]
+}

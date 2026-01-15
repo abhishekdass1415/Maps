@@ -1,0 +1,347 @@
+{
+  "city": "Dibrugarh",
+  "state": "Assam",
+  "count": 42,
+  "center": {
+    "lat": 27.4818,
+    "lng": 95.0022
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJx4vU5Ey9QDcRbdHpy_vN5dw",
+      "name": "Abani Filling Station Bharat Petroleum",
+      "address": "FV5M+6FP, AT Rd, Dibrugarh",
+      "lat": 27.4580958,
+      "lng": 94.8837102,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJh7OnceShQDcRenGGJ-P0HKE",
+      "name": "IndianOil",
+      "address": "Ground Floor, AT Road, Lahowal",
+      "lat": 27.4542202,
+      "lng": 94.99048839999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgyjK8wKYQDcRPTAyDuRQ3Jg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Amolapatty, TRP Road, Chariali, Amolapatty, Dibrugarh",
+      "lat": 27.4731347,
+      "lng": 94.8951111,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBbSewgKYQDcRrD9Nv4NnLD8",
+      "name": "IndianOil",
+      "address": "Ground Floor, Amolapatty, Dibrugarh",
+      "lat": 27.474335,
+      "lng": 94.894795,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2wrcdOWiQDcRU5L-c6ZOAdA",
+      "name": "IndianOil",
+      "address": "Ground Floor, Khanikar,Bairagimath, Dibrugarh",
+      "lat": 27.426239,
+      "lng": 94.92217199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq50HycmjQDcR9TqQcLT3C_Q",
+      "name": "MS PRIYA FILLING STATION",
+      "address": "Khanikar, Dibrugarh",
+      "lat": 27.4273856,
+      "lng": 94.9222666,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpZf3IDSjQDcRHNxlndUrjk4",
+      "name": "IndianOil",
+      "address": "Ground Floor Bairagimath, Sesa,Khanikar, Dibrugarh",
+      "lat": 27.4290942,
+      "lng": 94.91662869999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZfu4GI2jQDcRO9AyRlh1grg",
+      "name": "IndianOil",
+      "address": "Ground Floor, Mancotta, Tepor Gaon,Bairagimath, Dibrugarh",
+      "lat": 27.4382689,
+      "lng": 94.9196059,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhWsXshKiQDcRpXFI033Sv3Y",
+      "name": "IndianOil",
+      "address": "Dag No 176, Pp No 127, Khanikar Road, Kuchia Khana Gaon",
+      "lat": 27.4491217,
+      "lng": 94.9559808,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM124b-u9QDcR7bbbNjst2Gk",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 37, Barbaruah, Bamunbari",
+      "lat": 27.406046,
+      "lng": 94.88396399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJw05vxIa9QDcRF6Hagfy6uzY",
+      "name": "SWAPNALI FUEL STATION",
+      "address": "Barbaruah",
+      "lat": 27.4062526,
+      "lng": 94.88324109999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJzxZzZXujQDcROFKOjZW7tAg",
+      "name": "NAYARA Petrol Pump",
+      "address": "FW67+HWG, Lane B, West Milan Nagar, Dibrugarh",
+      "lat": 27.4615492,
+      "lng": 94.9150863,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYZ3VgyajQDcRRoBZAnt5dGA",
+      "name": "HEMANTI FUEL SERVICE",
+      "address": "near Sarat Daily Bazar, Mancotta Road, West Milan Nagar, Dibrugarh",
+      "lat": 27.4624468,
+      "lng": 94.9179405,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJYeDDCVK9QDcRoTEpv0Z5uF0",
+      "name": "Reliance Petroleum",
+      "address": "Ground Floor, Nh 37, near Dibrugarh, Tekela Chiring Gaon, Imniversity, Dowrah Chowk, Tekela",
+      "lat": 27.4524002,
+      "lng": 94.8892911,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqW9tIqG9QDcRBOvnUnA5l-s",
+      "name": "GKNEWS24",
+      "address": "Assam Trunk Road, Nagakhalia Gaon",
+      "lat": 27.4530612,
+      "lng": 94.8883635,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJq_kzs6qZQDcR4-DLXMgM9F0",
+      "name": "IndianOil",
+      "address": "Dag No 13, PP No 148, Mancotta Road, Chowkidinghee, Dibrugarh",
+      "lat": 27.470701,
+      "lng": 94.93276999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ87qkmH2YQDcR9xIc99rhfus",
+      "name": "IndianOil",
+      "address": "Ground Floor, Boiragimoth, Dibrugarh",
+      "lat": 27.470851,
+      "lng": 94.93378899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8cG-FqiYQDcRpdfkkLYcDAc",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bokul, Chaulkhowa Grant Gaon",
+      "lat": 27.462386,
+      "lng": 94.96713899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIzbwIh2lQDcRZNZQ-HEGWbM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Thekerani, Dihing Khamtighat, Dihing Khamtighat Gaon",
+      "lat": 27.351961,
+      "lng": 94.94661599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYQeJ8QyYQDcRWF3O4G3V2L0",
+      "name": "IndianOil",
+      "address": "Ground, Chowkidinghee Tennis Court, Mancotta Road, Chowkidingee, Dibrugarh",
+      "lat": 27.470962,
+      "lng": 94.912202,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbTV4FL6ZQDcRyWpAjZL9b4w",
+      "name": "Bharat Petroleum, Petrol Pump -Khaund Service Station",
+      "address": "TR Phukan Road, Chowkidingee, Dibrugarh",
+      "lat": 27.4692262,
+      "lng": 94.90598489999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6ZFiXwejQDcRVdzXnM-Mq1A",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bongal Gaon",
+      "lat": 27.4729729,
+      "lng": 94.9451132,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQ4gTrQiYQDcR9cVH3VOF9-M",
+      "name": "NRL Petrol Pump",
+      "address": "opp. NRL petrol pump, 55, Chowkidingee, Dibrugarh",
+      "lat": 27.4692943,
+      "lng": 94.90450659999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS5NejpmZQDcR-u2SbkX63eE",
+      "name": "IndianOil",
+      "address": "DAG No 15, Patta No 353, Chiring Chapori, Dibrugarh",
+      "lat": 27.4700701,
+      "lng": 94.897804,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg8qMheiZQDcRRxlRNCFd-fo",
+      "name": "IndianOil",
+      "address": "Ground Floor A, T Road, Dibrugarh",
+      "lat": 27.4685506,
+      "lng": 94.8916056,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfcUUMmKYQDcRq7Hu2AECCko",
+      "name": "IndianOil",
+      "address": "Ground Floor, Jalan Nagar Colony, Dibrugarh",
+      "lat": 27.4791531,
+      "lng": 94.9327903,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJf5RAymi9QDcRS9ijrrzAkRQ",
+      "name": "Shell Fuel Station",
+      "address": "NH 15 Mouza-Jamira, Patra Gaon",
+      "lat": 27.38988,
+      "lng": 94.85933899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB8N55TugQDcR_gAwPOgGfWU",
+      "name": "IndianOil",
+      "address": "Ground Floor, Lahoal - Duliajan Road, Melengial, Bokul Maj Gaon",
+      "lat": 27.442223,
+      "lng": 95.03318200000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNxP2dCuhQDcRSPaXoWWk_D8",
+      "name": "Nayara",
+      "address": "C2FX+36, Tamulbari T.E.",
+      "lat": 27.422626,
+      "lng": 95.048119,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJha-RG9ehQDcRv8zwZoVvI_0",
+      "name": "IndianOil",
+      "address": "Ground Floor NH 37, Lahowal,Bokul Near, Dibrugarh",
+      "lat": 27.455799,
+      "lng": 95.01003399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPUmGicFfPzcRqj4ykmyoScs",
+      "name": "Petrol pump",
+      "address": "215, National Highway, Melengial Gaon",
+      "lat": 27.4322511,
+      "lng": 95.06121879999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJDXtvj9-fQDcR3vkSiGDbjDI",
+      "name": "Mohanbari PB Fuel Station",
+      "address": "Mohanbari Hindu Gaon",
+      "lat": 27.4656523,
+      "lng": 95.0256282,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJI6kKaxFfPzcRBOXmOTmd0wg",
+      "name": "IndianOil",
+      "address": "Ground Floor, Dikom, Phukanar Khat",
+      "lat": 27.4652941,
+      "lng": 95.0822996,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC_kZ2m6fQDcRJLgOiv8CX74",
+      "name": "Nayara Petrol Pump , soru pathar",
+      "address": "F3C5+F7, Sani Potia",
+      "lat": 27.47132509999999,
+      "lng": 95.0585211,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-2FnhFyYQDcRAlMJM9tNMI8",
+      "name": "IndianOil",
+      "address": "Ground Floor, Paltan Bazar, Jyoti Nagar, Dibrugarh",
+      "lat": 27.491573,
+      "lng": 94.926903,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-8V3Dc2ZQDcRhLIIcBi_ANg",
+      "name": "H B Servicing Centre",
+      "address": "Naliapool, Dibrugarh",
+      "lat": 27.4842834,
+      "lng": 94.92264709999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJK-B1OjmZQDcR9UparRBdjUM",
+      "name": "M/S TELAM GEJERA FILLING STATION",
+      "address": "SHOP NO.78, near BRAHMAPUTRA HOSPITAL, AMC Road, Dibrugarh",
+      "lat": 27.49142429999999,
+      "lng": 94.9270114,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ08rV6Q2ZQDcR9oBM7EKjZYE",
+      "name": "R.R & Company P Ltd",
+      "address": "Shop Number 61, near Road, RNC Path, Dibrugarh Thana Charali",
+      "lat": 27.4822507,
+      "lng": 94.90726839999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJo2bgwhaYQDcRpGOUH-vcPqM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bamunbari, Dibrugarh",
+      "lat": 27.48242,
+      "lng": 94.906961,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCbDfBTeZQDcR4SM1LGPnQN0",
+      "name": "SURAKSHA APPARATUS",
+      "address": "opposite of HOTEL NATRAJ, (lady fashion, HS Road, Dibrugarh",
+      "lat": 27.4815091,
+      "lng": 94.90424800000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoT3SB2yXQDcRu-_rKUCBT9g",
+      "name": "C M UDDIPAK FILLING STATION",
+      "address": "UDDIPAK FILLING STATION, C M, MOHONAGHAT ROAD, Dibrugarh",
+      "lat": 27.4750179,
+      "lng": 94.89037379999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJPZ0_48hhPzcRfBRzkQ7NFXY",
+      "name": "MS Neog Filling Station - Bharat petroleum",
+      "address": "Dist, P.O, Hatiali, P.S, Chabua",
+      "lat": 27.485123,
+      "lng": 95.1424225,
+      "open_now": true
+    }
+  ]
+}

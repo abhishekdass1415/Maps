@@ -1,0 +1,155 @@
+{
+  "city": "Nongpoh",
+  "state": "Meghalaya",
+  "count": 18,
+  "center": {
+    "lat": 25.5167,
+    "lng": 90.2167
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJc2rGaNzxVzcR3Mx8hPuUWr0",
+      "name": "Aldo - Mia service station",
+      "address": "P.O, Danak Songma, Araimile, Danakgre",
+      "lat": 25.5009631,
+      "lng": 90.15847500000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJNaA-PGzwVzcRc2zYjFLPzeM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Nehru Park, Bokmagre",
+      "lat": 25.502048,
+      "lng": 90.16205099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJceWJ9oHxVzcRvREQnDPQbis",
+      "name": "IndianOil",
+      "address": "Ground Floor, Tura, Araimile, Danakgre, Danakgre",
+      "lat": 25.5085761,
+      "lng": 90.15473349999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJT4YiAJLxVzcRL32q6ju1SEk",
+      "name": "IndianOil",
+      "address": "Ground Floor, Dobasipara, Tura",
+      "lat": 25.502739,
+      "lng": 90.21499399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJI8vKIaLxVzcRAmPmH69uo5c",
+      "name": "IndianOil",
+      "address": "Ground Floor, AMPT Road, Garo Hills",
+      "lat": 25.5144863,
+      "lng": 90.2044694,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpSBjGM7xVzcRBn-WJZvtSJI",
+      "name": "BSF Dobashipara",
+      "address": "G646+GJ8, Unnamed Road, Dobasipara, Tura",
+      "lat": 25.50629319999999,
+      "lng": 90.2115908,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJTfCTTbDzVzcRe4Uzoi0mF-U",
+      "name": "Bharat Petroleum, Petrol Pump -Walma Service Station",
+      "address": "Tura",
+      "lat": 25.506237,
+      "lng": 90.1931166,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4wh1U8HxVzcRG3-8ajr1Tpo",
+      "name": "Pan Kheli Shop",
+      "address": "Hawa khana, Ringre Fish Meat Market, Singi mari Road",
+      "lat": 25.5121366,
+      "lng": 90.22204939999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJtzO7ZIPxVzcRL2zpmhv_OQU",
+      "name": "IndianOil",
+      "address": "Tura",
+      "lat": 25.5150756,
+      "lng": 90.21675,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6ZcBcf_xVzcRhZv08zx40H0",
+      "name": "IndianOil",
+      "address": "Ground Floor, Danak Songma, Araimi, Araimile, Tura",
+      "lat": 25.5142036,
+      "lng": 90.20333210000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2ZriP4PxVzcRnPVXjxJjFVE",
+      "name": "IndianOil",
+      "address": "SH 11, Tura",
+      "lat": 25.5158952,
+      "lng": 90.2162129,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJF8oy3FiTVzcRgOCxvg-NEIw",
+      "name": "ZTM NOKREK SERVICE Station",
+      "address": "ZTM, Nokrek National Park, Service STATION Medical Road, Baghmara",
+      "lat": 25.46194239999999,
+      "lng": 90.321747,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJk4jKplTwVzcR6c6DPzwB6_w",
+      "name": "Didare Service Station",
+      "address": "Dakopgre, Tura",
+      "lat": 25.5149275,
+      "lng": 90.1861225,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJS_Sgyw_zVzcRlEmIdIMv4Uk",
+      "name": "IndianOil",
+      "address": "Duragri, Tura, Garo Hills, Duragri, Tura",
+      "lat": 25.558816,
+      "lng": 90.234403,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQxtCDQDzVzcRPM_vtkLEOFA",
+      "name": "Bharat petroleum",
+      "address": "Nehu campus, Tura",
+      "lat": 25.5650824,
+      "lng": 90.23554120000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJUe9A2VH1VzcR2b4aRElx9fs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Paikan, Duragre",
+      "lat": 25.5717147,
+      "lng": 90.24034759999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqc_3UUL0VzcRVvC4bule2Zw",
+      "name": "IndianOil",
+      "address": "Ground Floor Rongram, Tura",
+      "lat": 25.594288,
+      "lng": 90.2496025,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS40MSckdWDcRLkjfRYbAYJM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Dadenggre",
+      "lat": 25.5947019,
+      "lng": 90.24969279999999,
+      "open_now": true
+    }
+  ]
+}

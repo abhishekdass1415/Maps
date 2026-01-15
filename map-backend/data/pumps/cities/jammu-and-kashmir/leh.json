@@ -1,0 +1,171 @@
+{
+  "city": "Leh",
+  "state": "Jammu and Kashmir",
+  "count": 20,
+  "center": {
+    "lat": 34.1667,
+    "lng": 77.5667
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJWUiNhJeW_TgRWhEPwkLQpFo",
+      "name": "IndianOil",
+      "address": "Ground Floor, Phey",
+      "lat": 34.15287899999999,
+      "lng": 77.458142,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJswWZZcCV_TgRMPmWMFn2XMw",
+      "name": "Leh filling station Gupuks Phey",
+      "address": "GUPUKS PHEY, Spituk - Zinchen Road, Leh",
+      "lat": 34.1418034,
+      "lng": 77.4892756,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ5Vt14feT_TgRVGmggk2C2dE",
+      "name": "IndianOil",
+      "address": "Ground Floor, Airport Road, Leh",
+      "lat": 34.13499,
+      "lng": 77.52936,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJISUUn6aU_TgRzteiWbkPLjY",
+      "name": "HP PETROL PUMP - Buddha FILLING STATION",
+      "address": "Tehsil, near KBR Airport, Srinagar - Leh Highway, Leh",
+      "lat": 34.14288799999999,
+      "lng": 77.54628799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJc1KtCa-U_TgRNE-lC8NYUbk",
+      "name": "HP Petrol Station",
+      "address": "4HW2+GXW, Srinagar - Leh Highway, Leh",
+      "lat": 34.1463697,
+      "lng": 77.5524473,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJvRwzBqTt_TgR7D2A4GprL_c",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Agling Road, Leh",
+      "lat": 34.1383684,
+      "lng": 77.563781,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWUiNhJeW_TgRiqK7A_nFUgA",
+      "name": "IndianOil",
+      "address": "Ground Floor, Leh",
+      "lat": 34.1114492,
+      "lng": 77.5878607,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaV_Rz0Tr_TgRuv1XlfZZZ8E",
+      "name": "IndianOil",
+      "address": "Ground Floor, Leh Jammu And Kashmir",
+      "lat": 34.15233,
+      "lng": 77.57697999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4wv1H1Ht_TgRAx2qspRsljA",
+      "name": "IndianOil",
+      "address": "Ground Floor, Saboo Village Road, Leh",
+      "lat": 34.1197896,
+      "lng": 77.59879219999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGVVZ-5ft_TgRUrKzHAnKcko",
+      "name": "Shey filling station",
+      "address": "Shey",
+      "lat": 34.0882296,
+      "lng": 77.613615,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4-MwhyLt_TgR2bfLt6sKcBg",
+      "name": "IndianOil",
+      "address": "Ground Floor Manali Leh Road, Chamray, Leh",
+      "lat": 34.0882489,
+      "lng": 77.6136221,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnWjQ6V_r_TgR-fbdliQsq8Y",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Manali - Leh Highway, Leh",
+      "lat": 34.1428534,
+      "lng": 77.5839043,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpZhR8pXr_TgRnwxMRFbFef0",
+      "name": "TNM GAS DISTRIBUTOR",
+      "address": "Skalzangling",
+      "lat": 34.14675870000001,
+      "lng": 77.56953159999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1xqPPVHr_TgRiCeAAXveXN0",
+      "name": "HP GAS",
+      "address": "",
+      "lat": 34.1468587,
+      "lng": 77.5695899,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJcYYn5FDr_TgRVwXDDGtGqUA",
+      "name": "KARGIL FILLING STATION",
+      "address": "",
+      "lat": 34.1473782,
+      "lng": 77.5710229,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJwVVO5nDr_TgRd1XTKfZQzj0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Skara Rinchen Auditorium, Skara Road, Leh",
+      "lat": 34.15432989999999,
+      "lng": 77.5629792,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOWMI573r_TgRGlgbilnw3D4",
+      "name": "JKSRTC Leh Fuel Station - Indian Oil",
+      "address": "bus station, near DC Office, New 124, Leh",
+      "lat": 34.15658079999999,
+      "lng": 77.5829953,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJazpqM-Xx_TgRz2bBYP_jPRs",
+      "name": "Indian Oil",
+      "address": "",
+      "lat": 34.0529183,
+      "lng": 77.6651636,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ8aZ3-sXr_TgRCTM6r9F1BjM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Lamdon School, Chubi Road, Leh",
+      "lat": 34.16931599999999,
+      "lng": 77.589079,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJI_IDifHr_TgRMKnTznueMfk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Thang, Nubra Road, Leh",
+      "lat": 34.182311,
+      "lng": 77.59525099999999,
+      "open_now": true
+    }
+  ]
+}

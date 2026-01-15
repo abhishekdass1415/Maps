@@ -1,0 +1,579 @@
+{
+  "city": "Korba",
+  "state": "Chhattisgarh",
+  "count": 71,
+  "center": {
+    "lat": 22.3667,
+    "lng": 82.6833
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJX9wF-ynzJzoR1FoEit8Zq2c",
+      "name": "Petrol Pump",
+      "address": "Sarai Singar",
+      "lat": 22.3065418,
+      "lng": 82.5559258,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJqwMgqA-MJzoRzjYJJ5-wr40",
+      "name": "Bharat Gas Godown Adarsnagar",
+      "address": "8JXP+757, Adarsh Nagar, Kusmunda",
+      "lat": 22.3481656,
+      "lng": 82.63542919999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJm0ikP6aNJzoRtSKn9eYv3XI",
+      "name": "Bharat Petroleum, Petrol Pump -Tarun Fuels",
+      "address": "BANKI MONGRA, Korba",
+      "lat": 22.3036187,
+      "lng": 82.6117584,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS1Sy5BqNJzoRheBtbOOm4Mw",
+      "name": "Dawarka Fuels KSK",
+      "address": "On gevra pantora, road, Birda",
+      "lat": 22.2701132,
+      "lng": 82.6441318,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJT1-QYTKNJzoR4VJ-JvbtlYQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, Katghora",
+      "lat": 22.268893,
+      "lng": 82.64376639999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL8LzSQDzJzoRlUJzfGTi8c0",
+      "name": "RANI FUELS",
+      "address": "7HV3+X3J, Pravesh Baloda Marg, Sarai Singar",
+      "lat": 22.2952577,
+      "lng": 82.55292779999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0_spCU3zJzoRNtZm8XA0xnw",
+      "name": "HP Bhumi Fuels",
+      "address": "Sarai Singar, Hardi Bazar",
+      "lat": 22.299145,
+      "lng": 82.5529049,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvetc42eNJzoR5LAt330tock",
+      "name": "IndianOil",
+      "address": "Gevra Road, Kusmunda",
+      "lat": 22.3469379,
+      "lng": 82.6529774,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxdN-2lyNJzoRS0mANucN6nc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Bhairotal, Korba - Banki Mongra Road, Kusmunda",
+      "lat": 22.354979,
+      "lng": 82.63831499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-Y-19pWNJzoRz5KUhPTNm_w",
+      "name": "IndianOil",
+      "address": "HN 1137/1 Premnagar, Colliery, Kusmunda",
+      "lat": 22.355313,
+      "lng": 82.637653,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpVRnQwCRJzoRke4HVeagsgY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Karma",
+      "lat": 22.241034,
+      "lng": 82.65207600000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQdZk7JORJzoRFlUdwAcFUj0",
+      "name": "Bharat Petroleum, Petrol Pump -Akash Fuels",
+      "address": "KANKI, DIST-KORBA, Korba",
+      "lat": 22.2417896,
+      "lng": 82.6579534,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJr5h0K2vzJzoRLVAaU2iKVus",
+      "name": "IndianOil",
+      "address": "Ground Floor Baloda Road, Dhatura, Birda, Hardi Bazar",
+      "lat": 22.265552,
+      "lng": 82.546656,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTdevAUaSJzoRO1CuozzTOuM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Hardi Bazar, Birda",
+      "lat": 22.226131,
+      "lng": 82.6214991,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzR66f2GFJzoRv5VXggSpnJ8",
+      "name": "INSTAFUEL, DEALER-BPCL",
+      "address": "BALCO-URGA, BYPASS ROAD, BARBASPUR",
+      "lat": 22.29754579999999,
+      "lng": 82.7376747,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfyuLxgOQJzoRs5Em4-wty1c",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Korba - Champa Road, Urga",
+      "lat": 22.262601,
+      "lng": 82.72822699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzbv3MTePJzoRNK7EUBxvKCg",
+      "name": "IndianOil",
+      "address": "Ground Floor, Hasdeo Project, near Sharda Vihar, Sharda Vihar, Korba",
+      "lat": 22.350647,
+      "lng": 82.708522,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8-F0vjSPJzoR728Mm8PI18U",
+      "name": "IndianOil",
+      "address": "Ground Floor, Transport Nagar, Korba",
+      "lat": 22.359055,
+      "lng": 82.70869499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7Tf8_MuPJzoRiC1PbjHOB-k",
+      "name": "IndianOil",
+      "address": "Ground Floor, Semipali",
+      "lat": 22.2770617,
+      "lng": 82.719323,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHa-ZB_KPJzoRM9Wui2nt5qI",
+      "name": "Shri Balaji Service Station",
+      "address": "State Highway 4, Urga",
+      "lat": 22.2846117,
+      "lng": 82.7239957,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpyXFfPqPJzoRW25RkWQrH50",
+      "name": "IndianOil",
+      "address": "Ground Floor, Main Road, Barpali, Urga",
+      "lat": 22.277466,
+      "lng": 82.726849,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4eVAR8-PJzoRlm9gUD3xc4o",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Bajrang Toki, Mahatma Gandhi Road, Korba",
+      "lat": 22.3423972,
+      "lng": 82.7007904,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZetT1WOFJzoRwUFAlPsD0QQ",
+      "name": "Bharat Petroleum",
+      "address": "7PWP+JX3, Urga-Risdi Bypass Road, Korba",
+      "lat": 22.2965008,
+      "lng": 82.7374277,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJT6kFh7eJJzoRJtRAZ6Mr5uk",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Railway Crossing, Tulsi Nagar",
+      "lat": 22.34732199999999,
+      "lng": 82.69713080000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ__Y3tiiPJzoRpxaHEk_oVk4",
+      "name": "Murarka Petrol Pump",
+      "address": "Murarka Petrol Pump, Power House Road, Korba",
+      "lat": 22.3493762,
+      "lng": 82.6964897,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvWSZYzuPJzoRtFtp2a_OCLE",
+      "name": "Bharat Petroleum Petrol Pump , NATHMAL BADRINARAYAN",
+      "address": "TRANSPORT NAGARTRANSPORT NAGAR, Korba",
+      "lat": 22.3497028,
+      "lng": 82.69614709999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ1w99ArWPJzoRv-Rnu6V4Uqg",
+      "name": "Shree Balaji Fuels, BPCL Petrol Pump",
+      "address": "Sarwamangala Para Road, Sarwamangala Para, Korba",
+      "lat": 22.3538385,
+      "lng": 82.69249429999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJOUf0EYyFJzoRAEZnUJvc4G4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near Urga, Ground Floor NH 130A, Urga Hati Road, near Urga, Railway Crossing, Urga",
+      "lat": 22.2763617,
+      "lng": 82.74245160000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJv-2IpyuPJzoR-hWpeBNDnR8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Old, Darri Road, Korba",
+      "lat": 22.353946,
+      "lng": 82.695781,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcckPKMuRJzoRY4M39bKh76A",
+      "name": "IndianOil",
+      "address": "Ground Floor, Patarhi",
+      "lat": 22.2570934,
+      "lng": 82.7302105,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvbQ_lVCPJzoRWUo9CHs536A",
+      "name": "Bharat Petroleum Petrol Pump , SHRI R G FUELS",
+      "address": "SECL, MURAPARTEHSIL, Korba",
+      "lat": 22.354088,
+      "lng": 82.70946099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH7Lg3DKPJzoRXqbVhQG46FY",
+      "name": "R.B. Fules",
+      "address": "Lalu Ram Nagar, Korba",
+      "lat": 22.3586578,
+      "lng": 82.7042094,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJqwgFqvmPJzoRRALjAdFx7vI",
+      "name": "IndianOil",
+      "address": "Ground Floor, Transport Nagar, Korba",
+      "lat": 22.358891,
+      "lng": 82.704571,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLeRWx-6FJzoRLU5WNwrGioA",
+      "name": "IndianOil",
+      "address": "Ground Floor, Urga Bhaisma, National Highway 130A, Kukricholi",
+      "lat": 22.2763889,
+      "lng": 82.7516277,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjUimIc2IJzoRcLYeZJTFMq8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Indira Commercial Centre, PN 206 & 207, Transport Nagar",
+      "lat": 22.3613701,
+      "lng": 82.7046501,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoT8mBxaJJzoR5WQILvssoE4",
+      "name": "IndianOil",
+      "address": "Ground Floor, TP Nagar Road, Tulsi Nagar",
+      "lat": 22.3636363,
+      "lng": 82.6990408,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJK0Fp78yIJzoRvhPN1whMMYo",
+      "name": "Bharat Petroleum",
+      "address": "IRCC, 126, Transport Nagar",
+      "lat": 22.3621861,
+      "lng": 82.70581229999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJG821BACFJzoRNNIwN5szTJE",
+      "name": "ANUGRAH FUELES KUKRICHOLI",
+      "address": "7QG4+97F, Kukricholi",
+      "lat": 22.2759382,
+      "lng": 82.7556622,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJASHnchKJJzoR9K6Wsbn-WNw",
+      "name": "IndianOil",
+      "address": "Hasdeo Project, Plot No 7 Transport Nagar, Korba",
+      "lat": 22.363369,
+      "lng": 82.707556,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm5ldGbGRJzoRzaX00PZ4O1g",
+      "name": "IndianOil",
+      "address": "Korba - Champa Road, Patarhi",
+      "lat": 22.2431856,
+      "lng": 82.7336725,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH9Tf6LSIJzoRz_OJ1b--L9g",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Madarsa Road, Budhwari Basti, Korba",
+      "lat": 22.3622401,
+      "lng": 82.71315799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC6rFHBOFJzoRv_SZzrABO04",
+      "name": "RAMA CHOICE CENTER",
+      "address": "7QPG+24Q, Karmandi",
+      "lat": 22.2850934,
+      "lng": 82.7753448,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJoZxTfACbJzoRk1wH1EagJ8w",
+      "name": "Anugrah fueles",
+      "address": "7Q8G+63F, Bhaisma",
+      "lat": 22.2655602,
+      "lng": 82.7751622,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJC7xpV3aHJzoRSc_0SBN2K0g",
+      "name": "IndianOil",
+      "address": "Ground Floor, Hasdeo Project, Police Line, near Korba Jail, Korba",
+      "lat": 22.3650675,
+      "lng": 82.75518679999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpYcv5caJJzoRS5eqEidpPCI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ward No 21, Plot No 11 & 10/A, Kosawadi, Korba",
+      "lat": 22.3626401,
+      "lng": 82.7315801,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ36FJME2PJzoRW0D4VsEIAcg",
+      "name": "IndianOil",
+      "address": "Ground Floor, Ghantaghar Chowk, Korba",
+      "lat": 22.359995,
+      "lng": 82.721443,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTZLB6HaGJzoReXVyqcjbcgg",
+      "name": "Bharat Petroleum",
+      "address": "9Q87+QCX, Ring Road, Risdi, Korba",
+      "lat": 22.3669926,
+      "lng": 82.7636024,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJM01PXv-KJzoRP2TzVYIpp9c",
+      "name": "IndianOil",
+      "address": "Ground Floor Sutarra Road, Bankimongra, Mongra, Korba",
+      "lat": 22.408486,
+      "lng": 82.60376,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuzdt0V3zJzoRqKAZJHRDmIo",
+      "name": "IndianOil",
+      "address": "Ground Floor, Wcl Gevra Project, Gevra",
+      "lat": 22.346529,
+      "lng": 82.542411,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-1jOvJiJJzoRTDvgejq-1e8",
+      "name": "IndianOil",
+      "address": "Ground Floor Katghora Road, Jamnipali, Chhuri",
+      "lat": 22.41334100000001,
+      "lng": 82.669167,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4052bP-KJzoRwDX_vVy-R8Y",
+      "name": "banki petrol pump",
+      "address": "CJ43+RHQ, Banki Mongra",
+      "lat": 22.4070859,
+      "lng": 82.6039904,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJXxcdL7H0JzoRXwhZeGm9ZBU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Dipka - Katghora Road, Gevra",
+      "lat": 22.3705512,
+      "lng": 82.5542109,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB9oL8Kz1JzoRHMVC7lBqBPk",
+      "name": "IndianOil",
+      "address": "Ground Floor Dipika, Dipka - Katghora Road, Korba",
+      "lat": 22.3580455,
+      "lng": 82.5492379,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS7cz1k_zJzoRagg7nU32KXU",
+      "name": "Gopichand service stations dipka",
+      "address": "near police chowki, Dipka",
+      "lat": 22.3464173,
+      "lng": 82.5425841,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJX1rTkpiJJzoR0RnCSmgg8uU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 211, Darri, Jamnipali",
+      "lat": 22.4131962,
+      "lng": 82.6690721,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIefBX76LJzoRhTk7A3BYmvs",
+      "name": "Bharat Petroleum, Petrol Pump -Sanjay Service Station",
+      "address": "CHHURI, Korba",
+      "lat": 22.427532,
+      "lng": 82.5762465,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJA4HZr3OGJzoRHughhF_sb8s",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bypass, Risdi, Balco Nagar",
+      "lat": 22.3709031,
+      "lng": 82.75951099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm2jwEACJJzoRvXbCMBgVNdc",
+      "name": "Bhidhuna",
+      "address": "petrol pump ke samne, bali gli, Korba",
+      "lat": 22.363222,
+      "lng": 82.7170316,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJtWYK8JqIJzoRi1p7W2YIpiM",
+      "name": "Balco Petrol Pump",
+      "address": "9PVG+Q94, Balco-Korba Road, Korba",
+      "lat": 22.3943991,
+      "lng": 82.725943,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJQwUCAK2JJzoRW63gmQytAEk",
+      "name": "IndianOil",
+      "address": "Ground Floor, Hasdeo Project, Rumgara",
+      "lat": 22.40741999999999,
+      "lng": 82.72108,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAwlfui6GJzoRB9_qU7hGJK8",
+      "name": "IndianOil",
+      "address": "Ground Floor Balconagar, Ajgarbahar",
+      "lat": 22.4024001,
+      "lng": 82.7408001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIXyOnTuGJzoRMHnmBG5EDts",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Infront of, Ring Road, Gate, Balco Nagar",
+      "lat": 22.394764,
+      "lng": 82.747241,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_5FxEjyGJzoRApPdz8JvG9k",
+      "name": "Sharma Petrol Pump",
+      "address": "Rishda, Balco, Korba, Korba",
+      "lat": 22.3910294,
+      "lng": 82.7500168,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDe94OACHJzoRV5eQ0wtD1TQ",
+      "name": "Shri Balaji Fuel Point",
+      "address": "9QC5+9RG, Risdi, Korba",
+      "lat": 22.3709305,
+      "lng": 82.7595759,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ39hmRY0giDkRxzQXNB-hpFk",
+      "name": "Bharat Petroleum",
+      "address": "Chhuri, Korba, SH-4, Korba Road, Katghora, Katghora",
+      "lat": 22.473858,
+      "lng": 82.615156,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7dKM7zCJJzoR7GGC2502LgE",
+      "name": "H P petr",
+      "address": "Bengchul, Bhatapara, Korba",
+      "lat": 22.4363775,
+      "lng": 82.6615092,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJfYADLpYhiDkRZ5GyTFcKdXM",
+      "name": "IndianOil",
+      "address": "Ground Floor Kathghora, Chhuri",
+      "lat": 22.484946,
+      "lng": 82.598292,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL4UuuUcgiDkR6iDuOwCcSuk",
+      "name": "Tulsi Petrol Pump, Jenjara",
+      "address": "FHMP+84J, Korba Katghora Bypass",
+      "lat": 22.4833441,
+      "lng": 82.5852687,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJI7JmuUcgiDkRkVvv45eB9OA",
+      "name": "IndianOil",
+      "address": "Hasdeo Project, Ground Floor Salora, Katghora, Korba",
+      "lat": 22.48372999999999,
+      "lng": 82.585289,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOTqKsJEhiDkRW09xvB_yTr8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Korba Road, Katghora",
+      "lat": 22.483868,
+      "lng": 82.582032,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrz5uqlv1JzoROGgGS4hSNEk",
+      "name": "Shri Balaji Fuel Jawali",
+      "address": "CGHP+QHR, Jawali",
+      "lat": 22.4294776,
+      "lng": 82.5363957,
+      "open_now": true
+    }
+  ]
+}

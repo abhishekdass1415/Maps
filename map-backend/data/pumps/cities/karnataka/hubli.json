@@ -1,0 +1,1291 @@
+{
+  "city": "Hubli",
+  "state": "Karnataka",
+  "count": 160,
+  "center": {
+    "lat": 15.3615,
+    "lng": 75.1291
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJ-dAS2kTWuDsRn9aInZKlNA4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 63, Anchatgeri",
+      "lat": 15.3095558,
+      "lng": 75.0927033,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJD67D_ETWuDsR5Oj9ZjCOkUU",
+      "name": "HP Sardar Narainsingh & Sons Petrol Pump",
+      "address": "HPC Dealer Anchatageri Village NH 63",
+      "lat": 15.30812,
+      "lng": 75.09299299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNW9vWRzXuDsRvEvRIN9IGV0",
+      "name": "Bharath Petroleum Sangmeshwar Petroleums 183949",
+      "address": "33, 3rd Cross, Sangam Colony, Indra Prastha Nagar, Hubballi",
+      "lat": 15.3375713,
+      "lng": 75.1117263,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ64oc8dbXuDsRvUAyWRthxDE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor NH 63, Hubli, Road, Kalaghatgi",
+      "lat": 15.2942813,
+      "lng": 75.0693692,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrV9rhmvWuDsR0_ocShqQKkY",
+      "name": "Bharat Petroleum, Petrol and CNG Pump -Aliya Petroleums",
+      "address": "ANCHATGERI,ANCHATGERI,DHAR, DHARWAD",
+      "lat": 15.3014227,
+      "lng": 75.0789708,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJX839YRoruTsRS333tBdHS48",
+      "name": "PARVATI PETROLEUMS",
+      "address": "Parvati Petroleums Mishrikoti Khalagatagi, Road",
+      "lat": 15.2620839,
+      "lng": 75.05597290000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAczzMM8ruTsR0r5z0W7aEFk",
+      "name": "IndianOil",
+      "address": "Survey No 102/1/2/4/5 Ugginkeri, Kalghatagi, Mukkal",
+      "lat": 15.2485882,
+      "lng": 75.0351709,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ00CMktIruTsRzszxbRiSIU0",
+      "name": "Siddharoodha petrol and Diesel pump",
+      "address": "62XP+636, S C Gokul Ugginakeri, tq, kalaghatgi",
+      "lat": 15.2480395,
+      "lng": 75.0351549,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwzrOBHHVuDsRPegagvxFKJk",
+      "name": "IndianOil",
+      "address": "Survey No 199, Kanavihonnapur, Bangitti Gudihal, A 197, Kalghatagi Road, Gambyapur",
+      "lat": 15.2850311,
+      "lng": 75.00613440000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2Z-jhYUquTsRI-N-A0TKrZo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, SH 1, Kalghatgi Road, Banagitti, Gudihal, Dharwad",
+      "lat": 15.2712321,
+      "lng": 75.007329,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe0vrOADXuDsRbZCS7D6C0LQ",
+      "name": "BANKAPUR GODOWNS",
+      "address": "8485+CW, Hubballi",
+      "lat": 15.3160112,
+      "lng": 75.1098531,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJhXTOJmDXuDsRva5-pPPcgHQ",
+      "name": "TATA Ad Blue point",
+      "address": "84J2+MJ, Hubballi",
+      "lat": 15.3314272,
+      "lng": 75.1014261,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlR-Vw7rXuDsR1QRs0TuOPJI",
+      "name": "Indian Oil",
+      "address": "India",
+      "lat": 15.3111338,
+      "lng": 75.1213732,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJOyGSkAfXuDsRMOrM77zl65c",
+      "name": "SOUNDARYA BHARAT GAS GODWON",
+      "address": "Hubballi",
+      "lat": 15.3422871,
+      "lng": 75.0981128,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrbY8PADXuDsRulZ0oo_AV1A",
+      "name": "MORABAD FUELS",
+      "address": "A, Timmasagar",
+      "lat": 15.31106249999999,
+      "lng": 75.12143750000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ45QLjR3XuDsRCDFc6sz8mbY",
+      "name": "IndianOil",
+      "address": "Survey No 89, Anand Nagar Road, Hubballi",
+      "lat": 15.3379773,
+      "lng": 75.1083879,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB4wYOgDXuDsRjEPbZhaJoZ4",
+      "name": "Hubballi Fuels",
+      "address": "Bharat Petroleum Corporation Ltd, 86/1, Hubli - Karwar Road, Hubballi",
+      "lat": 15.327796,
+      "lng": 75.1182511,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaYeS07jXuDsRNcDlY4bytNg",
+      "name": "Essar Petrol Pump",
+      "address": "84J8+V39, UKT Hills, Hubballi",
+      "lat": 15.3321677,
+      "lng": 75.1152319,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJW6t_VRfXuDsRNNGdhqoK7j4",
+      "name": "Sangameshwar Petroleums",
+      "address": "81/B Krishnageri colony, Anand Nagar Road, old, Hubballi",
+      "lat": 15.3376249,
+      "lng": 75.11160339999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNelaibHXuDsRMSZrJEptdJI",
+      "name": "Gogas Auto LPG",
+      "address": "Anand Nagar Road, Gurunath Nagar, Fatestawali Nager, Hubballi",
+      "lat": 15.3375661,
+      "lng": 75.1122594,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_6nebQDVuDsRJcFRvZRYLvs",
+      "name": "Anjaneya Fuels BPCL",
+      "address": "925V+H6, Hubballi",
+      "lat": 15.3589695,
+      "lng": 75.043397,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJAw-tnvyvwDsROsgd_TFNKq4",
+      "name": "IndianOil",
+      "address": "Survey No 26/A Dasanur, Kalaghatagi, Kanvihonnapur",
+      "lat": 15.3409653,
+      "lng": 75.00868260000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3ZP9nUDVuDsR7Muuo83dpMM",
+      "name": "Chandalingeshwara petroleums",
+      "address": "82R5+9CQ, State Highway 1, Dhummawad",
+      "lat": 15.3409656,
+      "lng": 75.008595,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9yKGZXvVuDsRxxm4jtjaU7k",
+      "name": "IndianOil",
+      "address": "Survey No 81/4, Tarihal Industrial Area, Hubballi",
+      "lat": 15.358421,
+      "lng": 75.036333,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjSeR8wDXuDsRxPoN55J7gqY",
+      "name": "Shell",
+      "address": "opp. to Electric Grid, Hubli-Misarikoti, opp. to Electric Grid, Road, Hubballi",
+      "lat": 15.3315,
+      "lng": 75.11994399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2wiz2_PXuDsRIjsns9BOAlo",
+      "name": "BP Petrol Pump",
+      "address": "",
+      "lat": 15.2973623,
+      "lng": 75.14670559999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJh1z9qXDXuDsR8yjE9zcR-YE",
+      "name": "IndianOil",
+      "address": "Ground Floor, Near Bankapur, Old, P B Road, Katnur",
+      "lat": 15.3313871,
+      "lng": 75.1428487,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTeDPenDXuDsRt78dZAC-TXo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Bankapur Chowk, PB Road, Katnur",
+      "lat": 15.3342029,
+      "lng": 75.1421747,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdbWSEULXuDsRTozMMokotPk",
+      "name": "SUPERGAS Auto LPG Station",
+      "address": "near Gurusideshwar nagar, Ward No- 3, CTS no- 804/1, Tumkur ONI, near Gurusideshwar nagar, P.B Road, Hubballi",
+      "lat": 15.3469305,
+      "lng": 75.1370616,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzQtqPiHXuDsRuIEEmq-UGVQ",
+      "name": "Shell Gokul Road",
+      "address": "Gokul Road, Hubballi",
+      "lat": 15.350916,
+      "lng": 75.116446,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ6NL7iPXuDsRtJ4mv9LpkKQ",
+      "name": "IndianOil",
+      "address": "9437+PMV, opposite to New Bus Stand, Gokul Road, KSSIDC, Industrial Estate, Hubballi",
+      "lat": 15.3510105,
+      "lng": 75.11455839999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeX3o2SDXuDsR4i0kWQ0s1FM",
+      "name": "Padmavathi Aegis LPG Pump",
+      "address": "9426+74H, Gokul Road, Industrial Estate",
+      "lat": 15.3506912,
+      "lng": 75.1103621,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUdYBt1zXuDsRDnUv_QxUJdw",
+      "name": "HP PETROL PUMP - RM JOSHI",
+      "address": "HPC Dealer Lamington Road Dist., Belgaum",
+      "lat": 15.352433,
+      "lng": 75.143411,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrWdijkbXuDsR0KD7Ax5cYrs",
+      "name": "IndianOil",
+      "address": "Srinath Complex, New Cotton Market Road, New Cotton Market, Besides",
+      "lat": 15.3548412,
+      "lng": 75.1354152,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJyzZSStnWuDsRtgf9Cfs4UgI",
+      "name": "HP Petrol Pump",
+      "address": "HPC Dealers, Basaveshwar nagar, Gokul Road, Hubballi",
+      "lat": 15.3512007,
+      "lng": 75.103227,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJR0MAdi_XuDsRAF85mUuStGI",
+      "name": "Bharat Petroleum, Petrol Pump -B S Kallur Petroleum",
+      "address": "UNKAL, PUMP HOUSE RD, Hubballi",
+      "lat": 15.3586698,
+      "lng": 75.1166657,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJv4_yQVrXuDsRCdaJhwLNXwE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Keshwapur Road, Bhavani Nagar, Chandranath Nagar, Keshwapur, Hubballi",
+      "lat": 15.358251,
+      "lng": 75.14686379999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJd7KWVgApuTsRMBl6jYnWnro",
+      "name": "IndianOil",
+      "address": "Ground Floor, Shankaranarayana, Kundapura",
+      "lat": 15.277393,
+      "lng": 75.146339,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgXwvy9vXuDsR2ecLgRIXQpA",
+      "name": "IndianOil",
+      "address": "State Highway 73, Adargunchi",
+      "lat": 15.2905269,
+      "lng": 75.1529586,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwSzULozXuDsR7tyt38I30UA",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 15.3078641,
+      "lng": 75.1463175,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ58BPNwApuTsRvCfeX9uh9iA",
+      "name": "Murarhalli Bharath petroleum",
+      "address": "74GX+W8R, Murarhalli",
+      "lat": 15.2770876,
+      "lng": 75.1482506,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJiWV5JozXuDsRQfi64hfiJ9k",
+      "name": "Jayam Petroleum",
+      "address": "NH4, SERVICE ROAD, Hubballi",
+      "lat": 15.3079677,
+      "lng": 75.146864,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJzzTUMQDXuDsRSOihFnKQ85k",
+      "name": "Bharat pretroleum",
+      "address": "75J3+PP7, Adargunchi",
+      "lat": 15.2820153,
+      "lng": 75.1539684,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJGxouyITXuDsRel82hk784vc",
+      "name": "MRPL Petrol Bunk",
+      "address": "849V+6C3, Hubli - Dharwad Road, Gabbur",
+      "lat": 15.3180044,
+      "lng": 75.14353390000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOQvax3_XuDsR6z77ye00Xsc",
+      "name": "Sri Basava Fuels",
+      "address": "22/3 Gabbur, cross, Hubballi",
+      "lat": 15.31878729999999,
+      "lng": 75.14259729999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJf4VkXfzXuDsRLQ7bRJubyNo",
+      "name": "Tongali Petroleum",
+      "address": "Mavanur Road, Nekar Nagar, Old Hubli, Hubballi",
+      "lat": 15.326694,
+      "lng": 75.13169599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRXppUgnRuDsREc87p2Cc4YQ",
+      "name": "IndianOil",
+      "address": "Sy No 579/2, Hubballi",
+      "lat": 15.2693919,
+      "lng": 75.1632145,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL_UHansnuTsRFT4TtClV3Uo",
+      "name": "Bharat Petroleum, Petrol Pump -Shri Vigneshwar Traders",
+      "address": "ADERGUNCHI, HUBLI TALUK,DH, DHARWAD",
+      "lat": 15.2680237,
+      "lng": 75.1638327,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXWGRpw_XuDsRmQmXLR9qcYU",
+      "name": "NAYARA",
+      "address": "Hubli - Karwar Road, Ayodhya Nagar, Hubballi",
+      "lat": 15.332306,
+      "lng": 75.12158649999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuUsJWgDXuDsRsmS4s9n0_x4",
+      "name": "Shri Siddarudha Petroleum",
+      "address": "10/47, 10/47, Hubli - Karwar Road, Siddaruda Nagar, Hubballi",
+      "lat": 15.333331,
+      "lng": 75.1226727,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJabVN-5rXuDsRGvDoQCrujr4",
+      "name": "IndianOil",
+      "address": "Ground Floor, Hubli - Karwar Road, Dharwad",
+      "lat": 15.334368,
+      "lng": 75.122986,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsUAecXDXuDsRbNZzvFFbcew",
+      "name": "Fueling Station BPCL",
+      "address": "Yallapur Oni, Basavanna Nagar, Hubballi",
+      "lat": 15.3345084,
+      "lng": 75.1424299,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJmTd9a3DXuDsR1NPlpjoFfU0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Jigalur Building, Bankapur Chowk, PB Road, Hubballi",
+      "lat": 15.3349479,
+      "lng": 75.1418302,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWZEDFwDXuDsRKFHsXXeiZ7U",
+      "name": "IndianOil",
+      "address": "Ground Floor, Hubli - Karwar Road, Katnur",
+      "lat": 15.337219,
+      "lng": 75.126609,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ77OBsCXXuDsRn3bTmOZxpY0",
+      "name": "Reliance Petroleum",
+      "address": "near Bankapur, Cts No 2975/121, G/1, G/2 Old Pb Road, near Bankapur, Chowk",
+      "lat": 15.3363907,
+      "lng": 75.1400846,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDR3fwxPXuDsR-A2DaO98i8c",
+      "name": "TotalEnergies",
+      "address": "India",
+      "lat": 15.3394323,
+      "lng": 75.1264328,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJM-65XyfXuDsRe_qSNXAnT-M",
+      "name": "V P PRABHU",
+      "address": "Shop No 02, V P Prabhu Petrol station, near New Bus Stand, Mastikatta Circle, Hubballi",
+      "lat": 15.3391744,
+      "lng": 75.1399441,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJE67PUwPXuDsR3vkMFeTYTI0",
+      "name": "IndianOil",
+      "address": "Survey No 24/4, Old Mantur Road, Yellapura",
+      "lat": 15.3362918,
+      "lng": 75.14973429999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlQkZAxrXuDsRWwszAW4u8qw",
+      "name": "Essar Petrol Pump",
+      "address": "84R9+F7X, Rajendra Nagar, Hubballi",
+      "lat": 15.341246,
+      "lng": 75.1182374,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJJSi2OwApuTsR9kw5MCusWQg",
+      "name": "Bhavani renuka petrol pump",
+      "address": "64RV+H5, Pale",
+      "lat": 15.2414531,
+      "lng": 75.1429653,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJJRghumvXuDsRU34q6wKIWQY",
+      "name": "IndianOIl",
+      "address": "Ward No 4, Torvi Hakkal",
+      "lat": 15.3437171,
+      "lng": 75.1351012,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJUrvRVYpuTsRI69jyjaR09I",
+      "name": "SHELL PALE",
+      "address": "Bengaluru - Mumbai Highway Chabbi, Taluka, Hubballi",
+      "lat": 15.24041,
+      "lng": 75.14325,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJd29Ogi3XuDsRlrhYxpyhYQs",
+      "name": "Indian Oil Petronas - Propel Auto LPG Station",
+      "address": "Mill Road, 477/A & 477/B, Hubli - Karwar Road, Hubballi",
+      "lat": 15.3456495,
+      "lng": 75.1325645,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVyC8SyQpuTsRTXbH-17qvT8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 48, Dharwar",
+      "lat": 15.237807,
+      "lng": 75.142575,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-alIeibXuDsRa_GEaUoXOf0",
+      "name": "Anulata Auto GAS/ Auto-LPG",
+      "address": "54, Chaitanya Nagar, Rajendra Nagar, Hubballi",
+      "lat": 15.346024,
+      "lng": 75.11296,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkyTiEwDXuDsRpP14zA66CC4",
+      "name": "INDIAN AUTO GAS",
+      "address": "84W7+C52, RN Shetty Road, Rudraganga Layout, Chaitanya Nagar, Rajendra Nagar, Hubballi",
+      "lat": 15.3460066,
+      "lng": 75.11289239999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJAe_mJULXuDsR_c6FQi2zQXw",
+      "name": "S. M. Mirjankar & Co.",
+      "address": "Traffic Island, Chennamma Circle",
+      "lat": 15.3496226,
+      "lng": 75.1374209,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJheoidD_XuDsRw6gdFLLhVc0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Bharath Mill Road, Vikas Nagar Road, Hubballi",
+      "lat": 15.3501727,
+      "lng": 75.1300536,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDVLUlD7XuDsRa7NEf1lPB2M",
+      "name": "Jyothi Service Station",
+      "address": "Gokul Road, Airport Road, Hubballi",
+      "lat": 15.3510685,
+      "lng": 75.1267343,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWVng2HDZuDsRikjfUnVC4Bc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 63, Km 143/314, Gadag Road, Bammapur, Hubballi",
+      "lat": 15.3610252,
+      "lng": 75.2080629,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpyn2A-TZuDsRTDqGDvIxEhc",
+      "name": "IndianOil",
+      "address": "Ground Floor, Hubballi",
+      "lat": 15.3189051,
+      "lng": 75.2023279,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCzpgK9knuTsRqNs7Z0LetaY",
+      "name": "Petrol pump",
+      "address": "766H+8XC, Pura",
+      "lat": 15.2608133,
+      "lng": 75.22989539999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJa_cAbjInuTsR0WUCaz4-CEo",
+      "name": "IndianOil",
+      "address": "Survey No 331/2, Panchayat Rd, BK, Kundgol",
+      "lat": 15.2526528,
+      "lng": 75.2439066,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsxSuFJ3ZuDsR5JJw65MfCDI",
+      "name": "Sri Sai Petroleum",
+      "address": "BAMMAPUR HUBLI, NH-63,DHAR, DHARWAD",
+      "lat": 15.357901,
+      "lng": 75.1875778,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5b6IXQDZuDsRdB1O6_9bPPE",
+      "name": "Mahadevappa Petroleum",
+      "address": "953C+PQ, Hubballi",
+      "lat": 15.3543611,
+      "lng": 75.1719167,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJf_DmYAAhuTsR46y3zxZoCp0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, SH 73, Laxmeshwar Road, Kundgol",
+      "lat": 15.245212,
+      "lng": 75.255167,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgW_ts2zRuDsRGbGWYvW_0t4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Navanagar, Amargol, Hubballi",
+      "lat": 15.3962923,
+      "lng": 75.0841583,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUfLn7X7RuDsRJR4w1QU6tnQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, Rayapur, Hubballi",
+      "lat": 15.4100073,
+      "lng": 75.06248599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJT-CLKILRuDsRBmdcNStckiA",
+      "name": "HPCL Depot",
+      "address": "C378+FJG, Hubballi",
+      "lat": 15.41368,
+      "lng": 75.0665902,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJhbgqtzPXuDsRFyhkoouTde8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Old, PB Road, Prashant Colony, Vidya Nagar, Hubballi",
+      "lat": 15.3656434,
+      "lng": 75.1228884,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJj_unHTjSuDsRNlLJDPz8r4A",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, SH 73, PB Road, Navalur, Suthgatti Village",
+      "lat": 15.4209102,
+      "lng": 75.0387283,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAXSU0ETVuDsRYa0gk684oNg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Plot No 65E & 65F, Survey No 69 NH 4, Bengaluru - Mumbai Highway, Tarihal, Pune",
+      "lat": 15.3627086,
+      "lng": 75.0474838,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLZfPdEHRuDsRYJ0y5mO-0ds",
+      "name": "IndianOil",
+      "address": "Plot No 114 to 119, ShivanandNagar, Hubballi",
+      "lat": 15.386244,
+      "lng": 75.079987,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgfhWmO3RuDsRsy7ChRDfiUk",
+      "name": "IndianOil",
+      "address": "Survey No, Plot No 97 & 98, 97 & 102, Saraswatpur, Hubballi",
+      "lat": 15.3984786,
+      "lng": 75.08123359999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJF6BK_3fXuDsRcDfCKHXp0Zk",
+      "name": "Bharat Petroleum, Petrol Pump -Renuka Petroleum",
+      "address": "Gokul Road, BASAVESWARANAGAR, DHARWAD",
+      "lat": 15.3511975,
+      "lng": 75.10323950000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNQmSuWnXuDsR-OnA-O5jgds",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Basaveshwar nagar, Gokul Road, Hubballi",
+      "lat": 15.351161,
+      "lng": 75.103291,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTZxYPRjRuDsRmDVa67uShcE",
+      "name": "Vaishnavi Petroleum. (B.P.C.L)",
+      "address": "Hubli - Dharwad Road, APMC, Hubballi",
+      "lat": 15.3936068,
+      "lng": 75.0908953,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzfuJ-nvRuDsR_0U2Je2SCzM",
+      "name": "Bharat Petroleum- Srinivasa Petroleum",
+      "address": "C348+GJG, Rayapur, Hubballi",
+      "lat": 15.406309,
+      "lng": 75.0665922,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ2dpGjo3XuDsRu1THeRqRr3o",
+      "name": "Bharat Petroleum, Petrol Pump -Jayalaxmi Petroleums",
+      "address": "AKSHAY COLONY, HUBLI,DHARW, DHARWAD",
+      "lat": 15.3600551,
+      "lng": 75.1097547,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvzgntyDXuDsRjI53mbJLM1M",
+      "name": "Bharat Petroleum",
+      "address": "9425+8HX, Laxmi Layout, Basaveshvar Nagar, Hubballi",
+      "lat": 15.3508653,
+      "lng": 75.10898999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJf0fc3eXXuDsRG_KynweNRD4",
+      "name": "Atharv Petroleums",
+      "address": "7, Gokul Road, Akshay Park, Chaitanya Nagar, Industrial Estate, Hubballi",
+      "lat": 15.3490875,
+      "lng": 75.109492,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGVMP4jfRuDsRNpRdz66Sr-8",
+      "name": "Bharat Petroleum, Petrol Pump -Om Sai Ram Petroleum",
+      "address": "HUBLI,BHAIRI DEVARAKOPPA,, DHARWAD",
+      "lat": 15.3888884,
+      "lng": 75.1027713,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJTcwIEdjRuDsRYNEPnB8sA80",
+      "name": "Bharat Petroleum, Petrol Pump -Mstones",
+      "address": "SAINAGAR HUBLI, DHARWAD, DHARWAD",
+      "lat": 15.3893003,
+      "lng": 75.1031479,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP52DHiHXuDsRdCeEUUJp9a8",
+      "name": "Amogh Petroleum's CNG and HPCL Dealer",
+      "address": "beside Urban Oasis Mall, opposite 2nd gate Gokul industrial Estate AIRPORT ROAD, Gokul Main Road, Hubballi",
+      "lat": 15.3502947,
+      "lng": 75.1118989,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKyneOq_RuDsRnZvrqKxroLc",
+      "name": "Shell",
+      "address": "PB Road, Bairidevarkoppa, Hubballi",
+      "lat": 15.38325,
+      "lng": 75.10861,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbar9pMvRuDsRljFuy-tS40M",
+      "name": "IndianOil",
+      "address": "Survey No 612, 1/1A, Amragol, Amargol, Hubballi",
+      "lat": 15.406013,
+      "lng": 75.0897946,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY6qTm_LTuDsRs3KsvIrOuhg",
+      "name": "R G FUELS-IOCL",
+      "address": "kalghatagi road, Kanvihonnapur",
+      "lat": 15.3787439,
+      "lng": 75.0061406,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoTEFWyTXuDsRaXjAY33XFyU",
+      "name": "Gulf Oil Lubricants India Limited",
+      "address": "India",
+      "lat": 15.353733,
+      "lng": 75.1160003,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJo8IQ9tnQuDsRw8aOg7_spvE",
+      "name": "Doddmani Petroleum Services",
+      "address": "opp. Unkal Lake, PB Road, Munneshwar Nagar, Hubballi",
+      "lat": 15.3809526,
+      "lng": 75.1134319,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaYrO6THSuDsRvGbPt7C2yj0",
+      "name": "IndianOil",
+      "address": "Opposite SDM College, PB Road, Sattur Colony, Dharwad",
+      "lat": 15.416835,
+      "lng": 75.048386,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx3zyG9HTuDsRsTbxYVfoAEE",
+      "name": "The GESCOS BPCL PUMP SATTUR DHARWAD",
+      "address": "C29V+8MQ, Hubli - Dharwad Road, Sattur Colony, Dharwad",
+      "lat": 15.4183499,
+      "lng": 75.044224,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsRNTCADXuDsRnM-atypXjUs",
+      "name": "INDIANOIL PETROL PUMP",
+      "address": "948C+H2R, Prashant Colony, Vidya Nagar, Hubballi",
+      "lat": 15.3662637,
+      "lng": 75.1197206,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ28LkHADXuDsRT5Q1P6MEiwg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near RFSL, Gokul Road, Dharwad",
+      "lat": 15.351336,
+      "lng": 75.120524,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJK5_uWvjXuDsR3FQFgSoybJI",
+      "name": "Bharat Petroleum, Petrol Pump -Kallur Petroleum",
+      "address": "Kallur Layout, Hubballi",
+      "lat": 15.3550567,
+      "lng": 75.1268741,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMazqd6nXuDsRTtC3-qK7csw",
+      "name": "Petrol",
+      "address": "Vidya Nagar, Hubballi",
+      "lat": 15.3660235,
+      "lng": 75.1273187,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJYQwgVMrXuDsRrqdBee5jIZ0",
+      "name": "IndianOil",
+      "address": "Ground Floor, Vidya Nagar, Hubballi",
+      "lat": 15.3579082,
+      "lng": 75.1282221,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJD1wTcOjQuDsR2H807vGNxdw",
+      "name": "Shreevari Bharat Gas",
+      "address": "India",
+      "lat": 15.3940921,
+      "lng": 75.1201537,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZV8FR_fZuDsRf2QONN1MW5U",
+      "name": "IndianOil",
+      "address": "Survey No 33/2B, NH 218, Road, Hubballi",
+      "lat": 15.367507,
+      "lng": 75.167267,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJswERNIHXuDsRPQ5wof4PzOI",
+      "name": "Bharat Petroleum, Petrol Pump -Vaishnavi Petroleums",
+      "address": "OPP APMC, HUBLI AMARGOL, DHARWAD",
+      "lat": 15.3534316,
+      "lng": 75.1322928,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ73VseEbXuDsRaV4AbUV51Es",
+      "name": "Bagi Petrol Pump",
+      "address": "Deshpande Nagar, Hubballi",
+      "lat": 15.3566905,
+      "lng": 75.1369572,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmyop2UbXuDsRAdynmHDE8uY",
+      "name": "Total Gas Vishnu Vimal Agency auto Lpg station",
+      "address": "New Cotton Market, Deshpande Nagar",
+      "lat": 15.3542188,
+      "lng": 75.1347423,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJN3lTyUbXuDsRvKXlF1qPJpE",
+      "name": "Neha Go Gas AUTO LPG Station",
+      "address": "3/4, Lane Number 5, New Cotton Market, Deshpande Nagar, Hubballi",
+      "lat": 15.3534924,
+      "lng": 75.1352114,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJyXsn00TXuDsRZjRme2exytQ",
+      "name": "IndianOil",
+      "address": "Ground floor, Club Road, Hubballi",
+      "lat": 15.356115,
+      "lng": 75.142746,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm3Uc1d3XuDsROAeb116Mpj0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Lamington Road, Hubballi",
+      "lat": 15.3524501,
+      "lng": 75.143368,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS0YofADXuDsRUHfXvb0g9-A",
+      "name": "ATHER CHARGING GRID",
+      "address": "942V+WFC, Hubballi",
+      "lat": 15.3523103,
+      "lng": 75.1436298,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ_Vup5FzXuDsRy_6cZ9xivQc",
+      "name": "Hubli Gas",
+      "address": "942W+G26, J C Nagar, New Hubli, Hubballi",
+      "lat": 15.3513,
+      "lng": 75.14502800000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ7cBrhcjQuDsRyWjpwSpgrPs",
+      "name": "Mstones Petrol Pump",
+      "address": "Sainagar, Road, Gopanakoppa",
+      "lat": 15.3804773,
+      "lng": 75.12764589999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrQ4F0CrXuDsRNEFfc46539M",
+      "name": "Bharat Petroleum, Petrol Pump -Deshpande Petroleum",
+      "address": "Keshwapur, DHARWAD",
+      "lat": 15.36587,
+      "lng": 75.1498807,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoYi1xKzXuDsRg2k8xnlOJVg",
+      "name": "Petrol pump shell",
+      "address": "Solapur Road, Keshwapur, Hubballi",
+      "lat": 15.362806,
+      "lng": 75.153167,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJT14wyOPZuDsR8W4fbDQ4S_I",
+      "name": "Hangyo",
+      "address": "India",
+      "lat": 15.3560293,
+      "lng": 75.15804330000002,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ75Woz3fZuDsRx14zTsfEw0Y",
+      "name": "IndianOil",
+      "address": "Ground Floor Bammapur, NH 63, Hubli - Gadag Road, Byahatti",
+      "lat": 15.362593,
+      "lng": 75.213137,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ9xXup7ZuDsR7hEAakHhKDA",
+      "name": "Itc Godwan Bammapur Vhillege",
+      "address": "9668+W35",
+      "lat": 15.3622561,
+      "lng": 75.2152431,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJP4e4cErZuDsRWPq0wKcoRpw",
+      "name": "BPCL Ladies Operated COCO- BP KESHWAPUR",
+      "address": "BPCL Ladies COCO, opp. Oxford College, Bagalkot Road, Keshwaour, Hubballi",
+      "lat": 15.3671688,
+      "lng": 75.1680099,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvQ6iepXbuDsR9xtgAmoy4sk",
+      "name": "IndianOil",
+      "address": "Lock No 300, Survey No 21, A/2, Bellary Talur Road, Asundi, Bellary",
+      "lat": 15.3933,
+      "lng": 75.212,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC2Rjd4LbuDsRqq7JwiQ-z54",
+      "name": "Jeevankanti petroleums",
+      "address": "Bijapur- Solapur highway, bhyahatti main road, Kusugal",
+      "lat": 15.3972252,
+      "lng": 75.2111464,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH6PwV7bQuDsR668QNndyF_c",
+      "name": "IndianOil",
+      "address": "Survey No 176, 5/6C, Gopanakoppa, Hubballi",
+      "lat": 15.3899178,
+      "lng": 75.1719632,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhbyMkcDbuDsRQlSAM3L2EcA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 218, Hubli Bijapur Road, Kusugal",
+      "lat": 15.4000509,
+      "lng": 75.2201414,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY83srevbuDsR7uN65oV5kSI",
+      "name": "S S B Auto FUELS",
+      "address": "Auto FUELS, S S B, Roan Road, Belvanki, Hubballi",
+      "lat": 15.3990932,
+      "lng": 75.22456919999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJkcihYH3SuDsR6usMhED6K5o",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 59, 1 & 59/2 NH 48, Shinganahalli, Vidyagiri, Dharwad",
+      "lat": 15.4432911,
+      "lng": 75.0146616,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRWjzC4XNuDsReAEi0PD94-A",
+      "name": "IndianOil",
+      "address": "Survey No, near Hebballi Road, 434, Hebsur Road, Agafi, Dharwad",
+      "lat": 15.4628124,
+      "lng": 75.02432619999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlUPuB4nSuDsRyAJEUofxfJY",
+      "name": "Hp Gas Gowdown",
+      "address": "C2Q6+6H9, State Highway 1, Rajatagiri, Gandhinagar, Dharwad",
+      "lat": 15.4380259,
+      "lng": 75.01147399999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJxV4b1PPSuDsRwT_KFnGaCnQ",
+      "name": "HP PETROL PUMP - SRIKALMESHWAR PETRO STORES",
+      "address": "Hpcl Dealers Kalghatgi Road, hattikolla, mailarling Nagar, Tejaswi Nagar",
+      "lat": 15.4254921,
+      "lng": 75.0067664,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJp9av3n3NuDsR-g2J__l_fyg",
+      "name": "IndianOil",
+      "address": "opposite Lekshmi Takies, NH 4, PB Road, Gandhinagar, Dharwad",
+      "lat": 15.454571,
+      "lng": 75.00851399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmepGz57NuDsRgqtlQIzLiSk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Saundatti Road, Haveripeth, Dharwad",
+      "lat": 15.4725567,
+      "lng": 75.0195691,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy4i2_qDSuDsRW8nCk06g9Vs",
+      "name": "SRI GURUSIDDAPRABHUDEVARU Petroleum BPCL RO",
+      "address": "LPG Territory, Haliyal Road, Tungabhadra HDS, Vijyanand Nagar, Saptapur, Dharwad",
+      "lat": 15.4492434,
+      "lng": 74.9877351,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJO_1KUH3SuDsRQjjmw8m137A",
+      "name": "Jio-bp",
+      "address": "Plot No 2 & 3, Old, PB Road, Vivekananda Nagar, Vidyagiri, Dharwad",
+      "lat": 15.442583,
+      "lng": 75.01488400000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuffxSH3SuDsRUzd9Bw2v9N8",
+      "name": "IndianOil",
+      "address": "Hubli - Dharwad Road, Vidyagiri, Dharwad",
+      "lat": 15.4430201,
+      "lng": 75.0149801,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeXvo4JvNuDsR_t_a2C2AXlU",
+      "name": "GO Gas Auto LPG Gas Filling Station",
+      "address": "15, Madihal, Madhial, Dharwad",
+      "lat": 15.4623063,
+      "lng": 75.0245631,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJc6TOCUnTuDsRLRp1k6o8Rww",
+      "name": "IndianOil",
+      "address": "Kalghatagi Road, Saraswatpur, Dharwad",
+      "lat": 15.4400379,
+      "lng": 75.01209519999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY_WJZw3TuDsRcxGRvtlB6ig",
+      "name": "Shell India Markets Private Limited",
+      "address": "Hubli Toll Naka, CTS NO. 323/3, be survey no 25, near dharwad, behind domino's Pizza Hut, PB Road, Hosayellapur, Dharwad",
+      "lat": 15.4480922,
+      "lng": 75.01222469999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaQcf-ObTuDsRkzBe4mtO1OI",
+      "name": "Shell",
+      "address": "PB Road, Hosayellapur, Dharwad",
+      "lat": 15.44816,
+      "lng": 75.01205,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7bUUTp3TuDsRPDtJvQ8RWts",
+      "name": "Bagalkot Petrol Pump",
+      "address": "F226+689, Shivpuri Colony, Malmaddi, Dharwad",
+      "lat": 15.4505482,
+      "lng": 75.0108702,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2999L97TuDsR-sJbTfprCnQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Kalghatgi Road, Dharwad",
+      "lat": 15.425405,
+      "lng": 75.006706,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBfRuOq_TuDsRfoshbPOV9Q4",
+      "name": "IndianOil",
+      "address": "Cts No 121, 8/121/9121/10, Hosayellapur, Dharwad",
+      "lat": 15.4499971,
+      "lng": 75.0060396,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_xgfJp_NuDsRXgZJ22MKXFs",
+      "name": "M/S Pawar Petroleum",
+      "address": "India",
+      "lat": 15.4738559,
+      "lng": 75.01941479999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJqSkE0v_TuDsRxsZhVRANWsc",
+      "name": "Vijaylaxmi Petrol Pump",
+      "address": "SH1",
+      "lat": 15.4149525,
+      "lng": 75.0004053,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ98OPWRzTuDsRjuvFnFVzZsQ",
+      "name": "Bharat Petroleum - Shrimahalaxmi Petroleum",
+      "address": "Khalgatgi road, Nuggikeri",
+      "lat": 15.4149375,
+      "lng": 75.00031249999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDSyUV3rNuDsRYpwuFDN1gtE",
+      "name": "Petrol Pump",
+      "address": "F264+P7Q, Maratha Colony, Dharwad",
+      "lat": 15.4618387,
+      "lng": 75.00573109999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2cztumLNuDsRiMZSU_iZjm0",
+      "name": "Go Gas auto LPG station",
+      "address": "F263+MXV, State Highway 1, Alnavar, Dharwad",
+      "lat": 15.4614603,
+      "lng": 75.004858,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJJ3pBjLHNuDsRTNd46XbSKzU",
+      "name": "IndianOil",
+      "address": "Survey No 113/8, Mrityunjaya Nagar, Hubballi",
+      "lat": 15.4819303,
+      "lng": 75.0233994,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLzU0d87NuDsRg1iOWGMHZew",
+      "name": "Total energies auto lpg gas station Vishnu Vimal Agency",
+      "address": "dsp circle, Old, PB Road, Dharwad",
+      "lat": 15.4623736,
+      "lng": 75.0041079,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJazN5g2_NuDsRno7F4FN4xa4",
+      "name": "Dodmanni Bharat Petrol Bunk",
+      "address": "Alnavar, Dharwad",
+      "lat": 15.4641809,
+      "lng": 75.0001181,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcVU0HGTNuDsRlLi-aqQHOlk",
+      "name": "M.D. Water Service Station",
+      "address": "FX5W+FRV, Haliyal Road, Narayanpura, Dharwad",
+      "lat": 15.4587447,
+      "lng": 74.99704849999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJdz_u_qDSuDsRa2oVgy6vVkw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "RS No, 16, Channabasaveshwar Nagar, Dharwad",
+      "lat": 15.4488367,
+      "lng": 74.9878518,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-cW3oP3PuDsR3x9nmnynzJ8",
+      "name": "Bharat Petroleum",
+      "address": "Shivahalli, Dharwad, SH-28, Supa Haliyala Dharwad Hebsur Road, Dharwad, Dharwad",
+      "lat": 15.463988,
+      "lng": 75.14586899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJISXkWMDPuDsR8vpYEqAvdUY",
+      "name": "IndianOil",
+      "address": "near Bus Stand, Ground Floor Shivslli Rd, Hebballi, near Bus Stand, Belur Indl Area, Dharward",
+      "lat": 15.4780601,
+      "lng": 75.1310614,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1Sh2wTnPuDsRYboUAYDej9M",
+      "name": "Yashodhara Petroliam",
+      "address": "F4HF+884, Maradagi",
+      "lat": 15.4779329,
+      "lng": 75.1243243,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8YjB2UbbuDsRxedawPuWUkk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Hebsur Road, Byahatti",
+      "lat": 15.4516525,
+      "lng": 75.22777440000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlbeODMTbuDsRi68Y3bxWnkw",
+      "name": "IndianOil",
+      "address": "Survey No 973, Block 4, Byahatti",
+      "lat": 15.4433455,
+      "lng": 75.2057133,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJV_nDiDvbuDsRWyQ-x88agLg",
+      "name": "HP PETROL PUMP - KIRAN PETROLEUM",
+      "address": "Hpcl Dealers Hebsur Road Byahatti, Belgaum",
+      "lat": 15.450216,
+      "lng": 75.216662,
+      "open_now": true
+    }
+  ]
+}

@@ -1,0 +1,667 @@
+{
+  "city": "Siliguri",
+  "state": "West Bengal",
+  "count": 82,
+  "center": {
+    "lat": 26.7271,
+    "lng": 88.3953
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJ9Y7FdgRG5DkRuePrfh_V-qQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, Siliguri",
+      "lat": 26.7005001,
+      "lng": 88.32930010000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgbMwnolG5DkRko6Prmco6gU",
+      "name": "IndianOil",
+      "address": "Ground Floor, Medical More Kadamtala, Matigara",
+      "lat": 26.7097001,
+      "lng": 88.36510009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaQFUQalI5DkRQcrVK73T-p4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Bagdogra",
+      "lat": 26.699373,
+      "lng": 88.320278,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOYbHWjFE5DkRnhFLohlUQm0",
+      "name": "IndianOil",
+      "address": "Ground Floor Gosaipur, Rangapani, Ranidanga",
+      "lat": 26.6763153,
+      "lng": 88.36814269999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJV4W4yvdE5DkRyCH0XQpK_8o",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Darjeeling, Ground Floor Lichupokhri, Phansidewa",
+      "lat": 26.644743,
+      "lng": 88.374811,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJu5zCDHJG5DkRKl8-RyTnO8o",
+      "name": "Bharat Petroleum - Tirupati Service Station",
+      "address": "P83W+MRP, Rupsing",
+      "lat": 26.7042112,
+      "lng": 88.3470796,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJce9cRNFF5DkRau4JvfgVKUE",
+      "name": "Bharat Petroleum, Petrol Pump -Kawakhali Fuel Centre",
+      "address": "KAWAKHALI ROAD, SILIGURI, DARJEELING",
+      "lat": 26.692494,
+      "lng": 88.37776559999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnd3UC2Fb5DkR89x5eVbJyqc",
+      "name": "KSHIROD Filling Station",
+      "address": "Fulbari Ghoshpukur Bypass Road, Dhamnagachh",
+      "lat": 26.59605159999999,
+      "lng": 88.3526014,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy92ReBxF5DkR5B2HoNI5VT8",
+      "name": "IndianOil",
+      "address": "Ground Floor Dhamnagach, Nh 31d, Bandar Gachh",
+      "lat": 26.5954068,
+      "lng": 88.35229269999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ95uydfhF5DkR2jsXMwduN0U",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kawakhali, Sushruta Nagar, Matigara",
+      "lat": 26.6874081,
+      "lng": 88.39174799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5yy4l-ND5DkRKMXm65NLwng",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Jalpaiguri Road, Siliguri",
+      "lat": 26.688994,
+      "lng": 88.414219,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsYZ_qOFC5DkR6_6zGeRBDTA",
+      "name": "IndianOil",
+      "address": "Ground Floor SH 12A, Jatiakali, Fulbari, Jalpaiguri",
+      "lat": 26.6272001,
+      "lng": 88.4424001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEw3oBcJG5DkRnoWUu6oOkm4",
+      "name": "Bharat Petroleum",
+      "address": "P9FM+82G, Matigara",
+      "lat": 26.7233156,
+      "lng": 88.38258850000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJf_RVUh5C5DkRL_CcOSFM7OM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Baribhasa,Desbandhupara, Siliguri",
+      "lat": 26.6916001,
+      "lng": 88.4624001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJn9DaCTxB5DkR5-NbNo7mIZ0",
+      "name": "Bharat Petroleum",
+      "address": "PCF8+MF4, Hill Cart Road, Ward 1, Patiram Jote, Siliguri",
+      "lat": 26.7241469,
+      "lng": 88.4161878,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq99vmTtB5DkRNlsN5SfVvMY",
+      "name": "IndianOil",
+      "address": "Ground Floor, Hill Cart Road, Siliguri",
+      "lat": 26.72550099999999,
+      "lng": 88.415199,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVTQeulIV-TkRY2EtMUdtvEY",
+      "name": "IndianOil",
+      "address": "Ground Floor, Fulbari Toll Gate, Hat, Fulbari",
+      "lat": 26.6571983,
+      "lng": 88.4150981,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTZtSUxVD5DkRnK2UbWLQD30",
+      "name": "Indian Oil",
+      "address": "beside PNB and SBI branch, NH-31D, beside PNB and SBI branch, haat, Fulbari",
+      "lat": 26.6502001,
+      "lng": 88.4178001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXaa7ZspD5DkRcC8gPAnDOGA",
+      "name": "Bharat Petroleum, Petrol Pump -Siliguri Service Stn.",
+      "address": "Tinbatti More, Siliguri",
+      "lat": 26.686733,
+      "lng": 88.41616069999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAYznB9BD5DkRpN1o0sStx0U",
+      "name": "Goenka Bharat Petroleum Petrol Pump",
+      "address": "JCPJ+R78, Binnaguri",
+      "lat": 26.6370266,
+      "lng": 88.4306878,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTTkxqWZB5DkRJ_oHHrco9_A",
+      "name": "Auto Pump",
+      "address": "155/5 Sree Maa Sarani, Dist, Babupara, Siliguri",
+      "lat": 26.6978762,
+      "lng": 88.4247467,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ397WHx5D5DkRhv8gY_27dD0",
+      "name": "bp",
+      "address": "India",
+      "lat": 26.6278173,
+      "lng": 88.4403732,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJaV1dZEpD5DkRqEtRK4Hv2CU",
+      "name": "Reliance JIOBP Petrol Pump Siliguri Fulbari",
+      "address": "Hat, Fulbari",
+      "lat": 26.628011,
+      "lng": 88.4408598,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJv1lYWVtB5DkR-WVwa8LmvrU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Burdwan Road, Siliguri",
+      "lat": 26.703997,
+      "lng": 88.415922,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJi6xTSRlH5DkRG_NWR7_bDJo",
+      "name": "IndianOil",
+      "address": "Ground Floor Darjeeling, Matigara",
+      "lat": 26.712204,
+      "lng": 88.40212299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNSdAorZG5DkRosedsz0gKcU",
+      "name": "BHARAT PETROLEUM",
+      "address": "India",
+      "lat": 26.712545,
+      "lng": 88.3963687,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJxfkmNjNb5DkRo06bC33K1cQ",
+      "name": "Essar Petrol Diesel Pump",
+      "address": "H9XG+9CQ, Guabari",
+      "lat": 26.5984558,
+      "lng": 88.3761213,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVe7PWSBb5DkRjlJltpek8LY",
+      "name": "Dukan India (Mamtaj)",
+      "address": "H9WF+FVX, Guabari",
+      "lat": 26.5969626,
+      "lng": 88.375556,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJn0lnUg9D5DkRwW3DRUpo_EA",
+      "name": "Bharat Petroleum Petrol Pump , BHARAT FUEL CENTRE",
+      "address": "ASIGARHEASTERN BY PASS",
+      "lat": 26.677048,
+      "lng": 88.46292900000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJARV5aIlC5DkRsu0DnDn3dOY",
+      "name": "Bharat Petroleum",
+      "address": "JFV8+43Q, Balaram Road, Binnaguri",
+      "lat": 26.6428273,
+      "lng": 88.4652297,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJIRobHEND5DkR-YAQCLb-6Uo",
+      "name": "BALARAM SERVICE STATION",
+      "address": "Balaram hat, Sahudangi to Gandar more, Bhutkir hat) Road, Mauza, Binnaguri",
+      "lat": 26.6421649,
+      "lng": 88.4653301,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsdX5UwBB5DkRInIoU-ub6ow",
+      "name": "Bharat Petroleum",
+      "address": "14a, Burdwan Road, Ward 6, Pradip Nagar, Siliguri",
+      "lat": 26.7176349,
+      "lng": 88.4208132,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJ19i_j9B5DkROuRoi-zNg-4",
+      "name": "IndianOil",
+      "address": "Ground Floor, Hill Cart Road, Siliguri",
+      "lat": 26.718042,
+      "lng": 88.42075299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJX3zFSR1H5DkRkV9pGbwwkXE",
+      "name": "IndianOil",
+      "address": "Ground Floor, Paribahan Nagar, Matigara",
+      "lat": 26.7229299,
+      "lng": 88.38834469999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTXPPOTlH5DkRz7_7i9UicHw",
+      "name": "IndianOil",
+      "address": "Ground Floor, Matigara",
+      "lat": 26.7224001,
+      "lng": 88.38170009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkYtZOABH5DkRLYoi3mbD9d0",
+      "name": "Nikita",
+      "address": "P9CJ+WCF, Matigara",
+      "lat": 26.7223104,
+      "lng": 88.38103629999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJE7zDohRB5DkRNudFHjzkSQs",
+      "name": "STARLEAK INFRASTRUCTURE PRIVATE LIMITED",
+      "address": "Pramod Nagar Ward, 42, सेवोक रोड, Bhaktinagar, सिलीगुड़ी",
+      "lat": 26.7187297,
+      "lng": 88.42530490000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUxYkmBRB5DkRG4RPTjBCuRs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "35, Sevoke Road, Siliguri",
+      "lat": 26.71893099999999,
+      "lng": 88.425277,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLw746PJD5DkRf5RQgAK31IU",
+      "name": "IndianOil",
+      "address": "Ground Floor Gandarmore, Bhakti Nagar, Nawapara",
+      "lat": 26.664155,
+      "lng": 88.471871,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpS21UAxC5DkRHs1J0IL7-3k",
+      "name": "HP Petrol Pump - M/s Agnik Fuel Centre",
+      "address": "Bhutki Road And Ambari Road Junction, Sahudangi",
+      "lat": 26.6738264,
+      "lng": 88.4727066,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJG55T4PRB5DkReOMeEMmwHX8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Sahudangi Thakurnagar, near Jaleswari Market, Eastern Bypass, Shanti Nagar, Darjeeling",
+      "lat": 26.6973022,
+      "lng": 88.4611202,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJByAMME1B5DkRHgOrIuImCYY",
+      "name": "Indranil Saha",
+      "address": "e b rd, Eastern Bypass, Shanti Nagar, Dabgram",
+      "lat": 26.6975743,
+      "lng": 88.4610112,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZ0-P00JD5DkRQuVLUQfVbxU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Bhutkihat Junction, near Ambari, Bhutkihat Road, Sahudangirhat, Jalpaiguri",
+      "lat": 26.6737241,
+      "lng": 88.47326609999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpz5NGUlo5DkRZf85d3Tl0pg",
+      "name": "IndianOil",
+      "address": "Jalpaiguri, Ground Floor, Ambari Falakata Bhaktinagar, Kamarvita, Bhutkidangapara",
+      "lat": 26.63899430000001,
+      "lng": 88.5009864,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_wQW_wJo5DkRAoXUQEG9kUU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Bhutkir Hat, Bhaktinagar, Rajganj",
+      "lat": 26.6059008,
+      "lng": 88.4850026,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ80VwLA5D5DkRSWKq7wCmtcs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Jugibhita, National Highway 27, Gandermore, Rajganj, Bhutkir Hat, Jalpaiguri",
+      "lat": 26.62222599999999,
+      "lng": 88.46655009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJX4T5QUlp5DkRx2qIgxW67ik",
+      "name": "IndianOil",
+      "address": "Jalpaiguri, Ground Floor, Ambari Falakata Bhaktinagar, Kamarvita, Bhutkidangapara",
+      "lat": 26.63899430000001,
+      "lng": 88.5009864,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJr6N7TWRB5DkRV9duH_qfIAY",
+      "name": "MAHANTA SHOP",
+      "address": "near Adarsh Pally Bazar, Farabari Road, Adarshpally Bazar, Siliguri",
+      "lat": 26.7015404,
+      "lng": 88.4755752,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJAaZp-gJo5DkRKmLH4fa-ZJk",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sitaguri, Njp, Mohan Vita, Bhutkidangapara",
+      "lat": 26.6088362,
+      "lng": 88.482096,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJ1dR1B5p5DkRtww8VixV7L8",
+      "name": "Niranjan lal service station",
+      "address": "opposite annapurna dhaba, N.H 27, sitaguri, Siliguri",
+      "lat": 26.60852539999999,
+      "lng": 88.4814823,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJWwn0mI9B5DkRLJ27TMiyPPI",
+      "name": "IndianOil",
+      "address": "Ground Floor, Niranjan Nagar, near Ashighar More, Ghogomali, Darjeeling",
+      "lat": 26.7140152,
+      "lng": 88.456916,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJey3BdA1p5DkRokE63WxMuV4",
+      "name": "Common Services Center ( CSC ) Jaldumur Para Road",
+      "address": "PF85+Q9P, Shikha Road, Ghogomali, Siliguri",
+      "lat": 26.7169613,
+      "lng": 88.4584514,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJyaDSegBn5DkRFsddoE9bV9Y",
+      "name": "NIRANJAN LAL SERVICE STATION",
+      "address": "HFXV+MM4, Ambari Falakata",
+      "lat": 26.599141,
+      "lng": 88.4942049,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJY666MwBB5DkRc1I_r6CSrN4",
+      "name": "Vobesh petrol pump to ashighor more",
+      "address": "PFF6+359, Ghogomali, Siliguri",
+      "lat": 26.722364,
+      "lng": 88.460415,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJwfikVEFp5DkRRGnnOjM40XM",
+      "name": "Bharat Petroleum",
+      "address": "MGGR+PP4, Gajol Doba Road, Shikarpur",
+      "lat": 26.676763,
+      "lng": 88.5418333,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJu-2k6lJG5DkRWxLNjkZwdNQ",
+      "name": "GANPATI SQUARE FUEL CENTRE",
+      "address": "Khaprail Road, Siliguri",
+      "lat": 26.7384876,
+      "lng": 88.3540986,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5ekqQgpH5DkRavDfGckvWbU",
+      "name": "IndianOil",
+      "address": "Ground Floor Panchkulguri, Nimai, Darjeeling, Matigara, Siliguri",
+      "lat": 26.746892,
+      "lng": 88.348987,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-_3xdLxH5DkRz-54lClb2qU",
+      "name": "IndianOil",
+      "address": "Ground Floor, Khaprail More Patharghata, Matigara",
+      "lat": 26.7365234,
+      "lng": 88.3561241,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJj9vx-hpH5DkR292nTBtEO4M",
+      "name": "Bharat Petroleum, Petrol Pump -Sharda Auto Care",
+      "address": "MALLAGURI, DARJEELING",
+      "lat": 26.7363737,
+      "lng": 88.3572198,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdVQQPyhH5DkRBxK5UODocsg",
+      "name": "Bharat petrol pump",
+      "address": "Panchakulguri",
+      "lat": 26.7513777,
+      "lng": 88.34778879999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJlQcKYXxH5DkRy8Qo9rsxa9c",
+      "name": "Bharat Petroleum, Petrol Pump -Hill View Fuels",
+      "address": "SUKNA, DARJEELING",
+      "lat": 26.77017039999999,
+      "lng": 88.378371,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo0nslpNH5DkREeL2MrHFJeI",
+      "name": "HP Gas Agency & Courier service,CSC Center, Aadhar Update Centre",
+      "address": "Q99H+WM5, Hill Cart Road, Panchanai",
+      "lat": 26.7697654,
+      "lng": 88.3792321,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJIytgbx9H5DkRuyWS6z-voPk",
+      "name": "IndianOil",
+      "address": "Ground Floor, Pradhan Nagar Pancha Nadi, Darjeeling, Dagapur, Siliguri",
+      "lat": 26.7474001,
+      "lng": 88.39550009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuW0yTaZH5DkRd27pluata38",
+      "name": "Safe Rides",
+      "address": "SIT,Petrol Pump, Methibari, Siliguri",
+      "lat": 26.7836781,
+      "lng": 88.3685939,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJLyig6iZB5DkR5AxHNVSCaC0",
+      "name": "Bharat Petroleum",
+      "address": "Ward 46",
+      "lat": 26.7365329,
+      "lng": 88.4148982,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJiRqEQiVB5DkR3vOo_Dc92eg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Hill Cart Road, Pradhan Nagar, Siliguri",
+      "lat": 26.730411,
+      "lng": 88.412268,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJv5LQ7Z5B5DkRtxmPH7k6QM4",
+      "name": "PETROL PUMP",
+      "address": "PCM6+6VH, Temple Road Mallaguri, Pradhan Nagar, Siliguri",
+      "lat": 26.7330605,
+      "lng": 88.41223409999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ6fcqDABB5DkRWu6ZLq8aprM",
+      "name": "East India Service Station, Mallaguri",
+      "address": "PCM7+JHQ, Pradhan Nagar, Siliguri",
+      "lat": 26.7340788,
+      "lng": 88.4139847,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJgSOvRQVB5DkRHLZZoPABS3w",
+      "name": "DDTS Petrol Pump",
+      "address": "PCJJ+3H7, Sevoke Road, Ward Number 13, Bankim Nagar, Siliguri",
+      "lat": 26.7301749,
+      "lng": 88.4314339,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDzMuzFJB5DkRHyOBv3fopTI",
+      "name": "IndianOil",
+      "address": "Sevoke Road, Bankim Nagar, Siliguri",
+      "lat": 26.730711,
+      "lng": 88.43191100000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_c_4eMFA5DkRk6-oFP183OQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, Debidanga, Champasari, Darjeeling",
+      "lat": 26.7591948,
+      "lng": 88.4185031,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDdZbZeJB5DkRdE4yb0wQQBs",
+      "name": "Bharat Petroleum, Petrol Pump -Sagar Service Stn.",
+      "address": "Sevoke Road, Ektiasal, Siliguri",
+      "lat": 26.7420844,
+      "lng": 88.436103,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBwf1TgBB5DkRmKdKmtRMTiw",
+      "name": "Sawaria service station (petrol pump)",
+      "address": "Himalayan Kanya Abasan, Ward 42, Don Bosco Colony, Siliguri",
+      "lat": 26.7523336,
+      "lng": 88.4435728,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWfO2j1hA5DkRSj5JR5mQh7w",
+      "name": "Bharat Petroleum, Petrol Pump -Sona Petrol Pump",
+      "address": "Salugara, Siliguri",
+      "lat": 26.756509,
+      "lng": 88.44097959999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYTIifgBB5DkRlabrTNKseVc",
+      "name": "Indian Oil Petrol Pump",
+      "address": "PFH2+VQ8, Ward 40, Haidar Para, Siliguri",
+      "lat": 26.7297663,
+      "lng": 88.45173330000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJn5tzDABB5DkRIR5k_ur4CF8",
+      "name": "KARMAKAR FUEL STATION",
+      "address": "near ektiasal more, Iskcon Road, Siliguri",
+      "lat": 26.7297436,
+      "lng": 88.45173650000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJW-YB37hB5DkR7EpckRKVI1A",
+      "name": "IndianOil",
+      "address": "Ground Floor, Eastern Bypass, Baikunthpur",
+      "lat": 26.7413069,
+      "lng": 88.4545739,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKegGF_hA5DkR8dglrfI3HIU",
+      "name": "IndianOil",
+      "address": "3rd Mile, Sevoke Road, Salugara, Siliguri",
+      "lat": 26.76778719999999,
+      "lng": 88.44563099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBSV3goA45DkRu3qTY1uTm04",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sukna",
+      "lat": 26.7907025,
+      "lng": 88.3630063,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfzLJQgA55DkRQ0qaXk_Fam0",
+      "name": "Indian Oil Petrol Pump",
+      "address": "Q9R7+84R, near At, Main Road, Sukna",
+      "lat": 26.7908159,
+      "lng": 88.3627776,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJrdHHUQBB5DkRI3pOFYmXIN0",
+      "name": "Indian Oil",
+      "address": "2nd Mile, Vega Circle Mall Ground Floor, beside Spencers, Sevoke Road, Nimbu Basti, Siliguri",
+      "lat": 26.7519447,
+      "lng": 88.43935689999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ0dHjtqM35DkR9xnesmQLVIs",
+      "name": "IndianOil",
+      "address": "Jamdar, Ground Floor Panighata Dudhia, Road, Vitta",
+      "lat": 26.811601,
+      "lng": 88.2469701,
+      "open_now": true
+    }
+  ]
+}

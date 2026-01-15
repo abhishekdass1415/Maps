@@ -1,0 +1,971 @@
+{
+  "city": "Puducherry",
+  "state": "Puducherry",
+  "count": 120,
+  "center": {
+    "lat": 11.9416,
+    "lng": 79.8083
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJXcOgmfGfVDoReXnjGAucbFI",
+      "name": "IndianOil",
+      "address": "Ground Floor, Karikalampakkam, Nettapakkam",
+      "lat": 11.8687799,
+      "lng": 79.7489203,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJab6aUWugVDoRWNCuwE8jgU8",
+      "name": "IndianOil",
+      "address": "RS No 213, 14, Madukarai - Thavalakuppam Main Road, Bahour, Embalam",
+      "lat": 11.8660058,
+      "lng": 79.7173679,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJK2djwhFgUzoRSCPrMZA9eRc",
+      "name": "BPCL Petrol Pump",
+      "address": "Bahour Road, Villianur",
+      "lat": 11.9003282,
+      "lng": 79.75240869999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJKzgdXidgUzoRyr4cHX-mBnw",
+      "name": "IndianOil",
+      "address": "Tin No 34810014907, Keezha Agraharam Abhishekapakkam Main Road, Arumbarthapuram, Puducherry",
+      "lat": 11.885674,
+      "lng": 79.76946099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7e86t2OgVDoR7G2zr32WPRg",
+      "name": "IndianOil",
+      "address": "Ground Floor, Madukkarai Main Road, Manakuppam",
+      "lat": 11.86752,
+      "lng": 79.698494,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJww3HT0meVDoR50C3pdO75t0",
+      "name": "HP PETROL PUMP -MS HSD ARUN AGENCY",
+      "address": "No 309 PONDY, Cuddalore Main Road, Thavalakuppam",
+      "lat": 11.8586752,
+      "lng": 79.79137,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAYT8fh6fVDoR97kWhlcXKfA",
+      "name": "ANANDA AGENCIES Adhoc Bharat Petroleum",
+      "address": "National Highway 32, Pudicherry",
+      "lat": 11.8237569,
+      "lng": 79.7822489,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJLT8W-TpeUzoRyVj0NA-Bboo",
+      "name": "IndianOil",
+      "address": "Lock No 05398, Villupuram Road, Pathukannu",
+      "lat": 11.9423502,
+      "lng": 79.7262264,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJibW3JgCfVDoRVzGWHVvSh7M",
+      "name": "Bharat Petroleum - PONDY COOP CON.FED,LTD(CONFEDII)",
+      "address": "VP8R+545, Chellancheri",
+      "lat": 11.86531,
+      "lng": 79.74036799999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJw4GWDe2fVDoR5Rn8Bt375so",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "RS No 52, 15, Madukkarai Main Road, Karikalampakkam",
+      "lat": 11.8644695,
+      "lng": 79.7528171,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJO9LIMQBfUzoRiuq9tWE8qHo",
+      "name": "Arimaa Agency IOCL Petrol pump",
+      "address": "VPRM+9X4, Embalam - Mangalam Road, Mangalam",
+      "lat": 11.8908847,
+      "lng": 79.7349457,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJfeuzmBSgVDoRQRipy117vaM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "RS No 214/1 Madukarai Thavalakuppam, Main Road, Embalam",
+      "lat": 11.866309,
+      "lng": 79.719075,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs2Pv8uZfUzoRMszTNwdszJY",
+      "name": "Jayalakshmi Lubricants, IOC Servo Stockists",
+      "address": "Pondu 605102, 12, Villianur Main Road, Puducherry",
+      "lat": 11.9024538,
+      "lng": 79.7321451,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJD6DvVgCfVDoRT2i2qXbmg60",
+      "name": "Indian oil petrol hunk",
+      "address": "RQXC+G8W, Thimmanayakan Palayam",
+      "lat": 11.8488623,
+      "lng": 79.7708275,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJjzkQTvBhUzoRtUcIglWUyfY",
+      "name": "IndianOil",
+      "address": "Ground Floor, Villianur",
+      "lat": 11.9097001,
+      "lng": 79.74839539999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ55_I4JafVDoR6_RVCGby8yc",
+      "name": "Essar petrol bunk",
+      "address": "99/3, village, Aranganoor",
+      "lat": 11.8320571,
+      "lng": 79.7500096,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOYcxFW5gUzoRUvtlqKHTHG8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Villupuram Rd, 66/9 B Pondy, Villianur Bypass Road, Puducherry",
+      "lat": 11.9142574,
+      "lng": 79.7526388,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuVOWNgBfUzoRxuOvHtxvBXw",
+      "name": "HP Petroleum bunk",
+      "address": "WP35+R2C, Pangur",
+      "lat": 11.9048326,
+      "lng": 79.7071667,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJK2no6vtfUzoRe38EKICBp9o",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Villianur, Ariyur",
+      "lat": 11.904766,
+      "lng": 79.707021,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-WgDYwBfUzoRZa6jlwqjh9s",
+      "name": "IOCL COCO Ariyur",
+      "address": "No 8, Main Road opposite to Mahindra Showroom, Thamarai Nagar Ariyur, Puducherry",
+      "lat": 11.9052643,
+      "lng": 79.70653,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJF4_GlpefVDoRNm8WH7Zk3P0",
+      "name": "ANBAGADEVAN AGENCY",
+      "address": "97, Bahour Road, Puducherry",
+      "lat": 11.8263032,
+      "lng": 79.7548832,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJKQYeccNhUzoRQpbhDSexN9I",
+      "name": "Bharat Petroleum, Petrol Pump -Sonas Agency",
+      "address": "ODIYAMPET,PONDY, Puducherry",
+      "lat": 11.9093049,
+      "lng": 79.7690684,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJA2xbkkmeVDoR6NGPJe7W8hY",
+      "name": "BPCL - Sri Rajarajeswari Agency",
+      "address": "VQ6R+R9V, East Coast Road, Abhishekapakkam",
+      "lat": 11.8621155,
+      "lng": 79.7909335,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJp_2DyYSfVDoRErRTf6uVxvU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Pondy, Cuddalore Road, Thavalakuppam",
+      "lat": 11.8586294,
+      "lng": 79.7912298,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0fwDO9ifVDoRrTJbFDqv2bE",
+      "name": "BPCL - Gayatri Agency",
+      "address": "East Coast Road, 227, Cuddalore Road, Thavalakuppam",
+      "lat": 11.8612519,
+      "lng": 79.792226,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdViXCLphUzoR0WqLku8aZqU",
+      "name": "IndianOil",
+      "address": "145/5, Villianur Main Road, Puducherry",
+      "lat": 11.9202043,
+      "lng": 79.76373029999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtdih4VNgUzoRibu_Euf3Uuc",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sulthanpet, Puducherry",
+      "lat": 11.9202168,
+      "lng": 79.76375689999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1Ta2i8phUzoR_PNLuCZT1tk",
+      "name": "Petrol Pump",
+      "address": "Villianur Road, Kombakkam",
+      "lat": 11.9073905,
+      "lng": 79.78742749999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFWGs5-6fVDoRGKLBhVgbF-s",
+      "name": "IndianOil",
+      "address": "Lock No 1153/122, Cst No 34200007725, near Boat House, East Coast Road, Abhishekapakkam",
+      "lat": 11.8856261,
+      "lng": 79.80055039999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJabjKw4ShVDoRXuxBkHniS5A",
+      "name": "Essar Petrol Bunk",
+      "address": "VMJF+HXM, Kizhur",
+      "lat": 11.8813901,
+      "lng": 79.6751646,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJE7TSDQBhUzoRYOq4mvquufM",
+      "name": "Indian oil",
+      "address": "55, Cuddalore Road, Ariyankuppam",
+      "lat": 11.8899249,
+      "lng": 79.8013971,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_RecFqNhUzoRKKVeDPPq7bw",
+      "name": "Adhoc sivaprakasam agencies",
+      "address": "Villianur Main Road, Arumparthapuram, Puducherry",
+      "lat": 11.9240452,
+      "lng": 79.7794146,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaZMVobhhUzoRI5AWWgm9YaU",
+      "name": "IndianOil",
+      "address": "RS No 32/5, Utchimedu Pondy Cudd Road, Kannikoil, Puducherry",
+      "lat": 11.926725,
+      "lng": 79.7820291,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLYYOo0mfVDoR4ozlMNCj76w",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "RS No 170/5, Road, Kanniyakoil",
+      "lat": 11.8035465,
+      "lng": 79.7546641,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJd_-z1bJhUzoRegkiMmmKHTU",
+      "name": "IndianOil",
+      "address": "Ground Floor Pitchaveeranpet, Marie Oulgaret, Ozhugarai",
+      "lat": 11.931131,
+      "lng": 79.776335,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl96D8t6fVDoRongaGtHlYvM",
+      "name": "Bharat Petroleum, Petrol Pump -Krishnaa Agency",
+      "address": "VILLAGE, Pillayarkuppam",
+      "lat": 11.8138477,
+      "lng": 79.78061939999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjXt3BcSfVDoRM-2LqSYJ0Yw",
+      "name": "IndianOil",
+      "address": "No 105/3A, Pillayarkuppam",
+      "lat": 11.814036,
+      "lng": 79.78089299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJfr4JJRhUzoReJug86TE3cc",
+      "name": "IndianOil",
+      "address": "No 1, Cst 34460015148, Marapalam Jn, East Coast Road, Mudaliarpet, Puducherry",
+      "lat": 11.9151811,
+      "lng": 79.81091420000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgflkKXKuBhERDJgMfJrVFAs",
+      "name": "Bharat Petroleum",
+      "address": "WR97+22F, Opp. To Bharathi Mill, Cuddalore Road, Mudaliarpet, Puducherry",
+      "lat": 11.917575,
+      "lng": 79.812534,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7yMiBplhUzoRzov-yVqkC2c",
+      "name": "IndianOil",
+      "address": "Lock1040/121 Bhuvankaro St, Commune, Pondicherry - Cuddalore Road, Mudaliarpet, Puducherry",
+      "lat": 11.923813,
+      "lng": 79.810867,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJw_6-FiliUzoRBYkl6cKOkkI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "41 Ward E, Block, TS No, RS No 431/PT, 1, Beach Road, Puducherry",
+      "lat": 11.9254499,
+      "lng": 79.833975,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWStuhYFhUzoRLkcbaLxtDtY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "254, Bussy Street, MG Road Area, Puducherry",
+      "lat": 11.9301925,
+      "lng": 79.8247256,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXT0-jnlhUzoRRej9IrvM_Mk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "107, Kamaraj Salai, Puducherry",
+      "lat": 11.9372199,
+      "lng": 79.821271,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJizRFOHJhUzoRz1xMDdNT87w",
+      "name": "IndianOil",
+      "address": "Kamaraj Salai, Ilango Nagar, Puducherry",
+      "lat": 11.9413058,
+      "lng": 79.8114317,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB7xg6w9hUzoRozBtyPKLI_s",
+      "name": "Bharat Petroleum",
+      "address": "Near Hospital, Kathirkamam, Puducherry",
+      "lat": 11.9415725,
+      "lng": 79.7971025,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPTWBO_euBhER_TBxdo9TiSI",
+      "name": "IndianOil",
+      "address": "Lock No 1182/122, Rs.No: 192, 1st Main Road, Mettupalayam, Vazhudavur",
+      "lat": 11.9393712,
+      "lng": 79.78773149999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTQmB63phUzoRO6tLJKyqrIg",
+      "name": "Bharat Petrol Pump",
+      "address": "30, 8th Cross Street, Brindavanam, Puducherry",
+      "lat": 11.9419129,
+      "lng": 79.8201083,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJR6tiWQBhUzoRSPSTJ7MUOdE",
+      "name": "Indian Oil Petrol Pump",
+      "address": "VRWG+WF9, Veerampattinam",
+      "lat": 11.8975193,
+      "lng": 79.8267963,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFzSbv5NhUzoRClYGNOPpEvQ",
+      "name": "Paradise stores",
+      "address": "WR77+FQV, Aadiprasakthi Nagar, Vasantha Nagar, Nainar Mandapam, Thengaithittu, Puducherry",
+      "lat": 11.9137345,
+      "lng": 79.8144125,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJEWjXONphUzoRr9fPHXYi9fQ",
+      "name": "Soussilla Agencies HP Petrol",
+      "address": "WRC9+G23, Vanarapet, Puducherry",
+      "lat": 11.9212705,
+      "lng": 79.8175564,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJQatpTydhUzoR3UlQA6zRf0A",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "RS No 329/1, Uppalam Road, Mudaliarpet, Puducherry",
+      "lat": 11.9213117,
+      "lng": 79.8175644,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM2EC3UJhUzoRfjgoIwV0DNQ",
+      "name": "Soussila Agency",
+      "address": "WRF9+6MV, Doctor Ambedkar Road, Uppalam, Avvai Nagar, Puducherry",
+      "lat": 11.9231012,
+      "lng": 79.8191684,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbySuNhSfVDoR2St0S9OzhmI",
+      "name": "Bharat Petroleum, Petrol Pump -Confed 1 (Adhoc)",
+      "address": "PONDY (KIRUMAMBAKKAM), Puducherry",
+      "lat": 11.8193937,
+      "lng": 79.7941015,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ83HfqkNhUzoRjH22iGhUhD4",
+      "name": "IndianOil",
+      "address": "RS No 11/2, Cst No 34530025828, Villianur Main Road, Nellithope, Anna Nagar, Puducherry",
+      "lat": 11.932086,
+      "lng": 79.806955,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDx2lAwFjUzoRpMtra8IXhIo",
+      "name": "Bharat Petroleum, Petrol Pump -Sri Meenakshi Agencies",
+      "address": "Bussy Street, MG Road Area, Puducherry",
+      "lat": 11.9305048,
+      "lng": 79.82404869999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMelr5nBhUzoRf2kd5AEzEDM",
+      "name": "IndianOil",
+      "address": "CST No 34780025836, PB No 4, MM, Maraimalai Adigal Salai, Puducherry",
+      "lat": 11.9310896,
+      "lng": 79.8217069,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJa6XE7WJnUjoRPJvHYaJmJaE",
+      "name": "IndianOil",
+      "address": "Loc No I, 1177/122, Bypass Road, Anna Nagar, Puducherry",
+      "lat": 11.933966,
+      "lng": 79.807709,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjWRLaHFhUzoRlqolvOhsnIs",
+      "name": "Petrol Bunk",
+      "address": "Dtheavanam Patenam Cuddalore, 33 D, Perumal Koil Street, Puducherry",
+      "lat": 11.9343591,
+      "lng": 79.8068132,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJXQ_jCHhhUzoRO3S6x9j66uo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Rs.No:, near Gundu Salai, 161/1/A/1B & 161/2/A/1B/9, Pasumpon Nagar, Mothilal Nagar, Marie Oulgaret, Puducherry",
+      "lat": 11.9324934,
+      "lng": 79.7861717,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJv6LWul9hUzoRJZDWFxmMt5E",
+      "name": "Bharat Petroleum, Petrol Pump -Sri Poiyamozhi Vinayagar Agency",
+      "address": "OULGARET, PUDUCHERRY, Puducherry",
+      "lat": 11.9307431,
+      "lng": 79.7815342,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcQdhJtVjUzoRrqxEJMMAtWs",
+      "name": "Ashram Petrol Pump",
+      "address": "60, H.M.Kassim Salai, MG Road Area, Puducherry",
+      "lat": 11.9336,
+      "lng": 79.8322,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe8AZliZjUzoRnQJgE6pkhYI",
+      "name": "SIVAGAMI FUEL STATION",
+      "address": "No 170/6, East Coast Road, Kalapet",
+      "lat": 11.9357756,
+      "lng": 79.8336621,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ47bTSwBhUzoRjKv-HmiKnlw",
+      "name": "IndianOil Petrol Pump- Appasamy Energy Point",
+      "address": "WRR3+M8X, Kavundanpalayam, Puducherry",
+      "lat": 11.9417256,
+      "lng": 79.8033588,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJgfGUBPxhUzoRiOguOTuy6E0",
+      "name": "IndianOil",
+      "address": "No C894084, Cst 34530002645/21 No 1178, 122, Thattanchavady, Puducherry",
+      "lat": 11.942347,
+      "lng": 79.80635,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJT88qMg5hUzoRdA7FvfQPSRs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Vazhudavoor Road, Koundanpalayam, Marie Oulgaret, Puducherry",
+      "lat": 11.9419207,
+      "lng": 79.7991983,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGakjrh9hUzoRhID2PAMwbh0",
+      "name": "IndianOil",
+      "address": "Pt & 94/2, Cst No 34790001920, Lk 1120/122, RS No 94/1B, Mettupalayam, Puducherry",
+      "lat": 11.951246,
+      "lng": 79.787224,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_YjSnfBgUzoRaaU67Vs4LFo",
+      "name": "IndianOil",
+      "address": "Lock No 1186, 1/4, Tin 34060017599, 3 & 1/4, Gopalan Kadai Road, Mettupalayam, Puducherry",
+      "lat": 11.9380295,
+      "lng": 79.7732942,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy0ukR3peUzoR_USC6ATvE8s",
+      "name": "Bharat Petroleum",
+      "address": "XP83+9M9, Koonimudaku Main Rd, Koonimudaku, Puducherry",
+      "lat": 11.9659002,
+      "lng": 79.70423749999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJgQWfTvBdUzoRRS6CVjLPbxs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 45/4, Tin 34890017676, near HP Gas Filling Station, Pathukannu Road, Sedarapet",
+      "lat": 11.9876035,
+      "lng": 79.7316744,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ16WaBWxnUzoRtn9fzSfmNhg",
+      "name": "IndianOil",
+      "address": "Lock No 05479, No 50/3A 50/3D, Sedarapet",
+      "lat": 12.001133,
+      "lng": 79.759636,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS-yvDspdUzoR-S3sl2oTUaA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Vazhudavur Road, Katterikuppam",
+      "lat": 11.9949589,
+      "lng": 79.69972349999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9yFzQWxhUzoR3pFP9yHSmVE",
+      "name": "Bharat Petroleum NS Agencies",
+      "address": "R.S No. 144, 100 Feet Road, Pakkamudayanpet, Puducherry",
+      "lat": 11.946826,
+      "lng": 79.81117900000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQ_GMGRdeUzoREfXYob6GCZk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 49/12, 49/13, Main Road, Sedarapet",
+      "lat": 11.9553096,
+      "lng": 79.72657009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJN5KXZtdhUzoRO0aZjSFO-m4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 21/1, Main Road, Kurumbapet, Vazhudavur",
+      "lat": 11.9403732,
+      "lng": 79.7608614,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJO65kcAleUzoRg6_kVmUCz1E",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "RS No 10/2, Sethapet Road, Thuthipet",
+      "lat": 11.9704734,
+      "lng": 79.7239085,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ23zivmBeUzoRKpIL42NEGp4",
+      "name": "IndianOil",
+      "address": "L No 05471, RS No 41/3, TV Malai Main Road, Sellipet",
+      "lat": 11.9516249,
+      "lng": 79.69947549999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwYsiC0ddUzoRj5PTZqSFbq0",
+      "name": "Bharat Petroleum Petrol Pump , P.R.AGENCIES",
+      "address": "R.S.NO.47/9SEDARAPET, East Coast Road",
+      "lat": 11.9796385,
+      "lng": 79.723728,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJu758v3FfUzoR_2h61ES-fDs",
+      "name": "SVS Agencies - BHARAT PETROL PUMP IN SELLIPET",
+      "address": "No. 29/11, Thiurvannamalai Main Road Backside to BSNL TOWERS, Sellipet",
+      "lat": 11.9528407,
+      "lng": 79.6973343,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnUURKGFdUzoRGFVyJ3K38Dc",
+      "name": "IndianOil",
+      "address": "No L/04754, Rs No 65, 1 & 2, Main Road, Karasur",
+      "lat": 11.986001,
+      "lng": 79.736115,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJK7YfTgBhUzoR4cS49gVzYNQ",
+      "name": "Kasiyammal agency",
+      "address": "11, Poothurai Road, JIMPER, Puducherry",
+      "lat": 11.9540215,
+      "lng": 79.78767789999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJOSX0jVxhUzoRHQ0lLdpYNm8",
+      "name": "IndianOil",
+      "address": "Ground Floor, Thattanchavady, Marie Oulgaret, Puducherry",
+      "lat": 11.9536924,
+      "lng": 79.7878217,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1y8vmRFhUzoRu57e02NjmCw",
+      "name": "IOCL Kohinoor Petrol Pump",
+      "address": "National Highway 32, Dhanvantari Nagar, Puducherry",
+      "lat": 11.9451685,
+      "lng": 79.80059949999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLx44SCNfUzoRzXQoDUjr-_M",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near vinayagampattu, No 5, Pondy Main Road, Vinayagampattu",
+      "lat": 11.9566885,
+      "lng": 79.675173,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJk7VunTlnUzoRlB7L9Q_Nt6o",
+      "name": "Hp, Petrol Pump -Yogash Service Station",
+      "address": "2Q25+XVJ, PONDY (MAILAM ROAD, Pattanur",
+      "lat": 12.0024744,
+      "lng": 79.7596508,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9ZXWgmtnUzoRKC4xNPMyfck",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "RS No 28, 3PT & 4PT, Pipdic Industrial Estate, near Mailam Main Road, Sedarapet",
+      "lat": 12.0025898,
+      "lng": 79.7594529,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJt_9VDQBnUzoRiDJOH8DIJ8g",
+      "name": "Indian Oil Santhosh Agencies",
+      "address": "2Q24+WRV, Mailam Main Road, Sedarapet",
+      "lat": 12.003342,
+      "lng": 79.75725330000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5UKA_E5nUzoRUB2zQEpxC2w",
+      "name": "Bharat Petroleum",
+      "address": "2P4X+M98, State Highway 136, Sedarapet",
+      "lat": 12.0066645,
+      "lng": 79.74846670000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJV0xDeQBhUzoRKZEAsVdKFwg",
+      "name": "Bharat Petroleum Bunk (Government)",
+      "address": "Industrial Estate, Thattanchavady, Puducherry",
+      "lat": 11.9456933,
+      "lng": 79.8076064,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJF5Lg6rthUzoRCmacTgGM7kk",
+      "name": "PETROL BUNK (GOVERNMENT) THE PONDICHERRY CENTRAL COOPERATIVE M",
+      "address": "R.S.NO 242/1A, Thattanchavady, OULGARET TALUK",
+      "lat": 11.945713,
+      "lng": 79.8076104,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBQsZjDZhUzoRJNTFC4rq-X8",
+      "name": "Bharath petrol pump - Badmavathy agencies",
+      "address": "18, ECR Double road, Pakkamudayanpet, Lawspet, Puducherry",
+      "lat": 11.9458767,
+      "lng": 79.8102534,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJU3bSft9jUzoR-sFCUvbsfic",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "135/7, East Coast Road, Lawspet, Puducherry",
+      "lat": 11.9541264,
+      "lng": 79.8207383,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfdiP0GdhUzoR0aqtxKMe6XA",
+      "name": "Bharat Petroleum",
+      "address": "Papsco Oil, ECR, State Highway 49, Near, Near, Krishna Nagar, Puducherry",
+      "lat": 11.9524931,
+      "lng": 79.8190901,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLwFb0WRhUzoRXmMS4VJplm8",
+      "name": "IndianOil",
+      "address": "Cst No 34090002402, Lock No 1167, 122, East Coast Road, Lawspet, Puducherry",
+      "lat": 11.949826,
+      "lng": 79.814323,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAUXPSQFhUzoRVa4LWKH36qk",
+      "name": "Bharat Petroleum, Petrol Pump -Ranjith Agencies",
+      "address": "PONDY (LAWSPET,PONDY BYPAS, Puducherry",
+      "lat": 11.9527745,
+      "lng": 79.8161204,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGdUgOQBjUzoRT_fc34HBgYE",
+      "name": "Mani hous",
+      "address": "1, Kathirvel street, Chinnapuram, Puducherry",
+      "lat": 11.9431764,
+      "lng": 79.8306137,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJb-r1OQBjUzoRAXbrj6vdx90",
+      "name": "J A Agencies",
+      "address": "511, Mahatma Gandhi Road, Muthialpet, Puducherry",
+      "lat": 11.9434077,
+      "lng": 79.8307683,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJF7cnRS9jUzoR4p9eieVW7I0",
+      "name": "IndianOil",
+      "address": "Ground Floor, Mahatma Gandhi Road, Muthialpet, Puducherry",
+      "lat": 11.94422,
+      "lng": 79.830899,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH85KoThjUzoReIXwx1meqCM",
+      "name": "Shell Petrol Pump",
+      "address": "Velayutham, Velayudham Pillai Street, Puducherry",
+      "lat": 11.94669,
+      "lng": 79.83140999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAY5thBthUzoRSbBlRV16-es",
+      "name": "IndianOil",
+      "address": "Lk 1174/121 Saram, Lawspet, Karuvadikuppam, Puducherry",
+      "lat": 11.952801,
+      "lng": 79.829301,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJ1-Cet9jUzoRqeI-GVdxdFI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 106 & 108, Karuvadikuppam Main Road, Muthialpet, Puducherry",
+      "lat": 11.951939,
+      "lng": 79.83035339999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ28ZzKtplUzoRRiBEy5CtO1U",
+      "name": "SB TRAVELS AND TRANSPORT SERVICE",
+      "address": "Auroville Health Center, opp. aspirations Road. 605101, Main Entrance, Kuilapalayam",
+      "lat": 11.9873892,
+      "lng": 79.834099,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJiYGvTwBdUzoRB7GDUXOdBG8",
+      "name": "IndianOil",
+      "address": "Cst No 34980002252 L No 5533, Pudukuppam Rd, Kattery, Suthukeny",
+      "lat": 12.020695,
+      "lng": 79.70237,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPawkaH1dUzoRf0m3Mvknx28",
+      "name": "Bharat petroleum - VETRISELVAN AGENCIES",
+      "address": "2PJ3+6H3, Sugar Mill Road, Lingareddypalayam",
+      "lat": 12.0305067,
+      "lng": 79.7039216,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJRovw_lcUzoRw8ajGIn47KM",
+      "name": "IndianOil",
+      "address": "India",
+      "lat": 12.0214916,
+      "lng": 79.68462400000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ29Quw_lcUzoRLES8lENKol8",
+      "name": "IanOil",
+      "address": "India",
+      "lat": 12.0214982,
+      "lng": 79.6846209,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJTU-AeZddUzoR7OZTsWPS_SA",
+      "name": "IndianOil",
+      "address": "No ,81/3 valudhavur, to, mailan road, Sandhai Pudukuppam",
+      "lat": 12.0214758,
+      "lng": 79.6844654,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpxz4JHddUzoRNbYVXlXkCaE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "1/PT, Rs No 81/2A, Mailam Road, Valudavur",
+      "lat": 12.0226617,
+      "lng": 79.6845913,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1-uXAfdmUzoR4eiSifsw3Ig",
+      "name": "IndianOil",
+      "address": "Lock No 1131/122, Cst No 34400001892 Alankuppam Main Road, Irumbai, Lawspet, Puducherry",
+      "lat": 12.018678,
+      "lng": 79.798666,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm5SCCDtcUzoR1WabnIRpwRg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "RS No 54, 4C, Vazhudavur Road, Kumarapalayam",
+      "lat": 11.9861081,
+      "lng": 79.68037559999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJt8LPN09kUzoRqhMuZ2CtMqU",
+      "name": "IndianOil",
+      "address": "State Highway 49, Chinna Kalapet, Puducherry",
+      "lat": 12.014069,
+      "lng": 79.858289,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJReN58rJlUzoRTx3PnIwAjN8",
+      "name": "Bharath Petroleum",
+      "address": "opposite to Hotel Asoka ( Beach Resort, East Coast Road, Chinna Kalapet, Pappireddipatti",
+      "lat": 12.0260571,
+      "lng": 79.8617652,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpxflOaRlUzoRnRpT6Rpv9bo",
+      "name": "IndianOil",
+      "address": "ECR Cst 34530001675, No 1107/122, No 170/2A 170/5, 170/3, Kalapet",
+      "lat": 12.0391001,
+      "lng": 79.867701,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJodUQMExkUzoR4RJ5T0ybb2U",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 21, RS No 152/3B/2, near East Coast Road, 152/4 & 152/5, Chinna Kalapet, Pillaichavady",
+      "lat": 12.0190732,
+      "lng": 79.85985149999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkY8M8ZZnUzoRFzsw_uRrziQ",
+      "name": "Bike Stop",
+      "address": "3R6H+9HX, Olunthiyapatu-Nesal-Puthuppattu Road, Koluveri",
+      "lat": 12.0609969,
+      "lng": 79.8289779,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ2VHDc2llUzoRJC9-pETywSU",
+      "name": "OM MURUGA GAS AGENCY",
+      "address": "09, Amman Nagar, Kalapet",
+      "lat": 12.0366152,
+      "lng": 79.8573976,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJV1O26MplUzoRx347xHJUEPk",
+      "name": "Bharat Petroleum, Petrol Pump -Sri Venu Corporation",
+      "address": "KALAPET, Puducherry",
+      "lat": 12.0260855,
+      "lng": 79.8618152,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLQNlPuplUzoRLX3ntI8uoU8",
+      "name": "Bharat Petroleum Petrol Pump , SRI SIVAGAMI FUEL STATION",
+      "address": "R S NO 170 6A 1A 8 ECR, VILLAGE, ROADPERIYA, Kalapet",
+      "lat": 12.0374718,
+      "lng": 79.86702509999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuY8GeS9lUzoRIXrfLyvQKxc",
+      "name": "Retail Outlet",
+      "address": "170, State Highway 49, Periyakalapet, Puducherry",
+      "lat": 12.0378535,
+      "lng": 79.8675045,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ94EpGOBlUzoRxI48Fy7aR3w",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "RS No 170/1A, 170/2 & 170/3, East Coast Road, Periyakalapet, Puducherry",
+      "lat": 12.0393907,
+      "lng": 79.86795479999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJu3EtOKRlUzoR-yZt--68JIc",
+      "name": "IndianOil",
+      "address": "Lock No 1133/122/7, 150/8 &150/1, East Coast Road, Kanagachettikulam, Kalapet",
+      "lat": 12.0436071,
+      "lng": 79.8690915,
+      "open_now": true
+    }
+  ]
+}

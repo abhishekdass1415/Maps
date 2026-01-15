@@ -1,0 +1,1147 @@
+{
+  "city": "Mangalore",
+  "state": "Karnataka",
+  "count": 142,
+  "center": {
+    "lat": 12.8667,
+    "lng": 74.8667
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJ6ztjCPdbozsRnT4AfBTVUd0",
+      "name": "IndianOil",
+      "address": "Ground Floor, Permannur",
+      "lat": 12.824248,
+      "lng": 74.8603845,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC29XFatbozsR08B6IuG0dSk",
+      "name": "IndianOil",
+      "address": "South Wharf, Bunder, Mangaluru",
+      "lat": 12.8551519,
+      "lng": 74.8332003,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl4a8GQBdozsR9ZyGA4OGKFc",
+      "name": "MRPL",
+      "address": "3-35/1, Azad Nagar, Mangaluru",
+      "lat": 12.8155116,
+      "lng": 74.8512932,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ-dkhWAtcozsRoETHHMTO9p8",
+      "name": "MANJESHRAJ FUEL SERVICES",
+      "address": "RV82+4HW, Ullal Main Road, Azad Nagar, Ullal",
+      "lat": 12.8153549,
+      "lng": 74.85145849999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJpdILOFldozsR1t45N7jN1Sc",
+      "name": "JILU AUTO GAS",
+      "address": "QVX5+422, Panvel - Kochi - Kanyakumari Highway, Ajjinadka",
+      "lat": 12.7977508,
+      "lng": 74.8575169,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJt9AyFIRdozsRsopJxE0uk2A",
+      "name": "M.A.Krishna Nayak & Co.BPCL petrol pump Ullal",
+      "address": "QVR5+P63, Someshwar Village, Ullal",
+      "lat": 12.7917987,
+      "lng": 74.8580346,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJQdQNK9ZdozsRvpFMoCby0SA",
+      "name": "HP Petrol Pump",
+      "address": "NH66, Kumpala Road, Ullal",
+      "lat": 12.8051315,
+      "lng": 74.8579574,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuV3eC99dozsRXZvSd9mZAUw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Kotekar",
+      "lat": 12.805314,
+      "lng": 74.858364,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWaUrTaJbozsRLVR-s-0CS-4",
+      "name": "HP Petrol Pump",
+      "address": "Bunder, Mangaluru",
+      "lat": 12.8534939,
+      "lng": 74.83359759999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ_7-UKUddozsRTuR6ldr8TFc",
+      "name": "KALANDER ZAKARIYA",
+      "address": "Thalapady JHC",
+      "lat": 12.7767823,
+      "lng": 74.8632772,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqVatSYFdozsR35IWukGyovY",
+      "name": "BPCL Petrol Pump, Someshwara Fuels & Energy",
+      "address": "Bus Stand, Uchil, Kalavarnika, Someshwara",
+      "lat": 12.7774446,
+      "lng": 74.8648112,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJyZxHo0ldozsRS-h774hcwLI",
+      "name": "Jio-bp",
+      "address": "VILLAGE:SY.NO 95, 6AP1 -P4, NH-17, Someshwar Village, DISTRICT :",
+      "lat": 12.776088,
+      "lng": 74.86523559999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNXwG4flbozsRpr5OTvr2sok",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, South Wharf, Road, Bunder, Mangaluru",
+      "lat": 12.8582894,
+      "lng": 74.83268509999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGShxU6lbozsR1K-s10XsVfI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, South Wharf, Bunder, Mangaluru",
+      "lat": 12.8585145,
+      "lng": 74.8330107,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAeKSQ2JbozsRiCPApQFqQ3U",
+      "name": "IndianOil",
+      "address": "South, Wharf Road, Mangalore Old Port, Mangaluru",
+      "lat": 12.858817,
+      "lng": 74.832909,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJR4mALABdozsR1XXXXBKiS_M",
+      "name": "AAN FUELS( Totalenergies Auto LPG gas station)",
+      "address": "RV98+JJ5",
+      "lat": 12.8190211,
+      "lng": 74.8666103,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ5aItnrleozsRXcdO0e6pVuA",
+      "name": "IndianOil",
+      "address": "Survey No 91, 9CI, Belma",
+      "lat": 12.8092976,
+      "lng": 74.892977,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJV-vpAcFeozsR5bX4SHlm3dM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, University Road, Deralakatte",
+      "lat": 12.804421,
+      "lng": 74.900481,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDUR26LhbozsR8CnQdT8fGfU",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Mangaladevi Temple Road, Mangala Nagar, Mangaluru",
+      "lat": 12.8500955,
+      "lng": 74.84841999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeT_f2CxaozsRQjBmpELGdjc",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Pumpwell Circle, Pumpwell, Mangaluru",
+      "lat": 12.8673871,
+      "lng": 74.8654918,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ88gbfX9ZozsRbgFi1yEZahI",
+      "name": "Bharat Petroleum Corporation Limited",
+      "address": "Railway Consumer Depot, Junction, Mangaluru",
+      "lat": 12.866989,
+      "lng": 74.87764,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJU0ftSKJfozsRNEgCjyPP8pA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Kuttara Padavu",
+      "lat": 12.8137792,
+      "lng": 74.880558,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJa_G7YbRdozsRY_LyQnKtRU4",
+      "name": "MRPL HiQ- R V FUELS",
+      "address": "D No : 8-1-105, Block, Uchila",
+      "lat": 12.7721531,
+      "lng": 74.8665354,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJteB2o6teozsRtHb0i7SgZew",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kuthar Padavu, Mangalore",
+      "lat": 12.8189739,
+      "lng": 74.878289,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjRJz5nldozsR48yNJZlMwJQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "S No 115, 2A2, National Highway 66, Talapady",
+      "lat": 12.766782,
+      "lng": 74.87082699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxa3QnN9dozsRuF0Dk4oL0o0",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 17, Thalapady JHC",
+      "lat": 12.757723,
+      "lng": 74.8734079,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOUpjnwpeozsR9w9WiTfWF2A",
+      "name": "Bharath Petroleum Petrol Pump Thalapady - Kerala",
+      "address": "QV3F+FPP, Kanwatheertha, Thalapady JHC",
+      "lat": 12.7537007,
+      "lng": 74.87433399999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJOXAyWVlfozsR1BWstYsHAVE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Konaje, Road, Konaje Proper",
+      "lat": 12.811008,
+      "lng": 74.917385,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXyMgMABbozsRB_ToXL_kx-U",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "St No 42, Block No 2, S No 644/P1 & P2, Mangalore Rd, Marnamikatte, Mangaluru",
+      "lat": 12.8499945,
+      "lng": 74.8477111,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ78B8dfhbozsRWbe4MdNQeOI",
+      "name": "Bharat Petroleum, Petrol Pump -St Joseph Service Centre",
+      "address": "Valencia Road, Kankanady, Mangaluru",
+      "lat": 12.8590117,
+      "lng": 74.8551313,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYfY8fWdfozsRWPfzh7KZqSw",
+      "name": "Coco Bharat Petroleum",
+      "address": "RW8M+865, Pajeeru Guttu",
+      "lat": 12.8157522,
+      "lng": 74.9331046,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsfOeFdNbozsR_PFznHe_BF8",
+      "name": "IndianOil",
+      "address": "Pumpwell Circle, Kankanady, Mangaluru",
+      "lat": 12.8649239,
+      "lng": 74.8666316,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ17KvIFxfozsR6RnfAGd1mIA",
+      "name": "Nisara Petrol/Diesel Station",
+      "address": "RW7Q+3WG, Mangalore - Mudipu Road, Madhipur",
+      "lat": 12.8126929,
+      "lng": 74.9398202,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMzKGLF1fozsRugC2XqbU7ZE",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bantwal, Balepuni",
+      "lat": 12.8070569,
+      "lng": 74.9561123,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlQCUeGJfozsRr7m7OAPc_Tw",
+      "name": "Bright Auto Fuels",
+      "address": "Arkana Cross Road, Arkana",
+      "lat": 12.8151948,
+      "lng": 74.950148,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbaWCCNNfozsRFERrlzzCBps",
+      "name": "IndianOil",
+      "address": "Survey No 122, 1C1, Mudipu - Manjanady Road, Balepuni",
+      "lat": 12.7879145,
+      "lng": 74.9606938,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJczRi__VfozsR8dt2GvHUATo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Infosys, Bantwal, Mudipu",
+      "lat": 12.801853,
+      "lng": 74.965571,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJt5yrzlFfozsRr82hsHS54xg",
+      "name": "Bharat Petroleum Bright Auto Fuels",
+      "address": "India",
+      "lat": 12.8189986,
+      "lng": 74.9570313,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJgRqF6q5ZozsR-cONSGRGj9o",
+      "name": "Jai Shankar Service Station",
+      "address": "post and Village, Mangalore, Jai Shankar Service Station, Boliyar Proper",
+      "lat": 12.8281864,
+      "lng": 74.9625037,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKdryz4WnpDsRZ1SRwW6k-oI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No, 179/6A, Boliyar Proper",
+      "lat": 12.8365201,
+      "lng": 74.97395949999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJj4c2wFSnpDsRBe6B8jOb2BY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No, 179/6A, Boliyar Proper",
+      "lat": 12.8365201,
+      "lng": 74.97395949999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJifmE8BCgpDsRWgsfCEwKfdM",
+      "name": "IndianOil",
+      "address": "Ground Floor Anekallu, Kodlamogaru",
+      "lat": 12.752681,
+      "lng": 74.981898,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeYpIu-ShpDsRjkQxlQSS4wo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Balepuni",
+      "lat": 12.785771,
+      "lng": 75.004885,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs4F1w09aozsRKeS9g1OwksQ",
+      "name": "Bharat Petroleum, Petrol Pump -M A Krishna Nayak & Co(Kodialbail)",
+      "address": "Kodailbail, Mangaluru",
+      "lat": 12.8744995,
+      "lng": 74.8399132,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFfwKzl1aozsRLrNGU81Exy0",
+      "name": "IndianOil",
+      "address": "Mannagudda, Kulur Ferry Road, Mangaluru",
+      "lat": 12.884406,
+      "lng": 74.834122,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkQOGcWdaozsRWl35zF7GTME",
+      "name": "Bharat Petroleum",
+      "address": "VRQP+65H, Opposite To Water Tank, Ladyhill, Mangaluru",
+      "lat": 12.8880609,
+      "lng": 74.835499,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3eUr-0taozsRayjaPDQ-4eU",
+      "name": "Petroleum and explosives safety organisation",
+      "address": "VRCW+46P, KMC Mercara Trunk Road, Hampankatta, Mangaluru",
+      "lat": 12.8703371,
+      "lng": 74.8455754,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxUqLdDVaozsRcKU2V6khQ_A",
+      "name": "Bharat Petroleum",
+      "address": "VV92+6QP, Mother Theresa Road, Bendoor, Mangaluru",
+      "lat": 12.8680832,
+      "lng": 74.8519452,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQ3UGOjZaozsRqy_Z4JVO2pY",
+      "name": "Bharat Petroleum",
+      "address": "near Meena Sea food Restaurant, Mallikatte, Kadri, Mangaluru",
+      "lat": 12.8735693,
+      "lng": 74.8513696,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq6qqan1aozsRXxL_v4lWeqU",
+      "name": "IndianOil",
+      "address": "Abbakkanagara Layout, Derebail, Mangaluru",
+      "lat": 12.907771,
+      "lng": 74.83609799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJi7BYtBVaozsR_cAE0hiEsaQ",
+      "name": "IndianOil",
+      "address": "Ground floor, Kadri Hills, Mangaluru",
+      "lat": 12.890659,
+      "lng": 74.854843,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkQ8KPYZQozsRoPShMDtMIdA",
+      "name": "IndianOil",
+      "address": "No 201, Veekay Towers, Bangrakulur, Mangaluru",
+      "lat": 12.9196784,
+      "lng": 74.8318366,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFUElgCxaozsR-R95SixO3kw",
+      "name": "IndianOil",
+      "address": "Ground Floor, opposite Capitanio High School, Nanthoor, Mangaluru",
+      "lat": 12.8692989,
+      "lng": 74.8679523,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQ8olMKFQozsR_lgMVl-fnHc",
+      "name": "IndianOil",
+      "address": "Ground Floor, Panambur, near Nmpt Hospital",
+      "lat": 12.937382,
+      "lng": 74.804315,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe1LNMrRbozsRGit-cA17EVM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Mission Street, Bunder, Mangaluru",
+      "lat": 12.863921,
+      "lng": 74.83495099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8UzNJq1bozsRk6e0t3DA-1w",
+      "name": "Bharath pertoleum",
+      "address": "VR7P+FH2, Mangaluru",
+      "lat": 12.8636375,
+      "lng": 74.8363906,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJezu4HlxbozsRD40D81V2LJ4",
+      "name": "Bharat Petroleum, Petrol Pump -Mympsn",
+      "address": "MANGALORE (BUNDER), SOUTH KANNADA",
+      "lat": 12.8740379,
+      "lng": 74.8405561,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeesPKelbozsR9YCTEbSTsJw",
+      "name": "JIO BP Mobility limited",
+      "address": "opposite HDFC Bank, Reliance Petrol Pump, opposite HDFC Bank, MG Road, Ballalbagh, Lalbagh, Mangaluru",
+      "lat": 12.881557,
+      "lng": 74.84000999999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ-aJ5NrhbozsRyTCH_-HaklU",
+      "name": "Shreekadrinatheshwarapetropark",
+      "address": "Airport Road, Marakada, Lalbagh, Mangaluru",
+      "lat": 12.8861817,
+      "lng": 74.8418485,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJGSwvCrhbozsRGDmHOy7IFfo",
+      "name": "Shell Select",
+      "address": "Roop mahal, Kulur Ferry Road, Urwa, Mangaluru",
+      "lat": 12.8970075,
+      "lng": 74.8355225,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmYNVuLJbozsRIMyLpDkm6I4",
+      "name": "Shell",
+      "address": "Kulur Ferry Road, Mangaluru",
+      "lat": 12.897083,
+      "lng": 74.835833,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJA8mgg5dbozsRxvhAKKIlnJ8",
+      "name": "IndianOil",
+      "address": "Hampankatta, Mangaluru",
+      "lat": 12.8680422,
+      "lng": 74.84697849999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-9F-8GhaozsRXCXhHcEoVyE",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bejai - Kapikad Road, Mangaluru",
+      "lat": 12.890186,
+      "lng": 74.841156,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4S2K28FbozsRn_ohxzYQsMw",
+      "name": "Falnir",
+      "address": "VR8X+XGX, Falnir Road, Bendoor, Mangaluru",
+      "lat": 12.8674936,
+      "lng": 74.8488673,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJz3h3dDVaozsR5Jcnye7bcSc",
+      "name": "United Motors",
+      "address": "VV92+6QP, opposite Sanjeevini Doctors Avenue, Falnir Road, Mangaluru",
+      "lat": 12.8680832,
+      "lng": 74.8519452,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJG3JSOjZaozsRyLjS-LcZb2c",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Balmatta, Mangaluru",
+      "lat": 12.873141,
+      "lng": 74.851671,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5Q0H-hRbozsRJmkWOT_tezU",
+      "name": "Shell Petrol Pump",
+      "address": "Museum Road, Bejai Main Road, Kodailbail, Mangaluru",
+      "lat": 12.886682,
+      "lng": 74.849828,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJu8PwBKRbozsRCjt8DKm4yoQ",
+      "name": "Sri Vinayaka Fuels. Auto LPG",
+      "address": "1-5-397/3, Kottara, Mangaluru",
+      "lat": 12.9069951,
+      "lng": 74.8359369,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJefxv3HFaozsRITGIWojS9k0",
+      "name": "star",
+      "address": "India",
+      "lat": 12.8991469,
+      "lng": 74.84308419999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJf1vERDZaozsR6IzjbDbo8Yk",
+      "name": "LPG GAS STATION",
+      "address": "VVF3+JF7, Bendoor, Mangaluru",
+      "lat": 12.8740359,
+      "lng": 74.8536635,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJPxbHA25aozsRiCEPp5etlhI",
+      "name": "Propel Auto LPG",
+      "address": "VRXV+9QG, Bejai, Mangaluru",
+      "lat": 12.8984275,
+      "lng": 74.8444418,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAQAAMDdaozsRoTc2TBQ80v4",
+      "name": "IndianOil",
+      "address": "Ground Floor, Balmatta Road, Mangaluru",
+      "lat": 12.87239,
+      "lng": 74.8542171,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtXMaU_FbozsRX4uqESd9Q3k",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near KSRTC Depot Site, NH 66, Kadri Temple Road, Kadri, Kuntikana",
+      "lat": 12.8844836,
+      "lng": 74.8516946,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJv8SyYABbozsRZrkg_Zsx2-o",
+      "name": "ADHOC SHAKTH PETRO POINT",
+      "address": "VRWW+J9W, Kuntikana",
+      "lat": 12.8966176,
+      "lng": 74.8459448,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS3FoaV9RozsRq-7RE6JhNNw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 66, Bangrakuloor, Kottara, Mangaluru",
+      "lat": 12.9126876,
+      "lng": 74.83569039999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKWP6vgxRozsRM7C8RFZ1P9s",
+      "name": "Bharat Petroleum - Janatha Fuels",
+      "address": "opp. Asian Tiles, Bangra, opp. Asian Tiles, National Highway 66, Kottara, Chowki",
+      "lat": 12.9147142,
+      "lng": 74.8344288,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ11V6jNFbozsRs0pypzkhrtM",
+      "name": "anzif groce store",
+      "address": "Derbail, Konchady, Mangaluru",
+      "lat": 12.9040786,
+      "lng": 74.8462583,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJaXgsBjtaozsRI5F6coa419k",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kadri, Mangaluru",
+      "lat": 12.88088,
+      "lng": 74.859605,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHTxhb6FbozsRB3CWiwFD360",
+      "name": "Reliance Petroleum",
+      "address": "Survey No 25, opposite Frontline Motors, 1C1 & 25/1C2, National Highway 66, Kuloor, Bangra",
+      "lat": 12.9194728,
+      "lng": 74.8327244,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwQjvaxZaozsR5fgLtue2HMw",
+      "name": "MRPL PETROL BUNK -MANGALORE HIQ STATION",
+      "address": "near Kadri Park, Near, Kadri Park Road, Mangaluru",
+      "lat": 12.890037,
+      "lng": 74.857716,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJK-qxvYlQozsR9p-Y9kqejjQ",
+      "name": "IndianOil",
+      "address": "National Highway 66, Kuloor, Mangaluru",
+      "lat": 12.9242276,
+      "lng": 74.8292462,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVyoOQtdRozsRwxCdgoqc7vU",
+      "name": "Bharat Petroleum, Petrol Pump -Sowkar M Baba Pai (Lady Hill)",
+      "address": "MLR, LADYHILL, Mangaluru",
+      "lat": 12.9242718,
+      "lng": 74.8322088,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ16DPhaxRozsRp1Zg1QYFUeY",
+      "name": "Bharat Petroleum, Petrol Pump -Edathil Fuels",
+      "address": "THOKUR",
+      "lat": 12.924376,
+      "lng": 74.83214869999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnfGuYyxaozsRLjmmUtVDEoI",
+      "name": "Oil Centre",
+      "address": "India",
+      "lat": 12.8695278,
+      "lng": 74.8673112,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJIeLPWQ9aozsRfHzq_bfWbrM",
+      "name": "Bharat Petroleum, Petrol Pump -Codialbail Service Station",
+      "address": "Bondel Road, Mangaluru",
+      "lat": 12.9044255,
+      "lng": 74.8621813,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeb_VGMhZozsRm0e6uPrrr3Q",
+      "name": "IndianOil",
+      "address": "Ground Floor Neermarga, Bondanthila, Pedamale",
+      "lat": 12.8918594,
+      "lng": 74.9105161,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgXcnWQBZozsRiCH_7LxOfCk",
+      "name": "IndianOil",
+      "address": "Ground Floor NH 75, Adyar, Kannur",
+      "lat": 12.8675879,
+      "lng": 74.9181739,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJG9ALOrtQozsRh2w_mu3zFWU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Bajpe Main Road, Kavoor, Mangaluru",
+      "lat": 12.922671,
+      "lng": 74.85846099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg5ZHOP9YozsRY85F1pbucxc",
+      "name": "HP PETROL PUMP - M S PAI AND COMPANY",
+      "address": "HPC Dealer Adyar-mangalore, Mangaluru",
+      "lat": 12.8684389,
+      "lng": 74.925895,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS3hQOCdaozsRw9-hn3pwFz8",
+      "name": "IndianOil",
+      "address": "Cross Road, Kulshekar, Maroli, Mangaluru",
+      "lat": 12.8827529,
+      "lng": 74.8725688,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVWKA2wFZozsR48G5uCGb_rU",
+      "name": "Konkan Gas",
+      "address": "Kulshekar Kalpane, Bikarnakatte Kaikamba, Mangaluru",
+      "lat": 12.8846031,
+      "lng": 74.8776955,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJm_Gtl5xZozsR25qgPnsFrxM",
+      "name": "IndianOil",
+      "address": "Alape, Shanthi Nagar, Mangaluru",
+      "lat": 12.8725985,
+      "lng": 74.88733359999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJT14E4mpZozsRO7-89Sr1uqY",
+      "name": "Trinity Fuels (Nayara Energy Limited)",
+      "address": "No 3-43/3, Anugraha, Opposite Kannur post office Kannur, Mangalore, Kannur",
+      "lat": 12.8682534,
+      "lng": 74.90111739999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwUNWR_5ZozsRfQorZl-yFXI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Adyar",
+      "lat": 12.868321,
+      "lng": 74.925861,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcb6QQWNZozsRTD6DmYmk31A",
+      "name": "Bharat Petroleum, Petrol Pump -K M Chowta Petro Zone",
+      "address": "FARANGIPET",
+      "lat": 12.8712587,
+      "lng": 74.961073,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq6qqql9XozsRjjJWZ1mIsUE",
+      "name": "Alvares Motor Feeding Station",
+      "address": "Vamanjoor Main Road, District, Vamanjoor, Mangaluru",
+      "lat": 12.9161965,
+      "lng": 74.9008611,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjffynchXozsRWb0mpXLLMmI",
+      "name": "IndianOil",
+      "address": "Ground Floor, Padav, Vamanjoor, Mangaluru",
+      "lat": 12.9162682,
+      "lng": 74.9009399,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJF4dCoRmnpDsRoHLkU7oC7ZM",
+      "name": "Savitha Fuels",
+      "address": "WX3W+6HM, Thodambila, Bantwal",
+      "lat": 12.9030999,
+      "lng": 74.9964322,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrUJvKQCppDsR1udsNYyRglM",
+      "name": "Bright Petroleum (MRPL)",
+      "address": "WXH9+FG4, Badaka Bailu",
+      "lat": 12.9286401,
+      "lng": 74.9688279,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ99XccUxQozsRxYoQRFVKRXY",
+      "name": "Deepak Sales and Services - BPCL Petrol Pump",
+      "address": "West Coast NH 66 Opp Industrial Area Baikampady Panambur, New, Mangaluru",
+      "lat": 12.9490998,
+      "lng": 74.810379,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4cmAqmFQozsRHj594ZX8jgY",
+      "name": "Highway Petroleum Agency - HPCL",
+      "address": "Panvel - Kochi - Kanyakumari Highway, Panambur, Baikampady, Mangaluru",
+      "lat": 12.9470716,
+      "lng": 74.8123274,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMx7qyVpQozsRWevj9tLsM7c",
+      "name": "JB Highway Service Station",
+      "address": "near Panambur Beach, Mangaluru",
+      "lat": 12.940372,
+      "lng": 74.8160719,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQ3mqu1vypDsRgUHTtlZmlt0",
+      "name": "HP PETROL PUMP",
+      "address": "Hpcl",
+      "lat": 12.977921,
+      "lng": 74.8346296,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJyf-PuXlRozsRbbMtOvAj1pg",
+      "name": "HiQ-MRPL Fuel Station",
+      "address": "XRRJ+2J4, Katipalla, Mangaluru",
+      "lat": 12.9900174,
+      "lng": 74.8315827,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL5fb9k5QozsRBtqWnyuYgpI",
+      "name": "IndianOil",
+      "address": "Ground Floor, Panambur, NH 17, Meenakaliya, Mangaluru",
+      "lat": 12.9452817,
+      "lng": 74.8125117,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo24NeGFRozsRS5-hyf6ic6w",
+      "name": "Vishnu Enterprises",
+      "address": "opposite to Nmpt Ground, Vishnu Enterprises Nh 66, opposite to Nmpt Ground, Mangaluru",
+      "lat": 12.9455908,
+      "lng": 74.8124709,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJL5oEdwBRozsRLh1OQbBKsIA",
+      "name": "SWATHI SERVICE STATION",
+      "address": "WRX5+MXP, Panambur Beach Road, New Mangalore, Kuloor, Industrial Area, Baikampady, Mangaluru",
+      "lat": 12.9492024,
+      "lng": 74.8099671,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJj7fgYktQozsR8ficyg8T7Yo",
+      "name": "IndianOil",
+      "address": "Ground Floor, Panambur",
+      "lat": 12.950521,
+      "lng": 74.80970099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq8UV5oFRozsRVIdDUcwIHJQ",
+      "name": "NAYARA PETROL PUMP",
+      "address": "WRX6+W8J, Industrial Area, Baikampady, Mangaluru",
+      "lat": 12.9498448,
+      "lng": 74.8107657,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJoVkarVpQozsRqeNMEf_vHhs",
+      "name": "MRPL HiQ Retail Outlet, Panambur",
+      "address": "WRR8+87H, New Mangalore, Industrial Area, Baikampady, Mangaluru",
+      "lat": 12.9408242,
+      "lng": 74.81574309999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpQkpd1RQozsRcIeTjDS8moQ",
+      "name": "BPCL LPG Bottling Plant, Mangalore",
+      "address": "575011, Unnamed Rd, New Mangalore, Industrial Area, Baikampady, Mangaluru",
+      "lat": 12.9497085,
+      "lng": 74.8218043,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpds-CbFRozsRd5nTZeGgh4A",
+      "name": "Bharat Petroleum Corporation Limited Mangalore Territory, Mangalore Coastal Installation",
+      "address": "XR57+Q6V, New Mangalore, Industrial Area, Baikampady, Mangaluru",
+      "lat": 12.9594982,
+      "lng": 74.8130607,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOd-2eHRRozsRFlIyWOhqu4g",
+      "name": "RR AUTO LPG gas station",
+      "address": "Honnakatte, Kulai, Mangaluru",
+      "lat": 12.9680472,
+      "lng": 74.8058081,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuwOiMpVRozsRkKcmjiFZjtY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 17, Hosabettu, Mangaluru",
+      "lat": 12.976781,
+      "lng": 74.804011,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGYCYnuxRozsR6Wx8TLanTbg",
+      "name": "Shashimangala Agencies LPG godown HP gas",
+      "address": "XRJ2+8H7, Surathkal, Mangaluru",
+      "lat": 12.9807958,
+      "lng": 74.8014158,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJd22-nA1RozsRqVGawBm6sOA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Panjimugeru, Kuloor - Kavoor Road, Mangaluru",
+      "lat": 12.926201,
+      "lng": 74.841133,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJb4756KFRozsRfZOsVEZeAZM",
+      "name": "EDATHIL FUELS (Fuel Station BPCL)",
+      "address": "Katipalla, Mangaluru",
+      "lat": 12.9751789,
+      "lng": 74.8223173,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm-0d0R9RozsRVyWBh3VtwA8",
+      "name": "SHREYAS MRPL HIQ FUEL",
+      "address": "2-T-30/C, Kulai, Road, Kana, Mangaluru",
+      "lat": 12.9792057,
+      "lng": 74.8166711,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJwweCR5lRozsRWj2ZzIRoBS0",
+      "name": "IndianOil",
+      "address": "Bajpe Main Road, Kana, Surathkal, Mangaluru",
+      "lat": 12.979975,
+      "lng": 74.82062499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdQiulSBRozsR9KPCyuUX-Ww",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bala",
+      "lat": 12.981275,
+      "lng": 74.823411,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJa1yCGWZRozsRyvOiPI-9Exc",
+      "name": "Bharat Petroleum, Petrol Pump -Kalyani Fuels & Services",
+      "address": "MRPL Road, Hosabettu, Surathkal, Mangaluru",
+      "lat": 12.9881678,
+      "lng": 74.80397599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJV-4uVgBRozsRbfpuAcg5lWk",
+      "name": "Kpll",
+      "address": "XR7V+M2W, Mangaluru",
+      "lat": 12.9638102,
+      "lng": 74.84258679999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJX_M1_RtRozsRHpXtGfEjU2w",
+      "name": "IndianOil",
+      "address": "Ground Floor Thokur 62, Baikampady, Jokatte",
+      "lat": 12.9610621,
+      "lng": 74.8447144,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaaFhvndRozsREG1BdZFSu78",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Katipalla, MRPL Road, Surathkal, Balapadavu",
+      "lat": 12.9858241,
+      "lng": 74.8290718,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsao5T3JRozsRNV-xK1Bv0FI",
+      "name": "HP PETROL PUMP - HP SERVICE SER ST COMCO MA POL",
+      "address": "XRJP+5MH, Hpcl Facilities Near Mlif Village Katipall,surathkal, Mangaluru",
+      "lat": 12.98044,
+      "lng": 74.83672,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM204tQhTozsRsyfht8Y9YWs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 66, Surathkal",
+      "lat": 12.996703,
+      "lng": 74.7989637,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx255WQBRozsRIl47FTYzbGg",
+      "name": "Nayara Energy - Shree Kadrinatheshwara Petro Park",
+      "address": "WVM5+5F5, Marakada, Kavoor, Mangaluru",
+      "lat": 12.9328964,
+      "lng": 74.85873699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJV3AeHYZRozsRbDwLMvZF7JY",
+      "name": "IndianOil",
+      "address": "Airport Road, Marakada, Kavoor, Mangaluru",
+      "lat": 12.933124,
+      "lng": 74.859186,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6Y8u5UpRozsRIsaUVxvkJ0M",
+      "name": "GAIL Gas CNG Station",
+      "address": "Ground Floor, Bajpe Main Road, Kavoor, Mangaluru",
+      "lat": 12.9227166,
+      "lng": 74.85849859999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZcEVIABRozsR7HIae0PWklY",
+      "name": "Mrpl",
+      "address": "XRQJ+R74, Balapadavu",
+      "lat": 12.9895239,
+      "lng": 74.83068829999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJmy_xdx5RozsReBJl8l6ahE4",
+      "name": "Bharat Petroleum, Petrol Pump -Sri Mahalakshmi Fuelling Station",
+      "address": "Kavoor, Mangaluru",
+      "lat": 12.9247995,
+      "lng": 74.8606098,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo2dTMVlRozsRLzrOcDspZig",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Karambar, Mangaloredk, Malavoor Proper",
+      "lat": 12.9601524,
+      "lng": 74.8711508,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP6txmstWozsRYhVNT__1_xs",
+      "name": "propel",
+      "address": "India",
+      "lat": 12.9744042,
+      "lng": 74.8777238,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJR0dpg-ZRozsRoRi2kQhBog4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Bajpe Proper",
+      "lat": 12.974829,
+      "lng": 74.87711949999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBX15JLRXozsRQ6HB3ru2k2I",
+      "name": "Bharat Petroleum, Petrol Pump -Shree Bhramarambha Fuel Center",
+      "address": "Bajpe Proper",
+      "lat": 12.9792891,
+      "lng": 74.8825815,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ31cy5MippDsRRPqomErftDY",
+      "name": "IndianOil",
+      "address": "Ground Floor, Muthurumargadangadi",
+      "lat": 12.9720801,
+      "lng": 74.9872101,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy4zBQ01WozsRQAdSe1wL6F4",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kinnikambla, Kaikamba Road, Kandavara Proper",
+      "lat": 12.9611575,
+      "lng": 74.9337439,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJO_VNAABXozsRoCaPY_0B2ms",
+      "name": "MRPL Petrol Pump",
+      "address": "XW8H+VJX, Asraruddin Dargah Road",
+      "lat": 12.9667067,
+      "lng": 74.9296476,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJfwh_Z5dXozsR8IOYIN6ZRas",
+      "name": "Swaraj Fuels",
+      "address": "Near, Kaikamba Road, junction, Mangaluru",
+      "lat": 12.9668188,
+      "lng": 74.9296979,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4RW0tv9XozsRZoAh8zWsoXQ",
+      "name": "Punja Fuel Corporation",
+      "address": "NH 169, Next to Punja Tile Works Ganjimat, Mangaluru",
+      "lat": 12.9722917,
+      "lng": 74.9464314,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJA_S9RgeppDsRnKbHZTnR6P8",
+      "name": "IndianOil",
+      "address": "Ground Floor, Muthurumargadangadi",
+      "lat": 12.9578859,
+      "lng": 74.98560259999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlzBfX2lXozsRw7uSvDKBoKA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Bajpe Proper",
+      "lat": 12.9830902,
+      "lng": 74.8998378,
+      "open_now": true
+    }
+  ]
+}

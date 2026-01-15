@@ -1,0 +1,195 @@
+{
+  "city": "Manali",
+  "state": "Himachal Pradesh",
+  "count": 23,
+  "center": {
+    "lat": 32.0833,
+    "lng": 77.1667
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJh9BJCab2BDkRzWyx48fbytw",
+      "name": "Bharat Petrol Pump",
+      "address": "X467+WXP, Akhara, Kullu",
+      "lat": 31.9623264,
+      "lng": 77.1149472,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJmSrNVDL1BDkRkk7jhr0NQOM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Babeli, Biasar",
+      "lat": 32.0121598,
+      "lng": 77.1275462,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJn66IJVT1BDkRC_9LMCAdFpY",
+      "name": "IndianOil",
+      "address": "Ground Floor, Shangri Bag, Bazar, Ramshilla, Akhara, Kullu",
+      "lat": 31.970247,
+      "lng": 77.1225008,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJb1VVVa72BDkRjp4PQjsxR_8",
+      "name": "Parvati Service Centre",
+      "address": "Shamshi Distt Kullu, Shamshi",
+      "lat": 31.959027,
+      "lng": 77.111121,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJue9IISj3BDkRVeKnRSowAls",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bazar, Akhara, Dobhi",
+      "lat": 31.9581499,
+      "lng": 77.11625459999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzcbzw8n2BDkRAA7v6LvPiy0",
+      "name": "IndianOil",
+      "address": "Ground Floor Gandhi Nagarnagar, Akhara Bazar, Bhunter",
+      "lat": 31.9439993,
+      "lng": 77.1100319,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3yPZAmBfBDkRk9iQQaOF5Po",
+      "name": "IndianOil",
+      "address": "Ground Floor SH 13, Jari, Manikaran Road, Barshaini",
+      "lat": 31.985096,
+      "lng": 77.225045,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkw06CNVfBDkRIhYpnnyKJWs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Manikaran, Kasol Road, Kullu",
+      "lat": 32.003139,
+      "lng": 77.255361,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJR9_zrxSLBDkRFlDYAbYd1qM",
+      "name": "Bharat Petrol Pump",
+      "address": "Dobhi",
+      "lat": 32.0855098,
+      "lng": 77.12629729999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJQ4-smLOLBDkRh5DHy6dsA9I",
+      "name": "IndianOil",
+      "address": "Ground Floor NH21, Katrain Patlikuhal, Baragaon",
+      "lat": 32.096015,
+      "lng": 77.132323,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1avI9wqLBDkRP0NEPMUZGt8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, National Highway 3, Katrain",
+      "lat": 32.101845,
+      "lng": 77.134294,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuVTpoa6LBDkRie-BXSP92nQ",
+      "name": "Shree laxmi narayan filling station",
+      "address": "Larankelo",
+      "lat": 32.0918096,
+      "lng": 77.1463404,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJARm7tqyLBDkR9rxx3u0KV7o",
+      "name": "JioBp (Reliance petrol pump)",
+      "address": "444R+WQP, National Highway 21, Patlikuhal",
+      "lat": 32.1073435,
+      "lng": 77.1419377,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC8l7liGJBDkRR3N7B2H1UWM",
+      "name": "Reliance Petroleum",
+      "address": "Ms 292, Nh 21, Katrain",
+      "lat": 32.1074534,
+      "lng": 77.1424067,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJk3Ss18iLBDkR2O3aQxl79PE",
+      "name": "Sidharth Filling Station",
+      "address": "Kharkibehad, NH 03, PO, Katrain",
+      "lat": 32.1296996,
+      "lng": 77.1240512,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCaQ4c9CLBDkRbSh94xwhgVs",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kothi, Naggar",
+      "lat": 32.1025925,
+      "lng": 77.1569576,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1Zx6jg6LBDkRUvC1cFkP4O4",
+      "name": "IndianOil",
+      "address": "Ground Floor, Manali, Patlikuhal",
+      "lat": 32.11850400000001,
+      "lng": 77.1484382,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJz75ePlqKBDkR0YVLAqnAoOk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Naggar",
+      "lat": 32.113434,
+      "lng": 77.161861,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqcvMPgCLBDkRhWJ1engXpdc",
+      "name": "IndianOil",
+      "address": "Ground Floor, Manali",
+      "lat": 32.1342963,
+      "lng": 77.15416170000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-8qxEsiJBDkRTs_eWb7d46Q",
+      "name": "IndianOil",
+      "address": "Ground Floor, Barshai, Manali, Haripur",
+      "lat": 32.1547001,
+      "lng": 77.1845,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5b7ZZwCJBDkRD2pXr2NrMf4",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 21, Kullu Manali Road, Bran",
+      "lat": 32.2208001,
+      "lng": 77.191901,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkVkKLyCIBDkRg5qf8lXsj9s",
+      "name": "Harisons CNG Filling Station",
+      "address": "NH21, Rangri, Manali",
+      "lat": 32.2210174,
+      "lng": 77.1919831,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ_2LBcR-IBDkRDl1YXoLcsno",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, New NH 3, Simsa, Manali",
+      "lat": 32.2222325,
+      "lng": 77.190919,
+      "open_now": true
+    }
+  ]
+}

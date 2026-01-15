@@ -1,0 +1,435 @@
+{
+  "city": "Rishikesh",
+  "state": "Uttarakhand",
+  "count": 53,
+  "center": {
+    "lat": 30.0869,
+    "lng": 78.2676
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJNQhxTek-CTkRLo6ANIVBnQ0",
+      "name": "IndianOil",
+      "address": "Haridwar Road, Shyampur, Rishikesh",
+      "lat": 30.0594001,
+      "lng": 78.229872,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJifyym_g9CTkRk1H_9nynifw",
+      "name": "IndianOil",
+      "address": "near NDS School, Ground Floor NH 58, Haridwar, near NDS School, Road, Shyampur, Rishikesh",
+      "lat": 30.0632186,
+      "lng": 78.2394286,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH6qSRs8_CTkRtuIWYMQdYOs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Khasra No 420KA, Rishikesh, Parwadoon, Khata No, 00187, Khandraiwala",
+      "lat": 30.0270723,
+      "lng": 78.2054596,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ_xDFAA_CTkRfSNnlwJYkFQ",
+      "name": "PETROL PUMP HPCL",
+      "address": "26C7+VV8, Raiwala",
+      "lat": 30.02217450000001,
+      "lng": 78.2146922,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJn1nggvo5CTkRGth817vzni0",
+      "name": "Bharat Petroleum, Petrol Pump -M.J.Fuels",
+      "address": "HARIPUR KALAN,RISHIKESH RO, DEHRADUN",
+      "lat": 30.000278,
+      "lng": 78.189816,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJj7qN2C4_CTkRTiYXuQ5qVCQ",
+      "name": "Bharat Petroleum Pump",
+      "address": "Ambala-Dehradun-Haridwar Road, Raiwala",
+      "lat": 30.0350328,
+      "lng": 78.21056709999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJsQsiDQBHCTkRcmCEqb1o1vo",
+      "name": "Haridwar cng pump",
+      "address": "Dudadhari Chowk, Peepalwali Gali, Motichur, Haridwar",
+      "lat": 29.980423,
+      "lng": 78.183376,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJjd5stXNHCTkRzehD4AGnWwY",
+      "name": "KN Filling Station BPCL PETROL DIESEL CNG",
+      "address": "X5HJ+RMQ, Bhoopatwala, Motichur Range",
+      "lat": 29.9795576,
+      "lng": 78.18193389999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJd6D_pOY_CTkRfhq45qzAxGI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Dwar, opposite 213 KM Stones, Rishikesh Road, Shyampur, Rishikesh",
+      "lat": 30.0576837,
+      "lng": 78.22639989999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIyqYCOk-CTkRLZkhNRIYWHs",
+      "name": "Airwing Petrol Cng Pump",
+      "address": "58, National Highway, Khairi Kalaa, Namberdar Farm, Rishikesh",
+      "lat": 30.0580381,
+      "lng": 78.2278245,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ94_ZHAA_CTkRn1B9QpamgbU",
+      "name": "UMA Gas Service LPG Godown",
+      "address": "26VW+XP5, Chopda Farm, Khadri Khadakmaf, Kharakmaf",
+      "lat": 30.0448976,
+      "lng": 78.2468669,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ-3ahglY5CTkRIi7DCDng4RE",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 72, Rishikesh",
+      "lat": 30.073251,
+      "lng": 78.20167099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJraS83lA5CTkR7WSbPXDzAI0",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 72, Rishikesh",
+      "lat": 30.078959,
+      "lng": 78.19321599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJW2H--u8_CTkRJEPayzY1EWU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 197/3, Khasra, Gumaniwala, Dehradun",
+      "lat": 30.07114099999999,
+      "lng": 78.2449887,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLZtKXPU_CTkRFp9cLhDwbbM",
+      "name": "Sanjeev Fuels HP Petrol Pump",
+      "address": "36CW+C9Q Rishikesh Road Malviya Nagar, Virbhadra, Gumaniwala, Rishikesh",
+      "lat": 30.0710905,
+      "lng": 78.2459958,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJuUDRod0VCTkR7t4PB9cwO1Q",
+      "name": "Neelganga Fuels (Indian Oil)",
+      "address": "Neelkanth Bend, Yamkeshwar Road, Pipalkoti",
+      "lat": 30.0709512,
+      "lng": 78.35567929999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJzYjmQv06CTkRgoxiOO713Iw",
+      "name": "IndianOil",
+      "address": "Ground Floor, Mazri Grant",
+      "lat": 30.138001,
+      "lng": 78.155486,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJG6K4NMM7CTkR570YHLr2NV8",
+      "name": "MAJRI GRANT",
+      "address": "near Fun Valley, Laal Tappad",
+      "lat": 30.13409,
+      "lng": 78.1651098,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOWlxOs4_CTkRS2zlW1p44Rg",
+      "name": "Aakash Ganga Energy Station",
+      "address": "124 EKTA VIHAR , KALE KE DHAL, HARIDWAR, ROAD, Rishikesh",
+      "lat": 30.09160459999999,
+      "lng": 78.2759507,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJzpSVJJHCTkR7YPk4u4aZsc",
+      "name": "IndianOil",
+      "address": "No 124, Kale Ki Dhal, Kh No 279/3/2, Rishikesh Road, Rishikesh",
+      "lat": 30.0913207,
+      "lng": 78.27602759999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAclnRxsWCTkRppfnkk0QS0w",
+      "name": "IndianOil",
+      "address": "Ground Floor, Laxman Jhoola, Dehradun",
+      "lat": 30.1077001,
+      "lng": 78.30030099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJn36dAvM9CTkRClNIvX3Qy-Y",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bypass Road, Rishikesh",
+      "lat": 30.11430009999999,
+      "lng": 78.284202,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJh1lNAB4WCTkRi6hD1-6T07g",
+      "name": "IndianOil",
+      "address": "Ground Floor, 105, Dehradun Road, Manvendera Nagar, Rishikesh",
+      "lat": 30.1121032,
+      "lng": 78.2935246,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRcu1Sek9CTkRiTRWep9Ed4o",
+      "name": "IndianOil",
+      "address": "Ground Floor, 355, Haridwar Road, Palika Nagar, Rishikesh",
+      "lat": 30.1022001,
+      "lng": 78.292708,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcWKQ2do9CTkRenplvwncivM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bsnl Colony, Rishikesh",
+      "lat": 30.1157,
+      "lng": 78.283557,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4xH6T1UXCTkR5vd6-G0ZS9s",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Dehradun-Rishikesh Road, Rishikesh",
+      "lat": 30.110418,
+      "lng": 78.2947372,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAUmrg289CTkR6AY09ZZ660Y",
+      "name": "Bharat Petroleum Petrol Pump , BIRENDRADUTT HARIRAM",
+      "address": "Rishikesh - Chamba - Tehri Road",
+      "lat": 30.116165,
+      "lng": 78.285808,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJw1TNv-UXCTkRlm2r6ucSDk4",
+      "name": "Bharat Petroleum, Petrol Pump -Birendradutt Hariram",
+      "address": "near icici bank, 66, Laxman Jhoola, Rishikesh",
+      "lat": 30.1074601,
+      "lng": 78.2997176,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOyOuJBsWCTkRxi--ospbw8A",
+      "name": "British Petroleum",
+      "address": "India",
+      "lat": 30.1078845,
+      "lng": 78.30102720000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJMe4PzP0XCTkRdx1Vq-IFa3s",
+      "name": "Reliance Petroleum",
+      "address": "G NEW SITUATED, AT VILLAGE DHALWAL, M/S STAR PETROLIUM,GANGA VIHAR , UT KHASRA NO. 1/13 (OLD) 476, K) & 477, Haridwar Road, Rishikesh",
+      "lat": 30.1203253,
+      "lng": 78.28952629999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSWK8XhoWCTkRlDqr6KPgC2g",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Laxman Jhoola, Rishikesh",
+      "lat": 30.111703,
+      "lng": 78.3029701,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNSu8JBoWCTkR-SToJt86s74",
+      "name": "IndianOil",
+      "address": "Ground Floor, Laxman Jhoola, Adarsh Gram, Rishikesh",
+      "lat": 30.1121001,
+      "lng": 78.30279999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4eynPRoWCTkRcYBGd-A1fpQ",
+      "name": "HP Fuel Station",
+      "address": "NH-58, Haridwar Road, Chandereshwar Nagar, Chandreshwar Nagar, Rishikesh",
+      "lat": 30.11185009999999,
+      "lng": 78.3031141,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJlc1oIxoWCTkRnu1kuKSAkos",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Laxman Jhoola, Rishikesh",
+      "lat": 30.1124601,
+      "lng": 78.302601,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlx3ySDsXCTkRN02yWgIPyq0",
+      "name": "IndianOil",
+      "address": "Ground Floor, Muni Ki Reti, Bachhelikhal",
+      "lat": 30.125948,
+      "lng": 78.316208,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxylVQzMRCTkRBZ26GLFPhas",
+      "name": "IndianOil",
+      "address": "Ground Floor Bawani Shivpuri,NH 58, Narendra Nagar, Bachhelikhal",
+      "lat": 30.1323294,
+      "lng": 78.38518450000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4xc7zeA6CTkRGrUAwrP6j-U",
+      "name": "IndianOil",
+      "address": "near Fun Valley, Ground Floor Majri Grant, near Fun Valley, Dehradun",
+      "lat": 30.148233,
+      "lng": 78.150848,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJByf8WSQ9CTkReACyK7RPosw",
+      "name": "IndianOil",
+      "address": "Ground Floor, SH 24, Rishikesh Road, Ranipokhari",
+      "lat": 30.177272,
+      "lng": 78.216545,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuT-E7FcjCTkRGNVWTCy5wG4",
+      "name": "IndianOil",
+      "address": "Ground Floor, Ranipokhari",
+      "lat": 30.18800809999999,
+      "lng": 78.2033019,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSX_GcLgkCTkRwnQwJ8FRzH0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Jolly Grant, Rishikesh Road, Airport, Athhoorwala",
+      "lat": 30.1859084,
+      "lng": 78.1742794,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9QmQjPc9CTkRP3PpbFbFkiQ",
+      "name": "Hotel Mantra - Best hill view hotel in Rishikesh, couple friendly hotel in Rishikesh, hotel near Jollygrant Airport",
+      "address": "Rishikesh Dehradun road Barkot Mafi, Ranipokhari, Rishikesh",
+      "lat": 30.1764962,
+      "lng": 78.23350470000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ9Yn1t4I9CTkRx4LvJ5W4heM",
+      "name": "NAYARA PETROL PUMP Barkot Mafi Dandi",
+      "address": "Dehradun Road, Mauja, badkot mafi",
+      "lat": 30.1761628,
+      "lng": 78.23391,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnWk8YKElCTkRO0KUXbyut8k",
+      "name": "Reliance jio bp petrol pump",
+      "address": "55M8+XWW, Rishikesh Road, Sangatiya Walakhur",
+      "lat": 30.1849118,
+      "lng": 78.16769479999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmwAxKqslCTkRuXz2Rkg-fuI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Khata No 288, Khasra No 242, near Eletricity Board Office, Doiwala, Resham Majri Grant",
+      "lat": 30.148306,
+      "lng": 78.149444,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJV7A1qto6CTkRzWqIfgXQ5qw",
+      "name": "IndianOil",
+      "address": "Ground Floor, Haridwa, Jeevan Wala",
+      "lat": 30.160828,
+      "lng": 78.145282,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-wPBQEUlCTkRhz0Rcgvcsuk",
+      "name": "IndianOil",
+      "address": "Ground Floor, Rishikesh Road, Jolly Grant, Dehradun",
+      "lat": 30.203185,
+      "lng": 78.1993392,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBz3Snss7CTkRszgEe14hNmE",
+      "name": "IndianOil",
+      "address": "Ground Floor, Rishikesh Road, Bhania Wala",
+      "lat": 30.1872345,
+      "lng": 78.15179429999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJixtNJoslCTkRY5TzYTU3dSI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Chowk, Doiwala",
+      "lat": 30.18206170000001,
+      "lng": 78.14044919999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4xCWqDclCTkRAlrn5LZlalw",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bhania Wala",
+      "lat": 30.1807168,
+      "lng": 78.1367454,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbxtcUZ4lCTkRYXW3vFXaxfg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Haridwar, Rishikesh Road, Doiwala",
+      "lat": 30.17589,
+      "lng": 78.127449,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJk4xdxYIlCTkR5Z3CbslJ6_U",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Khasra No, 226 & 227/1, Markham Grant",
+      "lat": 30.171741,
+      "lng": 78.117661,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYYz7pjolCTkRV_DTDbadI7Q",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Khasra No, 693 & 694, Pargana Pachwa Doon, Ramnagar Danda",
+      "lat": 30.228745,
+      "lng": 78.199873,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs8dihk4YCTkRFFfsbDlivqg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Km Stone 31, NH 94, Narendranagar, Agrakhal",
+      "lat": 30.208901,
+      "lng": 78.325301,
+      "open_now": true
+    }
+  ]
+}

@@ -1,0 +1,819 @@
+{
+  "city": "Khammam",
+  "state": "Telangana",
+  "count": 101,
+  "center": {
+    "lat": 17.25,
+    "lng": 80.15
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJW5e50wVYNDoRj7Mv-sjzG48",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Khammam Suryapet Road, SH 42, Warangal Cross Road, Gurralapadu",
+      "lat": 17.2439459,
+      "lng": 80.10426609999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8fk27oD4NDoRD3YT4uiQaGQ",
+      "name": "IndianOil",
+      "address": "Survey No 48, A1 & 49/A, Kodad - Khammam Road, Ammapeta",
+      "lat": 17.185755,
+      "lng": 80.094595,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSTFhAtdXNDoRT4isNyPUWWI",
+      "name": "Eshwar Petrol Station",
+      "address": "54W2+QHH, Mudigonda",
+      "lat": 17.196931,
+      "lng": 80.101483,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJqaqqqqpq4okRmuwTRxALgZs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, opposite Siddi Vinayaka Granites, Kodad - Khammam Road, Venkatagiri",
+      "lat": 17.20495159999999,
+      "lng": 80.10658289999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0weod9tXNDoRHXlSePlA4gw",
+      "name": "B.V.R FILLING STATION",
+      "address": "507003, Venkatagiri, Jubilee Hills, Hyderabad",
+      "lat": 17.2050099,
+      "lng": 80.1067365,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNxQ-egNXNDoRGRkkD6WUnNQ",
+      "name": "SRI VENKATESWARA FILLING STATION",
+      "address": "Venkatagiri X Roads, Khammam",
+      "lat": 17.2131578,
+      "lng": 80.1142191,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ_5e97elXNDoRdqdv-IgNglw",
+      "name": "ESSAR",
+      "address": "6477+6M, Venkatagiri",
+      "lat": 17.213304,
+      "lng": 80.11415079999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJta4zkoj3NDoRzx-z00j_d_8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, SH 42, Suryapeta - Khammam Road, Ponnekallu",
+      "lat": 17.2368885,
+      "lng": 80.0657726,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJocwuXgBXNDoRnK8QDjJDlxs",
+      "name": "BVR petrol bunk",
+      "address": "64FF+374, Khammam",
+      "lat": 17.22231,
+      "lng": 80.1235317,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJCfGi-PP3NDoRblAvIA54Yqg",
+      "name": "IndianOil",
+      "address": "Lock No 21004, Madulapalli,Dabala Bazar, Khammam",
+      "lat": 17.239539,
+      "lng": 80.081028,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBfwdJgD3NDoR4TDKdFOpMlE",
+      "name": "Nayara petrol bunk",
+      "address": "63QV+M6F, Khammam",
+      "lat": 17.2391852,
+      "lng": 80.093042,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJs8pYSAD3NDoReecO3AYSLxE",
+      "name": "Annapurna Filling Station",
+      "address": "63QV+JPJ, State Highway 42, Khammam",
+      "lat": 17.238989,
+      "lng": 80.09423989999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ5ztB1R_5NDoR0DWZ6lPfkR8",
+      "name": "SAKETH FILLING STATION",
+      "address": "National Highway 365BB, Tallampadu",
+      "lat": 17.2251912,
+      "lng": 80.0372776,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJv_xMsuL3NDoREnm-BbI2dsA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 157, 1E2 SH 42, Suryapeta - Khammam Road, Maddulapally",
+      "lat": 17.240255,
+      "lng": 80.096097,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJb2c3UAD5NDoR3_RUDSry4zo",
+      "name": "AMALA FILLING STATION",
+      "address": "62HP+RG, Gopalraopeta",
+      "lat": 17.2297308,
+      "lng": 80.03591809999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIV_YAblZNDoRCdNohV6Bxk0",
+      "name": "Bharat Petroleum Petrol Pump , JAI KRISHNAA AUTO SERVICES",
+      "address": "KODAD X ROADKHAMMAM RURAL MANDAL",
+      "lat": 17.243786,
+      "lng": 80.10338899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-2Np4QRYNDoRIZhDt4rcx04",
+      "name": "IndianOil",
+      "address": "Ground Floor, Dabala Bazar, Gudurupadu",
+      "lat": 17.243544,
+      "lng": 80.10772899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ98QnSo9XNDoRPfhNwDVMEIQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 219, Venkatagiri Road, Praksh Nagar, Khammam",
+      "lat": 17.229954,
+      "lng": 80.13042399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeXqMvjFZNDoRQTIrgjfTu2I",
+      "name": "Adil Tyre Works",
+      "address": "6-164/2, Warangal X Road, AutoNagar, Khammam",
+      "lat": 17.2458957,
+      "lng": 80.10447289999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJbd-hyntXNDoRoGerFRb6fPA",
+      "name": "Purna Balaji Filling Station",
+      "address": "Mustafa Nagar, Khammam",
+      "lat": 17.2284929,
+      "lng": 80.1497926,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJa8p-R4dXNDoRLINi3U4B3rw",
+      "name": "Bharat Petroleum",
+      "address": "64PP+2HR, opposite st. joseph school, Praksh Nagar, Khammam",
+      "lat": 17.2351029,
+      "lng": 80.1363879,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJa85ekshVNDoRvESRoKF95As",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 515/2, Vallabhi Road, Krishnapuram, Khammam",
+      "lat": 17.1233094,
+      "lng": 80.1328772,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-Z2Rg9ZZNDoRNRRdL2x4Q9M",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "D No 5/6/1 & 5/6/1/B, Bonakal - Khammam Road, Pakabanda Bazar, Khammam",
+      "lat": 17.240661,
+      "lng": 80.14876100000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdUWXEc1ZNDoRHJpe_vw_-bY",
+      "name": "Balaji Service Station",
+      "address": "Wyra Road, Khammam",
+      "lat": 17.2505748,
+      "lng": 80.14483330000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJry7ecPtZNDoRqPC6_pxdssY",
+      "name": "IndianOil",
+      "address": "Survey No 497 & 75E, Bhuranpuram",
+      "lat": 17.245242,
+      "lng": 80.178702,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl3yxtjFYNDoRRjtbtcJJ8wY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Trunk Road, Moti Nagar, Khammam",
+      "lat": 17.2499701,
+      "lng": 80.13489009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0VT9QDBYNDoRyNHm2zkLK_E",
+      "name": "Bharat Petroleum Bunk",
+      "address": "Ramachandra Nagar Colony, Moti Nagar, Khammam",
+      "lat": 17.24976819999999,
+      "lng": 80.13331749999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7zh4tcNWNDoRfkH264Rjo7E",
+      "name": "IndianOil",
+      "address": "Sy No 777/A, Bhuranpuram",
+      "lat": 17.185185,
+      "lng": 80.16385199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo3zR2N9XNDoRukRuzbhQCCA",
+      "name": "IndianOil",
+      "address": "Survey No 746, AA & 747, Dabala Bazar, Dhamsalapuram",
+      "lat": 17.1957659,
+      "lng": 80.158355,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ36OljaBXNDoR-M_WFYxzKSQ",
+      "name": "Sri Ramachandra Filling Station",
+      "address": "Khammam Road, Dhamsalapuram",
+      "lat": 17.1957278,
+      "lng": 80.1587875,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYTGfFRJXNDoRMC0lMuY2AI8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Bonakal Road, Khammam",
+      "lat": 17.2095244,
+      "lng": 80.1553381,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMWn619VXNDoRNb4nBsEaOGI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "S No 108, 2/1, Bonakal - Khammam Road, Chintakani",
+      "lat": 17.156681,
+      "lng": 80.174925,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM8icUQBXNDoRC2z6X0U9EwA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 59/VUU, Allipuram Road, Khammam",
+      "lat": 17.2259922,
+      "lng": 80.1582722,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJATjTzopXNDoRU6AVY-QNGqc",
+      "name": "Vinayak Service Station, nayara petrol pump",
+      "address": "65J3+PF4, Mustafa Nagar, Khammam",
+      "lat": 17.231788,
+      "lng": 80.15359939999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl2jzbwBXNDoRulS-tl7un5A",
+      "name": "Nayara Fuel Station",
+      "address": "65J3+PFG, Pakabanda Bazar, Khammam",
+      "lat": 17.23181169999999,
+      "lng": 80.1537012,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJQDEROpVNDoRPCvZ9OZ1xuU",
+      "name": "IndianOil",
+      "address": "Sy No 507, Aa Vanam Vari, Kistapuram, Bhuranpuram",
+      "lat": 17.124997,
+      "lng": 80.132071,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTTySDb9ZNDoRE8kutk5y6Lw",
+      "name": "IndianOil",
+      "address": "H No 8/6/131, 8/6/149 8/6/132, Bhuranpuram",
+      "lat": 17.24228799999999,
+      "lng": 80.149253,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCd2WgyJZNDoRnujsrPb842E",
+      "name": "Bharath Petroleum",
+      "address": "65R6+Q49, Mini Tank Bund Road, Manikya Nagar Basti, Khammam",
+      "lat": 17.2419182,
+      "lng": 80.1603727,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY5VmBABZNDoRA5mJkC4dO6U",
+      "name": "Jai Guru Datha Gas Agencies",
+      "address": "beside SAI BABA TEMPLE, 16-7-MA0010, Road Number 12, Madhura Nagar, Sri Nagar Colony, Khammam",
+      "lat": 17.2390438,
+      "lng": 80.17406489999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJudZ4cOdRNDoRTIBOipOhj7w",
+      "name": "IndianOil",
+      "address": "Survey No 334, AA, Kodumuru - Lachagudem Road, Ananthasagar",
+      "lat": 17.19085399999999,
+      "lng": 80.2153392,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZwO8nt5ZNDoR-6auA60UUoM",
+      "name": "IndianOil",
+      "address": "Survey No 81, Mamatha Hospital Road, Khammam",
+      "lat": 17.2430029,
+      "lng": 80.1612718,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ59Mu7eZZNDoR8g8JrYwucPU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 112/A, near Milk Dairy, H.No : 4-2-604/1, Wyra Road, Radhakrishna Nagar, Netaji Nagar, Raheem bagh, Khanapuram Haveli",
+      "lat": 17.2460501,
+      "lng": 80.1693401,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNyHCMaVZNDoRZhFpzsdFwjI",
+      "name": "Bharat Petroleum",
+      "address": "742P+4CC, Moti Nagar, Khammam",
+      "lat": 17.2503157,
+      "lng": 80.13601980000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8SIuBQtZNDoRAs4cVxqea1g",
+      "name": "Bharat Petroleum Petrol Pump - Prerana Filling Station",
+      "address": "7524+GQ6, Wyra Road, Indira Nagar Colony, Khammam",
+      "lat": 17.2512917,
+      "lng": 80.15666590000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjwyy-sRZNDoRZpJt6iFZakE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Wyra Road, Khammam",
+      "lat": 17.251495,
+      "lng": 80.157515,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnZ_PVABZNDoRckh9NFN8WvA",
+      "name": "Saiprabhath nagar junction",
+      "address": "64W9+259, Khammam-Warangal-Karimnagar-Nizamabad Road, Saiprabhath Nagar, Khammam",
+      "lat": 17.2450295,
+      "lng": 80.11798759999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ-YMi5eFPNDoRF7lPqlL2bZY",
+      "name": "bharath petroleum",
+      "address": "67GG+2WM, Khammam",
+      "lat": 17.2250807,
+      "lng": 80.2772894,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJdwiw2_tRNDoReQCdutT6ux0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 755, VU/1, Konijerla, Pedda Gopathi",
+      "lat": 17.17010459999999,
+      "lng": 80.2588683,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJO4WoBTlTNDoR4J7J4-sJ_R4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 18, A/1, Chintakani",
+      "lat": 17.131022,
+      "lng": 80.2057057,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx59Di1tRNDoRGWCPrxomToU",
+      "name": "IndianOil",
+      "address": "Survey No 552 & 554 Ammapalem, Anantharam",
+      "lat": 17.237546,
+      "lng": 80.238851,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCWTgQABRNDoR5ec9NJfiUXE",
+      "name": "Bharat Petroleum",
+      "address": "66PV+P4, V.Venkatayapalem",
+      "lat": 17.2368529,
+      "lng": 80.2427925,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJHe324x9RNDoRln4IFzqPc-A",
+      "name": "Indira Petroleum",
+      "address": "near vijaya engineering college, Thanikella",
+      "lat": 17.2368584,
+      "lng": 80.24278950000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJKX8E_RFQNDoR8mErFhSVFr0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, SH 42, Khammam Rajahmundry Road, Thanikella",
+      "lat": 17.2309406,
+      "lng": 80.2601301,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWUs_e9BbNDoRLj6iwQJO-ck",
+      "name": "IndianOil",
+      "address": "Lock No LG 4064 Velugumatla, Ballepally",
+      "lat": 17.2441909,
+      "lng": 80.2063143,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6zey8AhaNDoRJuBjMsKbcdg",
+      "name": "LPG Gas Petrol Bunk",
+      "address": "Khammam - Sathupally Road, Khammam",
+      "lat": 17.2428908,
+      "lng": 80.2006262,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ6XHIuQ5YNDoRkAdddS8XE4A",
+      "name": "Sri seshadri auto fills Petrol Bunk",
+      "address": "Ground Floor, near Khammam Bypass Road, Warangal Cross Road, Jintal, Khammam",
+      "lat": 17.251351,
+      "lng": 80.10470099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ84qstW1YNDoRLvabMd1U5dU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Auto Nagar, Khammam",
+      "lat": 17.2631177,
+      "lng": 80.1119038,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJef1raxVYNDoRWvx3sm5wV2I",
+      "name": "Nava Durga Auto Fills",
+      "address": "Nayudupet, Khammam",
+      "lat": 17.2573573,
+      "lng": 80.1192473,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoabbWrRZNDoRPS1dIyHfeiw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Khammam Bypass Road, Raparthi Nagar, Khammam",
+      "lat": 17.2642209,
+      "lng": 80.14628909999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJc8qdbbZZNDoRcWhkXEedBp4",
+      "name": "Bharat Petroleum",
+      "address": "Raparthi Nagar, Khammam",
+      "lat": 17.2621565,
+      "lng": 80.1491977,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ35VrKABZNDoRf81juUkE2A4",
+      "name": "Nayara Organ petro Hub",
+      "address": "7424+83V, Khammam",
+      "lat": 17.2508527,
+      "lng": 80.1051854,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJEYlLibVZNDoRKRfibo-_FS4",
+      "name": "ORGAN PETRO HUB",
+      "address": "Organ petro hub, 325/sa, junction, Yedulapuram",
+      "lat": 17.2512451,
+      "lng": 80.1054615,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJWfU-Yw5YNDoRSq5c1zWY920",
+      "name": "IndianOil",
+      "address": "RS No 327, Aa2/Aa Edulapuram, Arekodu",
+      "lat": 17.2518936,
+      "lng": 80.1068574,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJT29dq99ZNDoRobvrmKOt9Oc",
+      "name": "Bharat Petroleum, Petrol Pump -Lakshmi Balaji Filling Station",
+      "address": "YEDULAPURAM NEAR WARANGAL, Khammam",
+      "lat": 17.2512731,
+      "lng": 80.1079069,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhwoXLQBZNDoRyGhd9p8FH4o",
+      "name": "Ad Blue",
+      "address": "7438+9PJ, Naidupeta, Nayudupet, Khammam",
+      "lat": 17.2537059,
+      "lng": 80.1169317,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq4-jUgBZNDoRP8eufskmzjs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 138/E, Khammam-Mahbubabad Road, Yedulapuram",
+      "lat": 17.2580994,
+      "lng": 80.1162602,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJi_DRHCRZNDoRjSBivTFuuEM",
+      "name": "Bharat Petroleum Bunk",
+      "address": "64W9+777, Saiprabhath Nagar, Khammam",
+      "lat": 17.2456616,
+      "lng": 80.1181787,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJS0sTqRZZNDoRIIdLUEelOLU",
+      "name": "Bharat Petroleum Petrol Pump , NIRMALA FILLING STATION",
+      "address": "SV NO 147/A1 PALLEGUDEMMV PALEM GRAM PANCHAYAT",
+      "lat": 17.287155,
+      "lng": 80.10785,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC0Vkm0NYNDoRkbtqv0rcy9k",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 17.2677532,
+      "lng": 80.12529479999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJOYBriNdZNDoRyaE_OYkZDdI",
+      "name": "Bharat Petroleum, Petrol Pump -Lakshmi Manikanta Filling Station",
+      "address": "Khammam Bypass Road, karunagiri, Khammam",
+      "lat": 17.2678103,
+      "lng": 80.1253,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJscv_gedZNDoR2e8bohvahXE",
+      "name": "SUPERGAS Auto LPG Station - VENKATARAMANA AUTO GAS STATION",
+      "address": "1 & 17, Survey No: 181, plot no – 2 &18 and, Bhuranpuram",
+      "lat": 17.2620266,
+      "lng": 80.1342425,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJqfuaZi5ZNDoRzCpbWvJotBE",
+      "name": "IndianOil",
+      "address": "Ground Floor, Burhanpuram Road, Ballepally",
+      "lat": 17.2640301,
+      "lng": 80.13489700000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeRcv0RpWMToR_GIfS1I4uX8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 138, 4 Manuguru, opposite Police Station, Khammam",
+      "lat": 17.2548575,
+      "lng": 80.1392383,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmdYOFABZNDoRPiQMleaNjuA",
+      "name": "Civet consumer bunk",
+      "address": "74FM+QQH, Dhanavaigudem",
+      "lat": 17.2744472,
+      "lng": 80.1344842,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZeSrNQD3NDoRS10TNGsYULM",
+      "name": "MRVNS FILLING STATION",
+      "address": "8333+7FC, Chintapalli",
+      "lat": 17.3031767,
+      "lng": 80.05362559999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJH950yTpZNDoR8NXGtq-_t64",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bhuranpuram",
+      "lat": 17.252201,
+      "lng": 80.143384,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRyim6xNZNDoR4euip9nedio",
+      "name": "Khammam room",
+      "address": "H No, 11-9-32, Bhuranpuram",
+      "lat": 17.2576739,
+      "lng": 80.1440047,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJey6CtVhZNDoRn_TNAJoQ3Yo",
+      "name": "Annapurna Filling Station (Aegis Autogas)",
+      "address": "1-5, Raparthi Nagar, Jalagam Nagar, Khammam",
+      "lat": 17.2628964,
+      "lng": 80.1488545,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLSk_ewBZNDoRvUyJ_jc4YZI",
+      "name": "Bharat Petrol Bunk",
+      "address": "7542+G3R, NST Road, VDO's Colony, Khammam",
+      "lat": 17.2563705,
+      "lng": 80.1502811,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ5xYp_rdZNDoRvmQgqu9a2tw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Khammam Bypass Road, Bhuranpuram",
+      "lat": 17.2608044,
+      "lng": 80.1538195,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHbMOW9RbNDoR8AU5YOausqw",
+      "name": "BHEEMLA FILLING STATION",
+      "address": "Raghunathapalem Khammam (urban) Mandal, Yellandu Road, Warangal",
+      "lat": 17.2895,
+      "lng": 80.19122999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQ1P-eB9ZNDoRQ8W7oMaZAIY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 227, Khammam - Yellandu Road, Khammam",
+      "lat": 17.254947,
+      "lng": 80.161735,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkTyvY99ZNDoRHTWs4RsfDe0",
+      "name": "IndianOil",
+      "address": "Survey No 225 & 226A, Khanapuram, Bhuranpuram",
+      "lat": 17.256684,
+      "lng": 80.162808,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGSFmnsJZNDoRkcb0448wNe4",
+      "name": "IndianOil",
+      "address": "Lock No IG4106, opposite Dist, Kaviraj Nagar, Ballepally",
+      "lat": 17.25139279999999,
+      "lng": 80.1649053,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJI-aw9uNZNDoRqd0onU_he-c",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 207, Bypass Road, Khanapuram Haveli",
+      "lat": 17.2535255,
+      "lng": 80.168536,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOydzS2hZNDoR_F7ZXGWvswc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "RS No 230/E, Khammam - Yellandu Road, Ballepally",
+      "lat": 17.2700511,
+      "lng": 80.17591259999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGakv3ttZNDoRdphUccwgtGE",
+      "name": "Bharat Petrol Station",
+      "address": "7-65, Ballepally",
+      "lat": 17.2707487,
+      "lng": 80.17651169999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvaOBBwJaNDoRXcgvsFVjkk8",
+      "name": "V V MOTORS MAHINDRA",
+      "address": "Suryapeta - Khammam - Aswaraopeta Highway, Tekulapalli, Velugumatla",
+      "lat": 17.2449942,
+      "lng": 80.18731,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ99yvPgBZNDoRcvzkIo1IWh8",
+      "name": "IndianOil",
+      "address": "Survey No 504/1, Dabala Bazar, Gudurupadu",
+      "lat": 17.286621,
+      "lng": 80.145185,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJn2ec6WFbNDoRzRRUkxs-1Ss",
+      "name": "Bharat Petroleum, Petrol Pump -Tene Venkateshwarlu Filling Station",
+      "address": "RAGHUNADHAPALEM, Khammam - Yellandu Road, Khammam",
+      "lat": 17.2896277,
+      "lng": 80.1917337,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJh30GW9RbNDoRrySPv4jud7k",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Khammam - Yellandu Road, Raghunadapalem",
+      "lat": 17.289518,
+      "lng": 80.191237,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtQyaPQBPNDoR1o1-LA_fK_E",
+      "name": "Konijerla kaaluva",
+      "address": "1-55, Vandanam",
+      "lat": 17.22468,
+      "lng": 80.27962,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJi8PRhIlPNDoRmbIZnGTRWq8",
+      "name": "Nayara Petrol Bunk",
+      "address": "67FH+RV9, Konijerla",
+      "lat": 17.2245265,
+      "lng": 80.279733,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJHRvIh7D1NDoRm7fmjrO6BzE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 73/A Khammam, Road, Kuravi",
+      "lat": 17.3542377,
+      "lng": 80.0652623,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJW33dSL32NDoRUAyTx-7zpGI",
+      "name": "IndianOil",
+      "address": "Lock No 263, D1 Thirumalayapalem, Arekodu",
+      "lat": 17.312408,
+      "lng": 80.030125,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH1SYSAD3NDoR3OxLPWH9eqo",
+      "name": "Petrol bunk",
+      "address": "82C7+JWW, Pindiprolu",
+      "lat": 17.3216202,
+      "lng": 80.01481849999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ9SjVxp5ZNDoR9ue1dta9RQE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 210/E, 1/1, Kamanchikal",
+      "lat": 17.311152,
+      "lng": 80.149062,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjfZJtoZeNDoRAsk2G6YpAao",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 349, Papatapally",
+      "lat": 17.374676,
+      "lng": 80.181635,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfeOt2gNdNDoRaeT0Hdv1F4c",
+      "name": "Pushpa Filling Station_indianoil",
+      "address": "Khammam - Yellandu Road, main road, Manchukonda",
+      "lat": 17.3391909,
+      "lng": 80.2184633,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSaw1RWJcNDoRvAMPXysdLBo",
+      "name": "IndianOil",
+      "address": "Manchukonda",
+      "lat": 17.3500747,
+      "lng": 80.2301548,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCVoz6h9dNDoRo6F9l5ilzqo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Khammam - Yellandu Road, Kommenapally",
+      "lat": 17.372934,
+      "lng": 80.2322301,
+      "open_now": true
+    }
+  ]
+}

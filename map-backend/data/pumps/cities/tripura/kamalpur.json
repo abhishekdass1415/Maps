@@ -1,0 +1,123 @@
+{
+  "city": "Kamalpur",
+  "state": "Tripura",
+  "count": 14,
+  "center": {
+    "lat": 24.2,
+    "lng": 91.85
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJPXbVptR_UTcRHEHnI02f-7w",
+      "name": "M/S Ghosh Petroleum Agency",
+      "address": "NH208, Manik Bhandar",
+      "lat": 24.1418133,
+      "lng": 91.8140329,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJswsPDQB_UTcROiYRKBWfgLY",
+      "name": "Indian Oil",
+      "address": "4RX6+4W3, Manik Bhandar",
+      "lat": 24.1477549,
+      "lng": 91.81228680000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJOzlHYo_VUzcR6I9gprk3v1E",
+      "name": "IndianOil",
+      "address": "Ground Floor, Halhali Bazar Road, Abhanga",
+      "lat": 24.10709499999999,
+      "lng": 91.824694,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJN6NR0xN_UTcRuWjQ6Wnd9jE",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kamalpur",
+      "lat": 24.1795001,
+      "lng": 91.8214,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPYA5lVApUjcRw7_GW6Bo_ek",
+      "name": "Indian Oil Fuel Station, Kanchanbari",
+      "address": "near Baidyanath Chowmohni, Fatikroy - Manu Road, Kanchanbari",
+      "lat": 24.1095961,
+      "lng": 91.9834929,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwzyS6aKDUTcR3RH3p4unF50",
+      "name": "Mahmuda Enterprise/মাহমুদা এন্টারপ্রাইজ",
+      "address": "7V63+226, Adampur",
+      "lat": 24.2600255,
+      "lng": 91.8525015,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEe2EM8h7UTcR56oYJBjK_as",
+      "name": "National Gas Trading",
+      "address": "8P5P+6M3, Road",
+      "lat": 24.3080136,
+      "lng": 91.73666659999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJa0gFwGx6UTcRoXIjYYSGWpk",
+      "name": "Syed Mosudur Rahman filling Station",
+      "address": "Railway Station Road",
+      "lat": 24.3080066,
+      "lng": 91.7332327,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvcNH6aB7UTcRIVDnKiPZreU",
+      "name": "Nahar Petrol Pump",
+      "address": "36 Dhaka Sylhet Highway, Sreemangal",
+      "lat": 24.3200396,
+      "lng": 91.7355099,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJN6fzkmV7UTcReLliUGsbHvI",
+      "name": "ধাম ট্রেডিং",
+      "address": "8P5F+82W, Sabujbagh Road, Sreemangal",
+      "lat": 24.3083647,
+      "lng": 91.7225887,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ6YqBMQCDUTcRT_30gFRfnDg",
+      "name": "মেসার্স শাহজালাল এন্টারপ্রাইজ",
+      "address": "7VH5+VR4, Adampur",
+      "lat": 24.2795,
+      "lng": 91.85951299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJN_KE-vCCUTcRkZ7sYXYIegE",
+      "name": "Shapla Petroleum",
+      "address": "7VM5+CMX, Adampur-Moulvi Bazar Road, Adampur",
+      "lat": 24.2836075,
+      "lng": 91.8592465,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB21EKGmDUTcRw6pBdxUhdPs",
+      "name": "আবির পেট্রোলিয়াম ট্রেডার্স",
+      "address": "7VR4+47X",
+      "lat": 24.290355,
+      "lng": 91.8557285,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJA2TCIgCDUTcRjZG8ylqzgzk",
+      "name": "মা-বাবা ভেরাইটিস স্টোর",
+      "address": "7VJW+846, Adampur",
+      "lat": 24.2807884,
+      "lng": 91.89527129999999,
+      "open_now": false
+    }
+  ]
+}

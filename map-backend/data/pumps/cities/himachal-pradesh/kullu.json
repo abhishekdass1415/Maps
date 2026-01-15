@@ -1,0 +1,147 @@
+{
+  "city": "Kullu",
+  "state": "Himachal Pradesh",
+  "count": 17,
+  "center": {
+    "lat": 31.8964,
+    "lng": 76.8583
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJITp862TcBDkRE_0d4HNVna0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Chalal Trek Trail, Chuhru Rabal",
+      "lat": 31.7881934,
+      "lng": 76.74700299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8ZX4ZADdBDkRadqRtaAbKVQ",
+      "name": "Indian Oil petrol pump",
+      "address": "QQW2+7X3, Didnu",
+      "lat": 31.795634,
+      "lng": 76.7524339,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJYxHUgtrdBDkRc6gSNNP_08g",
+      "name": "IndianOil",
+      "address": "Ground Floor Khaylage, Sarkaghat Dharampu, Teh, Baroti",
+      "lat": 31.774331,
+      "lng": 76.738676,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4QzgPADnBDkRXSWGmuM5zhY",
+      "name": "Petrol pump near kotli",
+      "address": "QV99+V4, Gharaun",
+      "lat": 31.76969,
+      "lng": 76.86783059999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJw6jjXinnBDkRAdKPszjtrBo",
+      "name": "Kaushal Kissan Sewa Kendra",
+      "address": "Village Gharwan PO and Tehsil Kotli Distt, Kotli",
+      "lat": 31.7690263,
+      "lng": 76.8676038,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeYmOp1fvBDkR63I2zMuVKpk",
+      "name": "IndianOil",
+      "address": "Paddar, Ground Floor NH 20, Balh",
+      "lat": 31.861784,
+      "lng": 76.927796,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl7u52MPpBDkRp121C1tpaMo",
+      "name": "IndianOil",
+      "address": "Ground Floor Padhar, Katipari, Balh",
+      "lat": 31.8829063,
+      "lng": 76.9145521,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC_fRdz7pBDkR73mMijgo9O8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 154, Pundal",
+      "lat": 31.89125229999999,
+      "lng": 76.908813,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJd93n-57kBDkRhMpjtoJ1zZ0",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sadar, Kamand",
+      "lat": 31.7784785,
+      "lng": 76.9840222,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJI1QbnYrBBDkRpeh0vNg9JVs",
+      "name": "Nabahi Mata Filling Station",
+      "address": "Near Kanchi Mode Dharmpur, Sarkaghat",
+      "lat": 31.9620479,
+      "lng": 76.79847869999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ7-Ai4k_ABDkRLdZRd5dB7Fk",
+      "name": "Bharat Petroleum Fuel Station",
+      "address": "National Highway 20, Joginder Nagar",
+      "lat": 31.9889814,
+      "lng": 76.7914685,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8QamMvXABDkRVa9kqWTJWYc",
+      "name": "IndianOil",
+      "address": "Ground Floor NH 20, Jogindernagar, Dhelu - Yora Road, Band",
+      "lat": 31.999601,
+      "lng": 76.777457,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOwEVkUfABDkRc7iUV0qi8vU",
+      "name": "HP Petrol Pump",
+      "address": "Mandi - Pathankot Road, Patku",
+      "lat": 32.0090429,
+      "lng": 76.768666,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9Uh6FyTBBDkRbrhEAfD572k",
+      "name": "Bharat petroleum Petrol pump",
+      "address": "Himalayan Jyoti Fuel Filling Station, near Crescent school, Garoru",
+      "lat": 31.9803986,
+      "lng": 76.789436,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdUHn76nBBDkRtKcO_HTcSa8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Jogindernagar Machial, Road, Joginder Nagar",
+      "lat": 31.98236289999999,
+      "lng": 76.788288,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_StLklHBBDkRqTcPo1ZEgco",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Mandi Division, Ground Floor, Bharyara NH 154, Joginder Nagar, Mohol, Patkul",
+      "lat": 31.99295,
+      "lng": 76.80191239999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdblPoejBBDkR6FbuDOPJm8c",
+      "name": "Bharat Petroleum SM FUELS",
+      "address": "Sukadi Pool, Mandi - Pathankot Road, Ladruhin",
+      "lat": 32.0137949,
+      "lng": 76.75651289999999,
+      "open_now": true
+    }
+  ]
+}

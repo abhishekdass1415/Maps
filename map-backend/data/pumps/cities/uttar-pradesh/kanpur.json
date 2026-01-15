@@ -1,0 +1,2347 @@
+{
+  "city": "Kanpur",
+  "state": "Uttar Pradesh",
+  "count": 292,
+  "center": {
+    "lat": 26.4499,
+    "lng": 80.3319
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJi0N3839FnDkRLF_v7qwOlP8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 86, Ghatampur Road, Bidhnu",
+      "lat": 26.3245609,
+      "lng": 80.2782045,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY4wh9cRHnDkRUzLgVa2P0l8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Kanpur - Jhansi Highway, Barra, Kanpur",
+      "lat": 26.4348568,
+      "lng": 80.29054479999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVVVRabFHnDkRA4N4-9qey8g",
+      "name": "Petrol Pump",
+      "address": "30, Karrahi Road, Juhi Kalan, Barra, Kanpur",
+      "lat": 26.4272073,
+      "lng": 80.306327,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_9CuBrJHnDkRrevs3zn9fxQ",
+      "name": "Gaurav Filling Centre- Indian Oil Petrol, Diesel & CNG Pump",
+      "address": "Plot No-1358-B, W-2, Juhi, Damodar Nagar, Barra By Pass, NH-2, Kanpur",
+      "lat": 26.4253565,
+      "lng": 80.3099067,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCY5nBLFHnDkRSf2oJD7llG0",
+      "name": "IndianOil",
+      "address": "near Juhi, Lock No LG/3608 Juhi Kalan, Barra Bypass Road, near Juhi, Parag Dairy Road, Saket Nagar, Kanpur",
+      "lat": 26.4282779,
+      "lng": 80.3068953,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDS3ElK1HnDkRjQbZvdJ0L3E",
+      "name": "PMEW SERVICE CENTRE - IOC PUMP",
+      "address": "1358-A, W-2, Juhi Kala, Damodar Nagar, Kanpur",
+      "lat": 26.4283168,
+      "lng": 80.30780320000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJKZudd7BHnDkR6dupGkowL-Y",
+      "name": "Sachan Filling Station",
+      "address": "Barra World Bank, Kanpur",
+      "lat": 26.4314468,
+      "lng": 80.30819020000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJd8zmiqpHnDkRFwH1oNISPtg",
+      "name": "IndianOil",
+      "address": "Lock No 21043, Plot No 1, 11001, Y Block, Kidwai Nagar, Kanpur",
+      "lat": 26.4236515,
+      "lng": 80.3202147,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJccEDKOZHnDkRhE2UhYb2F18",
+      "name": "IndianOil",
+      "address": "No 1/2, Commercial Complex, LN Ig/3718, Ratan Lal Nagar, Kanpur",
+      "lat": 26.4456588,
+      "lng": 80.28773199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs-tKlttJnDkRJ8FC_5zsebQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Khasra No 202, near Kaindha, Sachendi Ramaipur Road, Tiraha, Patehuri",
+      "lat": 26.395298,
+      "lng": 80.249359,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJldwKuPtFnDkRjkRKumgrsa8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gata No 279, Kurauna Bahadur Nagar",
+      "lat": 26.3653885,
+      "lng": 80.2815407,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbf63Hi1HnDkROOG3SYnz_sI",
+      "name": "Indian Oil Petrol Pump",
+      "address": "Bingawan, Pipauri",
+      "lat": 26.4026082,
+      "lng": 80.2961062,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJV7Dk6dtFnDkRz1B0UBL4whM",
+      "name": "BPRN KANPUR Petrol Pump",
+      "address": "9884+XF2, Neori",
+      "lat": 26.3667328,
+      "lng": 80.3058013,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVX-F8nJHnDkRBjNVpYWYGqY",
+      "name": "IndianOil",
+      "address": "Maurang Mandi, Plot No 1&2, Bingaon, Bingawan, Kanpur",
+      "lat": 26.378622,
+      "lng": 80.30860899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo7C5jnBGnDkRpnwgIbvpDZk",
+      "name": "Shukla Petrol Pump",
+      "address": "shree nagar pahadpur, Galla Mandi, Naubasta, Kanpur",
+      "lat": 26.383691,
+      "lng": 80.3093315,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQfMKs2hFnDkRXiMVIZyCZXg",
+      "name": "Bharat Petroleum Petrol Pump , MADHAV FUEL STATION",
+      "address": "MADHAVBAGH MARKETKANPUR, Hamirpur Road, Ramaipur",
+      "lat": 26.3578299,
+      "lng": 80.3026744,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKQslDXBGnDkRXt-GAUoZBPo",
+      "name": "IndianOil",
+      "address": "Beena Filling Station, near Galla Mandi, Paharpur, Naubasta, Kanpur",
+      "lat": 26.3836685,
+      "lng": 80.3096214,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvabjjmFPnDkRzpk-x3Br63w",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gata No 1429, Road, Bidhnu",
+      "lat": 26.3390776,
+      "lng": 80.2419208,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFYFrSwBHnDkR2hKvvHTgKCs",
+      "name": "Pal filling station",
+      "address": "Pal chauraha, near Anand South City, Kanpur",
+      "lat": 26.4178824,
+      "lng": 80.28807090000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ6f0XPABFnDkRx7umBsUlyIc",
+      "name": "Roop kala auto mobiles",
+      "address": "87WX+H5G, Hamirpur Road, Ramaipur",
+      "lat": 26.3464307,
+      "lng": 80.2979467,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJS4PSNwBHnDkRJy7SDN_kfvY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ghata No 357, Mi Kanpur, Mi to 359, Hamirpur Road, Hanspuram, Kanpur",
+      "lat": 26.395134,
+      "lng": 80.312263,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6wF6SABFnDkRS7mAKK4TiBM",
+      "name": "SHRI RAM DEF FILING STATION",
+      "address": "Ramaipur",
+      "lat": 26.3440471,
+      "lng": 80.29749029999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJG0QypYhFnDkRr_taVu9pdh8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 86, Hamirpur Road, Kanpur",
+      "lat": 26.3400884,
+      "lng": 80.2938861,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlyjJJQBFnDkRgamFwyxOquk",
+      "name": "Roop kala auto mobiles",
+      "address": "Ramaipur",
+      "lat": 26.3399507,
+      "lng": 80.29371119999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJlXYaxGBHnDkRM6Wx3H1dJKI",
+      "name": "Chaudhary Ramgopal Singh Filling Station",
+      "address": "Meharwan Singh Purva Road, Barra, Kanpur",
+      "lat": 26.42693419999999,
+      "lng": 80.2815349,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIdV0AgBFnDkRfNGuD_BPB4Q",
+      "name": "SHRI RAM DEF FILING STATION",
+      "address": "Indian Oil Petrol Pump, Afjalpur",
+      "lat": 26.3339978,
+      "lng": 80.2871972,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJo5UTK4VFnDkRTP7Kvn4XRWs",
+      "name": "IndianOil",
+      "address": "No 131, Lk No 21004/13054/22017 NH 86, Rasulabad, Afjalpur",
+      "lat": 26.334047,
+      "lng": 80.28836799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkU0hKgBHnDkR1EJWoDFutqc",
+      "name": "Aadesh filling station",
+      "address": "98R9+3X3, Hanspuram, Naubasta, Kanpur",
+      "lat": 26.3901426,
+      "lng": 80.3199179,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJG3Tfe0BHnDkRXnSEc6ophws",
+      "name": "Saroveer filling station( bharat petroleum)",
+      "address": "Taudhakpur Road, Naubasta, Kanpur",
+      "lat": 26.3798809,
+      "lng": 80.32146589999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmUwz59RHnDkRLR0qQj81suo",
+      "name": "ADHOC RAMA AUTO CARE",
+      "address": "I/1/14, Karrahi Road, Karrhi, Sector I, Barra World Bank, Barra, Kanpur",
+      "lat": 26.4225789,
+      "lng": 80.2978275,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJBw87fBZHnDkRDKRPAkuN8Ac",
+      "name": "amit mens parlour",
+      "address": "fuji aata chakki, k pass, Barra 8, Barra, Kanpur",
+      "lat": 26.4302967,
+      "lng": 80.28648369999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJS0J637VHnDkRAAAA0HpheUk",
+      "name": "Haiway Green Bio-fuels Private Limited",
+      "address": "Barra World Bank, Barra, Kanpur",
+      "lat": 26.4251793,
+      "lng": 80.30058710000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9V8J0IVHnDkRTw3jM4foKJs",
+      "name": "SS Fuels Centre",
+      "address": "29, Naubasta, Kharagpur",
+      "lat": 26.373885,
+      "lng": 80.3277008,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJvxRZsKNFnDkRoJZU5UOiYhk",
+      "name": "IndianOil",
+      "address": "Ground Floor Ramaipur, Sarh",
+      "lat": 26.3333146,
+      "lng": 80.30275979999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJncS2rF5JnDkRiBZRU6OQWjw",
+      "name": "PETROL PUMP MUNESHWARI KSK",
+      "address": "Rampur Khas Road, Sujanpur",
+      "lat": 26.4243046,
+      "lng": 80.2168086,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKYpfv6RJnDkRAAAAcJMN2XU",
+      "name": "IndianOil",
+      "address": "Khasra No 428 & 429, Kalyanpur, Bhautipratappur",
+      "lat": 26.4241116,
+      "lng": 80.21643089999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0bw2sMRHnDkRE6Z9tn9huJM",
+      "name": "Kargil Petrol Pump",
+      "address": "C7MP+PQF, Kanpur - Jhansi Highway, Barra 8, Barra, Kanpur",
+      "lat": 26.4354982,
+      "lng": 80.2884306,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg3kv9cRHnDkRG1t4P7rINhM",
+      "name": "Central Up Gas Limited CNG Station",
+      "address": "India",
+      "lat": 26.4348328,
+      "lng": 80.2904482,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJRyC4AQBHnDkR2ruPTR8j8mA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Arazi, No 296MI, Naubasta, Kanpur",
+      "lat": 26.4149536,
+      "lng": 80.3178712,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJje3HZgBHnDkRRSaSnyOlskA",
+      "name": "Surendra Filling Station",
+      "address": "C7PR+2VC, Barra World Bank, Barra, Kanpur",
+      "lat": 26.4350745,
+      "lng": 80.2921307,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJPXcCQwBHnDkR2qiBQQ-9jl4",
+      "name": "Petrol pump",
+      "address": "98QJ+92M, Yashoda Nagar, Kanpur",
+      "lat": 26.3884509,
+      "lng": 80.3300478,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJhRlwudtHnDkRt3XC1Dep36Y",
+      "name": "JAYWANT COMPLEX",
+      "address": "Shri Ram Ji, 1052, Karrahi Road, Kanpur",
+      "lat": 26.4271407,
+      "lng": 80.3063069,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJBZfnYgNHnDkRbRN8PtA-Uag",
+      "name": "Kamla Petroleum",
+      "address": "Y1, 829 Y1 Kidwai Nager 829, Kidwai Nagar, Kanpur",
+      "lat": 26.4144203,
+      "lng": 80.32016209999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJO6jVVk1HnDkRM8zcisJBi6k",
+      "name": "IndianOil",
+      "address": "Lock No 21038 Naubasta, Bypass, Barra, Kanpur",
+      "lat": 26.4253737,
+      "lng": 80.309907,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL9Os5CFHnDkRIFPzGifWWCk",
+      "name": "Indian Oil Hari Om Filling Station",
+      "address": "749 A, W-2, Juhi Kalan, Juhi, Kanpur",
+      "lat": 26.4267462,
+      "lng": 80.3086952,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8Rkt7K1HnDkRzK6AsOtHJKY",
+      "name": "IBP",
+      "address": "C8F6+XCF, Barra, Kanpur",
+      "lat": 26.4249255,
+      "lng": 80.3110456,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJhT6ifBVHnDkRp4xQy5qLX-8",
+      "name": "Kamla Petroleum",
+      "address": "Yashoda Nagar Road, Kanpur",
+      "lat": 26.417365,
+      "lng": 80.3201595,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJdfYNbQP_nDkR97RdtqE7YHI",
+      "name": "IndianOil",
+      "address": "Ground Floor Aanupur, Rampur, Ghatampur",
+      "lat": 26.443056,
+      "lng": 80.282709,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRWjBdrBHnDkRfJLM4e8uCoU",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 26.4314243,
+      "lng": 80.3083217,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJAatLdrBHnDkRe61sYls3sbI",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 26.4316076,
+      "lng": 80.3082648,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJk6Jkn-lHnDkRn0GNNb5TmPU",
+      "name": "IndianOil",
+      "address": "No 128/3, 88, Yashoda Nagar, Kanpur",
+      "lat": 26.412458,
+      "lng": 80.326718,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJW_mPfvlGnDkR8jMi3Uza-fY",
+      "name": "SHUBHAM ENTERPRISES",
+      "address": "India",
+      "lat": 26.4128105,
+      "lng": 80.3265986,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJX4cfi1lHnDkRv7lHwonx4NE",
+      "name": "Mamta gas Service",
+      "address": "25, Kda Market, Barra 3, Kanpur",
+      "lat": 26.440606,
+      "lng": 80.2936814,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJI17oLwNHnDkRqPLaR8vUR4w",
+      "name": "Dwiz deal",
+      "address": "185/C, Barra 2 Main Road, Barra 8, Barra, Kanpur",
+      "lat": 26.4373009,
+      "lng": 80.30186239999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJSU99X_tJnDkRuNbRPRUrk78",
+      "name": "Bhuti khadha",
+      "address": "C6VM+3C6, Pankabahadur Nagar",
+      "lat": 26.4426669,
+      "lng": 80.2335255,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ6ZiSW_xGnDkR6G6cs7ipsEE",
+      "name": "IndianOil",
+      "address": "Lk 22002/Ig/3634, Main Road, Yashoda Nagar, Naubasta, Kanpur",
+      "lat": 26.416971,
+      "lng": 80.328484,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ63jV8qlHnDkRzfjF007nrSM",
+      "name": "CNG Shri Narayan Automobiles - Top Filling Stations in Kanpur",
+      "address": "15 - W, Hamirpur Road, Keshav Nagar, Juhi Kalan, Juhi, Kanpur",
+      "lat": 26.4272115,
+      "lng": 80.3199284,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1emMMDpHnDkRFWh3Mz0Ag5U",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Block W, Plot No 15, Hamirpur Road, Juhi, Kanpur",
+      "lat": 26.427201,
+      "lng": 80.320201,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq7BsGBdJnDkRAxMner_4HaA",
+      "name": "K A H Transport Co",
+      "address": "46/A1, Nauraiya Khera, Panki, Kanpur",
+      "lat": 26.4505999,
+      "lng": 80.2678735,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJAWiwS_xGnDkRFp73Zhwczoo",
+      "name": "IBP Petrol Pump",
+      "address": "1307, Kidwai Nagar Bypass Road, Kidwai Nagar, Kanpur",
+      "lat": 26.418219,
+      "lng": 80.3286409,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1YRuBwtEnDkR1Hp6gbZYGjQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Pipargaon Road, Ghurwakhera",
+      "lat": 26.3565212,
+      "lng": 80.3625441,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUUv0gEpBnDkR-1NHvP7A9ao",
+      "name": "IndianOil",
+      "address": "No 1520/21, Lock No 21055/13026/22062 Daheli Sujanpur, Bypass, Krishna Nagar, Kanpur",
+      "lat": 26.400517,
+      "lng": 80.36855299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY8lWcf1GnDkRjtWG4h2Vgy8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No K, 128/373/374, Kidwai Nagar, Kanpur",
+      "lat": 26.420801,
+      "lng": 80.330201,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1Rn4HdNGnDkR4Ock3dQYsRs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 304, Block E, Shyam Nagar, Kanpur",
+      "lat": 26.4150063,
+      "lng": 80.3639506,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS_n-cUhBnDkRGW1a_UqR0Dc",
+      "name": "Nayara Petrol Pump",
+      "address": "Mangala Vihar, II 201, 150 Feet Road, Tiranga Chauraha, Daheli Sujanpur, Kanpur",
+      "lat": 26.3983072,
+      "lng": 80.37936049999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeywszKlHnDkRImJ3dDz8934",
+      "name": "IndianOil",
+      "address": "Lock No 12026, Juhi, Kanpur",
+      "lat": 26.4291885,
+      "lng": 80.3205085,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEzWxASlBnDkRyEK0cEZ8hYM",
+      "name": "IndianOil",
+      "address": "Lk No 23004, NH 91, G.T.Road, Krishna Nagar, Kanpur",
+      "lat": 26.4213649,
+      "lng": 80.37421780000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhVuaPT1BnDkRAd1v3tvdQqE",
+      "name": "Bharat Petroleum",
+      "address": "25, National Highway, Ramadevi, Vinoba Nagar, Krishna Nagar, Kanpur",
+      "lat": 26.4123116,
+      "lng": 80.38632179999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFcLCqg5HnDkRqyUL6Vfe3rI",
+      "name": "CNG Autofil - Dealer Bharat Petroleum Company Limited",
+      "address": "O Block, G 30, Jawahar Road, Kidwai Nagar, Kanpur",
+      "lat": 26.4386247,
+      "lng": 80.3268085,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJbcEwWj1BnDkRqSG72zUQRls",
+      "name": "IndianOil",
+      "address": "Rama Devi, Lock No 12033/12037/22053, Lal Bungalow, Crossing, Krishna Nagar, Kanpur",
+      "lat": 26.4129044,
+      "lng": 80.3875363,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaSg8jgtHnDkRVw6wb0qLrig",
+      "name": "Nayara Petrol Pump",
+      "address": "Kidwai Nagar, Kanpur",
+      "lat": 26.4407074,
+      "lng": 80.32624969999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfVqkoHJHnDkR3GolmqvqMg0",
+      "name": "Bharat Petroleum Corporation Limited",
+      "address": "133/116P, Hamirpur Road, Transport Nagar, Cooperganj, Kanpur",
+      "lat": 26.4460677,
+      "lng": 80.3327158,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJiawvO9pAnDkRvYFrZH7uNQA",
+      "name": "NARENDRA FILLING STATION Bharat Petroleum and CNG STN.",
+      "address": "144, Western Sub Metropolitan Bypass Road, Tadi Khana, 131E/5, Ompurwa, Kanpur",
+      "lat": 26.4315932,
+      "lng": 80.37892769999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM5K5hB9BnDkRy8PTYESyvIU",
+      "name": "IndianOil",
+      "address": "Lock No 21068, near Harjender Nagar, 22008, Chakeri Road, Crossing, Kanpur",
+      "lat": 26.42256699999999,
+      "lng": 80.3894541,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ1hCkJdHnDkRevTpT43c_eE",
+      "name": "IndianOil",
+      "address": "No 21061/23012, 22042, Govind Nagar, Kanpur",
+      "lat": 26.44569199999999,
+      "lng": 80.30933399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFdT1CAxHnDkRYPw8YA0B9XI",
+      "name": "SRD PETROLEUM",
+      "address": "near naubasta, 1-A,N block, yashoda nagar, near naubasta, thana",
+      "lat": 26.4034401,
+      "lng": 80.337096,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJbf7__-tGnDkRAAAAMI6xmTk",
+      "name": "Annu Petrol Pummp",
+      "address": "253, Kalyanpur, Kanpur",
+      "lat": 26.4045184,
+      "lng": 80.3380224,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJl4HzdgBHnDkRiLxBIXApmaA",
+      "name": "Surendra Fuels Station",
+      "address": "7, Gopal Nagar, tirahaYashoda Nagar, Kanpur",
+      "lat": 26.4039009,
+      "lng": 80.3435403,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJdZc6FwBHnDkRvVOR1Smsp_o",
+      "name": "CHANDRA ENERGY POINT",
+      "address": "C86M+8CX, Yashoda Nagar, Kanpur",
+      "lat": 26.4108632,
+      "lng": 80.3335963,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQUTr5SVHnDkR8i7XE8YWHr8",
+      "name": "Shivraj Fuels",
+      "address": "Koyla Nagar, Daheli Sujanpur, Kanpur",
+      "lat": 26.392974,
+      "lng": 80.3647629,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJX0Au2oNHnDkRnbfRLgBcGuE",
+      "name": "IndianOil",
+      "address": "Lock No 12056, Km 15 By Pass, NH 2, Kanpur",
+      "lat": 26.4062053,
+      "lng": 80.35439939999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJR7ieD5NHnDkRCSPia5F_n3A",
+      "name": "Bharat Petroleum Fuel Station (Petrol & Diesel)",
+      "address": "C943+P9P, beside Mahesh Trading Company, New Azad Nagar, Daheli Sujanpur, Kanpur",
+      "lat": 26.4067526,
+      "lng": 80.3536371,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_RqDTQxHnDkRP9HV56EBnoc",
+      "name": "Bharat Petroleum Petrol Pump (Petrol+CNG+Diesel+DEF)",
+      "address": "New Azad Nagar, Yashoda Nagar, Kanpur",
+      "lat": 26.4040625,
+      "lng": 80.3583125,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJza1bGXOhkzkREAirUMfX6zw",
+      "name": "Reliance Petroleum",
+      "address": "Khasra No 1283, Taraya Sujan, near Ms 358, National Highway 27, Tamkuhi Raj, Madhopur Bujurg, Kushinagar",
+      "lat": 26.4020826,
+      "lng": 80.3624693,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_18M-hpHnDkRKnmJC79QakY",
+      "name": "Nayara Petrol Pump",
+      "address": "Kidwai Nagar, Kanpur",
+      "lat": 26.4172557,
+      "lng": 80.3299894,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWZyNEQBBnDkR5z0o8u8a8jU",
+      "name": "M/S Shri Balaji FS",
+      "address": "C929+58Q, Daheli Sujanpur, Kanpur",
+      "lat": 26.4004744,
+      "lng": 80.3683568,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJjTPDtP1GnDkRaTAEjBBFrMk",
+      "name": "M/S. Singh Filling Station",
+      "address": "Y-Block, 1307, Kidwai Nagar Bypass Road, Kidwai Nagar, Kanpur",
+      "lat": 26.4185555,
+      "lng": 80.3284924,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWXQhOItHnDkR3NikdoKMIko",
+      "name": "Bharat Petroleum, Petrol Pump -GM Filling Station",
+      "address": "PLOT NO 1290 & 1339, Yashoda Nagar Road, Y Block, Kidwai Nagar, Kanpur",
+      "lat": 26.4195792,
+      "lng": 80.3292337,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZZssdf1GnDkRpj3bckmjJQE",
+      "name": "IndianOil",
+      "address": "Lock No 22017, 22056/23021, Block Y, Kidwai Nagar, Kanpur",
+      "lat": 26.420557,
+      "lng": 80.33000299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxVU6i_lHnDkRuE0R0kN8Zek",
+      "name": "bhagwati petrol pamp",
+      "address": "C8CJ+754, Yashoda Nagar Road, Yashoda Nagar, Kanpur",
+      "lat": 26.4206343,
+      "lng": 80.3304454,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJcc7mPxlBnDkRYl230O-VAA8",
+      "name": "Santosh Ashok Bhadauriya FUELs FILLING STATION",
+      "address": "near vrindavan colony, Sanigawan Road, Daheli Sujanpur, Kanpur",
+      "lat": 26.38953579999999,
+      "lng": 80.3795835,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvUEBl7NDnDkRRdZevLX2_6U",
+      "name": "Pal Bike Workshop",
+      "address": "3, Koriya",
+      "lat": 26.3527424,
+      "lng": 80.37438999999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJobEWWztCnDkRuqzgURDla9E",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "National Highway 2, Apparel Park, Plot No D15 & 16, Kanpur Allahabad Stretch, Rooma",
+      "lat": 26.3825434,
+      "lng": 80.4155759,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoxWZpnBCnDkRN8YyryMWjSM",
+      "name": "Pure Auto Fuels",
+      "address": "Khujaupur, Kanpur Nagar, NH-2, GT Road, Allahabad Kanpur Road, Kanpur Nagar, Kanpur",
+      "lat": 26.348,
+      "lng": 80.44839999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsU63rXBCnDkR4ncwVwBA6u0",
+      "name": "Indian Oil",
+      "address": "Khujaupur, NH-2, GT Road, Allahabad Kanpur Road, Kanpur Nagar, Kanpur",
+      "lat": 26.3482475,
+      "lng": 80.4491424,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY0Dxsa9BnDkR5_w2NbtyJps",
+      "name": "Indian Oil, Petrol Pump -Pure Auto Fuels",
+      "address": "RUMA RHS, NH-2, KANPUR NAGAR",
+      "lat": 26.392345,
+      "lng": 80.40618900000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ8I3GbpBnDkRZ3fkIby_rcY",
+      "name": "SHANTI FILLING STATION",
+      "address": "Near kanshiram Colony, Sajari Gaon, Daheli Sujanpur, Kanpur",
+      "lat": 26.3866734,
+      "lng": 80.3885243,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ77mgsShCnDkRJhiIEVsZ9X4",
+      "name": "Central Up Gas Limited CNG Station",
+      "address": "9CGC+67F, National Highway 2, Chakeri Ward, Kanpur",
+      "lat": 26.3755691,
+      "lng": 80.4206588,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoW3LNjhDnDkRH0sY50U9V4g",
+      "name": "Bharat Petroleum, Petrol Pump -Tomar Filling Station",
+      "address": "NH-2, SAKATIA PURWA, KANPUR NAGAR",
+      "lat": 26.3756078,
+      "lng": 80.4207133,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJb8qceQBBnDkRXofd3tMswJM",
+      "name": "Indian oil kanpur af",
+      "address": "CC22+J5G, Jajmau, Kanpur",
+      "lat": 26.401575,
+      "lng": 80.4004598,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZcKUoixDnDkROonIpj9mPLA",
+      "name": "IndianOil",
+      "address": "Chhatmara Tiraha, Narwal",
+      "lat": 26.352127,
+      "lng": 80.4114049,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsRvB0YVBnDkRHuNVKR-P3Pk",
+      "name": "Rama Devi Market Allahabad highways",
+      "address": "C96P+JM4, Kanpur - Allahabad Highway, Gandhigram, Kanpur",
+      "lat": 26.4115223,
+      "lng": 80.3867077,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJM75QVZeXvjsRUbLJwnG6JdM",
+      "name": "IndianOil",
+      "address": "Lock No 12046, NH 2, Rooma",
+      "lat": 26.3592202,
+      "lng": 80.4369081,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPcX2nVVDnDkR63sYykTZYCs",
+      "name": "DIKSHIT BROTHERS, INDIAN OIL PETROL PUMP,ROOMA, KANPUR NAGAR",
+      "address": "Rooma",
+      "lat": 26.3592202,
+      "lng": 80.4369081,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrebbQvpBnDkRzTPkCRlgUIY",
+      "name": "Pollution Point",
+      "address": "Krishna Nagar, Kanpur",
+      "lat": 26.4140501,
+      "lng": 80.3835615,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJn14Hr9lBnDkRD84Mjujtrpc",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Inter College, Subhauli",
+      "lat": 26.3446287,
+      "lng": 80.4239316,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWR1X3FpDnDkRbSmn3Ul1y5g",
+      "name": "CNG station Rooma Indraprastha Gas Limited",
+      "address": "9C4V+G5C, opposite V C Motor, Chakeri Ward, Kanpur",
+      "lat": 26.356559,
+      "lng": 80.442934,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFXHA9HpHnDkR3dO2Lk1X8_M",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 84/80, G.T.Road, Anwarganj, Kanpur",
+      "lat": 26.4165271,
+      "lng": 80.3753906,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM6wbqWxBnDkRmb373P1CmI4",
+      "name": "Arafat Petroleum",
+      "address": "12-C 150 Feet Road, New, Jajmau Road, Jajmau, Kanpur",
+      "lat": 26.4248942,
+      "lng": 80.40853919999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJb5XU2nRDnDkRIyFjwtiErGY",
+      "name": "BPCL CNG STAION",
+      "address": "8CXX+884, Rooma",
+      "lat": 26.3482734,
+      "lng": 80.4483353,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKSidtOVAnDkRRU2ZSyyfTlc",
+      "name": "IndianOil",
+      "address": "Lock No 12046 Jajmau Lane, 150 Feet Road, Gajju Purwa, Kanpur",
+      "lat": 26.434901,
+      "lng": 80.39534189999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJv9j0yOhAnDkRuOu1qnN0oUc",
+      "name": "Al Badar Petrol Station",
+      "address": "Al Badr Street, Tannery Town, Jajmau, Kanpur",
+      "lat": 26.439101,
+      "lng": 80.3931065,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6_MPZslBnDkR8C-6QJj2gGM",
+      "name": "Bhagwati gas Alam Home appliances",
+      "address": "Katri Pipal Kheda, 1, Aqhlaq Nagar, Badarka Turkiya",
+      "lat": 26.4419602,
+      "lng": 80.4166698,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFc0uwm5DnDkRIV-MUGVWVWs",
+      "name": "IndianOil",
+      "address": "Ground Floor Pali Bhogipu, Transport Nagar",
+      "lat": 26.3149783,
+      "lng": 80.38117,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJA7AIrEJBnDkRysOB91cX3Go",
+      "name": "Bharat Petroleum, Petrol Pump -Ganga Shree Petroleum",
+      "address": "KATRIPEEPERKHERA,NH-25,UNN, Unnao",
+      "lat": 26.4467651,
+      "lng": 80.4191941,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNwzmc_1BnDkRhbC79VDIqsE",
+      "name": "Shikhar Petrol Pump",
+      "address": "9CP5+V8C, Chakeri, Kanpur",
+      "lat": 26.3871943,
+      "lng": 80.40827300000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJr2OlY-xHnDkR_rBm4lbTBQI",
+      "name": "IndianOil",
+      "address": "Lock No IG3733, CTI Road, Govind Nagar, Kanpur",
+      "lat": 26.449335,
+      "lng": 80.296112,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeW82KSxInDkRv83o5Ueh_pY",
+      "name": "Calcutta Express Petrol Pump (CETS RO.)",
+      "address": "484 Bhaw Singh ka Purwa, Saraimita, Kanpur",
+      "lat": 26.4535989,
+      "lng": 80.2373898,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAwfbQPRHnDkRK4BUs2v0mBw",
+      "name": "Das Brothers Petrol Pump",
+      "address": "kalki road, 5A, Kalyanpur - Vijay Nagar Road, Industrial Estate, Shastri Nagar, Kanpur",
+      "lat": 26.4619001,
+      "lng": 80.29502629999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0R6XXw84nDkRuo0vTQbPz2Y",
+      "name": "H P Petrol Pump - Shri Shiv Ram",
+      "address": "Plot -1, Kanpur, M Block, Kakadeo, Kanpur",
+      "lat": 26.4711575,
+      "lng": 80.2893437,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJowY_89dJnDkRUrS_uGdHSSE",
+      "name": "CNG Station Panki",
+      "address": "Cng pump, Panki Padaw, Saraimita, Kanpur",
+      "lat": 26.459425,
+      "lng": 80.2214432,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRRriuItHnDkRg_vrGu4UxW4",
+      "name": "Central Up Gas Limited CNG Station",
+      "address": "88, National Highway 25, Fazalganj Industrial Estate, Fazalganj, Shastri Nagar, Kanpur",
+      "lat": 26.4623983,
+      "lng": 80.3030224,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJO50VnY9HnDkRU3nRqXXQ-6E",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 123/783, Industrial Area, Fazalganj, Kanpur",
+      "lat": 26.458101,
+      "lng": 80.309401,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJf9_LlIhHnDkRLmDo3T7Ff0w",
+      "name": "Bharat Petroleum Petrol Pump",
+      "address": "Gumti No. 5, Govind Nagar Rd, Kalpi Road, Fazalganj, Shastri Nagar, Kanpur",
+      "lat": 26.4625892,
+      "lng": 80.3093294,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2zjy-XJHnDkRHcV10zjn0_g",
+      "name": "Central U.P. Gas Limited",
+      "address": "7th Floor, UPSIDC Ltd, A-1/4, Lakhanpur, Kanpur",
+      "lat": 26.4977297,
+      "lng": 80.277952,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJR5PHrY83nDkRRpGDWixw0wQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "GT Road, near Kanpur University, Plot No 117, Barsaitpur Road, Kanpur",
+      "lat": 26.4965323,
+      "lng": 80.2679751,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJa-tnSpg3nDkReiAE-I5zzxk",
+      "name": "IndianOil",
+      "address": "Lock No 13003, No C/5 & C/6, near Azad Nagar, 11031, GT రోడ్డు, Kalyanpur, Kanpur",
+      "lat": 26.4999988,
+      "lng": 80.25694539999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjwa-_4JHnDkRpJ5E0E-SRaY",
+      "name": "Bharat Petroleum Corp Ltd.",
+      "address": "F859+7F6, Darshan Purwa, Kanpur",
+      "lat": 26.4581589,
+      "lng": 80.31862919999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJp9LvOHk4nDkRqjbzj-l15Bs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Gumti No.5, Kanpur",
+      "lat": 26.471101,
+      "lng": 80.314701,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXx9pLHk4nDkRYJWfcEnUaKI",
+      "name": "Central Up Gas Limited CNG Station",
+      "address": "111A, 10, GT రోడ్డు, Gumti No.5, Ashok Nagar, Harsh Nagar, Kanpur",
+      "lat": 26.4705607,
+      "lng": 80.3155529,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJD_Ken0Q5nDkRLkOPE364DkM",
+      "name": "IndianOil",
+      "address": "Lock No 21067, 22012, Opposite Hallet Hospital, Swaroop Nagar, Kanpur",
+      "lat": 26.479284,
+      "lng": 80.313377,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPYIa9IY4nDkRF3Wd2-XCTuI",
+      "name": "Indian Oil Petrol Pump",
+      "address": "Mall Road, Sant Lal Ka Bagicha, Benajhabar, Harsh Nagar, Kanpur",
+      "lat": 26.4763776,
+      "lng": 80.3252036,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJSHdaIk4nDkRk_Am1zpG7m4",
+      "name": "Bharat Petroleum Petrol Pump , D.R.AUTO",
+      "address": "Allenganj",
+      "lat": 26.4846123,
+      "lng": 80.32521779999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4WG7TrBJnDkRxfVU5yTNfdw",
+      "name": "Malik Lubricants",
+      "address": "F728+RMP, Vivekanand Nagar, Saraimita, Kanpur",
+      "lat": 26.4520906,
+      "lng": 80.26670469999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ68frf_9JnDkRNGrz5G6_wWs",
+      "name": "Bharat fuels (HP PETROL PUMP)",
+      "address": "near bhatia tiraha, E - 22, Panki, Kanpur",
+      "lat": 26.45254,
+      "lng": 80.2711109,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJI4Fc9WhjsDsRMTwFNLdDp3w",
+      "name": "IndianOil",
+      "address": "931/14, Kalpi Road, Block B, Panki, Kanpur",
+      "lat": 26.4601169,
+      "lng": 80.2609538,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ18YTh8pJnDkRuxHfFpCgkuQ",
+      "name": "Bharat Petroleum, Petrol Pump -Hiralal Enterprises",
+      "address": "Kalpi Road, B Block, Panki, Kanpur",
+      "lat": 26.4602323,
+      "lng": 80.2592519,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ37pH_x5InDkRL6h7_fbcsp8",
+      "name": "IndianOil",
+      "address": "Lock No 12053, 22018 Terminal, Kalpi Road, Shahpur, Panki, Kanpur",
+      "lat": 26.46007,
+      "lng": 80.2575301,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdz9jamZJnDkR4VSy-mz3VIM",
+      "name": "Rajawat Filling Station",
+      "address": "Main Road, Main Road, Kanpur",
+      "lat": 26.4504688,
+      "lng": 80.2746102,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJX4HP7S5InDkRQODNLQocQCs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near Panki Thermal Power Station, Plot No 16, Panki, Kanpur",
+      "lat": 26.4598079,
+      "lng": 80.25154289999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXfxChgdInDkRhzaGjE6sxN4",
+      "name": "IndianOil",
+      "address": "Lk No 21048/22030/21001 Dadan Nagar, No 51A/1 & 2, Azad Nagar, Kanpur",
+      "lat": 26.45516,
+      "lng": 80.276688,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhxXmmt5JnDkRx6eTJT9JRUc",
+      "name": "IndianOil",
+      "address": "near Panki, No 17A, Lk No 12030/22021, Block B Industrial Area, Ispat Nagar, near Panki, Bypass, Swaraj Nagar",
+      "lat": 26.449516,
+      "lng": 80.245651,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFfwirS1JnDkREFRM2TpXtbE",
+      "name": "BPC Petrol Pump - Hindustan Dock yard",
+      "address": "F-23 BAJRANGBALI INDUSTRIAL AREA, Panki, Kanpur",
+      "lat": 26.4551344,
+      "lng": 80.24559839999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXbD8AidInDkRraGYCHUaJWU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Block E, Plot No 22, Kalpi Road, Panki, Kanpur",
+      "lat": 26.459891,
+      "lng": 80.24662599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJW6G5FwA3nDkRWG7CG6_uhbE",
+      "name": "CNG",
+      "address": "F772+P42, Shahpur, Panki, Kanpur",
+      "lat": 26.4642575,
+      "lng": 80.2502535,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJo3cp3C9InDkR1Jorbeqo3hs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Gas Plant, Bhausingh, Panki, Kanpur",
+      "lat": 26.4510067,
+      "lng": 80.241813,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmfFwvwdJnDkR5jdErUeoXQI",
+      "name": "IndianOil",
+      "address": "Ground Floor, Saraimita, Kanpur",
+      "lat": 26.45405,
+      "lng": 80.236931,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJU3IdcmFHnDkRe3a4RXVVf4I",
+      "name": "IndianOil",
+      "address": "Phase 3, Plot No 38, Kalpi Road, Sail Tiraha, New Transport Nagar, Kanpur",
+      "lat": 26.45855269999999,
+      "lng": 80.2328658,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLZ7aUABJnDkRdSbYPGdqcHc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Plot No A/48, Transport Nagar, Phase 3, Panki, Kanpur",
+      "lat": 26.4569437,
+      "lng": 80.2321967,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjQ2JAAJJnDkR9q4LdDJ5SN0",
+      "name": "Bharat Petrol Pump",
+      "address": "119, Ashok Nagar, Harsh Nagar",
+      "lat": 26.458572,
+      "lng": 80.2320927,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJacDYLWVJnDkRyoBfhtJe8nY",
+      "name": "SINGH FUELS",
+      "address": "F65J+GPW, Panki, Kanpur",
+      "lat": 26.4588708,
+      "lng": 80.23183139999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAQAAkO1HnDkRoH8Dzpr8w10",
+      "name": "Malik Petroleum Plt",
+      "address": "F73W+93M, Dada Nagar, Govind Nagar, Kanpur",
+      "lat": 26.4534561,
+      "lng": 80.29518639999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJdYOueOxHnDkRFFOfREDWRk4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Plot No 5A, Govind Nagar, Kanpur",
+      "lat": 26.448601,
+      "lng": 80.295901,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnX0TqG9HnDkRB5NecxExkJg",
+      "name": "Amar Bharat Petroleum",
+      "address": "Saina Purwa, Afim Kothi, Bus Station From Afim Kothi, Towards, GT రోడ్డు, Chauraha, Kanpur",
+      "lat": 26.4710651,
+      "lng": 80.3422427,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-R1hyJs4nDkRqZcBv9yn3mM",
+      "name": "Petrol Pump",
+      "address": "Ratan Esquire, 101-102, Mall Road, Chunni Ganj, Permat, Kanpur",
+      "lat": 26.4772089,
+      "lng": 80.3370723,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFeMyZFFHnDkR1_9b9VdeeVg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 126 MG Road, Mall Road, Kanpur",
+      "lat": 26.4625959,
+      "lng": 80.35982419999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_4VcnpY4nDkR5sX5_5OpHow",
+      "name": "Paragon Motors BPCL",
+      "address": "VIP Road, Near Permat Mandir, Permat, Kanpur",
+      "lat": 26.4862088,
+      "lng": 80.3397023,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJTzHxmc_nDkR4uxP9kzP4b0",
+      "name": "Hind Service Station - Bharat Petroleum",
+      "address": "F9MQ+8XM, Rajdani Marg, Unnao, Shuklaganj, Kanpur",
+      "lat": 26.4833487,
+      "lng": 80.38993409999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRwTwPgBHnDkRu4X8bVcO4O4",
+      "name": "Hightech energy fuel station patrol pump",
+      "address": "highway, NH 27, katheri, kanpur - jhansi",
+      "lat": 26.449923,
+      "lng": 80.3318736,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJm8bFbABHnDkRgd74hTThH4Y",
+      "name": "Cng station",
+      "address": "C8XJ+XP9, Kanpur",
+      "lat": 26.449923,
+      "lng": 80.3318736,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJlfUTFAdHnDkRgd-ZMaQrKTY",
+      "name": "IndianOil",
+      "address": "Lock No 22031, No 133/202, 11033, Kidwai Nagar, Kanpur",
+      "lat": 26.4462129,
+      "lng": 80.3318729,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6cea7pdHnDkRzjFZVwufcZ4",
+      "name": "Bharat Petroleum, Petrol Pump -Vishnu Service Station",
+      "address": "Transport Nagar, RITOOPUR,T, Kanpur",
+      "lat": 26.4430966,
+      "lng": 80.336151,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJS6mqr7VHnDkR3L0ev16ro9g",
+      "name": "IndianOil",
+      "address": "857, Transport Nagar, Cooperganj, Kanpur",
+      "lat": 26.444556,
+      "lng": 80.33953,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0XLc5xRHnDkRbsMzOuT5z44",
+      "name": "IndianOil",
+      "address": "House No, 3, Dhakna Purwa, Transport Nagar, Cooperganj, Kanpur",
+      "lat": 26.444012,
+      "lng": 80.33998900000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQVlcYKVHnDkRDiQJpO4E6nE",
+      "name": "PD Wig Services",
+      "address": "16 A, Kidwai Nagar Bypass Road, Transport Nagar, Kanpur",
+      "lat": 26.4403689,
+      "lng": 80.337345,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpzHZ9k5HnDkRH2EyFdJKX8Q",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 116, GT రోడ్డు, Kanpur",
+      "lat": 26.447871,
+      "lng": 80.344792,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDZ8WyUNHnDkRFZHPk306TQ8",
+      "name": "HP PETROL PUMP - BHATIA AUTOMOBILES",
+      "address": "HP Dealers, 116, G T Road, Kanpur",
+      "lat": 26.44786969999999,
+      "lng": 80.3448078,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHb1jUApHnDkRk1Acy4ConSg",
+      "name": "Gupta Saluja Co",
+      "address": "Lal Palace, Jawahar Road, Juhi Kalan, Kidwai Nagar, Kanpur",
+      "lat": 26.4409436,
+      "lng": 80.3234572,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ_yVSiApHnDkRr4IExb4Iq3U",
+      "name": "IndianOil",
+      "address": "Lock No 12055, Rakhi Mandi, 127/435, Near Bara Devi, Vinoba Nagar, Juhi, Kanpur",
+      "lat": 26.441456,
+      "lng": 80.3227836,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbZAgbX1HnDkR5PAfmkwQXls",
+      "name": "Bharat Petroleum, Petrol Pump -Auto Fill",
+      "address": "O-BLOCK,SABJI, KIDWAI NAGAR, KANPUR NAGAR",
+      "lat": 26.438103,
+      "lng": 80.32708939999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5czHo3xHnDkRH7cqgXTiuB4",
+      "name": "HPCL: United Auto Workshop",
+      "address": "84/80, Grand Trunk Road, Moti Vihar Society, Gandhi Nagar, Kanpur",
+      "lat": 26.462932,
+      "lng": 80.33127999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoSvr4j9HnDkRE9aPgImZ9Sg",
+      "name": "Bharat Petroleum, Petrol Pump -Ram Lal & Sons",
+      "address": "DEPUTY KA PADAO, Kanpur",
+      "lat": 26.4621286,
+      "lng": 80.33756500000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJA1-jgEBHnDkR8X_RzAgLdzU",
+      "name": "IndianOil",
+      "address": "Lock, 21049, GT Road, Rail Bazar, Mirpur, Kanpur",
+      "lat": 26.4463219,
+      "lng": 80.34646599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNaptnwlHnDkRSdncCi5AIvU",
+      "name": "Hayat C.N.G Electric Parts And Repairing",
+      "address": "127/219 Hamirpur Road Near Bara Devi Chauraha, Juhi Kalan, Juhi, Kanpur",
+      "lat": 26.4374712,
+      "lng": 80.32389239999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZV8j4htHnDkRNMJggkLdi1U",
+      "name": "IndianOil Petrol Pump",
+      "address": "375, GP Road, Heera Ganj, Gandhi Nagar, Kanpur",
+      "lat": 26.4637779,
+      "lng": 80.3238401,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP84bZ9tHnDkRxci5drSVKdA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "H No 128, 32 & 128/33, F Block, Kidwai Nagar, Kanpur",
+      "lat": 26.434561,
+      "lng": 80.328124,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcXCHmhlHnDkRQuCQJNj138Y",
+      "name": "Bharat Petroleum Petrol Pump , SHYAM AUTO FUELS",
+      "address": "PLOT NO. 48, 49, BLOCK - KSCHEME-1, Govind Nagar",
+      "lat": 26.447451,
+      "lng": 80.313377,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJc3oZyP9HnDkRKZmGiBrSTMg",
+      "name": "Cyber",
+      "address": "near Jhande Wali Gali, 206, Inspector Road, Chaman Ganj, Chouraha, Colonelganj, Kanpur",
+      "lat": 26.4673379,
+      "lng": 80.3323415,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ4SrFLlw_nDkRBo9OHa7cSao",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Lucknow Road, Shuklaganj, Unnao",
+      "lat": 26.4783576,
+      "lng": 80.3849142,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpwK64FFBnDkRQDsgxOwzaA0",
+      "name": "Reliance Petroleum",
+      "address": "VILLAGE UPARDAHAN,TEHSIL HANDIA,ALLAHABAD NH-27,POST_OFFICE : HANDIA, Handia",
+      "lat": 26.4538457,
+      "lng": 80.43905939999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ68rJYRZAnDkR8GEgWU1i5cU",
+      "name": "Nayara Petrol Pump/ Sri Doodha Mata Oil Filling Centre",
+      "address": "Dakary, Unnao NH-25, Kanpur Road, Unnao",
+      "lat": 26.4551,
+      "lng": 80.43939999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJ5EcDRBAnDkRg9wr4aAGLRQ",
+      "name": "IndianOil",
+      "address": "Lock No 13028/22021, Nunsai, Orai",
+      "lat": 26.463043,
+      "lng": 80.44327500000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZf7dEQBBnDkRZcvFFIHheS0",
+      "name": "N Kanodia & Son's",
+      "address": "FC7V+97Q, Charlestown Institutional Area, Kader Patari",
+      "lat": 26.4634564,
+      "lng": 80.4432337,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJB7B5TKlBnDkRVxjUebudrNM",
+      "name": "Express Roadways Petrol,Pump Kanpur",
+      "address": "FC7V+6MH, National Highway 27, Charlestown Institutional Area, Sathara",
+      "lat": 26.4630513,
+      "lng": 80.4442454,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJjeE6UlFHnDkRlpYRkBeomCE",
+      "name": "Bharat Petroleum, Petrol Pump -Pratap Singh & Sons",
+      "address": "Phool Bagh, Civil Lines, Kanpur",
+      "lat": 26.4640646,
+      "lng": 80.3596282,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJi_5lMYFBnDkRhG3D150__pw",
+      "name": "IndianOil",
+      "address": "Lock No Ig 3731, Attanbanthara,Nunsai, 3710/12004/22007, Orai",
+      "lat": 26.463454,
+      "lng": 80.444457,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3flapbtBnDkRo-f0Nuieniw",
+      "name": "KANODIA AUTO CENTER INDIAN OIL PETROL PUMP",
+      "address": "National Highway 27, Charlestown Institutional Area, Sathara",
+      "lat": 26.4632502,
+      "lng": 80.44467209999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJi735PgFHnDkRucEaHCsRydk",
+      "name": "Bharat Petroleum, Petrol Pump -Anil Car Fill",
+      "address": "MG ROAD, Kanpur",
+      "lat": 26.4695141,
+      "lng": 80.35925929999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnVr0Qv8_nDkRv2x8xyq0yaI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gata No 243MI, Sikandarpur, Saraiya",
+      "lat": 26.4966574,
+      "lng": 80.3975808,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmZh-IwA5nDkRaoM8liZdue0",
+      "name": "G.S. Energy Station",
+      "address": "16/19A, Civil Lines, Kanpur",
+      "lat": 26.4760733,
+      "lng": 80.3579317,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJcfRku1Q5nDkRJqc01a_Yl48",
+      "name": "Bharat Petroleum, Petrol Pump -Prakash Automobiles",
+      "address": "Westcott Building, Mall Road, Kursawan, Civil Lines, Kanpur",
+      "lat": 26.47177109999999,
+      "lng": 80.35452029999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIa4KQ9E5nDkRdcV1REIe0YM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near Zsquare, Ground Floor Mall Road, near Zsquare, Mall, Kanpur",
+      "lat": 26.472501,
+      "lng": 80.353701,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg7EpyKc4nDkRCBxnNlJ_C6w",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 37, near The Mall, 15 A, Mall Road, Kanpur",
+      "lat": 26.472201,
+      "lng": 80.353501,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJX4ug-oQ5nDkR7kV_5XwtIVw",
+      "name": "Garv Arts",
+      "address": "5774, Kanpur",
+      "lat": 26.4743864,
+      "lng": 80.3525854,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ_SCGDQBBnDkR_IMdU2lPdEo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Khasra No 142, 143 144 & 193, Lucknow Highway, Kanpur",
+      "lat": 26.476377,
+      "lng": 80.4505286,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2fzjwD85nDkRrwcCmBXCqYw",
+      "name": "Amar shaheed kunwarpal singh gas agency",
+      "address": "F9J3+5FQ, Police Lines, Civil Lines, Kanpur",
+      "lat": 26.4804648,
+      "lng": 80.3537444,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ35m-SFQ5nDkR5V9WzPGqJQ8",
+      "name": "Bharat Petroleum, Petrol Pump -Paragoan Motors",
+      "address": "VIP Road, Civil Lines, Kanpur",
+      "lat": 26.4745292,
+      "lng": 80.34402539999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBzGk_qE4nDkRrVbIp9fXouI",
+      "name": "Indian Oil",
+      "address": "India",
+      "lat": 26.4746874,
+      "lng": 80.34388249999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJeRUEpP0_nDkRQJQa81GcrGU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Gahira, Shekhpur Nari",
+      "lat": 26.4851227,
+      "lng": 80.45303609999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVVclazprnDkRt_919WFXxDM",
+      "name": "IndianOil",
+      "address": "Gata No 2021 Mi Sikandarpur, Azad Gate, Rd, Achalganj",
+      "lat": 26.47173099999999,
+      "lng": 80.463729,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlcygjh43nDkRL06PidOKim0",
+      "name": "Petrol Pump",
+      "address": "Kalyanpur, Naramau",
+      "lat": 26.5270997,
+      "lng": 80.2353339,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-Y9uf982nDkRkhJIMQOq088",
+      "name": "IndianOil",
+      "address": "Plot No 163 & 164 Naramau Horakachar, GT Road, Kalyanpur, Kanpur",
+      "lat": 26.53455899999999,
+      "lng": 80.2319192,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdyFvJfg3nDkRHZjuPrXXoiQ",
+      "name": "ShriKrishan CNG Pump Mainawati - CUGL",
+      "address": "A no-215, Mainawati Marg, Sambharpur",
+      "lat": 26.5239957,
+      "lng": 80.276526,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWTbKKmI3nDkRhKgUUQTd2QM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gata No 252, Mainawati Marg, Sambharpur",
+      "lat": 26.5281915,
+      "lng": 80.27424549999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoeCwzWE3nDkRKD-HVQTXRB8",
+      "name": "Bharat Petroleum, Petrol and Disel, Shivay filling station",
+      "address": "BLOCK MIG SCHEEM, PLOT NO 05, VISHAYAKPUR BANGAR, HARI, Krishna Nagar, Kanpur",
+      "lat": 26.5084265,
+      "lng": 80.27328779999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJK40tD0M3nDkR2ranHopDC54",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gata No 694, Kanpur",
+      "lat": 26.537541,
+      "lng": 80.26297799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOYwR9LU5nDkRAg1gWsYRHhY",
+      "name": "CUGL CNG Station",
+      "address": "Makri Kheora, Khyora, Kanpur",
+      "lat": 26.5059233,
+      "lng": 80.2786106,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJyTTUHfY3nDkRpyirN5tFyxw",
+      "name": "NAYARA Petrol Pump",
+      "address": "Petrol Pump, near Nayra, Road, Awas Vikas, Kanpur",
+      "lat": 26.4996618,
+      "lng": 80.25736409999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJX8Tzg7s5nDkRiGnUv5YW7oI",
+      "name": "Bharat Petroleum - Shivay Filling Station",
+      "address": "Makri Kheora Road, Makri Kheora, Khyora, Kanpur",
+      "lat": 26.5056651,
+      "lng": 80.2794026,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJzZv2JwA3nDkRwkz1UcUV-KI",
+      "name": "Down Town Energy Station",
+      "address": "1, GT Road, Lakhanpur, Khyora, Kanpur",
+      "lat": 26.4984863,
+      "lng": 80.2617831,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJyf5tVQA3nDkR82PHZ_Sf5sE",
+      "name": "Bharat petroleum",
+      "address": "G726+6X, Kanpur",
+      "lat": 26.4982674,
+      "lng": 80.26143569999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJA7k-pjw3nDkRuoGRVXrU9po",
+      "name": "IndianOil",
+      "address": "Ground Floor, Near IIT, Kalyanpur",
+      "lat": 26.510956,
+      "lng": 80.23932599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgSzAUaQ3nDkRAAAA0IlJXgU",
+      "name": "Sb Shop",
+      "address": "Shop No. 10, Kalyanpur, Kanpur",
+      "lat": 26.501152,
+      "lng": 80.2465088,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJs7yWmns5nDkRj5yzyLVt33c",
+      "name": "Bharat Petroleum Petrol Pump , S.G. FUEL STATION",
+      "address": "Mainawati Marg",
+      "lat": 26.51005,
+      "lng": 80.2864,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfSx-nlw5nDkRym-_moInVAs",
+      "name": "M/S Vaishno Filling Station",
+      "address": "M/S Vaishno Filling Station, Kaitha Chauraha Sh-46, Ghatampur",
+      "lat": 26.50135169999999,
+      "lng": 80.2801929,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJmedinRgxnDkRWhE-1eRUmAI",
+      "name": "Bharat Petroleum, Petrol Pump -Kulwant Motors",
+      "address": "NARAMAU, NH-34(OLD NH-91), KANPUR NAGAR",
+      "lat": 26.5271458,
+      "lng": 80.2353353,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4cIktE03nDkR8dRSdTfLPQs",
+      "name": "IndianOil",
+      "address": "Ground Floor, near IIT Enginerring College, Naramau",
+      "lat": 26.5274548,
+      "lng": 80.2349717,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJf2cp6Lw3nDkRFJ_Cxr8kCkI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground floor, Panki - Kalyanpur Road, Awas Vikas, Kalyanpur, Kanpur",
+      "lat": 26.496401,
+      "lng": 80.250801,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJR5Oogm83nDkR7N1ldwyFTWA",
+      "name": "IndianOil",
+      "address": "Khurd, Panki - Kalyanpur Road, Kanpur",
+      "lat": 26.493594,
+      "lng": 80.2482792,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFw0YVeo3nDkR3M0pUWRF10Q",
+      "name": "NYARA PETROL PUMP",
+      "address": "99A, New Shivli Road, Kalyanpur, Kanpur",
+      "lat": 26.4939481,
+      "lng": 80.2470103,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJc66NGR83nDkRvyB13K-brRs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gata No 1675MI, Bara Sirohi, Kanpur",
+      "lat": 26.4984025,
+      "lng": 80.2398317,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZdwvTCE4nDkRWzZH3O7qRtU",
+      "name": "Indian Oil - Bhadoriya Oil Company",
+      "address": "Metro Hospital, near GT Road, near Gurudev Palace, 831-33, Housing Society, Awadpur Tur, Lakhanpur, Khyora",
+      "lat": 26.4938042,
+      "lng": 80.2813761,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEXIiCeM5nDkRnMHEA2fBqiw",
+      "name": "Bharat Petroleum Petrol Pump , VR FILLING STATION",
+      "address": "ARAZI NO 85, VILLAGE, 301, GT రోడ్డు, Lakhanpur, Lakhanpur Housing Society, Khyora, Kanpur",
+      "lat": 26.4928511,
+      "lng": 80.2809504,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm0X4NAE3nDkRLhv_gpxtldg",
+      "name": "Bharat Petroleum Petrol Pump – Maa Petroleum",
+      "address": "729, Barrage Road, Baikunthpur, Kanpur",
+      "lat": 26.55200869999999,
+      "lng": 80.2527812,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqTCsMwk3nDkRyzDakSDVV3E",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gat No 360, Bithoor Road, Singhpur, Kanpur",
+      "lat": 26.5539163,
+      "lng": 80.26146770000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS8xSu4g3nDkRhQ6r_CSR85k",
+      "name": "Sainik filling station",
+      "address": "F7P4+CJH, Awas Vikas Ambedkar Puram, Kalyanpur, Kanpur",
+      "lat": 26.48606,
+      "lng": 80.2566166,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNecYAAA3nDkR_sWRerEWhCg",
+      "name": "SRN Petroliam",
+      "address": "H736+QVR, Gambhirpur Kachhar",
+      "lat": 26.5541157,
+      "lng": 80.2619287,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB0NPbWI3nDkRjYFHqd9o_84",
+      "name": "IndianOil",
+      "address": "near Yash Kothari Hospital, Ganga Bairaj to Mandhana Tiraha, near Yash Kothari Hospital, Gambhirpur Kachhar",
+      "lat": 26.55338859999999,
+      "lng": 80.25036279999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-y2pmrg3nDkR3zfNQe1kLiQ",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 26.486631,
+      "lng": 80.2467989,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJX3NDgpE3nDkRvXX2SZjxdVk",
+      "name": "AP Petrol Pump",
+      "address": "LPR-13, Vijay Nagar - Kalyanpur Road, Nr Brahmdev Chauraha, Keshavpuram, Kanpur",
+      "lat": 26.4840236,
+      "lng": 80.2694007,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs7NZpPM3nDkRjqQ0sIs0RKg",
+      "name": "IndianOil",
+      "address": "Mohanpur Sadar Panki, Keshavpuram, Kanpur",
+      "lat": 26.48362,
+      "lng": 80.27008099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJE6fOqY45nDkRJSBpBiabjxk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gata No 660/MI, Plot No 71 & 72, Mainawati Marg, Bangar, Khyora, Kanpur",
+      "lat": 26.506165,
+      "lng": 80.3003817,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBdwr6Lw3nDkR0mpdLTvBniY",
+      "name": "Kalyanpur Petrol Pump",
+      "address": "Plot No: 243, Panki Road, Kalyanpur, Kanpur",
+      "lat": 26.4851895,
+      "lng": 80.2473325,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZxplfGc3nDkRrVffjWXiIfE",
+      "name": "Hindustan Petroleum Pump",
+      "address": "872, Mohisinpur, Panki - Kalyanpur Road, Awas Vikas 3, Kanpur",
+      "lat": 26.4843861,
+      "lng": 80.2487094,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJd677NMc3nDkR21GlMUVUzGc",
+      "name": "Avas Vikas HP Petrol Pump",
+      "address": "Panki - Kalyanpur Road, Awas Vikas Ambedkar Puram, Avas Vikas lll, Kalyanpur, Kanpur",
+      "lat": 26.4843666,
+      "lng": 80.2487289,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0_WpOUU3nDkRk9vI_X67PR8",
+      "name": "QUALITY FUELS",
+      "address": "QUALITY FUEL, Kanpur",
+      "lat": 26.4815867,
+      "lng": 80.2638352,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqxmS28o3nDkRtNlOT3Bd0Ig",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Plot No ML/N/23 & ML/N/24 Kanpur Sadar, Keshavpuram, Kalyanpur, Kanpur",
+      "lat": 26.4814356,
+      "lng": 80.2741297,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3e1ZUAA3nDkRCU6bgCnJmUQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Aligarh - Kanpur Road, Bagdodhi Kachhar, Kannauj",
+      "lat": 26.545338,
+      "lng": 80.226509,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJp47GGwA3nDkRNu9Xh6-bjQw",
+      "name": "NAYARA PETEOL PUMP (PRAKASH MOTORS)",
+      "address": "F7JG+CJP, Keshavpuram, Kalyanpur, Kanpur",
+      "lat": 26.4810776,
+      "lng": 80.27658459999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH6Tj9B04nDkRFolRFm-3d0M",
+      "name": "IndianOil",
+      "address": "N4, Yojana, Plot No Ml/N32 & Ml, Kalyanpur - Vijay Nagar Road, Keshavpuram, Rawatpur, Kanpur",
+      "lat": 26.4807664,
+      "lng": 80.2773509,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJc3L-eAA3nDkREdkP3SVPRzM",
+      "name": "Billaur(Kanpur Nagar)",
+      "address": "1490, Awas Vikas Colony, Kalyanpur, Kanpur",
+      "lat": 26.480165,
+      "lng": 80.24807,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJKxr0UQA3nDkR5xGezRXnMjA",
+      "name": "नीलकंठेश्वर मंदिर",
+      "address": "G6C7+6F3, Lodhar",
+      "lat": 26.52050569999999,
+      "lng": 80.2136567,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJRdIRKgA3nDkRL8r0LpeTKKM",
+      "name": "Shri Radhe Krishna Auto centre",
+      "address": "ELDECO Green City, Kalyanpur Shiwali Marg, Naurangabad",
+      "lat": 26.5033823,
+      "lng": 80.2165863,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJm6NjJFk2nDkRbLuX4H7HcSs",
+      "name": "Bharat Petroleum",
+      "address": "G638+FHR, Kalyanpur Shiwali Marg, ELDECO Green City, Naurangabad",
+      "lat": 26.5037398,
+      "lng": 80.21638920000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJK_IBdQA3nDkR1n7qlLWx-7E",
+      "name": "Shri om petroleum",
+      "address": "438, New Shivli Road, Kalyanpur, Kanpur",
+      "lat": 26.5037884,
+      "lng": 80.2163154,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ61bpFwA3nDkRwVrIUrd2W-4",
+      "name": "BHARAT PETROLEUM -SHRI BABA BRMHDEO FUEL STATION",
+      "address": "Lodhar",
+      "lat": 26.5185089,
+      "lng": 80.2120674,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjQn-cL45nDkRZnom9anSzLg",
+      "name": "IndianOil",
+      "address": "Gata No 700, 2, Ganga Bairage Road, Sanni",
+      "lat": 26.5305971,
+      "lng": 80.33489949999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkfFAlvg5nDkR9f6G-DrsUns",
+      "name": "IndianOil",
+      "address": "61, MILZIMLA JYORA, Nawabganj, Kanpur",
+      "lat": 26.5018942,
+      "lng": 80.31317240000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJW58YLlw5nDkRk-MLRUFLS2A",
+      "name": "RICHHAPAL Enterprises",
+      "address": "Kanpur",
+      "lat": 26.501896,
+      "lng": 80.3102111,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJJ0LIFuE5nDkRM6xeDQrW07o",
+      "name": "H.P Petrol Pump",
+      "address": "Nawabganj, Kanpur",
+      "lat": 26.501938,
+      "lng": 80.3101655,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJb_9w_FQ5nDkRNJY2ZxZqUok",
+      "name": "Bharat Petrol Pump",
+      "address": "Relwe, Rod, Nawabganj, Kanpur",
+      "lat": 26.5019379,
+      "lng": 80.3101654,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ00XUIQA5nDkRuCTVoiiU7nM",
+      "name": "Battery station",
+      "address": "F8W6+MC8, Vishnu Puri, Kanpur",
+      "lat": 26.4966621,
+      "lng": 80.3110657,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJKRWnkKY5nDkRl_01TCr3AqQ",
+      "name": "Bharat Petroleum, Petrol Pump -Rajiv Motors Tilak Nagar",
+      "address": "Tilak Nagar, Kanpur",
+      "lat": 26.49093629999999,
+      "lng": 80.31833519999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfYi31T05nDkRzxIBwOUIpfs",
+      "name": "IndianOil",
+      "address": "Ground Floor, Parbati, Parwati Bagla Road, Tilak Nagar, Kanpur",
+      "lat": 26.4909174,
+      "lng": 80.3183313,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJt2Q4HYI5nDkR2eK4JFE1IRQ",
+      "name": "IndianOil",
+      "address": "Ground Floor Sikandarpur, Pipri",
+      "lat": 26.5355988,
+      "lng": 80.3626024,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsapO8F04nDkRHsC2gopWgm4",
+      "name": "Reliance Industries Limited",
+      "address": "near Company Bagh Chauraha, 8, Agricultural College Lane, Chandra Shekhar Azad University of Agriculture and, Nawabganj, Kanpur",
+      "lat": 26.4919202,
+      "lng": 80.3150641,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB1QJL2A4nDkR7anHRIHxeXk",
+      "name": "IndianOil",
+      "address": "7/103A, Swaroop Nagar, Tilak Nagar, Kanpur",
+      "lat": 26.4886084,
+      "lng": 80.3209117,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmbVHZok4nDkRT3-gwWgQ3LM",
+      "name": "PRratap Petrol Pumpi",
+      "address": "10, Ratan ,ffCcfminShanti, 443, James Princep Street, Khalasi Line, Tilak Nagar, Kanpur",
+      "lat": 26.4854884,
+      "lng": 80.326216,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJiUlyzJs4nDkRnVCoiQ8Y_V8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "14/89A, Chunni Ganj, Kanpur",
+      "lat": 26.477301,
+      "lng": 80.336901,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7w91KB0_nDkRyd5YTwkl8yE",
+      "name": "Bharat Petroleum, Petrol Pump -Hind Service Station",
+      "address": "LHS SKLJ,SH-58,UNNAO, Unnao",
+      "lat": 26.5493568,
+      "lng": 80.366879,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJF0bB8pc5nDkRGaggdDEs9rE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 96/6, MG Road, Chunni Ganj, Sadra",
+      "lat": 26.4768962,
+      "lng": 80.3367184,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJv6_hdW84nDkRKPCZflnIHew",
+      "name": "Anand Shubh Dham",
+      "address": "Anand Subh Dham,Plot no.7/213,Swarup Nagar",
+      "lat": 26.4815004,
+      "lng": 80.3091151,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ9SmF09U5nDkRm8DuZiVKSKc",
+      "name": "Ashoka Motors",
+      "address": "Infront of Post-Mortem house, 113/38 Ashoka Motors Petrol pump, Swaroop Nagar, Kanpur",
+      "lat": 26.47929299999999,
+      "lng": 80.3133753,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo1YPSQA7nDkRpYykO5Nse8o",
+      "name": "Sumit",
+      "address": "H87P+MX, Gangauli",
+      "lat": 26.5642267,
+      "lng": 80.3374698,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJBUvc-VE5nDkR4qo3xzM9f2Q",
+      "name": "Uberoi Petrol Pump (BPCL)",
+      "address": "Anand Bazar, Kanpur",
+      "lat": 26.4795606,
+      "lng": 80.30946209999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJyyBwUGw4nDkR98pJv-2nNaI",
+      "name": "Bharat Petroleum, Petrol Pump -Gt Motors",
+      "address": "GT రోడ్డు, Rawat Pur",
+      "lat": 26.4794887,
+      "lng": 80.30939819999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3y7SfQA5nDkRFHAnxAs_d3o",
+      "name": "Shivam Fuels",
+      "address": "F8J2+VMC, Gutaiya, Kanpur",
+      "lat": 26.4821908,
+      "lng": 80.3016366,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaw9bJwA5nDkRoS1RqF7y_YU",
+      "name": "Rawatpur crossing",
+      "address": "F8J2+H26, Rawat Pur, Kanpur",
+      "lat": 26.481417,
+      "lng": 80.30002999999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJPTq7tfA5nDkRPG9Vk_7K6jw",
+      "name": "Bharat Petroleum, Petrol Pump -Premier Automobiles 80 Ft Rd",
+      "address": "80 Feet Road, Kanpur",
+      "lat": 26.4724572,
+      "lng": 80.32178859999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJz0nuOHk4nDkRfggrkD6U2EY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 111A/13A, Ashok Nagar, Kanpur",
+      "lat": 26.470801,
+      "lng": 80.315001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJG5OCLHk4nDkRehHCZnnrqOo",
+      "name": "Bharat Petroleum Petrol Pump",
+      "address": "111A, 10, GT రోడ్డు, Gumti No.5, Ashok Nagar, Harsh Nagar, Kanpur",
+      "lat": 26.4703649,
+      "lng": 80.3157212,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ-0f7J9M_nDkRGcMNOyuMd8E",
+      "name": "Bharat Petroleum",
+      "address": "GCCW+VPC, Akrampur, Unnao",
+      "lat": 26.5221886,
+      "lng": 80.4467645,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJmw-GOmcVnDkRyS_3NpV3YPQ",
+      "name": "Highway Truck Service Station Bharat Petroleum",
+      "address": "Shekhpur Nari, NH-25, Kanpur Road, Unnao",
+      "lat": 26.5023277,
+      "lng": 80.46146039999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJK8P2SZYVnDkRun2UOTL1Y3o",
+      "name": "Nayra Oil Petrol Pump - Tiwari Brother's",
+      "address": "Sharda Nahar, SH-58, Lucknow Road, Unnao, Unnao",
+      "lat": 26.5396534,
+      "lng": 80.4757889,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjTF06A0VnDkRxCQziG1M_jk",
+      "name": "Padam Service Station",
+      "address": "Gadan Khera,By Pass Road, National Highway 27, Unnao",
+      "lat": 26.5148464,
+      "lng": 80.48198819999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs1QNmG0_nDkRMDh6B_9zy9Q",
+      "name": "Bharat Petroleum, Petrol Pump -Chaturbhuj Filling Centre",
+      "address": "AKRAMPUR,UNNAO, Unnao",
+      "lat": 26.53556099999999,
+      "lng": 80.4254572,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJvSqyKNM_nDkRPaDj58wmPk8",
+      "name": "CUGL CNG Filling Station unnao",
+      "address": "Unnao",
+      "lat": 26.5222043,
+      "lng": 80.4468855,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxWbaqBk_nDkRfaj6wTTZkiI",
+      "name": "Sanskar filling station",
+      "address": "HC56+W63, Unnamed Road, Chilaula",
+      "lat": 26.5597544,
+      "lng": 80.4105445,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmdtMpCw-nDkRsemRlAkugNQ",
+      "name": "IndianOil",
+      "address": "Lock No 21001, 11069/11063/13027, Akrampur, Achalganj",
+      "lat": 26.524044,
+      "lng": 80.448854,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXd77A_0_nDkRspN2EBH23Nk",
+      "name": "IndianOil",
+      "address": "Gata No 474 471, Sarosi",
+      "lat": 26.564217,
+      "lng": 80.39592909999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJd5nablgVnDkRC3jIkJmjlG8",
+      "name": "Kumar Filling Station Indian Oil Petrol Pump",
+      "address": "Leather Park, NH-25, Kanpur Road, Unnao",
+      "lat": 26.4904,
+      "lng": 80.4559,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeSdtfCw_nDkRtxld_dN9pWI",
+      "name": "IndianOil",
+      "address": "Lock No 12069, 22061, Bypass Road, Gahira",
+      "lat": 26.4870189,
+      "lng": 80.45414679999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl1x20W8VnDkR5RNTb4Oylok",
+      "name": "Azad petroleum",
+      "address": "216,Singrosi NH-25, Kanpur-Lucknow, National Highway, Unnao",
+      "lat": 26.51218649999999,
+      "lng": 80.4684132,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVxDLYAAVnDkRkJ13Ni6CXRw",
+      "name": "Adhoc tripathi filling center",
+      "address": "near zee school, 216, near zee school, Singrosi, Unnao",
+      "lat": 26.512162,
+      "lng": 80.4684369,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJaXNWLIUVnDkRcq9p4_Flxbw",
+      "name": "Bharat Petrol Pump",
+      "address": "GFP9+276, Kanpur - Lucknow Road, Lok Nagar, Unnao",
+      "lat": 26.5350464,
+      "lng": 80.4681274,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJcTWz2hwVnDkRAGtQtZnN904",
+      "name": "Central Up Gas Limited CNG Station",
+      "address": "National Highway 27, Deeh",
+      "lat": 26.5140378,
+      "lng": 80.4757291,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMQabOfMVnDkR11PwC-P_CK0",
+      "name": "Bharat Petroleum, Petrol Pump -Padam Service Station",
+      "address": "ACHALGANJ,NH-25,UNNAO, Unnao",
+      "lat": 26.5401019,
+      "lng": 80.4725589,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJG4XshaIVnDkRrp5DxaAxy1M",
+      "name": "Bharat Petroleum+CNG",
+      "address": "94, Hiran Nagar, Unnao",
+      "lat": 26.534162,
+      "lng": 80.4777792,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtygGcwIVnDkRrtbRhjN-2s0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Kanpur - Lucknow Road, Gandhinagar, Unnao",
+      "lat": 26.539948,
+      "lng": 80.476303,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ385L_ssVnDkRGbE7Vl-57Vo",
+      "name": "Shyam Savitri Energy Station",
+      "address": "near Unique Resort, Lok Nagar, Unnao",
+      "lat": 26.5507275,
+      "lng": 80.4718486,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGe5RQ70VnDkRmPSXhCCNkAw",
+      "name": "Tripathi Filling Station Indian Oil Petrol Pump",
+      "address": "25, Unnao - Raebareli Road, Ab Nagar, Unnao",
+      "lat": 26.5377785,
+      "lng": 80.4778668,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJOYq3lsg9nDkRlKbEfs_NBJw",
+      "name": "Bharat Petroleum, Petrol Pump -Unnao Distilleries & Breweries Ltd",
+      "address": "58, Unnao - Raebareli Road, Hiran Nagar, Unnao",
+      "lat": 26.5903018,
+      "lng": 80.4027989,
+      "open_now": null
+    }
+  ]
+}

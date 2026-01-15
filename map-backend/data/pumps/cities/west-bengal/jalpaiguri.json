@@ -1,0 +1,483 @@
+{
+  "city": "Jalpaiguri",
+  "state": "West Bengal",
+  "count": 59,
+  "center": {
+    "lat": 26.5167,
+    "lng": 88.7333
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJL13L-OV95DkR3qtU3y0qmFo",
+      "name": "IndianOil",
+      "address": "Garalbari",
+      "lat": 26.4308522,
+      "lng": 88.7013569,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKWoP0ux85DkRZUuzen5n4bc",
+      "name": "IndianOil",
+      "address": "Bahadur",
+      "lat": 26.48370659999999,
+      "lng": 88.65972599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ73JaQdBj5DkR8AkpufhCQYQ",
+      "name": "মুসাফা নার্সারী",
+      "address": "CJ9G+44Q",
+      "lat": 26.4178413,
+      "lng": 88.6253732,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJmcX688F95DkRuSzvmM5CaLg",
+      "name": "IndianOil",
+      "address": "Ground Floor Charakdangi, Bahadur",
+      "lat": 26.494001,
+      "lng": 88.64590009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbVkCpzh95DkRiZS6d5VuDYk",
+      "name": "IndianOil",
+      "address": "Ground Floor, Total Para, Brajapur, Dhapganj",
+      "lat": 26.48174,
+      "lng": 88.70828999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoVvvI8h_5DkRpxFcTbs7iPM",
+      "name": "Sipai Para Petrol Pump",
+      "address": "CP78+J2F, Garalbari",
+      "lat": 26.4140555,
+      "lng": 88.71505259999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ8XqLGYZ_5DkR4elqUvAD_iE",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sipaipara Kharija Beribari, Bara Haldibari P",
+      "lat": 26.4143001,
+      "lng": 88.71560009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRTzEF6R_5DkR3ErktKC6gc8",
+      "name": "Chatterjee Fuel Station",
+      "address": "Haldibari Road, Jalpaiguri",
+      "lat": 26.5004049,
+      "lng": 88.7138774,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIcDUTAB_5DkR6yAb-jSpc78",
+      "name": "MondalGhat petrol pump ⛽",
+      "address": "CQQ3+VQ3, Station Road, Banshkanthia",
+      "lat": 26.4396417,
+      "lng": 88.75442939999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJH97_9veB5DkRw0m552sfd74",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kotwali, Kharija Berubari",
+      "lat": 26.395542,
+      "lng": 88.747581,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB3lRyiKB5DkR5L9byP4rlIc",
+      "name": "Param Shanti K.S.K",
+      "address": "Jalpaiguri",
+      "lat": 26.39493419999999,
+      "lng": 88.7468438,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJqS3ULZt55DkRX6Z85l7SO5Q",
+      "name": "IndianOil",
+      "address": "Kh Lr 11221123&1124, Jl 7, Plot Lr Kharia, Banarhat",
+      "lat": 26.510469,
+      "lng": 88.71815099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJa4fQELd55DkRrhSK7tZwQ2g",
+      "name": "Tulshi and Shukla enterprise petrol pump",
+      "address": "Pandapara Road, Jalpaiguri",
+      "lat": 26.5111769,
+      "lng": 88.71836069999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-T80ZgCB4zkR_mw3sFbUJ8w",
+      "name": "Indian Oil (Rajarhat Petrol Pump)",
+      "address": "FRCC+RV, Penchahahi",
+      "lat": 26.4720211,
+      "lng": 88.82213209999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJw5TMIgCB4zkR0ld9P9cF1p8",
+      "name": "Garib Nawaz kishan seva kendra Rajarhat",
+      "address": "FRFC+HRW, Penchahahi",
+      "lat": 26.4739753,
+      "lng": 88.82208899999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJLR2y3niB4zkR3usqiW3Uz8Q",
+      "name": "IndianOil",
+      "address": "Ground Floor Helapakri, Baikur Gourgram",
+      "lat": 26.440281,
+      "lng": 88.85739099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbfURbVOB4zkRaPwr7Nd86Io",
+      "name": "Tirupati Baba",
+      "address": "Helapakri, NOPE",
+      "lat": 26.4398122,
+      "lng": 88.8574014,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ-7Ao1n2B4zkROt08ikQcGnk",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bhotepatti, Mainaguri,Bakali, Maynaguri",
+      "lat": 26.468001,
+      "lng": 88.8626001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlz2IVmWB4zkRdbnzWL0ClmU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, SH 12A, Bara Kamat, Jalpaiguri",
+      "lat": 26.4972308,
+      "lng": 88.84206499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5b3cUSV75DkRcPyxASjujJI",
+      "name": "IndianOil",
+      "address": "Ground Floor, Patkata, Raninagar, Jalpaiguri",
+      "lat": 26.536181,
+      "lng": 88.64813099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWQlwcPF75DkR-4U29uXNpqc",
+      "name": "IndianOil",
+      "address": "Ground Floor, 73, More, Nayapara",
+      "lat": 26.5162001,
+      "lng": 88.697001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM6KcEUR55DkRVV889-tyQaA",
+      "name": "IndianOil",
+      "address": "Ground Floor, DVC Road, Rt 94Km, Banarhat",
+      "lat": 26.525001,
+      "lng": 88.7244001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJf9EFtJ155DkRUV7gRKRJENg",
+      "name": "Paharpur Bharat Petroleum Petrol Pump",
+      "address": "HP5F+5HG, Paharpur",
+      "lat": 26.5579375,
+      "lng": 88.7239531,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8QkUzGx75DkRTbusk1kptrs",
+      "name": "Nandy Automobiles",
+      "address": "Haldibari More, Jalpaiguri",
+      "lat": 26.5346422,
+      "lng": 88.6623975,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJC-bDsb575DkRJPmtn2bIoDM",
+      "name": "Shivaco Associates LPG Bottling Plant",
+      "address": "GJQX+CX2, Raninagar, Jalpaiguri",
+      "lat": 26.5385117,
+      "lng": 88.64988579999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJq_Cw7TB75DkRZHBE0va5FAM",
+      "name": "IndianOil - SWAGAT",
+      "address": "Industrial Growth Centre, beside Raninagar CocaCola Factory, Raninagar, Belacoba",
+      "lat": 26.5389743,
+      "lng": 88.641806,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB7N8bqd75DkR9lqZrtNzQgo",
+      "name": "IndianOil",
+      "address": "Khatian Lr 1222, JL 7, Plot No Lr 179 Kharia, Kotwali, Debnagar, Jalpaiguri",
+      "lat": 26.5142257,
+      "lng": 88.70063590000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzTZwzZd75DkRTGCkctAEzU0",
+      "name": "Reliance Petroleum",
+      "address": "Ground Floor, Pangabattala, Karjeepara, Kotwali, Raningr, NH, 31D, Jalpaiguri",
+      "lat": 26.5409177,
+      "lng": 88.63103180000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrTMGXRB75DkRQn27TxKnl9c",
+      "name": "Mousumi",
+      "address": "patkata colony, Jalpaiguri",
+      "lat": 26.5214579,
+      "lng": 88.7195567,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJo0dFNUV55DkRoeeFw9OPzCQ",
+      "name": "IndianOil",
+      "address": "Station Road, Nutan Para, Jalpaiguri",
+      "lat": 26.52135969999999,
+      "lng": 88.7205424,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJi_TMGgBj5DkRE8_GfGGBD5E",
+      "name": "BPCL Bani service station",
+      "address": "FJX3+9R, Satkhamar",
+      "lat": 26.498485,
+      "lng": 88.604615,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZW7JyUN55DkRr_UVfiQp_lE",
+      "name": "K.S. & Company (S Kumars) - SCHOOL, COLLEGE AND ALL TYPES OF UNIFORM SHOP",
+      "address": "Backside of LMB, Besides GlassHouse, Dinbazar Road, Jalpaiguri",
+      "lat": 26.52833979999999,
+      "lng": 88.7241667,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7ZbbQ1J55DkRk5FwFTYiJRY",
+      "name": "Bharat Petroleum Petrol Pump",
+      "address": "Thana Road, Jalpaiguri",
+      "lat": 26.5248347,
+      "lng": 88.7260914,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJDyjd1nVl5DkR3kMzrd5AAeg",
+      "name": "Bharat Petroleum, Mohuya Service Station",
+      "address": "National Highway 27, Doshdorga",
+      "lat": 26.5476298,
+      "lng": 88.60643549999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmVFH_xF75DkRpFyCv3H9MR4",
+      "name": "BGPL Gail pipeline sv-14",
+      "address": "HP84+VC, Paharpur",
+      "lat": 26.567153,
+      "lng": 88.706062,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJkaEZ6qVl5DkRuT-Xbd8uVPI",
+      "name": "IndianOil",
+      "address": "Ground Floor, Belacoba",
+      "lat": 26.5506537,
+      "lng": 88.5974248,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo1dDc3975DkR9GKTI8aEsnk",
+      "name": "IndianOil",
+      "address": "Ground Floor Nowapara, Denguajhar, Jalpaiguri",
+      "lat": 26.5780085,
+      "lng": 88.7015491,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ45hR4aF55DkR7_STvhWZuVo",
+      "name": "Bharat Petroleum",
+      "address": "HP6J+34H, Jalpa, Highway, Jalpaiguri",
+      "lat": 26.5601149,
+      "lng": 88.7304303,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWYqp03OH4zkR4PGJGep4JIo",
+      "name": "Bharat Petroleum",
+      "address": "GRW3+X46, State Highway 12A, Madhabdanga",
+      "lat": 26.5474048,
+      "lng": 88.8027762,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJq6qqqiZ75DkRWZJ7Nt7CY-o",
+      "name": "IndianOil",
+      "address": "Patkata, Nh 31D, Raninagar, Jalpaiguri",
+      "lat": 26.5593267,
+      "lng": 88.73061419999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJd05pgg955DkRX8aNvd1Bckg",
+      "name": "IndianOil",
+      "address": "near Teesta Bridge, Ground Floor Approach Road, Paharpur, Banarhat, near Teesta Bridge, Jalpaiguri",
+      "lat": 26.55934899999999,
+      "lng": 88.730616,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-5tHq3Na2jsRYc5yf8I83Wg",
+      "name": "Indian Oil",
+      "address": "Ground Floor, Badaitari, Barnish, Maynaguri",
+      "lat": 26.5415515,
+      "lng": 88.7921956,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJn0FxPwqH4zkRlP60b3aPP88",
+      "name": "Bharat Petroleum Sainath Fuel Station",
+      "address": "HR36+P7X, Uttar Madhabdanga",
+      "lat": 26.5543625,
+      "lng": 88.8107441,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl9w00q2H4zkRNlqZP9Iflbc",
+      "name": "IndianOil",
+      "address": "Ground Floor, Maynaguri",
+      "lat": 26.5630035,
+      "lng": 88.81919429999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8xBL0q2H4zkRjW8BvsE1Raw",
+      "name": "Bharat Petroleum",
+      "address": "HR8C+3QW, Puraton Bazar, Maynaguri",
+      "lat": 26.5652493,
+      "lng": 88.821955,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfVCHbCOH4zkRB5N3NiFM-GM",
+      "name": "Bharat Petroleum, Petrol Pump -Mousumi Serivce Station",
+      "address": "MATHABHANGA, COOCHBEHAR",
+      "lat": 26.548607,
+      "lng": 88.805968,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8xlFLgCH4zkRBOn3GfFXpzM",
+      "name": "Jio-bp Mobility Station (Jio Petrol Pump)",
+      "address": "GRCR+Q8W, Uttar Bhuskadanga",
+      "lat": 26.521442,
+      "lng": 88.8415811,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJg1yGe9mH4zkR8WygiJvPzQE",
+      "name": "IndianOil",
+      "address": "Ground Floor, Madhabdanga- Mainaguri Road, Maynaguri",
+      "lat": 26.548087,
+      "lng": 88.820004,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQ6x0Kr-H4zkR8iy3zTCcjyU",
+      "name": "Bharat Petroleum",
+      "address": "GR7V+32G, Dakshin Bhuskadanga",
+      "lat": 26.5122021,
+      "lng": 88.8425551,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-UPrJwCH4zkRRZUzrbsNgbQ",
+      "name": "MAYNAMATA FUEL STATION HP PUMP",
+      "address": "Uttar Madhabdanga",
+      "lat": 26.5497537,
+      "lng": 88.8206257,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJiV58kF2G4zkRX2M9v6B7LTc",
+      "name": "IndianOil",
+      "address": "Ground Floor, Near BD Office, NH-31, Maynaguri",
+      "lat": 26.564366,
+      "lng": 88.84482009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVxXvWHmG4zkRbPSIxgPBuAI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Jhajhangi, Tekatully, Maynaguri",
+      "lat": 26.562595,
+      "lng": 88.855436,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuR7hZgCH4zkRdBT9a26jECw",
+      "name": "CNG PUMP",
+      "address": "HV73+3XW, Tekatali",
+      "lat": 26.5628519,
+      "lng": 88.8555427,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJPTADqHxw5DkRrTpUz2F6Tcc",
+      "name": "IndianOil",
+      "address": "Ground Floor, Rangdhamali Main Road, Kotwali, Vivekanandapalli",
+      "lat": 26.6130758,
+      "lng": 88.6671755,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx-zQ8oRl5DkRmitTwW5y2Sk",
+      "name": "IndianOil",
+      "address": "Ground Floor, Prasanna Nagar, Belacoba",
+      "lat": 26.5941001,
+      "lng": 88.589001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhxIZjANx5DkR943ovf34600",
+      "name": "Chowdhury Filling Station",
+      "address": "JM53+9PJ, Patkata Colony, Denguajhar, Jalpaiguri",
+      "lat": 26.6084502,
+      "lng": 88.6542556,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3cZquk1v5DkR4B--0RMn9S4",
+      "name": "Chowdhury Filling Station",
+      "address": "Rangdhamali Main Road, Natun Basti, Patkata",
+      "lat": 26.609166,
+      "lng": 88.62590349999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOUp3RgNv5DkR01baWkRYSXw",
+      "name": "IndianOil",
+      "address": "Plot No Lr164164, Jl 8, Kh No Lr335, Rajganj, Gujrimari,Belocoba",
+      "lat": 26.607035,
+      "lng": 88.60228099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUUM8mst35DkRa1gdecV_384",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bagjan, Singimari",
+      "lat": 26.610605,
+      "lng": 88.78556600000002,
+      "open_now": true
+    }
+  ]
+}

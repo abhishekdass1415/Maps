@@ -1,0 +1,707 @@
+{
+  "city": "Ajmer",
+  "state": "Rajasthan",
+  "count": 87,
+  "center": {
+    "lat": 26.4667,
+    "lng": 74.6333
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJN9a5uo7fazkReKGRPO-rQpM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 8, Beawar Road, Saradhana",
+      "lat": 26.3271355,
+      "lng": 74.5605888,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOXslNADhazkRPj6W7prcYXk",
+      "name": "BP AJMER COCO PETROL PUMP",
+      "address": "near transport nagar, Beawer road, daurai, Ajmer",
+      "lat": 26.3856027,
+      "lng": 74.60914009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJO6JiEwDhazkRSFzduY9mqZI",
+      "name": "INDIAN OIL PETROL PUMP ⛽️",
+      "address": "9JM5+9HP, Transport Nagar, Ajmer",
+      "lat": 26.3834748,
+      "lng": 74.6089616,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5YtVqdjfazkRg92eaJi_eMI",
+      "name": "Kargil SHAHEED PETROL PUMP",
+      "address": "9H5V+W4P, Ajmer",
+      "lat": 26.3598405,
+      "lng": 74.5928419,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJg6qYQeffazkRrBkmoBlQYFg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Plot No 3760, Saradhana Road, Ajmer",
+      "lat": 26.351988,
+      "lng": 74.585745,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgwgvb3fhazkRgULMnavo6Bo",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 8, Ajmer Bypass, Tabij, Dorai, Ajmer",
+      "lat": 26.36384619999999,
+      "lng": 74.608843,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbbc3iOngazkR8eSIUqhmpYA",
+      "name": "Nagpal Brothers",
+      "address": "Somalpur, Ajmer",
+      "lat": 26.4010563,
+      "lng": 74.6225442,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8ZF6ktnhazkRHBDxQlkHOjk",
+      "name": "IndianOil",
+      "address": "Daurai, Beawar Road, Somalpur, Ajmer",
+      "lat": 26.401101,
+      "lng": 74.622704,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuZZtMwDfazkRnEgMqzlFyVM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 8, Jaipur - Jodhpur National Highway, Saradhana",
+      "lat": 26.3394001,
+      "lng": 74.57064,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-Vy3BVzgazkRU6NW9Shp_AQ",
+      "name": "IndianOil",
+      "address": "near Ajmer Bottling Plant, Ground Floor NH 8,Amba Masina, near Ajmer Bottling Plant, Ajmer",
+      "lat": 26.37340009999999,
+      "lng": 74.622301,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJO78rTcXhazkRSonS9spprHs",
+      "name": "Awat Kala Filling Station",
+      "address": "opp. Indane Gas Bottling Plant, N.H.8, Tabiji",
+      "lat": 26.3759087,
+      "lng": 74.6250736,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3bJ7rg_hazkR1sLVeT0xhAY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 4993, 1719, Jodhpur - Jaipur Road, Tabij, Jaipur",
+      "lat": 26.375689,
+      "lng": 74.625215,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkc4tKwDfazkR8STaAUpES9U",
+      "name": "Shree VeerTeja Fuels petrol pump",
+      "address": "H. 8, HPCL DEEPO KE PASS N, Ajmer, National Highway, 8",
+      "lat": 26.3292781,
+      "lng": 74.5630123,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJu0_ZvrjfazkRivv7K1xXbBA",
+      "name": "CNG",
+      "address": "KH.No .5409, NH 8, Saradhana",
+      "lat": 26.3272673,
+      "lng": 74.5593142,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJNXAbsD_hazkRhr6OlVYBW_g",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bypass, Amba Masina, Parbatpura, Ajmer",
+      "lat": 26.4092001,
+      "lng": 74.66120099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY3jCkUDhazkR2KPZRGrhGHo",
+      "name": "Khalsa Filling Station- BPCL Retail Outlet",
+      "address": "Jaipur Road, Parbatpura, Ajmer",
+      "lat": 26.411284,
+      "lng": 74.66447,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJi3QAwC3hazkRWXk-yybQHrs",
+      "name": "IndianOil",
+      "address": "Nasirabad Road, Adarsh Nagar, Ajmer",
+      "lat": 26.425601,
+      "lng": 74.64980299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdWAbudPmazkR7ayPHUPmlQE",
+      "name": "Petrol pump",
+      "address": "30/1748, Nasirabad Road, Angira Nagar, Nagra, Ajmer",
+      "lat": 26.4327715,
+      "lng": 74.6476061,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe_sd8arnazkRzQYqQEdO-Rk",
+      "name": "Jio-bp",
+      "address": "Ground Floor, Srinagar Road, Ajmer",
+      "lat": 26.449661,
+      "lng": 74.6471085,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFcjaCSDnazkRtVJVlhkY4Ng",
+      "name": "Ambica Tyre Soles -Air Compressor |Tyre in Ajmer |Service Pump in Ajmer",
+      "address": "Shop No. 4, opp. Hotel Ratan P, R. Marg, Ajmer",
+      "lat": 26.4610759,
+      "lng": 74.6347437,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJbGWDQLnazkReo9m1E_BdA4",
+      "name": "IndianOil",
+      "address": "Ground Floor, Jaipur Road, Bapu Nagar, Ajmer",
+      "lat": 26.4638075,
+      "lng": 74.6331398,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0WWj7RXhazkR4RCxqDAMoqo",
+      "name": "Pratap Diesels Private Limited",
+      "address": "Chowraha, Ajmer Bypass, Parbatpura, Ajmer",
+      "lat": 26.4061546,
+      "lng": 74.6588514,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJAQAAMBbhazkR4Vyd6rPvIGw",
+      "name": "Charnal Petrol Pump",
+      "address": "CM56+QG2, Parbatpura, Ajmer",
+      "lat": 26.4093978,
+      "lng": 74.66127879999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZz4FGNbnazkR2EFsCOTInjU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Plot No 7194, Nasirabad Road, Ajmer",
+      "lat": 26.432816,
+      "lng": 74.64764009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-e3uvtPmazkRT1Ra85kAsFI",
+      "name": "9 No. Petrol Pump",
+      "address": "CJMX+Q5H, NH 79, Bihari Ganj Road, Bhajan Ganj, Ajmer",
+      "lat": 26.434511,
+      "lng": 74.6472538,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlzMnPijnazkRrAFicumDNVc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "1/413, Plot No AMC, Beawar Road, Ajmer",
+      "lat": 26.4378701,
+      "lng": 74.63883009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJi9A8CSjnazkRQDLaL2C7YbE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Bewar Road, Ajmer",
+      "lat": 26.438971,
+      "lng": 74.639118,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOad5kYLnazkRxdjHqxwTCZU",
+      "name": "Bharat Petroleum, Petrol Pump -Lachhmi Narain And Sons",
+      "address": "AJMER CITY, OPP RAILWAY HO, Ajmer",
+      "lat": 26.4395734,
+      "lng": 74.6392915,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH6MPFZTnazkRMkczaCA7A1E",
+      "name": "Gurudev Filing Station",
+      "address": "Jodhpur By Pass Ring Road, Ajmer",
+      "lat": 26.4391523,
+      "lng": 74.645832,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJm7KvIQDnazkRn49ZQeu2gDg",
+      "name": "Charbhuja petroleum",
+      "address": "Khatana Kheda singhawal, Ajmer",
+      "lat": 26.4498954,
+      "lng": 74.6399163,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ020GZjnnazkRTyBSibMaPFE",
+      "name": "Bharat Petroleum, Petrol Pump -Raja Cycle And Motor Garage",
+      "address": "MAYO COLLAGE ROAD, AJMER C, Ajmer",
+      "lat": 26.448655,
+      "lng": 74.65134259999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnTZz4XS9azkRAE79gBN0n3U",
+      "name": "Mahadev Fuel",
+      "address": "Bagaot, Ajmer",
+      "lat": 26.457348,
+      "lng": 74.6459,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ6VBvyLrnazkRpViwnAMoFww",
+      "name": "IndianOil",
+      "address": "Plot No 655/46, Naka Madar Colony, Ajmer",
+      "lat": 26.4523514,
+      "lng": 74.6678162,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxVRpcQDjazkRqzQ_oFaKuxI",
+      "name": "Cng pump",
+      "address": "CP93+3QP, Palra",
+      "lat": 26.4177137,
+      "lng": 74.70444250000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJi4-zeFXnazkRrsRqn3O_eVs",
+      "name": "INDRA KRIPA HAMARA PUMP",
+      "address": "Alniyawas, Ajmer Road, Ajmer",
+      "lat": 26.4640925,
+      "lng": 74.6302121,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJGapDfAPnazkR5v7AK_SrpVk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Jaipur Road, Ajmer",
+      "lat": 26.46427499999999,
+      "lng": 74.63439199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsYvefv3mazkRdHnTyWRFx2c",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Kutchery Road, Ajmer",
+      "lat": 26.46519199999999,
+      "lng": 74.64008700000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAUeH8NHlazkRQUwTolOxWmU",
+      "name": "IGL CNG & LÑG Filling Station",
+      "address": "CMQW+9J, Ajmer",
+      "lat": 26.4384781,
+      "lng": 74.6964489,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsaXOWHPnazkRbcejZ8s3Uew",
+      "name": "IndianOil",
+      "address": "Ground Floor, opposite Patel Maidan, Jaipur Road, Ajmer",
+      "lat": 26.46699899999999,
+      "lng": 74.63950299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJr_Qy_yPnazkRk50bNhGHMM4",
+      "name": "Bharat Petroleum, Petrol Pump -Vakil & Co.",
+      "address": "KUCHERY ROAD, AJMER CITY, Ajmer",
+      "lat": 26.467239,
+      "lng": 74.6409668,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJwU8GXJYaTkR0wKTeSE-Nm8",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 79A, Bijainagar, Lavera",
+      "lat": 26.3849695,
+      "lng": 74.7636151,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJR6jRW8DiazkRh94mAjArSJc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Plot No 4199/4204, Kishangarh Nasirabad Road, Ajmer",
+      "lat": 26.37385799999999,
+      "lng": 74.7596401,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJz8-fUovjazkRNDDXmNc2GNs",
+      "name": "Bharat Petroleum, Petrol Pump -Lavera Highway Filling Station",
+      "address": "LAVERA, ADJACENT TO LPG PL, Ajmer",
+      "lat": 26.3772102,
+      "lng": 74.7622047,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJV_IqRJbjazkRWHC_Q-jh8Vg",
+      "name": "Arihant Filing Station Bharat Petroleum (BPL)",
+      "address": "rhs near BPCL GAS PLANT sringar, NASIRABAD DISTT. AJMER (RAJASTHAN, Delhi - Jaipur Expressway, Kana Kheri",
+      "lat": 26.3953077,
+      "lng": 74.7669994,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuc2FPNnjazkRdOPfeTWOUgE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "691/2877, Plot No 691/2876, kishangarh Nasirabad Rd, Nasirabad",
+      "lat": 26.397902,
+      "lng": 74.767575,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJW4UD8ifjazkR42tOkDsNGOc",
+      "name": "Neha Filling Station-Hindustan Petroleum",
+      "address": "Dilwada, Ajmer, NH-79A, Nasirabad Road, Nasirabad, Nasirabad",
+      "lat": 26.3965,
+      "lng": 74.76769999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJ_CYPi_jazkR1STBpd_2smE",
+      "name": "IndianOil",
+      "address": "Ground Floor Kanakheri, Sri Nagar, Nasirabad",
+      "lat": 26.403023,
+      "lng": 74.770718,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZx2mfwDjazkRGK9koi_end0",
+      "name": "D E F Uriea ⛽ pump",
+      "address": "CQ4C+554, Nasirabad, Shreenagar",
+      "lat": 26.40539519999999,
+      "lng": 74.7704648,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJe8eDqTjjazkR8oUCtZLatiQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Plot No 87, Kishangarh Nasirabad Rd, Nasirabad",
+      "lat": 26.354831,
+      "lng": 74.7558701,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdxGGkQfjazkRrJzWAKon6OY",
+      "name": "Bharat Petroleum, Petrol Pump -Aarihant Filling Station",
+      "address": "KANAKHEDI, Ajmer",
+      "lat": 26.4119346,
+      "lng": 74.7733985,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJo-mtsHVYaTkReTx6jsPY7PY",
+      "name": "IndianOil",
+      "address": "Ground Floor, Nasirabad, Bijainagar",
+      "lat": 26.346,
+      "lng": 74.7528,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJI5QysXVYaTkR1GtFREQOM9c",
+      "name": "dianOil",
+      "address": "India",
+      "lat": 26.3457842,
+      "lng": 74.7530984,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJHQmkR9TcazkRNVPtMHLirnY",
+      "name": "IndianOil",
+      "address": "Ground Floor, Pushkar, Banseli",
+      "lat": 26.5052001,
+      "lng": 74.542401,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJU5v8lJ7nazkRB7GGnaGmN58",
+      "name": "IndianOil",
+      "address": "Commercial Yojana, Pushkar Road, Haribhau Upadhyay Nagar, Ajmer",
+      "lat": 26.475801,
+      "lng": 74.611901,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVwBrfYjdazkRtXvTYbqyJas",
+      "name": "IndianOil",
+      "address": "3408/3240 3410/3241, Pushkar",
+      "lat": 26.4880876,
+      "lng": 74.5665973,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCXWrIwDdazkRauoADHK-tOk",
+      "name": "Om batil cng",
+      "address": "FHQ2+C9P, Pushkar",
+      "lat": 26.4885822,
+      "lng": 74.5509422,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJy5Atq9fcazkROn56a_Z1cME",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bhagwan Pura, Ganahera, Pushkar",
+      "lat": 26.500598,
+      "lng": 74.54348499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtWBzbCrdazkRZZK3DxVeJ_c",
+      "name": "Om Petroleum Fuel",
+      "address": "Pentrol Pump, Motisar Road, Pushkar",
+      "lat": 26.477606,
+      "lng": 74.5098912,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJVVVVlV8cbDkRnPMldAXtPNQ",
+      "name": "IndianOil",
+      "address": "Anna Sagar, Circular Road, Vaishali Nagar, Ajmer",
+      "lat": 26.4908882,
+      "lng": 74.6210823,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM7o1wmTdazkRTdfnnqs1W5w",
+      "name": "Hp Petrol Pump",
+      "address": "Petrol Pump, Kisan Pura, Ajmer",
+      "lat": 26.4972896,
+      "lng": 74.5070136,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS4l3m_DdazkRmcDG_mNx_10",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 2299, Kishanpura Road, Kishanpura, Pushkar",
+      "lat": 26.497651,
+      "lng": 74.50651599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrSIYRa_CazkRAJhE0Zad3Us",
+      "name": "MP GAS",
+      "address": "GHFP+WH4, Pushkar Bypass Road, Kanas",
+      "lat": 26.5247742,
+      "lng": 74.5864625,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ6W64WgDDazkRw9tOG1mDTy4",
+      "name": "Shree Sumer Sagar Petroleum",
+      "address": "GGMR+G2, Tilora",
+      "lat": 26.5326008,
+      "lng": 74.5457457,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJT70Su8_nazkRGOyeP14S6Rg",
+      "name": "SAFARI MAX POWER",
+      "address": "GJ4J+542, Makarwali Road, Ajmer",
+      "lat": 26.5053773,
+      "lng": 74.63025859999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJK1zWdKPnazkR5Nxw2oklcck",
+      "name": "IndianOil",
+      "address": "Block C, Panchsheel Nagar, Ajmer",
+      "lat": 26.5043482,
+      "lng": 74.63161149999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzeBycvjnazkR41UP4za1sWg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Plot No 216 & 217, Jaipur Road, Ajmer",
+      "lat": 26.4894082,
+      "lng": 74.6743982,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhXG4rojnazkRhxTXK8eAHgg",
+      "name": "IndianOil",
+      "address": "Ground Floor, Lohagal",
+      "lat": 26.5080368,
+      "lng": 74.6558211,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy1f3ikXlazkR2w8UvTM3wT0",
+      "name": "BPCL petrol and CNG pump- Rajvansh Filling station and Cng pump",
+      "address": "Grahm ghooghra, Jaipur Road, Ajmer",
+      "lat": 26.5021918,
+      "lng": 74.6902545,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0b-cVADpazkRhmZOf41Yw40",
+      "name": "MAA ANJANI PETROLEUM SERVICE",
+      "address": "GJHM+HW, Makadwali",
+      "lat": 26.5289375,
+      "lng": 74.6348125,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx65zYO3lazkR3lwGOKcqa8I",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 8, Gagwana",
+      "lat": 26.515958,
+      "lng": 74.708748,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo78OHTLlazkRfVyEGkvm-rg",
+      "name": "IndianOil",
+      "address": "Bhudol",
+      "lat": 26.4997024,
+      "lng": 74.74038759999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsztV3wTlazkRCvJLFE-uFUg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 48, Bherukheda, Ajmer",
+      "lat": 26.5162357,
+      "lng": 74.7005544,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBST_c5zlazkRA4EbFtX-PcA",
+      "name": "Patrol Pump Bhudol",
+      "address": "FQR4+976, Bhudol",
+      "lat": 26.4909049,
+      "lng": 74.7556518,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuXX0GjTlazkRzEBOrN9TYiw",
+      "name": "GO GAS AUTO LPG PUMP , Gagwana",
+      "address": "Gagwana puliya ke pass, ajmer, Delhi - Ajmer Expressway",
+      "lat": 26.5270091,
+      "lng": 74.7287917,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs87ye9bDazkR8iYAR3uEA54",
+      "name": "IndianOil",
+      "address": "Ground Floor, Dungaria Khurd, Bhagwan Pura, Pushkar",
+      "lat": 26.553738,
+      "lng": 74.551626,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP5NRcnvDazkRsnTrqu3Clp0",
+      "name": "Sawariya KSK Indian Oil Petrol Pump",
+      "address": "Ajmer - Bassi Road, Kadel",
+      "lat": 26.58429,
+      "lng": 74.5806716,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJQxAMCQDFazkRAUSLo8Z6QAQ",
+      "name": "Suman Filling Station Bharat Petrol Pump",
+      "address": "near Golai Balaji, Thanwala",
+      "lat": 26.5603787,
+      "lng": 74.4898864,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-VdXvHrEazkRIt8iL2eqYQg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Khasra No 2248, 2206/9 Old NH 89, National Highway 58, Degana, Thanwala",
+      "lat": 26.5595901,
+      "lng": 74.4889401,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtcv4AfHpazkRBabAJz1ph6o",
+      "name": "Shiv Kripa Filling Station",
+      "address": "Makarwali, Pushkar Bypass Road, Ajmer",
+      "lat": 26.5424214,
+      "lng": 74.6529626,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBTPZVADpazkRMGip584BI1w",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 89, Pushkar Bypass Road, Makadwali",
+      "lat": 26.541045,
+      "lng": 74.655975,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB7cHEj7pazkRBaJptyX6Nuw",
+      "name": "BPCL petrol pump - Shree dev narayan filling station , Ajmer",
+      "address": "NH-89, Pushkar Bypass Road, Makadwali",
+      "lat": 26.54465,
+      "lng": 74.6575805,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXz6JrJToazkRxlQNmX1C1AY",
+      "name": "Bharat Petroleum",
+      "address": "GMV5+W67, National Highway 58",
+      "lat": 26.5447952,
+      "lng": 74.6580369,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJk7PiLADpazkRYoY1BcjGigQ",
+      "name": "Nayara Pump",
+      "address": "GMP9+VV, Ghooghra",
+      "lat": 26.5373253,
+      "lng": 74.6702924,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJR1pNdQDvazkRec6s34MjtOI",
+      "name": "Shree dev indian oil petrol pump",
+      "address": "HP49+376, Chhatri",
+      "lat": 26.5551683,
+      "lng": 74.7181507,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ39xqPY_vazkRBjjv8QM6Dqw",
+      "name": "Bharat Petroleum Petrol Pump , LAXMI NARAIN AND SONS",
+      "address": "AJMER JAIPUR, ROAD, Gagwana",
+      "lat": 26.5355542,
+      "lng": 74.7499725,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJV_3RPuDvazkRGepdlnrWEIg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Plot No 865, Jaipur to Udaipur Road, Chandiyawas",
+      "lat": 26.537968,
+      "lng": 74.752763,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm99k8h3wazkRLb9syLuSUgQ",
+      "name": "Essar Oil Petrol Pump",
+      "address": "near Toll Plaza, Delhi - Ajmer Expressway, Gegal",
+      "lat": 26.550742,
+      "lng": 74.7796822,
+      "open_now": true
+    }
+  ]
+}

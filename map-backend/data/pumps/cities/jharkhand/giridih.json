@@ -1,0 +1,315 @@
+{
+  "city": "Giridih",
+  "state": "Jharkhand",
+  "count": 38,
+  "center": {
+    "lat": 24,
+    "lng": 86.1667
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJyxCMLLEE9DkR_GYw2RPx3Cs",
+      "name": "IndianOil",
+      "address": "Ground Floor, Nh2, Pawapur, Brahmandiha",
+      "lat": 23.9140377,
+      "lng": 86.1598346,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2cff6nUP9DkRcGp-uhXnsFc",
+      "name": "Bharat Petroleum, Bpcl Petrol Pump- SACH KHAND AUTO FUELS",
+      "address": "23.934626, 86.105550, Grand Trunk Road, Hithwar",
+      "lat": 23.9347212,
+      "lng": 86.10594139999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx3g2elQP9DkRFGVr3mxia8E",
+      "name": "Bharat Petroleum Petrol Pump , Highway Filling Station nimiyaghat",
+      "address": "Delhi - Kolkata Highway, Nimiyaghat",
+      "lat": 23.946227,
+      "lng": 86.089807,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCaXbG8MP9DkRgJ4t78Ve0PI",
+      "name": "Bharat Petrol Pump",
+      "address": "National Highway 19, Nimiyaghat",
+      "lat": 23.952907,
+      "lng": 86.078041,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAe79-XQP9DkRf5dcPje6ju8",
+      "name": "IndianOil",
+      "address": "Indian Oil Dealer, Grand Trunk Road, Nimiyaghat",
+      "lat": 23.9548491,
+      "lng": 86.0754975,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhbxwawsP9DkRSLDZAOc5UDg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 2, Nimiyaghat",
+      "lat": 23.955801,
+      "lng": 86.071801,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJa9Qv7dgE9DkRu4yDKXd8f2s",
+      "name": "IndianOil",
+      "address": "Ground Floor, Singhdih, Amalkhori,Bhowra",
+      "lat": 23.921008,
+      "lng": 86.13575,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4w_yg-wb9DkRu53uNQhqo74",
+      "name": "ASJAD STORE",
+      "address": "Hariharpur",
+      "lat": 23.8920423,
+      "lng": 86.1324018,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ5TwbI-Eb9DkRSbzWfq9FwRM",
+      "name": "Dheeraj Patrol Pump",
+      "address": "Chandrapura, H-72, Korkota",
+      "lat": 23.8924881,
+      "lng": 86.1355832,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJaQBqsJxV8TkR_2GCpulvjao",
+      "name": "IndianOil",
+      "address": "Ground Floor, Asurbandh",
+      "lat": 23.9150536,
+      "lng": 86.03749979999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcbM7rXIR9DkRyuTxUH5LLlU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Nawadih, Phusro, Dumri Road, Surhi",
+      "lat": 23.89584099999999,
+      "lng": 86.039361,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpTOVkNwR9DkRkvRqHcvpRNM",
+      "name": "Bharat Petroleum",
+      "address": "V2VP+4QW, Dumri - Bermo - Jaina Road, Surhi",
+      "lat": 23.8928735,
+      "lng": 86.0369466,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJbVXT69wR9DkRl2zA6mwLNdo",
+      "name": "Johar Petroleum",
+      "address": "Ps Nawadih, Joharpetroleum Po Surhi Dist, Bokaro",
+      "lat": 23.8925868,
+      "lng": 86.0358724,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ-2x-aXgb9DkRLktFIfla0js",
+      "name": "IndianOil",
+      "address": "Ground Floor Bhendra, Hariharpur, Gunghasa",
+      "lat": 23.859602,
+      "lng": 86.16643499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcUCIc1MD9DkRl97-fF1xTEI",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 2, Dumu Dumi, Brahmandiha",
+      "lat": 23.908906,
+      "lng": 86.18136299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPY34HrUc9DkRxroNLqr4iSs",
+      "name": "Bharat Petroleum",
+      "address": "Topchanchi - Gomoh Road, Topchanchi",
+      "lat": 23.9050205,
+      "lng": 86.1931383,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlY_UdQAd9DkRneToY7gy-iw",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bhagat, Topchanchi",
+      "lat": 23.8939166,
+      "lng": 86.1887392,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJo2v3MTgd9DkRJDr-BI1iBas",
+      "name": "Arhan Fule",
+      "address": "near Masjid, 49, near Masjid, Chitro",
+      "lat": 23.8824315,
+      "lng": 86.1788315,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ3bDqJf8b9DkRmsD-rOLiaFM",
+      "name": "Ambika Fules",
+      "address": "Ambika Fules, Gomoh, Dhanbad",
+      "lat": 23.8812858,
+      "lng": 86.1732445,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJEU83Z5Ed9DkRNBenZFPQ3RM",
+      "name": "Tofique",
+      "address": "near Masjid, 35, near Masjid, Chitro",
+      "lat": 23.8819048,
+      "lng": 86.1775353,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJO669NmEb9DkRs4SC7RIrZsU",
+      "name": "IndianOil",
+      "address": "Ground Floor Bhuiyachitro, Bhendra, Gomoh, Topchanchi",
+      "lat": 23.87963,
+      "lng": 86.17179,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2wpRiJsb9DkR8hwe4pl21I0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Block Topchanchi, Khesmi, Dhanbad",
+      "lat": 23.8748383,
+      "lng": 86.16703079999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmd5xoikd9DkRJts8M4vewho",
+      "name": "Sah Filling Station",
+      "address": "Sahubahiyar, National Highway 19, Sahubahiar",
+      "lat": 23.89971929999999,
+      "lng": 86.2178187,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ48xqBYsd9DkRNn2vG3CzerA",
+      "name": "IndianOil",
+      "address": "Ground Floor, Topchanchi",
+      "lat": 23.8997758,
+      "lng": 86.21828450000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhQSW3C8d9DkRbiAfyGtP62M",
+      "name": "IndianOil",
+      "address": "Ground Floor, Topchandhi, Grand Trunk Road, Sahubahiar",
+      "lat": 23.8973302,
+      "lng": 86.2253537,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC_thnUQb9DkRXB11PvG73z0",
+      "name": "Md Mursal",
+      "address": "near School, 22 Laludih, near School, Gomoh",
+      "lat": 23.8612669,
+      "lng": 86.1592809,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ_TO14vWn9jkRwdhxMi-0Lus",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 2, Topchanchi, Ledatanr",
+      "lat": 23.894677,
+      "lng": 86.241711,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPXNtMfKp9jkRvs8Ut5_4z6o",
+      "name": "Satish Sen SS",
+      "address": "Chandni Chowk, Hariladih",
+      "lat": 23.9681581,
+      "lng": 86.28457159999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJPW_cCgCn9jkRjAmY_Khsuzk",
+      "name": "CNG Gail Gas jio RMBL Rajganj",
+      "address": "V7MM+9HH, Kotaldih",
+      "lat": 23.8834447,
+      "lng": 86.28399859999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm--nBDqn9jkRTpXz0Mnrqdw",
+      "name": "Jio-bp",
+      "address": "Plot No 443, 449 & 460, Topchanchi",
+      "lat": 23.8831886,
+      "lng": 86.2841254,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ209AyaCn9jkRTZrNQ70rDXw",
+      "name": "IndianOil",
+      "address": "Ground Floor Dayabansh, Pahar, Topchanchi, Brahmandiha",
+      "lat": 23.881376,
+      "lng": 86.293793,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWUEQYAAH9DkR7y47WZ_nozI",
+      "name": "Sadhvi Filling Station",
+      "address": "Pirtand block, Hariladih",
+      "lat": 24.0351875,
+      "lng": 86.1315625,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUTbfCo4H9DkRPtVSMCpIVAs",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Reformatory School, Shikerj, Madhuban",
+      "lat": 24.015603,
+      "lng": 86.149412,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy70oIMcO9DkREqcubYYciBc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Grand Trunk Road, Isri Bazar, Giridih",
+      "lat": 23.981401,
+      "lng": 86.0349901,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYebBdr0H9DkRyf1ZkcYSCLw",
+      "name": "Bharat Petroleum, Petrol Pump -Om Shivshakti Fuel Centre",
+      "address": "CHIRKI (SH14) , DISTT.:GIR, Giridih",
+      "lat": 24.0389311,
+      "lng": 86.1577717,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJta_UQGIB9DkRsMzw234X96s",
+      "name": "SAHU FUELS POINT",
+      "address": "267H+9F2, AT- JAMUATAND , KHUKHRA, Main Road, Chirki",
+      "lat": 24.0133871,
+      "lng": 86.2286428,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsflISgAB9DkRwPvWtRAURTQ",
+      "name": "Kharpoka",
+      "address": "269Q+3FP, Kharpoka",
+      "lat": 24.0177015,
+      "lng": 86.2387144,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJBSXS8HL58zkRZGYkj52at2s",
+      "name": "Amarjeet Kishan Seva Kendra",
+      "address": "Jitkundi",
+      "lat": 24.106133,
+      "lng": 86.1535548,
+      "open_now": true
+    }
+  ]
+}

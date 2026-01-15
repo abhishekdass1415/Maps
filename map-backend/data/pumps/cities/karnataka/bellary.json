@@ -1,0 +1,739 @@
+{
+  "city": "Bellary",
+  "state": "Karnataka",
+  "count": 91,
+  "center": {
+    "lat": 15.1333,
+    "lng": 76.9167
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJNwUr23cTtzsRdx2nbZyykHs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near Toll Gate, No 26/1, Bellary Bypass Road, Aladahalli",
+      "lat": 15.1275302,
+      "lng": 76.87136660000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKz23MXITtzsR2HIjm302Snc",
+      "name": "Trishala Petroleum",
+      "address": "Aladahalli, Bellary, NH-63, Bellary Hubli Road, Bellary, Ballari",
+      "lat": 15.131683,
+      "lng": 76.862944,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHZOnWAsVtzsRjv5PjBkb91U",
+      "name": "IndianOil",
+      "address": "Anantapuram, Madenahalli",
+      "lat": 15.0461734,
+      "lng": 76.8663342,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjQH7rQwVtzsRwnCXYypVbHo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 90B, Bellary Bangalore Road, Obulapuram",
+      "lat": 15.0454352,
+      "lng": 76.8656457,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ28SzR3MVtzsROq8xcQFqkTE",
+      "name": "Short Petroleum",
+      "address": "India",
+      "lat": 15.0442404,
+      "lng": 76.8650499,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJpTI4Cr8VtzsRb0D9aW1h1Ck",
+      "name": "Sri shivaParvathi Petroleum CNG BPCL",
+      "address": "3V6G+J3, Bobbukunta",
+      "lat": 15.0615625,
+      "lng": 76.8751875,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpQb_s1gVtzsRw9EkAH4Ub-g",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 244, Bellary Bangalore Rd, D.Hirehal",
+      "lat": 15.03628,
+      "lng": 76.85746999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUaooyFMUtzsR3faSu1ThSgY",
+      "name": "NAYARA",
+      "address": "India",
+      "lat": 15.0731075,
+      "lng": 76.8802561,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJbSfxrFsVtzsRl6wPH3LiwX4",
+      "name": "Subramanya Swamy Mini Filling Station",
+      "address": "Bangalore, Road, Halakundhi",
+      "lat": 15.0928573,
+      "lng": 76.8892037,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJJ00aEgATtzsRaiPmUKSbg0M",
+      "name": "Sri Basava Filling Station",
+      "address": "4V79+XX, Aladahalli",
+      "lat": 15.1149375,
+      "lng": 76.86993749999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdfZq300RtzsRVEDydfIOXow",
+      "name": "IndianOil",
+      "address": "Sy No 189A, Belegal Road, Ballari",
+      "lat": 15.1273513,
+      "lng": 76.8359377,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsRd0Az4VtzsRSKhf0tZFcOU",
+      "name": "IndianOil",
+      "address": "Survey No 24A/3, Mundragi, Ballari",
+      "lat": 15.1055877,
+      "lng": 76.89839429999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP3rg4i8_tzsR3dex9Jsp6VY",
+      "name": "IndianOil",
+      "address": "Ground Floor, Herial, Madenahalli",
+      "lat": 14.9953778,
+      "lng": 76.86877199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtwfEAb8WtzsR9hsOaUMwQ10",
+      "name": "IndianOil",
+      "address": "Survey No 50/2, L 278 Bellary, Kanekal Road, Andralu",
+      "lat": 15.098248,
+      "lng": 76.938507,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ31XbBAYUtzsRcsJndw_R_jM",
+      "name": "IndianOil",
+      "address": "L No 272, Survey No 127, 1/C, Bellary Ring Road, Ballari",
+      "lat": 15.1113917,
+      "lng": 76.90697500000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx3dtXgAXtzsR0bl4OcIe-4M",
+      "name": "Well pool",
+      "address": "4W7G+WJ, Ibrahimpura, UHTC Ranithota, Ballari",
+      "lat": 15.114676,
+      "lng": 76.925412,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJB9zP_F4RtzsRy_PBjvKKSvw",
+      "name": "Sri Devi Mini Station",
+      "address": "Durgamma Temple, Moka Road, Ballari",
+      "lat": 15.1182764,
+      "lng": 76.92001499999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJJ2zJLX49tzsRzb5aUNIbBt0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Yetthina Budihal",
+      "lat": 15.027524,
+      "lng": 76.967389,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSenFZHARtzsRNu4sWwTx_Cw",
+      "name": "M.R. Petroleum",
+      "address": "4WFH+5P5, Kanekal Road, Ibrahimpura, UHTC Ranithota, Ballari",
+      "lat": 15.1228911,
+      "lng": 76.9293673,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ_9BHKnM9tzsRbvNszU6J1Tc",
+      "name": "Shri Veeranjaneya Petroleums",
+      "address": "Sy.no.416/2, Nemkal circle, Kanekal road, Yetthina Budihal",
+      "lat": 15.0263566,
+      "lng": 76.9679981,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3wGtQbQ9tzsRCsnx5p0uenU",
+      "name": "NAYARA PETROL BUNK",
+      "address": "SY.NO:: 416/1, NEMAKAL GATE BOMMANAHAL-BALLARI MAIN ROAD, YETHINA BUDEHAL, VILLAGE, Ballari",
+      "lat": 15.0258096,
+      "lng": 76.96831,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBzgDUrwTtzsRGOVhIsRNePQ",
+      "name": "Bharat Petrol Pampa",
+      "address": "APMC, Ballari",
+      "lat": 15.1271941,
+      "lng": 76.92253199999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJT3WCtOITtzsRdGwx87lGMnA",
+      "name": "IndianOil",
+      "address": "L No, near Apmc, 303, Bangalore Road, Cowl Bazaar, Ballari",
+      "lat": 15.128392,
+      "lng": 76.917114,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBWwOKgARtzsRTPfwAKoJzMg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "568/2A, 569, 570 & 571, No 568/2B, TG Oil Mill Road, Ballari",
+      "lat": 15.132416,
+      "lng": 76.92057900000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSZFUEXI9tzsRYJlois7Yu-Q",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bommanahal",
+      "lat": 15.0102739,
+      "lng": 76.9746363,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSxhmweE9tzsRkV0nBHV_VIw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 90, Kanekal Bellary Road, Bommanahal, Anantapur",
+      "lat": 15.0008831,
+      "lng": 76.9776928,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJE6wxzrARtzsRc-AaFcgpeb8",
+      "name": "Bharat Petroleum Parvathi Filling Station",
+      "address": "New, By Pass Road, Kakkabevinahalli",
+      "lat": 15.125547,
+      "lng": 76.99997499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDWxcQAAZtzsRARIYN7L501g",
+      "name": "A1 Filling Station.Rupanagudi",
+      "address": "23X5+RQ, Rupanagundi",
+      "lat": 15.049521,
+      "lng": 77.059452,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqXMUpKwTtzsRwnqPuT1f_CA",
+      "name": "Bharat Petroleum Fuel Station",
+      "address": "NH 63, Hospet Road, Vinayaka Nagar, Ballari",
+      "lat": 15.1591914,
+      "lng": 76.87859859999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJu5mnqU0StzsRQQUeSP0Ky-c",
+      "name": "HP PETROL PUMP - BASAVA PETROLEUM",
+      "address": "Hpcl Dealer S NO. 605/A5 Kolagal Road Bellary",
+      "lat": 15.163904,
+      "lng": 76.886022,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJv6Z9aVoStzsRkTOBKqmCYf0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Kolagallu Road, Ballari",
+      "lat": 15.1732592,
+      "lng": 76.8797634,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlY2yrMgTtzsRt0tbGxNJ4mw",
+      "name": "IndianOil",
+      "address": "L No 275, Sudha Cross, Cantonment, Ballari",
+      "lat": 15.150547,
+      "lng": 76.900925,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq0PsXd0TtzsRHj7Bu5IOf6g",
+      "name": "Bharat Petroleum Fuel Station",
+      "address": "4WQ5+R6M, Jawans Road, Radio Park Cowl Bazar, Cowl Bazaar, Ballari",
+      "lat": 15.1395972,
+      "lng": 76.908053,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJiXGB-9wTtzsR7VY2mLmAYGU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Hospet Road, Ballari",
+      "lat": 15.142261,
+      "lng": 76.909241,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhffrwigTtzsR0w8pkbWPSRA",
+      "name": "HP PETROL PUMP - SRI SRINIVASA ENTERPRISES",
+      "address": "Hpcl Dealers 26/1, Haladalli Village Bellary RD, Near Toll Gate, Bypass Track",
+      "lat": 15.153479,
+      "lng": 76.835449,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYWT1cdcStzsR79CTCML7ShY",
+      "name": "IndianOil",
+      "address": "Sy No 270, L No 291, Ring Road, Belagal",
+      "lat": 15.1612026,
+      "lng": 76.8367233,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ99E5EysTtzsR1KoDdSrkLWk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ward No 25 & 30, CMC, Survey No 640/9/F1, F2 & F3, Vadde Nagappa Colony, Ballari",
+      "lat": 15.154322,
+      "lng": 76.88833199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTZZhngQTtzsR2moYAnXplb8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Cowl Bazaar, Ballari",
+      "lat": 15.135261,
+      "lng": 76.89706699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2T40HHpttzsRqowSRfv-cVE",
+      "name": "IndianOil",
+      "address": "Survey No 236/2, Veniveerapura",
+      "lat": 15.182694,
+      "lng": 76.81609999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3Z_zmw1ttzsRspMlRHlgQmM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Veniveerapura",
+      "lat": 15.1828049,
+      "lng": 76.8162188,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy6RBDIETtzsRfudqJnasPnY",
+      "name": "U SANTHOSH",
+      "address": "New Building, Bellary Main Road, Kolagal",
+      "lat": 15.1880612,
+      "lng": 76.8690842,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJnS-q4QRttzsRvicEfAhN-cg",
+      "name": "Reddy mallamma petrol bunk",
+      "address": "Ballari - Hubballi Road, Veniveerapura",
+      "lat": 15.18333,
+      "lng": 76.81409959999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJF0BVNpYTtzsR8hf9Fa-OuVc",
+      "name": "IndianOil",
+      "address": "L No 270, Hospet Road, Ballari",
+      "lat": 15.142666,
+      "lng": 76.909088,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ96T-h6MTtzsRa5Lu96EGORY",
+      "name": "S B ENTERPRISES (Bellary)",
+      "address": "12/7, C-2, WARD, NO-31, Infantry Road, Sanjay Gandhi Nagar, Ballari",
+      "lat": 15.154032,
+      "lng": 76.908378,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJI9WkTVkRtzsR8CnbXiPZH0s",
+      "name": "Havinal Basanna Enterpries Petrole bunk & CNG filling station",
+      "address": "Sanjay Gandhi Nagar, Ballari",
+      "lat": 15.1542554,
+      "lng": 76.9105348,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJj33iTNgTtzsRapZ-6JUwomA",
+      "name": "Sai Gokula Agencies",
+      "address": "5, 65, Hospet Road, Narayanappa Compound, Fort Area, Ballari",
+      "lat": 15.1412873,
+      "lng": 76.91553569999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMRMNXAATtzsRE4CVQPllerw",
+      "name": "SRI KRISHNA FILLING POINT CNG",
+      "address": "5W58+866, Siruguppa Road, Bhuvanagiri Colony, Havambhavi, Ballari",
+      "lat": 15.1582808,
+      "lng": 76.91550219999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzyL-GQATtzsRiAyyR6B6hd8",
+      "name": "Bharat Petroleum",
+      "address": "5W77+FH, Ballari",
+      "lat": 15.1637154,
+      "lng": 76.91390419999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJszPPMnARtzsRD5wPNL_FAlY",
+      "name": "IndianOil",
+      "address": "L No 269 Ward, opposite Park, 18, 3rd Cross Road, Gandhi Nagar, Ballari",
+      "lat": 15.153104,
+      "lng": 76.93264099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl6bR2XoRtzsRNVWd8P464dE",
+      "name": "IndianOil",
+      "address": "L No 297, near Durgamma Temple, Main Road, Parvathi Nagar, Ballari",
+      "lat": 15.1526707,
+      "lng": 76.9267126,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkZ14SnMRtzsRvk6qmeBj9NQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Moka Road, Gandhi Nagar, Ballari",
+      "lat": 15.156931,
+      "lng": 76.941051,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSxFhcwARtzsR2WzDOaTaoCA",
+      "name": "Jio petrol bunk",
+      "address": "4WQC+QH4, Ballari",
+      "lat": 15.1393932,
+      "lng": 76.9214428,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ0eKT4GARtzsRTCjf_myxA4Q",
+      "name": "Bharat Petroleum",
+      "address": "Kalamma Street, BSNL Colony, Cowl Bazaar, Ballari",
+      "lat": 15.1427042,
+      "lng": 76.9224638,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJzY6DfOYRtzsRH_RBk5lXyZs",
+      "name": "SRRJ FUELS HDFC",
+      "address": "SRRJ FUELS, Kalamma Street, Ballari",
+      "lat": 15.1427686,
+      "lng": 76.9225396,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJe3xKaeIRtzsRTpEXhBqv_gk",
+      "name": "Gas filling station Small gas",
+      "address": "44, Cowl Bazaar, Ballari",
+      "lat": 15.1392539,
+      "lng": 76.92732699999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJS8zxR2ERtzsR-D-uZBoFjac",
+      "name": "IndianOil",
+      "address": "opposite SBI Main Branch, L No 277, Station Road, Cowl Bazaar, Ballari",
+      "lat": 15.1442347,
+      "lng": 76.9230908,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJV58_NjgRtzsRqZPArip3U8M",
+      "name": "DARGA HONNUR DIESEL SHOP",
+      "address": "Shop No 22, Ballari",
+      "lat": 15.1369916,
+      "lng": 76.93114179999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJEc4bS6vTuTsRfXkIVMrMgss",
+      "name": "Jio-bp",
+      "address": "TB Dam, RELIANCE PETRO MARKETING PVT. LTD NH-13/63, HOSAHALLI VILLAGE, HOBLI, HITNAL",
+      "lat": 15.1441641,
+      "lng": 76.9274083,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7SmcokIRtzsRXaV9YhjVy5g",
+      "name": "IndianOil",
+      "address": "Ts No 488/5&488/4B, Road, Andralu",
+      "lat": 15.139951,
+      "lng": 76.931221,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB0SMORQRtzsRs8l1pHJUPC8",
+      "name": "Bharat Petroleum, Petrol Pump -H. Keshava Reddy",
+      "address": "BSNL Colony, Cowl Bazaar, Ballari",
+      "lat": 15.1449078,
+      "lng": 76.92770990000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3-PUzeURtzsRus4kwZiTHkc",
+      "name": "IndianOil",
+      "address": "Ananthpur Road, Royal Circle, L No 274, Ballari",
+      "lat": 15.1444232,
+      "lng": 76.9288237,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx8mcSVwRtzsRU_C5uyQ9LtM",
+      "name": "Vishnu Enterprises",
+      "address": "#2, Doctor RajKumar Road, Cowl Bazaar, Ballari",
+      "lat": 15.1448135,
+      "lng": 76.92848719999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhfJ1dGYRtzsRBOch8d8WOW0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Royal Circle, Ballari",
+      "lat": 15.145761,
+      "lng": 76.928051,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsxL0XXARtzsRrkXyhpnT5MY",
+      "name": "Nayara Petrol Station ( Sri Lakshmi Narasimha Enterprise )",
+      "address": "4WMQ+QHW, Grand Function Hall, UHTC Ranithota, Ballari",
+      "lat": 15.1344967,
+      "lng": 76.9389578,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAVRCW1gRtzsR08jJiG_xh_8",
+      "name": "Kubera Petrol",
+      "address": "1, Durgamma temple, Ballari",
+      "lat": 15.1526172,
+      "lng": 76.92704839999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJB6hNncIRtzsR9nZfwMyyD98",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Main Road, Satya Narayana Pet, Ballari",
+      "lat": 15.147722,
+      "lng": 76.93462199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ442GXgARtzsR-k3MSaIhwHQ",
+      "name": "H P Petrol Pump",
+      "address": "4WWQ+M96, near More Super Market, 1st Cross Road, Satya Narayana Pet, Ballari",
+      "lat": 15.1466711,
+      "lng": 76.9384048,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5V4_lAYRtzsRV5rlXsR5Boc",
+      "name": "Mg petrol pump",
+      "address": "Satya Narayana Pet, Ballari",
+      "lat": 15.1433709,
+      "lng": 76.9417496,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJU9KDEd0RtzsR5F5B7AiP2qw",
+      "name": "Benaka Autogas (Aegis Autogas)",
+      "address": "SURVEY NO.826, near BSRM, G & 826/H, Main Road, Venkateswara Nagar, Bandimot, Ballari",
+      "lat": 15.1422933,
+      "lng": 76.9451033,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJWfN2H-ERtzsRvUKhdJaoA1o",
+      "name": "Nayara Petrol Pump",
+      "address": "5W4R+2HJ, KHB Colony, Basaveshwar Nagar, Sidiginamola, Ballari",
+      "lat": 15.1552644,
+      "lng": 76.9412624,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs0GiVSIRtzsR3EK2mW_ag3k",
+      "name": "IndianOil",
+      "address": "Lock No 301, Bellary - Uravakonda - Anantapur Road, Ballari",
+      "lat": 15.139494,
+      "lng": 76.9557639,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5eISIvURtzsR-IRKgBgiFCg",
+      "name": "IndianOil",
+      "address": "Ground Floor, Alagerimandri, Hosanagara, Harathalu, Shimoga",
+      "lat": 15.169994,
+      "lng": 76.930599,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJr2biKvMTtzsRVw25e7L0QfM",
+      "name": "IndianOil",
+      "address": "L No 310, Sy No 185/3, Siruguppa Road, Havambhavi, Ballari",
+      "lat": 15.177923,
+      "lng": 76.91391100000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ99F2u7URtzsRf4bbC7gsM4g",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Sanganakal",
+      "lat": 15.1652823,
+      "lng": 76.9543228,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH3zmNwARtzsRLvPuzm8lEA0",
+      "name": "Indian oil petrol pump",
+      "address": "5X73+WFV, Hari Priya Nagar, Gandhi Nagar, Ballari",
+      "lat": 15.1657402,
+      "lng": 76.9547522,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJiWo-Lg0RtzsRGg-pfMnGpr4",
+      "name": "M Channa Basappa Filling Station",
+      "address": "5X98+882, Kappagal",
+      "lat": 15.1692152,
+      "lng": 76.9651598,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC16kTVMQtzsRyDmOmXEsTPI",
+      "name": "IndianOil",
+      "address": "L No 323 Sanganakallu, Beside Andhra Pragathi Grameena Bank, Asundi",
+      "lat": 15.171923,
+      "lng": 76.964467,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3_KlN_IRtzsR4SYeMYWniYM",
+      "name": "JITU NATH",
+      "address": "Basappa Feeling Station, M Chanabasapa, near Moka Road, Ballari",
+      "lat": 15.1723885,
+      "lng": 76.9650472,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ39Q1hEEQtzsRKjuE8zDaIpg",
+      "name": "IndianOil",
+      "address": "Survey No 291/B, L No 267, Moka Road, Sirivara",
+      "lat": 15.1844324,
+      "lng": 76.9849856,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvwBIZa4RtzsRAikI_elRUeQ",
+      "name": "Nayara Petrol Bunk (Sree Lakshmi Balaji Enterprises)",
+      "address": "Sy.No.219, 1A, Taluk, Sirivara",
+      "lat": 15.1923685,
+      "lng": 76.9964767,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxYyvNgARtzsRzYUKgXn-1JI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, SH 132, Moka Road, Sirivara",
+      "lat": 15.1953177,
+      "lng": 77.0008239,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJv-zJ2UMRtzsRVECMDF23IaM",
+      "name": "SRI SAI VENKATESHWARA.. Filling station",
+      "address": "sirwar Road, Kappagal",
+      "lat": 15.1996267,
+      "lng": 76.9790767,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY51bnJoNtzsRC59ERmo0sLE",
+      "name": "IndianOil",
+      "address": "Sy No 81/A2, Lock No 279 Kolagallu, Rd, Yerrangali",
+      "lat": 15.2315087,
+      "lng": 76.84882689999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH-lh9mVttzsRWwKAWXarMyU",
+      "name": "MB Fuel Centre(Bharath Petroleum Petrol and C.N.G Pump)",
+      "address": "5QRW+2CX, National Highway 67, Ballari",
+      "lat": 15.1901091,
+      "lng": 76.7961153,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJMyX4QA1ttzsRQkNMr-J--Lo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 67, Kudatini",
+      "lat": 15.1917054,
+      "lng": 76.7925267,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqdTybgBttzsRo8Q4iIUwFmM",
+      "name": "Srinivasa infrastructure Pvt Ltd",
+      "address": "5QVR+233, Veniveerapura",
+      "lat": 15.1925222,
+      "lng": 76.79017929999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJUbPu1ntttzsRL0nRy9bJHM0",
+      "name": "IndianOil",
+      "address": "Survey No 600/1, Kudathini NH 63, Bellary, Hopset Road, Anthapura",
+      "lat": 15.1925778,
+      "lng": 76.78591519999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzX49xPINtzsR1sRrdoZq8Xc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Sridhargadda",
+      "lat": 15.214314,
+      "lng": 76.909937,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDysGBVMPtzsRZA21VHZuzKU",
+      "name": "Bharat Petroleum, Petrol Pump -Sree Lakshmi Venkateshwara F/S",
+      "address": "KORLAGUNDI, Ballari",
+      "lat": 15.2645775,
+      "lng": 76.9644005,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL49qUQAPtzsRt0OEc3oo9pM",
+      "name": "IndianOil",
+      "address": "Ballari",
+      "lat": 15.2662903,
+      "lng": 76.96600579999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJT0kdECkFtzsRenRz5CatjAY",
+      "name": "Bharat Petroleum, Petrol Pump -Sri Basava Filling Station",
+      "address": "MOKA, Ballari",
+      "lat": 15.23792,
+      "lng": 77.0516474,
+      "open_now": true
+    }
+  ]
+}

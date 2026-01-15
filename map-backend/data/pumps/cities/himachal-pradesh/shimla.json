@@ -1,0 +1,291 @@
+{
+  "city": "Shimla",
+  "state": "Himachal Pradesh",
+  "count": 35,
+  "center": {
+    "lat": 31.1048,
+    "lng": 77.1734
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJs8g8ZAB_BTkRaXaRgtBn0Zw",
+      "name": "Bharti Filling Station",
+      "address": "24M9+72P, 22, National Highway, Anandpur, Shogi",
+      "lat": 31.033191,
+      "lng": 77.1176,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ0fSysZ59BTkR1shalHMImqo",
+      "name": "IndianOil",
+      "address": "Ground Floor Wakana, Kandaghat, Domehar",
+      "lat": 31.0106485,
+      "lng": 77.0908966,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJ5geJ3p9BTkR6Dfj2xi2BMs",
+      "name": "Bharat Petroleum, Petrol Pump -Sawhney Automobiles",
+      "address": "KANDAGHAT,KALKA SHIMLA ROA, SOLON",
+      "lat": 31.0085107,
+      "lng": 77.09553,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4zYA2cl9BTkRG5CXlPYUAYw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, National Highway 5, Kandaghat, Solan",
+      "lat": 30.9967543,
+      "lng": 77.089659,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP5lvuR15BTkRJ7m8a5UqMLU",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kyari, Jathia Devi",
+      "lat": 31.0863438,
+      "lng": 77.09529599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS7Ivkmd_BTkRyuF6GA2heIQ",
+      "name": "METHA FILLING STATION",
+      "address": "opposite Deventure Hotel on NH Shimla, near kandaghat, Kandaghat",
+      "lat": 30.9814649,
+      "lng": 77.10878079999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuxP-7K6ADzkRvoUtLi2EwDs",
+      "name": "In and Out Filling Station Bharat Petroleum",
+      "address": "Silhari, Solan, NH-22, Zirakpur Panchkula Kalka Highway, Kandaghat, Kandaghat",
+      "lat": 30.971552,
+      "lng": 77.109844,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaRBTqhl5BTkR2cwfyQAeFLc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Moto Barrier, Boileauganj, Shimla",
+      "lat": 31.0980101,
+      "lng": 77.14017009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCbsn2LB4BTkR2fEjXAacNP4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 5, Shimla Bypass, Chotta Shimla, Shimla",
+      "lat": 31.084765,
+      "lng": 77.178106,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuaeEKqh4BTkRRgzarBMe0a0",
+      "name": "IndianOil",
+      "address": "near Shimla Bypass, Ground Floor Malyana, near Shimla Bypass, Bhattakufer, Shimla",
+      "lat": 31.08639299999999,
+      "lng": 77.19465500000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMS3yCRp_BTkRdWrmeLupI3s",
+      "name": "Next Gen Filling Station",
+      "address": "Shimla Bypass, Kasumpti, Shimla",
+      "lat": 31.07603899999999,
+      "lng": 77.1823265,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVw_3yt1_BTkRxuyWKbkfVhM",
+      "name": "IndianOil",
+      "address": "Ground Floor, near BCS Main Road, Kasumpti, Shimla",
+      "lat": 31.0760943,
+      "lng": 77.1823339,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJz9SqiU55BTkRH4pdqXFmbnA",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Hp Civil Secretariate, Chotta Shimla, Shimla",
+      "lat": 31.094713,
+      "lng": 77.1815001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXfEPEJR4BTkRFm6k0zojF0c",
+      "name": "Hindustan Petroleum",
+      "address": "Shop No.94/1, The Mall, Shimla",
+      "lat": 31.1034569,
+      "lng": 77.1764953,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ8VWVBhx5BTkRYCLlOzEwa5c",
+      "name": "Himachal Road Transport Corporation Filling Staion",
+      "address": "442V+G63, Shimla Bypass, Chaura Maidan, Shimla",
+      "lat": 31.1012587,
+      "lng": 77.1430349,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZxIDm3SCBTkResBbJ_-Tiw0",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 22, Sanjauli, Shimla",
+      "lat": 31.102708,
+      "lng": 77.199827,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3Zij-Y5-BTkRaF2QaXc_PDY",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 22, Anandpur, Shoghi, Shimla",
+      "lat": 31.10273399999999,
+      "lng": 77.19984780000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx4b_dYOBBTkRyepefgdE78A",
+      "name": "SHILON FILLING STATION",
+      "address": "3726+9G5, Kufri - Chail Road, SHILON, Bag",
+      "lat": 31.05088749999999,
+      "lng": 77.2613673,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ546vKQCDBTkRYXbxaHZdoKQ",
+      "name": "jai maa jawala filling station 24×7",
+      "address": "Theog",
+      "lat": 31.10182319999999,
+      "lng": 77.2628525,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ2ThYvSp6BTkR9TcJzZY41TI",
+      "name": "HP PETROL PUMP - HP SPEEDWAYS",
+      "address": "Ground Floor, Hira Nagar, Shimla",
+      "lat": 31.115051,
+      "lng": 77.101981,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZcC9BO54BTkRA_vskknherc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Mythe Estate, Shimla",
+      "lat": 31.1083301,
+      "lng": 77.16533009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUTZ3NAB7BTkR1Xg3BW27mak",
+      "name": "Ioc pump galog",
+      "address": "IOCL Pump, Galog",
+      "lat": 31.1484088,
+      "lng": 77.04171,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJcVhVVnKCBTkRyalSunSaH58",
+      "name": "IndianOil",
+      "address": "Ground Floor NH 22, Dhalli, Shimla",
+      "lat": 31.10426500000001,
+      "lng": 77.203588,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpxd_kMaDBTkRi_ci-38fuJs",
+      "name": "Bharat Petroleum, Petrol Pump -Himachal Filling Station",
+      "address": "Dhalli, Shimla",
+      "lat": 31.10522269999999,
+      "lng": 77.2060316,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMct1GG6CBTkRTu3E7K595bA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Lambi Dhar, Shimla",
+      "lat": 31.1085972,
+      "lng": 77.2067548,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJmykuWGmCBTkRPsfrzpp9Rto",
+      "name": "HRTC Petrol Pump",
+      "address": "4656+5WW, HRTC Workshop Road, Dhalli, Shimla",
+      "lat": 31.1079831,
+      "lng": 77.2123177,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJY9mNGACDBTkRgwItzTnCnfI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "MDR No 76, Road, Naldehra",
+      "lat": 31.160372,
+      "lng": 77.201431,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3R4MMQCFBTkRYWbB8sQJC-s",
+      "name": "Indian oil Rising Filling station",
+      "address": "4879+2F, Barog",
+      "lat": 31.1123613,
+      "lng": 77.3189081,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJVpmUMdxBTkRPZyI9mtHB5U",
+      "name": "IndianOil",
+      "address": "Ground Floor NH 205, Badehari, Dhami, Ghandal",
+      "lat": 31.1633201,
+      "lng": 77.0454101,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxyQ5Shd3BTkRz9pUMTzqXiY",
+      "name": "Hem Singh",
+      "address": "01, Reoag Sunni, Shimla",
+      "lat": 31.22642939999999,
+      "lng": 77.1134589,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJsSCWJjV3BTkRI7lc7_E_uc4",
+      "name": "Arnav Fuels ( Indian Oil )",
+      "address": "Jubar, Naldehra",
+      "lat": 31.1830568,
+      "lng": 77.1683347,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZUDQwvd2BTkRqjv2BRQfaJE",
+      "name": "IndianOil",
+      "address": "Ground Floor Chaba, Bagain",
+      "lat": 31.2211939,
+      "lng": 77.1474598,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhfoaaLV3BTkRZ_7jm5PzcSs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Sunni, Basantpur",
+      "lat": 31.209075,
+      "lng": 77.170654,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVeIXLqN2BTkR9YjcP6GWXrY",
+      "name": "LPG Agency Suni",
+      "address": "64QC+WQW, State Highway 13, Suni",
+      "lat": 31.2398617,
+      "lng": 77.1219581,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJo1HLmVRxBTkRk3atcT9z9qY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Sunni, Gharyana",
+      "lat": 31.2435446,
+      "lng": 77.1008706,
+      "open_now": true
+    }
+  ]
+}

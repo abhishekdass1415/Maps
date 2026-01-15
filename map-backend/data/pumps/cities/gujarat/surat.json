@@ -1,0 +1,2387 @@
+{
+  "city": "Surat",
+  "state": "Gujarat",
+  "count": 297,
+  "center": {
+    "lat": 21.1702,
+    "lng": 72.8311
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJA1OpOWhS4DsRiIk4y4QxOhY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 386/P NH 53, Hazira, Palsana Rd, Magdalla, Abhva",
+      "lat": 21.125551,
+      "lng": 72.771321,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJp2n2o2VN4DsRjynD6_EoyoM",
+      "name": "IndianOil",
+      "address": "Survey No 405/23, No 434, Bhatpore Choryasi, Hazira, Magdalla Road, Ongc Nagar, Surat",
+      "lat": 21.154208,
+      "lng": 72.74181999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmROeUXxT4DsRWqI1pcqWgsI",
+      "name": "Daruwala Diesel Pump",
+      "address": "4QGC+79J, Vesu, Surat",
+      "lat": 21.12570909999999,
+      "lng": 72.770884,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJr-SFJ1pP4DsRRoR4TXxFYi4",
+      "name": "IndianOil",
+      "address": "Ground Floor, behind City Plus Cinema, Magdalla, Surat",
+      "lat": 21.1358907,
+      "lng": 72.7530894,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFYer3zxT4DsRnIBDZpbOxZg",
+      "name": "Indian Oil petrol pump",
+      "address": "4QRF+4G8, VIP Road, Vesu, Surat",
+      "lat": 21.1402912,
+      "lng": 72.7738157,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeaJK_9NT4DsRqdszI3Ap9xE",
+      "name": "Shree Ganesh Petroleum (B.P.C.L)",
+      "address": "4QR4+W4F, Magdalla,opp magdalla gam BRTS BUS STOP,near vr mall, Dumas Road, Surat",
+      "lat": 21.1423115,
+      "lng": 72.7553116,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJw4_OfwBT4DsRLTgbLjriVJI",
+      "name": "MANIPAL PETROLEUM",
+      "address": "4QJW+QC2, Surat",
+      "lat": 21.131885,
+      "lng": 72.7960066,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJ7g0Y9JN4DsRY7T98OjUEFs",
+      "name": "Shell Select Petrol Pump",
+      "address": "Udhana - Magdalla Road, Rundh",
+      "lat": 21.148028,
+      "lng": 72.766706,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJn-xR2whT4DsRNN8YoJ3WLxQ",
+      "name": "Nayara Petrol Pump - Somiba Fuel",
+      "address": "Althan - Sarsana Road, Surat",
+      "lat": 21.1343142,
+      "lng": 72.7977792,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsfz_cwBT4DsRMPpsnqgKo4o",
+      "name": "Bharat petroleum Prithvi Pal",
+      "address": "SMC Garden, Govindaji Sport Complex, Surat",
+      "lat": 21.1368113,
+      "lng": 72.79875419999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJxVx7LlJT4DsRhper7fTfoS0",
+      "name": "IndianOil",
+      "address": "R S No 88, Bhimrad Majura, Jeevkar Nagar, Althan, Surat",
+      "lat": 21.1368699,
+      "lng": 72.7993501,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6bhLBm5T4DsRvtD62S25KvQ",
+      "name": "IndianOil",
+      "address": "Block No 217, B BHARTHANA, Tp No 13, Vesu, Surat",
+      "lat": 21.142987,
+      "lng": 72.7926914,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEfHA1gVS4DsRJef0CE5KHHo",
+      "name": "Nayara Petrol Pump - Sai Sanskriti Autofuel",
+      "address": "opp. E Space, VIP Road, Vesu, Surat",
+      "lat": 21.1440757,
+      "lng": 72.7946738,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy2AG4u3xrzsR6dG5z_NPThc",
+      "name": "IndianOil",
+      "address": "Survey No 149 Block, 195, Althan - Sarsana Road, Surat",
+      "lat": 21.1408056,
+      "lng": 72.8010008,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtRPfgqFN4DsRLZAvPqe5LYM",
+      "name": "IndianOil",
+      "address": "Survey No 33 UM Road, Paiki, Vesu, Piplod, Surat",
+      "lat": 21.153679,
+      "lng": 72.778046,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-xBrM-JT4DsRyCEPt4x1SLU",
+      "name": "Shell Petrol Pump",
+      "address": "beside Metro Cash & Carry, VIP Road, Surat",
+      "lat": 21.144716,
+      "lng": 72.80188799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJz_3UBgBR4DsRdy5Z2yJ_Ps8",
+      "name": "petrol Pump",
+      "address": "4R8C+GP5, Dundi, Surat",
+      "lat": 21.1162677,
+      "lng": 72.8218581,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJm4hYL4pN4DsRbeoVe9hwRl0",
+      "name": "IndianOil",
+      "address": "Khata No 23 Survey No 191, Bavla",
+      "lat": 21.1601,
+      "lng": 72.7713,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJv52jftdN4DsRxEhXdoaCNBM",
+      "name": "Shell Petrol Pump",
+      "address": "Dumas Road, Piplod, Surat",
+      "lat": 21.16073,
+      "lng": 72.77423,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJk1ax7jZN4DsRxxSwGGsSOao",
+      "name": "Surat aviation fuel station",
+      "address": "5P5Q+HVF, Bhatpore, Limla",
+      "lat": 21.1589383,
+      "lng": 72.7396624,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJD8-0gWZR4DsRrr51UUMo6U8",
+      "name": "J D PETROLEUM",
+      "address": "Sarvay No 85, 1 VILLAGE TANKOLI, Old, JALAPUR, Surat",
+      "lat": 21.1261332,
+      "lng": 72.826366,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPy2tQsdN4DsRnGnSigXlnKw",
+      "name": "Shell Petrol Pump",
+      "address": "New City Light Road, Althan, Surat",
+      "lat": 21.157833,
+      "lng": 72.797417,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4yL3gJ1R4DsRXcUAcTz6xJQ",
+      "name": "Nayara Fuel",
+      "address": "Block No. 169, R S No. 170+171, Jiav Budia Chokdi Nr Ramji Ni Wadi, Opp Rudarax Apartment, At: Jiav Taluka:, Dist:, Majura, Surat",
+      "lat": 21.1110401,
+      "lng": 72.8327473,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVXpcPwBR4DsRQ5m2iNj14Gg",
+      "name": "NARAYAN FUEL",
+      "address": "4R6M+F4W, near Ramji wadi, Sachin Magdalla highway, Jiav, Surat",
+      "lat": 21.1112337,
+      "lng": 72.8328233,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ4YNrHbWBXjkRA9oFj8kRcXo",
+      "name": "IndianOil",
+      "address": "Survey No 134, T P No 63, Vadod, Udhana, Surat",
+      "lat": 21.1269164,
+      "lng": 72.828983,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJz_DbQ_tN4DsRhE0lNfwQCsg",
+      "name": "IndianOil",
+      "address": "TPS No 4, FP No 116 Umra South, City Light Area, Athwa, Surat",
+      "lat": 21.16058,
+      "lng": 72.79725599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIy8SscFN4DsRWdcNMeahzOk",
+      "name": "Umang Petroleum,Nayara Petrol Pump",
+      "address": "near tirupati circle, Essar petrol pump, near tirupati circle, Vadod, Surat",
+      "lat": 21.1318325,
+      "lng": 72.82752529999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJk1MZ7s1R4DsRokB0OEDP9LM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "FP No 66/A, Vadod, Majura, Surat",
+      "lat": 21.131978,
+      "lng": 72.82760499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJp13zteVR4DsRZ3B3qZ882rQ",
+      "name": "Dipak Oil Mill",
+      "address": "228,mani nagar, New Bamroli Road, Pandesara, Surat",
+      "lat": 21.143752,
+      "lng": 72.820504,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ23Q6eOpR4DsRTyqWLXumbIM",
+      "name": "Vishat Cng Pump",
+      "address": "G-2, New Bamroli Road, Milan Point, Opposite Slok Residency, Bamroli Char Rasta, Jay Ambey Society, Pandesara, Udhana, Surat",
+      "lat": 21.1337033,
+      "lng": 72.82797099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOR7q2qdR4DsRh-a_a8ToseY",
+      "name": "IndianOil",
+      "address": "Ground Floor Sonari, Bonandh, Surat",
+      "lat": 21.110613,
+      "lng": 72.838146,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ06ZsyVZQ4DsRm_u2OzPp-dE",
+      "name": "Bharat Petroleum",
+      "address": "GIDC Main Road, Udhana, Surat",
+      "lat": 21.1184925,
+      "lng": 72.8591074,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ39uCWDVQ4DsRCjFZpEBRV34",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Safari Complex, Bhestan, Surat",
+      "lat": 21.13210819999999,
+      "lng": 72.852898,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdZclNDVQ4DsRxrVgQELLOdg",
+      "name": "Nayara Petrol Pump - Shree Krishna Petroleum",
+      "address": "Madhav Nagar, Bhestan, Surat",
+      "lat": 21.1350032,
+      "lng": 72.8516578,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrY0LqcxR4DsR_J1wbxj70ks",
+      "name": "Gujarat Gas CNG Station",
+      "address": "6, Udhana Main Road, Pandesara, Udhana, Surat",
+      "lat": 21.1387536,
+      "lng": 72.8510699,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaQF78NZR4DsRXNQHW-oBNcs",
+      "name": "Bharat Petroleum, Petrol Pump -Tejas Petroleum",
+      "address": "PANDESARA, SURAT, Surat",
+      "lat": 21.1516585,
+      "lng": 72.8434721,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRz2-0SJO4DsRCCmff8A9O2o",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 245, near National Bank, 120 Feet Bamroli Road, Karmayogi Society 1, TP Scheme, Udhana, Surat",
+      "lat": 21.1562415,
+      "lng": 72.8326275,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGbwhBhBO4DsRXMz95nXfmW4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No, opposite Meghna Complex, 158 & 159, Udhana - Magdalla Road, Bhatar, Udhana, Surat",
+      "lat": 21.164091,
+      "lng": 72.81682099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq5WMUOVP4DsRM4kH7ZeduTo",
+      "name": "MARUTI AUTO CENTRE DEALER OF BHARAT PETROLEUM CORPORATION LTD.",
+      "address": "Near gandhi kutir soc, next to Surya Plaza, complex, Udhana - Magdalla Road, Surat",
+      "lat": 21.1648265,
+      "lng": 72.8165933,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_5mRUqtQ4DsRiQ9uLGtCc3o",
+      "name": "Nayara Petrol Pump",
+      "address": "Lajpore, Old Surat Mumbai Highway, Adarsh Nagar, Kanakpur, Sachin, Surat",
+      "lat": 21.0681019,
+      "lng": 72.8935736,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOzgVrzBO4DsRlV1q1tduYaY",
+      "name": "IndianOil",
+      "address": "Plot No 4 & 5, Udhana, Surat",
+      "lat": 21.171227,
+      "lng": 72.8400511,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxWF4NQBR4DsRiKvhhcjwvxA",
+      "name": "Bharat Petroleum, Petrol Pump -Lalit Motors",
+      "address": "GABHENI, SURAT, Surat",
+      "lat": 21.1072064,
+      "lng": 72.8500023,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY_O_j_9Q4DsRIIFFQDQVyZs",
+      "name": "bpn",
+      "address": "India",
+      "lat": 21.1093573,
+      "lng": 72.8536658,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ71z6dK1R4DsRHKIyhp2gNUY",
+      "name": "Surat BRTS Depot",
+      "address": "4R9X+VGW, Bhestan, Sonari",
+      "lat": 21.119725,
+      "lng": 72.848818,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvfitEABR4DsRYCqJQV5yO-Q",
+      "name": "Piyush point petrol pump",
+      "address": "4RHQ+M2J, Ganesh Nagar, Pandesara GIDC, Udhana, Surat",
+      "lat": 21.1292163,
+      "lng": 72.8375161,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJH5vVzVdQ4DsRHFV-9nwgW54",
+      "name": "IndianOil",
+      "address": "Unn Char Rasta, Unn Patiya, Udhana, Surat",
+      "lat": 21.111639,
+      "lng": 72.860748,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-d_aUNtb4DsRE8TiCOjFT2U",
+      "name": "Shree Ram Petrol Pump",
+      "address": "No 8, Surat - Palsana, Sachin, Surat",
+      "lat": 21.1106024,
+      "lng": 72.8614625,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJMRk6tLRR4DsRgA4XWSKXinw",
+      "name": "Boon Gasoline",
+      "address": "Unn Char Rasta, Unn Patiya, Udhana, Un",
+      "lat": 21.1130858,
+      "lng": 72.8609635,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ6XkrUlRR4DsR3-VouLw-zKE",
+      "name": "Babu Bhai house",
+      "address": "4RJM+CGM, Surat",
+      "lat": 21.1310869,
+      "lng": 72.8337892,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJb5rJFzlR4DsRNUYMfqWPp4I",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 133, 137, 139, Block No 180, opposite Ashish Hotel, Un",
+      "lat": 21.103501,
+      "lng": 72.864431,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_eD1v4VR4DsREKFvUcdhwvU",
+      "name": "Astha Automobiles - Bharat Petroleum",
+      "address": "2, GIDC naka, Sachin, Surat",
+      "lat": 21.10245309999999,
+      "lng": 72.86498259999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ3xDkRjFR4DsRKesclgQmfW4",
+      "name": "Nayara Petrol Pump - Swastik Petroleum",
+      "address": "umiya estate, Plot no 1, Surat - Navsari Road, Bhestan, Surat",
+      "lat": 21.1219631,
+      "lng": 72.8576765,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGXiibwBR4DsRmwjf-UQngt0",
+      "name": "BPCL",
+      "address": "4V68+G8V, Un",
+      "lat": 21.1113547,
+      "lng": 72.8658006,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJs4oMse1Q4DsR0b4bAzpbBQ8",
+      "name": "Sai Petroleum",
+      "address": "Old Surat Mumbai Highway, GIDC, Sachin, Sachin INA",
+      "lat": 21.0974492,
+      "lng": 72.8713757,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJv0BWXMVQ4DsRpfBoHzVZ3lM",
+      "name": "IndianOil",
+      "address": "Ground Floor Block No 241/A, Bonand",
+      "lat": 21.0769817,
+      "lng": 72.8645306,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYb_Sps9R4DsRopm3VRdWyGE",
+      "name": "Nema Bhana Petroleum - Bharat Petroleum-BPCL",
+      "address": "Block no 292, opp. Shlok Arcade, Bamroli Char Rasta, Surat",
+      "lat": 21.1389133,
+      "lng": 72.826555,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJ9BtpqlR4DsRqKjRubMcTfc",
+      "name": "Nayara Petrol Pump - Shree Krishna Petroleum",
+      "address": "opp. Navin Fluorine Ind ., Udhna, F.P NO 63, T.P. SCH NO.21, opp. Navin Fluorine Ind ., Udhna, Sachin Bypass Road, Bhestan, Surat",
+      "lat": 21.1350179,
+      "lng": 72.8516379,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaZmSMctR4DsRZAl0TnOUmr4",
+      "name": "Sai Petroleum",
+      "address": "No 6, Surat - Navsari Road, Pandesara, Sachin, Surat",
+      "lat": 21.1364936,
+      "lng": 72.8511307,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJNfdLU4lR4DsR9bdDxgnKtEI",
+      "name": "Divine Fuel Services Pvt Ltd",
+      "address": "Plot No 1 To 4 Saikripa mill, Bhestan, Surat",
+      "lat": 21.1455356,
+      "lng": 72.8274709,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJy5rfg81R4DsRc15VweeFZ-c",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 198 & 199, Sachin Main Road, Pandesara GIDC, Udhana, Surat",
+      "lat": 21.14367009999999,
+      "lng": 72.8483801,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2ZgKN1NR4DsR3FOUJRP5mGo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 60, Sachin Road, Choryasi, Eklera, Surat",
+      "lat": 21.124768,
+      "lng": 72.877055,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJF8teG9RR4DsRI8--C0qNQtc",
+      "name": "Shakti Petroleum",
+      "address": "Maruti Industrial Estate, 1, Udhana Main Road, Bhedwad, Pandesara GIDC, Udhana, Surat",
+      "lat": 21.1504474,
+      "lng": 72.84598199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ23u5lsNR4DsR0GbglIug-4c",
+      "name": "Pradeep Service",
+      "address": "Shop No 1suda Sectar, Sachin, Surat",
+      "lat": 21.0799261,
+      "lng": 72.88533149999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ23oZNe9P4DsRxNZiPzhjkRY",
+      "name": "RAHUL KOLATE",
+      "address": "497, 2, Sonal Society, Udhana, Surat",
+      "lat": 21.155681,
+      "lng": 72.83633,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJeSLAxilO4DsRFMG-wKigt-Y",
+      "name": "Jio-bp",
+      "address": "Tps No 02, Fp No 19, opposite Brc Gate, P Choryasi, Udhna Navsari Road, Udhana, Surat",
+      "lat": 21.156279,
+      "lng": 72.84365799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdSrMJbxR4DsRj0_URDjzG0Q",
+      "name": "IndianOil",
+      "address": "No 243/2/P, Surat - Navsari Road, Lajpore, Kacholi",
+      "lat": 21.075295,
+      "lng": 72.888384,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl83ewtdR4DsRYHFvdPv2Vs4",
+      "name": "Krishna Gas Station",
+      "address": "Shop No 43, Shivnagar Society, Dindoli, Surat",
+      "lat": 21.1518467,
+      "lng": 72.8628097,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJi2vMlxhO4DsRXaTjOz0uiDI",
+      "name": "Reliance Gas",
+      "address": "India",
+      "lat": 21.1606256,
+      "lng": 72.82700799999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJk53ZxI9R4DsRC33A-AMB5uQ",
+      "name": "Nayara Petrol Pump - Raj Petroleum",
+      "address": "4VQJ+JG6, 64, canal road, Karadva Gam, Karadva",
+      "lat": 21.1384102,
+      "lng": 72.88175319999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwy3AZOVR4DsRSLAfniZ5nB4",
+      "name": "HP Petrol Pump - COMCO",
+      "address": "mark point, Karadva - Dindoli Road, Sai Shiv Shakti Society, Dindoli, Surat",
+      "lat": 21.147929,
+      "lng": 72.872883,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJySuLKuZR4DsR9Nq6EH1BoR8",
+      "name": "Jay Samrpan Auto Service",
+      "address": "2, Krishna Park, Sachin, Surat",
+      "lat": 21.0894502,
+      "lng": 72.8975517,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJW7QP79BZ4DsR9sXIIdAeAMU",
+      "name": "IndianOil",
+      "address": "Ground Floor, Maroli, Parujan",
+      "lat": 21.032673,
+      "lng": 72.90666,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ408ZeeZb4DsR5FKbVHNnuEo",
+      "name": "M/S KESHARINANDAN PETROLEUM PALSANA",
+      "address": "Palsana",
+      "lat": 21.0856048,
+      "lng": 72.97579309999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVbCGKgBb4DsR4k9U9cBOS2I",
+      "name": "Ansh gas agency",
+      "address": "C-17/16, Center Rd, Hoziwala Industrial Estate, Sachin Apparel Park SEZ., Sachin, Surat",
+      "lat": 21.0818507,
+      "lng": 72.91502190000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJNQSwRgBb4DsRHztqwfYb3n0",
+      "name": "Ansh gas agency",
+      "address": "C-17/16, Center Rd, Hoziwala Industrial Estate, Sachin Apparel Park SEZ., Sachin, Surat",
+      "lat": 21.0819083,
+      "lng": 72.9151876,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJh-SapnNQ4DsRVAaiYHq5Ew8",
+      "name": "Bharat Petroleum",
+      "address": "4VMR+F9M, Surat",
+      "lat": 21.1337074,
+      "lng": 72.8909236,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJjZzI4SVZ4DsRBFXyg4BiAcM",
+      "name": "BHARAT PETROLEUM SIDDHI VINAYAK AUTOMOBILES",
+      "address": "to, Surat - Navsari Road, NH228, Surat",
+      "lat": 21.0649439,
+      "lng": 72.9006911,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnw0VR_5Z4DsR9GfgzyTGDjM",
+      "name": "Bharath Petroleum",
+      "address": "India",
+      "lat": 21.0648092,
+      "lng": 72.90038489999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJq5lF1U9R4DsRKdgctAtvd7w",
+      "name": "IndianOil",
+      "address": "B No 48A Choriyasi, Saniya Khande, Limbayat, Surat",
+      "lat": 21.134521,
+      "lng": 72.889366,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJV-Tb3DFa4DsR24KUyD2Dd84",
+      "name": "IndianOil",
+      "address": "Survey No 6, Block No 9, Palansa Road, Sachin, Surat",
+      "lat": 21.0846528,
+      "lng": 72.9383659,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcVIHGc5b4DsR1vtxu-LVJiE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 2 NH 53, Hazira Palsana Rd, Palsana, Lingad",
+      "lat": 21.085493,
+      "lng": 72.93900359999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJWHP-Btb4DsRPIEihCP2MEo",
+      "name": "GM Petroleum (BPCL)",
+      "address": "4VQX+QJ, Surat",
+      "lat": 21.139394,
+      "lng": 72.8990376,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkdrnxVFZ4DsRIRRC7Nqh_TM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 551/2, Choryasi, Lajpur",
+      "lat": 21.061203,
+      "lng": 72.90682199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaS0sUxlR4DsRHDBkLdeYDKg",
+      "name": "IndianOil",
+      "address": "Survey No 341, P Choryasi, Deladva Gam, Surat",
+      "lat": 21.1398125,
+      "lng": 72.8911875,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJu-Za9iRR4DsRHtDM1G8xK7c",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 183, Sachin Road, Choryasi, Dindoli, Surat",
+      "lat": 21.1421188,
+      "lng": 72.8816081,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJN_3Cw5xR4DsREdMdCEoFeMc",
+      "name": "Puc Centre Dindoli",
+      "address": "HP PETROL PUMP (SHAKTI PETROLEUM, Karadva Gam, Surat",
+      "lat": 21.1422244,
+      "lng": 72.8817827,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJzdOYTWpb4DsRslcIIIBzxUY",
+      "name": "Nayara suryajyot",
+      "address": "near PALSANA, NH ,53, near PALSANA, Taraj",
+      "lat": 21.0866621,
+      "lng": 72.9616473,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJfbJfoEBb4DsR0WkXZiWUhOA",
+      "name": "Shreeji Acetelein compny Unit-2",
+      "address": "3XP8+X47, Surat",
+      "lat": 21.0874181,
+      "lng": 72.9652912,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJzxbvSqRb4DsR2XhSFJYl2dc",
+      "name": "Italva Petroleum",
+      "address": "Survey no.14, AA, Sachin - Palsana Road, Sachin, Surat",
+      "lat": 21.0853111,
+      "lng": 72.9648543,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg18mCgBb4DsRfmQmvk9jdho",
+      "name": "Nikhil Kumar",
+      "address": "3XM7+MRH, Palsana",
+      "lat": 21.0841966,
+      "lng": 72.9646166,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJmc8dz9xb4DsRlBZ2tTM5Om0",
+      "name": "Maniar Petroleum BP",
+      "address": "N.H. No. 6, Block No.19, Sachin Palsana Road, Palsana, Chokdi, Patia, Italva",
+      "lat": 21.0863477,
+      "lng": 72.96575419999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH2DM5wRb4DsRrQ1Bqq0RNnE",
+      "name": "BHARAT PETROLEUM",
+      "address": "3XP8+5C2, Palsana",
+      "lat": 21.0854892,
+      "lng": 72.96565,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJMaCpboVb4DsRDngLtJbg0Xw",
+      "name": "IndianOil",
+      "address": "No 85/B, Rs No 92 & 93P Kharbhasi, Limbayat, Palsana",
+      "lat": 21.1504615,
+      "lng": 72.9423113,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJt0Vhshdb4DsRsyJv8YjWeiQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 85A, Palsana, Kharbhasi",
+      "lat": 21.151349,
+      "lng": 72.94240099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7fOlevRb4DsRUTkCYHR6go0",
+      "name": "IndianOil",
+      "address": "Survey No 20, Palsana, Karala",
+      "lat": 21.148618,
+      "lng": 72.950721,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGzWIGQBb4DsR8dqKajc1QNg",
+      "name": "BPCL Petrol Pump | Good Luck Fuel Station",
+      "address": "Number_48, Mu.Post, National Highway, Ta, Baleshwar",
+      "lat": 21.1058658,
+      "lng": 72.9756072,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxVZaa-1Z4DsRSUr8ZRJgvdI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Surat - Navsari Road, Sachin, Maroli",
+      "lat": 21.0304901,
+      "lng": 72.9088201,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8bRi8olP4DsRUbHtCiwPqjw",
+      "name": "Dwarkesh Petroleum",
+      "address": "City.S.62, Devadh-Kumbhariya Road, Ta, Choryasi, Devadh Gam, Surat",
+      "lat": 21.170253,
+      "lng": 72.895776,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJOe1xFTVb4DsRfSD959rE8d4",
+      "name": "Nayara Parekh Pump Store",
+      "address": "National Highway 48, Surat",
+      "lat": 21.10866219999999,
+      "lng": 72.9758379,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAQ6arTVM4DsRAUWfRhMwDQw",
+      "name": "IndianOil",
+      "address": "FP No 58/P, RS No 109, 1/2, TPS No 32, Adajan, Surat",
+      "lat": 21.1985033,
+      "lng": 72.78323379999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZUtdaM5N4DsRFlHcfnRT-Kw",
+      "name": "Shell",
+      "address": "Sneh Sankul Wadi, LP Savani Road, Adajan Gam, Surat",
+      "lat": 21.188592,
+      "lng": 72.79034,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmVsc08hN4DsRnUeGSbZQGIg",
+      "name": "Gujarat Gas CNG Station",
+      "address": "87-88, Adajan Gam, Surat",
+      "lat": 21.19041199999999,
+      "lng": 72.7951731,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfZ9P_9xM4DsR33l6YUfnK-0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "SUR No 935 & 937, SH 168, Hazira-Sayan Road, Choryasi, Ichchhapor, Surat",
+      "lat": 21.197874,
+      "lng": 72.7302701,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJw1xDktdM4DsRNg0mTRjjRIk",
+      "name": "IndianOil",
+      "address": "Ground Floor, SH 12 Hajira Rd, Icchapore, Charrasta, Bhatha, Surat",
+      "lat": 21.190002,
+      "lng": 72.720753,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHwDh4MxN4DsRvYOXJ-UkpGI",
+      "name": "Bharat Petroleum, Petrol Pump -Anavil Petroleum",
+      "address": "Adajan, Surat",
+      "lat": 21.2042964,
+      "lng": 72.7890455,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_3K1Z3dO4DsRmPi2WviFb2g",
+      "name": "B.P.C.L Athwa automobiles",
+      "address": "opposite Mission Hospital, Surat - Dumas Road, Athwalines, Athwa Gate, Surat",
+      "lat": 21.18497319999999,
+      "lng": 72.8081486,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkbDyfNVM4DsRZTq8PfGmFnk",
+      "name": "IndianOil",
+      "address": "opp. HAEP Township, nr. Kawas, RS No 672/2 686 & 687, Hazira Road, Patia, Ichchhapor, Surat",
+      "lat": 21.187741,
+      "lng": 72.71207319999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJi67iOYBO4DsRuywgmv_DlzE",
+      "name": "IndianOil",
+      "address": "near Sugam Society, No 463, Bunder Road, Adajan Patiya, Surat",
+      "lat": 21.1994869,
+      "lng": 72.8054903,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL0yB9xZM4DsR_T1SueFvKvI",
+      "name": "Gujarat State Petronet Ltd",
+      "address": "6QCQ+JFX, Dattatrey Society, Morabhagal, Surat",
+      "lat": 21.2216037,
+      "lng": 72.7887485,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ_zPYpBdM4DsRJH5anPLKe7s",
+      "name": "Hpcl Petrol Pump",
+      "address": "Hp petro pump, Surat",
+      "lat": 21.2209375,
+      "lng": 72.7904375,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJr3qQTmJO4DsRhkvioqwRz5g",
+      "name": "Gujarat Gas CNG Station",
+      "address": "5RW9+GXG, Swamy Dayananad Sagar Marg, Chowk Bazar, Surat",
+      "lat": 21.1963124,
+      "lng": 72.8199685,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEbhGY2JO4DsRWtmoICRG2xU",
+      "name": "Bharat Petrol Pump",
+      "address": "CHOWK BAZAR, SURAT, Surat",
+      "lat": 21.1979142,
+      "lng": 72.8193864,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJIcc7KEFO4DsRVyna_Q0wlT8",
+      "name": "IndianOil",
+      "address": "Ground Floor, Udhana, Surat",
+      "lat": 21.17963,
+      "lng": 72.833443,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJU5HdbERO4DsRYlGPHNkIqj0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, opposite Fire Brigade, Ring Road, Surat",
+      "lat": 21.18448009999999,
+      "lng": 72.8347201,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLytAwn9gUjoR-vm_8ylLkgU",
+      "name": "IndianOil",
+      "address": "Survey No 1/2/A, 1/2, B Block, Jahangir Pura, Choryasi, Surat",
+      "lat": 21.2361946,
+      "lng": 72.7900006,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwyDmXq9N4DsRcK258_wmgB8",
+      "name": "B.P.C.L petrol pump",
+      "address": "Hazira Road, Bhatha, Surat",
+      "lat": 21.1816729,
+      "lng": 72.76368970000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtT_GGgBN4DsRuFFxc2EaznA",
+      "name": "Reliance Jio Petrol Pump",
+      "address": "50, Hazira - Adajan Road, Bhatha, Surat",
+      "lat": 21.1819833,
+      "lng": 72.7646254,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ846Yy6hN4DsRAljH19ERL64",
+      "name": "Vinod Petroleum Centre",
+      "address": "5QM7+53P, Hazira - Adajan Road, Bhatha, Surat",
+      "lat": 21.1829596,
+      "lng": 72.76269529999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJf6AM2shN4DsRgwE7fdy4HgA",
+      "name": "Nayara Petrol Pump - Jalaram Petroleum",
+      "address": "BLOCK.NO.478, near CHIKUWADI, Hazira Road, Bhatha, Surat",
+      "lat": 21.1877424,
+      "lng": 72.7585356,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJu7FY3xRN4DsRlSjrDndcpMo",
+      "name": "Indian Oil Petrol Pump - Hariom Fuels",
+      "address": "nr. Baghban Kratos Club, Pragati Marg, Pal Gam, Surat",
+      "lat": 21.1885548,
+      "lng": 72.77228769999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlVymEmlN4DsRfeB3SJBaJcc",
+      "name": "J D Petroleum",
+      "address": "opposite Silicon Luxuria, Pal Gam, Surat",
+      "lat": 21.1840747,
+      "lng": 72.7793713,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlejZ58FN4DsRCGcfbLNkXeA",
+      "name": "IndianOil",
+      "address": "No 193/2 Block, No 447, Choryasi, Bhatha, Surat",
+      "lat": 21.19151829999999,
+      "lng": 72.7526123,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHeTd1utN4DsRpeKX4Vvy0aM",
+      "name": "IndianOil",
+      "address": "FP No 150, Parle Point, Umra North, Surat",
+      "lat": 21.168941,
+      "lng": 72.786369,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjfsDCuNN4DsRPtOYwaN7SgU",
+      "name": "IndianOil",
+      "address": "T P No 33, T P No 16, Adajan, Surat",
+      "lat": 21.190155,
+      "lng": 72.77613,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsxTzExVN4DsRUZK1VxBJiSg",
+      "name": "Bharat Auto Fuels",
+      "address": "next to Nanavati Toyota, NH 6, Bypass, Bhatpore, Hazira",
+      "lat": 21.1686977,
+      "lng": 72.7349742,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwYSo2uOy4TsRvstmUZaQ-k8",
+      "name": "Reliance Petroleum",
+      "address": "RELIANCE RETAIL OUTLET OPP GATE NO 3 SURVEY NO 195/A/1 RELIANCE HAZIRA, COMPLEX, SURAT HAZIRA ROAD, VILL-MORA, POST, Hazira Road, Bhatha, Surat",
+      "lat": 21.1688044,
+      "lng": 72.7341687,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzxXzrUZN4DsR8OHH4uJgnbs",
+      "name": "Gangaparivar Petro",
+      "address": "152, Moti Fali, Pal Gam, Surat",
+      "lat": 21.1945095,
+      "lng": 72.7758405,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJGz7fjoNN4DsR9RZlF4WCvKI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "4 Plot, No 41, opposite Maheshwari Bhavan, TP No, City Light Road, Surat",
+      "lat": 21.1690995,
+      "lng": 72.79494609999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8R-AXOZN4DsRZvo_krfJpIo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "4 Plot, No 41, opposite Maheshwari Bhavan, TP No, City Light Road, Surat",
+      "lat": 21.1690995,
+      "lng": 72.79494609999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-YEQjSNN4DsRankOiJSlue0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Plot No A/8/A, Hazira Palsana Road, NH 53, Hazira - Adajan Road, GIDC, Ichchhapor, Surat",
+      "lat": 21.181821,
+      "lng": 72.728051,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl2qz1nFN4DsR5np1r4Mmpf4",
+      "name": "Nayara Petrol Pump - RD Ahir Petroleum",
+      "address": "Ahir Petroleum, R D, Gaurav Path Road, Surat",
+      "lat": 21.203986,
+      "lng": 72.7670253,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe3J-t1VN4DsRtlEeKMAeXnw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 221, TP 10th Road, Adajan, Pal Gam, Surat",
+      "lat": 21.2009582,
+      "lng": 72.77735799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx7B3BOFN4DsRihH7ZpmMUEY",
+      "name": "Nayara Petrol Pump - Harihar Petroleum",
+      "address": "School, near LP Sawani, New Pal Road, Adajan, Surat",
+      "lat": 21.2010686,
+      "lng": 72.7797647,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaa6DLABN4DsRP31ohh-E-4c",
+      "name": "V . V and brother s cng station",
+      "address": "Row House, 121, near Ajanta, Pankaj Nagar, Surat",
+      "lat": 21.2011259,
+      "lng": 72.7797484,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJs00jROVN4DsRUmLcrwtyQjk",
+      "name": "IndianOil",
+      "address": "FP No 158, Block No 123, Palanpur, Surat",
+      "lat": 21.205544,
+      "lng": 72.767335,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJO1WsWQBN4DsRDlKJ9oLdfN8",
+      "name": "BSNL office ayodhya Nagari Road",
+      "address": "Ganga Nagar, nr. BSNL offers, ayodhya Nagari Road, palan pur patiya, Surat",
+      "lat": 21.1923102,
+      "lng": 72.7937683,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJd93Wp0NN4DsRoJZESzmjOOQ",
+      "name": "ARTI PETROLEUM",
+      "address": "Swagat Business Hub, near Cng Pump, 302, Hazira Road, Surat",
+      "lat": 21.1912939,
+      "lng": 72.72359399999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJN1VVxShN4DsRFR3o9eyl9uk",
+      "name": "HPCL Terminal",
+      "address": "5PM9+7PG, Kavas, Hazira",
+      "lat": 21.18319,
+      "lng": 72.71932199999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ9UWbJDJM4DsRoDCHmowt1Vs",
+      "name": "Gujarat Gas CNG Station",
+      "address": "10, Chatrapati Shivaji Marg, Adajan Gam, Adajan, Surat",
+      "lat": 21.2008015,
+      "lng": 72.7905996,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJT6--RNNN4DsRKCu2L-GZGBk",
+      "name": "IndianOil",
+      "address": "Gondal Road, Anand Mahal Road, Adajan, Surat",
+      "lat": 21.1953861,
+      "lng": 72.7973244,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJibyqzSpM4DsRDe_KfT5cNOE",
+      "name": "Gasolina",
+      "address": "2, Muktanand Nagar Road, Muktanand Nagar, Narotam Nagar, Surat",
+      "lat": 21.20236,
+      "lng": 72.79442999999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJb18uA65P4DsR1S0wHjjYTV0",
+      "name": "Gujarat Gas CNG Station",
+      "address": "near Bhara Petrol Pump, Puna Kumbhariya, near Bhara Petrol Pump, Road, Intercity Township Society, Parvat Patiya, Surat",
+      "lat": 21.1914413,
+      "lng": 72.8581761,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJR45EYfdO4DsRLTzK-OERGyw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, opposite Railway Station, Railway Station Road, Sufi Baug, Railway Station Area, Varachha, Surat",
+      "lat": 21.204941,
+      "lng": 72.839381,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm3953UlO4DsRQACUiKZnc70",
+      "name": "Petrol Pump",
+      "address": "11, 80 Feet Road, New Ramdev Nagar, Aanjada Nagar, Bhatena, Surat",
+      "lat": 21.1787413,
+      "lng": 72.84415609999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8cz5-5NO4DsRuT61rWMbXIg",
+      "name": "SHRI SIDDHI VINAYAK PETROLEUM",
+      "address": "Plot No. 3-A, Ved Road, Opp Pran Nath Hospital, Singanpor, Surat",
+      "lat": 21.2158869,
+      "lng": 72.8223685,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlxUS8FZO4DsRnu7gOIy30jc",
+      "name": "Bpcl Petrol Pump",
+      "address": "Sahara Darwaja, Umarwada, Surat",
+      "lat": 21.1962987,
+      "lng": 72.8438968,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTTUg_LFP4DsReFtJXQhO4Jk",
+      "name": "Bharat Petroleum Petrol Pump",
+      "address": "Krushi Bhavan Kelayard Puna Kumbharia Road Intercity Township Society, Dumbhal, Surat",
+      "lat": 21.1915034,
+      "lng": 72.8582097,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbYoWg_dO4DsRvr-QdDs-QIA",
+      "name": "IndianOil",
+      "address": "Ground Floor, Unapani Road, Surat",
+      "lat": 21.2033962,
+      "lng": 72.8391067,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkebpJvlO4DsRu1_X5cEXVLY",
+      "name": "CNG Pump Online",
+      "address": "B-19, Lambe Hanuman Road, Saify Society, Varachha, Surat",
+      "lat": 21.2034019,
+      "lng": 72.8391235,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJX-ie5rxP4DsRS6wzecadsr0",
+      "name": "IndianOil",
+      "address": "Block No 55, Surat - Kadodara Road, Magob, Surat",
+      "lat": 21.190849,
+      "lng": 72.871719,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMbKXbpFP4DsRg3FnJU4k2ZY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 6, Puna Kumbharia Road, Choryasi, Saroli, Surat",
+      "lat": 21.189121,
+      "lng": 72.88340099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfx2dhZFP4DsRs3rweq2mz2E",
+      "name": "Bharat Petroleum",
+      "address": "Swastik Automobiles, Station Road, Saroli, Surat",
+      "lat": 21.1887165,
+      "lng": 72.8847237,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvxWspBFP4DsRRBQrpZO4Y04",
+      "name": "IndianOil",
+      "address": "Ground Floor, Varachha Main Road, Kapodra Patiya, Surat",
+      "lat": 21.217327,
+      "lng": 72.86743899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJiziUKsLwAjoRO5THAjtyMxY",
+      "name": "IndianOil",
+      "address": "Coop Bank, near Varachha, Varachha Main Road, Kapodra Patiya, Surat",
+      "lat": 21.220299,
+      "lng": 72.87297099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8VF9Aq1P4DsRovHVlnO674E",
+      "name": "IndianOil",
+      "address": "Survey No 58, P & 66/P, Umarwada, Surat",
+      "lat": 21.219283,
+      "lng": 72.877832,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJxUWsm5P4DsRozV8g2f8xQc",
+      "name": "Shell",
+      "address": "89, Nana Varachha, PAIKEE",
+      "lat": 21.222206,
+      "lng": 72.88190999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdazGaD1O4DsRPEqGePoBbAM",
+      "name": "Ramdev Textile",
+      "address": "ramdev Textile ,11 murgiwala compaund., Bamroli Road, Surat",
+      "lat": 21.1668059,
+      "lng": 72.82876739999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJV1lR4BVO4DsRVAde1MfwzGs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "S No 12, C/1/P, Bamroli Road, Surat",
+      "lat": 21.17049099999999,
+      "lng": 72.826701,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo9xLYj1O4DsR6euMeaDr16o",
+      "name": "Bharat Petroleum Petrol Pump",
+      "address": "5R8H+Q68, new civil Near sosyo-komal circle, Bamroli Road, Surat",
+      "lat": 21.1669066,
+      "lng": 72.8280791,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3QXCnRZO4DsR6OLW0dbhtdY",
+      "name": "Krishna Petroleum",
+      "address": "No 160/P, Udhana - Magdalla Road, Athwalines, Khatodra Wadi, Surat",
+      "lat": 21.16679019999999,
+      "lng": 72.8280231,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ0xDMnBVO4DsRKELYYqiCiM0",
+      "name": "Shree Sarvodaya Petroleum",
+      "address": "near Sosyo Circle, Udhana - Magdalla Road, Swaminagar Society, Bhatar, Athwa, Surat",
+      "lat": 21.1733048,
+      "lng": 72.82715329999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY1YBX4VP4DsRIPG9P9opwYI",
+      "name": "Prakash",
+      "address": "ashirvad sqare, L 12, Udhana - Magdalla Road, Sosyo Circle, Udhana, Surat",
+      "lat": 21.1727603,
+      "lng": 72.82644619999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_VHjdwBP4DsR92v_UqBVG5g",
+      "name": "Sukhlal kori",
+      "address": "5RGH+7G2, Surat",
+      "lat": 21.1756466,
+      "lng": 72.828754,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJWWDKhB9P4DsRjL5cSc031e4",
+      "name": "Bharat Petroleum -Prabhat Petroleum",
+      "address": "PANDESARA ROAD, SURAT, Surat",
+      "lat": 21.164323,
+      "lng": 72.8329771,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJfzHiJtpP4DsRka_V_Oo0bKs",
+      "name": "KGN DIESEL",
+      "address": "2 Swastik Trasporr Service, Sachin, Surat",
+      "lat": 21.16884,
+      "lng": 72.83989729999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJpxSKuW1P4DsR4kOsAk1QTMg",
+      "name": "Shell",
+      "address": "Bamroli Road, Surat",
+      "lat": 21.177186,
+      "lng": 72.825799,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgRPqGTBO4DsRuOe4ts0mtXw",
+      "name": "Bharat Petroleum, Petrol Pump -Udhna Petroleum Co.",
+      "address": "Udhana, Surat",
+      "lat": 21.1670118,
+      "lng": 72.8409176,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWeRfT45P4DsRAY72UXnOd14",
+      "name": "Nayra Energy Royal Petro",
+      "address": "S. No. 1, T.P, Survey No. 207/2/Paiki 1, F.P. No. 51 O.P. No. 43/C, Taluka, Udhana",
+      "lat": 21.1650547,
+      "lng": 72.8405645,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJCZBQ0G1O4DsRWVS0JVcMTO4",
+      "name": "Shell",
+      "address": "5RJ9+79W, TALUKA, PUNA",
+      "lat": 21.1807255,
+      "lng": 72.8184548,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJxcdL3hFP4DsRi8FsweaB6L0",
+      "name": "Sainath Petroleum - Bharat Petroleum",
+      "address": "Road Number 2, Udhana GIDC, Hari Ichchha Industrial Society, Udhna Udhyog Nagar, Udhana, Surat",
+      "lat": 21.1692867,
+      "lng": 72.8494731,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJp47NcSxO4DsRgyptLXz6xF8",
+      "name": "સ્પીડ પાવર લુબીકાન્ટ",
+      "address": "5R6X+Q3C, Road Number 6G, Citi Industrial Estate, Udhna Udhyog Nagar, Udhana, Surat",
+      "lat": 21.1619413,
+      "lng": 72.847655,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ1xOGES1O4DsRWvsI71AKE4o",
+      "name": "Dharat Petroleum",
+      "address": "5R8X+5Q9, Road No 3, Udhana GIDC, Hari Ichchha Industrial Society, Udhna Udhyog Nagar, Udhana, Surat",
+      "lat": 21.1654023,
+      "lng": 72.8494752,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJU9-79ExP4DsR--nFjlxzPDA",
+      "name": "Ananta Petroleum - Bharat Petroleum",
+      "address": "5R7X+XRP, Udhana GIDC, Hari Ichchha Industrial Society, Udhna Udhyog Nagar, Udhana, Surat",
+      "lat": 21.1653755,
+      "lng": 72.8494875,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJN8dBQ3xP4DsRN1Vk9yQgolc",
+      "name": "Gujarat Gas CNG Station",
+      "address": "Althan Tenament, Althan Road, Surat",
+      "lat": 21.1607318,
+      "lng": 72.81137,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2-nE73BO4DsRzJcQehkXTmw",
+      "name": "PUC Center",
+      "address": "5RM6+QW5, Athwa Gate, Surat",
+      "lat": 21.1843852,
+      "lng": 72.8123525,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJP88Q9zpb4DsRcAH9ku21ce0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Block No 10, B Station Road, Palsana, Chalthan",
+      "lat": 21.1562621,
+      "lng": 72.95641239999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8a-7zYpF4DsRlHpOYoBCyPQ",
+      "name": "BPCL Petrol Pump",
+      "address": "Shakti Vijay Society, Bajrang Nagar Society, Nana Varachha, Surat",
+      "lat": 21.2273297,
+      "lng": 72.8939904,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzWrzeqxP4DsRlN4U5IJC8No",
+      "name": "Reliance Petroleum",
+      "address": "DEVADH BARIA STATE HIGHWAY NO 62, SURVEY NO:176/P, SH-62, OPP: SPORTS COMPLEX BARIA-PIPLOD ROAD, TAL: DEVGAD BARIA, DIST:, Devgad, Devgadh Baria",
+      "lat": 21.17044139999999,
+      "lng": 72.8943768,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHTZNYQBP4DsR_hmtG_tip2w",
+      "name": "Indian Oil Petrol Pump",
+      "address": "B,248, babaliyu fadiyu, Devadh Gam, Devadh",
+      "lat": 21.1745361,
+      "lng": 72.891802,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZSwBeE5P4DsR2jAAiLPBshk",
+      "name": "Nayara Petrol Pump Shiv Anaya Petroleum",
+      "address": "Block No.137 survey no. 166, Devadh",
+      "lat": 21.178445,
+      "lng": 72.8899565,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFT3xZABF4DsRSwhIlU7twu4",
+      "name": "Sanidhya Petroleum - NAYARA",
+      "address": "Surat - Bardoli Road, Vedchha",
+      "lat": 21.1861015,
+      "lng": 72.90610629999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_WL8tmFF4DsRQWb3s7ovsEA",
+      "name": "IndianOil",
+      "address": "S N 0 44, Choryasi, Kumbharia Gam, Surat",
+      "lat": 21.187443,
+      "lng": 72.90049,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm5wXzo1F4DsR-jYaLETwSlM",
+      "name": "Bharat Petroleum, Petrol Pump -Vinayak Service Centre",
+      "address": "VEDCHA, NR BHATWARI HOTEL, Surat",
+      "lat": 21.18434899999999,
+      "lng": 72.9134428,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFZKUBY1P4DsRKI6cjK6xOec",
+      "name": "Hindustan Express",
+      "address": "Godown no 19, Ambika Transport nagar Market Hub B, opp. Shyam Sangini Textile, Saroli, Surat",
+      "lat": 21.1902881,
+      "lng": 72.8990113,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJaYX_VgBP4DsRSmWYQbsW8Bo",
+      "name": "ANTHEM FUEL STATION",
+      "address": "2007 - 2008, Saroli, Surat",
+      "lat": 21.184831,
+      "lng": 72.8809941,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJJ_HMpp9P4DsRguLZ2xwmODA",
+      "name": "Shell",
+      "address": "Surat - Kadodara Road, Surat",
+      "lat": 21.189247,
+      "lng": 72.884236,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJQ30jD4xP4DsRqTu1iJDHl2k",
+      "name": "Aastik Petroleum",
+      "address": "near Gujarat gas CNG, Godadara - Dindoli Road, Surat",
+      "lat": 21.1697192,
+      "lng": 72.87187109999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5V671sJP4DsRg5pMLrOe6Nk",
+      "name": "Gujarat Gas CNG Station",
+      "address": "Chamunda Residency, 382, chetan nagar Near Aaspas pas, Teen Rasta Circle, Navagam Dindoli, Godadara, Surat",
+      "lat": 21.1689513,
+      "lng": 72.8718547,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJN0GinTRP4DsRI6NpkCxejhE",
+      "name": "Shell Petrol Pump",
+      "address": "Surat - Kadodara Road, Taluka, Puna",
+      "lat": 21.189446,
+      "lng": 72.878671,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJD_LBZvdP4DsR5RCvKl_yQwQ",
+      "name": "Shell Petrol",
+      "address": "5VGC+XM5, Sanjay Nagar, Dhruv Park Society, Godadara, Surat",
+      "lat": 21.1773653,
+      "lng": 72.871515,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7yejPzNP4DsRvGFa-7gxAus",
+      "name": "Dhruv Petroleum (Bharat Petroleum)",
+      "address": "132, Shakti Nagar, Surat",
+      "lat": 21.1803077,
+      "lng": 72.87112069999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq-UlQCtP4DsRi5H-kVx3ZzA",
+      "name": "Nayara Petrol Pump",
+      "address": "Magob Parvat Khadi Bridge BRTS, Shakti Nagar, Surat",
+      "lat": 21.1855384,
+      "lng": 72.87067600000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmagQLwBF4DsRDIM74pkcpbo",
+      "name": "CHALTHAN",
+      "address": "5W8P+8RV, Chalthan - Niyol Road, Swastik Nagar, Khadki Faliya, Chalthan",
+      "lat": 21.1658508,
+      "lng": 72.9370461,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJxZ0jCplP4DsRWF9WOpb381w",
+      "name": "Shell Petrol Pump",
+      "address": "Puna Plaza, near पराठा दरबार, Vesu Canal Road, Magob, Surat",
+      "lat": 21.2023978,
+      "lng": 72.8856473,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJp46sC6NP4DsRx8_Lue-aeDA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Block No 127, Parvat Patia Valthan, Vesu Canal Road, Punagam, Surat",
+      "lat": 21.2041075,
+      "lng": 72.8886814,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJywrepWNO4DsRAqEnZGPdVsI",
+      "name": "Gujarat Gas CNG Station",
+      "address": "opposite N J Complex, Surat - Kadodara Road, Magob, Surat",
+      "lat": 21.1906156,
+      "lng": 72.8679217,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ83D6WiJP4DsRsFcte_4Kx0Y",
+      "name": "Govindji Petroleum",
+      "address": "Puna Plaza, near Vanmali Junction, Vesu Canal Road, Puna, Punagam, Surat",
+      "lat": 21.2056875,
+      "lng": 72.8893125,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS-jSXwBP4DsRXre-cywWP34",
+      "name": "Anjani Fuel Station (Nayara)",
+      "address": "6V5W+Q26, Shiv Darshan Society, Yoginagar Society, Surat",
+      "lat": 21.2091744,
+      "lng": 72.8945895,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0Q1p3GlP4DsRjTYP0HzHdME",
+      "name": "Shell Petrol Pump",
+      "address": "Nr Majestica, Brts Can, Vesu Canal Road Puna Kumbharia Road, Puna-Simada Road, Surat",
+      "lat": 21.209352,
+      "lng": 72.894651,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0S--0GFP4DsR9-0jgsxqQVc",
+      "name": "Doorstep Fuels India Pvt Ltd",
+      "address": "16 VINOBA NAGAR SOCIETY NR SIDDHANATH MAHADEV NAVANAGAR, Nilgiri Circle, Udhana, Limbayat, Surat",
+      "lat": 21.167707,
+      "lng": 72.85711959999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCUqKaHdP4DsRyHbQ06_6jw4",
+      "name": "આસ્થા લેસર",
+      "address": "6V5P+WF7, Pramukhchhaya Road, Pramukhchhaya, Vrundavan Society, Varachha, Surat",
+      "lat": 21.2097786,
+      "lng": 72.88617959999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJC9oF_idF4DsRe41-2vFSN4I",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 21.1772329,
+      "lng": 72.94571239999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ5ezHsQlM4DsRodHFiADqrxg",
+      "name": "Nayara Petrol Pump",
+      "address": "Vrajpari Corporation, Jahangir Pura, Surat",
+      "lat": 21.2394031,
+      "lng": 72.788716,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUUBTVfVK4DsRq6NAbmITnHQ",
+      "name": "IndianOil",
+      "address": "Survey No 13/2, No 540, Olpad, Masma",
+      "lat": 21.3091134,
+      "lng": 72.7568944,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJU-KTUABL4DsROA6BAYPbQKA",
+      "name": "Vista Petroleum (Indian Oil Pump)",
+      "address": "6QR8+XMC, Hazira-Sayan Road, Vanakala",
+      "lat": 21.2413662,
+      "lng": 72.76647419999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVSHGpn5M4DsR5lVqG3tnIo0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Block No 73/A & 74 SH 168, Hazira Sayan Hwy, Choryasi, Okha",
+      "lat": 21.233312,
+      "lng": 72.76154009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvStjj3xN4DsRvn825H1ML_s",
+      "name": "Bharat petroleum Pump Rupan Petroleum",
+      "address": "Near Bhesan chokdi, Hazira-Sayan Road, Hazira, Surat",
+      "lat": 21.2284148,
+      "lng": 72.75850299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcxSJRABL4DsRq7DmClfSPlA",
+      "name": "L K Petroleum- Nayra",
+      "address": "6QWF+VW, Vihel",
+      "lat": 21.24722389999999,
+      "lng": 72.77480539999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8RoMdABN4DsROe-Tp7uAeBI",
+      "name": "Nayara petrol pump",
+      "address": "6QJG+QHW, Vanakala",
+      "lat": 21.23198159999999,
+      "lng": 72.776456,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJQ8b4EwBN4DsRYhxqE06E5R8",
+      "name": "Nayara Petrol Pump - Nijanand Petroleum",
+      "address": "Jahangir Pura, Surat",
+      "lat": 21.2357032,
+      "lng": 72.78256019999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmcOpNUhN4DsRABjC38kD4hI",
+      "name": "Nayara Petrol Pump",
+      "address": "Dahin Nagar, Surat",
+      "lat": 21.2287082,
+      "lng": 72.7805906,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3y8G7rhN4DsRKqbC8akS5jI",
+      "name": "RAJVI Petroleum",
+      "address": "Block number 113/2, near podar international school, Dandi Road, Jahangirabad, Surat",
+      "lat": 21.2304025,
+      "lng": 72.78308009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJc3e3TgBN4DsRugo3CfMwG08",
+      "name": "Nayara petrol Pump",
+      "address": "6QCF+HXP, Ugat Canal Road, Ugat, Palanpur, Surat",
+      "lat": 21.2214671,
+      "lng": 72.7749429,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJnX3_lKpN4DsRklJfkB7Hhk4",
+      "name": "Prajay Petroleum",
+      "address": "7, Bhesan Road, Near Canal, Ugat, Palanpur, Surat",
+      "lat": 21.2212443,
+      "lng": 72.7749882,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJPQKAWABN4DsRZacRbUoo4so",
+      "name": "Abhi Petroleum ( BPCL Petrolpump)",
+      "address": "Block no. 228, opp. Lake garden, Bhesan Road, ugat, Bhesan, Surat",
+      "lat": 21.2165317,
+      "lng": 72.7598877,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJI5sDOQBN4DsRrzuQ2L9eLeo",
+      "name": "Shree dwarkadhish weighbridge",
+      "address": "6Q85+CMX, Bhesan Road, Bhesan Gam, Dahin Nagar, Surat",
+      "lat": 21.2161126,
+      "lng": 72.7592473,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJbcii0whM4DsRNs_jibuUxy4",
+      "name": "Gujarat Gas CNG Station",
+      "address": "6QPQ+FXC, Jahangir Pura, Rander, Surat",
+      "lat": 21.2362109,
+      "lng": 72.78997439999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ5_akj85N4DsRkyZRBsxfSDs",
+      "name": "IndianOil",
+      "address": "Block No 58/3/2, No FP 41, near Vivekananda Colleage, Jahangir Pura, Surat",
+      "lat": 21.2511021,
+      "lng": 72.7879566,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJyW-weidN4DsRHYRwzKxJUUA",
+      "name": "Shell Petrol Pump",
+      "address": "Olpad Road, Moje, Rander, Surat",
+      "lat": 21.23361599999999,
+      "lng": 72.78971299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKd-H6PdL4DsR1W14dbfp9pw",
+      "name": "HP GAS",
+      "address": "India",
+      "lat": 21.2426453,
+      "lng": 72.7911756,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJLXAwqlpN4DsRAPb_MGgciZM",
+      "name": "Nayara petroleum (Yash Petroleum)",
+      "address": "6QJR+Q5F, Gujarat State Highway 6, Dahin Nagar, Surat",
+      "lat": 21.2318963,
+      "lng": 72.7904326,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJv_6cDQBN4DsRQjiEMGjxOOc",
+      "name": "Vinayak petroleum Nayara Petrol Pump",
+      "address": "6QCP+V82, Devashish Nagar, Morabhagal, Surat",
+      "lat": 21.2221347,
+      "lng": 72.785781,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJt7ESdQBL4DsR4WO05otQhQE",
+      "name": "Akshat Petroleum",
+      "address": "7Q9F+RX9, Olpad Road, Jahangir Pura, Surat",
+      "lat": 21.269548,
+      "lng": 72.7749831,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1a_iioxN4DsRb2WatxLg4T0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 30, RS No 122, OP No 103, FP No 6, Rander Road, TP Scheme, Morabhagal, Surat",
+      "lat": 21.220951,
+      "lng": 72.790441,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIST6NMBN4DsRF2ZptN6qSY4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, next to Gujarat Glass Circle, Kosamba Sahol Road, Rander, Kosamba",
+      "lat": 21.220901,
+      "lng": 72.790517,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtctWeAzbwDsRSujDe00jLyA",
+      "name": "IndianOil",
+      "address": "RS No 377/1, Olpad, Ambheta",
+      "lat": 21.2649558,
+      "lng": 72.7295398,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfTMCcrJL4DsRtuIG9beIiHU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Block No 150 SH 6, Surat Olpad Main Rd, Talad, Olpad",
+      "lat": 21.2817301,
+      "lng": 72.7695701,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYXXup9JP4DsRpYC9BMWRZMg",
+      "name": "Nayara Petrol Pump",
+      "address": "Opp Sahaj Residency Haridarshan Khado, Dabholi Road, Surat",
+      "lat": 21.22902689999999,
+      "lng": 72.806405,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNaGvO2ZP4DsRJ6osClhQPXc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Dabholi, Surat",
+      "lat": 21.2343266,
+      "lng": 72.81076589999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm7FjDABP4DsR9sE90u5t8UM",
+      "name": "Nayara petrol",
+      "address": "6RM6+P85, Yojna Park Society, Dabholi, Surat",
+      "lat": 21.2342598,
+      "lng": 72.8108563,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ11muOwBP4DsRF91b-PJX1Ls",
+      "name": "Petrol pump",
+      "address": "A-303, bramhlok, resiDabholiSurat",
+      "lat": 21.2328379,
+      "lng": 72.8122454,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJr3tV9FhP4DsRXFTiR88JlkY",
+      "name": "Nayara Petrol Pump - Parshottam Petroleum",
+      "address": "near Shraddhadeep Society, Navo Mahollo Char Rasta, Singanpore, Causeway main road, Singanpore, near Shraddhadeep Society, Kantheriya Hanuman temple lane",
+      "lat": 21.2248284,
+      "lng": 72.8114643,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAUQlJuFP4DsRv1f3N-YA7F4",
+      "name": "RK Petroleum",
+      "address": "SUB PLOT- 3/B, FP- 78, TP- 25, R.S.No. 77,80,81, BHARIMATA BHARIMATA-CAUSEWAY ROAD, NR. CAUSEWAY CIRCLE, SINGANPORE",
+      "lat": 21.2193937,
+      "lng": 72.8094249,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhTX0269O4DsRdHW6sVLEyA4",
+      "name": "DIVINE AUTO GAS",
+      "address": "India",
+      "lat": 21.2347191,
+      "lng": 72.8156535,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJxU8oQMpP4DsRcvXr4F92Rlo",
+      "name": "B R Petroleum",
+      "address": "Survey no 80/4, opp. Laxminarayn Temple, 80/5, Nani Ved Road, Surat",
+      "lat": 21.2411541,
+      "lng": 72.8199351,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7YqcbnBO4DsRV4s_SoVM6AY",
+      "name": "Jalaram Petroleum",
+      "address": "nr. MANSAROVAR CIRCLE, SUR. NO 19, Sayan Road, Amroli, Surat",
+      "lat": 21.2397274,
+      "lng": 72.8509513,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaYbBcDtJ4DsRpIn3Wacv0R0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Block No 1231/A, Amroli Road, Chorasi, Variav, Hazira",
+      "lat": 21.2639416,
+      "lng": 72.8426807,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8e9mxn1P4DsR1AZma7gSBqk",
+      "name": "Nayara Petrol Pump (CNP Petroleum)",
+      "address": "6RQF+4JC, Sahyog Society, Vishal Nagar, Surat",
+      "lat": 21.2376113,
+      "lng": 72.82549300000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvb17NsRO4DsRXMo4a9ZRM5M",
+      "name": "Shree Jai Ambe Oil Depot",
+      "address": "6RJP+M33, Dabholi Road, Rajanand Society, Ram Nagar Society, Vishal Nagar, Surat",
+      "lat": 21.2316392,
+      "lng": 72.83516759999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJD1hyCWtP4DsRLgwUTx_9ae0",
+      "name": "Shree Sainath Enterprise",
+      "address": "Shop No.5, Patel Industries, opposite Maruti Impex, Katargam, Surat",
+      "lat": 21.2316819,
+      "lng": 72.82659939999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH0kOZQBP4DsRYMTXjDkyJX4",
+      "name": "Patrol Chor Indian Oil Patrol Pump",
+      "address": "6RHQ+CFH, Smruti Society, Patel Nagar, Surat",
+      "lat": 21.2285363,
+      "lng": 72.83876339999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJNac0RMNO4DsRkKwxrVhTmn8",
+      "name": "IndianOil",
+      "address": "Ground Floor, Katargam, Surat",
+      "lat": 21.228518,
+      "lng": 72.8387601,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4d9NYs5J4DsR_T3FJnoFEUM",
+      "name": "Nayara Petrol Pump, CD Petroleum",
+      "address": "B/501, Chhaprabhatha Road, Chhaprabhatha Gam, Amroli, Surat",
+      "lat": 21.2498118,
+      "lng": 72.843008,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJp9y2OMBO4DsRkOur3bBlDUY",
+      "name": "Sadguru Krupa Auto Garage & Service Station",
+      "address": "6RFH+MWM, Opposite Narayan Nagar, Singanpor Road, Snehsagar Society, Katargam, Surat",
+      "lat": 21.2242162,
+      "lng": 72.82979329999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJEWq9fCFP4DsRcaDhO8EIGSM",
+      "name": "Shell Petrol Pump",
+      "address": "Swami Parmanand Marg, Katargam, Surat",
+      "lat": 21.224813,
+      "lng": 72.838253,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBTAVTpVO4DsR3yNQy6BqaxA",
+      "name": "Khodal Oil",
+      "address": "Rang Darshan Society 2, Chikuwadi Road, Dan Gigev Society, Vishal Nagar, Surat",
+      "lat": 21.2218694,
+      "lng": 72.8274325,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJUV-ho8pP4DsRIwLtN6iBUYg",
+      "name": "Nayara Petrol Pump - Gajanan Petroleum",
+      "address": "Brts Bus Stop, beside BOI Bank, near Katargam, Road, Kasa Nagar, Katargam, Surat",
+      "lat": 21.2216929,
+      "lng": 72.8362981,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP5-Rz0JP4DsRFjEVkeLteIw",
+      "name": "Bharat Petroleum, Petrol Pump -S N Patel Petroleum",
+      "address": "AMROLI TO SAYAN, Surat",
+      "lat": 21.242185,
+      "lng": 72.8519361,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLe09PO5O4DsRhwiOSnYM3Ko",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Plot No 138, Vasta Devdi Road, Khursed Wadi, Katargam, Surat",
+      "lat": 21.2207701,
+      "lng": 72.83561010000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3WfzketO4DsRkLPwbVg67-Q",
+      "name": "IndianOil",
+      "address": "Survey No 4574, TPS, no..3, FP No 144, Katargam, Surat",
+      "lat": 21.2180466,
+      "lng": 72.8318858,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ62abs9ZP4DsRMciCuKaNOic",
+      "name": "Shree Ram Auto Consultant",
+      "address": "Asaram Road Nilam Petrol Pump",
+      "lat": 21.2177897,
+      "lng": 72.83142320000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVeAZeQBP4DsRBjvGZCFqNs4",
+      "name": "Riva petroleum Indian Oil",
+      "address": "77, New Kosad Road, Sai Ashish Society, Amroli, Surat",
+      "lat": 21.2440548,
+      "lng": 72.85572259999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJd5fI8YFJ4DsRO8evZ7ilJm4",
+      "name": "Jodhal Petrol Pump",
+      "address": "Hazira-Sayan Road, Variav, Surat",
+      "lat": 21.2633297,
+      "lng": 72.83575069999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJK5QPEwBP4DsRrVjqWbQPOf0",
+      "name": "GUJARAT GAS CNG PUMP",
+      "address": "6R8C+9X6, Industrial Area, Singanpor, Surat",
+      "lat": 21.21592069999999,
+      "lng": 72.8223781,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJCx3tBO1O4DsRy0pxciYgKJA",
+      "name": "Sai Sri Khodiyar Auto Garage Service Station",
+      "address": "C-1-24, Katargam Road, Gotalawadi, Katargam, Surat",
+      "lat": 21.21378589999999,
+      "lng": 72.830258,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6xXaXsBP4DsRzXBk4bze_Fo",
+      "name": "RADHE",
+      "address": "GROUND FLOOR, Katargam Darwaja Road, Kubernagar 1, Katargam, Surat",
+      "lat": 21.2129474,
+      "lng": 72.82520819999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJd3Jm27RP4DsR4Yvla2GA-q8",
+      "name": "Serdi Ras",
+      "address": "Ved Road, Pandol, Surat",
+      "lat": 21.2136878,
+      "lng": 72.82182689999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJf2NLKwOPXjkRuhBGSiIgC_U",
+      "name": "IndianOil",
+      "address": "Su/B No 169, Kamrej, Laskana, Abrama",
+      "lat": 21.249392,
+      "lng": 72.9247759,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0-tKeRdG4DsRzzVX8g934Ck",
+      "name": "IndianOil",
+      "address": "Chamunda Nagar, Surat",
+      "lat": 21.274283,
+      "lng": 72.9109959,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJh5ro_flG4DsR66Q9IOfropI",
+      "name": "NAYARA Petrol Pump (Kathor Petroleum)",
+      "address": "7XV2+4GQ, SH 602, Amboli",
+      "lat": 21.2933055,
+      "lng": 72.95154959999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL0OqnblF4DsRs46KM01iAyw",
+      "name": "Abhishek Infotech Pvt. Ltd.",
+      "address": "Sarthana Jakat Naka, Nana Varachha, Khadsad",
+      "lat": 21.2330416,
+      "lng": 72.90745009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXSMGxlpP4DsR4OeJ2VUIIDc",
+      "name": "Sagar Motors & Service Station",
+      "address": "42/43, Lajamani Chowk To Krishna Township Road, Satellite Road, Gopinath Society, Mota Varachha, Surat",
+      "lat": 21.2386596,
+      "lng": 72.8881359,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFTywE79P4DsRrDlT_OyDe9I",
+      "name": "G M Patel - HPCL Fuel Station",
+      "address": "Gujarat State Highway 602, near Nature Park and Zoo, Sarthana Jakat Naka, Nana Varachha, Surat",
+      "lat": 21.2294377,
+      "lng": 72.89462979999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfYeXXWBP4DsRb7TnTVrY0VM",
+      "name": "Shree Nyalkaran Motor & Gas Point",
+      "address": "opp. ashadeep sciencen bhavan school, plot nu. 50 akar soc. near angel hospital, opp. ashadeep sciencen bhavan school, Simada Naka, Surat",
+      "lat": 21.2265301,
+      "lng": 72.89701149999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLco4IuZF4DsRLaTSZfujDMo",
+      "name": "Shell",
+      "address": "India",
+      "lat": 21.2440147,
+      "lng": 72.9181199,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJeXPn9sBJ4DsR904o0r_TJu4",
+      "name": "Nayara Petrol Pump- Anthem Petroleum",
+      "address": "Dukhiyana Darbar Road, Upli Colony, Mota Varachha, Surat",
+      "lat": 21.2498018,
+      "lng": 72.88570469999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJezQV2ARF4DsRBdB2VYj8nuo",
+      "name": "Nandini Petroleum",
+      "address": "opp. TFC Business hub, 91-C, Pasodara Road, Sarthana Jakat Naka, Surat",
+      "lat": 21.2345208,
+      "lng": 72.9187257,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgVIFegFG4DsRT4kkLyHKm4A",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Block No 138, Nani Varachha Road, Abrama",
+      "lat": 21.2584343,
+      "lng": 72.9023471,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHZYHyQpP4DsRR8VOh6H3NdA",
+      "name": "HARIKRUSHN AUTO GAS",
+      "address": "SHOP NO.8, opp. CHOPATI, Varachha Main Road, Nana Varachha, Surat",
+      "lat": 21.2232005,
+      "lng": 72.88380699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQ00XNQBP4DsR3kOkOVovfkQ",
+      "name": "Bharat Petroleum",
+      "address": "opposite Platinum point, Mota Varachha Main Road, Surat",
+      "lat": 21.2369215,
+      "lng": 72.8750895,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ5WqlcDhP4DsRwTQLHUiHxNU",
+      "name": "Gujarat Gas",
+      "address": "India",
+      "lat": 21.2369404,
+      "lng": 72.87475789999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJFbTPVhtG4DsRS6upzV0tS30",
+      "name": "Abrama CNG Pump",
+      "address": "7W84+832, Abrama Road, Mota Varachha, Surat",
+      "lat": 21.2657589,
+      "lng": 72.90514390000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJc26NRABF4DsRCOO1PGB0S-8",
+      "name": "J.V Petroleum",
+      "address": "6WJG+8R, Khadsad",
+      "lat": 21.2307656,
+      "lng": 72.9271113,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJI0nq4ThP4DsReRg95O_FqUE",
+      "name": "Shell",
+      "address": "Mouje Utra Taluka Adajan, Mota Varachha Main Rd, Satellite Road, Surat",
+      "lat": 21.234705,
+      "lng": 72.872309,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbX1LIwlF4DsRi-T_dp8mEL8",
+      "name": "Nayara Petrol Pump - Anthems Energy",
+      "address": "Valthan-Punagam Road, Surat",
+      "lat": 21.2135756,
+      "lng": 72.909634,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmYA0InpP4DsRZRHrRarmPpo",
+      "name": "Yash Auto electric& Service steshan",
+      "address": "below Hare Krishna School, near Water Tank, 6, Puna-Simada Road, Yogichowk, Mansarovar Society, Yoginagar Society, Surat",
+      "lat": 21.2143744,
+      "lng": 72.8883543,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ70ZnNABF4DsRu1otfGLq_g4",
+      "name": "Rohan",
+      "address": "7W2H+VQ3, Laskana, Surat",
+      "lat": 21.2521408,
+      "lng": 72.9294293,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ6WCoJL9J4DsRprkjbmR0qtE",
+      "name": "Jio-BP Petrol Pump(Naksh Petroleum)",
+      "address": "Block No.224, Dukhiyana Darbar Road, Surat",
+      "lat": 21.2650624,
+      "lng": 72.8847337,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ95ZzC4lF4DsRj-uu7_uUhlo",
+      "name": "Maa Kripa Petroleum",
+      "address": "near anthem-circle, Plot no-77-6, Vesu Canal Road, near anthem-circle, Valthan-Punagam Road, Kosmada",
+      "lat": 21.2135497,
+      "lng": 72.9139309,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNU9Yt2xP4DsRnehSJpZiBZA",
+      "name": "Uma Petroleum (Reliance Petroleum)",
+      "address": "Tp No 16, Co-Operative, near Shivani, Fp No 12, Varachha Main Road, Spinning Mill, Compound, Kapodra Patiya, Surat",
+      "lat": 21.2207463,
+      "lng": 72.8759079,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJPybyvpKHWTkRq79qnusNbTU",
+      "name": "Jio-bp",
+      "address": "151, 152, Plot No 149/B, 150, near Shivani, 17, Varachha Main Road, Kapodra Patiya, Surat",
+      "lat": 21.2207172,
+      "lng": 72.8759123,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdz5H6k5F4DsRJ1pcqy2LG-o",
+      "name": "Bhakti petrol",
+      "address": "H-104, Khadsad",
+      "lat": 21.22795379999999,
+      "lng": 72.9314924,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJedVY4nlP4DsROMt-XuuZpTc",
+      "name": "Sri Vallabha Auto Garage & Service Station",
+      "address": "Tank Jhank Park Society, Unnamed Rd, Punjan Chowk, Yogi Chowk, Nakalank Park, Yoginagar Society, Surat",
+      "lat": 21.210595,
+      "lng": 72.8871091,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgbHSZgBP4DsR9N8dXTSONBQ",
+      "name": "Mota varachha",
+      "address": "6V9F+GR4, Kapodra Patiya, Surat",
+      "lat": 21.2187655,
+      "lng": 72.8745776,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJcRfxGahF4DsR6_D01GHL_JA",
+      "name": "hare krishna ind",
+      "address": "7W4M+F36, Diamond Nagar-3, Laskana, Surat",
+      "lat": 21.2561732,
+      "lng": 72.9326313,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJk_ccTiJF4DsRHpVXE2CB1dg",
+      "name": "IndianOil",
+      "address": "Survey No 385, Kamrej Varachha Road, Kosmada",
+      "lat": 21.2133913,
+      "lng": 72.923114,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq4LNZnZP4DsRWV_-E1BY7Ro",
+      "name": "Nayara Petrol Pump",
+      "address": "B-210, Kargil Chowk To Yogichowk Rd, Bhagwati Krupa Society, Punagam, Varachha, Surat",
+      "lat": 21.2127089,
+      "lng": 72.88004889999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJI8iaaD9F4DsRU-s36L0sbNc",
+      "name": "Shiv Petroleum",
+      "address": "6W7F+582, Valthan-Punagam Road",
+      "lat": 21.2128877,
+      "lng": 72.9232632,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjwmknTxP4DsRC-jR_sSK9dE",
+      "name": "dianOil",
+      "address": "India",
+      "lat": 21.2324305,
+      "lng": 72.8651404,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJofyYYTtP4DsRyvfOSMxz7kw",
+      "name": "Anand Petroleum",
+      "address": "Uttran, Surat",
+      "lat": 21.2324435,
+      "lng": 72.8651275,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSchIxtVF4DsRWqxjLwUeLhc",
+      "name": "Swastik Online CNG Station",
+      "address": "7W4P+329, Surat - Kamrej Highway, Diamond Nagar, Laskana, Surat",
+      "lat": 21.255152,
+      "lng": 72.9351154,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjc46bgBF4DsRo2ebnYFeGrQ",
+      "name": "Nayara Laskana Petroleum",
+      "address": "7W4P+45V, Surat - Kamrej Highway, Diamond Nagar, Laskana, Kamrej",
+      "lat": 21.2553661,
+      "lng": 72.9354067,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg4ED1CBP4DsRY_HpvK3MR1I",
+      "name": "Om Petroleum Nayara Petrol Pump",
+      "address": "oppo. jalaram furniture, brts, Kapodra Patiya, bustande",
+      "lat": 21.2187358,
+      "lng": 72.8707615,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJa_K3AP5F4DsRMpDhTF9H3ew",
+      "name": "Jio-bp",
+      "address": "SUB PLOT NO-3, RS-160,BL NO-143 PAIKY 16, SANSKRUT INDUSTRIAL ESTATE, SURAT TO KAMREJ ROAD NR DAIMOND NAGAR AT AND POST-LASKANA, TAL, KAMREI, Surat",
+      "lat": 21.2554145,
+      "lng": 72.9356737,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJk3xCH3tP4DsR0lqd5jgHaI8",
+      "name": "Nayara Petrol Pump - Krishna Petroleum",
+      "address": "Block No. 354, Nr.Heaven Party Plot, Puna valthan, Canal Rd, Kosmada, Surat",
+      "lat": 21.21371,
+      "lng": 72.9271291,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaepUTTtP4DsRv2aV_t8IfOo",
+      "name": "Patel Petroleum,Nayara Energy Ltd",
+      "address": "Silver Business Point, Uttran, Surat",
+      "lat": 21.2328088,
+      "lng": 72.863326,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJabhBr69F4DsRFxoZ4S8HbVo",
+      "name": "Nayara Krishna Petroleum",
+      "address": "6W7G+FR, Kosmada",
+      "lat": 21.2131877,
+      "lng": 72.9272313,
+      "open_now": null
+    }
+  ]
+}

@@ -1,0 +1,291 @@
+{
+  "city": "Bhatapara",
+  "state": "Chhattisgarh",
+  "count": 35,
+  "center": {
+    "lat": 21.55,
+    "lng": 81.4167
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJwagkVP4PKToRQDVKH-awnUs",
+      "name": "Bharat Petroleum",
+      "address": "Maharajpur, Bemetara, SH-7, Durg Bemetara Highway, Dhamda, Dhamdha",
+      "lat": 21.44414,
+      "lng": 81.336888,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJveYQSvEPKToR7KBCiLrPL4c",
+      "name": "IndianOil",
+      "address": "Ground Floor, SH 7, Durg - Dhamdha Road, Barhapur",
+      "lat": 21.457604,
+      "lng": 81.33454100000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIw9nONsPKToRpFsOb5DVjaQ",
+      "name": "Bharat Petroleum, Petrol Pump -Omkar Fuels",
+      "address": "Birjapur",
+      "lat": 21.4724361,
+      "lng": 81.3160935,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJI-p0k_kPKToRNw63z47lnQg",
+      "name": "Nayara Petrol Pump",
+      "address": "F82P+J56",
+      "lat": 21.4515371,
+      "lng": 81.335392,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJI2wbOQAbKToRSwE2sUu1UD8",
+      "name": "BPCL BHARAT PETROLIUM",
+      "address": "C994+CQM, Dhamdha",
+      "lat": 21.4185849,
+      "lng": 81.35691369999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJf_bil5ccKToR4d2i-6wq7k0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Khasara No 1061/62, Ahiwara Berla, Road, Dhamdha, Semaria",
+      "lat": 21.420806,
+      "lng": 81.4397801,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsROV88cdKToRNd0Brcj5HwM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Dhamdha, Berla",
+      "lat": 21.4292971,
+      "lng": 81.44158209999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdVU3VwAdKToR9kPFoEtJ1W4",
+      "name": "B R L. Hp petrol pump",
+      "address": "CCCR+F2F, Pendritarai",
+      "lat": 21.421182,
+      "lng": 81.4400404,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJd805WigDKToRHBBvUyrkrGQ",
+      "name": "Yadav Petrol pump",
+      "address": "FFXQ+H5, Boriya",
+      "lat": 21.4989093,
+      "lng": 81.48788730000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ7YVJxZYDKToRCvBnFqUTMyI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Khasra No 222/6, Bahera",
+      "lat": 21.498569,
+      "lng": 81.488314,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs6JYvpAHKToR-2UouheoSSs",
+      "name": "Bharat Petroleum Petrol Pump , SHRI SAI PRAGYA FUELS",
+      "address": "KODWA ROAD, VILLEGE SINWAR, THANA B",
+      "lat": 21.549664,
+      "lng": 81.413496,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJMeuQfjYCKToRtaCZeCl-ouc",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Civic Centre, Berla",
+      "lat": 21.52250339999999,
+      "lng": 81.4777112,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ56iA-rMCKToRq_4J5Qgbefs",
+      "name": "Om Sai Petrol Pump Sankara",
+      "address": "Sonkra",
+      "lat": 21.4549375,
+      "lng": 81.49981249999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqZhpezkCKToRSDr37becIWY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Berla",
+      "lat": 21.5255597,
+      "lng": 81.48615629999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJr62IWYz9KDoRvQ2-p5EVnAE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Khasra No 351, 1 & 351/2, Berla, Kusmi",
+      "lat": 21.529593,
+      "lng": 81.531904,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSdnaPSr9KDoRPGOiWoNDX3g",
+      "name": "JAI TULSI FUELS KSK",
+      "address": "Village -kusmi (Sorla chowk), tehsil-berla, Bemetara",
+      "lat": 21.53021339999999,
+      "lng": 81.53222219999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB0sAmT8JKToRRZQ3m8j7zxQ",
+      "name": "Bharat Petroleum Petrol Pump , AADYA FUELS",
+      "address": "DEOKARFROM DHAMDA TO DEOKAR ON LHS",
+      "lat": 21.551313,
+      "lng": 81.32248899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzyxZ6RkJKToR1ZjcVuMXQzw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Khasra No 1762/3, SH 7, Saja, Deokar",
+      "lat": 21.556074,
+      "lng": 81.321384,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJG4gj4OoJKToRNZTvbJiw3Ow",
+      "name": "IndianOil",
+      "address": "Ground Floor, Deoker, Saja Bemetara, Barhapur",
+      "lat": 21.5727965,
+      "lng": 81.31969889999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6a2WawEHKToRd2MwE6ZuxNo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Khasra No 535/2 & 535/3 Saja, Rakhi",
+      "lat": 21.59520299999999,
+      "lng": 81.356017,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeSNGMO79KDoRYq5vyQlG8NM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Khasra No 2192, 1 & 2192/2, Kharra Road, Berla, Durg",
+      "lat": 21.541552,
+      "lng": 81.555936,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJszMb_-7_KDoR9-sNDPGs7tw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Khasra No 1719/8, Berla",
+      "lat": 21.571381,
+      "lng": 81.557441,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSz1Y0F_-KDoRdkZyJZomKmY",
+      "name": "Dau Pooran Singh Petrol Pump Sarda",
+      "address": "Bhatgaon",
+      "lat": 21.5713672,
+      "lng": 81.5574683,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJUapWePunKToRkbeZgxf_boI",
+      "name": "IndianOil",
+      "address": "Ground Floor, Saja Road, Bargada",
+      "lat": 21.6393473,
+      "lng": 81.3338115,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgdAjsoUHKToRc1i4I-4PiW0",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kodwa Road, Berla",
+      "lat": 21.6245022,
+      "lng": 81.37549469999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJyeUVUYQHKToRzDw_JgfGOEM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Durg - Bemetara Road, Kodwa",
+      "lat": 21.624193,
+      "lng": 81.376347,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8cVRJ12nKToRKXchPWoOj5E",
+      "name": "IndianOil",
+      "address": "Ground Floor, Saja, Bargada",
+      "lat": 21.65148899999999,
+      "lng": 81.318681,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlYP9vySnKToR1UTEEi75Des",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Durg Road, Saja",
+      "lat": 21.6553465,
+      "lng": 81.316785,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfzyKUjepKToRLon5BZ-7o-w",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Khasra No 453, 6 & 453/11, Deorbeeja",
+      "lat": 21.649795,
+      "lng": 81.396862,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJT3IRDZapKToRFDqq3MCJqHA",
+      "name": "Fuel pump",
+      "address": "Bemetara",
+      "lat": 21.6644766,
+      "lng": 81.4071766,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJbYKFlS6pKToRQiD_hhXvR8g",
+      "name": "IndianOil",
+      "address": "Ground Floor Dewarbija, Berla, Bargada",
+      "lat": 21.665133,
+      "lng": 81.40673799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnaaUtiaqKToRvIeDANp4oyc",
+      "name": "Jio bp",
+      "address": "India",
+      "lat": 21.6656142,
+      "lng": 81.4322562,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJo-rs8xmrKToRrJlq9DmxNuk",
+      "name": "ARIHANT FUELS JIO",
+      "address": "Bemetara Road, Deorbeeja",
+      "lat": 21.6676969,
+      "lng": 81.4349372,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJY_92aQCrKToRTjV0lhVChtM",
+      "name": "Devarbeeja road",
+      "address": "MCGJ+M65, Berla",
+      "lat": 21.6766432,
+      "lng": 81.4306148,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJX2G5D2__KDoRw-P5441Mb3A",
+      "name": "Jai Maa Mahamaya Petrol Pump,Sarda",
+      "address": "Andu",
+      "lat": 21.6018117,
+      "lng": 81.5599834,
+      "open_now": true
+    }
+  ]
+}

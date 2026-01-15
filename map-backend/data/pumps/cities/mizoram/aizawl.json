@@ -1,0 +1,347 @@
+{
+  "city": "Aizawl",
+  "state": "Mizoram",
+  "count": 42,
+  "center": {
+    "lat": 23.7231,
+    "lng": 92.717
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJs8zQtpKUTTcR2MoaHfNtEJc",
+      "name": "IndianOil",
+      "address": "Ground Floor Bungkawn, Ngaizel Road, Kulikawn, Aizawl",
+      "lat": 23.7048959,
+      "lng": 92.7177263,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLTGJai-XTTcR3FXnGZZSjyg",
+      "name": "IndianOil",
+      "address": "Ground Floor, Chawlhhmun, Melriat",
+      "lat": 23.6421214,
+      "lng": 92.72567939999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0fHvPg-VTTcRKw6vYG3V4Rc",
+      "name": "IndianOil",
+      "address": "Ground Floor, Melthum, Aizawl",
+      "lat": 23.6830674,
+      "lng": 92.7223473,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvRvTZgCVTTcRLcpvA53as3g",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Ngaizel Road, Kulikawn, Aizawl",
+      "lat": 23.698731,
+      "lng": 92.72049100000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJa0r2OeyUTTcRT7I8yNiGWTY",
+      "name": "Aizawl Bypass Filling Station — IOCL, Kulikawn (World Bank Road)",
+      "address": "PP5C+2W7, World Bank Road, Kulikawn, Aizawl",
+      "lat": 23.7075333,
+      "lng": 92.722308,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5ZpKAfuVTTcRJsA_0PgOPBc",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kulikawn Road, Tlangnuam, Aizawl",
+      "lat": 23.708223,
+      "lng": 92.72200199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzy-ijMeUTTcRqGwIHHs_QAo",
+      "name": "IndianOil",
+      "address": "Ground Floor, Treasury Square, Venghlui, Aizawl",
+      "lat": 23.726096,
+      "lng": 92.71865799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIb4BfFCTTTcRQPLW5dQMuu8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Tuivamit, Aizawl",
+      "lat": 23.737221,
+      "lng": 92.679531,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwdZ3EQLtTTcR8kSgYfvphDg",
+      "name": "IndianOil",
+      "address": "Ground Floor, Zonuam, Chawlhhmun, Aizawl",
+      "lat": 23.7339022,
+      "lng": 92.696569,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxZ9XdlbrTTcRyGBTbcs-TME",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 54, Sairang Road, Vaivakawn, Aizawl",
+      "lat": 23.745941,
+      "lng": 92.7000618,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7domEwCVTTcRRJG3pp7Dw8c",
+      "name": "IndianOil",
+      "address": "New Capital Complex Road, Khatla, Chawlhhmun, Aizawl",
+      "lat": 23.727946,
+      "lng": 92.707331,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJu3YzgRSVTTcRw9lPwdErNwg",
+      "name": "MIZORAM STATE COOPERATIVE MARKETING AND CONSUMERS FEDERATION LIMITED",
+      "address": "near P and E Office, New Capital Complex Road, Aizawl",
+      "lat": 23.7339029,
+      "lng": 92.70910549999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZX4miwbtTTcR2P1RPE9OTdE",
+      "name": "IndianOil",
+      "address": "Ground Floor, Saingura Sailo, Electric Veng, Phunchawng, Aizawl",
+      "lat": 23.777687,
+      "lng": 92.681333,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzxEFhEzrTTcRNpo4C0XOD5s",
+      "name": "Singson Filling Station (HPCL), Hunthar",
+      "address": "Hunthar, VENG, Guwahati",
+      "lat": 23.7421815,
+      "lng": 92.71293039999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2wGG7LnrTTcRRhD3pkQ6D14",
+      "name": "Fire Department Filling Station, Hunthar Veng",
+      "address": "House No. B, 84, MacDonald Hill, Zarkawt, Aizawl",
+      "lat": 23.7414423,
+      "lng": 92.7136093,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJpxUgkkvrTTcRi6RcRfC_EXA",
+      "name": "Lalboi Filling Station",
+      "address": "Company Peng, Ground Floor Armed Veng, Hunthar, Chaltlang, Aizawl",
+      "lat": 23.743792,
+      "lng": 92.713763,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfcIPWgCVTTcRyaZYfR0wHPc",
+      "name": "Lung tolai",
+      "address": "PPJ8+7WM, Aizawl",
+      "lat": 23.7307175,
+      "lng": 92.71731059999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJq1DkMraUTTcR4ydfr05Bnr0",
+      "name": "KERO GAS CORNER",
+      "address": "PPJ9+72J, Vee Thanga Street, Dawrpui, Aizawl",
+      "lat": 23.7307236,
+      "lng": 92.7175226,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJb-lTizDrTTcRbmtVTZJXwT8",
+      "name": "IndianOil",
+      "address": "Ground Floor, Ramhlun North Road, Chaltlang, Aizawl",
+      "lat": 23.7499301,
+      "lng": 92.725355,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_ddPOfKVTTcRDNpDNEjQbN4",
+      "name": "C Vanlalruata Filling Station",
+      "address": "near C. Vanlalruata Filling Station, World Bank Road, Aizawl",
+      "lat": 23.7257002,
+      "lng": 92.73617340000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpfYSSNiUTTcR7wzBSncpIxM",
+      "name": "Bharat Petroleum",
+      "address": "PPGP+7GR, World Bank Road, Aizawl",
+      "lat": 23.725727,
+      "lng": 92.7362567,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJJ7wlHBTrTTcR6kFNTgLZ4U4",
+      "name": "CL FILLING STATION 2",
+      "address": "Ramhlun Venglai, Aizawl",
+      "lat": 23.74494510000001,
+      "lng": 92.72352509999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJPQDNNq7rTTcR7z5mnS1rsdA",
+      "name": "DINDIN FILLING Station",
+      "address": "Ramhlun North, Aizawl",
+      "lat": 23.7454088,
+      "lng": 92.7232901,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJRVFLVTHrTTcRk8TwZaDQR4Q",
+      "name": "IndianOil",
+      "address": "Ground Floor, Ramhlun Venglai, Chaltlang, Aizawl",
+      "lat": 23.7454197,
+      "lng": 92.7233009,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQdjhY96VTTcRc_NXEZAc0q0",
+      "name": "Lalhriattiri Filling Station (BPCL), Falkland",
+      "address": "Falkland Road, Aizawl",
+      "lat": 23.7303619,
+      "lng": 92.7416605,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKxPiqf3rTTcR4Rz4A_0uBkg",
+      "name": "IndianOil",
+      "address": "Ground Floor, Transport Department, Chaltlang, Aizawl",
+      "lat": 23.7510956,
+      "lng": 92.7247843,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJu4rfESbrTTcR8dS6t2fXfzs",
+      "name": "IndianOil",
+      "address": "Ground Floor Bawngkawn, Lunglei Road, Chaltlang, Aizawl",
+      "lat": 23.752271,
+      "lng": 92.73369609999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-02x4DrrTTcRTLWp4tXKOjM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sairang Road, Bawngkawn, Chaltlang, Aizawl",
+      "lat": 23.755459,
+      "lng": 92.72746200000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6TNjx5-VTTcRUO4x5tMQ9_o",
+      "name": "Bharat Petroleum - Zemabawk Filling Station",
+      "address": "Zemabawk, Aizawl",
+      "lat": 23.7304413,
+      "lng": 92.75771739999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjX41LwC_TTcRETja87iDfRQ",
+      "name": "Akhawli Filling Station",
+      "address": "Bung Bangla",
+      "lat": 23.7324245,
+      "lng": 92.7809304,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJIQY4nXu_TTcRRwi-xv4lVqQ",
+      "name": "J.F.R",
+      "address": "PQPW+25F, Tuirial Airfield Access Road, Tuirial Jail",
+      "lat": 23.7350514,
+      "lng": 92.79541770000002,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJd-t3CAC_TTcRmhRoCckxgog",
+      "name": "Seling OP Filling Station",
+      "address": "HPCL PETROL PUMP, Edenthar",
+      "lat": 23.7356809,
+      "lng": 92.81633819999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJQ53wgIy_TTcR4iWVNF_t4Dw",
+      "name": "IndianOil",
+      "address": "Ground Floor, Phaibawkkawn, Seling",
+      "lat": 23.735495,
+      "lng": 92.838224,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIyS39lm_TTcRfaSTJsJGPY4",
+      "name": "IndianOil",
+      "address": "Ground Floor Seling, Sesawng",
+      "lat": 23.732015,
+      "lng": 92.847068,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH1JXSP7BTTcRUWm0QbnBHO8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Sesawng",
+      "lat": 23.7429512,
+      "lng": 92.8472695,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgcHxoMLtTTcReD8yjfqg79M",
+      "name": "IndianOil",
+      "address": "Ground Floor Lengpui, Sairang, Aizawl",
+      "lat": 23.805465,
+      "lng": 92.65468299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdwfn-FnsTTcR5ZAg55UXPv8",
+      "name": "IndianOil",
+      "address": "Ground Floor Sairang, Lengpui, Aizawl",
+      "lat": 23.793734,
+      "lng": 92.668989,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJVm0E27tTTcRLvVjGfHNeg0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 108, Sairang",
+      "lat": 23.8198473,
+      "lng": 92.6584891,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8bYEIw_tTTcRTVhSD_1EU6s",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Chiahlui River, NH 44A, Lengpui",
+      "lat": 23.822191,
+      "lng": 92.622171,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJh3AzNQDvTTcRmQtZRH0-TgI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Sairang",
+      "lat": 23.8419034,
+      "lng": 92.6607983,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCzBS5gXzTTcRtVPOMZkGhS8",
+      "name": "IndianOil",
+      "address": "No 92, Zotlang, Rawpuichhip",
+      "lat": 23.7890959,
+      "lng": 92.582118,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJr49ZkeHvTTcR081cTLG2D3E",
+      "name": "L T K ENERGY CENTRE",
+      "address": "Buichali, Dinthar, Sairang",
+      "lat": 23.8602047,
+      "lng": 92.6474865,
+      "open_now": null
+    }
+  ]
+}

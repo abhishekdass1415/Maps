@@ -1,0 +1,939 @@
+{
+  "city": "Ahmednagar",
+  "state": "Maharashtra",
+  "count": 116,
+  "center": {
+    "lat": 19.1167,
+    "lng": 74.75
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJV-24_Oq23DsRzwMUFpb5SnM",
+      "name": "IndianOil",
+      "address": "Gut No 218/Pt, Chas",
+      "lat": 19.039862,
+      "lng": 74.660833,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcVpyUy-x3DsRRwMxPunGYkA",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kedgaon, Shiradhon",
+      "lat": 19.0580625,
+      "lng": 74.6982106,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFQ1luey23DsR8ELqc3GGVJY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Plot No 26/2 NH 753F, Aurangabad Nagar, Road, Chas",
+      "lat": 19.038317,
+      "lng": 74.65645099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJefgfZ2Sx3DsRVEGvgDH2Y9g",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gut No 18/1, NH 160, Nagar, Ahilyanagar - Daund Road, Ahilyanagar",
+      "lat": 19.03648799999999,
+      "lng": 74.72019499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJt_yDG2Ox3DsRYgQM5_OxYME",
+      "name": "Nayara Oil Petrol Pump",
+      "address": "Arangaon, Ahmadnagar, SH-10, Ahmed Nagar Yeola Road, Ahmednagar, Ahilyanagar",
+      "lat": 19.022841,
+      "lng": 74.72001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_ZnvYxO03DsR5EZKhpyqQ9k",
+      "name": "Bharat Petroleum Corp Lts",
+      "address": "XMV9+HRX, Ahilyanagar",
+      "lat": 18.993996,
+      "lng": 74.669598,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ72HmUXy33DsRda0Ma4ArxwU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "NH 61, Plot No 436/2, Ahilya Nagar Kalyan Road, Hingangaon",
+      "lat": 19.102485,
+      "lng": 74.648117,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrc8GNl-w3DsRIWM4U_sbMMA",
+      "name": "Bharat Petroleum",
+      "address": "STATION ROAD, Major State Highway 142, Pune - Ahilyanagar Highway, Nandanvan Colony, Ahilyanagar",
+      "lat": 19.084881,
+      "lng": 74.73519499999999,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJm_ETewC33DsRQeT1GXa7Si4",
+      "name": "Bharat Petroleum",
+      "address": "2MXG+M33, MH SH 27, Ahilyanagar",
+      "lat": 19.0493562,
+      "lng": 74.6749936,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJqyng2pmx3DsR0D_kzbigLpQ",
+      "name": "Stallion AdBlue DEF Refill Station",
+      "address": "गाळा नं 3, जिल्हा परीषद शाळे जवळ, कांबळे मळा, सोलापूर बायपास रोड, Kedgaon, Ahilyanagar",
+      "lat": 19.0497494,
+      "lng": 74.6898839,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzQJoSwC33DsRpewzKHsjS_Q",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 487, 2/P, Ahilyanagar",
+      "lat": 19.064707,
+      "lng": 74.686872,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOe3ZUOCw3DsRkTubwOAxhKI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Plot No 82, Nagar Pune Road, Ahilyanagar",
+      "lat": 19.067553,
+      "lng": 74.712549,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrX3uMgCx3DsR-Ca2cOTEy0k",
+      "name": "Avneesh Petroleum HPCL",
+      "address": "By-pass Road, Arangaon",
+      "lat": 19.0263475,
+      "lng": 74.7146856,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZ2JkZwSx3DsRqWf_97Dn3AU",
+      "name": "IndianOil",
+      "address": "Ground Floor, Nagar, Ahilyanagar - Daund Road, Gargundi, Ahilyanagar",
+      "lat": 19.038321,
+      "lng": 74.720593,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL1N2Gxmx3DsR5e8AuULHJQQ",
+      "name": "Dk Petroleum",
+      "address": "Link Road, Kotkar Nagar, Kedgaon, Ahilyanagar",
+      "lat": 19.0783039,
+      "lng": 74.7092364,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJX7tAl8Kw3DsRXMzUM3MUEXs",
+      "name": "Indian Oil",
+      "address": "3PH5+8Q9, Link Road, Kedgaon, Ahilyanagar",
+      "lat": 19.07828289999999,
+      "lng": 74.7094759,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJVbCW9WG23DsRETiC775bmDA",
+      "name": "Bharat Petroleum, Petrol CNG -Ashwin Automobiles",
+      "address": "CHASS, Ahilyanagar",
+      "lat": 19.0302011,
+      "lng": 74.6388292,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY3b5SQCx3DsRBKVB5H5dM00",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "2PC9+X2F, Solapur Bypass Road, Arangaon",
+      "lat": 19.0224464,
+      "lng": 74.7175563,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJGVsaohe03DsRSlNaSs923K4",
+      "name": "IndianOil",
+      "address": "Gat No 243 Akolner, Sarola Kasar",
+      "lat": 19.0022353,
+      "lng": 74.66609629999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJK2Kvkrqx3DsRwBPghPHPfjQ",
+      "name": "Bharat Petroleum, Petrol Pump -Anand Petroleum",
+      "address": "ARANGAON, Ahilyanagar",
+      "lat": 19.0688929,
+      "lng": 74.7256323,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJc6P3al-z3DsRNrmYgJ6xK2Y",
+      "name": "Bharat Petroleum, CNG Pump -Vishal Fuel Station",
+      "address": "Valki Phata on SH10, Ahilyanagar",
+      "lat": 19.0094483,
+      "lng": 74.7145188,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3S-qNYe33DsRKGX0wysZ5c4",
+      "name": "Reliance Jio BP Petrolium",
+      "address": "Maharashtra State Highway 27",
+      "lat": 19.0263124,
+      "lng": 74.6322229,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJj1uUXZGx3DsRGN2-uHCNhbs",
+      "name": "Al-jannat filling station",
+      "address": "Jannat chowk, Ahilyanagar",
+      "lat": 19.0722869,
+      "lng": 74.7248903,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ6SmX_WS23DsR1bex6TaPHFU",
+      "name": "IndianOil",
+      "address": "Ground Floor, Chas",
+      "lat": 19.026068,
+      "lng": 74.63135199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJh_BJnxS03DsRXQeYWhdq-BI",
+      "name": "BPCL Ahmednagar Depot",
+      "address": "XMV9+M66, Unnamed Rd,",
+      "lat": 18.9941723,
+      "lng": 74.6680193,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJY1xXGAC33DsR_t_toaxqwfo",
+      "name": "Bharat Petroleum CNG PUMP",
+      "address": "4M29+JH, Nepti",
+      "lat": 19.1008853,
+      "lng": 74.6689456,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ87IrTwC33DsRXM6msy5xVXE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Hotel New Ashirwaad, Nagar Kalyan Highway, Nagar, Nepti",
+      "lat": 19.100748,
+      "lng": 74.668025,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnzV7Y_ew3DsR2B0slOt-k4w",
+      "name": "IndianOil",
+      "address": "Ground Floor, Maniknagar, Shiradhon",
+      "lat": 19.078794,
+      "lng": 74.72963969999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKf60BPew3DsRM9-MQ3jlQhM",
+      "name": "Reliance Jiobp Petrol Pump",
+      "address": "India",
+      "lat": 19.080425,
+      "lng": 74.7302668,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJyW2l5tS53DsRaGqv4PAKzkM",
+      "name": "IndianOil",
+      "address": "Gut No 170/2, Nimblak, Shiradhon",
+      "lat": 19.09187039999999,
+      "lng": 74.7192468,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBZG9uYyz3DsRcCFiHN8_nNI",
+      "name": "Mayara Pump",
+      "address": "XPV5 8C4, Khandala",
+      "lat": 18.99383719999999,
+      "lng": 74.7086496,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ-Vslg5Gw3DsRVQmDIS6FZhs",
+      "name": "IndianOil",
+      "address": "Ward No 12, A Shiradhon, House No, behind Sarda Collegea, 577, Ahilyanagar",
+      "lat": 19.0955152,
+      "lng": 74.7193595,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuWavqh2z3DsR_G_TUDTwc8Q",
+      "name": "TANPURE ENERGY STATION",
+      "address": "Gat no 176, NH160, Nagar, Ahilyanagar - Daund Road, Ahilyanagar",
+      "lat": 18.9881869,
+      "lng": 74.70777,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJw8Suc7ax3DsRld6y8CVUSOA",
+      "name": "THANGE PETROLEUM BPCL",
+      "address": "3PWF+8R9, opp. sulabh water purifier, Nagar-Kalyan Road, Samata Nagar, Ahilyanagar",
+      "lat": 19.0958057,
+      "lng": 74.7247831,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm4xAh46w3DsRoyuZZlmZmCU",
+      "name": "भारत Petroleum",
+      "address": "India",
+      "lat": 19.0956612,
+      "lng": 74.7250143,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJmfPLbsC13DsRuXUCiId6Gzc",
+      "name": "Akolner",
+      "address": "Bhorvadi rod, Akolner",
+      "lat": 18.9859103,
+      "lng": 74.6554134,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8S-T-l6w3DsRO939jXI0VhY",
+      "name": "Confidence Petrolium India Ltd, Go Gas Auto Lpg Pump",
+      "address": "opp. HDFC Bank, Station Road, Maliwada, Ahilyanagar",
+      "lat": 19.0867857,
+      "lng": 74.7370069,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnS1ULACx3DsRRt8F3PH-WhQ",
+      "name": "Om Sai Engineers-Honda Power",
+      "address": "Shop No 02, Hanuman Temple Market Yad, near by Hanuman Temple, Plot No 17, Market Yard, Ahilyanagar",
+      "lat": 19.0860408,
+      "lng": 74.7404172,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtZYsXY2x3DsRwC6CyukT0oY",
+      "name": "Sai P.U.C",
+      "address": "Newaskar Petrol Pump, Maliwada, Ahilyanagar",
+      "lat": 19.0880103,
+      "lng": 74.7392017,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJD4wGf16w3DsR9qtBLMIj1po",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Plot No 16, Station Road, Ahilyanagar",
+      "lat": 19.0879201,
+      "lng": 74.7394401,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2Sp6oN6x3DsR4_-hCs6TQqw",
+      "name": "Bharat Petroleum, Petrol Pump -Manikchand & Sons",
+      "address": "KINGS RD AHMEDNAGAR, Ahilyanagar",
+      "lat": 19.097228,
+      "lng": 74.746012,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfQJCrg-w3DsRj2FhWWIbJmc",
+      "name": "IndianOil",
+      "address": "Gat No 59, Nagardeole, Agadgaon",
+      "lat": 19.1070056,
+      "lng": 74.76600479999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSbazYPSx3DsRiKlsDkYkf4Y",
+      "name": "Bharat Petroleum",
+      "address": "Fakir Wada, Ahmadnagar, SH-60, Ahmednagar Newasa Road, Ahmednagar, Ahilyanagar",
+      "lat": 19.108995,
+      "lng": 74.745537,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJF4k0P-6x3DsRIfpzVp-vxXU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "1/1, Plot No 10/31, Nagar Solapur Road, Nimbodi",
+      "lat": 19.028869,
+      "lng": 74.776372,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYdONWwCz3DsRDA6IV9RxMmA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gat No 306/1/1 Arangaon, Road, Walunj",
+      "lat": 19.010809,
+      "lng": 74.760271,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9Z3MXvy33DsRtNi3ZIBPKZY",
+      "name": "Jio-bp",
+      "address": "Gat No 697, Ahilyanagar",
+      "lat": 19.09358,
+      "lng": 74.7427068,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0Rbo9Myv3DsRe7q2SdzgPAo",
+      "name": "Swagat Petrol Pump",
+      "address": "Shop No 01, Nimbodi",
+      "lat": 19.0526769,
+      "lng": 74.8029787,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJk6hbBfax3DsRTpXjPgM1VHE",
+      "name": "Shree Fuel",
+      "address": "India Post Office, Near, Sambhaji Nagar Road, Ahilyanagar",
+      "lat": 19.097367,
+      "lng": 74.7460708,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJTfDl7Tuv3DsR-ni-tmTG4co",
+      "name": "Nayara Petrol Pump Swagat Petroleum",
+      "address": "3R74+G3V, Nimbodi",
+      "lat": 19.0637145,
+      "lng": 74.8051407,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJyU7eASex3DsRGiI2yrDyosM",
+      "name": "Sahara Gas Station",
+      "address": "Gokulwadi, Sarjepura Road, Ahilyanagar",
+      "lat": 19.1006442,
+      "lng": 74.73883119999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJYbGRcIut3DsRvmLp7wRBk8A",
+      "name": "Bharat Petroleum Petrol Pump , ASHOK AUTOMOBILES",
+      "address": "NAGAR, Solapur Bypass Road, Ahilyanagar",
+      "lat": 19.004885,
+      "lng": 74.78791799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJE3RXiAmx3DsRohQw6QpmCHQ",
+      "name": "Police Motor Transport Ahmadnagar",
+      "address": "4P2P+48W, Unnamed Road, Tarakpur, Ahilyanagar",
+      "lat": 19.1003568,
+      "lng": 74.73581539999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJN4eKqmSw3DsRViVNRLFlYUw",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kotla Road, Shiradhon",
+      "lat": 19.102178,
+      "lng": 74.739744,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJd3GNy3yw3DsRyYBRO1nyHsI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "S No 127/2 & 306/4, Sarjepura Road, Ahilyanagar",
+      "lat": 19.102409,
+      "lng": 74.73786799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlf6R96Ov3DsRrI9BE7Bir1c",
+      "name": "AJAY PETROLEUM",
+      "address": "Ahmednagar - Pathardi Rd, Alamgir Road, Maheshnagar, Ahilyanagar",
+      "lat": 19.0936563,
+      "lng": 74.7856785,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJE2wLUyix3DsRyS0PL8VT63U",
+      "name": "Shree ram Automobiles Petrol Pump",
+      "address": "Shop No, near Sablok Honda, 1, Sarjepura Road, Sarjepura city, Ahilyanagar",
+      "lat": 19.1032988,
+      "lng": 74.7371826,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJBbKyuUiu3DsRqCdXHtx2NuY",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 19.0630227,
+      "lng": 74.808905,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJyY6mr7Sv3DsRyvcoPrTAAqg",
+      "name": "Shri Siddhivinayak Petroleum & CNG station",
+      "address": "3R75+3F, Nimbodi",
+      "lat": 19.0630919,
+      "lng": 74.8088889,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPTgt6Omf3DsRPiZg_kEgNLs",
+      "name": "Jio-bp",
+      "address": "Survey No 71/1, Speed Age Petroleum, MHC/6, Ahmednagar - Aurangabad Road, Akbar Nagar, Ahilyanagar",
+      "lat": 19.1075113,
+      "lng": 74.7459174,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJa1iXV6Cx3DsRtkXjmqqVjhw",
+      "name": "Gas",
+      "address": "4Q52+FC7, Mukundnagar, Ahilyanagar",
+      "lat": 19.1086554,
+      "lng": 74.75104859999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJo7Pvr_Wt3DsR8u-PPeKvELQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Plot No 150/1, Nagar Solapur Road, Shiradhon",
+      "lat": 18.9929601,
+      "lng": 74.79503009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvQjMWJCt3DsR_aLeXFt3xx4",
+      "name": "HPCL-AUR-017-Nirmala Auto Care Centre",
+      "address": "Shiradhone Road Ahmedngar, Solapur, Aurangabad",
+      "lat": 18.9927421,
+      "lng": 74.7954524,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9RKeAHm73DsR-1S01JkTMSo",
+      "name": "CNG Pump Bharat Petroleum, Petrol Pump -Deepak Fuel World",
+      "address": "Savedi Road, Ahilyanagar",
+      "lat": 19.1136427,
+      "lng": 74.7306131,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ48WtxnK73DsRbvlq-rlKpVU",
+      "name": "PUC SENTER, SAVEDI, Ahilyanagar",
+      "address": "4P7M+W56, Bishop Lloyd Colony, Ahilyanagar",
+      "lat": 19.1147822,
+      "lng": 74.7329038,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJfyW0G82v3DsRHiaSMB3lGes",
+      "name": "DAKSON PETROLEUM- PETROL | DIESEL | CNG*",
+      "address": "Gut No. 182/5, A/P:, New By Pass Road, Sarola Baddi",
+      "lat": 19.0663586,
+      "lng": 74.82123399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHa9eY4G63DsRU2y6vRpASiY",
+      "name": "Vishwanjali Oil",
+      "address": "4P9Q+2M4, LIC Colony, Anand Nagar East, Ahilyanagar",
+      "lat": 19.1175189,
+      "lng": 74.7392071,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJwTxU_6av3DsRBp1oodBEXVg",
+      "name": "Anand petroleum Shahapur( HP) Kiran natak",
+      "address": "Shahapur Nagar pathardi, rood, Ahilyanagar",
+      "lat": 19.0889396,
+      "lng": 74.8237542,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ55Frxhav3DsRI0hx35VyInM",
+      "name": "IndianOil",
+      "address": "Gat No 127/A/2/1, Ahmednagar Jamkhed Rd Takli Kazi, SH 142, Bhatodi Pargaon",
+      "lat": 19.0353318,
+      "lng": 74.8475498,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9ZTMOlKv3DsRxtC1KU61PEE",
+      "name": "Shiv petroleum CNG station",
+      "address": "3RQ7+82R, National Highway 61, Nimbodi",
+      "lat": 19.0883745,
+      "lng": 74.8125309,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqwcXrLuv3DsRzdHCjp9f1nc",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 19.0883566,
+      "lng": 74.8123112,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ1Rz7XkKv3DsRZL97sQYeWTg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Part NH 61, Plot No 87/7/1B, Ahmednagar - Pathardi Road, Shahapur",
+      "lat": 19.08884399999999,
+      "lng": 74.82382299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5cjpgTC63DsRRavt8hJTpa0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near Crompton, Plot No 10/31/1/1, MIDC Road, Nagapur",
+      "lat": 19.145718,
+      "lng": 74.705398,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgbArOHm63DsRrZ4PYoK_24g",
+      "name": "Nayara Petrol Pump K C FULARI AND CO.",
+      "address": "Balikashram Road, Fulari mala, Savedi, Ahilyanagar",
+      "lat": 19.1169389,
+      "lng": 74.7271086,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5aAKGny53DsR8Hb-9XKNs0w",
+      "name": "SVAYAM SIYA | ONLINE CNG | EV | DIESEL | PETROL | DEF",
+      "address": "Ahmednagar City Bypass Road, MIDC, Ahilyanagar",
+      "lat": 19.1617641,
+      "lng": 74.6820384,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhfohMZi63DsRR3-J2UfiNxM",
+      "name": "HP Petrol Pump",
+      "address": "Survey NO NO, Vasant Tekdi, 84A, Ahmednagar - Aurangabad Road, Savedi, Aurangabad",
+      "lat": 19.1256924,
+      "lng": 74.7545459,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB-ghUyC63DsR9gDFaKWW73o",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "GUT No 310, 1/1, Road, Nimblak",
+      "lat": 19.135139,
+      "lng": 74.689668,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvxwiXK673DsRIQZAM6kY_5k",
+      "name": "Ban Bro Fuels BPCL CNG/Petrol/Diesel",
+      "address": "Plot L4, Lamkhade Chowk, Nagar Nimblak, Road, MIDC, Nagapur",
+      "lat": 19.1459614,
+      "lng": 74.69391390000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBSAKV2y63DsROrY-POydF1c",
+      "name": "NAYARA",
+      "address": "India",
+      "lat": 19.1266872,
+      "lng": 74.7134112,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ7fieEAy73DsRUwROFAwixAU",
+      "name": "Mahakali Petrol Pump",
+      "address": "Shop No 01, Old Bolhegaon Road, Mahakali Petrol Pump. Gaothan, Bolhegaon Suburban, Ahilyanagar",
+      "lat": 19.1267099,
+      "lng": 74.71356039999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJyQxqD2y63DsRKcBn3qJQMVY",
+      "name": "Bharat Gas Godawn",
+      "address": "4PH8+F4G, Bolhegaon Suburban, Ahilyanagar",
+      "lat": 19.12868019999999,
+      "lng": 74.7153431,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY8tas1i53DsRxhoFNzM-Ke0",
+      "name": "AMRIT PETROLEUM",
+      "address": "near Bajaj Power, Plot No 217/1/6, New Bypass Road, Nimblak",
+      "lat": 19.1573572,
+      "lng": 74.68174309999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFXEcRqa73DsRobxZa7ai0Is",
+      "name": "Go Gas Auto LPG Pump",
+      "address": "4PR8+546, Mehetre Heights, Near Nagapur Bridge, Manmad Road, Bolhegaon Suburban, Ahilyanagar",
+      "lat": 19.1404171,
+      "lng": 74.7152607,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPxBs-oq73DsRoP9o6cnJvM4",
+      "name": "Aaradhya Petroleum AMCB",
+      "address": "Shop No.1 Bolhegaon Phata, Nagar, Manmad Road, Ahilyanagar",
+      "lat": 19.1427091,
+      "lng": 74.71366069999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJFU5f8Ea63DsR9wSWdDaPH-0",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 19.1429517,
+      "lng": 74.7140665,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJpTPOfh273DsREs_AUNSs1h4",
+      "name": "IndianOil",
+      "address": "Gut No 24/2 Plot No 1, Nagar, Manmad Road, Nagapur",
+      "lat": 19.1482728,
+      "lng": 74.710475,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2zmu6Ym63DsR7F7qviAUYpk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near Sonalika Tractor Showroom, Plot No 241, Manmad Road, A6 Nagar, Savedi, Ahilyanagar",
+      "lat": 19.131161,
+      "lng": 74.723231,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQ0bsx9q73DsR97VrmF62O0k",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gat No, Plot No 1, 46/2B1, Navnagapur, Ahilyanagar",
+      "lat": 19.165542,
+      "lng": 74.700163,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2yQEVyK73DsRKDHum7ez8b4",
+      "name": "Bharat Petroleum Palm fuels",
+      "address": "4PHM+QV3, Waani Nagar, Bhistabag, Ahilyanagar",
+      "lat": 19.1293856,
+      "lng": 74.73468679999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWQHNEgC73DsRMF-byPfhQgw",
+      "name": "Viraj petroleum - Bharat Petroleum",
+      "address": "Tapovan Road, Sawedi, Bhistabag, Ahilyanagar",
+      "lat": 19.1400652,
+      "lng": 74.73081739999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJufhs_y-73DsR9xJHDz-u5wo",
+      "name": "CNG Bharat Petroleum, Petrol Pump -Svayam Siya Petroleum",
+      "address": "NIMBLAK, Ahilyanagar",
+      "lat": 19.1676349,
+      "lng": 74.6991051,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl-WRV6-53DsR5W260n1xGU0",
+      "name": "Shiv 9 Petroleum (Bharat petroleum) CNG",
+      "address": "Jakhangaon",
+      "lat": 19.1070625,
+      "lng": 74.62356249999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ72dGNUO73DsRLKvCg9MyJgQ",
+      "name": "MAULI PETROLEUM",
+      "address": "Mauli Petroleum, Tapovan Road, Savedi, Bhistabag, Ahilyanagar",
+      "lat": 19.139912,
+      "lng": 74.7339076,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJz3N_H9u73DsRflRL84JvPyo",
+      "name": "SOIL YANMAR",
+      "address": "India",
+      "lat": 19.1712077,
+      "lng": 74.6971318,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ1zTWUpOf2jsRqwbEb3IxC3s",
+      "name": "IndianOil",
+      "address": "Gat No 625, near Vk Patil Hospital, 1, Manmad Road, Wadgaon Gupta",
+      "lat": 19.1725927,
+      "lng": 74.69625979999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2cNaEHG73DsRJ4eCIgMAs4A",
+      "name": "Nayara Petrol Pump Viraj Petroleum",
+      "address": "near Gajanan Maharaj Mandir, Gulmohar Police Chowki, near Gajanan Maharaj Mandir, Gulmohar Road, Navale Nagar, Anand Nagar East, Ahilyanagar",
+      "lat": 19.1209541,
+      "lng": 74.7476928,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdyVfIgC53DsRtNYUb9nQZTo",
+      "name": "IndianOil",
+      "address": "MH SH 10, Petrol Pump, near Mahesh Highway, 170/2, Maharashtra State Highway 10, MH SH 10, Ahilyanagar",
+      "lat": 19.1820364,
+      "lng": 74.6819193,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmTCodQC53DsRq8t9AIRNjng",
+      "name": "Mahesh Highway Petrol Pump",
+      "address": "MH SH 10, 170/2, Ahilyanagar",
+      "lat": 19.182114,
+      "lng": 74.6820336,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH2_H6L263DsRS_w4LERgVF8",
+      "name": "Reliance - Jio BP | Petrol Pump",
+      "address": "Ahmednagar - Aurangabad Road, Tawalenagar, Ahilyanagar",
+      "lat": 19.1319572,
+      "lng": 74.7581872,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJa84MdsO63DsRHDeLTj40lg8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gut No 172/2 NH 753F, Pune Road, Nagar, Warulwadi",
+      "lat": 19.14763,
+      "lng": 74.76190009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUaj4yti63DsRfwVBTuBt4Wo",
+      "name": "Bhagwant Essar Petrol Pump",
+      "address": "5Q67+672, State Highway 60, Pokhardi",
+      "lat": 19.1605176,
+      "lng": 74.76314839999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJw6u8thq73DsRWSgD9Dkv2yo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Abad Nagar, Vasant Tekdi, Ground Floor, Nagar Aurangabad Road, near Water Tank, NH 753F, Pune Rd, Ahilyanagar",
+      "lat": 19.1253245,
+      "lng": 74.75485619999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMW01SCS73DsRvzS1SKhvxLs",
+      "name": "IndianOil",
+      "address": "Gut No 131, 1/1, Maharashtra State Highway 60, Shiradhon",
+      "lat": 19.1696879,
+      "lng": 74.7652921,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJO9OEuFK53DsRrR5DSo3R6p4",
+      "name": "Bharat Petroleum, Petrol Pump -Dinesh Fueling Zone",
+      "address": "VILAD, MANMAD ROAD, AH, Ahilyanagar",
+      "lat": 19.2001849,
+      "lng": 74.6765861,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGecOj6S-3DsR9d-dY9BcXP4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gut No 163, 1B2P NH 160, Nagar Shirdi Road, Vilad",
+      "lat": 19.2176035,
+      "lng": 74.6775457,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhXbsezi53DsRj4EvIH1YtiY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Ahilyanagar- Manmad Road, NH 160, Taluka Nagar, Vilad",
+      "lat": 19.1928474,
+      "lng": 74.6756856,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ56bOoaW-3DsRAFnIdhAWvgI",
+      "name": "IndianOil",
+      "address": "S No 136/2/2, Dehre",
+      "lat": 19.214867,
+      "lng": 74.678446,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJj13iz7T7jzkRLNHO3S8jwS8",
+      "name": "IndianOil",
+      "address": "S No 12/11/I/I Part, Anand Nagar Road, Nandgaon",
+      "lat": 19.2422005,
+      "lng": 74.674441,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZUn4LB6_3DsRkZEa2pNt_RE",
+      "name": "Cng pump",
+      "address": "7M49+XX, Ismalpur",
+      "lat": 19.2574023,
+      "lng": 74.6699718,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY8mNG0i_3DsRa4mRyd7hFe0",
+      "name": "Bharat Petroleum, Petrol Pump -Shahid Jawan Bhausaheb Badakh",
+      "address": "DEHERE, Ahilyanagar",
+      "lat": 19.2576112,
+      "lng": 74.6704063,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsYzyQX273DsRzDiaMtpomWY",
+      "name": "ONLINE CNG Pump",
+      "address": "5QPC+XG, Shendi",
+      "lat": 19.1874741,
+      "lng": 74.77135299999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ-wVmU0m73DsRVTxe4JCaqxM",
+      "name": "IndianOil",
+      "address": "Gat No 78, 4, Ahmednagar - Aurangabad Road, Dhangarwadi",
+      "lat": 19.1920458,
+      "lng": 74.77416699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfbgw7lij3DsRbT6Yn_aB05k",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Plot No 682 NH 753/F, Aurangabad Nagar, Road, Jeur",
+      "lat": 19.21339,
+      "lng": 74.796016,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo55yOACj3DsR-JPGnV2oHr4",
+      "name": "Gunjan petroleum 24/7 online CNG available",
+      "address": "Jeur",
+      "lat": 19.222005,
+      "lng": 74.80554240000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkxQEvrSj3DsRB4DtKHM1wJI",
+      "name": "Bharat Petroleum, Petrol Pump -Sagar Contructions",
+      "address": "JEUR, Ahilyanagar",
+      "lat": 19.22202,
+      "lng": 74.8055495,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGzfOClaj3DsRzxw2kurTDFE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Aurangabad - Ahmednagar - Pune Highway, Jeur",
+      "lat": 19.227015,
+      "lng": 74.809857,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-dIgI9Gj3DsRCSsGqoBz7HQ",
+      "name": "Bharat Petroleum Petrol Pump , BABA PETROLEUM",
+      "address": "286/2, Ahmednagar - Aurangabad Road, Imampur",
+      "lat": 19.2484491,
+      "lng": 74.83019829999999,
+      "open_now": true
+    }
+  ]
+}

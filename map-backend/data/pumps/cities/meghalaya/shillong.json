@@ -1,0 +1,483 @@
+{
+  "city": "Shillong",
+  "state": "Meghalaya",
+  "count": 59,
+  "center": {
+    "lat": 25.5769,
+    "lng": 91.8815
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJN9m0rwqHUDcRdW9PWM6uc4c",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Mawrie, NH 40, Mylliem",
+      "lat": 25.5102322,
+      "lng": 91.811872,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWxgIy-2HUDcRyxqtsOgXpiI",
+      "name": "IndianOil",
+      "address": "Ground Floor, 11th Mile, Mylliem",
+      "lat": 25.48117899999999,
+      "lng": 91.819423,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6W7MhROGUDcRgKGivswm0OE",
+      "name": "IndianOil",
+      "address": "Ground Floor, Mawngap",
+      "lat": 25.482971,
+      "lng": 91.768079,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvSuWfnN-UDcRRIPQvWxhW_Y",
+      "name": "LAIMER FILLING STATION -Bharat Petroleum",
+      "address": "HV73+393, Asian Highway 1, Sawmer",
+      "lat": 25.56263959999999,
+      "lng": 91.8534105,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKV9SQ9iHUDcR_3cgi15AcZA",
+      "name": "ESM Service station",
+      "address": "FRX9+M97, Mylliem",
+      "lat": 25.4991559,
+      "lng": 91.8184256,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJt8lnVxuHUDcR2pCumajZBfg",
+      "name": "IndianOil",
+      "address": "Ground Floor, Laitjem, Laban, Kynton-U-Mon",
+      "lat": 25.522222,
+      "lng": 91.79806699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJr3rFL2mHUDcRoUyaKMaby5o",
+      "name": "Bharat Petroleum ESM Service Station",
+      "address": "India",
+      "lat": 25.5278723,
+      "lng": 91.8190802,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJaWZMKwCHUDcRW0L5Jc667UY",
+      "name": "ALZA REFILL CENTER",
+      "address": "GQ6P+PW2, Mawkriah",
+      "lat": 25.5113072,
+      "lng": 91.78660529999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQUsf1pqHUDcRupQfzBJ7Pgs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Mylliem, Syiemship, Lumsohriew",
+      "lat": 25.508641,
+      "lng": 91.78577399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5SAcvWmHUDcReXaoSanU5Z0",
+      "name": "PHUH KYRHAI FILLING station",
+      "address": "GROUND FLOOR, BPCL PETROL PUMP, LAITPYNTER, SYNRANG KABAN, PO, PS, Mawngap",
+      "lat": 25.4906077,
+      "lng": 91.7766333,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeRAYVVuHUDcRKGdLBz3RV54",
+      "name": "IndianOil",
+      "address": "Ground Floor Mawngap, Laitpynter, Lyngïong",
+      "lat": 25.486593,
+      "lng": 91.774037,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy_gQYEKHUDcRdww0x9B9OU4",
+      "name": "Alza Refill Centre",
+      "address": "Alza Refill Centre, Mawkriah",
+      "lat": 25.4849626,
+      "lng": 91.7650085,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJp6zUNuJ9UDcRUONrqYodHhQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Upper, Shillong",
+      "lat": 25.5541101,
+      "lng": 91.8455501,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwUt6UAB9UDcRqP0fBgM5vA8",
+      "name": "Bharat petroleum",
+      "address": "GVHP+CC7, National Highway 6, Pomlakrai",
+      "lat": 25.5285637,
+      "lng": 91.88552519999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJO5StOo19UDcRGspbYUf6NLw",
+      "name": "CHIRUP TSG FILLING STATION",
+      "address": "Laitkor Lumheh",
+      "lat": 25.5283562,
+      "lng": 91.8857321,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ55wSNnJ-UDcRBcExtYUamDg",
+      "name": "IndianOil",
+      "address": "Ground Floor, Jail Road, Laimer, Shillong",
+      "lat": 25.565737,
+      "lng": 91.855171,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKYk0RWJ8UDcRI-hYHVTJr5g",
+      "name": "IndianOil",
+      "address": "Smit Road",
+      "lat": 25.5106327,
+      "lng": 91.8970942,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJV5jU8xB8UDcRcEENRlqeYXw",
+      "name": "IndianOil",
+      "address": "Ground Floor, Laitkor, Kynton-U-Mon",
+      "lat": 25.542061,
+      "lng": 91.897336,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkXp14aR-UDcRdrZOZM_6fow",
+      "name": "IndianOil",
+      "address": "Ground Floor, Laitumkhrah, Shillong",
+      "lat": 25.565721,
+      "lng": 91.897291,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7RxQY6V-UDcR163iSZaTang",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Nongthymmai, Shillong",
+      "lat": 25.5654574,
+      "lng": 91.89989179999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKzSdAY1-UDcR5438896EY38",
+      "name": "Thangkhiew Filling Centre",
+      "address": "Barabazar Shillong Meghalaya, Gauhati",
+      "lat": 25.57716,
+      "lng": 91.87832999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeTE1I6t9UDcRAcE1hFuqj98",
+      "name": "BPCL W.D. Service Station",
+      "address": "FWX4+J7J, Smit Road, Smit",
+      "lat": 25.4990606,
+      "lng": 91.9049773,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ2T9_nfZ9UDcR5kX0Z6EAH3g",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 44, Madanryting, Laitkor Mawri",
+      "lat": 25.531627,
+      "lng": 91.88662699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJf-KYbC59UDcR6KptFFmLxlo",
+      "name": "BPCL Kharkongar Service Station .",
+      "address": "GWW3+PGX, National Highway 6, Shillong",
+      "lat": 25.5468743,
+      "lng": 91.9038544,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJK4JILp59UDcRXWelneF3-so",
+      "name": "IndianOil",
+      "address": "Ground Floor, Nongthymmai, Mawblei, Kynton-U-Mon",
+      "lat": 25.5531621,
+      "lng": 91.9058148,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOUd71FR5UDcRgdMhsFZtWj8",
+      "name": "IndianOil",
+      "address": "Demthring, Shillong",
+      "lat": 25.5579425,
+      "lng": 91.9093132,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCzxCl5l-UDcRbmk3iTtWHAo",
+      "name": "IndianOil",
+      "address": "Ground Floor, Point, Malki, Shillong",
+      "lat": 25.5659098,
+      "lng": 91.886602,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5yATlaJ-UDcRYmxfwMgFyBk",
+      "name": "IndianOil",
+      "address": "Ground Floor, Dhankheti, Laitumkhrah, Shillong",
+      "lat": 25.566195,
+      "lng": 91.89141099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4QeR4aR-UDcRWDkjpSnqi8I",
+      "name": "XTRACARE",
+      "address": "India",
+      "lat": 25.5659206,
+      "lng": 91.8976105,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJXTXM4aR-UDcRrmuDVL6qo90",
+      "name": "Assam oil",
+      "address": "India",
+      "lat": 25.5661264,
+      "lng": 91.8973501,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ36O5ERR_UDcRFUAd5pgVmSQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH-40, Cantonment Area, Shillong",
+      "lat": 25.571794,
+      "lng": 91.876919,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJO-XO8Lt_UDcRoxziEMnKAkU",
+      "name": "Samim Store",
+      "address": "93667735, Chibinang, Shillong",
+      "lat": 25.5737847,
+      "lng": 91.8824628,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJX2nDDLN-UDcRBXYmV7iKaTw",
+      "name": "Nongrim Hills Petrol Pump",
+      "address": "Rynjah, Shillong",
+      "lat": 25.5719445,
+      "lng": 91.9078955,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC68fGJN-UDcR7ZN04xiSR8M",
+      "name": "IndianOil",
+      "address": "1, Jail Road, Police Bazar, Shillong",
+      "lat": 25.578088,
+      "lng": 91.883951,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJI54qNfR7UDcRsBeRGkFMyPg",
+      "name": "IndianOil",
+      "address": "Ground Floor, Near Sohryngkham, Mawlyndep",
+      "lat": 25.5371395,
+      "lng": 91.9787984,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJr7okdPZ-UDcROANgpSUaagY",
+      "name": "IndianOil",
+      "address": "Ground Floor, Ïewduh, Bara Bazar, Shillong",
+      "lat": 25.585978,
+      "lng": 91.872185,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWbDKEFZ-UDcRtP0Kt-j11ec",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 40, GS Road, Mawlai Nongkwar, Shillong",
+      "lat": 25.5965497,
+      "lng": 91.8701728,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJT1dvv1V-UDcReMJveUkFBBA",
+      "name": "IndianOil",
+      "address": "Ground Floor NH 40, Shillong, Mawlai Mawdatbaki, Mawroh",
+      "lat": 25.599277,
+      "lng": 91.869484,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhQCtv5p_UDcRM1FIDvAcASw",
+      "name": "IndianOil",
+      "address": "R O Box No 64, Lawsohtun, Mawlai Mawdatbaki, Shillong",
+      "lat": 25.600171,
+      "lng": 91.86916599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYdWEx7d_UDcRjByIp627naM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Mawlai Mawdatbaki, Shillong",
+      "lat": 25.603133,
+      "lng": 91.86830100000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7XuO2PN_UDcREaj2fHVusk8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Mawlai Mawdatbaki, Shillong",
+      "lat": 25.5919471,
+      "lng": 91.8733627,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjzVB1Pl-UDcR6c94jXUhl0A",
+      "name": "Mawlai, Pump Site For Honda 2 Wheelers",
+      "address": "HVRF+QCJ, GS Road, Mawlai Mawdatbaki, Shillong",
+      "lat": 25.5919506,
+      "lng": 91.87351629999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwfh_rxR_UDcRd8wVs4E8S7M",
+      "name": "IndianOil",
+      "address": "Ground Floor NH 40, Mawiong, Mawroh",
+      "lat": 25.626316,
+      "lng": 91.88602399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuyROZd9_UDcRa8jNk2JQ-jw",
+      "name": "IndianOil",
+      "address": "Ground Floor, Polo Bazar, Shillong",
+      "lat": 25.58022459999999,
+      "lng": 91.899939,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIRA3Hn9_UDcRDacUKfgqXM4",
+      "name": "BPCL KRE JNGIM LINA SERVICE STATION",
+      "address": "HWH4+964, Demseiñ-Ïong, Shillong",
+      "lat": 25.578379,
+      "lng": 91.9055741,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJr2PYPA55UDcRCNy_QzzoF48",
+      "name": "IndianOil",
+      "address": "near Assam Rifles, Ground Floor, near Assam Rifles, Nongmynsong, Shillong",
+      "lat": 25.590232,
+      "lng": 91.915792,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPU_4pSZ_UDcRBMcleS6Lsug",
+      "name": "NEHU Petrol Station",
+      "address": "JV5W+G84, North Eastern Hill University, Shillong",
+      "lat": 25.6087505,
+      "lng": 91.895839,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAQ-MOCV5UDcRDBe0qGBv2I4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Wahheh, Neigrihms Hospital Road, Mawpat",
+      "lat": 25.5921369,
+      "lng": 91.92102489999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJF5j3J4R_UDcRzJEA0lK8e34",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bypass, Mawlai-Mawïong",
+      "lat": 25.6227961,
+      "lng": 91.9101223,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-cU4pZZ_UDcRSyu3-0Sh6MM",
+      "name": "IndianOil",
+      "address": "Ground Floor Mawiongrim, E Khasi Hills, GS Road, Mawlai Mawdatbaki, Shillong",
+      "lat": 25.635308,
+      "lng": 91.892466,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwUeFGEN_UDcRzzwsXcX_zGI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, GS Road Shillong, NH 40, Mawlai-Mawïong",
+      "lat": 25.6372652,
+      "lng": 91.8932524,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ2bBj5F5UDcRifOAv2OdZxo",
+      "name": "T W POHSHNA BPCL PETROL PUMP",
+      "address": "Major District Road 32, Mawdiangdiang",
+      "lat": 25.5963188,
+      "lng": 91.94675699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6z8FLAd5UDcRH9UkFb5PN-I",
+      "name": "Bharat Petroleum",
+      "address": "HWWW+GQM, Major District Road 32, Mawdiangdiang",
+      "lat": 25.5963301,
+      "lng": 91.94691569999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJvfjHL11_UDcR_iEZXa24ArI",
+      "name": "Rymbai Filling Station BPCL",
+      "address": "JVQR+QWG, Mawlai-Mawïong",
+      "lat": 25.6394465,
+      "lng": 91.8923233,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMUT0dzWCWjcRhDKnaE_Eb7M",
+      "name": "ByePass Filling Station BHARAT Petrol Pump",
+      "address": "MWWH+2Q2",
+      "lat": 25.6950013,
+      "lng": 91.9294055,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ47R_weKDWjcRNBaGB0iPmAY",
+      "name": "IndianOil",
+      "address": "Ground Floor Barapani, Umbang, Shillong",
+      "lat": 25.6846341,
+      "lng": 91.9013165,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMeIBSz2DWjcRXE9dU_bq2Ao",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Umiam",
+      "lat": 25.6853895,
+      "lng": 91.9160508,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP7nfHTSCWjcRhhKKvpOIOZE",
+      "name": "HP",
+      "address": "India",
+      "lat": 25.6917155,
+      "lng": 91.9254912,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJiZYGFmaBWjcRXdYV3NVFYxY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Bypass, Umsning",
+      "lat": 25.7155737,
+      "lng": 91.88870969999999,
+      "open_now": true
+    }
+  ]
+}

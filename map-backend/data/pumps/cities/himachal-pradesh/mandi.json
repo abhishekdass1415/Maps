@@ -1,0 +1,203 @@
+{
+  "city": "Mandi",
+  "state": "Himachal Pradesh",
+  "count": 24,
+  "center": {
+    "lat": 31.7769,
+    "lng": 76.9267
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJ2Y_ZTI_hBDkRtnY0-E-j4PU",
+      "name": "BALASUNDARI ENERGY",
+      "address": "MWVC+9RP, VILL PANJEHATI PO TALYAHAR TEHSIL SADAR, DISTT, Mandi",
+      "lat": 31.6934603,
+      "lng": 76.9220826,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAXsRbgDfBDkRLCvyCpVj9Nw",
+      "name": "Indian Oil Petrol Pump",
+      "address": "Bhadarwar",
+      "lat": 31.6868203,
+      "lng": 76.7894812,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJw6jjXinnBDkRAdKPszjtrBo",
+      "name": "Kaushal Kissan Sewa Kendra",
+      "address": "Village Gharwan PO and Tehsil Kotli Distt, Kotli",
+      "lat": 31.7690263,
+      "lng": 76.8676038,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4QzgPADnBDkRXSWGmuM5zhY",
+      "name": "Petrol pump near kotli",
+      "address": "QV99+V4, Gharaun",
+      "lat": 31.76969,
+      "lng": 76.86783059999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ0yIdLwDjBDkRBKfUWbeZ7_s",
+      "name": "Gopalpur",
+      "address": "PW5J+FRJ, Mandi",
+      "lat": 31.7087153,
+      "lng": 76.9320104,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJMaU_7unjBDkR4W7lDpf2RrU",
+      "name": "IndianOil",
+      "address": "Ground Floor, Nh70, Mangwai, Mandi",
+      "lat": 31.692897,
+      "lng": 76.9360061,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ_DPtz_iBDkRCSJU_-8wDfQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Paddal, near Padal Ground, Mandi",
+      "lat": 31.7047246,
+      "lng": 76.9393473,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUd7P9kYfBTkRcTqFOqPwWRg",
+      "name": "Rajshree Filing Station Rewalsar",
+      "address": "JRPV+8MG, Rewalsar",
+      "lat": 31.6358237,
+      "lng": 76.8442177,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ17mDMoziBDkRuibD7GO58wg",
+      "name": "IndianOil",
+      "address": "Ground Floor NH 21, Dudar",
+      "lat": 31.70210069999999,
+      "lng": 76.97219729999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ55TQZnnjBDkRctDMmhs9Z1E",
+      "name": "HRTC Petrol Pump",
+      "address": "MXX2+H3M, NH21, Saulikhad, Mandi",
+      "lat": 31.6989654,
+      "lng": 76.95015959999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJrd_9BsvjBDkRSgNxi_zBrfY",
+      "name": "IndianOil",
+      "address": "NH 20, Khaliar, Mandi",
+      "lat": 31.72830399999999,
+      "lng": 76.937889,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJb8Jhn6DjBDkRV7Ei-o3c6rs",
+      "name": "Bharat Petroleum, Petrol Pump -Kuldip Chand And Sons",
+      "address": "Mandi",
+      "lat": 31.7024353,
+      "lng": 76.9554412,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo4lCW4kdBTkR7vxChAn8Xxc",
+      "name": "IndianOil",
+      "address": "Ground Floor, Chadiyara, Gutkar",
+      "lat": 31.6776353,
+      "lng": 76.947431,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVVVVVSkcBTkRFChhPku_tO4",
+      "name": "IndianOil",
+      "address": "Ground Floor NH 21, Gutkar,Barsu, Near Shivansh Hyundai",
+      "lat": 31.660384,
+      "lng": 76.9452354,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_1Q9274dBTkRdK7P14zoYJs",
+      "name": "Jio - bp petrol pump",
+      "address": "Mandi, NH-21, State Highway 13, Gutkar",
+      "lat": 31.65459479999999,
+      "lng": 76.9448105,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_1Sbog0dBTkRWXNt9UpeDVs",
+      "name": "SHAHEED NARESH FILLING STATION",
+      "address": "Chalah",
+      "lat": 31.6470625,
+      "lng": 76.9468125,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJz39vNLUdBTkR20QujdMKcKg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, New NH 154, Bagla",
+      "lat": 31.6369078,
+      "lng": 76.9430464,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2b3p9kL9BDkR6bl8zvmOxxY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, National Highway 3, Sambal",
+      "lat": 31.704316,
+      "lng": 77.03161899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6du6vI8CBTkRM59zipgAwLk",
+      "name": "IndianOil",
+      "address": "Ground Floor NH 21, Pandoh, Sadar, Bandhi",
+      "lat": 31.6791001,
+      "lng": 77.04740009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDQ0m_qADBTkRrVOws_ia84Q",
+      "name": "IndianOil",
+      "address": "Ground Floor Nh 21, Pandoh",
+      "lat": 31.67260000000001,
+      "lng": 77.05199999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJd93n-57kBDkRhMpjtoJ1zZ0",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sadar, Kamand",
+      "lat": 31.7784785,
+      "lng": 76.9840222,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl7u52MPpBDkRp121C1tpaMo",
+      "name": "IndianOil",
+      "address": "Ground Floor Padhar, Katipari, Balh",
+      "lat": 31.8829063,
+      "lng": 76.9145521,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeYmOp1fvBDkR63I2zMuVKpk",
+      "name": "IndianOil",
+      "address": "Paddar, Ground Floor NH 20, Balh",
+      "lat": 31.861784,
+      "lng": 76.927796,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC_fRdz7pBDkR73mMijgo9O8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 154, Pundal",
+      "lat": 31.89125229999999,
+      "lng": 76.908813,
+      "open_now": true
+    }
+  ]
+}

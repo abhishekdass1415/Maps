@@ -1,0 +1,491 @@
+{
+  "city": "Haveri",
+  "state": "Karnataka",
+  "count": 60,
+  "center": {
+    "lat": 14.7833,
+    "lng": 75.3833
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJ4frMSwBduTsRUpZK5HZBAcU",
+      "name": "Veerabhadreshwara Petroleum",
+      "address": "P72X+3R, Guddad Mattihalli",
+      "lat": 14.70018750000001,
+      "lng": 75.2995625,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnX60sANnuTsRNGoBepOOu40",
+      "name": "Kaginale petroleum's",
+      "address": "near kanak das bhavan, Kaginelli",
+      "lat": 14.692045,
+      "lng": 75.3639281,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkePFdXRnuTsRJ6pfFq4KFy8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Haveri Kaginele Road, Byadagi",
+      "lat": 14.692009,
+      "lng": 75.363985,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYdyDQ1dDuTsR4m2UMvmbmqc",
+      "name": "Bharat Petrol station",
+      "address": "Q8C8+MR4, Haveri",
+      "lat": 14.7716299,
+      "lng": 75.31708630000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJJ67ydEVpuTsRQ64oQWWvTkQ",
+      "name": "IndianOil",
+      "address": "Survey No 20, 2B/2, Kulenur",
+      "lat": 14.7723935,
+      "lng": 75.31708019999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHxsLnORDuTsRYCf5hS69SeU",
+      "name": "Bharat Petroleum Petrol Pump , S D ATAWALAGI",
+      "address": "SURVEY NO-19/1, PLOT NO-3,SH-2",
+      "lat": 14.7765317,
+      "lng": 75.3023046,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJX_o-8IxfuTsRzDnMVII77lY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 518, Byadgi - Tilavalli Road, Chikkabasur",
+      "lat": 14.648951,
+      "lng": 75.305581,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2-iLP3leuTsRAEyHsTtfY9k",
+      "name": "IndianOil",
+      "address": "Survey No 197, 1K, Byadgi - Tilavalli Road, Chikkabasur",
+      "lat": 14.6483016,
+      "lng": 75.30174939999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJESPkte1ouTsRQX8Mkw6Nv8M",
+      "name": "Veerabhadreshwar Petroleum Services",
+      "address": "Sy111/1, NH-4, By-Pass, Haveri",
+      "lat": 14.7767673,
+      "lng": 75.3978932,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQ3E3xpZnuTsRw3j99ufN1Ic",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Ingalagondi",
+      "lat": 14.666727,
+      "lng": 75.374442,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP-U5RwBnuTsRPHzlF8CCO28",
+      "name": "SHRI VIGNESHWARA PETROLEUMS , IOCL PUMP",
+      "address": "M96G+W4H, State Highway 62, Ingalagondi",
+      "lat": 14.6621609,
+      "lng": 75.3759748,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJufiuIFBouTsR6DZgavjkFbE",
+      "name": "Nimba city Petroleum",
+      "address": "Q9MG+HGX, State Highway 2",
+      "lat": 14.7839927,
+      "lng": 75.3763499,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvYhHZ6ZluTsRjujGh9krAXk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 4, Motebennur",
+      "lat": 14.725001,
+      "lng": 75.473091,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfay2EgBluTsRLXMqUD1QOfo",
+      "name": "Nayara Petrol Bunk C R Ballary Petroleum",
+      "address": "Motebennur",
+      "lat": 14.7086371,
+      "lng": 75.48419919999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFX3Vcp1luTsR5Vc_WFsRyXw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Kammanahalli Cross, NH 48, Byadgi",
+      "lat": 14.747423,
+      "lng": 75.45306400000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAdGa1kVluTsRsKBr0xxnVbQ",
+      "name": "Barki Petroleum",
+      "address": "road, Mallur",
+      "lat": 14.6831414,
+      "lng": 75.47682379999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJu-VYZpEF0TsRaOwfMl6Gh08",
+      "name": "IndianOil",
+      "address": "Byadgi, Survey No 328/1A, Motebennur",
+      "lat": 14.71774799999999,
+      "lng": 75.49324,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJO448d2JkuTsR_za99yiaF00",
+      "name": "NAYARA Petrol Bunk Sri Parvathi Petroleums",
+      "address": "India",
+      "lat": 14.6790172,
+      "lng": 75.4807866,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJzfXgcwJluTsRqBNSpgXv5Qg",
+      "name": "Bharat Petroleum, Petrol Pump -Netravathi Service Station",
+      "address": "Byadagi",
+      "lat": 14.687593,
+      "lng": 75.4904043,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7xgo0vJkuTsRybCqecpNTsY",
+      "name": "Nethravathi Service Station",
+      "address": "MFJP+HQ6, Station Road, Byadagi",
+      "lat": 14.6814129,
+      "lng": 75.4869033,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJF_wSKo5kuTsR4Xk5RfgpiQg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Rd, Nehru Nagar, Byadagi",
+      "lat": 14.683194,
+      "lng": 75.49188099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7X84DTVluTsRWHky4Dlgryc",
+      "name": "Food Oil Shop",
+      "address": "Bus Stop, Byadagi",
+      "lat": 14.6766917,
+      "lng": 75.4861851,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJkW2KFwBluTsR0wHc8SJa47E",
+      "name": "Kakol",
+      "address": "MFHV+FFX, Kakol Road, Nehru Nagar, Byadagi",
+      "lat": 14.6787361,
+      "lng": 75.493748,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ0dYDVJBkuTsReQw1Y4gxqcg",
+      "name": "Indian Oil",
+      "address": "MFHW+G43, Kakol Road, Byadagi",
+      "lat": 14.6787604,
+      "lng": 75.4953,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJxSHgUJBkuTsRE57mmBWXOsk",
+      "name": "IndianOil",
+      "address": "Ground Floor, opposite Pwd IB, Kakol Road, Alalageri, Byadagi",
+      "lat": 14.6794145,
+      "lng": 75.4965021,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ78snnoBjuTsRHD3_DQjHJGw",
+      "name": "Nayara Petroleum: MALLAPPANAVAR PETROLEUMS",
+      "address": "Survey 65/4K, Byadgi Taluka, Agasanhalli",
+      "lat": 14.664278,
+      "lng": 75.4780095,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgR6cFA9luTsRpqSDaYSBCGI",
+      "name": "Nayara Fuel Station SRB PETROLEUMS MOTEBENNUR",
+      "address": "Mumbai Highway, Motebennur",
+      "lat": 14.7066388,
+      "lng": 75.5150768,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJecxVfQBjuTsRfcmCsH6ZEEo",
+      "name": "Masjid E Mohammadiya 🕌💝",
+      "address": "Shimoga Ragiguda, opp. Bettada, Men Rd, Malleshwara Nagar, Byadagi",
+      "lat": 14.6601849,
+      "lng": 75.4856886,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJF0MDcgBjuTsR0zuuBzJq4zA",
+      "name": "Sri kantesh Fuel Stationed Bharat Petroleum",
+      "address": "Byadagi-Rattihalli Road, Lingadevarakoppa",
+      "lat": 14.6598473,
+      "lng": 75.4855602,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJNX81_fdluTsRk8CaN6Q80f8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Kancor Ingredients, NH 48, Pune - Bengaluru Highway",
+      "lat": 14.704182,
+      "lng": 75.519746,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS2IPItxDuTsRFO1S-MGbkPw",
+      "name": "IndianOil",
+      "address": "Survey No 435/18, Hangal, Naregal",
+      "lat": 14.8256877,
+      "lng": 75.2794016,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnfSYeulDuTsR3JLZdkJ6Z48",
+      "name": "Petrol Bunk",
+      "address": "Adur",
+      "lat": 14.7744726,
+      "lng": 75.25529639999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJW_uDtWRDuTsRmoov2C6f6ZA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 44, 13 Hangal, Adur",
+      "lat": 14.774336,
+      "lng": 75.255198,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnTkoeABpuTsRztapnT4TQc8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 48, Pune - Bengaluru Highway, Devagiri",
+      "lat": 14.833758,
+      "lng": 75.359758,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6z3YqlVouTsRgiWQY_M4KLI",
+      "name": "Gas Bunk",
+      "address": "Haveri",
+      "lat": 14.7854473,
+      "lng": 75.3855986,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJHYHYmvxouTsRFQ_gSXZ7ggo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, PB Road, Haveri",
+      "lat": 14.7899701,
+      "lng": 75.39742009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS3j5nMJouTsRGixGYGhaBmU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Old, PB Road, Haveri",
+      "lat": 14.782671,
+      "lng": 75.41138099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0RtkB_touTsRUg62ZO0jpOg",
+      "name": "IndianOil",
+      "address": "Ground Floor, Hangal Road, Hedigonda, Haveri",
+      "lat": 14.7867352,
+      "lng": 75.3964815,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm8V1P0dpuTsRIaz-ZFwBbNw",
+      "name": "Bharat Petroleum, Petrol CNG Pump -G.G. Magavi, Haveri",
+      "address": "P B ROAD, Haveri",
+      "lat": 14.7877054,
+      "lng": 75.4005056,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3f5VNwJpuTsRXgDE8N7dGBQ",
+      "name": "IndianOil",
+      "address": "Rajendra Nagar, P B Road, National Highway 4, Haveri",
+      "lat": 14.7971073,
+      "lng": 75.3947062,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZXtileRpuTsRKFYxqJGw8C4",
+      "name": "IndianOil",
+      "address": "Survey No 31/A, Hedigonda",
+      "lat": 14.7844609,
+      "lng": 75.4024019,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpdFsPABpuTsR4F4txCKpomc",
+      "name": "Jio petrol pump",
+      "address": "Q9WX+2JG, Haveri",
+      "lat": 14.7950698,
+      "lng": 75.39906739999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJKVRJeABpuTsRSaPmKWZI6Zg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near RTO Office, Old, PB Road, Haveri",
+      "lat": 14.8098287,
+      "lng": 75.385397,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXYrXijFpuTsRRbkecnba1zE",
+      "name": "Nayara Petrol Bunk Best Petroleum",
+      "address": "QCM6+89R, PB Road, Aladakatti, Haveri",
+      "lat": 14.7833629,
+      "lng": 75.4108875,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJT2g81qNpuTsRHMVZaU4o99s",
+      "name": "Bharat Petroleum",
+      "address": "R97J+CQP, PB Road",
+      "lat": 14.8135777,
+      "lng": 75.38196359999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJaUhDzappuTsRCtj_tPAEVng",
+      "name": "Jio-bp",
+      "address": "1-1648-2786, PB Road, Ijarilakmapur, Haveri",
+      "lat": 14.8140558,
+      "lng": 75.3808471,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJVVhkUwAXrjsRJVAhEcLNHB4",
+      "name": "Ashok AG&P CNG STATION",
+      "address": "R97J+QG2, Haveri",
+      "lat": 14.814388,
+      "lng": 75.3812695,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEzkcaQBpuTsRfo2u0WWcuLw",
+      "name": "AG&P pratham CNG gas",
+      "address": "Shri Bistanagoudar Godown, near BAMS College, Haveri",
+      "lat": 14.814392,
+      "lng": 75.381247,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJMbxTb31puTsRz2eP2OiU6w8",
+      "name": "IndianOil",
+      "address": "No 7980/1A80, 1B Ijarilakmapur, Hedigonda, Haveri",
+      "lat": 14.8150516,
+      "lng": 75.3805632,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxSYL0CBpuTsRuWjVTxweD0E",
+      "name": "IndianOil",
+      "address": "Ground Floor, Near Apmc, Guttal Road, Hedigonda",
+      "lat": 14.798408,
+      "lng": 75.416138,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1YLtWABpuTsRQBvlk04p_3M",
+      "name": "Malagi petroleum",
+      "address": "R9CM+Q3, Haveri",
+      "lat": 14.8219433,
+      "lng": 75.38269609999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJf2XUDMdpuTsRN6SKG_9kTBw",
+      "name": "Basur HiQ Fuels M.R.P.L petrol pump|| Best Petrol Pump in haveri || Devagiri Yallapura || Haveri",
+      "address": "DC office road, Yellapur, Devagiri",
+      "lat": 14.8326064,
+      "lng": 75.37934890000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJn70kHDZpuTsRt8hUarUZ9ko",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No, 86/1, Guttal Road, Yattinahalli, Haveri",
+      "lat": 14.8092491,
+      "lng": 75.4289639,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC8ZhGfVuuTsRXF5Df36LXKw",
+      "name": "BPCL Sri Maltesh Petroleum",
+      "address": "Agadi",
+      "lat": 14.8212941,
+      "lng": 75.47868369999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaeOhmrJBuTsRaNoj8GYXgdU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 4, Baradur Cross, Tevaramellihalli",
+      "lat": 14.880977,
+      "lng": 75.310175,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVT-Mn3lBuTsRkH142NVNqvU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Pune, National Highway 48, Savanur, Bengaluru",
+      "lat": 14.886854,
+      "lng": 75.302737,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6a7i5BlBuTsRcs10kByoesQ",
+      "name": "IndianOil",
+      "address": "Survey No 194/B, Plot No 1, Shiggaon, Bankapura",
+      "lat": 14.9022614,
+      "lng": 75.28684679999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEUUFTYFBuTsRbkXHjcFhKnI",
+      "name": "R P GULMI PETROLEUM & CNG Station",
+      "address": "W76G+JRH, Near Bankapur Toll Plaza New Darbar, Bankapura",
+      "lat": 14.9115708,
+      "lng": 75.2771075,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZUefHhFsuTsR9fM6LXzGJHU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Haveri Road, Karjagi",
+      "lat": 14.858524,
+      "lng": 75.4501501,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCReZT5tvuTsREhhCZBwJdqE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 73/1, Haveri Guttal Road, Haveri",
+      "lat": 14.827325,
+      "lng": 75.521479,
+      "open_now": true
+    }
+  ]
+}

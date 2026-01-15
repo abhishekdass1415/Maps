@@ -1,0 +1,2899 @@
+{
+  "city": "Pune",
+  "state": "Maharashtra",
+  "count": 361,
+  "center": {
+    "lat": 18.5204,
+    "lng": 73.8567
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJvcy2dJKVwjsRQltqZc13LeM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No, Haveli, 14/2/1A/1B, near Ashirwad Garden, Uttam Nagar, Shivane, Pune",
+      "lat": 18.464568,
+      "lng": 73.775097,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJb5ctD4WVwjsREXkhDdnKagY",
+      "name": "IndianOil",
+      "address": "Gat No 93, Haveli, Shivane, Pune",
+      "lat": 18.4694422,
+      "lng": 73.7846258,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJiyN8KH6VwjsReuHiDB-oVew",
+      "name": "IndianOil",
+      "address": "Survey No 138, 2A/1A/1B, Warje, Pune",
+      "lat": 18.478617,
+      "lng": 73.79853589999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_QdY6da_wjsRpx-4J1ZwZuQ",
+      "name": "Maharashtra Natural Gas Ltd CNG Station",
+      "address": "Survey No. 130/2/1, 1, Bengaluru - Mumbai Highway, Warje, Pune",
+      "lat": 18.4824585,
+      "lng": 73.80319349999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUeDXAl2VwjsRKsgw4lbnT_s",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sinhgad Road, Manik Baug, Anand Nagar, Pune",
+      "lat": 18.4712327,
+      "lng": 73.82120789999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuURQZ-K_wjsRlWR9k-nusvM",
+      "name": "Bharat Petroleum, Petrol Pump -Mitali Service Station",
+      "address": "Sinhgad Road, Hingane Home Colony, Pune",
+      "lat": 18.4825437,
+      "lng": 73.8266404,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcRp5vTuUwjsRG6lpPt36t2s",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gat No 245, Panshet Road, Haveli, Gorhe Bk.",
+      "lat": 18.413724,
+      "lng": 73.76335739999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0RAO8czqwjsRzMn_UOpSqfI",
+      "name": "BELDARE PATIL PETROLEUM",
+      "address": "Survey No 35 Ambegaon On Pune Dehuroad, Ambegaon Budruk, Pune",
+      "lat": 18.4517082,
+      "lng": 73.8442967,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJw91AW3K-wjsRriVBksyjE9g",
+      "name": "Daulat Service Station - Bharat Petroleum",
+      "address": "BHUGAON ON MULSHI RD, Bhugaon, Bavdhan, Pune",
+      "lat": 18.5016808,
+      "lng": 73.7576382,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJARrhiMC_wjsRgmuBsxFXuIE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "147, near Karve Statue, 6B/7, Kothrud, Pune",
+      "lat": 18.5023618,
+      "lng": 73.81519229999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrX0Xafq_wjsRxAugiMi_lsc",
+      "name": "IndianOil",
+      "address": "Haveli, Parvati, Plot No 545/2, Sinhgad Road, Pune",
+      "lat": 18.4924099,
+      "lng": 73.83411339999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo4BYbvq_wjsRpbk1_5XfrAI",
+      "name": "IndianOil",
+      "address": "S No 545/7, Sinhgad Road, Panmala, Pune",
+      "lat": 18.493938,
+      "lng": 73.835793,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRZCDkXS_wjsRQU6-4_hQ9Aw",
+      "name": "Bharat Petroleum, Petrol Pump -Kasat Petroleums",
+      "address": "Kothrud, Pune",
+      "lat": 18.5045125,
+      "lng": 73.82235299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGzFkJ7nqwjsRM1DnWik3h5I",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Dhankawadi, Pune",
+      "lat": 18.4639183,
+      "lng": 73.8584371,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoXDXzuu_wjsRGrJaPlBhy1w",
+      "name": "Kailas Auto",
+      "address": "India",
+      "lat": 18.5079552,
+      "lng": 73.8044464,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJX6RLD6CVwjsRZIrnxzD7TlU",
+      "name": "Pruthvi Gas Agency Hp Gas",
+      "address": "Shop No 1, Nanded Fata, Nanded, Pune",
+      "lat": 18.4545052,
+      "lng": 73.7944703,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJt7SALTiVwjsRkJrpX-LZ0RI",
+      "name": "INDIAN OIL PETROL PUMP",
+      "address": "Shop No 1, Nanded Fata, Pune",
+      "lat": 18.4531704,
+      "lng": 73.7952643,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJiXK4N22VwjsRM66K26JZ06I",
+      "name": "Bharat Petroleum Petrol Pump , SHREE SWAMI SHANKARA PETROLEUM",
+      "address": "KHADAKWASLATAL HAVELI, Pune",
+      "lat": 18.4418149,
+      "lng": 73.7793528,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtfbAhtmVwjsRWk_9gWYPTKA",
+      "name": "Bharat petroleum",
+      "address": "FQ4X+GJW, Bharat petroleum, near Nandedcity, adjacent to Citypoint restaurant, off Sinhgad Road, township main gate, Pune",
+      "lat": 18.4563625,
+      "lng": 73.799075,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3xatUeqVwjsRAbgnoaIxYJo",
+      "name": "Bharat Petroleum, Petrol Pump -Dhawade Petroleum",
+      "address": "KONDE DHAWADE,PUNE, Pune",
+      "lat": 18.4553804,
+      "lng": 73.7677832,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPwCq9kaVwjsRMqZohK859AE",
+      "name": "Shell Petrol Pump",
+      "address": "off Pune, 25, Sinhgad Road, Pune",
+      "lat": 18.45726699999999,
+      "lng": 73.80543,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJz6vDO2uVwjsRq6O_nmATKTY",
+      "name": "Pokale Patil Petroleum",
+      "address": "Shop No 01, Dhayri Tempal, Mahadev Nagar, Dhayari, Pune",
+      "lat": 18.4418708,
+      "lng": 73.81233399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQUEPgoWVwjsRh-h5xO--YTs",
+      "name": "IndianOil",
+      "address": "Survey No 138, 2A/1A/1B, Warje, Pune",
+      "lat": 18.478617,
+      "lng": 73.79853589999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmUsgRT2VwjsRkR2BjB9ght8",
+      "name": "Viotech Gases And Equpiments",
+      "address": "near Bhosale Fabrication, Sr. No. 28/1, Pari Company Circle, near Bhosale Fabrication, Dhayari Narhe Road, Pune",
+      "lat": 18.4468043,
+      "lng": 73.81918879999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6aWYUHuVwjsRFuYhTfLb7UM",
+      "name": "Maharashtra Natural Gas Ltd CNG Station",
+      "address": "Narhe Road, Dhayari Phata, Pune",
+      "lat": 18.4474768,
+      "lng": 73.82055439999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUzfSGz2VwjsRt8oZo9SDReI",
+      "name": "STAR",
+      "address": "India",
+      "lat": 18.4479138,
+      "lng": 73.82078849999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJa6gNJj2VwjsRV2ztjHb3910",
+      "name": "Amir",
+      "address": "CRWC+Q95, Narhe Road, Dhayari Phata, Pune",
+      "lat": 18.4468937,
+      "lng": 73.8209906,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJlzrDEzOVwjsRSVJr2F-WiFo",
+      "name": "New Jyoti Gas Repair and Service",
+      "address": "411041, Dhayari Narhe Road, Shree Control Chowk Road, Pune",
+      "lat": 18.4434188,
+      "lng": 73.8220542,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJP67Ukda_wjsRs1nx9Mba9hM",
+      "name": "Krishnaraj Washing & Greasing centre",
+      "address": "Shop No. 132, Near Vardhan Petrol Pump, Giridhar Nagar, Warje, Pune",
+      "lat": 18.4825028,
+      "lng": 73.80175969999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJd7ezGAWVwjsRp2f8Je5l8jg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "K 1, near Navale Icon, S No 55/17, Navale Bridge, Vadgaon Budruk, Pune",
+      "lat": 18.460267,
+      "lng": 73.82241599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6cc9FZ6_wjsRGrqmgXFozKQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Sr No 130, Haveli, Chandani Chowk, near Chaudhary CNG, 4/1/1, Service Road, Warje, Pune",
+      "lat": 18.4821132,
+      "lng": 73.80326939999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJc8C1NQC_wjsRkCheIXwDm88",
+      "name": "Chaudhari Petroleum",
+      "address": "FRJ3+V8H, Mumbai Pune Bypass Road Flyover, Warje, Pune",
+      "lat": 18.4821841,
+      "lng": 73.8033525,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMzMv-da_wjsRwy4ZxNfY3TY",
+      "name": "MNGL CNG Pump",
+      "address": "FRJ3+X79, National Highway 48, Warje, Pune",
+      "lat": 18.4824041,
+      "lng": 73.8032307,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ1KzVDmVwjsRtOXQSNnXvlg",
+      "name": "Mauli Gas Repair Service",
+      "address": "Sun Univers Shop 3, Ganesh Mandir Line, Narhe, Pune",
+      "lat": 18.4524339,
+      "lng": 73.824263,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSwNbUgC_wjsR7U7o1twLncs",
+      "name": "BHARAT PETROLEUM",
+      "address": "FRM2+5WV, Warje, Pune",
+      "lat": 18.482979,
+      "lng": 73.8023074,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ4yb9iw2_wjsRrfAmI6Y0SSk",
+      "name": "Pramukh Indane",
+      "address": "near Cipla Foundation, Shop No G6, Viola Properties, near Cipla Foundation, Warje, Pune",
+      "lat": 18.4858825,
+      "lng": 73.7987079,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJTbyPD4e_wjsRa9DV8cSVUAA",
+      "name": "Shree Traders",
+      "address": "Shop No 30, near HDFC Bank ATM, Ramesh Wanjale Chowk, Warje, Pune",
+      "lat": 18.4864778,
+      "lng": 73.79683399999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJKeYoJACVwjsR3anyP58i_h0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 55/3A, Plot No 11, Narhe, Pune",
+      "lat": 18.45436,
+      "lng": 73.82687,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwT0JPwCVwjsRjgl7UNP4JRo",
+      "name": "Devi singh",
+      "address": "CRPF+FP3, Shree Control Chowk, Narhe, handewadi, Pune",
+      "lat": 18.4361275,
+      "lng": 73.8242921,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJe6mPXuK_wjsRFa3t2uL2zkI",
+      "name": "Shell Petrol pump",
+      "address": "Warje, Pune",
+      "lat": 18.4880778,
+      "lng": 73.7954104,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJN0t0TzeVwjsRhs2FZlj3kRQ",
+      "name": "Dinesh Abhiman Pawar",
+      "address": "Dinesh Pawar, Narhe, Pune",
+      "lat": 18.4482405,
+      "lng": 73.829267,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJlzHvFIqVwjsRJwvIiznGPlA",
+      "name": "Indian Oil Abhishek",
+      "address": "Shop No 1, Pune",
+      "lat": 18.4568889,
+      "lng": 73.8289841,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ3RsUJCaVwjsRb4scWt_63dE",
+      "name": "INDIAN OIL GANESH",
+      "address": "Shop No 1, Ambegaon, Pune",
+      "lat": 18.4568851,
+      "lng": 73.82899239999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJzWddkKCVwjsRKQpoVOIma_k",
+      "name": "Indian Oil Manoj",
+      "address": "Shop No, Katraj-Dehu Road Bypass, Pune",
+      "lat": 18.4572514,
+      "lng": 73.8290698,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJBz9yCRmVwjsRHtdPXAdHpyA",
+      "name": "Indian Oil Datta",
+      "address": "Shop No 1, Katraj-Dehu Road Bypass, Pune",
+      "lat": 18.4577113,
+      "lng": 73.8290339,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJC8yylUSVwjsR7wRt3leIiPs",
+      "name": "Sagar Suryakant Nagarkar",
+      "address": "Indian Oil Cng, Katraj Road, Pune",
+      "lat": 18.4573669,
+      "lng": 73.8291053,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJFW2Md9qVwjsRbvNIlnAp7rE",
+      "name": "Indian Oil Ashok",
+      "address": "Ambegaon Budruk, Pune",
+      "lat": 18.45679179999999,
+      "lng": 73.8292592,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJnSTwETiVwjsRS-XpomwrTfg",
+      "name": "IndianOil",
+      "address": "S No 6, 16, Budruk, Katraj-Dehu Road Bypass, Ambegaon, Pune",
+      "lat": 18.4578427,
+      "lng": 73.8290931,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJn4f7Gd6VwjsR9_b4Q0u6S4E",
+      "name": "INDIAN OIL KIRAN",
+      "address": "Shop No 2, Indian Oil Pump, Katraj-Dehu Road Bypass, Pune",
+      "lat": 18.4578998,
+      "lng": 73.82911690000002,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJIQzLQZGVwjsRv9y-GNblogU",
+      "name": "Rameshwar Ture",
+      "address": "Shop No 1, Ambegaon, Pune",
+      "lat": 18.4566335,
+      "lng": 73.8293521,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJv0MB8JmVwjsRVqm8r2POyug",
+      "name": "SANGRAM ENTERPRISES",
+      "address": "Shop No 1, Katraj Road, Pune",
+      "lat": 18.4579031,
+      "lng": 73.8291429,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJbw2p5ESVwjsRVLHgBR-AYWI",
+      "name": "Sai Krupa Automobiles",
+      "address": "Shop No 55, Narhe Ambegaon Road, Vishnupuram, Narhe, Pune",
+      "lat": 18.45667389999999,
+      "lng": 73.8293719,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJQYpvFDiVwjsRckmqkZ9Npfg",
+      "name": "Babji Petrol Pump",
+      "address": "Block-G, AMIT BLOOMFIELD, Ambegaon Road, Ambegaon Budruk, Pune",
+      "lat": 18.4567421,
+      "lng": 73.8293645,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJt4E7H7WVwjsRCj2iDtHGGJE",
+      "name": "INDIAN OIL ANIL",
+      "address": "Shop No 1, Katraj-Dehu Road Bypass, Pune",
+      "lat": 18.4580227,
+      "lng": 73.82928609999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJBZBho0SVwjsRQGx13yw_U-Q",
+      "name": "Someshwar Enterprises",
+      "address": "Ganesh Villa-1,5, Vishnupuram Colony, Vadgaon Budruk, Pune",
+      "lat": 18.459533,
+      "lng": 73.8293722,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJMaVXG1OVwjsRko2iIP5TAWs",
+      "name": "VKD PETROLEUM",
+      "address": "Sr no 4/4 ,Narhe Ambegaon road,Bhumkar Chowk ,Pune-4110141, Pune",
+      "lat": 18.449472,
+      "lng": 73.83414429999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdzxeozGVwjsRxoPMeRikhPg",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 18.4494914,
+      "lng": 73.834203,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJtz_GtTOVwjsR_sKBIz_toqM",
+      "name": "Pushkar Gas Service",
+      "address": "Shop No 04, Ambegaon Budruk, Pune",
+      "lat": 18.45066139999999,
+      "lng": 73.83773099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBSTyAvbrwjsRm-HpnYcWU60",
+      "name": "Shell Petroleum Katraj",
+      "address": "FR2W+HJH, Highway, Ambegaon Pune, Mumbai",
+      "lat": 18.4511344,
+      "lng": 73.8464697,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcwCT8CrrwjsRdfziCR8AKB0",
+      "name": "Avdhut Gas Enterprises",
+      "address": "Shop No 04, Sadguru Hights, Jambulwadi Path Mudak Vasti Ambegaon, Katraj, Pune",
+      "lat": 18.4345305,
+      "lng": 73.8443534,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTdcS3zTAwjsRm0_fSJEEiM0",
+      "name": "IndianOil",
+      "address": "opposite ARMED FORCES MEDICAL COLLEGE, 499/A, Pune - Solapur Road, Bhairoba Nala, Pune",
+      "lat": 18.506866,
+      "lng": 73.89798499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeQSywwvAwjsRKcxgSJ9P9RU",
+      "name": "IndianOil",
+      "address": "Sinhgad Road, Dandekar Pool, Municipal Colony, Pune",
+      "lat": 18.50115,
+      "lng": 73.846443,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAQAAwIDqwjsRG6lVBHNt6tI",
+      "name": "Bharat Petroleum - Petrol & CNG",
+      "address": "Kondhwa Road, Lullanagar, Pune",
+      "lat": 18.4842841,
+      "lng": 73.8842309,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJW_4FcDzrwjsRrqFNYFbTPTU",
+      "name": "Bharat Petrol Pump - Western Transport Agency",
+      "address": "Bhilarewadi, Katraj, Pune",
+      "lat": 18.4230654,
+      "lng": 73.8601994,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy2qHipzqwjsRMlGskloTNoA",
+      "name": "PATEL PETROLEUMS",
+      "address": "588/2B , PLOT No 9A , BIBWEWADI KONDHWA ROAD, Gangadham - Shatrunjay Road, Market Yard, Pune",
+      "lat": 18.4813192,
+      "lng": 73.87401609999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGSBHkk7qwjsRsjRx45KXPlU",
+      "name": "Bharat Petroleum Petrol and cng Pump",
+      "address": "Shop No 2, Dharmavat petroleum, near dharmavat petrol pump, Katraj Bypass Road, Pisoli, Pune",
+      "lat": 18.4489405,
+      "lng": 73.9044255,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ669Ejj3AwjsRjCQhcTd8Eoc",
+      "name": "Bharat Petroleum, Petrol Pump Saraswati auto services",
+      "address": "Pune-Satara Road, Dhankawadi, Pune",
+      "lat": 18.4999972,
+      "lng": 73.86602719999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFZqGTA3AwjsRZO3pN-H7Dfk",
+      "name": "Bharat Petroleum, Petrol Pump -Janata Automobiles",
+      "address": "Tilak Road, Shukrawar Peth, Pune",
+      "lat": 18.5023373,
+      "lng": 73.8568817,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQexkGBHAwjsRTAFnJ6wJNbE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Cts No 1021, Shukrawar Peth - Mahatma Gandhi Road, Swargate, Pune",
+      "lat": 18.50133,
+      "lng": 73.85839,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJV6uNDG3AwjsR0cL5luLlqAM",
+      "name": "IndianOil",
+      "address": "New 1339, Shukrawar Peth - Mahatma Gandhi Road, Natu Baag, Pune",
+      "lat": 18.509142,
+      "lng": 73.855232,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJyWqxTPW_wjsR_fc_p3_J0go",
+      "name": "Bharat Petroleum, Petrol Pump -Bharat Petrol Depot, Navi Peth",
+      "address": "Lal Bahadur Shastri Road, Pune",
+      "lat": 18.5078375,
+      "lng": 73.8440052,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_XNAh0DAwjsRjeXdZQVlexk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Mahavir Darshan Complex, F P, Bhawani Peth, Pune",
+      "lat": 18.5082297,
+      "lng": 73.8684852,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJebyWrjXAwjsR9xcXOOOob94",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 2 Poolgate, Solapur Road, Pune",
+      "lat": 18.5068815,
+      "lng": 73.88558069999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe-IIL4y_wjsRFl7tCjYuZJM",
+      "name": "Bharat Petroleum",
+      "address": "Karve Road, Pune",
+      "lat": 18.5100223,
+      "lng": 73.8335075,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3XBJLYy_wjsR30ehLzqcP6k",
+      "name": "IndianOil",
+      "address": "Karve Road, Nal Stop, Pune",
+      "lat": 18.509878,
+      "lng": 73.833122,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzcHHAYi_wjsRbECgv80Kbjo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Fergusson College Road, Deccan Gymkhana, Pune",
+      "lat": 18.5167677,
+      "lng": 73.8418867,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2aiLynnAwjsRHIR76l2mABY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near Mcdonald Outlet, 889/890, Jangali Maharaj Road, Deccan Gymkhana, Pune",
+      "lat": 18.5187586,
+      "lng": 73.8449665,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbZnKHWXAwjsR2cmIUmCelVA",
+      "name": "The Filling Station",
+      "address": "Shanivarwada, 1414, Chhatrapati Shivaji Maharaj Road, Kasba Peth, Pune",
+      "lat": 18.5204667,
+      "lng": 73.8559569,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJX5ZmAYrqwjsRt3uNFzDahwg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "S No 40/1/5, Plot No 4, Mitha Nagar, Kondhwa, Pune",
+      "lat": 18.4691515,
+      "lng": 73.8884185,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsUMQsE_AwjsRaRliQmuLuHI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Plot No 1 Moledina Road, East Street, Pune",
+      "lat": 18.51822,
+      "lng": 73.879638,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJd51rtkLrwjsRzAN-92YA2Yg",
+      "name": "HP PETROLEUM BALAJI",
+      "address": "Shop No 1, Katraj, Pune",
+      "lat": 18.4486199,
+      "lng": 73.8578419,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ8wW5BO3rwjsREfcFix7HAEY",
+      "name": "Swara gas services Katraj",
+      "address": "Santosh Nagar, Ambegaon Khurd, Pune",
+      "lat": 18.4486294,
+      "lng": 73.85449109999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJCZ8e9q7rwjsRm-Nsio8QcaY",
+      "name": "Maharashtra Natural Gas Ltd CNG Station (Rathi CNG)",
+      "address": "FV33+MCV, Bharati Vidyapeeth Road, Shriram Nagar, Dhankawadi, Pune",
+      "lat": 18.4542251,
+      "lng": 73.8535344,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3_V8J6TrwjsR0M1GvGMbyOk",
+      "name": "RATHI CNG STATION",
+      "address": "74, Bharati Vidyapeeth Road, Shriram Nagar, Katraj, Pune",
+      "lat": 18.4541593,
+      "lng": 73.8533621,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqyaQrd7qwjsRA1piQ2g1tJk",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 18.4430373,
+      "lng": 73.85978589999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJE8QE8v_rwjsRPsopo_I9TMo",
+      "name": "Katraj petroleum BPCL",
+      "address": "53/2A, Sr no, 7, Katraj Ghat Road, Katraj Vasahat, Katraj, Pune",
+      "lat": 18.44301759999999,
+      "lng": 73.8597564,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCS82GtnqwjsRTKLShWbkJa8",
+      "name": "HP GAS",
+      "address": "CVR5+F2Q, Anjani Nagar Road, Anjani Nagar, Santosh Nagar, Ambegaon Budruk, Pune",
+      "lat": 18.4412146,
+      "lng": 73.8576215,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ1T9WbuXqwjsRdhntjmaOXNE",
+      "name": "A M K Enterprises & Apollo Tyres",
+      "address": "Katraj Kondhwa, Bypass Highway, Bypass Highway, Pune",
+      "lat": 18.4487004,
+      "lng": 73.8682844,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl2_KxF7rwjsRpTgaZK3AFEo",
+      "name": "Nilesh Store",
+      "address": "Gokulnagar Lane3, Nirmal Society, Gokul Nagar, Pune",
+      "lat": 18.4459012,
+      "lng": 73.8711379,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJeTVGnrrrwjsRsvgxHtCg6sQ",
+      "name": "Ganesh Gas Agency",
+      "address": "61/27, Lane Number 7, Sundar nagar, Katraj, Pune",
+      "lat": 18.4353981,
+      "lng": 73.8604833,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJc_xaRwDrwjsRXMZb0YMSH_4",
+      "name": "Jay malhar petroleum",
+      "address": "Old, Pune - Satara Road, Santosh Nagar, Ambegaon Khurd, Pune",
+      "lat": 18.4350176,
+      "lng": 73.8598619,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJvc2h5fDrwjsR8lPRqQJZytQ",
+      "name": "Nuserawan Petrol Pump Dhankawadi",
+      "address": "B PLOT, 19-A/4 A, Pune - Satara Road, Dhankawadi, Pune",
+      "lat": 18.4687787,
+      "lng": 73.8579982,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJBZgO3abrwjsRYIzfSzomFW0",
+      "name": "shilimkar 24X7 CNG station",
+      "address": "beside Bharat petroleum, KK Market Road, Pune",
+      "lat": 18.468699,
+      "lng": 73.8592621,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJFzu-orvqwjsRKwHukKPkYjo",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 18.4688397,
+      "lng": 73.8580022,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJN243FPrrwjsRtmN8a_B2034",
+      "name": "SSquare CNG station, Dhankawadi",
+      "address": "FV92+8PQ, Hatti Chowk, Chhatrapati Sambhaji Nagar, Yashwantrao Chavan Nagar, Pune",
+      "lat": 18.4683259,
+      "lng": 73.85187379999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMa_S7Z_rwjsRPp1OGqx_PMo",
+      "name": "Maharashtra Natural Gas Ltd CNG Station",
+      "address": "Santosh Society, Talajai Pathar, Dhankawadi, Pune",
+      "lat": 18.4683518,
+      "lng": 73.8518649,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4WGDebbrwjsRRm8e8DzBkBw",
+      "name": "Shivansh Washing Center",
+      "address": "near CNG pump, Hatti Chowk, Dhankawadi, Pune",
+      "lat": 18.468552,
+      "lng": 73.8527161,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdd0oHSTrwjsR3E_6Iq2kMz4",
+      "name": "IndianOil",
+      "address": "S No 89, Mangadewadi, Parvati, Katraj, Pune",
+      "lat": 18.431814,
+      "lng": 73.858623,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs4_yHCTrwjsRR1rljE9wJp0",
+      "name": "राजमुद्रा एन्टरप्रायजेस",
+      "address": "India",
+      "lat": 18.4312694,
+      "lng": 73.8592432,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJsZF4o73qwjsRPI40gYooiDg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "S No 672/11, Bibwewadi, Pune",
+      "lat": 18.4694,
+      "lng": 73.86379,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxS796-PpwjsRPgu07LV4CZg",
+      "name": "Jay Shambho Petroleum (BP - Deshmukh Petrol Pump)",
+      "address": "MAULI SUSHILA, Pune Saswad Road, Bhekrai Nagar, Tukai Darshan, Phursungi",
+      "lat": 18.4875212,
+      "lng": 73.952469,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-1hpHObpwjsRV7dA-eQNHwg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Sr No 177/1, 36 Haveli, New, Phursungi",
+      "lat": 18.4810621,
+      "lng": 73.9547911,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQbFk83TCwjsR3lFsZ3cptJo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Manjri Haveli, Sr No 77/1/B, Pune",
+      "lat": 18.4972744,
+      "lng": 73.9620315,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl2BytVvBwjsR6nuGgS0jwf4",
+      "name": "Bharat Petroleum, Petrol Pump -Ekvira Petroleum",
+      "address": "Solapur Road, JJC Colony, Ramtekadi, Wanowrie, Pune",
+      "lat": 18.5066294,
+      "lng": 73.9113684,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJG-ObjQPswjsRaG0Xl0Txs1E",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Purandar, Bhivri",
+      "lat": 18.3904382,
+      "lng": 73.93038489999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-_nqaQ_CwjsRTgL43NPErNQ",
+      "name": "Tekawade Petrol Pump & CNG",
+      "address": "15, Pune - Solapur Road, Vital, Hadapsar, Pune",
+      "lat": 18.4992281,
+      "lng": 73.94892829999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8b9lZADrwjsRq-dTepZmIWo",
+      "name": "Handewadi petroleum Bharat Petroleum",
+      "address": "FW4J+2CR, Handewadi Road, Sayad Nagar, Hadapsar, Pune",
+      "lat": 18.4548662,
+      "lng": 73.93094649999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbR1qESrrwjsRKcSlwmrNNTs",
+      "name": "JAI GANESH PETRO STATION BPCL CNG PUMP",
+      "address": "near Jai Bhavani Mangal Karyalaya, Nhavle Vasti, Handewadi Road, Hadapsar, near Jai Bhavani Mangal Karyalaya, Pandhari Nagar, Handewadi, Pune",
+      "lat": 18.4588634,
+      "lng": 73.93362139999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ_W0uFWTrwjsRyS2EVMPXHEI",
+      "name": "CNG STATION,Bharat Petroleum...",
+      "address": "FW5M+HF2, Pandhari Nagar, Handewadi, Pune",
+      "lat": 18.4588774,
+      "lng": 73.9336534,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ01i866bJWTkRtMrcXGBfHQg",
+      "name": "IndianOil",
+      "address": "Pune, No 309/1, Uruli Devachi Fursungi, Haveli",
+      "lat": 18.4566386,
+      "lng": 73.9378827,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl2ZShSbpwjsRuHI7IrYK5qQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gat No 312, Machine Chowk, near Mantarwadi Khadi, 2/1/4 & 312/2/1/5, Uruli Devachi, Pune",
+      "lat": 18.4576973,
+      "lng": 73.93892869999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEVVkx57rwjsRtRs6w55XR-E",
+      "name": "Company Work",
+      "address": "Mandave Lakshiminagar, 51 Fata Mandave, Pandharpur, Solapur",
+      "lat": 18.4629151,
+      "lng": 73.9193499,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJq5WuQkzrwjsRAzdDr3gbQfU",
+      "name": "Unnati Ventures",
+      "address": "Katraj-Hadapsar Bypass Road, Pune",
+      "lat": 18.4626109,
+      "lng": 73.91404039999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ-edCAmLrwjsRvmhN6XaVfAU",
+      "name": "Shell Petrol Pump",
+      "address": "FWG8+3G2, Tal- Haveli, Katraj-Hadapsar Bypass Road, Mohammed Wadi, Pune",
+      "lat": 18.466112,
+      "lng": 73.918238,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP91D1t_rwjsR6JyKt7tw4u0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "opposite Corinthians Club Internal Road, Sr No 12/11B, Mohammed Wadi, Pune",
+      "lat": 18.4660384,
+      "lng": 73.9175171,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBx04zrjpwjsRGDPSet1MhVY",
+      "name": "Shell petroleum",
+      "address": "Saswad, Rd, Uruli Kanchan",
+      "lat": 18.457166,
+      "lng": 73.94521399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6ydyRgDrwjsR5oFDUz9Emq4",
+      "name": "Indian Oil (Sai Petro Hub)",
+      "address": "29, opp. HDFC Bank, near to Baghban Restaurant, NIBM, Undri - Hadapsar Road, Hills & Dales, Kondhwa, Pune",
+      "lat": 18.4630402,
+      "lng": 73.91182739999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJVRFmxaTrwjsRFGZkmtqhBuM",
+      "name": "Yugrishi Healthcare Center",
+      "address": "Behind Of Dharmawat Petrol Pump, Urban Rise, A- 802, next to ARV IMPERIA, Pisoli Road, Undri, Pune",
+      "lat": 18.4472458,
+      "lng": 73.906772,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJw4FxVtfrwjsRgelmKRz4cIY",
+      "name": "Sadgurukrupa petrol pump",
+      "address": "JSPM CYGNET SCHOOL, near Ambiacha Zaad, College, Handewadi Road, Indira Nagar, Undri, Autadwadi Handewadi",
+      "lat": 18.4697422,
+      "lng": 73.93270129999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJW7PpBh_qwjsRLpelw2fkrYo",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 18.4697446,
+      "lng": 73.93280159999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJO9LoJwDpwjsRAQWlvZP5_2w",
+      "name": "Kondwa",
+      "address": "FW7V+8W3, Pune",
+      "lat": 18.4632566,
+      "lng": 73.9447872,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJgSIaexDqwjsRepPlcixV_Fg",
+      "name": "NAVNATH ENTERPRISES",
+      "address": "FWGF+7C9, Mohammed Wadi Road, Mohammed Wadi, Pune",
+      "lat": 18.4756677,
+      "lng": 73.9236073,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJHb0dc5HpwjsRAVnA-xxDk0A",
+      "name": "Bharat Petroleum, Petrol Pump, CNG Gas -Jai Ganesh Petroleum",
+      "address": "Uruli Devachi, Pune",
+      "lat": 18.4620541,
+      "lng": 73.95102179999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJn9wqNGvpwjsR2E5kIE9Z1WI",
+      "name": "TILAKRAJ CNG",
+      "address": "DD, S.No12 ,H 12/A NH548, Pune",
+      "lat": 18.4642379,
+      "lng": 73.952666,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1TqrJADrwjsRBbny99QwNkI",
+      "name": "Upcoming Bharat Petroleum",
+      "address": "88/2/B/1, Mohammad Wadi Road, Gulam Ali Nagar, Hadapsar, Autadwadi Handewadi",
+      "lat": 18.4790262,
+      "lng": 73.92683869999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJL3F1BlfqwjsR0FmYXlFTN7g",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 18.45002819999999,
+      "lng": 73.8922534,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJlQxFBlfqwjsRTdGwn8huwe0",
+      "name": "D. J. Petroleum",
+      "address": "Danny Mehata Nagar Industrial Area, Kondhwa Budruk, Pune",
+      "lat": 18.4499986,
+      "lng": 73.892201,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJw8encRrrwjsRnau-AkSvbLw",
+      "name": "IndianOil",
+      "address": "Gat No 47, 1 Haveli, 2A/11 47/1C/13 47/1B, Mohammed Wadi, Pune",
+      "lat": 18.4809491,
+      "lng": 73.9104071,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJE7x3x3HqwjsRCqJhpfBeA9I",
+      "name": "CHAKAN'S LAKDI GHANA OIL",
+      "address": "FWH3+4R8, NIBM Post Office Road, Salunkhe Vihar Society, Kondhwa, Pune",
+      "lat": 18.4777861,
+      "lng": 73.90457479999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJO_DNBurrwjsR8cPlXnkdKWw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No, 13/2/1, Kondhwa, Pune",
+      "lat": 18.4591866,
+      "lng": 73.890999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJb_plZb7pwjsR_LmYieovdBY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "SN 44, Shantai Transport Katraj Kondhwa By Pass, Mantarwadi",
+      "lat": 18.4648976,
+      "lng": 73.9617422,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7f5RyuvpwjsRA06HH8SmyAQ",
+      "name": "Hindvi Enterprises",
+      "address": "FXF4+GGP, Phursungi Village Road, Suresh Nagar, Pune",
+      "lat": 18.4738333,
+      "lng": 73.9563265,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8-Efy-vpwjsRPByz8R2hU10",
+      "name": "HP Gas",
+      "address": "India",
+      "lat": 18.4738686,
+      "lng": 73.9564589,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJM6O4b2fpwjsRb4UVIba4454",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "SR No 49, 1A/1 Haveli, Uruli Devachi, Pune",
+      "lat": 18.460459,
+      "lng": 73.964331,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl6EpbILrwjsRGfyzZKIXMwY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Sr No 309, Handewadi Road Mohammadwadi, Railway Crossing, Hadapsar, Pune",
+      "lat": 18.4881282,
+      "lng": 73.93212199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC9dXwlzpwjsRaA6MiYeTmjI",
+      "name": "Bharat Petroleum",
+      "address": "Bhadale Vasti, Saswad Road, Uruli Devachi, Pune",
+      "lat": 18.4542288,
+      "lng": 73.9676521,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ99l7SBXpwjsRw7a5uB-MfcU",
+      "name": "MNGL Maharashtra Natural Gas Ltd CNG Station",
+      "address": "sr no 215,chaitanya colony, Ganga Nagar, Phursungi",
+      "lat": 18.4809118,
+      "lng": 73.9547762,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJd6PqI_7BwjsRYDY96dlM9Pg",
+      "name": "Shree Mahalaxmi Gas Service",
+      "address": "Sr No 311, Lane, opposite Ganesh temple, 13, Sasane Nagar Road, Hadapsar, Pune",
+      "lat": 18.49073,
+      "lng": 73.9318511,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjdax0P_BwjsRbiq2kwrZaks",
+      "name": "Gs Caltex",
+      "address": "FWRP+5C2, Kale Padal Road, Swarvihar, Sasane Nagar, Hadapsar, Pune",
+      "lat": 18.4903796,
+      "lng": 73.93602440000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJRTUOCz_rwjsRbRnQRxIKSBY",
+      "name": "Jio-bp pulse",
+      "address": "Survey No 2, 3/4, VIM Private Road, Kapil Nagar, Kondhwa, Pune",
+      "lat": 18.4582129,
+      "lng": 73.8837862,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJA7YDSYrqwjsR7ciiKirMPz0",
+      "name": "Rolex Gas Service",
+      "address": "Shop No. 3, Unity Park Road, Opeal Falak, Kondhwa, Pune",
+      "lat": 18.4674249,
+      "lng": 73.8865482,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJT9h8RP7BwjsR3vzkpU5tZ4c",
+      "name": "NEW HANUMAAN OIL DEPO",
+      "address": "India",
+      "lat": 18.4922645,
+      "lng": 73.9319833,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJgylc1lHpwjsRLvEFguKCIcU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Sr No 221 Dhorewasti, Bhekrai Nagar, Phursungi",
+      "lat": 18.4821405,
+      "lng": 73.9591794,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOThKTWfrwjsRJd57cgQGfvg",
+      "name": "Bharat Petroleum, Petrol Pump -Kedari Service Station",
+      "address": "WANVARI KEDARI NAGAR, Flower Valley Lane, Wanwadi, Pune",
+      "lat": 18.4865453,
+      "lng": 73.89864539999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGfcqUaTrwjsRXODxWQlxyE0",
+      "name": "Nisha engineering",
+      "address": "SAFAYER CLASSIS BUILDING, Shivneri Nagar, LINE NO 05, Pune",
+      "lat": 18.478314,
+      "lng": 73.8893174,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJo8409DPpwjsRo1o9LUO8888",
+      "name": "JAYPRAKASH PETROLEUM",
+      "address": "FXG8+VXM, Fursungi Bhekrai Road, BHEKRAINAGAR, Pune",
+      "lat": 18.4772127,
+      "lng": 73.96742379999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ_8yC2QfCwjsRQJGixu6pzBA",
+      "name": "Jay Shambho Petroleum",
+      "address": "3, Pune Saswad Road, Bhekrai Nagar, Hadapsar, Pune",
+      "lat": 18.4936205,
+      "lng": 73.9474163,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJPWnZ7UTBwjsRqadnmmm6wvA",
+      "name": "Vidya Petroleum",
+      "address": "Sr No 13, Satavwadi, Hadapsar, Pune",
+      "lat": 18.4944159,
+      "lng": 73.9467446,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJHypAr-XBwjsRqCSUnF_9ycw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Final Plot No 7, Sub PN S1, Sy No 107/1, TPS 2, Hadapsar Industrial Estate, Pune",
+      "lat": 18.4989872,
+      "lng": 73.92064620000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo7NlyPnBwjsRA2HxeGl50IM",
+      "name": "Paragon Fire Service And Paragon Enterprises",
+      "address": "Shop No 6, Amar Plaza, Gandi Chowk, Pune",
+      "lat": 18.5005238,
+      "lng": 73.9321159,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSfTuR2NywzsR6PU66oLx2KI",
+      "name": "Shri Shirsai Petroleum",
+      "address": "Gat No 85/P, Solapur Pune Hwy, NH 65, Ravangaon, Parwadi, Daund",
+      "lat": 18.5017137,
+      "lng": 73.9313671,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJV9sregPCwjsRprO8SPGN3Pg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 11, 1 & 2, Solapur Road, Hadapsar, Indapur",
+      "lat": 18.5001333,
+      "lng": 73.9411734,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdzyIlya_wjsRKc8Kva9HyNM",
+      "name": "Bharat Petroleum, Petrol Pump -Mauli Petroleum",
+      "address": "BANER, Prathamesh Park Road, Aundh, Pune",
+      "lat": 18.55524489999999,
+      "lng": 73.79999529999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuXH8DiW_wjsRbec4tm1DNhQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No, near Telephone Exchange Road, 137/138, Marutirao Gaikwad Nagar, Aundh, Pune",
+      "lat": 18.557858,
+      "lng": 73.8041953,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg_umenu_wjsRG9658MNtbok",
+      "name": "IndianOil",
+      "address": "Ground Floor, opposite E-Square, Ganeshkhind Road, Pune",
+      "lat": 18.5371878,
+      "lng": 73.83534569999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJk5nzsYC_wjsRUqCcGiTKd4E",
+      "name": "Bharat Petroleum, Petrol Pump -Famous Auto Centre",
+      "address": "Dnyaneshwar paduka chowk dyaneshwar paduka chowk, Fergusson College Road, Shivajinagar, Pune",
+      "lat": 18.5271961,
+      "lng": 73.8425204,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmRj6dTW_wjsR1kpAloBvXOk",
+      "name": "Maharashtra Natural Gas Ltd CNG Station",
+      "address": "6, Spicer College Road, Shitole Nagar Road, Madhuban Colony, Old Sangvi, Pimpri-Chinchwad",
+      "lat": 18.5696388,
+      "lng": 73.8171984,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTaBdXL-9wjsRiH3SniPVzKk",
+      "name": "Shell",
+      "address": "Mulshi Road, Vill Bhukum, T, Mulshi",
+      "lat": 18.500522,
+      "lng": 73.7265,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2U8kS2PAwjsRuzJLveBbDes",
+      "name": "Bharat Petroleum, Petrol Pump -Sholapur Motor Stores",
+      "address": "opp. PMC, Shivajinagar, Pune",
+      "lat": 18.5252567,
+      "lng": 73.85362959999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcci3hcm4wjsRzBjB4sb178I",
+      "name": "Bharat Petroleum Petrol and CNG Pump , SHITOLE PETROLEUMS",
+      "address": "NEW SANGHVI,SR.NO.82/1A/1/3/1 PCMC, Tal Haveli, Pune",
+      "lat": 18.5787802,
+      "lng": 73.8150962,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNfatT0W-wjsR6V4jclllEFI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Plot No 68 & 69, Survey No 14 & 16, Sus Pashan Road, Shinde Ngr, Kothrud, Bavdhan, Pune",
+      "lat": 18.5112897,
+      "lng": 73.7823665,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJz5HHZXW_wjsRHDssrYpUZ88",
+      "name": "Maharashtra Natural Gas Ltd CNG Station",
+      "address": "Pranjali Patil Nagar, Bavdhan, Pune",
+      "lat": 18.5113198,
+      "lng": 73.7709271,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8Yi2ib6_wjsRiIDz6JLc8XY",
+      "name": "SAI SAYAJI CNG PUMP MNGL",
+      "address": "near C N G Pump, Shastri Nagar, Kothrud, Pune",
+      "lat": 18.5072193,
+      "lng": 73.80258669999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJi_w-z7a_wjsRAI-RgAK1ot0",
+      "name": "MNGL CNG pump Kothrud",
+      "address": "India",
+      "lat": 18.50722319999999,
+      "lng": 73.8026505,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ36EfNbe_wjsRdaYhtoatZ8s",
+      "name": "LOVATO AUTOGAS",
+      "address": "India",
+      "lat": 18.5079283,
+      "lng": 73.80499499999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ84_eDAC_wjsRbK8HUIC3aow",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 130, Baner - Pashan Link Road, Pashan Gaon, Pune",
+      "lat": 18.5428505,
+      "lng": 73.7902924,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDe_magC_wjsRVZuMdkgO09c",
+      "name": "Proposed Petrol Pump",
+      "address": "HQ2C+VX8, Baner Street, Baner Annex, Baner, Pune",
+      "lat": 18.5521516,
+      "lng": 73.772442,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJe0DvI9O_wjsR9IC9S90_j60",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Sr No 268/1 & 265/1/1, Paud Road, Mulshi Road, Bhugaon, Sanas Nagar",
+      "lat": 18.5005801,
+      "lng": 73.7548056,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmUhmUrS_wjsR7ru8Zz8D1uI",
+      "name": "Mauli entarprases",
+      "address": "01 dp road, Baner - Pashan Link Road, Pune",
+      "lat": 18.5556734,
+      "lng": 73.80230809999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJHRzEPE6_wjsRTDcWyPo-IOM",
+      "name": "Ak Enterprise",
+      "address": "Shop Number 1, Green Park, Baner, Pune",
+      "lat": 18.5564527,
+      "lng": 73.80032489999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ2Qa3332_wjsRZ4ROCllL264",
+      "name": "Shell Petrol Pump - Sus",
+      "address": "Sus Lane, Pune",
+      "lat": 18.551943,
+      "lng": 73.76083,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJiZV6abG_wjsR0Yjay4PHM58",
+      "name": "Shell select",
+      "address": "Senapati Bapat Road, Pune",
+      "lat": 18.5268,
+      "lng": 73.829697,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7RGoAdi_wjsR5k-G3GQOT8k",
+      "name": "Jio-bp",
+      "address": "Ground Floor, Pradeep Chambers, Law College Road, Deccan Gymkhana, Pune",
+      "lat": 18.5191457,
+      "lng": 73.8305826,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJW5-jeHe_wjsR78e_7J5B7ao",
+      "name": "YASHRAJ SERVICE STATION",
+      "address": "GRJH+5V4, Namdev Bhirat Saduji Path, Shivaji Co operative Housing Society, Bhageerath, Gokhalenagar, Pune",
+      "lat": 18.5303962,
+      "lng": 73.8297015,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJGUbx4qS-wjsRPbDQA6ZtUhk",
+      "name": "Torrent SAS",
+      "address": "HQ35+35G, Sus Lane, Sus, Pune",
+      "lat": 18.5526851,
+      "lng": 73.75795680000002,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ7bdqipO9wjsRzWsqyNQ6hwo",
+      "name": "Vanaz auto LPG pump",
+      "address": "GP2W+MJW, Mulshi Road, Bhugaon, Bavdhan, Pune",
+      "lat": 18.501748,
+      "lng": 73.746578,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJLZLL93y_wjsRijacLaOxwFM",
+      "name": "BP Police Welfare Pump Baner Road",
+      "address": "GRVF+FQQ, Chavan Nagar, Pashan, Pune",
+      "lat": 18.5437127,
+      "lng": 73.8244876,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWwA7Saq_wjsRE2Qu5mDv--E",
+      "name": "BP Police Welfare Pump Pashan Road",
+      "address": "GRVF+GRR, Doctor Homi Bhabha Road, Chavan Nagar, Pashan, Pune",
+      "lat": 18.5438666,
+      "lng": 73.8245175,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_bNoIKW-wjsRjHm99nP8ClM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Shop No, near Chandere CNG Pump, 84 Mulshi, Pashan - Sus Road, Pune",
+      "lat": 18.5523069,
+      "lng": 73.75592259999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJA2p26o2_wjsRF2C9PgnL9Aw",
+      "name": "Select Automobiles",
+      "address": "GR5J+MJ9, Nal Stop, Erandwane, Pune",
+      "lat": 18.5091725,
+      "lng": 73.8316069,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJRVSq1Ka-wjsRAAAAsGhHpDU",
+      "name": "ZARNAA OIL",
+      "address": "GQX2+QC8, Vidya Villa Road, Gaon, Sus, Pune",
+      "lat": 18.5494032,
+      "lng": 73.7510848,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJd52aTlzAwjsR1G-hql2-yUE",
+      "name": "New Auto Corner",
+      "address": "Station Road, Plot No 36, Mangalwar Peth Road, Somwar Peth, Pune",
+      "lat": 18.5226274,
+      "lng": 73.86663879999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJu6hQj_jAwjsRsRK_IcR0CAU",
+      "name": "Mohanish Auto Centre",
+      "address": "328/B, Bund Garden Road, Wadia college, Sangamvadi, Pune",
+      "lat": 18.5346431,
+      "lng": 73.87928,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL0WpVF7AwjsR5QsRYg5nD9Y",
+      "name": "RAILWAY CONSUMER DEPOT PUNE",
+      "address": "Behindi sangham park, officers colony, Agarkar Nagar, Pune",
+      "lat": 18.5279216,
+      "lng": 73.86802170000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJtdlkE1nAwjsR8Vg7N4HWPAQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "next to National Hotel, 14, Sasoon Road, Pune",
+      "lat": 18.5278839,
+      "lng": 73.8745689,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY_0cNPzAwjsRxpL_rCk3lJQ",
+      "name": "Bharat Petroleum, Petrol Pump -Roshani Services",
+      "address": "HOTEL BLUE D, Koregaon Road, Vasani Nagar, Koregaon Park, Pune",
+      "lat": 18.5392265,
+      "lng": 73.8856668,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2aQRSvzAwjsRXjC4WaFpjUA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, North Main Road, Koregaon Park, Pune",
+      "lat": 18.5395644,
+      "lng": 73.8856763,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_RKtqqTBwjsRMEXY4TjNghM",
+      "name": "Bharat Petroleum, Petrol Pump -Kawade Petroleum",
+      "address": "Bhagwan Tatyasaheb Kawade Road, Ghorpadi, Pune",
+      "lat": 18.5226935,
+      "lng": 73.90659529999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPxDN7oLBwjsRIDRip15ColA",
+      "name": "IndianOil",
+      "address": "Hissa No 3/1/1/1A/1/1A/1A/1/1A SN 60/2/1, Haveli, Mundhwa, Pune",
+      "lat": 18.534094,
+      "lng": 73.926132,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfV5nSkXAwjsR4MBHTr6zqoI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 3/C, Doctor Baba Saheb Ambedkar Road, Camp, Pune",
+      "lat": 18.5196097,
+      "lng": 73.8760569,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJi4IarIXAwjsRMJOEWUNezxE",
+      "name": "Bharat Petrol Pump, Wakdewadi",
+      "address": "Old Mumbai - Pune Highway, Wakadewadi, Pune",
+      "lat": 18.5373853,
+      "lng": 73.85077009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKw1sUoHAwjsRPuaCCH9FwAo",
+      "name": "Maharashtra Natural Gas Ltd CNG Station",
+      "address": "1 P.M.P.M.L. Bus Depot Commercial Bldg 27, A-Block, Narveer Tanaji Wadi, Shivajinagar, Pune",
+      "lat": 18.53426,
+      "lng": 73.8479033,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlUjopm_AwjsRqXkqDq0cHYI",
+      "name": "Haripriya Industrial and Trading Co.",
+      "address": "Tiranga Bhavan, Chhatrapati Shivaji Maharaj Road, Budhwar Peth, Pune",
+      "lat": 18.5163938,
+      "lng": 73.85637,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_bpu7cPBwjsRrTqj6W1p5fg",
+      "name": "Golden Daily Needs",
+      "address": "430, nr. Ladkat petrol Pump, 2, New Mangalwar Peth Road, Somwar Peth, Pune",
+      "lat": 18.5222634,
+      "lng": 73.8626807,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJGzmMemfAwjsRnlHbBFWKyMQ",
+      "name": "Raj Stove Compressor Repairing",
+      "address": "Plot No. 57, Sadanand Nagar, Mangalwar Peth, Kasba Peth, Pune",
+      "lat": 18.5224729,
+      "lng": 73.8647683,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmbUneyTBwjsRxa1E0h1ZAwg",
+      "name": "Bharat Petroleum, Petrol Pump -Shree Sadguru Service Station",
+      "address": "JANGLI MAHARAJ ROAD PUNE, Pune",
+      "lat": 18.5265785,
+      "lng": 73.8508453,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCY5E7eK1wjsRrX1cSsnEK-c",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Post Office, Shivajinagar, Pune",
+      "lat": 18.5279573,
+      "lng": 73.8504593,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJh2VVRQDBwjsRSY9djFfYxI4",
+      "name": "E Tender Filling service",
+      "address": "near PMC Corporation, Office No. 1 Bahirat Patil Complex, Shivaji Nagar, Gaothan Pune 5, near PMC Corporation, Pune",
+      "lat": 18.529335,
+      "lng": 73.852848,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ9zEVcQDBwjsR_yKmCOlKF8w",
+      "name": "Ladkat Petrol Pump",
+      "address": "439/36, Lane Number 1A, Manik Nagar, Somwar Peth, Pune",
+      "lat": 18.5225394,
+      "lng": 73.8665973,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJN0xLml3AwjsRZ1Hjy6c1BFQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, Mangalwar Peth, Kasba Peth, Pune",
+      "lat": 18.522636,
+      "lng": 73.866669,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzzRXIF7AwjsRl_ZnQ3PY9tA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "206, Wellesley Road, Mangalwar Peth, Pune",
+      "lat": 18.526865,
+      "lng": 73.86467619999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJT6YuFR7BwjsRLfW-NpaGn4o",
+      "name": "petrol pump",
+      "address": "p. No. 308, Of Air India, near Rto F, मुंबई राश्ट्रीय मार्ग, पुणे",
+      "lat": 18.529529,
+      "lng": 73.862219,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJf9K_NmDAwjsRlo7s3nSr9K4",
+      "name": "B P Coco And CNG Gas",
+      "address": "RTO, Shivajinagar, Pune",
+      "lat": 18.5292581,
+      "lng": 73.86285509999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcf5QkazBwjsR4Ko70LQoG0Y",
+      "name": "IndianOil",
+      "address": "near PUNE RAILWAY STATION, Wellesley Road, Mangalwar Peth, Agarkar Nagar, Pune",
+      "lat": 18.526768,
+      "lng": 73.86582899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-ahc0VzBwjsRdvzT5NELIUk",
+      "name": "Bharat Petroleum, Petrol Pump -Adarsh Automobiles",
+      "address": "Pune Nagar Road, Wadgaon Sheri, Pune",
+      "lat": 18.5621693,
+      "lng": 73.9246908,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBXRU-lzBwjsRRWSq_dp0RW4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 46, 6, Pune Nagar Road, Wadgaon Sheri, Pune",
+      "lat": 18.5624571,
+      "lng": 73.926799,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJj1ZF8_3CwjsReyzNDioyXUM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Haveli, Manjari Khurd",
+      "lat": 18.5384501,
+      "lng": 73.99020399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcx3N_n_BwjsRnS7FYjWICCk",
+      "name": "Bharat Petroleum, Petrol Pump -Magar Petroleum",
+      "address": "Kopargaon - Shirdi - Ahilyanagar - Pune Highway, Magarpatta, Hadapsar, Pune",
+      "lat": 18.5153703,
+      "lng": 73.9329605,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6RnXep_BwjsRO2t_cA2wUvQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 71, 17B & C Haveli, Mundhwa, Pune",
+      "lat": 18.523875,
+      "lng": 73.9178173,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJN2cDOIXBwjsReYPWsxbdsHM",
+      "name": "bhole gas agency",
+      "address": "GWJ9+CM2, Pingale Wasti, Koregaon Park Annexe, Mundhwa, Pune",
+      "lat": 18.5310095,
+      "lng": 73.9191451,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJjYRHKofBwjsRhZkoetas7aU",
+      "name": "Shell",
+      "address": "Mundhwa Road, Pune",
+      "lat": 18.531872,
+      "lng": 73.93289,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl-0lo53BwjsRPOQ75BD9w8c",
+      "name": "Bharat Petroleum, Petrol Pump -Yash Petroleum",
+      "address": "Mundhwa Road, Mundhwa, Pune",
+      "lat": 18.533598,
+      "lng": 73.92057870000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKz_x7HLBwjsRiR_ul0K6h24",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 111, B/3A, Vaiduwadi, Hadapsar, Pune",
+      "lat": 18.504379,
+      "lng": 73.91958799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg1gDyK7BwjsRyJilo0hU18A",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Pune - Solapur Road, Vaiduwadi, Hadapsar, Pune",
+      "lat": 18.5042998,
+      "lng": 73.9196089,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXWFvgyTBwjsROXFVbCAnmwg",
+      "name": "Shankar Patil",
+      "address": "Vaiduwadi, Vaidhu Wadi, Hadapsar, Pune",
+      "lat": 18.5043063,
+      "lng": 73.9195779,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJh3zYbrvBwjsRHefivvlPMWg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 84/4/A, near Poonawalla Fincorp, Survey, North Main Road, Mundhwa, Pune",
+      "lat": 18.533782,
+      "lng": 73.914926,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJF2A7drPBwjsRINO2gUEy0O8",
+      "name": "Rupesh",
+      "address": "Silver Towers, Vaiduwadi, JJC Colony, Ramtekadi, Hadapsar, Pune",
+      "lat": 18.5028427,
+      "lng": 73.91911139999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJn5EJbKjBwjsRRcdijwNRDFA",
+      "name": "Salvi Petro Station (BHARAT PETROLEUM)",
+      "address": "near Mundhwa, Magarpatta Road, Kharadi, Pune",
+      "lat": 18.5382735,
+      "lng": 73.934505,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJk7PTRyzBwjsRTmpNFor1rYA",
+      "name": "TRY BUY KIOSK",
+      "address": "1st Floor, above Kishor Medicals, opp. Bharat Petrol Pump, Bhagwan Tatyasaheb Kawade Road, Ghorpadi, Pune",
+      "lat": 18.5229756,
+      "lng": 73.9062143,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-4CGZQDBwjsR__6_hxuzys8",
+      "name": "Maharashtra natural gas Ltd pump",
+      "address": "GWF4+3F7, Nigade Nagar, Ghorpadi, Pune",
+      "lat": 18.5226745,
+      "lng": 73.9061729,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJPYfd3H7BwjsRqlXA3nggHms",
+      "name": "Jay Bhawani Home Appliances And Gas Services",
+      "address": "Shop No. 1, Kharadi, Pune",
+      "lat": 18.5399027,
+      "lng": 73.9313517,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWyomrArBwjsRJNzWEaHrW9E",
+      "name": "Roshni Services",
+      "address": "80, North Main Road, Koregaon Park, Pune",
+      "lat": 18.5351598,
+      "lng": 73.91211229999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJU6OFJzDCwjsRzjPNzr1NkvE",
+      "name": "Adira Gas Service",
+      "address": "Shop No, 1, Mundhwa Road, Mundhwa, Pune",
+      "lat": 18.528255,
+      "lng": 73.94776999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVVVVpRfCwjsRqcbsGxgTqbw",
+      "name": "Anna Gas Repairing And Sales Services",
+      "address": "Mauli Sadan, near Gram Panchayat, Sade Satra Nali, Hadapsar, Pune",
+      "lat": 18.51273849999999,
+      "lng": 73.9499426,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdVhIgATCwjsRVyij71142Kk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Haveli, Pune - Solapur Road, Hadapsar, Pune",
+      "lat": 18.5001777,
+      "lng": 73.94195189999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqSW2LgDBwjsRMt5hBqNa31k",
+      "name": "London bridge",
+      "address": "GWG2+HC4, Bridge Walk Way, Shravasti Nagar, Ghorpadi, Pune",
+      "lat": 18.5263885,
+      "lng": 73.9010658,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ0xN1g33BwjsRdzJZzFmoWmQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Haveli, Survey No 23/1, Magarpatta Road, Mundhwa - Kharadi Road, Kharadi, Pune",
+      "lat": 18.5450588,
+      "lng": 73.9354238,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZwTnGNHDwjsRO99o__HvPbQ",
+      "name": "Lonkar Petroleum &CNG.",
+      "address": "Mundhwa - Manjari Road, Lonkar Nagar, Pune",
+      "lat": 18.5266985,
+      "lng": 73.9544829,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJG1etwa_DwjsRpp4b-iw5x30",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Sr No 132, 2/2B/2, Mundhwa - Manjari Road, Manjari Budruk, Pune",
+      "lat": 18.5254913,
+      "lng": 73.9562314,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB6M2qyLBwjsRi0N4F27inVY",
+      "name": "Infrastructure developers Contractor",
+      "address": "Shivarkar road Parmar plaza 2 nd floor, Fatima Nagar, Wanwadi",
+      "lat": 18.5017657,
+      "lng": 73.9005023,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ34bSIwDDwjsRGbQo3RUvseA",
+      "name": "Manjari Road",
+      "address": "GX23+P5F, Manjari Road, Subhash Nagar, Chaitanya Colony, Hadapsar, Pune",
+      "lat": 18.5018143,
+      "lng": 73.9529154,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJgSLL0cvDwjsRdmFW76tDx3o",
+      "name": "Shell Petrol Pump",
+      "address": "Manjri-Hadapsar Road, Pune",
+      "lat": 18.5015,
+      "lng": 73.95267,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFdsIEgq5wjsRmlKfNQ1ZGEs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Priyanka Appartment, opposite Hotel Chanakya, Pimpri-Chinchwad Link Road, Gawade Nagar, Pune",
+      "lat": 18.6302626,
+      "lng": 73.7927471,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJT82KJeS4wjsRgoV7rlq1WQI",
+      "name": "IndianOil",
+      "address": "S No 4/3A/2 Netaji Chowk, Pimple Saudagar, Pimpri Colony, Aundh",
+      "lat": 18.6005074,
+      "lng": 73.8029341,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCZwQPGC5wjsRdAOjWnamnTE",
+      "name": "IndianOil",
+      "address": "22/3 to 22/5, Hinjawadi Phase 1 Road, Hinjawadi Rajiv Gandhi Infotech Park, Pune",
+      "lat": 18.5912836,
+      "lng": 73.7488469,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWyiQmne5wjsRVWbRSnQCBb0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near Dange Chowk Road, S No 49/2B/2, Mulshi, Tathawade, Pune",
+      "lat": 18.6112486,
+      "lng": 73.76044790000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ69hNQ_O4wjsRwU1bdqOvv6o",
+      "name": "Shell",
+      "address": "Old Bombay, Service Road, Road, PCMC, Kasarwadi, Pune",
+      "lat": 18.612058,
+      "lng": 73.81721999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqZH6NfO4wjsR-rrI3bOGH4Q",
+      "name": "IndianOil",
+      "address": "Ground Floor, Old Mumbai - Pune Highway, Kasarwadi, Pune",
+      "lat": 18.6106945,
+      "lng": 73.8186675,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJw7V1ZO4wjsR3depVAS_SW8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Old Mumbai - Pune Highway, Kasarwadi, Pune",
+      "lat": 18.6043816,
+      "lng": 73.8240654,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTQYfuUq4wjsRtHFmXnWK6qY",
+      "name": "Bharat Petroleum, Petrol Pump -Jaihind Highway Service Station",
+      "address": "Chinchwad Station Road, Chinchwad, Pune",
+      "lat": 18.6385722,
+      "lng": 73.7957916,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmbWq3N27wjsRqF3w_lEKesw",
+      "name": "Shell",
+      "address": "T Mulshi, Bengaluru - Mumbai Highway, Vill, Tathawade, Pimpri-Chinchwad",
+      "lat": 18.6134892,
+      "lng": 73.7485824,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUXvwxtu7wjsR9rOIEL4UeHw",
+      "name": "Bharat Petroleum Petrol Pump , K.B. PETROLEUM",
+      "address": "HPWR+J7F, Hinjawadi Phase 2 Road, Phase 1, Hinjawadi Rajiv Gandhi Infotech Park, Hinjawadi, Pune",
+      "lat": 18.5965624,
+      "lng": 73.7406582,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhfRAVsO7wjsRZFzI58eEg8k",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Shop No 152, opposite KPIT Cummins, 3/1A & 152/3/2, Hinjawadi Marunji Road, Mulshi, Hinjawadi, Pune",
+      "lat": 18.594002,
+      "lng": 73.73554519999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx3FOT37HwjsRz7Dh9UEt5L4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Plot No J P9, Industrial Area Haveli, Pimpri Colony, Pune",
+      "lat": 18.6339734,
+      "lng": 73.8294236,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjzfXNmu4wjsRfTufpJlnnvs",
+      "name": "IndianOil",
+      "address": "Plot No 61, Block 2F, MIDC Sector 2 Industrial Area, Bhosari, Pimpri-Chinchwad",
+      "lat": 18.641697,
+      "lng": 73.822372,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm8OOdzq4wjsR-g84rkHV_Ts",
+      "name": "Shell",
+      "address": "Chinchwad-Bhosari Road, Pimpri Colony, Pimpri-Chinchwad",
+      "lat": 18.6485835,
+      "lng": 73.80672659999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhZA9qjq4wjsRLyX-xrrQC0Q",
+      "name": "Nayara Petrol Pump Kamdhenu Petroleum",
+      "address": "Nigdi Bhosari Road, Chinchwad, Pimpri-Chinchwad",
+      "lat": 18.6517526,
+      "lng": 73.80659729999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvb4BOdq5wjsRybsOS467lIo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Old Mumbai - Pune Highway, Vivek Nagar, Akurdi, Pune",
+      "lat": 18.6547897,
+      "lng": 73.78091599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCVZwmRm6wjsRhC4GTVCQZR0",
+      "name": "BP Petrol CNG Pump",
+      "address": "Mumbai- Pune Bypass Road, Punawale, Pimpri - Chinchwad, Pune",
+      "lat": 18.639327,
+      "lng": 73.73852769999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcdeuhyu4wjsRt1jGqeDGqGo",
+      "name": "IndianOil",
+      "address": "BLOCK-D, Plot No 112, Old, जुना मुंबई पुणे महामार्ग, MIDC, चिंचवड, पिंपरी चिंचवड",
+      "lat": 18.6575496,
+      "lng": 73.7984841,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJafsA2am5wjsRj4j2eo-Q6bk",
+      "name": "KOTESHWAR PETROLEUM (BHARAT PETROLEUM)",
+      "address": "JQ8R+X5F, Main Road, Kalewadi, Pimpri-Chinchwad",
+      "lat": 18.6162078,
+      "lng": 73.786816,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJxKNiOm4wjsRqyVMs5SaUbU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 79, Appasaheb Jagtap Colony, near Kasarwadi, Bridge Road, Sudarshan Nagar, Pimple Gurav, Pune",
+      "lat": 18.5971101,
+      "lng": 73.8122487,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzWt0ZRS5wjsRzsG3dwp5eB8",
+      "name": "Shell fuel pump",
+      "address": "Akshaynagar Phase II, New DP Road, Vishal Nagar, Pimple Nilakh, Pimpri-Chinchwad",
+      "lat": 18.585773,
+      "lng": 73.781582,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDccnRRe5wjsR1_O2AGM6OPg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 17/1 Aundh, Road, Rathane, Kalewadi, Pimpri-Chinchwad",
+      "lat": 18.5973207,
+      "lng": 73.7823483,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRUQuYgC5wjsR-JZBVsokKyo",
+      "name": "Ambika bhavan",
+      "address": "MIRCHANDANI PALMS, Aakashganga Road, Rambagh Colony, Rahatani, Pimpri-Chinchwad",
+      "lat": 18.6002393,
+      "lng": 73.7869468,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJOxiAOYC5wjsREFUn8X0wT4s",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Wakad Road, Wakad, Pune",
+      "lat": 18.5892959,
+      "lng": 73.77484489999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsRGNnRq5wjsRGUdTaW17wgM",
+      "name": "Bharat Petroleum",
+      "address": "DP Rd, NILAKH",
+      "lat": 18.57766119999999,
+      "lng": 73.7874949,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjX3ueHW5wjsRk9WLGedm1Qg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 42, opposite Kinara Colony, Nakhate Vasti, Rahatani, Pimpri-Chinchwad",
+      "lat": 18.604469,
+      "lng": 73.78866339999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsdmfqN24wjsRmGlAgMC_oOY",
+      "name": "Bharat Petroleum, Petrol Pump -Om Sai Ram Fuel Center",
+      "address": "Kate Vasti Road, Daffodils Housing Society, Kunj Colony, Pimple Saudagar, Pimpri-Chinchwad",
+      "lat": 18.5922464,
+      "lng": 73.8035068,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL43RuLm5wjsRQqQY5yAErB8",
+      "name": "MY DELIVERY : My Diesel @ My Doorstep (Doorstep Diesel Delivery )",
+      "address": "survey no 50. baliraj colony, Bharat Ratna Dr. Babasaheb Ambedkar Marg, Rahatani, Pune",
+      "lat": 18.6065269,
+      "lng": 73.7910403,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJU7L_GAO5wjsRCJmLvZO45s0",
+      "name": "Nayara Petrol Pump Maa Santoshi Petroeum",
+      "address": "Survey 50, DP Road, Pawana Nagar, Rahatani, Pimpri-Chinchwad",
+      "lat": 18.6065764,
+      "lng": 73.7909585,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkYNglDq5wjsRYxByqm_MN0c",
+      "name": "Ac Fridge Washing Machine Service",
+      "address": "JQ4J+JJ9, Moraya Colony, Pimpri-Chinchwad",
+      "lat": 18.6065308,
+      "lng": 73.7816091,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ05-ASCO5wjsR_-CVrcoU1R0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "SN 64/2/2 & 1, Kalewadi Main Road, Adinath Colony, Shrinagar, Pune",
+      "lat": 18.6092524,
+      "lng": 73.7821696,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzT39SwG5wjsR_npjmAUbwQU",
+      "name": "Tejas Pumps & Motors Services.",
+      "address": "Shop No 145, opp. Yash Sankul, near Kate petrol pump, Pimple Saudagar, Pune",
+      "lat": 18.6011646,
+      "lng": 73.80550710000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDbQvHwC5wjsRIOi_XffOVp0",
+      "name": "Mngl Maharashtra Natural Gas CNG Pump Station",
+      "address": "HQFC+MP7, Balewadi, Pune",
+      "lat": 18.5741618,
+      "lng": 73.77180729999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJqe5EPZi5wjsRnwdx6swb3VA",
+      "name": "Nayara Petrol Pump Pride Petroleum Point",
+      "address": "Sr. No. 73, Hissa No. 2D and 2F/1, Tapkir Mala chowk, Kalewadi - Rahatani Road, Pune",
+      "lat": 18.6114872,
+      "lng": 73.79375569999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ69jkJv25wjsRIc71uOTA3Ps",
+      "name": "IndianOil",
+      "address": "Gat No 2, 14 2/15 And 7/1, Haveli, Sai Shraddha Colony, Rahatani, Pimpri-Chinchwad",
+      "lat": 18.6115736,
+      "lng": 73.7991237,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJseCzIAC_wjsREwl36CEZVCI",
+      "name": "CNG Gas Pump MNGL",
+      "address": "Pimple Nilakh, Pimpri-Chinchwad",
+      "lat": 18.5667709,
+      "lng": 73.79250329999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYbltSu25wjsRuHx8bREQB1w",
+      "name": "IndianOil",
+      "address": "S No 1/1, New Mumbai Bang, Western Express Highway, Wakad, Pune",
+      "lat": 18.592459,
+      "lng": 73.760933,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJyS06iOm4wjsRhviF8mne1M8",
+      "name": "H P",
+      "address": "HRW6+RWQ, Pimple Saudagar Road, Parshawa Nagari, Pimple Gurav, Pimpri-Chinchwad",
+      "lat": 18.5970926,
+      "lng": 73.81235819999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJn2SO-Km5wjsRUG6xoexe_ck",
+      "name": "Maharashtra Natural Gas Ltd CNG Station",
+      "address": "HP Pump, Pimple Saudagar Road, Parshawa Nagari, Pimple Gurav, Pimpri-Chinchwad",
+      "lat": 18.5971151,
+      "lng": 73.8123729,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJSblPMQC5wjsRcyQfCQdbfBs",
+      "name": "Pimple Saudagar",
+      "address": "HRW6+RWQ, Pimple Saudagar Road, Parshawa Nagari, Pimple Gurav, Pimpri-Chinchwad",
+      "lat": 18.5971583,
+      "lng": 73.81244,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJHTskvHW5wjsRKPN9QMLQI64",
+      "name": "Shell - Thergaon",
+      "address": "38, Aundh - Ravet BRTS Road, PCMC, Pune",
+      "lat": 18.611373,
+      "lng": 73.768151,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-_Dp3ZR7eDkRzomI5Dt9PEA",
+      "name": "Jagbhan",
+      "address": "Garkhuwan, Ggfsdgv",
+      "lat": 18.564238,
+      "lng": 73.77694,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ6TWqOgC5wjsRJHMv-DkxUgM",
+      "name": "श्री ट्रॅक्टर सेल्स",
+      "address": "HRJ7+XW2, Gurudatta Colony Road, Vinayak Nagar, New Sangavi, Pimpri-Chinchwad",
+      "lat": 18.5823926,
+      "lng": 73.81476839999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJOX8mOde5wjsRVX0WO-N58HQ",
+      "name": "Detachment Station",
+      "address": "New Sangavi, Pune",
+      "lat": 18.57931779999999,
+      "lng": 73.8142604,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJeZj5RR25wjsRb2607KftmaE",
+      "name": "Shell petroleum",
+      "address": "HRQ8+XMJ, Shirode Road, Rajiv Gandhi Nagar, Pimple Gurav, Pimpri-Chinchwad",
+      "lat": 18.59073,
+      "lng": 73.81681999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ47t6uZW5wjsRldM64L69oWE",
+      "name": "Shree Murari Petroleum",
+      "address": "1, Shankar Kalat Nagar, Wakad, Pune",
+      "lat": 18.606007,
+      "lng": 73.7595711,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCxNfdne5wjsRR5OrOhP-X8Q",
+      "name": "K.V.R Diesel",
+      "address": "JQ66+663, Dange Chowk, near Prathiba Petrol Pump, Panchshil Colony, Thergaon, Pimpri-Chinchwad",
+      "lat": 18.610523,
+      "lng": 73.760549,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJO95HsmS5wjsRzWSXYoXl7YQ",
+      "name": "Balwadkar Auto Service",
+      "address": "JQ23+GR3, Western High Street, Shankar Kalat Nagar, Wakad, Pimpri-Chinchwad",
+      "lat": 18.6012636,
+      "lng": 73.754542,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJiVnYDku5wjsRaU_pUG3Ytfg",
+      "name": "Prathmesh Bramhne",
+      "address": "Shop No 1, near Wakad, Wakad, Pune",
+      "lat": 18.6012778,
+      "lng": 73.75441789999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJBQOgcxq5wjsRQ6VCMyxGyfc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 132, near Wakad Police Station, NH 4, Bengaluru - Mumbai Highway, Wakad, Pune",
+      "lat": 18.6012112,
+      "lng": 73.75430159999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrZ-akHm5wjsRtdyRsz-CA6s",
+      "name": "ECO GREEN CNG",
+      "address": "India",
+      "lat": 18.6084899,
+      "lng": 73.75739229999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJwdMW4Za5wjsRyFRN4MOB53s",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 25, near Pudumjee Paper Mill, 20, Mulshi, Wide DP Road, Thergaon, Pune",
+      "lat": 18.6201382,
+      "lng": 73.7701391,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq-CKlv_rwjsREC2IBihshRY",
+      "name": "IndianOil",
+      "address": "1/2, Plot, Spicer Adventist University, near Spicer College Road, S No 13/1, Shitole Nagar, Old Sangvi, Pune",
+      "lat": 18.571235,
+      "lng": 73.8182781,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6ecanjW_wjsRbUW7hdMxRoo",
+      "name": "IndianOil",
+      "address": "S No 13/1, 1/2, near Spicer College Road, Plot No 3, Shitole Nagar, Old Sangvi, Pune",
+      "lat": 18.5697,
+      "lng": 73.8171852,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ87GaKcm5wjsR7b4n1XqTCZs",
+      "name": "IndianOil",
+      "address": "Rajiv Gandhi Infotech, 22/3 22/4 & 22/5P, Hinjawadi Phase 1 Road, Pune",
+      "lat": 18.591742,
+      "lng": 73.74891889999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJU0jur7jGwjsRtD2caTQBDjg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Sr No 281, near Airport, Dhanori-Lohegaon Road, Sathe Nagar, Lohegaon, Pune",
+      "lat": 18.5976806,
+      "lng": 73.913011,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4wmiO9TAwjsRj0-rYP9Cczc",
+      "name": "IndianOil",
+      "address": "S No 352, Dhanori Alandi, Airport Road, Wadi Naka, Tingre Nagar, Pune",
+      "lat": 18.5735,
+      "lng": 73.8851146,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS0y3ZMXHwjsRiPDbbTm0KEk",
+      "name": "Shankar Maharaj petroleum",
+      "address": "Gavde farm, Pune",
+      "lat": 18.5861071,
+      "lng": 73.8564765,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxwB3iTHHwjsRxNwH9Uq3pCg",
+      "name": "Rapid Fire And Safety Engineers Pvt. Ltd.",
+      "address": "Shop No, 3, Alandi Road, Vishrantwadi, Pune",
+      "lat": 18.5835068,
+      "lng": 73.8752963,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqRwRTM3AwjsRkvVmS2eysA8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "S No 116/3 Haveli, Kalas, Pune",
+      "lat": 18.5773514,
+      "lng": 73.8763334,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKyHih6-4wjsRtMACX9tmbEo",
+      "name": "Maharashtra Natural Gas Limited CNG",
+      "address": "HRPM+263, Dapodi Bridge, Phugewadi, Dapodi, Pimpri-Chinchwad",
+      "lat": 18.5850086,
+      "lng": 73.8330416,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_0FzBgC5wjsRdsSbH9aFOs0",
+      "name": "EV Charging Station",
+      "address": "HRMM+7C5, Dapodi, Pimpri-Chinchwad",
+      "lat": 18.5831367,
+      "lng": 73.833595,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ32V5hvq5wjsRn4HFlmk1A2Q",
+      "name": "Bharat Petroleum, Petrol Pump -Express Petro Services Dapodi",
+      "address": "DAPODI ON OLD MUMBAI RD, Pune",
+      "lat": 18.5830357,
+      "lng": 73.8336264,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJiWsnf6-4wjsR2w46wJxCTBo",
+      "name": "Progrowth Enterprises",
+      "address": "HRPM+259, Dapodi, Pimpri-Chinchwad",
+      "lat": 18.5850321,
+      "lng": 73.8329943,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ17edCK-4wjsRDp6anJcOkTI",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 18.5830722,
+      "lng": 73.83354299999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJld6Hec3AwjsRp2jAOJOcgD4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Alandi Road, Vishrantwadi, Pune",
+      "lat": 18.5751102,
+      "lng": 73.87650099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKw6YEq_AwjsRzqI6YKMqTaI",
+      "name": "N M Mankar",
+      "address": "elephistone Road Bazar 411003, Khadki, Pune",
+      "lat": 18.5653493,
+      "lng": 73.84995049999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ12PsQFO_wjsRM7xTGpjd-vI",
+      "name": "IndianOil",
+      "address": "S No 1/A, Bopodi, Pune",
+      "lat": 18.572926,
+      "lng": 73.834816,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVVU5QVO_wjsR407o55ljLSQ",
+      "name": "Chhajed Petrol Pump",
+      "address": "near Chajed Petrol Pump, 1a, Bhau Patil Road, Bopodi, Pune",
+      "lat": 18.5728662,
+      "lng": 73.8348075,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJpQhkzbG4wjsRTgWCryPcKiE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Sy No 6, Sy No 1814, Dapodi, Pune",
+      "lat": 18.5820465,
+      "lng": 73.8293502,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIV0vu5e4wjsRd93Zb7sR8dc",
+      "name": "BPCL Saigauri Petroleum Petrol Pump & CNG Pump",
+      "address": "BHOSARI ON OLD PUNE MUMBAI, Pune",
+      "lat": 18.59846139999999,
+      "lng": 73.8280625,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9eNZiDHHwjsRvtJ5Bd1tfyU",
+      "name": "Maharashtra Natural Gas Ltd CNG Station",
+      "address": "JR8V+M6, Pimpri Colony, Pimpri-Chinchwad",
+      "lat": 18.6167074,
+      "lng": 73.8431382,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL9zr7yLHwjsRF0MMDeeku3w",
+      "name": "HP Petrol & CNG Pump Bhosari Pune",
+      "address": "Landewadi, Bhosari, Pimpri-Chinchwad",
+      "lat": 18.6166875,
+      "lng": 73.8426875,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJqbbKPH7HwjsRaRPym1zakGw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Plot No 132, NH 50, Pune - Nashik Highway, Bhosari, Pune",
+      "lat": 18.616737,
+      "lng": 73.8426434,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLW5Ds1LHwjsRqgvREUFlCLQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Haveli, Plot No A/1, Survey No 69/6, Sai Park Rd, near Vithal Mandir, Bhosari Road, Dighi, Pune",
+      "lat": 18.6170264,
+      "lng": 73.87118389999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ83uX6CnHwjsRqJLKeeaLb1o",
+      "name": "Travels point landewadi petrol pump",
+      "address": "Rajmata Jijau Shikshan, ACS College, Prasarak Mandal's, Landewadi, Bhosari, Pimpri-Chinchwad",
+      "lat": 18.6173308,
+      "lng": 73.84201519999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJQ_NYLZG4wjsRsOXBTBcPVk4",
+      "name": "IndianOil",
+      "address": "Kasarwadi, Pimpri-Chinchwad",
+      "lat": 18.602027,
+      "lng": 73.826667,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvz5k2ErHwjsRttO0sCjLkFQ",
+      "name": "Shri Samarth Petroleum",
+      "address": "HVQR+H57, 7, Gokul Nagar, Munjaba Vasti, Dhanori, Pune",
+      "lat": 18.590298,
+      "lng": 73.88920999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ47bOWQC_wjsRS6wJBAy2BD0",
+      "name": "Om Sai Ram Puc Centar",
+      "address": "HR7Q+GR8, Chikhalwadi, Bopodi, Pune",
+      "lat": 18.5637932,
+      "lng": 73.839574,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbbfNDt2_wjsRNR1XRlghLag",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Haveli, S No 22/B Bopodi, near Khadki Railway Station, Khadki, Pune",
+      "lat": 18.5638708,
+      "lng": 73.8393548,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkcNIM-LAwjsRlClViCKaz7M",
+      "name": "Shree Renuka Gas Supply",
+      "address": "Shop No 2, near Bhaji Market, Yerawada, Pune",
+      "lat": 18.5661075,
+      "lng": 73.8779246,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJixAJXwDBwjsRexSdYLtsIDM",
+      "name": "Sawant Petrol Pump",
+      "address": "9, Siddheshwar Nagar, Kumar Samrudhi Society, Vishrantwadi, Pune",
+      "lat": 18.5736813,
+      "lng": 73.8850227,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJWzZ-BGLHwjsRyknLwIcQX5s",
+      "name": "Bharat petroleum",
+      "address": "Muktidham Building, Alandi Road, Shahu Park, Dighi, Pimpri-Chinchwad",
+      "lat": 18.6187565,
+      "lng": 73.8739245,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS3QzxoLHwjsRysfEhQTr3BE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No, 211/1/1, Bhosari Alandi Road, Bhosari, Pune",
+      "lat": 18.6233213,
+      "lng": 73.85286959999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9VMlvQK_wjsRIFzG85rXX7w",
+      "name": "Sbubham Enterprises",
+      "address": "C12, Shantaniketan 33, near Aundh IT Park, Bhau Patil Road, Bopodi, Pune",
+      "lat": 18.56699,
+      "lng": 73.83153949999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJv8t3ApTHwjsRgMhytQQyRw4",
+      "name": "D R Gavhane Petrol Pump CNG pump ( Bharat Petroleum)",
+      "address": "Bhosari Alandi Road, Pune",
+      "lat": 18.6245426,
+      "lng": 73.8602427,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHShrgca5wjsRdIXkVl2nFFY",
+      "name": "Nayara Petrol Pump",
+      "address": "Slum Area, Landewadi, Bhosari, Pimpri-Chinchwad",
+      "lat": 18.621366,
+      "lng": 73.8385011,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2RN4nJzHwjsRHlEQwQInozg",
+      "name": "Om Sai Gas And Electicals",
+      "address": "shop no 3, near by Shivraje Bhojnalay, Sainath Nagar, Bhosari, Pune",
+      "lat": 18.6273488,
+      "lng": 73.85561779999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJh4xfp4THwjsR6FeB_3KFsV0",
+      "name": "IndianOil",
+      "address": "S No 198, Hissa No 1 Bhosari, Nashik - Pune Road, Haveli, Pune",
+      "lat": 18.6274055,
+      "lng": 73.8592963,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQzgsRtu5wjsRVxVQDr9vui4",
+      "name": "MNGL GOODWILL CNG PUMP",
+      "address": "JR9H+RW5, MIDC Road, MIDC, Pimpri Colony, Pimpri-Chinchwad",
+      "lat": 18.6195189,
+      "lng": 73.829853,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUY9boJvHwjsR6dB511IuGco",
+      "name": "Svayambu Gas",
+      "address": "Shop No 1, near by Sahara Super Market, Sainath Nagar, Bhosari, Pune",
+      "lat": 18.6293778,
+      "lng": 73.85672509999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJiQJIjR04nDkREShHrBDH2mY",
+      "name": "IndianOil",
+      "address": "Haveli, Sant Nagar, Lohegaon, Pune",
+      "lat": 18.5954571,
+      "lng": 73.9346166,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbYpvi4XDwjsROqpnNHEVmgE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gat No 1403, Haveli, Plot No 3 & 4, Wagholi, Pune",
+      "lat": 18.5786901,
+      "lng": 73.9717038,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM2s6S5zEwjsRJOwyB4A-aTg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "48, Bakori Phata, Wagholi, Pune",
+      "lat": 18.59111,
+      "lng": 73.9987967,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnVt8RgDHwjsRFNq74cd1Yw0",
+      "name": "Kondhwa bk",
+      "address": "HWVH+Q2P, Lohegaon, Pune",
+      "lat": 18.5944704,
+      "lng": 73.9275889,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJlVbNUADHwjsRpm0hq4cLYpo",
+      "name": "SHAMBHU PETROLEUM",
+      "address": "JW3H+2QV, Lohegaon, Pune",
+      "lat": 18.6026243,
+      "lng": 73.9294273,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ25gfGQDHwjsRPH-kO4G2im8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Haveli, Lohegaon, Pune",
+      "lat": 18.602804,
+      "lng": 73.929417,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5--3-XTHwjsRUOIbd_Y_Jb8",
+      "name": "M D Moze Bharat Petroleum",
+      "address": "JW3G+7X3, Shivnagar Chirke Colony, Lohegaon, Pune",
+      "lat": 18.6031381,
+      "lng": 73.9274083,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJq9P8GQDHwjsRw5yE_EwPo-w",
+      "name": "Sathe Petroleum & CNG station",
+      "address": "HWX7+29W, Lohgaon Road, Kutwal Colony, Lohegaon, Pune",
+      "lat": 18.5974978,
+      "lng": 73.9134488,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJHbgjaZPFwjsRqOl0UYNzzO0",
+      "name": "Mauli Petrol Pump",
+      "address": "Shop No 1, Lakeview city, Wadgaon Shinde Road, Pune",
+      "lat": 18.6097299,
+      "lng": 73.9366713,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJqwaYLQDFwjsRW8dGoZi4zik",
+      "name": "Indian oil petrol pump",
+      "address": "HXR3+343, Yojna Nagar, Pune International Airport Area, Lohegaon, Pune",
+      "lat": 18.5901272,
+      "lng": 73.9529622,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJuZcFLADFwjsRK_57JIb7haA",
+      "name": "RADHE KRISHNA SERVICE CENTER",
+      "address": "Shop No 4, Shiv Empire, opposite Datta Mandir, near Bhosale Nursery, Lohgaon - Wagholi Road, Lohegaon, Pune",
+      "lat": 18.5899627,
+      "lng": 73.95304349999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfeNXTwDFwjsRrRaG-t2JxC8",
+      "name": "HPCL fuel station",
+      "address": "HXW3+62W, Pune",
+      "lat": 18.5956019,
+      "lng": 73.95257629999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJL8KVpSbEwjsRPMOcMQ6edjs",
+      "name": "IndianOil",
+      "address": "near Brilliant International School, Opposite MMIT COLLEGE, near Brilliant International School, Wadgaon Shinde Road, Pune",
+      "lat": 18.61306399999999,
+      "lng": 73.941315,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDfnThQvEwjsRFYSN2dyLIEw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "SNo 89/3 Wagholi, Lohgaon Road, Lohegaon, Pune",
+      "lat": 18.5898809,
+      "lng": 73.955652,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXWa-ZADBwjsRvNzhMJnn0y4",
+      "name": "Singh Consultancy Solutions & Services",
+      "address": "Off. No. 12, Surbhi Buldings, Pune Nagar Road, Chandan Nagar, Pune",
+      "lat": 18.5626908,
+      "lng": 73.9304823,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY-zEPgDBwjsRonpHm7qp5pQ",
+      "name": "Scammer Petrol Pump",
+      "address": "HW6G+XVV, 46, Aga Nagar, Wadgaon Sheri, Pune",
+      "lat": 18.5624439,
+      "lng": 73.9271693,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJb13KV1zBwjsRN9-8bND2rLI",
+      "name": "IndianOil",
+      "address": "46, Pune Nagar Road, Wadgaon Sheri, Pune",
+      "lat": 18.562424,
+      "lng": 73.927094,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQf4IgwvEwjsRc63xEGTcJU4",
+      "name": "Bharat Petroleum, Petrol -Shree Sai Petroleum",
+      "address": "Survey No 89, 2, Wagholi Road, Lohegaon, Pune",
+      "lat": 18.5899662,
+      "lng": 73.95634079999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJV7B8YDTDwjsRC7uD4rUUFIA",
+      "name": "Shell Petrol Pump",
+      "address": "near Kharadi - Hadapsar Bypass Road, Pune Nagar Road, Pune",
+      "lat": 18.56282,
+      "lng": 73.93982,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg1Gu4eXDwjsRzJpD7S-WsTA",
+      "name": "IndianOil",
+      "address": "S No 134, 1/2 Haveli, 9 Brd, Lohegaon, Pune",
+      "lat": 18.5651337,
+      "lng": 73.9444748,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZf2BOCzBwjsRvbRAWoEmOew",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "2D, Plot, No 16, S No 162, Adarsh Colony Road, Vidyanagar, Pune",
+      "lat": 18.5751114,
+      "lng": 73.8968326,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbaatbwDDwjsRapJqR9Jjh0g",
+      "name": "Khandelwal nagar CNG pump",
+      "address": "4, Pune - Ahilyanagar Highway, Khandve Nagar, Wagholi, Pune",
+      "lat": 18.5722708,
+      "lng": 73.9547662,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJjY3x4d3DwjsRKuA6ObdJ78s",
+      "name": "Pune",
+      "address": "2337, Sai Satyam Park, Kawade Wasti, Wagholi, Pune",
+      "lat": 18.57695409999999,
+      "lng": 73.9582554,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ908y5IvDwjsR2CKe6H0vk0Y",
+      "name": "Mahalakshmi Cab",
+      "address": "Shop No 7, near shell petrol pump, Durvankur Society, Ashoka Nagar, Kharadi, Pune",
+      "lat": 18.559571,
+      "lng": 73.938621,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZVggyd_DwjsRfW260HC6FxA",
+      "name": "Shell",
+      "address": "Mundhwa - Kharadi Road Vill, T Haveli, Kharadi, Pune",
+      "lat": 18.55889,
+      "lng": 73.93818999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJd6c-t7YpwzsR_C5w264DqWg",
+      "name": "Hindustan Petroleum Corporation Limited Charging Station",
+      "address": "Gat No 1574, near MIDC Gate, Pune Nagar Road, Ranjangaon, Pune",
+      "lat": 18.572828,
+      "lng": 73.9569602,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJU7eWDgDDwjsRkYvmdycAxW4",
+      "name": "Bharat Petroleum",
+      "address": "HXG7+JVQ, Wagholi, Pune",
+      "lat": 18.5765908,
+      "lng": 73.96474669999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJTQm0k0PDwjsRghaxzOwJjcI",
+      "name": "Balaji Petroleum",
+      "address": "1403, Pune Nagar Road, Wagholi, Pune",
+      "lat": 18.57857,
+      "lng": 73.9716534,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ85BAYZzDwjsR0X9DKcoMXOw",
+      "name": "BALSKAR SIDDHESHWAR TULSHIRAM",
+      "address": "Shop Number 03, Pune Nagar Road, Wagholi, Pune",
+      "lat": 18.5804896,
+      "lng": 73.97522719999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJxyqhGPbDwjsR9P-QUMGsPkQ",
+      "name": "RUSHIKESH FULCHAND SALUNKE",
+      "address": "Shop Number 02, Pune Nagar Road, Wagholi, Pune",
+      "lat": 18.579961,
+      "lng": 73.975143,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJrWGOJITDwjsRWzCqSflbzcc",
+      "name": "IndianOil",
+      "address": "Ground Floor, Haveli, SH-60, Wagholi, Rahu",
+      "lat": 18.5803751,
+      "lng": 73.9752665,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNT5H8HbFwjsRgE2Vbs92JjE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gat No 83/1 Bawadi Road, Gore Wasti Road, Paygude, Wagholi, Pune",
+      "lat": 18.593279,
+      "lng": 73.97927899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJozOFeILDwjsRaZNwNGtl0eA",
+      "name": "Sarthak Enterprise",
+      "address": "Shop No 2, Wagholi, Pune",
+      "lat": 18.5787719,
+      "lng": 73.9829646,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJv6uC9y7DwjsRXDJddAECPA0",
+      "name": "gas Repairing",
+      "address": "HXJM+8V4, Awhalwadi Road, Wageshwar Nagar, Kalubai Nagar, Wagholi, Pune",
+      "lat": 18.5807642,
+      "lng": 73.9847157,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVxtQ0h4FKzoRC3lcyPWsVUo",
+      "name": "IndianOil",
+      "address": "Gondia, Survey No 412/2412/1 Bagholi, Tirora Arjuni",
+      "lat": 18.57356429999999,
+      "lng": 73.9838548,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZQ1yP-PAwjsRelzGKuCMN1U",
+      "name": "IndianOil",
+      "address": "Ground Floor, Yerawada, Pune",
+      "lat": 18.545786,
+      "lng": 73.888001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJT_iZBmrDwjsREyjPeyc45aA",
+      "name": "EV Charging Station Demo",
+      "address": "HXHP+6G8, Awhalwadi Road, Kalubai Nagar, Wagholi, Pune",
+      "lat": 18.5780375,
+      "lng": 73.9863364,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTyVjmlfDwjsRMab6GSFyxQ0",
+      "name": "Bharat Petroleum, Petrol Pump -Shree Service Station",
+      "address": "OPP JAIN, Pune Nagar Road, Wagholi, Pune",
+      "lat": 18.582392,
+      "lng": 73.9873971,
+      "open_now": true
+    }
+  ]
+}

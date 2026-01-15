@@ -1,0 +1,259 @@
+{
+  "city": "Wayanad",
+  "state": "Kerala",
+  "count": 31,
+  "center": {
+    "lat": 11.6,
+    "lng": 76
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJhUNoagBlpjsRNlTwHehsNPs",
+      "name": "28th mile, Kariyathumpara",
+      "address": "GVMQ+7WP, Koorachunde, Kanthalad",
+      "lat": 11.5332021,
+      "lng": 75.8898325,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJqQFTCntlpjsRCwwo0C6C6Do",
+      "name": "IndianOil",
+      "address": "Ground Floor, Koyilandy Thamarassery, Kanthalad, Ekarool",
+      "lat": 11.504507,
+      "lng": 75.892462,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSWZkCg9vpjsRbGtFtHhbwXI",
+      "name": "BHARAT PETROLEUM",
+      "address": "FWP7+Q7X, Kedavur",
+      "lat": 11.4869892,
+      "lng": 75.91322830000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJvVqu9zxspjsRxBei5CpNW8U",
+      "name": "IndianOil",
+      "address": "Ground Floor Puduppadi, Adivaram",
+      "lat": 11.4829501,
+      "lng": 76.00729199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmWbU9YttpjsRtzOaxMFcEgA",
+      "name": "Bharath Petroleum - Pakkada Fuels",
+      "address": "Lakkidi, Kunnathidavaka",
+      "lat": 11.5244245,
+      "lng": 76.022713,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQ4mXPiVtpjsR9mY_uHYwrhE",
+      "name": "Bharat Petroleum, Petrol&Cng Pump -M/S K M R Petroleum - KOZHIKODE",
+      "address": "WAYANAD RD ADIVARAM CLT, KOZHIKODE",
+      "lat": 11.4836223,
+      "lng": 76.00853099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOaYEJQBzpjsRg93QZ4hvwvU",
+      "name": "INDIAN OIL PERTOL AND CNG ONLINE PUMP",
+      "address": "H27V+J39, Chelode",
+      "lat": 11.5640314,
+      "lng": 76.0427251,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJg_eZQZ5zpjsRGwYmZiQ-LcQ",
+      "name": "IndianOil",
+      "address": "Chelode",
+      "lat": 11.5638974,
+      "lng": 76.0428619,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_e7It2dvpjsRUGVn1Te-NtU",
+      "name": "IndianOil",
+      "address": "Ground Floor, Engapuzha Pudupadi, Thamarassery",
+      "lat": 11.4651496,
+      "lng": 75.9700027,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy0cMuilzpjsR6d3f49RslgQ",
+      "name": "Bharat Petroleum and CNG Fuel Station",
+      "address": "National Highway 766, Madiyur, Kalpetta",
+      "lat": 11.5956493,
+      "lng": 76.077716,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuwzfM4cNpjsRPQEAe-uQycA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Meppadi",
+      "lat": 11.5541901,
+      "lng": 76.13815009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJK3gFuutypjsRjLKY3363DM4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Chundale",
+      "lat": 11.574591,
+      "lng": 76.058711,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpWv1xsV1pjsRvoDqO9cQJrk",
+      "name": "Bharat Petroleum, Petrol Pump -Parakkandy Fuels",
+      "address": "J2Q4+XQG, Thariyode Kavumannam Road, Kavumannam",
+      "lat": 11.6398873,
+      "lng": 76.0071711,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJz0Dtp79zpjsR7cjbsnauDWo",
+      "name": "Wayanad fuels",
+      "address": "J27Q+RM6, Pinangode, Vengapally",
+      "lat": 11.6145357,
+      "lng": 76.0391473,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTWfRUOF1pjsR0orA9ojzRE8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Kavumannam, Chennalode, Kalpetta",
+      "lat": 11.6513672,
+      "lng": 76.0017769,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy5Ls3KlzpjsRuwirTe3wIxs",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kalpetta Pinangode Road, Chennalode, Puzhamudi, Vengapally",
+      "lat": 11.614477,
+      "lng": 76.058061,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgX-7xEpzpjsRqwus9nRiSKk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Main Road, Kalpetta",
+      "lat": 11.618391,
+      "lng": 76.084571,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo_i3ctANpjsREQK_VPpsDRg",
+      "name": "Reliance Petroleum",
+      "address": "Ground Floor, Kalpetta - Mananthavadi Road, Kalpetta",
+      "lat": 11.6299719,
+      "lng": 76.08837679999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJofg5HP0NpjsRl_Y6AtBnzqg",
+      "name": "NAYARA FUEL PUMP",
+      "address": "J3MR+P4R, National Highway 766, Kainatty, Kalpetta",
+      "lat": 11.634355,
+      "lng": 76.0902612,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJi1q_rKcMpjsRSsNFy1ddS9w",
+      "name": "Power Agencies",
+      "address": "J3PX+JVR, National Highway 766, Kalpetta",
+      "lat": 11.6366155,
+      "lng": 76.09965,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJczx3cWF2pjsRBS--FPsXZo0",
+      "name": "IndianOil",
+      "address": "Ground Floor Tharuvana, Road, Padinjarathara",
+      "lat": 11.680857,
+      "lng": 75.974234,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJv-4ddp7ZpTsRVzvAndDGzI8",
+      "name": "Bharat Petroleum Petrol Pump , VELLAMUNDA FUELS",
+      "address": "Vellamunda",
+      "lat": 11.7336824,
+      "lng": 75.94545819999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJA2LIeLHYpTsRkexNLktXh0A",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Kuttiady Road, Mananthavady",
+      "lat": 11.7366378,
+      "lng": 75.9865575,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2aXI7NF0pjsRj-hCvDQMNLc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Kambalakkad",
+      "lat": 11.673011,
+      "lng": 76.07888100000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpYwvMlt1pjsRwKOqQoXpyW4",
+      "name": "AI Camera MVD",
+      "address": "M3MG+8PC, Vythiri",
+      "lat": 11.6833133,
+      "lng": 76.0767766,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJf70etXF1pjsRNlKL7nmQXh0",
+      "name": "Malabar Petroleum - Bharat Petrol Pump",
+      "address": "Kalpetta, Mananthavady road, Pachilakkad",
+      "lat": 11.7124342,
+      "lng": 76.0791173,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9Sjg4cQLpjsR1X2Vbisaa3s",
+      "name": "KARANI PETROLEUM -Nayara energy",
+      "address": "THAZHA, Karani",
+      "lat": 11.6894536,
+      "lng": 76.1109058,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkemhUwB1pjsR227xeFR6YYE",
+      "name": "Nayara Energy /Vikas Petroleum /Petrol Pump Panamaram",
+      "address": "Pachilakkad, Panamaram",
+      "lat": 11.7176986,
+      "lng": 76.0805498,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg2lbK1Z1pjsR0MP9tAGN_tc",
+      "name": "IndianOil",
+      "address": "Ground Floor, kalpetta Road, Panamaram",
+      "lat": 11.72682,
+      "lng": 76.076973,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAcjOSE0LpjsRXQgq-CFOYQg",
+      "name": "V S Petroleum, MRPL Petrol Pump, പെട്രോൾ പമ്പ്",
+      "address": "M4GH+RFQ, Kariampady",
+      "lat": 11.6773635,
+      "lng": 76.1288957,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJeRgwHQALpjsRS5jKcGkHuzA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Variyad, Kakkavayal",
+      "lat": 11.6490723,
+      "lng": 76.1330704,
+      "open_now": true
+    }
+  ]
+}

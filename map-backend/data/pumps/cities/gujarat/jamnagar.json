@@ -1,0 +1,939 @@
+{
+  "city": "Jamnagar",
+  "state": "Gujarat",
+  "count": 116,
+  "center": {
+    "lat": 22.4667,
+    "lng": 70.0667
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJ4Yq5ISATVzkRSF5W3OUtUsc",
+      "name": "Goraniya Petroleum",
+      "address": "chaga patiya, Changa",
+      "lat": 22.3447428,
+      "lng": 70.0267341,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJJ1HVQ7MVVzkRE3mImQzUAAY",
+      "name": "Bharat Oman Gas Line Pumping Station",
+      "address": "CXJP+598",
+      "lat": 22.4304019,
+      "lng": 69.98595019999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJa-KPfqcVVzkRlT2Bv12f7xc",
+      "name": "Shahid Ramesh Petroleum",
+      "address": "opp. Laher Lake Khabhaliya, Road, Jamnagar",
+      "lat": 22.4439302,
+      "lng": 69.999442,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaxmrrw4VVzkRBAYcq8EptVw",
+      "name": "Nayara Petrol Pump - Aastha Petroleum",
+      "address": "near Sarmat, Khambhaliya Road, Patiya, Jamnagar",
+      "lat": 22.4391244,
+      "lng": 69.9715404,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0-Ejd8UVVzkRoVYdMNfHHA4",
+      "name": "IndianOil",
+      "address": "Ground Floor, Vasai",
+      "lat": 22.43972759999999,
+      "lng": 69.9687483,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKwG2LNoVVzkR8uKywoCmi8A",
+      "name": "ASGAR GAS AGENCY",
+      "address": "SHOP NO 12, ALFA SCHOOL, Masitiya Road, Dared, Jamnagar",
+      "lat": 22.4062409,
+      "lng": 70.050009,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJCYL_4xoVVzkR3LHPugenqWQ",
+      "name": "New Murlidhar Petroleum",
+      "address": "C2GR+JQM, Champa Beraja",
+      "lat": 22.42764689999999,
+      "lng": 70.04260169999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ4RwHZdcVVzkRu6TGCyXRQPs",
+      "name": "Bharat Petroleum, Petrol Pump -Harsiddhhi Petroleum",
+      "address": "JAMNAGAR-MOTIKHAVDI ROAD, Jamnagar",
+      "lat": 22.436341,
+      "lng": 69.95906409999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTaQlEZ8VVzkROXL6tqH4Ly4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 62, near Khambhaliya, P/4/P/1 SH 25, Jamnagar Bypass Road, Kansumara, Jamnagar",
+      "lat": 22.429844,
+      "lng": 70.0416303,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjR9D23oTVzkRnLh3xYhkeOw",
+      "name": "VRUNDAVAN PETROLEUM. ESSAR PETROL PUMP",
+      "address": "Chela",
+      "lat": 22.3766833,
+      "lng": 70.0499878,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl80lDFJrVzkRmfydX3_jkeY",
+      "name": "IndianOil",
+      "address": "Ground Floor, Lalpur, Bankodi, near Km Stone, 8 to 9, Jamnagar",
+      "lat": 22.4033205,
+      "lng": 70.054913,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPUYdzAEVVzkRnWFoEF0R3aA",
+      "name": "IndianOil",
+      "address": "Ground Floor, Jamnagar",
+      "lat": 22.44209,
+      "lng": 70.03542,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJO2tjOXoWVzkRxHxeO23k1eM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 125/1, Palki No 3 SH 25, Khambhaliya Road, Jamnagar",
+      "lat": 22.4338194,
+      "lng": 69.9479985,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4ZLWDSATVzkRIaie_fL8ghk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 281, Paiki 1, SH 27, Jamnagar - Lalpur Road, Changa",
+      "lat": 22.343735,
+      "lng": 70.0271022,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxQDnRvFrVzkRu8VLoTHa9ws",
+      "name": "Essar Petrol Pump",
+      "address": "C366+962, Jamnagar - Lalpur Road, Jamnagar",
+      "lat": 22.41088239999999,
+      "lng": 70.0605281,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJE8IY1GkTVzkRM4wSr7SqVyc",
+      "name": "IndianOil",
+      "address": "Survey No 657, Changa",
+      "lat": 22.3423763,
+      "lng": 70.02618819999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJicBC9y4VVzkRgH2duXDPCMU",
+      "name": "Nayara petroleum",
+      "address": "C2VP+XW7, Indira Gandhi Road, Satyam Colony, Jamnagar",
+      "lat": 22.4449008,
+      "lng": 70.0373111,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJn2YGuFMSVzkRqFCXKxIEV0g",
+      "name": "K M PETROLEUM",
+      "address": "Changa Patiya, At, Sir PN Road, Ta, Khoja Beraja",
+      "lat": 22.3351371,
+      "lng": 69.9945037,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGy1jytoTVzkRdK_k4TrnQcE",
+      "name": "DJ FUEL STATION",
+      "address": "near KM PETROLEUM, Sir PN Road, Chandragadh",
+      "lat": 22.3347621,
+      "lng": 69.99518119999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ90LK0TZrVzkRgG9t8DTy4iw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 1193/2, P/1, Plot No 1 SH 25, Jamnagar Bypass Road, Jamnagar",
+      "lat": 22.4209913,
+      "lng": 70.0584573,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJi7KBj_ETVzkR1Z3-7LZc2ME",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Jamnagar, Survey No 307/P1 New Reliance Road, Khoja Beraja Near Changa Patiya",
+      "lat": 22.3371324,
+      "lng": 70.0166976,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-YS4Wm4VVzkR7JQs1jbwUOg",
+      "name": "Chandramauli petroleum Bharat Petroleum",
+      "address": "F23F+HFV, National Highway 151A, Jamnagar",
+      "lat": 22.453998,
+      "lng": 70.023667,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs6zWD9gTVzkRys7wucIpgi4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "RSA No 271, P Paiki 7 Lalpur, New Reliance Road, Pipli",
+      "lat": 22.3464142,
+      "lng": 69.9556589,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcXlXJgAVVzkRhORWGle7WgM",
+      "name": "Indian Oil",
+      "address": "Shop No 7Near Gordhan Hotel Baju MaGordhan, The park Road, Champa Beraja",
+      "lat": 22.4562645,
+      "lng": 70.0198503,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJJ4kB_nQTVzkRB0uAKGFW8Ng",
+      "name": "KARTIKSWAMI PETROLEUM",
+      "address": "Changa, Jamnagar - Lalpur Road, Patiya, Jamnagar",
+      "lat": 22.3387692,
+      "lng": 70.0246219,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs_xnMmQWVzkR8osR0MBGU-k",
+      "name": "Subham Petroleum Bharat Petroleum",
+      "address": "Jamnagar, SH-6, Jamnagar Road, Vasai, Vasai",
+      "lat": 22.431078,
+      "lng": 69.9380023,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy9TNSQAVVzkRg31pZ9aLJP8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Shri Swami Narayan Mandir, Khambhaliya Highway, Khodiyar Colony, Jamnagar",
+      "lat": 22.455389,
+      "lng": 70.030031,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeSsIfB4VVzkROxLpYMGW1LI",
+      "name": "Essar petrol pump",
+      "address": "F24J+F44, 50 feet Road, Jamnagar",
+      "lat": 22.4561427,
+      "lng": 70.0303383,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo9fsvusVVzkRG0HA876G_gc",
+      "name": "Nayara Petrol Pump",
+      "address": "opp. Nayara Petrol Pump Haria Collage, Road, Gokul Nagar, Jamnagar",
+      "lat": 22.4508258,
+      "lng": 70.0410172,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJhcZF_TAVVzkRPX5kG9CaMyg",
+      "name": "PRAGATI AUTO GAS",
+      "address": "F22R+FH2, Indira Gandhi Road, Pavan Chakki, Jamnagar",
+      "lat": 22.4511372,
+      "lng": 70.0413773,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ456marlqVzkRt-c8Mg4ICbo",
+      "name": "Indian Oil Corporation Ltd",
+      "address": "Aviation Fuel Station IV, Air Force, Jamnagar",
+      "lat": 22.4609265,
+      "lng": 69.9669447,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ8QrERzEVVzkRv7gqTEy4w-o",
+      "name": "Gayatri Petroleum",
+      "address": "Gokul Nagar, Main Road, Dattara Circle, Gokul Nagar Main Road, Dattara Circle, Jamnagar",
+      "lat": 22.4528326,
+      "lng": 70.0429861,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJI_N42z5rVzkRoGoHILYJ38g",
+      "name": "Kirti Petroleum",
+      "address": "Jamnagar - Lalpur Road, Chowkdi, Jamnagar",
+      "lat": 22.4211281,
+      "lng": 70.0690881,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4QZXtz5rVzkRiLBWeet4Ocw",
+      "name": "NAYARA",
+      "address": "India",
+      "lat": 22.4216046,
+      "lng": 70.0689095,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJd7KRlRVrVzkRHw-0TOyyFns",
+      "name": "Nayara Petrol Pump - K.N.Petroleum",
+      "address": "near Lalpur Chockdi, Road, Jamnagar",
+      "lat": 22.4221412,
+      "lng": 70.0760546,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3ZxRf6ZrVzkRQ7BCth5qWwo",
+      "name": "Nayara Petrol Pump",
+      "address": "C4J3+7PG, Khimliya",
+      "lat": 22.4306793,
+      "lng": 70.1043243,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJE9UpurxqVzkR5AT-sZoQxBQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, Lakhota Talav, Jamnagar",
+      "lat": 22.46229199999999,
+      "lng": 70.07041199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOWlOIPJqVzkRCn7yVxv59Wg",
+      "name": "IndianOil",
+      "address": "Ground Floor, Grain Market, Kalawad Road, Jamnagar",
+      "lat": 22.459441,
+      "lng": 70.08767,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJj3dVtkoVVzkRIrm7nyDBPKU",
+      "name": "Rozy Petroleum",
+      "address": "F26X+HW6, Hirji Mistry Road, Ranjit Nagar, Summair Club Road, Jamnagar",
+      "lat": 22.4614154,
+      "lng": 70.0497669,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-6aJuzFsVzkR5OY9bDuE390",
+      "name": "IndianOil",
+      "address": "Survey No 199/1/P/1 Harshadpur, Digvijay Plot, Jamnagar",
+      "lat": 22.364072,
+      "lng": 70.131113,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJO-9Q5xdrVzkRi6y4yfo6VVA",
+      "name": "IndianOil",
+      "address": "near Medical Campus, Survey No 149/P1, Dariya, near Medical Campus, Jamnagar",
+      "lat": 22.398294,
+      "lng": 70.086066,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNQO3qw9tVzkRorX_CYT-IKk",
+      "name": "Parth Fuels",
+      "address": "Ranjitsagar Road At Parth Petroleum, Dadiya",
+      "lat": 22.39013050000001,
+      "lng": 70.087341,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdT0F56NrVzkR6EDdt_QnHkQ",
+      "name": "VM Petroleum",
+      "address": "Survey No. 801/p4, Aradhana Park 3, Plot No. 1, Jamnagar Bypass Road, Jamnagar",
+      "lat": 22.4233529,
+      "lng": 70.0837687,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJfyKDAwxrVzkRyh3kJ3ETgCY",
+      "name": "Uno Petroleum Bharat Petroleum",
+      "address": "Jamnagar Rd, Jamnagar",
+      "lat": 22.4252767,
+      "lng": 70.0918105,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmffeaABrVzkR5RkJVYSbYmw",
+      "name": "Bharat petroleum",
+      "address": "C3M8+PH3, Green City, Jamnagar",
+      "lat": 22.4342576,
+      "lng": 70.0664077,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJvV2fbsNrVzkRu0DqJqLRvVs",
+      "name": "New Bhanu Petroleum & Online cng Station",
+      "address": "Ranjit Sagar Road, Opposite, Green City, Jamnagar",
+      "lat": 22.434386,
+      "lng": 70.06628309999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpwYv_iZrVzkRoWj8cYkqU1w",
+      "name": "Shell-Soham Enterprise",
+      "address": "near Pump House, Jamnagar - Samana Road, Jamnagar",
+      "lat": 22.436427,
+      "lng": 70.065401,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL_gkB8RqVzkR7dyju1yIH_Y",
+      "name": "IndianOil",
+      "address": "Ground Floor, Ranjit Sagar Road Pavan Chakki, Digvijay Plot, Jamnagar",
+      "lat": 22.456408,
+      "lng": 70.067956,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJw-cMAMRqVzkR9ES7hG4Qn-c",
+      "name": "Nayara Petrol Pump - Bhanu Petrol Service",
+      "address": "Sumair Club Road, Kishan Park Society, Jamnagar",
+      "lat": 22.4567745,
+      "lng": 70.06838619999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHfLJFg9rVzkRCVyHyHkyZI4",
+      "name": "ASHAPURA PROVISION",
+      "address": "Digvijay Plot, Jamnagar",
+      "lat": 22.4607814,
+      "lng": 70.0586876,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJT-lQl_lrVzkR9f92yKlWXn8",
+      "name": "Bharat Petroleum, Petrol Pump -D. Girdharlal & Co.",
+      "address": "Teen Batti, Jamnagar",
+      "lat": 22.462159,
+      "lng": 70.0650513,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ456marlqVzkRSANhmz_jP_A",
+      "name": "Sanjay Gas Service",
+      "address": "Digvijay Plot, Jamnagar",
+      "lat": 22.4628056,
+      "lng": 70.0660505,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJjQzatPZqVzkR0aCpO3UQX7c",
+      "name": "NAYARA",
+      "address": "F35R+FR7, Jamnagar",
+      "lat": 22.4586559,
+      "lng": 70.0920431,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJPUwtFwBrVzkRnW9Sj1lsEyY",
+      "name": "Atul petroleum",
+      "address": "near maha pravhuji bethak, o/s, Kalavad Road, Kaushal Nagar, Jamnagar",
+      "lat": 22.458681,
+      "lng": 70.0920395,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJmxiDWTUVVzkRj4WcQ2KR4so",
+      "name": "Nirav Enterprises",
+      "address": "opp. Coin, Main Road, Ranjit Nagar, Jamnagar",
+      "lat": 22.4610101,
+      "lng": 70.04938369999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJLchTCwBrVzkRDG9P_sNSOhc",
+      "name": "HP AUTO CENTER",
+      "address": "Gujarat State Highway 26, Mahaprabhuji Bethakji, Jamnagar, Kaushal Nagar, Jamnagar",
+      "lat": 22.4583083,
+      "lng": 70.0958093,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJkxtqEnnLWTkRakcm6M8gmvs",
+      "name": "Jio-bp",
+      "address": "Survey No 49/1, near Victoria Bridge, 50 Rajkot Road, Hapa Road, Gulab Nagar, Jamnagar",
+      "lat": 22.4621947,
+      "lng": 70.0833288,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJc0WsEQBrVzkR8PCMJ5anyK8",
+      "name": "GOKUL Petroleum (NAYARA)",
+      "address": "opp. Sentoza Greenz, Mahaprabhuji Bethak Road, Dhunvav",
+      "lat": 22.450756,
+      "lng": 70.11005399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVaqtC8lrVzkR94fdSDi13QI",
+      "name": "IndianOil",
+      "address": "Ground Floor, Theba Kalawad Jamnagar Hwy Road, Moti, Moti Banugar",
+      "lat": 22.4457861,
+      "lng": 70.1183081,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJk7DxxTprVzkRzqMfY0NvL8A",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Mahaprabhuji Baithak Road, Plot No 58/2, TP Scheme 2, Noori Chowk, Maharja Society, Jamnagar",
+      "lat": 22.460405,
+      "lng": 70.093864,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJw7DZOktqVzkRFSGT13bkBxM",
+      "name": "Baradi Petroleum",
+      "address": "Kalawad Baypass Chokdi , Mahaprabhuji Bethak Road",
+      "lat": 22.4466794,
+      "lng": 70.1179982,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhfmIFexrVzkR3HZehHKxGJA",
+      "name": "Bharat Petroleum, Petrol Pump -Manek Petroleum",
+      "address": "JAMNAGAR CITY GULABNAGAR, Jamnagar",
+      "lat": 22.4665176,
+      "lng": 70.07711259999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqSpU7fhrVzkRBFG3HOqVOiQ",
+      "name": "petro pump",
+      "address": "F37R+P96, Kaushal Nagar, Jamnagar",
+      "lat": 22.46432399999999,
+      "lng": 70.091574,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJl7W29NBrVzkRwJTQ9KfWu6E",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 169 NH 927 D, Kalavad Road, Jamnagar, Theba",
+      "lat": 22.438322,
+      "lng": 70.136839,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2QS3IUxpVzkRMbHKDxrU0ZA",
+      "name": "Giriraj Petroleum (Nayara)",
+      "address": "Jamnagar - Kalawad highway At, Vijarkhi",
+      "lat": 22.4146886,
+      "lng": 70.17807680000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6bhpaYJpVzkR1KQQeSQ5C2Y",
+      "name": "GOKUL Petroleum (NAYARA)",
+      "address": "opp. Sentoza Greenz, Mahaprabhuji Bethak Road, Limili",
+      "lat": 22.4427425,
+      "lng": 70.1813018,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJVWZoBzpqVzkRRi4vSPQQThw",
+      "name": "Faldu Petroleum",
+      "address": "F45H+952",
+      "lat": 22.4583913,
+      "lng": 70.1278933,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYcvAx9kVVzkRL8HQr52YnHU",
+      "name": "Nayara Petrol Pump - Rameshwar Petroleum",
+      "address": "Dhichda Road, Defence Colony, Jamnagar",
+      "lat": 22.4788041,
+      "lng": 70.03387350000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJO70qm-g_VzkRIBNwB5LKqHk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 20, Paiki 2, Samarpan Circle, Dhichda Road, Dhinchda",
+      "lat": 22.492361,
+      "lng": 70.030052,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJby5pkFEVVzkR-Al2vZaVW_s",
+      "name": "IndianOil",
+      "address": "Suvey No 99, Plot No 1, Airport Road, Bedeswer, Jamnagar",
+      "lat": 22.4684947,
+      "lng": 70.0414976,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTwMr1jU_VzkRmwzUtRyyeG0",
+      "name": "CITY SKAY STAR PETROLEUM",
+      "address": "CITY SKAY STAR PETROLEUM, Highway Road, Pipaniya, Jamnagar",
+      "lat": 22.4962195,
+      "lng": 70.0284705,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ70mDJE4VVzkRF_WILHeAF9w",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "TPS, near Digjam Circle, Plot No 40 & 41, Street Number 2, Jamnagar",
+      "lat": 22.4696743,
+      "lng": 70.0423449,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJi5qMnuk_VzkRxIqwHCJyNic",
+      "name": "Essar Petrol Pump",
+      "address": "F2WH+MPC, Bedeswer, Jamnagar",
+      "lat": 22.4966897,
+      "lng": 70.0292691,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJv1oGlrJqVzkRR8mXVwcahAY",
+      "name": "Reliance Petrol - Diesel - Gas Station",
+      "address": "F3C2+7M9, SH 6, Kamdar Colony, Jamnagar",
+      "lat": 22.4706526,
+      "lng": 70.05174640000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-2Q19tNrVzkRuxmoaIkJGKQ",
+      "name": "AMARNATH GAS AGENCIES",
+      "address": "GROUND FLOOR OFFICE NO.05, Vijay Complex, Bh Icic Bank, nr. KHODIYAR TEMPLE, Kamdar Colony, Jamnagar",
+      "lat": 22.4707688,
+      "lng": 70.0506386,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ7U0ky3hrVzkRxZp90DuJKEw",
+      "name": "Shell Petrol Pump",
+      "address": "Aerodrome Road, Jamnagar",
+      "lat": 22.471332,
+      "lng": 70.050889,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlXboQ5M_VzkRrqOwYZXqgJo",
+      "name": "HP PETROL PUMP - SHREENATH PETROLEUM",
+      "address": "HP Petrol Pump Survey NO. 20 Paiki 2 Dhichda, 2",
+      "lat": 22.504835,
+      "lng": 70.033519,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJt6nPVwBAVzkRoCzZYtg6muM",
+      "name": "IndianOil",
+      "address": "S No 1, TP Scheme 1, Saru Section Road, Digvijay Plot, Jamnagar",
+      "lat": 22.474847,
+      "lng": 70.05156,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJt38_Nvg_VzkRV6IeK7dQIBg",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bedi Road, Bunder, Amra",
+      "lat": 22.492621,
+      "lng": 70.047989,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRahgkLFqVzkRgVjqzRxpbOA",
+      "name": "IndianOil",
+      "address": "Ground Floor, Grain Market, PC Road, Jamnagar",
+      "lat": 22.4704966,
+      "lng": 70.0569,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1RrvjAFAVzkRsEhCcDqkC6Q",
+      "name": "Shree Sai Gas Agency",
+      "address": "F3P4 32J, Mahavir Society, Park Colony, Jamnagar",
+      "lat": 22.4854055,
+      "lng": 70.0555347,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS-L1XrhrVzkRXQbE4-NCOwA",
+      "name": "Momai Gas Agency",
+      "address": "Shop No. 12, Gayatri Complex, Pandit Nehru Marg, Padana",
+      "lat": 22.4756308,
+      "lng": 70.0664704,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJE9UpurxqVzkRQMcvL2YbZqc",
+      "name": "IndianOil",
+      "address": "Manmohan Building, Maheswari Nagar, Kadiawad, Jamnagar",
+      "lat": 22.473103,
+      "lng": 70.069252,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS8hvw7xqVzkREFnBcfRVVHY",
+      "name": "Bharat Petroleum BP Petrol Pump",
+      "address": "F3FC+63H, Maheswari Nagar, Kadiawad, Jamnagar",
+      "lat": 22.4730556,
+      "lng": 70.0702477,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGe6D1mJqVzkREFkfD70EGo4",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bharatiya Bhavan, Kisan Chowk, Gulabnagar, Jamnagar",
+      "lat": 22.477715,
+      "lng": 70.1007876,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJv5ajJ49qVzkR5vha4KIrhgA",
+      "name": "BPCL - Manek Petroleum",
+      "address": "F3FR+PFH, Jamnagar Road, Gulabnagar, Jamnagar",
+      "lat": 22.474302,
+      "lng": 70.0912188,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJ3nUNWNrVzkRaAIbmaNYR7M",
+      "name": "HET PETROLEUM",
+      "address": "Het Petroleum, near Patel Samaj Vadi, Verad, Jamnagar",
+      "lat": 22.4707499,
+      "lng": 70.0759083,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJfd6TgN1rVzkR-AKfYpF7sXA",
+      "name": "Bharat Petroleum, Petrol Pump -Karan Petroleum",
+      "address": "JAMNAGAR CITY INDIRA MARG, Jamnagar",
+      "lat": 22.4733564,
+      "lng": 70.075452,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJD3P6LpFqVzkRibNeLpFdMck",
+      "name": "HP PETROL PUMP - H P AUTO CENTRE",
+      "address": "Ground Floor, near Nagnath - Victoria Bridge, Kadiawad, Jamnagar",
+      "lat": 22.4720691,
+      "lng": 70.080795,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhZC2bABrVzkRyg5syLgSu5Q",
+      "name": "Bharat Petroleum (BPCL)",
+      "address": "F3CJ+VFJ, near Subhash Bridge, Jamnagar - Rajkot Highway, Kadiawad, Jamnagar",
+      "lat": 22.4722157,
+      "lng": 70.081141,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7dixr65rVzkRXWEnS-nt6G4",
+      "name": "SENTOZA FUEL STATION",
+      "address": "Annpurna chok, char rasta, Jamnagar",
+      "lat": 22.47127339999999,
+      "lng": 70.0919949,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ___YOABrVzkR7BOh4trQnp0",
+      "name": "jio bp- victoria bridge",
+      "address": "49/1, Jamnagar - Rajkot Highway, Raj Park, Jamnagar",
+      "lat": 22.4746155,
+      "lng": 70.0917759,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ1-ULqKhRXzkRP60VgmvqhaI",
+      "name": "IndianOil",
+      "address": "Ground Floor, Gulabnagar, Jamnagar",
+      "lat": 22.47619389999999,
+      "lng": 70.0960005,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCx_27gBrVzkRgtJrpBuuMok",
+      "name": "Jio-bp",
+      "address": "F4H2+59X, Jamnagar - Rajkot Highway, Mohan Nagar, Gulabnagar, Jamnagar",
+      "lat": 22.4779786,
+      "lng": 70.10098370000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJue5QXmprVzkRrOhYpzPrSL8",
+      "name": "Nayara Petrol Pump - Shreeji Fuel Station",
+      "address": "Market Yard, R.S.NO. 457, behind Fruits Market, Road, Hapa",
+      "lat": 22.4691709,
+      "lng": 70.1039773,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg_9FNuJpVzkRQ3bMRmrFbds",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 9/2 Paiki SH 25, Khimrana",
+      "lat": 22.4948907,
+      "lng": 70.1621451,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtcPFH9ZpVzkRLNtmC70sev8",
+      "name": "KOTAK CORPORATION",
+      "address": "near MANSI HOTEL, JAMNAGAR TO RAJKOT HIGHWAY JAMBUDA, near MANSI HOTEL, Jamnagar",
+      "lat": 22.5003083,
+      "lng": 70.1860342,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQTWKCg1qVzkR76FCwYvQGgA",
+      "name": "BASAR",
+      "address": "India",
+      "lat": 22.4827448,
+      "lng": 70.1246669,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJP-_VGABrVzkRQ1w5vppNLxk",
+      "name": "Shree yamuna associates",
+      "address": "104/1, Hapa Industrial Area, Jamnagar",
+      "lat": 22.4829854,
+      "lng": 70.1250495,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJh55MO1trVzkRIGdko1amaYE",
+      "name": "IndianOil",
+      "address": "near Industrial Estate, Ground Floor SH 25,Moti Banugar, near Industrial Estate, Hapa",
+      "lat": 22.47939,
+      "lng": 70.11765799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4bh07W9qVzkRxbPtJnsF4y0",
+      "name": "Priya Petroleum",
+      "address": "SH 6, Indira Gandhi Road, Hapa Industrial Area, Jamnagar",
+      "lat": 22.4790454,
+      "lng": 70.114327,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbSnjF25qVzkR-ZMRowv7pZY",
+      "name": "Essar Petrol & CNG",
+      "address": "F4H7+JP8, Hapa Industrial Area, Jamnagar",
+      "lat": 22.4790394,
+      "lng": 70.1143189,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeb9hAUZpVzkRdBfCXyXm-Ls",
+      "name": "IndianOil",
+      "address": "Ground Floor, Khimrana",
+      "lat": 22.4937071,
+      "lng": 70.1599883,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmWnfkuFpVzkRuOycxPnYjE4",
+      "name": "IndianOil",
+      "address": "S No 101/P State Highway 25,Khijadiya,Banugar, Moti, Jamnagar",
+      "lat": 22.496387,
+      "lng": 70.164806,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm4V_Y1dpVzkRdDKbyDEalDg",
+      "name": "IndianOil",
+      "address": "Survey No 441, Khijadiya",
+      "lat": 22.496213,
+      "lng": 70.165832,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJV4QXQABpVzkRtuU3Iqiq3Go",
+      "name": "Shree ram petroleum",
+      "address": "F5W8+H7, Dhunvav",
+      "lat": 22.4964586,
+      "lng": 70.1657778,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJYUeUC65rVzkRCei0L3Y3dDM",
+      "name": "Jio-bp",
+      "address": "opposite Dsp Bunglow, SN 213, Sy No 96 Paorama Mkt, Khijadiya, opposite Dsp Bunglow, Jamnagar",
+      "lat": 22.49720499999999,
+      "lng": 70.16848259999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJETwVqphpVzkRY1Rhd0dCMtY",
+      "name": "BPCL PETROL PUMP",
+      "address": "F5WF+Q5, Sachana",
+      "lat": 22.4969545,
+      "lng": 70.1729148,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJzwRsEK5pVzkRU8VPyhDldTE",
+      "name": "SHRI KRISHNA FILLING STATION",
+      "address": "Near, Bypass, Jamnagar - Rajkot Highway, Khijadiya",
+      "lat": 22.4970375,
+      "lng": 70.1729256,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJN3G8ynRpVzkRKsGEtRyApyU",
+      "name": "Shell Petrol Pump",
+      "address": "National Highway 151A, Sachana",
+      "lat": 22.50010779999999,
+      "lng": 70.18469979999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJob573NdpVzkRZmuWQquyB-w",
+      "name": "BPCL - Petrol Diesel Station",
+      "address": "JAMNAGAR EXIT JAMUNDA, Jamnagar",
+      "lat": 22.5004162,
+      "lng": 70.1918097,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVVVVJe5oVzkRlkNKyWYnvuM",
+      "name": "Rk Petrolpump",
+      "address": "Alia Bada",
+      "lat": 22.4455282,
+      "lng": 70.20883549999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJo85sHABpVzkR3J52DomXqCk",
+      "name": "IndianOil",
+      "address": "Ground Floor Alia Bada, Jamnagar,Banugar, Moti, Jamnagar",
+      "lat": 22.446243,
+      "lng": 70.209153,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4cRmUQBDVzkRereMyTfnlm4",
+      "name": "GFCC DIESEL PUMP",
+      "address": "H59J+F4J, near B.H.H Office, Jamnagar",
+      "lat": 22.5689584,
+      "lng": 70.1800052,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJVR2QkA1DVzkRRXQrTNPzHTs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Revenue Survey No 94 SH 6, Road, Khiri",
+      "lat": 22.5650073,
+      "lng": 70.2043158,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPzazEY1DVzkRH4tz-2eIce8",
+      "name": "Jay Shree Dwarkadhish Petroleum",
+      "address": "Gujarat State Highway 6, Sachana",
+      "lat": 22.5661156,
+      "lng": 70.205439,
+      "open_now": true
+    }
+  ]
+}

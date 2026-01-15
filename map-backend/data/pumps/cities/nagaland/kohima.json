@@ -1,0 +1,355 @@
+{
+  "city": "Kohima",
+  "state": "Nagaland",
+  "count": 43,
+  "center": {
+    "lat": 25.6667,
+    "lng": 94.1167
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJ4Zh0wYUgRjcR0uc-JT9actc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Phesama",
+      "lat": 25.6152357,
+      "lng": 94.1165934,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcy07b2ohRjcRlfupoVgT33U",
+      "name": "IndianOil",
+      "address": "Ground Floor, Km Stone 191, Old NH 29, National Highway 2, Phesama",
+      "lat": 25.627491,
+      "lng": 94.109591,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRfdk24QdRjcR36MQ2nmSOAY",
+      "name": "IndianOil",
+      "address": "near Kohima Science College, Ground Floor Benreu Road, Dzuleke, near Kohima Science College, Kohima",
+      "lat": 25.6293085,
+      "lng": 93.9757754,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZz2npoyfSDcR4mVQbm6I_3Y",
+      "name": "Bharat Petroleum Gas Station",
+      "address": "AH1",
+      "lat": 25.5719164,
+      "lng": 94.12300150000002,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJRSKc0fkgRjcRuieyvCXYJ7c",
+      "name": "New Police Reserve Kohima India",
+      "address": "New Reserve Colony Road, New Reserve Colony",
+      "lat": 25.6401579,
+      "lng": 94.1127171,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvb70ga0hRjcRCuw6yx-51dQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, Mohankhola, Kohima",
+      "lat": 25.653885,
+      "lng": 94.099335,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy4L9IwCdSDcR1kyroXb53U0",
+      "name": "proposed petrol pump",
+      "address": "H5CM+7P3, Kidima",
+      "lat": 25.570626,
+      "lng": 94.1843064,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJb8WjpDchRjcRq9tfdaR9RuE",
+      "name": "IndianOil",
+      "address": "Ground Floor, Officers Hill, Kohima",
+      "lat": 25.6651127,
+      "lng": 94.1008387,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-UNeW6UhRjcRuqnrC6u1hQY",
+      "name": "SKV Petrol Pump",
+      "address": "M482+4F3, Officers Hill, Kohima",
+      "lat": 25.665275,
+      "lng": 94.101162,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJO2EXJACfSDcR8-JTkVW7bck",
+      "name": "M/S MAYO SERVICE Station",
+      "address": "Community Land, Khuzama",
+      "lat": 25.5276111,
+      "lng": 94.1353611,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZ0NbpxInRjcRcTM_7HXcqpo",
+      "name": "IndianOil",
+      "address": "Ground Floor kezo, Chakhabama",
+      "lat": 25.64321499999999,
+      "lng": 94.20337599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJi8aIGWWDSDcRWVNUSwKBiyo",
+      "name": "Kikrüma–Pfütsero Service",
+      "address": "Kohima - Meluri Road, Pfutsero",
+      "lat": 25.5750426,
+      "lng": 94.2408782,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJz2kAFeAYRjcRGviBUvT8oQ0",
+      "name": "Essar Petrol Pump",
+      "address": "P2GH+QWV, National Highway 29",
+      "lat": 25.7269824,
+      "lng": 94.02979979999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJtSviiEQfRjcRVoHk4LCOoJI",
+      "name": "IndianOil",
+      "address": "Ground Floor, Leithaka Jotsoma, Kohima",
+      "lat": 25.68848699999999,
+      "lng": 94.055673,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJG3wRl2IfRjcR3mDFEF8o2-w",
+      "name": "Halinoma Fillers' Service Station",
+      "address": "NH29",
+      "lat": 25.6884384,
+      "lng": 94.0561314,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaZtqquAhRjcR8bvvWOKh0TI",
+      "name": "IndianOil",
+      "address": "near Kohima Science College, Ground Floor Bypass Road, Ruzakhuzhu, Jotsoma, near Kohima Science College, Kohima",
+      "lat": 25.6762637,
+      "lng": 94.0765848,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgR8PzrYhRjcRm99bMeLnVT0",
+      "name": "Petrol Pump",
+      "address": "M3GP+8FQ, Kohima",
+      "lat": 25.6758319,
+      "lng": 94.0862247,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ1ZihexshRjcRvB6RnH_INFs",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 29, Kohima",
+      "lat": 25.666391,
+      "lng": 94.088313,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe6XF9LghRjcRDYR1v_4B5ck",
+      "name": "IndianOil",
+      "address": "Ground Floor, Para Medical Road, Kohima",
+      "lat": 25.668064,
+      "lng": 94.091247,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1xOoHwAhRjcRoxL3UzsOh70",
+      "name": "Nounelhoulie Enterprise",
+      "address": "M39X+RV6, New Market, Kohima",
+      "lat": 25.66953849999999,
+      "lng": 94.0996522,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJecYDFAAhRjcRLf0T65ENoOw",
+      "name": "Nee petrol puma",
+      "address": "M493+V9V, New Market, Kohima",
+      "lat": 25.6697282,
+      "lng": 94.10341299999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ-92sxOUhRjcRm9EkZKTT2Fo",
+      "name": "IndianOil",
+      "address": "Ground Floor, Daklane Road, Naga Bazar, Kohima",
+      "lat": 25.670723,
+      "lng": 94.104157,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ8pABZAhRjcRl3JI17u4Z-E",
+      "name": "IndianOil",
+      "address": "Ground Floor, Upper Bayavü Hill, Kohima",
+      "lat": 25.6876701,
+      "lng": 94.09950099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvXaAqwwhRjcRvo543MXp4EY",
+      "name": "JT Filling Station",
+      "address": "M4C4+F95, Daklane, Kohima",
+      "lat": 25.6711336,
+      "lng": 94.10596989999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLXp9UIchRjcRKJA_zK4EsQI",
+      "name": "IndianOil",
+      "address": "Plot No 675110646, near Kohima High School, NH 2, Wokha Road, High School Colony, Kohima",
+      "lat": 25.693625,
+      "lng": 94.09870199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJR_cWOo4hRjcRFBhBC8RLCjM",
+      "name": "Solo Drops fuel station",
+      "address": "M4F4+RFM, Naga Bazar, Kohima",
+      "lat": 25.6745849,
+      "lng": 94.10617429999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhz7ykDghRjcRoIwWffbq5OE",
+      "name": "IndianOil",
+      "address": "Ground Floor, near High School Area, Secretariat Road, Bayavu Hills, Kohima",
+      "lat": 25.691384,
+      "lng": 94.102913,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvWGj6yQhRjcRdGC2TLZlX4o",
+      "name": "K.K Enterprises BPCL Petrol Pump",
+      "address": "M4V3+GCC, Secretariat Road, Kohima",
+      "lat": 25.6938037,
+      "lng": 94.1035253,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpZTfYwAZRjcR37uxl5V86os",
+      "name": "S.L service station",
+      "address": "P2GM+5QW, Sechu (Zubza)",
+      "lat": 25.7254791,
+      "lng": 94.034449,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJKadooHgZRjcRbMKEPyWS6_s",
+      "name": "Wonderhill Service Station",
+      "address": "Wonderhill, Kohima",
+      "lat": 25.7253473,
+      "lng": 94.0328426,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ2ZfSkIbhRTcRTMxWedTsUpc",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sechu (Zubza)",
+      "lat": 25.7282443,
+      "lng": 94.0283707,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ62RxXgAZRjcREsEFoClo1ec",
+      "name": "Wonderhill Service Station",
+      "address": "P2HH+83W, NH29, Kiruphe",
+      "lat": 25.7283718,
+      "lng": 94.0276949,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8ztUzNshRjcRmozTuA5DG6M",
+      "name": "KVK STATION",
+      "address": "Seikhazou, BSF Camp Road, Dapfhütsumia Khel, Kohima",
+      "lat": 25.6733692,
+      "lng": 94.1177276,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ5yn_gwIjRjcRmsOkF1sN5lU",
+      "name": "IndianOil",
+      "address": "Ground Floor NH 2, Kohima, Road, Meriema",
+      "lat": 25.7283322,
+      "lng": 94.0769777,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUW9E4EwZRjcRj9Aik4RKopA",
+      "name": "Bharat Petroleum, Petrol Pump -Theja Service Station",
+      "address": "ZUBZA PO AND DIST KOHIMA, Kohima",
+      "lat": 25.7321017,
+      "lng": 94.0260674,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHyFXESQhRjcRPqsU579ApPM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sharlakie D Khel",
+      "lat": 25.672995,
+      "lng": 94.121831,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbYTRU2sjRjcRp8ox0ATVPZo",
+      "name": "T I R STATION Kohima, Bharat Petroleum",
+      "address": "P484+8XX, near N P S C, Kohima-Mokokchung Road, N H, Thizama",
+      "lat": 25.7158659,
+      "lng": 94.1074782,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ27CNqyUpRjcRnO_F4ril16o",
+      "name": "IndianOil",
+      "address": "Ground Floor, Chetheba Hq",
+      "lat": 25.672978,
+      "lng": 94.26544799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4am9GwAjRjcRoZLzjLTNXYk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 2, Kohima-Mokokchung Road, Guju, Kohima",
+      "lat": 25.7355701,
+      "lng": 94.08326009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ47Xq6AjRjcRshuEYQ072B0",
+      "name": "LB Service Station",
+      "address": "P3PM+69, Phezha",
+      "lat": 25.7356022,
+      "lng": 94.0834532,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJK6YWbL4bRjcRWuZn5bqW_Gk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Tsiese Basa, Mengujuma",
+      "lat": 25.7511677,
+      "lng": 93.9822622,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-cC0LwAjRjcR39HA8nLJSSA",
+      "name": "Indian Oil petrol pump",
+      "address": "R46Q+CX5, National Highway 2",
+      "lat": 25.7848708,
+      "lng": 94.116756,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ692oTZIjRjcR51PRK8wji5g",
+      "name": "Marcofed Highway Filling Station Bharat Petroleum",
+      "address": "Q4RJ+48V, Kohima",
+      "lat": 25.7903573,
+      "lng": 94.13080910000001,
+      "open_now": null
+    }
+  ]
+}

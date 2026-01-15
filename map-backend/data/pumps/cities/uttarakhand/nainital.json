@@ -1,0 +1,227 @@
+{
+  "city": "Nainital",
+  "state": "Uttarakhand",
+  "count": 27,
+  "center": {
+    "lat": 29.3833,
+    "lng": 79.4667
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJSaHy0Bh1CjkRHopt_J9ahVg",
+      "name": "Ganga Filling Station",
+      "address": "78PX+45W, Kaladhungi",
+      "lat": 29.2853743,
+      "lng": 79.3479638,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJW5obm_Z1CjkRMFTU3YE9dVU",
+      "name": "Bharat Petroleum Petrol Pump , NAVDURGA SERVICE STATION",
+      "address": "Kaladhungi",
+      "lat": 29.288436,
+      "lng": 79.34405199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy3AXELV1CjkRDiHllm6DbFk",
+      "name": "IndianOil",
+      "address": "Ground Floor Haldwani, Bazpur Rd, Kaladungi, Bail Pokhra",
+      "lat": 29.29373299999999,
+      "lng": 79.33739,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbduF0md3CjkRNhAzN3VL4FY",
+      "name": "IndianOil",
+      "address": "Ground Floor Gulzarpur, Banki, Kaladhungi",
+      "lat": 29.2669025,
+      "lng": 79.3523,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkYvJRfF3CjkR9af8TNM_BIw",
+      "name": "Jahoor filling station",
+      "address": "7983+H2R, Guljarpur, Kaladhungi",
+      "lat": 29.2664826,
+      "lng": 79.3525105,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJT0O1W_qhoDkRYtYpykooY5s",
+      "name": "IndianOil",
+      "address": "Ground Floor, near High Court, Thandi Sadak, Tallital, Nainital",
+      "lat": 29.38001,
+      "lng": 79.46209999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWRo5LkaZoDkR96IKTx_ZpsQ",
+      "name": "Jeolikote Petrol Pump",
+      "address": "Unnamed Road, Smanora Range",
+      "lat": 29.3396203,
+      "lng": 79.4842381,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJf2VfvLuZoDkRMiLe6D_1Pgs",
+      "name": "Nainital filling Station",
+      "address": "Jeolikote",
+      "lat": 29.3396692,
+      "lng": 79.4841695,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7R3lA7-ZoDkRlAlG0YMunqY",
+      "name": "Almora Filling Station",
+      "address": "08, Bareilly - Nainital Road, Nainital",
+      "lat": 29.34296789999999,
+      "lng": 79.4827383,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmyyibxOaoDkRp7nsCFfPFOg",
+      "name": "IndianOil",
+      "address": "Harishtal, Ground Floor, Kathgodam Kathgodam Haldwani Road, Near, Bareilly - Nainital Road, Nainital",
+      "lat": 29.2645056,
+      "lng": 79.54421260000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRYSaOnqboDkRyxfdFw5GUoE",
+      "name": "IndianOil",
+      "address": "opposite Maa Sheetla Mandir, Ground Floor Ranibagh, Haldwani Nainital Rd,Harishtal, opposite Maa Sheetla Mandir, Nainital",
+      "lat": 29.2818034,
+      "lng": 79.5449927,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH21HCnqboDkRA1xPXBc4gSM",
+      "name": "Maasheetla Filling Station",
+      "address": "7GJW+P24, Smanora Range",
+      "lat": 29.281729,
+      "lng": 79.545001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1902d4qZoDkRwd0clETh-1Q",
+      "name": "Jio-bp pulse",
+      "address": "June Estate Road, Bhimtal",
+      "lat": 29.3493501,
+      "lng": 79.54679809999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrTLmCSKYoDkRyssJZD5oi0I",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bhimtal",
+      "lat": 29.3548476,
+      "lng": 79.5538523,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJK_jSWxOaoDkRaGPgcpSj_eg",
+      "name": "Bharat Petroleum Petrol Pump R. A. Narmain And company",
+      "address": "87, National Highway, Kathgodam, Haldwani",
+      "lat": 29.2632252,
+      "lng": 79.5437894,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJc-6hqWyaoDkR_bhxtUNrAig",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Kathgodam, Nainital",
+      "lat": 29.26176199999999,
+      "lng": 79.543658,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-zNAUlWZoDkRWyHfeEDkjrQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, SH 10, Bhimtal Road, Aanu",
+      "lat": 29.3632718,
+      "lng": 79.5542201,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB9MxzRGYoDkRwvo2uA0PpQ0",
+      "name": "Bhimtal Petrol Pump",
+      "address": "Bhimtal Bhowali Road, Bhimtal, Bhimtal",
+      "lat": 29.3649066,
+      "lng": 79.5463601,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJO93gMpiboDkR2EYcQP4myDA",
+      "name": "Bharat Petroleum, Petrol Pump -R.A.Nariman & Co.",
+      "address": "NAINITAL RD,KATHGODAM,NAIN",
+      "lat": 29.2503339,
+      "lng": 79.5408027,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBTmk-26boDkRwJ6YwHDCJC0",
+      "name": "IndianOil",
+      "address": "Ground Floor, Damuwadunga Bandobasti, Haldwani",
+      "lat": 29.2495862,
+      "lng": 79.537081,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkxyeVn6joDkRBA_EwJbUeLQ",
+      "name": "Roadways workshop",
+      "address": "9GHG+CV3, Bhowali-Bhimtal-Haldwani Rd, Bhowali - Bhimtal Road, Nagri Gaon",
+      "lat": 29.3785001,
+      "lng": 79.52717779999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJRTw4ib-hoDkRrwNpSowMmds",
+      "name": "IndianOil",
+      "address": "Ground Floor Sukhatall, Khurpatal",
+      "lat": 29.3927001,
+      "lng": 79.4459,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqYvjlCILCjkRfJd_IvHABcU",
+      "name": "Petrol Pump",
+      "address": "98JG+G72, Nathunager",
+      "lat": 29.3812548,
+      "lng": 79.3256285,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl72EZmKioDkR13js-3nCjEA",
+      "name": "T J Petrol Pump",
+      "address": "9GQ7+RP7, Sukha",
+      "lat": 29.38952959999999,
+      "lng": 79.5142975,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNf0Be2KioDkR3u1GFu4eqV8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Almora Road, Bhowali, Nainital",
+      "lat": 29.3896117,
+      "lng": 79.51483189999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJU9OlcyOkoDkRDGYM6K1A1q8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, SH 37, Haldwani Almora Road, Khairna, Nainital",
+      "lat": 29.4910927,
+      "lng": 79.47924569999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ18VsAVS7oDkR65rBIaMLY_Q",
+      "name": "Nayara Petrol Pump - Ashirvad Filling Station Nathuwakhan",
+      "address": "Nathuakhan",
+      "lat": 29.4748199,
+      "lng": 79.6067552,
+      "open_now": true
+    }
+  ]
+}

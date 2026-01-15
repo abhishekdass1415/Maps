@@ -1,0 +1,875 @@
+{
+  "city": "Davangere",
+  "state": "Karnataka",
+  "count": 108,
+  "center": {
+    "lat": 14.4833,
+    "lng": 75.9167
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJAXVIbsMxujsRgx0wpui34Ik",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Devarabelakere",
+      "lat": 14.3998389,
+      "lng": 75.8351413,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJiQacspEvujsR-_80yPyL9-g",
+      "name": "Bharat Petroleum Fuel Station. BASAVESWARA HIGHWAY STATION.",
+      "address": "Davanagere-Harihar Bypass, Davanagere",
+      "lat": 14.4474149,
+      "lng": 75.8860941,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJa59KDmIlujsROVedhEsI50M",
+      "name": "IndianOil",
+      "address": "L No 210 Block A, 11th Cross, Road, Shamanur, Davanagere",
+      "lat": 14.446441,
+      "lng": 75.900429,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe7y7UGIlujsRw_yJJfxyVMQ",
+      "name": "Bharat Petroleum Fuel Station",
+      "address": "CWX2+7R5, Shamanur Road, Siddaveerappa Layout, Davanagere",
+      "lat": 14.4481487,
+      "lng": 75.9021173,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm42idYwtujsR_6KHh2ajGUw",
+      "name": "Bharat Petroleum Fuel Station || Near Belludi || 12 Km from Harihar",
+      "address": "CQ8H+4JX, Davanagere",
+      "lat": 14.4153702,
+      "lng": 75.77909679999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJh8Hw2bgtujsRDZYQupI8D-g",
+      "name": "HP Petrol Pump",
+      "address": "Shimoga - Harihar - Hospet Road, Byeladahalli",
+      "lat": 14.4391064,
+      "lng": 75.7810756,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS1rh6yEvujsR0wQT3RX263Y",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Bhadra Sugar Factory, PB Road, Doddabathi",
+      "lat": 14.482904,
+      "lng": 75.85898399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmS_xACsxujsRErseCMYPkuI",
+      "name": "MRPL-HIQ Akash Fuel Station",
+      "address": "Jarikatte",
+      "lat": 14.4111294,
+      "lng": 75.8650615,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuTcVwoUxujsRe8PieEtij3M",
+      "name": "Shri Renukamba Petroleum",
+      "address": "9RXM+W83, Devarabelakere",
+      "lat": 14.3997607,
+      "lng": 75.8332922,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYfdaOd2lyzsRdMTPdbMuBrw",
+      "name": "IndianOil",
+      "address": "Lock No 203, near CG Hospital, Shyabanur, Harihar, Miltakatte",
+      "lat": 14.4234944,
+      "lng": 75.8738399,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS_Q8GwAvujsRWjXBgk1rLOo",
+      "name": "Basaveswara Highway Station",
+      "address": "FV5G+V37, Kunduwada",
+      "lat": 14.4596548,
+      "lng": 75.875181,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ-yMGyCgyujsRiWptW7nSJ78",
+      "name": "Budihal Petrol Bunk",
+      "address": "Budihal,Harihara Talluk,Davangere District,PIN CODE- 577530",
+      "lat": 14.3755946,
+      "lng": 75.801807,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJS_HxC34wujsRvVyMe6alZIM",
+      "name": "IndianOil",
+      "address": "Lock No 221, Sy No 2/3, Battalkatte Road, Hadadi",
+      "lat": 14.3724643,
+      "lng": 75.8943802,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJge91ORs7ujsRo5sLmuepPr0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Javalagatta, Hadadi",
+      "lat": 14.384421,
+      "lng": 75.903651,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHYSYg74xujsRKrE17E_76FA",
+      "name": "Bharat Petroleum Petrol Pump , SREE VINAYAKA FILLING STATION",
+      "address": "HADADI, SH-65DAVANGERE TALUQ, Davanagere",
+      "lat": 14.37138,
+      "lng": 75.89446,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl7gWfFIlujsRDhkXRWJwrI0",
+      "name": "IndianOil",
+      "address": "Survey No, 24/3, Channagiri Rd, Vidyanagar, Shiramagondanahally Hosabadavne",
+      "lat": 14.4259669,
+      "lng": 75.9147536,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpSkGuJUtujsRPGGe8uxGwp8",
+      "name": "IndianOil",
+      "address": "L No 316, Yakkegondi",
+      "lat": 14.4304626,
+      "lng": 75.7795135,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJVlHo5MlujsRM-quWybqOFk",
+      "name": "Indian Oil Petrol Pump",
+      "address": "near Davangeere, Survey No49 Honnuru, near Davangeere, National Highway 48, Gollarahatti",
+      "lat": 14.4354367,
+      "lng": 75.9125923,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTUoIHHYyujsRQTmi7VeZFgY",
+      "name": "IndianOil",
+      "address": "Lock No 249, Lakshattihalli Road, College Road, Chitradurga",
+      "lat": 14.4091001,
+      "lng": 75.776701,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9cSUs20vujsRbRaFR_Mgo1E",
+      "name": "IndianOil",
+      "address": "IOC DEALERS, DSS FUEL SOUK, near GMIT COLLEGE, 510, Davangere - Harihar Road, Davanagere",
+      "lat": 14.4753736,
+      "lng": 75.88045699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwyOHe0_YuzsRdOdKwMkrIv4",
+      "name": "IndianOil",
+      "address": "Survey No 50/4, Lock No 204, Shimoga Rd, Bellodi, Harihar",
+      "lat": 14.46392,
+      "lng": 75.79492859999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHeJhpkAlujsRD6ESdJ5bk9g",
+      "name": "BP Petrol Pump",
+      "address": "Door No:599, Hadadi Road, Opposite Vani Rice Mill, Shivakumar Swamy Nagar, Davanagere",
+      "lat": 14.4388585,
+      "lng": 75.9233899,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeY_kpUAlujsRqQry7RNUbOE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "CMC 596/C, opposite Vani Rice Mill, Channagiri Road, Davanagere",
+      "lat": 14.440386,
+      "lng": 75.92309399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm9Wxhj8lujsRiRawDLBJsZk",
+      "name": "IndianOil",
+      "address": "L No, 207, Hadadi Road, Nituvalli, Davanagere",
+      "lat": 14.441534,
+      "lng": 75.92231100000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKwnA4WolujsRAGa1kHw85mk",
+      "name": "Bharat Petroleum - CNG Station - M M Krishna and Associates",
+      "address": "KST 805026846768, Hadadi Road, Davanagere",
+      "lat": 14.4439414,
+      "lng": 75.92131429999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWwVp0HslujsRGmGk22_NMLU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Door No 3714, near Laxmi Flour Mill, A5 & 6, Shamanur Road, Davanagere",
+      "lat": 14.456844,
+      "lng": 75.907901,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJiaL1LA8lujsRN-Th2espYC4",
+      "name": "Bharat Petroleum Vishwas CNG fuels station",
+      "address": "State Highway 76, Neelammana Thota, Bhagat Singh Nagar, Nittuvalli, Davanagere",
+      "lat": 14.4586383,
+      "lng": 75.9321915,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJia0JEHUlujsRfrPaSfFwG7I",
+      "name": "Sri Jayadeva service station",
+      "address": "Ambedkar Circle, Hadadi Road, Davanagere",
+      "lat": 14.461811,
+      "lng": 75.92089690000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8ZpwpqElujsRfSLiPfGuhxw",
+      "name": "IndianOil",
+      "address": "No 118, 1/P, L No 233, KR Road, Davanagere",
+      "lat": 14.4677713,
+      "lng": 75.92575330000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGzX1GoQlujsR1TDyj_tHUNU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "823, PB Road, Davanagere",
+      "lat": 14.469247,
+      "lng": 75.906885,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpWX4f007ujsRPrZrBiU0kYY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor NH 4, PB Road, Honnur, H Kalapanahally",
+      "lat": 14.419301,
+      "lng": 75.981027,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJI_rypLslujsRsKZctSI5jzM",
+      "name": "IndianOil",
+      "address": "Sy No 142/3B&3C, L No 193 Anaji, Davanagere, Road, Davanagere",
+      "lat": 14.479521,
+      "lng": 75.930801,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKbL3pjMlujsRWAhxNZ8JHb4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Lokikeri Road, Industrial Area, Sar Nagar, Davanagere",
+      "lat": 14.422076,
+      "lng": 75.931106,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS_Onb5UlujsRNvaioQfbaVQ",
+      "name": "SP Auto LPG Davanagere",
+      "address": "DOOR NO- 596,SURVEY NO-37/3B NITUVALLI VILLAGE NITUVALLI, VILLAGE, Davanagere",
+      "lat": 14.441007,
+      "lng": 75.922857,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkUXuIgAlujsRgfY_LL6JlnI",
+      "name": "Maganur Basappa Petrol Bunk",
+      "address": "CWRF+M34, Hadadi Road, Shivkumar Swamy Nagar 1st Stage, Shivakumara Swamy Nagara, Davanagere",
+      "lat": 14.4416399,
+      "lng": 75.9227133,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGX0cHZElujsRtKgio30XPPA",
+      "name": "Shree Durganjeneya fuel service -- bharat petroleum",
+      "address": "Hi-tech hospital, Sai balaji enclave, road, Shakthi Nagar, Davanagere",
+      "lat": 14.4358027,
+      "lng": 75.9402989,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjfMiMA0lujsRW3UY-Gt2c8Y",
+      "name": "MARIYA SERVICE STATION",
+      "address": "India",
+      "lat": 14.4547509,
+      "lng": 75.9237261,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJIW0aAHMlujsR63V3xMNhtNU",
+      "name": "IndianOil",
+      "address": "L No, 222, Hadadi Road, Shivakumara Swamy Nagara, Davanagere",
+      "lat": 14.455495,
+      "lng": 75.919991,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJn9kugTMlujsRmzAKiUBMBOM",
+      "name": "Food Meal",
+      "address": "Sri Ranganatha Nilaya, DCM Township, Davanagere",
+      "lat": 14.454355,
+      "lng": 75.9343746,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJR3l40vElujsR7qvO_5FBC48",
+      "name": "HP Petrol Pump CNG PUMP",
+      "address": "S O G Colony, Shri Ramanagara, Davanagere",
+      "lat": 14.4392556,
+      "lng": 75.9541649,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhzH6HG0lujsRrcEEmoDgiRQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Avaragere, Davanagere",
+      "lat": 14.438972,
+      "lng": 75.954542,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsaog1QglujsRDZ19sEHs_ls",
+      "name": "Reliance Petroleum",
+      "address": "Door No 376, opposite Gowshala, 31/32, PB Road, Avaragere, Davanagere",
+      "lat": 14.4506203,
+      "lng": 75.9424054,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0aG42qU7ujsRo8IHAKqXroQ",
+      "name": "IndianOil",
+      "address": "L No 220 85, Turchagatta",
+      "lat": 14.3677452,
+      "lng": 75.9265559,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9bYw7yklujsRi6LihBJGMVY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Bada Cross, Voddinahalli",
+      "lat": 14.432032,
+      "lng": 75.96164499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVTQ64BU7ujsR9GPjtjlOGWE",
+      "name": "IndianOil",
+      "address": "near Kuvempu, Lock No 195 Tholahunse, Anagodu, Hobli, Basavanahal, near Kuvempu, Road, Bada",
+      "lat": 14.3969125,
+      "lng": 75.9637587,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ56h4gwklujsRAJ7dk0zdr5g",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "opposite New Bus Stand, 247, PB Road, Davanagere",
+      "lat": 14.461701,
+      "lng": 75.9294401,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ78ZeZQklujsRj6V2aCKwWzk",
+      "name": "IndianOil",
+      "address": "State Highway 76, near KSRTC BUS STAND, PB Road, KB Extension, Davanagere",
+      "lat": 14.4629139,
+      "lng": 75.9278253,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJp4C1PgAlujsR66ziqElz7BM",
+      "name": "ಶ್ರೀ ಅಯ್ಯಪ್ಪ ಸ್ವಾಮಿ MRPL FUELS",
+      "address": "FW7C+QP6, Halebathi",
+      "lat": 14.4644085,
+      "lng": 75.921758,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJL7ng6nglujsRxhPiT9M8OHM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 52/4, Voddinahalli",
+      "lat": 14.429384,
+      "lng": 75.969146,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL00bODklujsRiX2fGhu37NI",
+      "name": "Bharat Petroleum, Petrol Pump -Sanketh Fuels",
+      "address": "KR Road, Davanagere",
+      "lat": 14.4680043,
+      "lng": 75.9224741,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx1jbS-UlujsRYXu6SyZvnh0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "924, R.M.C, Door No 923, 1 & 2, Bamboo Bazar Road, Davanagere",
+      "lat": 14.467655,
+      "lng": 75.930754,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqe7F46YlujsRWbBHmasg0ss",
+      "name": "HP PETROL PUMP - SRI BALAJI PETROLEUMS",
+      "address": "Door NO 923 1 and 2 ,924, R M C, FW9J442, HPC Dealers, Main Rd, Bamboo Bazar, Davanagere",
+      "lat": 14.4677415,
+      "lng": 75.9307422,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXVswh6ElujsRXuHc1tOPjJQ",
+      "name": "Sri Harihareshwara Service Station",
+      "address": "FW9G+V6Q, opp LIC, PB Road, Harihar",
+      "lat": 14.4697,
+      "lng": 75.9256,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJk7FdmIYlujsRAGD63EbDRKs",
+      "name": "IndianOil",
+      "address": "L No 260, Block A, PB Road, Devaraja URS Layout, Davanagere",
+      "lat": 14.4702361,
+      "lng": 75.9050894,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ69SNFoclujsRbWHXqlCU8Vg",
+      "name": "Confidence petroleum India LTD.... GOGAS LPG BUNK",
+      "address": "FWC3+375, Ellamma Nagar, Vinobha Nagar, Davanagere",
+      "lat": 14.4701315,
+      "lng": 75.9032464,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJD_hg6qIlujsRJIEC4NVjrMU",
+      "name": "UJJHALA FUELS AND SERVICES. BPCL DEALER",
+      "address": "1924/2A, TELEGI UJJAPPA LAYOUT, P.B.ROAD, Vinayaka Nagar, Davanagere",
+      "lat": 14.4707342,
+      "lng": 75.9001014,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ717THksvujsRhycpoXZhkdc",
+      "name": "SHELL Davanagere",
+      "address": "Harihar Road, Davanagere",
+      "lat": 14.472296,
+      "lng": 75.893283,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkYcFe2ElujsRn_z5SxvDkn0",
+      "name": "Sanketh Fuels",
+      "address": "opp. ASHOKA THEATER, 118/1A, KR Road, Davanagere",
+      "lat": 14.4760329,
+      "lng": 75.9254905,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEV7StblbujsRf4CXg9KXPjo",
+      "name": "Bharat Petroleum, Petrol Pump -Sri Shiva Service Station",
+      "address": "Anekonda, Davanagere",
+      "lat": 14.4771225,
+      "lng": 75.92874139999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSS1DfhA7ujsRm3NgEmVjukQ",
+      "name": "IndianOil - SWAGAT",
+      "address": "Sy No 49, National Highway 48, Honnur",
+      "lat": 14.4133669,
+      "lng": 75.9855745,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ32dEro4lujsRPMLgw_bSEbo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Door No 1300/C, 38, Survey No 131, 1A/5, Kondajji Road, Devraj Extension, Davanagere",
+      "lat": 14.479467,
+      "lng": 75.906382,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJD2tbPFI7ujsRnlDY2FmR4Qc",
+      "name": "Siddheshwar Petroleum",
+      "address": "S. No. 19 P, Honnur Golarhatti, Tal. & Dist",
+      "lat": 14.413452,
+      "lng": 75.98587,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxdMA8JMlujsRLRu-bgZkkkA",
+      "name": "Sree Banashankari Service Station",
+      "address": "Sree Banashankari Service Station, opposite to Samudaya Bavan, Shamanur Road, Shamanur, Davanagere",
+      "lat": 14.48137,
+      "lng": 75.916586,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJkSZ2dwAlujsRG1z_qtuN98Q",
+      "name": "SHRI MAILARALINGESHWARA FUELS",
+      "address": "SM Krishna nagar, S J M Nagar, Apache Nagar, Davanagere",
+      "lat": 14.4819592,
+      "lng": 75.90756619999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaUowUQAlujsR_cSeiWV5A2U",
+      "name": "Shiva Shakti Fuel Station",
+      "address": "759/4 & 759/5, Kondajji Road, Devaraj Urs Badavane, Davanagere",
+      "lat": 14.4819637,
+      "lng": 75.90201239999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ0SP0iYolujsRSU679ZR5yc0",
+      "name": "Devanagari HP Gas Storage",
+      "address": "FWM2+29W, Kondajji Road, Davanagere",
+      "lat": 14.4826103,
+      "lng": 75.9009402,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJNxysaJMlujsRrfdLINgEWfc",
+      "name": "IndianOil",
+      "address": "Survey No 52/5 Ring Road, Doddabudihal Road, Davanagere",
+      "lat": 14.485026,
+      "lng": 75.91669499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmX9Olug8ujsRn0Z2q_fUs7c",
+      "name": "Bharat Petroleum Basavashree Petroleum Centre",
+      "address": "National Highway 4 On the left of NH4, Towards Bangalore, 2 kms before Anagodu village,, Davanagere",
+      "lat": 14.3976372,
+      "lng": 76.0289138,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ68jk9xI9ujsRiCgDWQW28h0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "S No 211/4, Anagodu",
+      "lat": 14.3966619,
+      "lng": 76.02869849999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJr4gtotc9ujsRJmRBR_fMW2E",
+      "name": "SRI BASAVESHWARA PETROLEUMS HPCL BUNK",
+      "address": "NH4, Anagodu",
+      "lat": 14.3954841,
+      "lng": 76.0343736,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUY_jpwQ9ujsR_47QCsd9rPg",
+      "name": "IndianOil",
+      "address": "Survey No 234/6, Lock No 164, Holalkere Road, Basavanahal, Anagodu",
+      "lat": 14.390909,
+      "lng": 76.045116,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxzXtD6w7ujsRPPGKBmZVa30",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Hiretogaleri",
+      "lat": 14.348532,
+      "lng": 75.980281,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0-tzEC8jujsRWgkMHzplERg",
+      "name": "Sri Marulasiddeshwara Fuel Station",
+      "address": "Sy.No:8/5, H.Giriyapura, Boragondanahalli cross, Anagodu Hobli",
+      "lat": 14.4778873,
+      "lng": 76.0128773,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoeXi_f8rujsRIRj4yW9qpMA",
+      "name": "IndianOil",
+      "address": "Lock No 213, Harihara Fort, opposite LIC Office, Vidyanagara, Harihar",
+      "lat": 14.5028392,
+      "lng": 75.8065694,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpevziWMpujsRGEJE0J0fiQk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Harapanahalli Road, Harlapur, Davanagere",
+      "lat": 14.532867,
+      "lng": 75.812587,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjX-o2tovujsRXVUr_cEerkk",
+      "name": "Mahadevi Fuels | Bharat Petroleums |CNG available| Mahajenahalli",
+      "address": "FRH7+GGC, Mahajenahalli",
+      "lat": 14.4788096,
+      "lng": 75.81377239999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm59qyVEpujsRQoO3I4ysixY",
+      "name": "IndianOil",
+      "address": "No 183, Fort, Harihar",
+      "lat": 14.511057,
+      "lng": 75.817318,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMbu0LBEpujsRge0DdJ-VsJQ",
+      "name": "IndianOil",
+      "address": "Lock No 199, PB Road, Harihar",
+      "lat": 14.5119539,
+      "lng": 75.8156657,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqb5kcI4tujsR5U0s5CBFkxs",
+      "name": "IndianOil",
+      "address": "Sy No 68/6, Mahajenahalli",
+      "lat": 14.4842268,
+      "lng": 75.80352239999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJQ_u-JT0tujsR_d6qN8yqTlk",
+      "name": "L.P.G Go Gas || Vidya Nagar || Harihar",
+      "address": "balaji oil mill a-block, Renuaka Nilaya, 25, State Highway, Opp:, Vidyanagara, Harihar",
+      "lat": 14.5000926,
+      "lng": 75.80713949999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQxdeyx0sujsRo-6-ND7bd1s",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Sy No 69, 9 SH 25, Harihar",
+      "lat": 14.486322,
+      "lng": 75.802989,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYypsxfwtujsRSBZHpGzpado",
+      "name": "Bharat Petroleum Petrol Pump , IRANI SALES & SERVICES",
+      "address": "State Highway 25, Harihar",
+      "lat": 14.476102,
+      "lng": 75.802315,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6QOZMVcpujsRmOaNMXAuxxE",
+      "name": "Reliance Petroleum",
+      "address": "S No 8/5, opposite SJVP College, Old, PB Road, Harihar, Davanagere",
+      "lat": 14.5120833,
+      "lng": 75.81244439999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdZfRK_4rujsRMPwNhLJz1EQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, beside Irrigation Department Office, Shimoga Road, Harihar, Davanagere",
+      "lat": 14.505508,
+      "lng": 75.806743,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdWSGSf8pujsRGMXWkeNvrs8",
+      "name": "GREEN AUTO GAS Propel Auto LPG",
+      "address": "GR76+F62, Harihar",
+      "lat": 14.5136495,
+      "lng": 75.8105202,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJvbbW35tRuzsRGwy7AtIiqF0",
+      "name": "IndianOil",
+      "address": "Survey No 109, Harihar Kondajji Road, Kakkaragolla",
+      "lat": 14.5275755,
+      "lng": 75.8715023,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAaCjh2QpujsREXgde1S3I3U",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 14.5341548,
+      "lng": 75.8132988,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ_dNu_XopujsRXErCl3TLygQ",
+      "name": "IndianOil",
+      "address": "Sy No 124/L, No 189, Fort, Harihar",
+      "lat": 14.5392601,
+      "lng": 75.81570099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpVpPPtUlujsR3eDlsYJLOb8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gr Floor, SH 150, Davanagere - Harapanahalli Road, B.Kalapanahalli",
+      "lat": 14.498544,
+      "lng": 75.92666299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJc3SgSUokujsR1iA5sgRmK00",
+      "name": "IndianOil",
+      "address": "State Highway 65",
+      "lat": 14.4860259,
+      "lng": 75.9505428,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1VeVOVknujsRKBVkuK-f0sU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Malagondanahalli",
+      "lat": 14.535132,
+      "lng": 75.930949,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6yHAQ-wnujsRFtp1ukadvNg",
+      "name": "IndianOil",
+      "address": "No 69, L No 231, Maragondana, Avaragolla",
+      "lat": 14.5480205,
+      "lng": 75.9350924,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkctiDGAjujsR6qJqDo8DJgg",
+      "name": "Shree Krishna Filing Station",
+      "address": "Nagendranaik Alurhatti, Sriramanagara",
+      "lat": 14.480115,
+      "lng": 76.0193821,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJKwAlbsUmujsRB-nO5jnC8j0",
+      "name": "IndianOil",
+      "address": "Lock No 223, Survey No, 361/A1, Hapanahalli, Hiremegalagere",
+      "lat": 14.5448464,
+      "lng": 75.97999279999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfyNzyb8rujsR8WLGLvb7Z4s",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kumarapatnam, Harihar",
+      "lat": 14.5247264,
+      "lng": 75.7811722,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg5M9t7opujsRhTK2g3ky2V8",
+      "name": "Shri Laxmi Venkateshwara Fuels || Bharath Petroleum || Harihar",
+      "address": "SY. NO. 63/7 DEETURU VILLAGE,a DEETURU CROSS, TALUK, Harihar",
+      "lat": 14.567257,
+      "lng": 75.8296514,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJ241zTiYpujsRYoUal2dwt8A",
+      "name": "IndianOil",
+      "address": "Survey No 25/5, Karalahalli Harihar Harapanahalli Rd, Fort, Harihara",
+      "lat": 14.581146,
+      "lng": 75.837029,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHwuA-FApujsR56jN8puA3Mg",
+      "name": "IndianOil",
+      "address": "Sy No 40/2, Kurubarahalli, Harapanahalli",
+      "lat": 14.5960846,
+      "lng": 75.8438147,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4Y1I2FyHuTsRCnSY89snKX0",
+      "name": "A R M FUELS",
+      "address": "Sy no 40/2, kurubarahalli Harapanahalli road, harihar",
+      "lat": 14.596164,
+      "lng": 75.84408169999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg4AIGuCHuTsRc9ZvCtdJgsw",
+      "name": "IndianOil",
+      "address": "Survey No 46/1, Hotteganahalli, Harihara Fort, Harihar",
+      "lat": 14.606051,
+      "lng": 75.848169,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjbXFZtwnujsRZigd5NHx0Zo",
+      "name": "HP",
+      "address": "India",
+      "lat": 14.5723296,
+      "lng": 75.9081605,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ8ZTXJlUnujsRb82Je8jZFNI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Harihar, Kondajji",
+      "lat": 14.572415,
+      "lng": 75.90824099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJafQ7u-uHuTsRsQFEIAAMAn0",
+      "name": "Sri Mohanlal Fuel Station",
+      "address": "Duggavathi",
+      "lat": 14.617782,
+      "lng": 75.85526879999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJecN12k6HuTsROLBX6lvjdPE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "S No 61EF, Harapanahalli, Duggavathi",
+      "lat": 14.6180741,
+      "lng": 75.8558588,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJv76GFZ6HuTsR9a0dcSLU2So",
+      "name": "Bharat Petroleum, Petrol Pump -Sri Revanasiddeshwara Petroleums",
+      "address": "Duggavathi",
+      "lat": 14.6198866,
+      "lng": 75.8570695,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8Xdh0_QrujsRM4Crgk5SThA",
+      "name": "Bharat Petroleum, Petrol Pump & CNG filling -Parimala Enterprises",
+      "address": "Ranibennuru, Harihar",
+      "lat": 14.5262635,
+      "lng": 75.7792939,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVVVVFe-JuTsREO8DNtYwv9U",
+      "name": "IndianOil",
+      "address": "Davanagere - Harapanahalli Road, Kanchikere",
+      "lat": 14.6111409,
+      "lng": 75.9743237,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLWJc60wgujsRYNx_ltZw4EI",
+      "name": "IndianOil",
+      "address": "No 224 BCD/A, L No 226 Uchangidurga, Harpanahalli, Satturu",
+      "lat": 14.564894,
+      "lng": 76.055071,
+      "open_now": true
+    }
+  ]
+}

@@ -1,0 +1,867 @@
+{
+  "city": "Solapur",
+  "state": "Maharashtra",
+  "count": 107,
+  "center": {
+    "lat": 17.6833,
+    "lng": 75.9
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJtetIInnRxTsRXxJqJTkKgos",
+      "name": "HP Petrol Pump",
+      "address": "MR87+VJR, Solapur",
+      "lat": 17.6672395,
+      "lng": 75.8140299,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJzXxn_HjRxTsRzzAt85BeqLM",
+      "name": "IndianOil",
+      "address": "Gat No 145, near Jawaharlal Nehru Vastigrah, Belati",
+      "lat": 17.6680988,
+      "lng": 75.8151507,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUbtdJABXxjsRlBDIFj0hBJQ",
+      "name": "Shir sharanbasaveshwar petroleums HP",
+      "address": "Ground floor, NH 13, Vijayapur - Solapur Road",
+      "lat": 17.6112377,
+      "lng": 75.8886911,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJi-BkUADRxTsR9KPUts7X3N8",
+      "name": "CNG AKKALWADE SOLAPUR KOLHAPUR ROAD",
+      "address": "MR9V+C77, Degaon",
+      "lat": 17.668388,
+      "lng": 75.843909,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZ0JwUEjRxTsRiNk5S3JveAo",
+      "name": "IndianOil",
+      "address": "Gat No 140, Jawaharlal Nehru Basaveshwara Ngr, 1/A/1/A/2, Solapur",
+      "lat": 17.6686858,
+      "lng": 75.8438725,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJW4WokP7QxTsRiXFT5gVQrmg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "SH 3, Gat No 146, 1/A, Sangola - Mangalwedha - Solapur Road, Solapur",
+      "lat": 17.6692252,
+      "lng": 75.8141322,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXXTqeQDRxTsRrTVvv2XFOgM",
+      "name": "TATA DEF",
+      "address": "MRCM+PGP, Solapur",
+      "lat": 17.6718311,
+      "lng": 75.8338246,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJucq821zXxTsRGgV_jo5o3ig",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 8/1, Solapur Vijapur Road, NH 52, North, Soregaon, Solapur",
+      "lat": 17.6096674,
+      "lng": 75.8929816,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7TAhI2TXxTsRC5xpgMjsatI",
+      "name": "M/S. Sneha Bharatgas Agency",
+      "address": "JV2R+5XM, National Highway 465",
+      "lat": 17.6004677,
+      "lng": 75.8924105,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJteZgUKDXxTsR4nvmTNzx14U",
+      "name": "Gas godown SRPF Camp Solapur",
+      "address": "JV8W+3X6, Unnamed Road, Swami Vivekanand Nagar, Solapur",
+      "lat": 17.615154,
+      "lng": 75.897382,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ5-XRNADXxTsRIwsPObnZw4s",
+      "name": "Inn gas Auto Lpg Pump",
+      "address": "JVHW+WVJ, near Nirmiti Lawns, Solapur",
+      "lat": 17.6298393,
+      "lng": 75.89712569999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ49iey2nRxTsRgT7qY85I4rg",
+      "name": "IndianOil",
+      "address": "NH 13, Vijapur Road, Nehru Nagar, Solapur",
+      "lat": 17.634432,
+      "lng": 75.89748399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP8U4Ru3RxTsRY6IW8iakGtw",
+      "name": "IndianOil",
+      "address": "Gat No 125/1/A Majrewadi, Jule, Solapur",
+      "lat": 17.6325964,
+      "lng": 75.8993527,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUW76gQ7RxTsRRHCWK8fyA-A",
+      "name": "KAILASH CNG FILLING STATION",
+      "address": "near Hotel Mayurvan Family Restaurant, Plot 265 & 273, Vijapur Road, Mantri Chandak Park, Jule, Solapur",
+      "lat": 17.635139,
+      "lng": 75.898955,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ9R6PnTaxTsRvk_W1TqxOeI",
+      "name": "Petrol Pump",
+      "address": "Modi Khana, Navi Peth, Solapur",
+      "lat": 17.6586381,
+      "lng": 75.904091,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJEe3PvgLaxTsR2MRJJqdfH78",
+      "name": "BPCL Petrol Pump - Shri Joshi Petroleum",
+      "address": "31/A, Bank Colony, Jule, Solapur",
+      "lat": 17.6325204,
+      "lng": 75.9103493,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP2lmcQnZxTsRqyFeB4aVGDk",
+      "name": "Bharat Petroleum Petrol And CNG Pump",
+      "address": "Airport Area, Shankar Nagar, Solapur",
+      "lat": 17.6044474,
+      "lng": 75.9499125,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJAy4EXnjaxTsRQFR04Yq-7QU",
+      "name": "IndianOil",
+      "address": "41, Railway Line, Dufferin Chowk, Solapur",
+      "lat": 17.668024,
+      "lng": 75.901268,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ076o4JLXxTsR8iq1EQpl_G0",
+      "name": "BPCL Petrol Pump",
+      "address": "National Highway 52",
+      "lat": 17.5616172,
+      "lng": 75.885669,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJW5a1EBDZxTsR8zo7AgQMUtA",
+      "name": "IndianOil",
+      "address": "Gat No, 524 & 525, Hotgi Road, Mdr 39, Antroli, Solapur",
+      "lat": 17.601184,
+      "lng": 75.958727,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm82FHV7axTsRYwSuhZruTE4",
+      "name": "Essar Petrol Pump",
+      "address": "36, Solapur - Akkalkot Road, Gandhi Nagar, Rangraj Nagar, Solapur",
+      "lat": 17.6736127,
+      "lng": 75.923069,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDT0G63_QxTsRc9KrkjgQ5sU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 8444D, Plot No 4B, Murarji Peth, Solapur",
+      "lat": 17.6785583,
+      "lng": 75.8986299,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzXIvoIjaxTsRVqZb5KOks1M",
+      "name": "BHARAT PETROLEUM",
+      "address": "MWJ6+RQV, Mangalwar Peth, Solapur",
+      "lat": 17.6821107,
+      "lng": 75.9119292,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJgYHKC_LZxTsRUhgwfeQ2BtE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 307, Kumte, Solapur",
+      "lat": 17.60785599999999,
+      "lng": 75.915763,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJO3ACmALaxTsRM-LsPGdosqA",
+      "name": "go gas",
+      "address": "India",
+      "lat": 17.632034,
+      "lng": 75.9100004,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJswTI-Q_ZxTsR0FBWI58vcFw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gat No 86/1, Pai Solapur, opposite Solapur Airport, Hotgi Road, Hatture Vasti, Solapur",
+      "lat": 17.621407,
+      "lng": 75.93422029999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3a9SPmzbxTsR2N2VEHpGuAI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 19, A/1/E, Plot No 12, North, Majarewadi, Solapur",
+      "lat": 17.6453661,
+      "lng": 75.9247991,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTS033grbxTsRDIX50MiAiMQ",
+      "name": "Bharat Petroleum Petrol and Diesel Filling Station",
+      "address": "JWWF+RQJ, Shivaganga Nagar, Solapur",
+      "lat": 17.6470806,
+      "lng": 75.9244038,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbzmLPnTaxTsR7hSYf1liCxg",
+      "name": "IndianOil",
+      "address": "No 1639, Rupa Bhavani Road, Civil Lines, Solapur",
+      "lat": 17.65675809999999,
+      "lng": 75.9069792,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM1uZNwrZxTsRGEj8yoAgLJw",
+      "name": "IndianOil",
+      "address": "India",
+      "lat": 17.6064804,
+      "lng": 75.9486257,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJUzpfBADbxTsRriwGS96ZEko",
+      "name": "Indian oil pump",
+      "address": "MW64+7MJ, Solapur",
+      "lat": 17.6607067,
+      "lng": 75.9066362,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPf7oJ0fbxTsRwVUv8Bi-CGI",
+      "name": "Prabhat Petrol Pump",
+      "address": "Bharatratna Indra Nagar 70 Pur Road, MIDC Road, New Paccha peth, Sakhar Peth, Solapur",
+      "lat": 17.6587669,
+      "lng": 75.9241976,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJO9AFRArbxTsRM4Kt3SyHid0",
+      "name": "Sri Gurukrupa Petroleum PUMP",
+      "address": "218/9, Navnath Nagar, Old Nagari Bank Building Akshwani Road, Aadarsh Nagar, Nagendra Nagar, MIDC, Solapur",
+      "lat": 17.6551436,
+      "lng": 75.93058119999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl7BybADRxTsRZEdiKTxPaDE",
+      "name": "Snehal more",
+      "address": "MV8X+2FV, Railway lines, Solapur",
+      "lat": 17.6651108,
+      "lng": 75.89866119999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJjcGFXTnXxTsRU-62OHacRrE",
+      "name": "Mauli Sales And Services",
+      "address": "Mauli Sales And Sevices, Bharat Petrol Pump, VijayPura Highway, Solapur",
+      "lat": 17.5616044,
+      "lng": 75.88580209999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJsyTJnILQxTsRjMJZVNmQVLQ",
+      "name": "Naval And Son (Petrol Pump)",
+      "address": "45-A Railway Lines, Station Road Besides St. Joseph High School, Solapur",
+      "lat": 17.6673706,
+      "lng": 75.8995446,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJt--kA9fbxTsRssSGjceKeNM",
+      "name": "Prime Fuel Auto LPG Station",
+      "address": "WIT Boys Hostel Road, New Paccha peth, Sakhar Peth, Solapur",
+      "lat": 17.6644694,
+      "lng": 75.9215207,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnaRGmDnbxTsR4Gbn2Cur160",
+      "name": "Solapur Gramin Police Petrol & CNG Pump",
+      "address": "Datta Nagar, Sakhar Peth, Solapur",
+      "lat": 17.6671878,
+      "lng": 75.9149939,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWSFqQ5_bxTsR9gdyAOTy44k",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "CTS No 10393, near Ashok Chowk, FP No 36, New Paccha peth, Solapur",
+      "lat": 17.6659534,
+      "lng": 75.9211222,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQ9BOEQDbxTsR2wHsm8rA7wc",
+      "name": "MSEDCL EV charging center",
+      "address": "MW6M+384, MIDC, Solapur",
+      "lat": 17.6604444,
+      "lng": 75.9334894,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxb1tUMvbxTsRh7_KpD05PlY",
+      "name": "Sakahi puc centre",
+      "address": "Bhavani petrol pump Ruppa bhavani mandir, old, tuljapur naka, Solapur",
+      "lat": 17.671706,
+      "lng": 75.9087247,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJg-EZBeXbxTsR9UIdJyMLb2k",
+      "name": "Akshaya Valuers & Consultants",
+      "address": "Akshaya Valuers & Consultants, 1st Floor, Sun Plaza 145",
+      "lat": 17.6750776,
+      "lng": 75.90059959999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMa3PZGbbxTsRZSg2TFUVqE8",
+      "name": "Rajdhani Petroleum(Nayara Energy)",
+      "address": "JXX3+G85, Old Kumbhari Road, New Paccha peth, Madhav Nagar, Solapur",
+      "lat": 17.6487554,
+      "lng": 75.95336,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpRSfl3_QxTsRGsRKKUQIAik",
+      "name": "Shivaji Petrol Pump - Hindustan Petroleum (HP)",
+      "address": "3, Chhatrapati Shivaji Maharaj Chowk, OLd Police Line, Murarji Peth, Solapur",
+      "lat": 17.6785645,
+      "lng": 75.89863509999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJTZKwqWLaxTsRx71WRTygN58",
+      "name": "Chadchankar Petrol Pump",
+      "address": "MWH6+3Q5, Ganesh Peth, Shaniwar Peth, Solapur",
+      "lat": 17.6776317,
+      "lng": 75.9119888,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCWBllODbxTsRxpfrb-LV1l0",
+      "name": "Shri Swami Samarth Service Center and all wheeler's puncture repair",
+      "address": "opposite Pogul, No 158/A Akkalkot Road, opposite Pogul, Rangraj Nagar Road, Sakhar Peth, Solapur",
+      "lat": 17.671626,
+      "lng": 75.9339313,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJATVxMH_bxTsRV0NKPEnzJWI",
+      "name": "Shri Swami Samarth Auto Centre",
+      "address": "Shop No 1, Sadul Pertrolpump, Akkalkot Road, Solapur",
+      "lat": 17.6716401,
+      "lng": 75.93391620000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJkdbmbVraxTsR_-VmVgVwuvY",
+      "name": "IndianOil",
+      "address": "opposite Pogul, No 158/A Akkalkot Road, opposite Pogul, Rangraj Nagar Road, Solapur",
+      "lat": 17.671711,
+      "lng": 75.93390699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmRyJdBLRxTsRB1W70D6xUk8",
+      "name": "Bharat Petroleum, Petrol Pump -Shah Hansraj Jeevan",
+      "address": "Sadik Mechanics, Old Employment Chowk, Kumta Naka, Solapur",
+      "lat": 17.6800487,
+      "lng": 75.8979133,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJK9zGIX_QxTsRrUAQdRa1BaY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near ST Stand, Chhatrapati Shivaji Maharaj Chowk, Solapur",
+      "lat": 17.6811656,
+      "lng": 75.8971948,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJR3avIX_QxTsRrwqOrMrr89w",
+      "name": "Sagar Auto Gas-AEGIS",
+      "address": "MVJW+JPC, National HIghway 211, Mahesh Nagar, Solapur",
+      "lat": 17.6815684,
+      "lng": 75.8967705,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSTxJiYjaxTsRO1w0eTW3PoY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 8945, near Chatla Saree Center, Plot No 169/A, Jodbhavi Peth, Solapur",
+      "lat": 17.6810638,
+      "lng": 75.91268529999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq3yRhHPXxTsR1TO5sa5-6IY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gat No 532/2, Hattur",
+      "lat": 17.5460464,
+      "lng": 75.88298670000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg-LkvvrRxTsRxBHGWBAmxCs",
+      "name": "Zyada gas Auto Lpg Pump",
+      "address": "Bhaishree Petroleum AUTO LPG GAS PUMP, near MURARJI PETH, Murarji Peth, Solapur",
+      "lat": 17.6825414,
+      "lng": 75.8951677,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYRr_jALXxTsRXvrXSFg8nc0",
+      "name": "Chavan Petroleum (HPCL Pump)",
+      "address": "near Gulmohor Dhaba & Hotel, HATTUR Solapur Vijapur National, near Gulmohor Dhaba & Hotel, National Highway 52, Solapur",
+      "lat": 17.5437421,
+      "lng": 75.8840128,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnUOXL_XaxTsRPxTg6MyujZ0",
+      "name": "IndianOil",
+      "address": "Ground Floor, Market Yard, Solapur",
+      "lat": 17.680857,
+      "lng": 75.923813,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ02mqVJXbxTsRwV0jXD4TGOw",
+      "name": "IndianOil",
+      "address": "Gat No 646, Near Jawaharlal Nehru Vastigrah, 2/1, Kumbhari",
+      "lat": 17.6588056,
+      "lng": 75.9698216,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEwt8sObbxTsRNBRrppfWzF0",
+      "name": "TotalEnergies",
+      "address": "India",
+      "lat": 17.6424549,
+      "lng": 75.9744662,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJFQep2F7ZxTsRCnP9yhfaJy0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Infront of Hatture Mangal Karyalay, Gat No 278/P Solapur, Hotgi Road, South, Solapur",
+      "lat": 17.582487,
+      "lng": 75.979635,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJT864_drbxTsREF5tn5EMDmQ",
+      "name": "Bharat Petroleum Petrol Pump , SAGAR FUELS",
+      "address": "Solapur - Akkalkot Road, Kumbhari",
+      "lat": 17.651973,
+      "lng": 75.98693,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8WJynB_ZxTsRaxVY4gAujZk",
+      "name": "Bharat Petroleum, Petrol Pump -Kareem & Sons",
+      "address": "NR HOTGI RLWY STN, SOUTH S, Solapur",
+      "lat": 17.5695048,
+      "lng": 75.98783689999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJU4Xa7J7fxTsRCZgIfmVjxpM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near Hotel Kamat, Gut No 136, Solapur Akkalkot Road South Solapur, Tograli, near Hotel Kamat, Kumbhari",
+      "lat": 17.62851599999999,
+      "lng": 76.0211858,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4auhpLHbxTsRgB4jsDAvgD4",
+      "name": "Go Gas LPG pump - solapur akkalkot road",
+      "address": "MX82+CMX, Telngi pachha peth, Solapur",
+      "lat": 17.666107,
+      "lng": 75.9517204,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJObesLYPfxTsR2z1Oplhq0BU",
+      "name": "Shree Seva Petroleum",
+      "address": "Solapur - Akkalkot Road, Togarali",
+      "lat": 17.6225151,
+      "lng": 76.0288431,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY2t1Co7exTsRceoNCuPjyEI",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 17.6227882,
+      "lng": 76.02890049999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ5dAKGUd3xjsRjRBLExLzYZM",
+      "name": "Bharat Petroleum Petrol Pump , A S BAVI PETROLEUM SERVICES",
+      "address": "AT POST AHERWADITALUKA SOUTH, Solapur",
+      "lat": 17.54236299999999,
+      "lng": 75.97644,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeXLIaRLOxTsRaHP-x7utfGM",
+      "name": "BP Solapur, COCO",
+      "address": "NH-9, Pune Solapur Highway, Solapur, Kegaon",
+      "lat": 17.73403769999999,
+      "lng": 75.8232791,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXUFIaBLOxTsRi6tjVsTPCFE",
+      "name": "Ganesh Highway Service Station",
+      "address": "Pandharpur - Solapur Road, Kondi",
+      "lat": 17.7366799,
+      "lng": 75.8198865,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoZ5C_ZLNxTsRBs8_XCMQhyg",
+      "name": "Bharat Petroleum",
+      "address": "PQJM+6MQ, Pakani",
+      "lat": 17.7305974,
+      "lng": 75.78424,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJtSIlpiTOxTsRiT824pAMhnA",
+      "name": "IndianOil - SWAGAT",
+      "address": "Gat No 305/2, Kondi",
+      "lat": 17.7292921,
+      "lng": 75.836287,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJR3OJahLOxTsRTdleywd1yR8",
+      "name": "भारत पेट्रोलियम",
+      "address": "India",
+      "lat": 17.7364922,
+      "lng": 75.8193793,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJf7Ed8kLRxTsRvB-4nNUa0E4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 4, TP Scheme, CTS No 8927/B1, Budhavar Peth, Solapur",
+      "lat": 17.6868516,
+      "lng": 75.89918999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNaHCeUbNxTsRdSidnujk-JU",
+      "name": "HPCL COMPANY PAKNI",
+      "address": "PQHH+MWR, Pakani",
+      "lat": 17.7292308,
+      "lng": 75.77975459999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJH9sN--nPxTsR-CXuadMdVRU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "GUT No 143, 2 & 143/3, Barshi - Solapur Road, Gulwanchi",
+      "lat": 17.7382755,
+      "lng": 75.8774016,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg3NfAwDbxTsRLJSmngNGN9A",
+      "name": "Bhawani Petroleum",
+      "address": "Maddi Vasti, near Juna Tuljapur Naka, 2/82, Bhavani Peth, Solapur",
+      "lat": 17.692501,
+      "lng": 75.912912,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJaWzH5LfbxTsRoQOlgHza178",
+      "name": "HP Patil Petroleum & CNG",
+      "address": "10/43, Bhavani Peth, Solapur",
+      "lat": 17.6873533,
+      "lng": 75.917991,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC50PJVvbxTsRD3fbQspDyZU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gut No 52/3, Part B, NH 52, Beed - Solapur Road, Solapur",
+      "lat": 17.6969833,
+      "lng": 75.9142667,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJR1PwuUrbxTsREHYtul-_keA",
+      "name": "Yallama Lpg Gas Pump",
+      "address": "MWPR+MFC, Mulegaon Road, Saruwadi Nagar, Rangraj Nagar, Solapur",
+      "lat": 17.6866968,
+      "lng": 75.9411264,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5196A5PbxTsR0hSVgoE8mh4",
+      "name": "Shree ganesh Highway service",
+      "address": "PWCC+79F, Solapur - Tuljapur Road",
+      "lat": 17.7206969,
+      "lng": 75.92091289999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJjfu9BADFxTsR5_l2ERudcXc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "opposite IOC, Gat No 160/4P NH 52, opposite IOC, Beed - Solapur Road, Hatii, Solapur",
+      "lat": 17.729527,
+      "lng": 75.930173,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAZji_DPFxTsR9oG4ciCv5lI",
+      "name": "IndianOil",
+      "address": "Ground Floor Hegloor, Ashok Chowk, Solapur",
+      "lat": 17.731039,
+      "lng": 75.929619,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmWCLagDFxTsRP21jfrt8d1k",
+      "name": "Hatti Highway Services",
+      "address": "PWJH+CWF, Haglur",
+      "lat": 17.7310639,
+      "lng": 75.9297863,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMYLhhiTbxTsRRCMtGb3cvPI",
+      "name": "IndianOil",
+      "address": "Gat No 111 NH 9, Mulegaon, Jawaharlal Nehru Vastigrah, Hyderabad Road, Solapur",
+      "lat": 17.6924701,
+      "lng": 75.96183599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ3ZhjRLbxTsRqYjF-0k-f8M",
+      "name": "HPCL Shri Gurukrupa Petroleum & CNG",
+      "address": "India",
+      "lat": 17.6946596,
+      "lng": 75.9673577,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJv0ETaCLbxTsRBn_u537Ex60",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gut No 131, Infront of Ford Showroom, 1/A Old NH 9, National Highway 65, Mulegaon",
+      "lat": 17.694393,
+      "lng": 75.9674424,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHUVb8NvbxTsRK6D1kKgP_hI",
+      "name": "IndianOil",
+      "address": "Ground Floor, Solapur - Tuljapur Road, Haglur",
+      "lat": 17.7422151,
+      "lng": 75.9359595,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ05q_bKDcxTsRU5nvAI2Muwc",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 9, South, Doddi",
+      "lat": 17.708251,
+      "lng": 75.99354699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm4jwoaHcxTsRujdc_85vEdQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gat No 182/1/1, Solapur Hyderabad Hwy, NH 52, South, Fata, Solapur",
+      "lat": 17.7096101,
+      "lng": 75.9970701,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfziIFvvbxTsRdl1BB_P3XkI",
+      "name": "Bharat Petroleum, Petrol Pump -Shreyash Petroleum",
+      "address": "TAKALI, SOLAPUR, Solapur",
+      "lat": 17.6981668,
+      "lng": 75.974032,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpYF1rm7bxTsRMoezQheu_ys",
+      "name": "Kalyani Petrol Pump",
+      "address": "Mulegaon Tanda",
+      "lat": 17.6993698,
+      "lng": 75.9759746,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJz1ibdf7dxTsRM87r-3x6BOg",
+      "name": "IndianOil",
+      "address": "S No 69/2, South, Doddi",
+      "lat": 17.6888573,
+      "lng": 75.99969879999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGWWLoDrMxTsRT7bdkQdd0aE",
+      "name": "Hindustan Petroleum Corporation LPG Plant Solapur",
+      "address": "QQCV+XR7, Chincholikati",
+      "lat": 17.7724198,
+      "lng": 75.79453920000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkx_nE4fNxTsR4Cs4Pdd84FA",
+      "name": "Chincholi MIDC CNG pump Solapur road",
+      "address": "QR22+QP9, Chincholikati",
+      "lat": 17.7518526,
+      "lng": 75.802007,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFZwXp2DNxTsR3qR8B5SMrAw",
+      "name": "IMC LIMITED CNG Pump Filling station",
+      "address": "QR22+QP9, Chincholikati",
+      "lat": 17.7519076,
+      "lng": 75.801852,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJV3hsL8XNxTsR9leiywAI18E",
+      "name": "Bharat Petroleum, Petrol Pump -Bp-Chincholi",
+      "address": "CHINCHOLI, Solapur",
+      "lat": 17.7475638,
+      "lng": 75.7944524,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs6GU2MTNxTsRJr6LHNjtbbQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Hyderabad Naka, beside Sunil Hotel, Chincholikati",
+      "lat": 17.74674359999999,
+      "lng": 75.79376309999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaXRUELfPxTsRtxWeawvaMJE",
+      "name": "Nagraj Petroleum",
+      "address": "Barshi - Solapur Road, Karamba",
+      "lat": 17.7627572,
+      "lng": 75.8692446,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJv9oZDzDMxTsRSBCGhnHuk9c",
+      "name": "HPCL Bottling Plant, MIDC Solapur",
+      "address": "Chincholikati",
+      "lat": 17.7723844,
+      "lng": 75.7945192,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7fgt_SzNxTsRjBu32kq3xj4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, opposite Nisarg Hotel, National Highway 65, Mohol, Chincholikati",
+      "lat": 17.7491494,
+      "lng": 75.7891557,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJffnTP0bNxTsRBjFAh72_O5g",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near Hotel Mohit, Gut No 200/2/B/2/P NH 65, Solapur Pune Rd, Mohol, near Hotel Mohit, Sawaleshwar",
+      "lat": 17.753138,
+      "lng": 75.7819741,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJf5G8a6HRxTsRbV-ocak0R5c",
+      "name": "SAHYADRI HIGHWAY SERVICES PETROL PUMP",
+      "address": "GAT NO 200/2, B/2, Solapur - Pune Highway, Sawaleshwar",
+      "lat": 17.7543096,
+      "lng": 75.780016,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqVTIypzNxTsR9F7ApOou7go",
+      "name": "IndianOil",
+      "address": "Gat No 218, NH 9, Solapur - Pune Highway, Mohol",
+      "lat": 17.755874,
+      "lng": 75.774377,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ67F0rxjFxTsRFOEN0jjEmsE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gat No 30/2/1 NH 52, Tuljapur, Haglur",
+      "lat": 17.749761,
+      "lng": 75.940051,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzy0Pff7ExTsROoQWfFJTT_s",
+      "name": "Bharat Petroleum",
+      "address": "Haglur, Solapur, NH-204, Beed Solapur Road, Solapur, Solapur",
+      "lat": 17.7678,
+      "lng": 75.9491,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJX4KhoTnExTsRz2g308GHN8k",
+      "name": "Satguru CNG Bharat Petroleum",
+      "address": "India",
+      "lat": 17.8011922,
+      "lng": 75.96057739999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnez7ksXFxTsRm9BYh7Hh1a8",
+      "name": "Bharat Petroleum, Petrol Pump -Shri Rajaram Petroleum",
+      "address": "211, HN Apte Path, Solapur Bazar, Narayan Peth, Pune",
+      "lat": 17.8117363,
+      "lng": 75.9639529,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBT60JfnFxTsRJx5OKc0YbXY",
+      "name": "Bharat Petroleum, Petrol Pump -Satguru Petroleum",
+      "address": "S.NO. 404, KASEGAON, 405, Solapur",
+      "lat": 17.8120364,
+      "lng": 75.9642302,
+      "open_now": true
+    }
+  ]
+}

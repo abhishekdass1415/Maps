@@ -1,0 +1,587 @@
+{
+  "city": "Agartala",
+  "state": "Tripura",
+  "count": 72,
+  "center": {
+    "lat": 23.8315,
+    "lng": 91.2868
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJz5unDgD1UzcRJs6OMwZBsjw",
+      "name": "ঠটরা",
+      "address": "Q689+32V",
+      "lat": 23.7652425,
+      "lng": 91.2175366,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ57qMbAB1VDcRKqr_RaLj_ic",
+      "name": "Debipur",
+      "address": "P5PH+W2R, Debipur",
+      "lat": 23.7373741,
+      "lng": 91.1775189,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJi2DxOOX1UzcR8IxW880eoGg",
+      "name": "Niloy Sukla Das",
+      "address": "Road, Amtali, Agartala",
+      "lat": 23.780409,
+      "lng": 91.2608747,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJnbItAwALVDcROpuNnokFZpw",
+      "name": "মেসার্স আল মদিনা এন্টারপ্রাইজ",
+      "address": "গোপীনাথপুর বাজার",
+      "lat": 23.7918311,
+      "lng": 91.17537829999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ85Zheub1UzcR3DiK73rACyk",
+      "name": "Sreema Petroleum",
+      "address": "below Tripura Gramin Bank, Axis Bank Atm A D Nagar Road, below Tripura Gramin Bank, Arundhauti Nagar, Agartala",
+      "lat": 23.8097698,
+      "lng": 91.2571715,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjbeTFAD1UzcRv6TSdpeYrYo",
+      "name": "Tripura agartala khourpur CNG",
+      "address": "R68X+GQ2, Camper Bazar, Agartala",
+      "lat": 23.8162587,
+      "lng": 91.2493976,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJX2RV1mQLVDcRtBLsONLcYdQ",
+      "name": "মায়ের দোয়া ফিলিং স্টেশন এন্ড কনভাশন সেন্টার",
+      "address": "R5FX+PJ8, Kasba - Akhaura Road",
+      "lat": 23.8242879,
+      "lng": 91.1990836,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTZsZsYv0UzcRR1bRwkjT5vE",
+      "name": "IndianOil",
+      "address": "Ground Floor, National Highway 8, Arundhutinagar, Ishanchandranagar",
+      "lat": 23.80201899999999,
+      "lng": 91.27290099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwxeesmD0UzcRdpNqJ-YNeoQ",
+      "name": "Tripura Natural Gas Company Ltd CNG Station",
+      "address": "Drop Gate, Milanchakra, Milanchakra, Arundhauti Nagar, Agartala",
+      "lat": 23.8114554,
+      "lng": 91.2705373,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgR5QTAD1UzcRC8OOjVv1L_Q",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 8, Agartala - Kamalasagar Road",
+      "lat": 23.79023160000001,
+      "lng": 91.2876989,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZz72NAD1UzcRQWin8aXHMsk",
+      "name": "SANJIB FILLING STATION",
+      "address": "Q7RQ+69F, Dukli, Ishanchandranagar",
+      "lat": 23.790409,
+      "lng": 91.28800799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJse8acQDzUzcRoyvbs3zo7wI",
+      "name": "Sai Ram Filling Station",
+      "address": "NH-8, Bypass, Khayerpur, Amtali",
+      "lat": 23.7964453,
+      "lng": 91.2986908,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrYBxe63zUzcRdPYnkJAsce8",
+      "name": "M/S Mrinal Anjali Filling Station",
+      "address": "01,M/S Mrinal Anjali Filling Station Molaynagar, Kheyerpur, To, Amtali Bypass Road, Agartala",
+      "lat": 23.8041033,
+      "lng": 91.3125712,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJe08F51bzUzcR1Vw45wQ9lbY",
+      "name": "M/S Mrinal Anjali Filling Station",
+      "address": "Mrinal Anjali Filling Station Molaynagar. Kheyerpur, To, Amtali Bypass Road, Agartala",
+      "lat": 23.8039642,
+      "lng": 91.31296479999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ948SfQDzUzcRgLT8HKETQ48",
+      "name": "HPCL Petrol pump",
+      "address": "R836+QWQ, Sadar",
+      "lat": 23.8044597,
+      "lng": 91.31236059999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7-oRSwDzUzcR1WMjJL8m1aA",
+      "name": "Mrinal anjali filling center",
+      "address": "Malaynagar, Jampujila - Agartala Road, Subhash Nagar, Jogendra Nagar, Agartala",
+      "lat": 23.8098051,
+      "lng": 91.3115093,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJR6N-Ern1UzcR0jpjsf_IqNY",
+      "name": "IndianOil",
+      "address": "Bardowali, Agartala",
+      "lat": 23.8235206,
+      "lng": 91.2720018,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJscNtQ7r1UzcRd4unjZQezSQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, National Highway 108B, Baijalbari",
+      "lat": 23.826403,
+      "lng": 91.2818815,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAy6KNebzUzcRCEprkrKk6lA",
+      "name": "Bajrangi Tour &Travels",
+      "address": "R7GJ+HQ6, Dhaleswar, Agartala",
+      "lat": 23.826403,
+      "lng": 91.2818815,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx2QpwbeLUzcR7KA73_t6NXQ",
+      "name": "Petrol Pump",
+      "address": "Laxmibil",
+      "lat": 23.6946766,
+      "lng": 91.27041709999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJOyfdmqL1UzcR0gu7FHMsBF8",
+      "name": "IndianOil",
+      "address": "Ground Floor, Motor Stand Road, Agartala",
+      "lat": 23.8311332,
+      "lng": 91.2856628,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM_YqB3r1UzcRlcfomCpV1xY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Airport Road",
+      "lat": 23.831457,
+      "lng": 91.2867777,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4-xVDQCLUzcR1n4YH0zoVHo",
+      "name": "Bishalgarh Joyguru Petroleum",
+      "address": "M7RJ+JMM, Bishalgarh Bypass Road, Bishalgarh",
+      "lat": 23.6915783,
+      "lng": 91.28167169999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJh6TPVwD1UzcRQJNHjJwuFlo",
+      "name": "Opposite to Nabarun petrol pump",
+      "address": "15, Colonel Mahim Thakur Sarani, Old RMS Chowmuhani, Krishna Nagar, Agartala",
+      "lat": 23.8327839,
+      "lng": 91.27927249999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ9-0IeRL0UzcRcc_arFsSDes",
+      "name": "IndianOil",
+      "address": "12, Colonel Mahim Thakur Sarani, Agartala",
+      "lat": 23.8329161,
+      "lng": 91.2791203,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbTWjqb7tUzcRPn93PccWSxY",
+      "name": "IndianOil",
+      "address": "Ground Floor, Madhabbari, Jirania,Ranirbazar, Ranirbazar",
+      "lat": 23.8182428,
+      "lng": 91.39416059999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJK3yjdL7tUzcRpUpSgGNF2bY",
+      "name": "Karaiban ESSER Petrol Pump",
+      "address": "R9FP+4PR, Purba Noagoan",
+      "lat": 23.82286149999999,
+      "lng": 91.3867798,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJdVI4NwDtUzcRVfp0V-b-V7Q",
+      "name": "Biplab Debnath",
+      "address": "RC92+CMR, Radhamohanpur",
+      "lat": 23.8186037,
+      "lng": 91.4016534,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ45q3rLPtUzcRZCtga82SUFA",
+      "name": "S.S Petroleum Agency",
+      "address": "Ground Floor, Madhabbari, Ranirbazar",
+      "lat": 23.819326,
+      "lng": 91.401985,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlzm8FvTtUzcR_hxdLXnLU-I",
+      "name": "Mahanam Oil City",
+      "address": "R9JF+QP9, Nalgaria, Majlishpur",
+      "lat": 23.8310562,
+      "lng": 91.37308650000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLZY0GDftUzcRm0g3jCuL0q0",
+      "name": "S.S Petroleum Agency",
+      "address": "Madhavbari, Mohanpur, Agartala",
+      "lat": 23.8192261,
+      "lng": 91.40290159999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ11DWJAT0UzcRMDsb_q5TW2Q",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Kunjaban Depot, Abhay Nagar, Agartala",
+      "lat": 23.8450977,
+      "lng": 91.28383370000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4T8kPQkJVDcR1UPQAomcoBc",
+      "name": "M/S T Islam LPG Filling & Conversion Centre Privat Ltd.",
+      "address": "V6F5+RMP, City Bypass Road, Akhaura",
+      "lat": 23.8745889,
+      "lng": 91.20919649999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbYafPwX1UzcR5DVFSJq39MM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Durga Chowmuhani, Agartala Airport Road, Barjala, Agartala",
+      "lat": 23.852329,
+      "lng": 91.27000199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJiXB4Rf31UzcRTOwikRp7FPg",
+      "name": "Suman Miah",
+      "address": "Jirania Jirania, Railway Station",
+      "lat": 23.8345297,
+      "lng": 91.27573,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJn4RklhP0UzcRQiMYId-fsFA",
+      "name": "IndianOil",
+      "address": "TRTC Complex, Krishna Nagar, Agartala",
+      "lat": 23.833474,
+      "lng": 91.276147,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJk_Er8-b1UzcRwRBTgkoBIpE",
+      "name": "COCO BISHALGARH ADHOC NG SAHA",
+      "address": "Colonel Chowmuhani, COCO, Bishalgarh",
+      "lat": 23.8379033,
+      "lng": 91.2798929,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ-cLyexL0UzcR9V39SGS5oSw",
+      "name": "IndianOil",
+      "address": "Ground Floor, Durgabari, Agartala",
+      "lat": 23.834168,
+      "lng": 91.282123,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP1ZzQgT0UzcRHOQVqsq0gg4",
+      "name": "M/S Ashish Petroleum Agency",
+      "address": "R7WM+638, Near Radhanagar Bus stand, VIP Road, Radha Nagar, Agartala",
+      "lat": 23.8456962,
+      "lng": 91.2827219,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpam-D9D3UzcR-5dI_4YQO5Y",
+      "name": "Annapurna Apartment",
+      "address": "near Hindustan Petroleum corporation limited, Bhati Abhoynagar Airport Road, Barjala, Agartala",
+      "lat": 23.8635042,
+      "lng": 91.2761173,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCbU2MAr0UzcRP58sosd-8ZM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Ganaraj Chowmuhani, Banamalipur, Agartala",
+      "lat": 23.834458,
+      "lng": 91.287261,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsb4wY8X3UzcRkUY6YVCYGYg",
+      "name": "Adhoc BK PETROLEUM",
+      "address": "near CNG Station, Barjala Road, Agartala",
+      "lat": 23.8697662,
+      "lng": 91.2738226,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ1eprlSv3UzcRxSc1aOUm3tU",
+      "name": "Chicken Shop",
+      "address": "1212, Agartala",
+      "lat": 23.8889241,
+      "lng": 91.24991709999999,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJm2jnCgD3UzcRN60_wS98QEc",
+      "name": "Sri krishna petroleum agency",
+      "address": "V7M5+HRP, Usha Bazar, Agartala",
+      "lat": 23.8836326,
+      "lng": 91.2593387,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbT-yyqgLVDcR_Ria_xLB07w",
+      "name": "G N G GAS STATION",
+      "address": "bus station, Tinlakhpir",
+      "lat": 23.8056033,
+      "lng": 91.15080379999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJvbjTn7H3UzcRFQMbLktPfFk",
+      "name": "Manindra Chandra Saha Petroleum Agency ( Bharat Petroleum )",
+      "address": "29, Bhati Abhoynagar Airport Road, Nutan Nagar, Agartala",
+      "lat": 23.8828695,
+      "lng": 91.2623002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJG_M_VaX2UzcROPrQrwiapQY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 8, Barjala, Agartala",
+      "lat": 23.865073,
+      "lng": 91.2794838,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLal-ZQALVDcRQ4rkclVZ8HE",
+      "name": "Faith LPG Refueling Station",
+      "address": "R532+95F",
+      "lat": 23.8034382,
+      "lng": 91.1504179,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCUTwTOjzUzcRDokdvFQrZvo",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH-44, Chandrapur, Khayerpur, Agartala",
+      "lat": 23.838199,
+      "lng": 91.306719,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5QkAxe3zUzcRIvUIWEGvuhg",
+      "name": "IndianOil",
+      "address": "R7MX+PV9, Kalyani, Dhaleswar, Agartala",
+      "lat": 23.8342008,
+      "lng": 91.3004958,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJI4icBaXzUzcRkiN1gOAA5EA",
+      "name": "IndianOil",
+      "address": "NH-44, Khayerpur, Agartala",
+      "lat": 23.8450648,
+      "lng": 91.3312182,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJj8TSFbDxUzcRJzl2MBYxGh8",
+      "name": "IndianOil",
+      "address": "Ground Floor Radhakishore Nagar Jirania, Khayerpur, Agartala",
+      "lat": 23.8653558,
+      "lng": 91.340745,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ12pqV1nxUzcRPOLzBfPloBo",
+      "name": "D.C.Para Petrol Pump",
+      "address": "near Banikya Chowmohani, Durga Chowdhury Para, R.K.Nagar, Agartala",
+      "lat": 23.8650062,
+      "lng": 91.3417697,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1YCc3MvxUzcRHiahOt-sDxo",
+      "name": "M/S Monali analisa Petroleum",
+      "address": "DC Para Main Road, Bodhjung Nagar, Radhakishorenagar",
+      "lat": 23.8651257,
+      "lng": 91.3420594,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJieJHYhnyUzcR8CLjUtxWtJk",
+      "name": "Tripura Natural Gas Company Ltd CNG Station",
+      "address": "near CNG Station, Assam - Agartala Road, Khayerpur, Agartala",
+      "lat": 23.8447971,
+      "lng": 91.3516764,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ_zN23RryUzcRBQSBeVJuFzg",
+      "name": "IndianOil",
+      "address": "Ground Floor, Khayerpur, Ranirbazar",
+      "lat": 23.842971,
+      "lng": 91.355425,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm-sxL7vxUzcRzwkeDp1qbuo",
+      "name": "Monoram Clean Energy",
+      "address": "V8MP+89P, Bamboo Park Main Road, Radhakishorenagar",
+      "lat": 23.8833312,
+      "lng": 91.33595199999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJDzc3BADtUzcRiFSHIW6RuCU",
+      "name": "Petrol Pump (Tiprasa Brothers)",
+      "address": "RCM4+PJ8, Majlishpur",
+      "lat": 23.8342918,
+      "lng": 91.4065645,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJxeiiNOjtUzcRvuYGRN4PJ04",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Bashiram Kobra Para, Madhabari, Jirania, Champaknagar",
+      "lat": 23.818481,
+      "lng": 91.420011,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLUsQ31LtUzcREhVOme1yCNM",
+      "name": "MS Friends Filling Station",
+      "address": "Jirania, NIT Road, Birendra Nagar",
+      "lat": 23.8258494,
+      "lng": 91.4346697,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJiWu95pztUzcR5mvzc8I37Hw",
+      "name": "IndianOil",
+      "address": "Ground Floor Jirania, NH 44, Birendra Nagar",
+      "lat": 23.818783,
+      "lng": 91.433759,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJj_XHxdL3UzcR7Jh_kiSQE0A",
+      "name": "আল মদিনা লাইব্রেরী এন্ড পেট্রোলপাম্প",
+      "address": "W648+RV8, Singarbill Road, Singerbil",
+      "lat": 23.9070462,
+      "lng": 91.21720909999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ4-PKg4r3UzcR7MtbtRKV2Jw",
+      "name": "Singerbil Madhapara",
+      "address": "W678+M52, Road, Singerbil",
+      "lat": 23.9141471,
+      "lng": 91.2154035,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1RZm3UT3UzcRY8BNrLOIk5w",
+      "name": "Joy Guru Petroleum",
+      "address": "Narsingarh Bazar Bhagalpur Road, Narsingarh, Agartala",
+      "lat": 23.9130765,
+      "lng": 91.2496499,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJW6Q3kxX5UzcRK6I7ZMs-uCU",
+      "name": "মায়ের দোয়া এলপিজি অটোগ্যাস ফিলিং স্টেশন এন্ড কনভার্শন সেন্টার",
+      "address": "X637+R83, আদমপুর রোড, পত্তন, বিজয়নগর",
+      "lat": 23.9545192,
+      "lng": 91.2132845,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1ZhaKIL3UzcRqyPFaHHj_jY",
+      "name": "IndianOil",
+      "address": "Ground Floor Gandhigram, Salbagan",
+      "lat": 23.905442,
+      "lng": 91.283351,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-VH4mlvlUzcR0YxMNRIeVT8",
+      "name": "IndianOil",
+      "address": "Ground Floor, Airport, Mohanpur",
+      "lat": 23.9157039,
+      "lng": 91.2834553,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJN4IDhqv7UzcR0WS7E35Qtlc",
+      "name": "IndianOil",
+      "address": "Ground Floor, Fatikchhara",
+      "lat": 23.9577911,
+      "lng": 91.3282643,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJv-O-NjfvUzcRwUr7NB-nBaM",
+      "name": "M/S. TIPRASA Petroleum Agency",
+      "address": "Lefunga - Abhicharan Road, Abhicharan",
+      "lat": 23.914916,
+      "lng": 91.3773405,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfWslRwDxUzcRmaofgNj-MkM",
+      "name": "Mohanpur CNG MOTHER STN. ( under construction)",
+      "address": "W9W2+288, Mohanpur Road, Kamalghat, Fatikchhara",
+      "lat": 23.9450397,
+      "lng": 91.3508274,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJQ7lcStT7UzcRvawQDy9TAMw",
+      "name": "Bharat Petroleum Petrol Station",
+      "address": "X956+R2, Fatikchhara",
+      "lat": 23.95955349999999,
+      "lng": 91.3601039,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHwhgzFXlUzcRxDZj7voc-wA",
+      "name": "MAA MANASA FUEL STATION",
+      "address": "National Highway 108B, Chandrakona, Taranagar",
+      "lat": 23.9612071,
+      "lng": 91.3824655,
+      "open_now": null
+    }
+  ]
+}

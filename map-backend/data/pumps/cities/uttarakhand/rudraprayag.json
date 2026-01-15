@@ -1,0 +1,147 @@
+{
+  "city": "Rudraprayag",
+  "state": "Uttarakhand",
+  "count": 17,
+  "center": {
+    "lat": 30.284,
+    "lng": 78.981
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJmbHsSgCxCTkRzJGd36avbl4",
+      "name": "Jio petrol Pump",
+      "address": "Reliance Jio BP pump, near Hanuman Mandir, NH07, Badrinath Road, Farasu, Srikot ganganali, Gandasu",
+      "lat": 30.24125100000001,
+      "lng": 78.8511448,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJpR4g8pK3CTkRrKR3LardnNA",
+      "name": "IndianOil",
+      "address": "Ground Floor, Raitoli",
+      "lat": 30.2677698,
+      "lng": 78.94797799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJK4iC2fW7CTkRp_ZVmVf3KgI",
+      "name": "I fuel",
+      "address": "10, Khirsu Road",
+      "lat": 30.1669138,
+      "lng": 78.8544761,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ-_rfjR-3CTkRxrSUC49fNuk",
+      "name": "pollution checking centre (petrol)",
+      "address": "7XJF+74G, Bhanadhar, Rudraprayag",
+      "lat": 30.2806839,
+      "lng": 78.9728356,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlVvNVwC_CTkRV5JTqI2QcXI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Khasra No 427/M, Siloli, Paithani",
+      "lat": 30.1436786,
+      "lng": 78.9796988,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJf-9rrK23CTkRNXWVOibbUB4",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 58, Market, Rudraprayag",
+      "lat": 30.2877035,
+      "lng": 78.98586209999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJc2e1nRS3CTkRn7rJDWX2l6U",
+      "name": "Maharishi Agastya Filling Station Indian Oil",
+      "address": "near thesil rudraprayag, Chaunthala",
+      "lat": 30.3069925,
+      "lng": 78.98121429999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4dc4lNTJCTkReXJrpXwA5UQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 58, Serabhardar, Sumerpur",
+      "lat": 30.29978,
+      "lng": 79.023285,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKRrvYCm0CTkRLHSUH-pKSKw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Kedarnath Road, Tilwara",
+      "lat": 30.340288,
+      "lng": 78.9683256,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJi4IXWCm0CTkROV4L3pPHBZg",
+      "name": "Kargil Shaheed Service Station Shri bhagwan Singh",
+      "address": "NH-109, Kedarnath Road, Tilwara",
+      "lat": 30.340933,
+      "lng": 78.96834,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOTBeZT7PCTkRAAAAMOlktzc",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kamera",
+      "lat": 30.28674479999999,
+      "lng": 79.12998189999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJn368ej7PCTkRZcrkZiDmwwQ",
+      "name": "Saheed Sunil Kandpal Filling Station",
+      "address": "74PJ+G32, PO Gauchar Chamoli, National Highway 58",
+      "lat": 30.2862582,
+      "lng": 79.13013529999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLdA4LQizCTkR2yRIuBgq_m4",
+      "name": "IndianOil",
+      "address": "Bhinlgana Range",
+      "lat": 30.37611489999999,
+      "lng": 78.8976395,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJffKoTfm1CTkRuq48IZANfMs",
+      "name": "HP filling Station",
+      "address": "9X8R+QC9, Kedarnath Road",
+      "lat": 30.3669119,
+      "lng": 78.99109969999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhf-auT21CTkRWNBM0E26gc8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Rudraprayag Kund Road, Sisau",
+      "lat": 30.3661059,
+      "lng": 78.9917633,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ76wfX5LLCTkRc6qkNaJ7N7k",
+      "name": "Bharat Petroleum Petrol Pump , PANCH KEDAR FILLING STATION",
+      "address": "Augustmuni",
+      "lat": 30.401572,
+      "lng": 79.044369,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXY5kDQDLCTkRtJfDF8NMXLw",
+      "name": "Garwal service station",
+      "address": "C36J+W2M, Silkot",
+      "lat": 30.4123302,
+      "lng": 79.0800402,
+      "open_now": null
+    }
+  ]
+}

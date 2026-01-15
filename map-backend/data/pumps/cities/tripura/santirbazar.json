@@ -1,0 +1,699 @@
+{
+  "city": "Santirbazar",
+  "state": "Tripura",
+  "count": 86,
+  "center": {
+    "lat": 23.3667,
+    "lng": 91.2667
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJkaxEOwB_UzcR0XvTgNKrKdc",
+      "name": "সেলিম ফিলিং স্টেশন",
+      "address": "Katalia Road",
+      "lat": 23.3178841,
+      "lng": 91.22359829999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJr2w4eC2BVDcRYJWr66UxtW4",
+      "name": "Prime Petroleum Services Limited",
+      "address": "849Q+P2W",
+      "lat": 23.3193623,
+      "lng": 91.1375932,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJV_4qvCt9UzcRLjfFR9csvv0",
+      "name": "রাসেল গ্যাস স্টেশন",
+      "address": "Bazar, Jashpur, Meshtoli",
+      "lat": 23.2585455,
+      "lng": 91.25210249999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ4W-IB2aHVDcRhr7fBCNAkLQ",
+      "name": "Aminul Haque Majumder LPG Filling Station",
+      "address": "74PG+3QJ, Cumilla - Laksam - Sonaimuri - Chowmohani - Noakhali Highway",
+      "lat": 23.2852199,
+      "lng": 91.1269009,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkTqFKgB_UzcRRBaRuahnGfI",
+      "name": "MiyaBazar highway police station",
+      "address": "বাবুর্চিবাজার",
+      "lat": 23.30578969999999,
+      "lng": 91.26984750000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJt2agJvp_UzcRB0-RYJ3rh48",
+      "name": "Abdullahpur Lpg Filling station",
+      "address": "Abdullahpur Kashinagar Road",
+      "lat": 23.32262189999999,
+      "lng": 91.2650692,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ6-7decaAVDcR9T0uS1VnbzI",
+      "name": "Sara Filling Station",
+      "address": "84XW+FM7",
+      "lat": 23.34865869999999,
+      "lng": 91.14667659999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJz38JvRqEVDcREy4eAhepN0Q",
+      "name": "এম আর ফিলিং স্টেশন (CNG Available)",
+      "address": "R141",
+      "lat": 23.2720065,
+      "lng": 91.1245841,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQxe2XEt5UzcR6UppvRQYtck",
+      "name": "মেসার্স আল আমীন ফিলিং স্টেশন২০২৪",
+      "address": "872R+72C",
+      "lat": 23.3006895,
+      "lng": 91.2900147,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJw6ePT_h_UzcRU0C3IR7D4GI",
+      "name": "Numisi filling station",
+      "address": "87GG+7XQ, Dhaka - Chittagong Highway",
+      "lat": 23.325716,
+      "lng": 91.27748419999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBx0RnyF_UzcRZ1E7iZMIK18",
+      "name": "Mia Bazar Filling Station",
+      "address": "87MC+MRF, Cumilla",
+      "lat": 23.334178,
+      "lng": 91.27205370000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC36guBl_UzcREI51f1z2ZIc",
+      "name": "INTRACO CNG Refueling",
+      "address": "87R8+2J9, Chandul",
+      "lat": 23.3400465,
+      "lng": 91.2666048,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB6fEwBl_UzcRyIN0MIg4R00",
+      "name": "Ambar Ali Filling Station",
+      "address": "87R8+3HH, N1, Chandul",
+      "lat": 23.3401847,
+      "lng": 91.26648279999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJffUNI2F_UzcRsbU1HbtEJuw",
+      "name": "Sonali LPG Filling Station",
+      "address": "Mia Bazar, Dhaka - Chittagong Highway",
+      "lat": 23.346652,
+      "lng": 91.26171769999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-TjxgWt7UzcRJuiyPo44piM",
+      "name": "K.R Filling Station",
+      "address": "Harisorder bazar",
+      "lat": 23.2564682,
+      "lng": 91.3072904,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJU_-JS3N_UzcRTjoRzi0Suh0",
+      "name": "Highway INN",
+      "address": "9734+GG8, Dhaka - Chittagong Highway, Comilla",
+      "lat": 23.3537807,
+      "lng": 91.2563145,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJO2hC0Xd_UzcRMzWj4YsRKHM",
+      "name": "Bhuiyan Gas Station",
+      "address": "9772+59H, N1",
+      "lat": 23.3629309,
+      "lng": 91.2509716,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaSJWk0B9UzcRK6ntqsMMXqs",
+      "name": "খিরনশাল CNG STOP",
+      "address": "চৌদ্দগ্রাম উপজেলা, A632 Khironshal",
+      "lat": 23.2259861,
+      "lng": 91.26998309999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJe_NvbnN3UzcRMRu4-9VtyGo",
+      "name": "M/s Maa Kamakhya Petroleum Agency",
+      "address": "79RW+6Q, Joychandrapur",
+      "lat": 23.2901944,
+      "lng": 91.3964713,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJCS9QDXlzUzcRSpGYnc4_rbw",
+      "name": "IndianOil",
+      "address": "Ground Floor, Barpathari, Laxmipur",
+      "lat": 23.2902017,
+      "lng": 91.3964791,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2UU01KZ7UzcRP2ljDifZ1Ng",
+      "name": "M A Khaleque Filling Station",
+      "address": "68P7+R8F, N1, Chauddagram",
+      "lat": 23.2370625,
+      "lng": 91.3133125,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJg7LOUAB5UzcR7CusrqpnIxE",
+      "name": "IndianOil",
+      "address": "987G+7GF, Kathalia",
+      "lat": 23.3628995,
+      "lng": 91.3258357,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEbpKcUyBVDcRYLoXnM1mbEw",
+      "name": "National Filing Station",
+      "address": "95G4+P9R, Comilla - Chandpur Road",
+      "lat": 23.3768553,
+      "lng": 91.1558824,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQ7zDpCKAUzcRU1f7sggZbRc",
+      "name": "Yusof Highway Filling Station",
+      "address": "96QJ+9RR, N1",
+      "lat": 23.3884794,
+      "lng": 91.23201159999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_45K6yKAUzcRgjGytpRt9sM",
+      "name": "Essa Garden (Pvt.) Limited CNG filling Station",
+      "address": "N1, boto gram, West Dhaka - Chittagong Highway, Comilla",
+      "lat": 23.3877439,
+      "lng": 91.2327067,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTaAVoBKAUzcRSGOsS0enOIc",
+      "name": "Cumilla Filling Station",
+      "address": "96XC+WRW, N1, Dhaka - Chittagong Highway, Comilla",
+      "lat": 23.4001089,
+      "lng": 91.2218307,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJycjF_yaAUzcRnJ_WBmguQ64",
+      "name": "M/s. M A Hakim & Sons",
+      "address": "96JQ+6CF, N1",
+      "lat": 23.38055510000001,
+      "lng": 91.2385364,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIzzbKQB_UzcRKpt1tBaetlY",
+      "name": "অলিউল্লাহ ফিলিং অ্যান্ড এলপিজি স্টেশন",
+      "address": "ওলইন, সুয়াগাজী",
+      "lat": 23.3759275,
+      "lng": 91.2409773,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJfVwRfXSAUzcRB0EbRqul5AE",
+      "name": "Taj CNG, LPG & Fuel Filling Station",
+      "address": "N1, Comilla",
+      "lat": 23.4044708,
+      "lng": 91.21654219999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEWit0I9_VDcRTizI7tGBkt8",
+      "name": "Advance CNG & LPG Filling Station",
+      "address": "C663+F4F, Dhaka - Chittagong Highway, Comilla",
+      "lat": 23.4111875,
+      "lng": 91.2028125,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJixsfA4R_UzcRXQqYgjUAF0A",
+      "name": "রাহাত ফিলিং সেন্টার",
+      "address": "N 1, Comilla",
+      "lat": 23.3713125,
+      "lng": 91.2453125,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnenQzJB_VDcROyt6BBtrCa4",
+      "name": "M/s. Mallika CNG Filling Station",
+      "address": "N1, Comilla",
+      "lat": 23.4116875,
+      "lng": 91.1976875,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwSuQ6rx_VDcRVlxZm_8s-ww",
+      "name": "Abdul Ali Filling Station",
+      "address": "C56Q+RQ7",
+      "lat": 23.4120293,
+      "lng": 91.1894202,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgyHDq0x-VDcRDrhWJJnvRTU",
+      "name": "Hazari Filling Station",
+      "address": "C55F+599, Chandpur, Sadr",
+      "lat": 23.4079008,
+      "lng": 91.1734788,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_RxS0kx-VDcRqd-kzUtowhw",
+      "name": "Abdur Rahman CNG Station.",
+      "address": "C56F+3C2, Comilla - Chandpur Road",
+      "lat": 23.4101371,
+      "lng": 91.1735281,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-SaV0MB_VDcR-tpu19EP39g",
+      "name": "Classic Filling Station",
+      "address": "C57J+C92",
+      "lat": 23.4135044,
+      "lng": 91.1809011,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWa7tnIN_VDcRGGaLu7Xmbj8",
+      "name": "RBSZ CNG Filing Station",
+      "address": "Ashik Tower, Dhaka - Chittagong Highway",
+      "lat": 23.4144476,
+      "lng": 91.18186779999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ4hg55yBVDcRUOOx377ZPXQ",
+      "name": "ZAMAN CNG LPG & FILLING STATION",
+      "address": "Comilla - Chandpur Highway, লালমাই -বরুড়া সড়ক, কুমিল্লা",
+      "lat": 23.3537979,
+      "lng": 91.1385042,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRfboZgB_VDcRTY9GzawMMEs",
+      "name": "Belghor EST lalmai Camilla",
+      "address": "Belghor EST, Lalmai",
+      "lat": 23.4189058,
+      "lng": 91.1726637,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJjwXqUax_VDcRCvVLVsCTkKE",
+      "name": "মেসার্স নুরুল ইসলাম হাজারী সি.এন.জি এন্ড ফিলিং ষ্টেশন",
+      "address": "পদুয়ার বাজার - হীরাপুর - দিশাবন রোড, Comilla",
+      "lat": 23.4190433,
+      "lng": 91.17227989999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCTK7DlR-VDcR2bLPAj9BeQs",
+      "name": "South CUMILLA CNG Filling Station",
+      "address": "C5C9+2VH, N1",
+      "lat": 23.4200599,
+      "lng": 91.16973709999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-U-JElR-VDcRsiHPntvO76k",
+      "name": "Halim highway services",
+      "address": "C5CC+53C, Paduar Bazar Bishwa Road",
+      "lat": 23.4204478,
+      "lng": 91.1701384,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3UtE5VZ-VDcRWN73p8BFDeU",
+      "name": "Diamond Filing Station",
+      "address": "C5C8+QR6, N1",
+      "lat": 23.421907,
+      "lng": 91.1670187,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAVB5Cld-VDcRb--teGJdlys",
+      "name": "Moon Highway CNG Filling Station",
+      "address": "C5F8+35R",
+      "lat": 23.4227327,
+      "lng": 91.1653822,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAR_iUVh-VDcRXevZBoijoTc",
+      "name": "Highway Gas Station",
+      "address": "C5F6+7W3, Dhaka - Chittagong Highway",
+      "lat": 23.4231475,
+      "lng": 91.1622924,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMe_1Wwd_VDcRjqyp3woz9LU",
+      "name": "তামজিদ সিএনজি ও এলপিজি ফিলিং স্টেশন",
+      "address": "Road Dhaka - Chittagong Highway",
+      "lat": 23.4233721,
+      "lng": 91.16236909999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJie4rjlh-VDcRrid7bNT8WY4",
+      "name": "River View CNG & Filing Station",
+      "address": "C5F6+WCG, N1",
+      "lat": 23.424802,
+      "lng": 91.1610877,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJW0hJbJ-BUzcRO1QPIDjdrt4",
+      "name": "Madina LPG Filling Station",
+      "address": "Comilla Chittagong Bypass Road, Comilla",
+      "lat": 23.4317158,
+      "lng": 91.21510409999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJO5s7q1h-VDcR3Yj1bwgLPSE",
+      "name": "Good Luck Filling Station",
+      "address": "C5G5+5PX, N1",
+      "lat": 23.4254785,
+      "lng": 91.15935929999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcdYwIgB_VDcRhuvyXmeP0Vg",
+      "name": "Loskor bari.huripur.burichong.cumilla",
+      "address": "Loskor bari, Haripur",
+      "lat": 23.4498326,
+      "lng": 91.18466219999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJszzuRgB_VDcRP3DjEzjtVKk",
+      "name": "চিড়া ও মুড়ি মিল",
+      "address": "C5XM+WVM, Cumilla",
+      "lat": 23.4498326,
+      "lng": 91.18466219999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ5So6HSJ_VDcRvlF8CzUljQw",
+      "name": "Eastern Trading Corporation",
+      "address": "F52H+38H, Laksham Road, Comilla",
+      "lat": 23.4501832,
+      "lng": 91.17836040000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJv9I8dl1_VDcRJHo71x-g0eo",
+      "name": "M A HAKIM & BROTHERS, GUDUR PUKUR PAR, CHAWKBAZAR, CUMILLA, BANGLADESH",
+      "address": "Chowk Bazar Road, Comilla",
+      "lat": 23.4598487,
+      "lng": 91.2019304,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXQ_xrEh_VDcR1gcdEY_rdq8",
+      "name": "Nurul Huda Filling Station",
+      "address": "F56W+MMP, Chowk Bazar Road, Comilla",
+      "lat": 23.4618606,
+      "lng": 91.1971573,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6Yo7hH5_VDcR-xw-sSSaqIE",
+      "name": "Petrol station",
+      "address": "F56V+M2P, Sadar Hospital Road, Comilla",
+      "lat": 23.4617082,
+      "lng": 91.1925893,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ1YjKm6F_VDcRJKOdICeuvN0",
+      "name": "M/s Sharif Enterprise",
+      "address": "F56V+Q24",
+      "lat": 23.461886,
+      "lng": 91.1925638,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJb5kaJKZ_VDcRWHO1gttMcDY",
+      "name": "Hridoy enterprise",
+      "address": "F54G+PWF, Cumilla",
+      "lat": 23.4568214,
+      "lng": 91.177301,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJOzGK6uOBUzcRBtBMoqsaKMo",
+      "name": "Monir Store",
+      "address": "C6RM+857, Durlovpur Road, Comilla",
+      "lat": 23.4407951,
+      "lng": 91.2329166,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJDbTHqfZ_VDcRVJm9G3g0DTc",
+      "name": "বাংলাদেশ জেল কারারক্ষী ব্যারাক, কুমিল্লা",
+      "address": "F59G+24M",
+      "lat": 23.4675849,
+      "lng": 91.1753098,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJY4ghmK5_VDcRBFGfVKDH1v8",
+      "name": "S.K Filling Station (এস.কে ফিলিং স্টেশন)",
+      "address": "Cumilla",
+      "lat": 23.4289375,
+      "lng": 91.1546875,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqU5XcI1-VDcRwnyoIepIZak",
+      "name": "Haque CNG Filing Station",
+      "address": "C5P3+P35, N1",
+      "lat": 23.4367678,
+      "lng": 91.15273529999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGZjyFAB_VDcRIJCuS0iI5f0",
+      "name": "জিল্লুর বাতা বাড়ি কুমিল্লা",
+      "address": "C4PX+QP, Cumilla",
+      "lat": 23.4373951,
+      "lng": 91.1506036,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJyVDVdBBmUzcRO0IbxRycDxk",
+      "name": "Shahriar Hanif",
+      "address": "N1, Comilla",
+      "lat": 23.4415575,
+      "lng": 91.15046129999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg8M5Kz5_VDcR9iOMpB61i_k",
+      "name": "Kotbari Filling Station",
+      "address": "C5V2+C2G, bishow road, Kotbari",
+      "lat": 23.4435608,
+      "lng": 91.1500712,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ3b0euwZ_VDcR8IXegggXOz4",
+      "name": "EASTERN FILLING STATION",
+      "address": "F587+W22",
+      "lat": 23.46725919999999,
+      "lng": 91.1625227,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJd7vPDQB_VDcRERNUFasNOGk",
+      "name": "কুমিল্লা ক্যান্টোমেন্ট",
+      "address": "F553+CCH, Cantonment Road, Comilla",
+      "lat": 23.4585718,
+      "lng": 91.1536121,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCxZwNpZ-VDcRGwvBoZEslbY",
+      "name": "Bangla GAS",
+      "address": "C4XX+84C, Dhaka - Chittagong Highway, Comilla",
+      "lat": 23.4483165,
+      "lng": 91.1477527,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdYANS6N-VDcRvWpV3DncvYU",
+      "name": "Mukti Filling Station",
+      "address": "Dhaka - Chittagong Highway, Comilla",
+      "lat": 23.4543528,
+      "lng": 91.14478559999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTVy0u6V-VDcRhmBnYtLSEpU",
+      "name": "CNG Zone Filling Station",
+      "address": "N1, Pduar bazar, Dhaka - Chittagong Highway, Comilla",
+      "lat": 23.4595163,
+      "lng": 91.1416876,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJi9nppcV5VDcRQT6ICBg5iSk",
+      "name": "Energy Tech LPG Filling station",
+      "address": "Janata bazar, uttar magicha, post office, shimpur, Fakir Bazar Road, কুমিল্লা",
+      "lat": 23.49229979999999,
+      "lng": 91.18980619999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJb0BWZq9-VDcRw2kKjz-rgsM",
+      "name": "Sonali Filling Station",
+      "address": "F46R+PMX, N1, Comilla",
+      "lat": 23.46186939999999,
+      "lng": 91.1417302,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_yxPaq9-VDcR0AxheKAHtxA",
+      "name": "Rahmaa Gas Station",
+      "address": "F47R+4H6, N1, Comilla",
+      "lat": 23.4627896,
+      "lng": 91.1413949,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP0vKegB_VDcR-wnOwGdlEns",
+      "name": "মুক্তি ফিলিং স্টেশন",
+      "address": "F47R+R83",
+      "lat": 23.4645147,
+      "lng": 91.1407988,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJlZ_CNal-VDcRZn9QcqAv2vk",
+      "name": "G. Das Gas Station",
+      "address": "F48Q+9WG, N1",
+      "lat": 23.4659331,
+      "lng": 91.1398423,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC7_Fzq5-VDcRYFagrbL-9Xo",
+      "name": "Zannat Filling and CNG Services (LTD)",
+      "address": "F48Q+9R3",
+      "lat": 23.4658952,
+      "lng": 91.1395569,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtVJ6dat-VDcRK3MzgYtr2J4",
+      "name": "Swajan Gas Station",
+      "address": "F4CQ+5GW, N1",
+      "lat": 23.4704936,
+      "lng": 91.13883109999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpzboPat-VDcRGQY6x2hHhTQ",
+      "name": "Rana (Arafat) C.N.G Filling Station",
+      "address": "Alekharchar, N1, Comilla",
+      "lat": 23.4720474,
+      "lng": 91.1384762,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJh3T0qB55VDcRjJaMo2KRZZc",
+      "name": "M/S Mainamati view",
+      "address": "F4GP+7RQ, Cumilla",
+      "lat": 23.47571869999999,
+      "lng": 91.13710110000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJO-4RklV5VDcRdxtSbTrHBQQ",
+      "name": "moynamoti cng filling station",
+      "address": "CML03, Comilla",
+      "lat": 23.47758,
+      "lng": 91.13579229999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcZgtYv57VDcRftg0jcMR_Jc",
+      "name": "Naimul Filling Station & LPG",
+      "address": "N1 Comilla, N1",
+      "lat": 23.4781664,
+      "lng": 91.13291459999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0bLZwLaGUzcROx4QbeaawjI",
+      "name": "IndianOil",
+      "address": "Ground Floor Sonamura, Kathalia",
+      "lat": 23.479956,
+      "lng": 91.27381100000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJO-JIXkyHUzcReM75Jw_tBlg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 171, Dhaliai, Sonamura",
+      "lat": 23.48155,
+      "lng": 91.2766426,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ961Q8KObUzcReaPzTcRrM8I",
+      "name": "M/S Ishita Petroleum Agency. BPCL",
+      "address": "Unnamed Road, Chandul",
+      "lat": 23.4851777,
+      "lng": 91.3719871,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJXk5su2EUzcRNK8uUEbvW8I",
+      "name": "IndianOil",
+      "address": "Ground Floor, Melaghar",
+      "lat": 23.49944899999999,
+      "lng": 91.33946399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEzoIcwCFUzcRPihau43UKoo",
+      "name": "CNG Station",
+      "address": "F8XQ+VPQ, Melaghar",
+      "lat": 23.4997015,
+      "lng": 91.339351,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJu0Vxt4qFUzcRqnEcjurdVF0",
+      "name": "Bharat petroleum",
+      "address": "G84R+R29, Melaghar - Bishramganj Road, Bishramganj, Melaghar",
+      "lat": 23.5070428,
+      "lng": 91.3401114,
+      "open_now": null
+    }
+  ]
+}

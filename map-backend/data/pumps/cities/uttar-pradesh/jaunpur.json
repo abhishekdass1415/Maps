@@ -1,0 +1,843 @@
+{
+  "city": "Jaunpur",
+  "state": "Uttar Pradesh",
+  "count": 104,
+  "center": {
+    "lat": 25.75,
+    "lng": 82.6667
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJbxpjfKU8kDkRaQr1gXhCBuI",
+      "name": "Nayara Petrol pump",
+      "address": "MJHQ+FVQ, Unchani Kalan",
+      "lat": 25.6787113,
+      "lng": 82.6397479,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJO2gDZmAikDkRThPU8o1fvmM",
+      "name": "Bharat Petrol Pump",
+      "address": "Kishunpur",
+      "lat": 25.6144404,
+      "lng": 82.58243949999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCa5GEPU9kDkRWZhhk4L8pK4",
+      "name": "auraila hp",
+      "address": "MHGX+394, Pipara",
+      "lat": 25.675147,
+      "lng": 82.598445,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJh4XsApoQkDkRdoQkZthAiHk",
+      "name": "HP PETROL PUMP - HAMARA PUMP MACHLISHAHR PRASAD FS",
+      "address": "Tehsil, Plot NO 461 Village Jamalpur, Machhali Shahar",
+      "lat": 25.6585288,
+      "lng": 82.58146719999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC1znVMY9kDkR4KQOIk8KNFY",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sheetalganj Sikrara Road Ajoshi, Ganapur",
+      "lat": 25.6822766,
+      "lng": 82.5612812,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMyqHfWUXkDkRL1jb334BCKo",
+      "name": "DEEPCHANDR YADAV",
+      "address": "63, Post, Kailawar",
+      "lat": 25.6841785,
+      "lng": 82.5574601,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJl9JpcQAjkDkRncvvoAvecIw",
+      "name": "Prayagraj",
+      "address": "JHVW+5GJ, Kumbh",
+      "lat": 25.642967,
+      "lng": 82.59626709999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJAVSz-IoXkDkRdA6xJHMmCw4",
+      "name": "Adarsh Vegetable",
+      "address": "122mithepar, Mithepar",
+      "lat": 25.6853618,
+      "lng": 82.55550509999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJGSS6XTQ9kDkR80h9_W0jI_I",
+      "name": "IndianOil",
+      "address": "Ground Floor Mariahu, Unchani Kalan",
+      "lat": 25.6819681,
+      "lng": 82.6416943,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1YXs2AMjkDkRQT7aZ3sKNbU",
+      "name": "Bharat Petroleum, Petrol Pump -Jai Pratap Filling Station",
+      "address": "Madiyahu, Jaunpur",
+      "lat": 25.6386137,
+      "lng": 82.6190237,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6dhdeBojkDkRsYG_nFPrXck",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sheetal Ganj - Sikarara Road, Ajoshi",
+      "lat": 25.6336014,
+      "lng": 82.61589839999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1V2SzmQ7kDkRwYWy-HJfY3k",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 25.702284,
+      "lng": 82.655554,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJEUPxzmQ7kDkRlJWZWaITE7c",
+      "name": "Marat Petroleum",
+      "address": "PM34+9J4, State Highway 5, Phoolpur",
+      "lat": 25.7022459,
+      "lng": 82.6555767,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJW6ODjAQ9kDkRmswHLChP51w",
+      "name": "IndianOil",
+      "address": "Ground Floor, Fatehganj, Dhirajpur",
+      "lat": 25.73931799999999,
+      "lng": 82.59748200000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJab3WPmwXkDkR5XbeU0fFK3s",
+      "name": "Matoshri Filling Station- BPCL",
+      "address": "Bathua, Sikarara",
+      "lat": 25.7087771,
+      "lng": 82.5377706,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJVVSUIoM9kDkRU1KGZphXHYI",
+      "name": "Maa Sharda Filling Station Badauna Fatehganj",
+      "address": "PJQ9+829, State Highway 36, Sarai Rai Chand",
+      "lat": 25.7382918,
+      "lng": 82.61760629999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5_OcQMw7kDkR9Mvlgfn7phM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Mirzapur Road, Jahangirabad, Jaunpur",
+      "lat": 25.708038,
+      "lng": 82.658866,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMSrCNXY7kDkRK0i1LT1GpqQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, Harbaspur",
+      "lat": 25.71345900000001,
+      "lng": 82.662183,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRZrt5a49kDkRp57q9ZeO8rA",
+      "name": "IndianOil",
+      "address": "83 Sadar, Gujar, Pukhta, Sarai, Bishunpur Pul",
+      "lat": 25.742346,
+      "lng": 82.566852,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcRr96VsikDkRmE5Ks1y6XFA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Mariahu",
+      "lat": 25.609982,
+      "lng": 82.590195,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFyrpqZ47kDkRfGVAx_dxiOk",
+      "name": "Hindustan Petroleum",
+      "address": "PMC7+5R5, Jaunpur City Staion Road, Naiganj, Olandganj, Jaunpur",
+      "lat": 25.7204,
+      "lng": 82.6646,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7_kn8-s6kDkRm5IfUbpyoBY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Maharoopur, Fareedpur",
+      "lat": 25.698981,
+      "lng": 82.709041,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfwig7fc6kDkR2v49qjCMb1Y",
+      "name": "IndianOil",
+      "address": "Ground Floor Jagdishpur,Sarai, Jaunpur",
+      "lat": 25.715649,
+      "lng": 82.702902,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmdW5L7c7kDkRG1SbvsvZy_I",
+      "name": "Bharat Petroleum, Petrol Pump -Prime Allied Sevice Corp.",
+      "address": "WAZIRPUR,JAUNPUR,DST JAUNP, Jaunpur",
+      "lat": 25.7342256,
+      "lng": 82.6828961,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-8hQ27k7kDkRESg6Dmazazo",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sunder Nagar, Jaunpur",
+      "lat": 25.735257,
+      "lng": 82.680072,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkXauIsA7kDkRERR6as7YcFo",
+      "name": "Bharat Petroleum",
+      "address": "NH-231, Badshahpur Jaunpur Road, Mahatma Gandhi Marg, Nayiganj, Jaunpur",
+      "lat": 25.7400737,
+      "lng": 82.6706805,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfUIJuUo6kDkRwEg4T0UvGQU",
+      "name": "IndianOil",
+      "address": "Ground Floor, Civil Lines Road, Jaunpur",
+      "lat": 25.73863709999999,
+      "lng": 82.6926684,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJaytQtA6kDkRDxHilNF3mhQ",
+      "name": "Yadav Service Station",
+      "address": "MPH2+X4G, Kajgaon - Jaunpur Road, Gaddipur",
+      "lat": 25.6799335,
+      "lng": 82.7003266,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqREizgM7kDkRP1V4dkriRt0",
+      "name": "Bharat petrol pump",
+      "address": "PM5P+XM2, Jaunpur",
+      "lat": 25.7098999,
+      "lng": 82.68664299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSfu5nc47kDkRO-1jN4sN9cE",
+      "name": "IndianOil",
+      "address": "Ground Floor, Harjupur, Jaunpur",
+      "lat": 25.702693,
+      "lng": 82.706283,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVz9gyYU7kDkRa9cVVjPqcn4",
+      "name": "Baijnath Petro Mart Bharat Petroleum",
+      "address": "Vill- Mustafabad, Van Vihar Road, Jaunpur",
+      "lat": 25.7233459,
+      "lng": 82.67887619999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhYwyS3o7kDkRERwqd3qU-8c",
+      "name": "IndianOil",
+      "address": "Ground Floor, Pukhta Sarai, Sirkoni, Jaunpur",
+      "lat": 25.692011,
+      "lng": 82.71477399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmUPjVgA7kDkReI6OExdj59k",
+      "name": "CNG pump",
+      "address": "MPR7+XW2, Misirpur",
+      "lat": 25.6923867,
+      "lng": 82.7147583,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJYS0tH_c6kDkR6fjbSaYchWI",
+      "name": "Girija And Son's Bharat Petroleum",
+      "address": "Hisampur, NH-56, Varanasi - Lucknow Road, Jaunpur",
+      "lat": 25.71269999999999,
+      "lng": 82.7047,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOx5Sr_c6kDkRlbY3QFg_6BE",
+      "name": "Reliance Petroleum",
+      "address": "Ground Floor, Jaunpur Nh 56, Jafrabad, Hisampur",
+      "lat": 25.714577,
+      "lng": 82.70414009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJb03wwFw7kDkRn-wvNexGmcs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, SH 5, Sadar, Raibhanipur",
+      "lat": 25.72830099999999,
+      "lng": 82.670501,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8Xxl4qs7kDkRAeaEqBPisPM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Chandpur",
+      "lat": 25.730243,
+      "lng": 82.67191,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqZkP21Y6kDkRDWxH3vg7Hsc",
+      "name": "IndianOil",
+      "address": "Ground Floor Jagdishpur, Sarai",
+      "lat": 25.7214356,
+      "lng": 82.6988477,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJE0kmFKM7kDkROT-TA8zfFNo",
+      "name": "Bhagwan Das. & Sons , Ranjan Enterprises",
+      "address": "PMGV+CWM, Vill - Jagadishpatti ,Matapur",
+      "lat": 25.72609079999999,
+      "lng": 82.6948063,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJbfAaEio7kDkR1CF0Bhbr6iw",
+      "name": "KSK Hunsepur Indian Oil",
+      "address": "Zafrabad Road, Husepur",
+      "lat": 25.727916,
+      "lng": 82.7003142,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJvVh20_4kkDkRJp1MBEO6BJI",
+      "name": "अनमोल एल्युमिनियम एण्ड ग्लास वर्कशॉप सेन्टर",
+      "address": "India",
+      "lat": 25.62525669999999,
+      "lng": 82.686303,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJvfS5t7g7kDkRMeWrsnt0SLM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Polytechnic Chauraha, Pukhta, Sarai",
+      "lat": 25.737409,
+      "lng": 82.675806,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJaRpWwAlkDkRTjjFNtiWe28",
+      "name": "Kgn car ac repair",
+      "address": "MP9J+C6V, Sirkoni",
+      "lat": 25.6686153,
+      "lng": 82.7305524,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSexLTVQlkDkRIDORXh1ebss",
+      "name": "Bharat Petroleum",
+      "address": "Sirkoni Jaunpur Varanasi road, NH56, Jaunpur",
+      "lat": 25.66748199999999,
+      "lng": 82.7322373,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCy3wErQ7kDkRSjJytWlfxgo",
+      "name": "Naiganj kumar petrol pump",
+      "address": "PMRC+6F4, Rajgarh Colony, Olandganj, Jaunpur",
+      "lat": 25.7405125,
+      "lng": 82.6712031,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-cjEkOY9kDkRRSnrs1U5j2k",
+      "name": "Bharat Petroleum, Petrol Pump -Kumar Petro",
+      "address": "NAIGANJ,JAUNPUR,DST JAUNPU, Jaunpur",
+      "lat": 25.7399845,
+      "lng": 82.64784970000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSb_ziB07kDkRALlDCqymb3c",
+      "name": "Bharat Petroleum Petrol Pump , GREENLAND FUELS",
+      "address": "PMWC+HJ5, Sultanpur Road, Katghara, PARAGANA - HAVETEHSIL, SADAR, Jaunpur",
+      "lat": 25.7467524,
+      "lng": 82.6718408,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsbWxUc87kDkRUKI37zuZPSQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Jahangirabad, Jaunpur",
+      "lat": 25.745731,
+      "lng": 82.68130099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJK0mouFU7kDkRHiuqUbRZxbM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Jahangirabad, Pukhta Sarai, Olandganj, Jaunpur",
+      "lat": 25.746311,
+      "lng": 82.680911,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJr_-UPag7kDkRpDkOFcP35FI",
+      "name": "Bharat Petroleum, Petrol Pump -Girija & Sons (Ms)",
+      "address": "SARAIPOKTA,WOLNGANJ,DST JA, Jaunpur",
+      "lat": 25.74653529999999,
+      "lng": 82.6843753,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ5-y2OwA7kDkRT2JBZUixSNw",
+      "name": "Om Filling Station Indian Oil",
+      "address": "to, Bhadohi Rd, Ankara, Jaunpur",
+      "lat": 25.7479531,
+      "lng": 82.6837596,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJsSkfpjo6kDkRLGnSDzhnsb4",
+      "name": "Indian Oil Petrol Pump.",
+      "address": "Gata No.23, Baloch Tola, 11/2, Rauja, Chachakpur, Sadar, Jaunpur",
+      "lat": 25.7466786,
+      "lng": 82.6965599,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuYzaJYQxkDkRadVKFYeef8U",
+      "name": "Kisan Sewa Kendra Husepur Petrol Pump",
+      "address": "Husepur, Kabulpur",
+      "lat": 25.6737626,
+      "lng": 82.76774859999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAbyHawAxkDkREYlz1Zo5ByY",
+      "name": "INDIAN OIL",
+      "address": "PP5W+JX5, Imalo",
+      "lat": 25.7090317,
+      "lng": 82.7473662,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDSqhgXIxkDkR0MWvAdJjFW4",
+      "name": "IndianOil",
+      "address": "Gata No 399 Amahit, Sadar, Husepur",
+      "lat": 25.679294,
+      "lng": 82.77688599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_1kZmO8xkDkRM8IzVbo2mgU",
+      "name": "Petrol pump",
+      "address": "MQHV+63, Kharchalpur",
+      "lat": 25.6780625,
+      "lng": 82.7926875,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9WHmSwAxkDkR_GLg2NvqxtQ",
+      "name": "Balaji filling station",
+      "address": "PQFR+CR2, Meerapur",
+      "lat": 25.7225327,
+      "lng": 82.7911271,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJdWS_GwA7kDkR0BJ6cSVw2IA",
+      "name": "Dharmapur gaav",
+      "address": "PPXJ+7V, Dharmapur",
+      "lat": 25.7472996,
+      "lng": 82.7320618,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ22MRVDAxkDkR4P-hCXq52tI",
+      "name": "IndianOil",
+      "address": "Ground Floor Kerakat, Mufti Ganj",
+      "lat": 25.71438999999999,
+      "lng": 82.80493,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJG8uCbfExkDkRQO8_A09vLOA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Khasra No 631, Jaunpur kerakat Road, State Highway 36, Saremu, Sadar, Kabiruddinpur",
+      "lat": 25.749901,
+      "lng": 82.751601,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgYK2FQAxkDkRlhXmrLXfAOo",
+      "name": "Maa Durga filing station",
+      "address": "PQX3+Q9J, Saraiya, mod, Dharmapur",
+      "lat": 25.7498148,
+      "lng": 82.7531363,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJz_zHAJA_kDkRaA294CWVmKI",
+      "name": "IndianOil",
+      "address": "Ground Floor NH 56, Baispar, Dhirajpur",
+      "lat": 25.761723,
+      "lng": 82.6097688,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-261qcM9kDkRpDXXwgYyWKw",
+      "name": "Bhartiya petrol pump",
+      "address": "Lalabazar, QH3G+HM4, Hasrauli, Shivghulam link road, Jaunpur",
+      "lat": 25.7536228,
+      "lng": 82.5758547,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ8awHBAA9kDkRNWiWeNijm6M",
+      "name": "कृष्णा पुरम",
+      "address": "QH2G+R5X, Hirapur",
+      "lat": 25.7521125,
+      "lng": 82.5754844,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJU62gjxk9kDkR10r0Bf9etR4",
+      "name": "Bharat Petroleum, Petrol Pump -Muradganj Filling Station",
+      "address": "MURADGANJ,JAUNPUR,DST JAUN, Jaunpur",
+      "lat": 25.7550779,
+      "lng": 82.629364,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ90YCuGg_kDkRUnurMwQatIU",
+      "name": "IndianOil",
+      "address": "National Highway 731, SAWANSHA, Baksha",
+      "lat": 25.7833485,
+      "lng": 82.57805030000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSSS3n4M_kDkRMI6fqcmo_SU",
+      "name": "Vishambhar Oil Services",
+      "address": "Chhunchha",
+      "lat": 25.7917794,
+      "lng": 82.61322489999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ3QAYx9k9kDkR8vdWshIGcCw",
+      "name": "IndianOil",
+      "address": "No 56, Kulhanamaun",
+      "lat": 25.750628,
+      "lng": 82.648243,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIZekKcE_kDkRhsHUWF1gt78",
+      "name": "IndianOil",
+      "address": "Karanja Kala, Ground Floor Pukhta Sarai, Harbaspur, Jaunpur",
+      "lat": 25.8021306,
+      "lng": 82.6221942,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaRRmeL47kDkRij_4881Srqw",
+      "name": "Reliance Petroleum",
+      "address": "CIVIL LINES,OPP.PRAKASH NURSING HOME,KHATA KHATAUNI NO 51 ARAZI KHASRA NO 196 VI",
+      "lat": 25.7608111,
+      "lng": 82.66091899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnRKrY88VkDkRpOw97-_qxwY",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 71, Sadar, Baherwa, Lakhmipur",
+      "lat": 25.7995229,
+      "lng": 82.5592935,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo2REZAA5kDkRqdReUIIGA7g",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Palhamau",
+      "lat": 25.797041,
+      "lng": 82.655424,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJt8zGmwo5kDkR_sLq7GcTODM",
+      "name": "Krishna Service Station Bharat Petroleum",
+      "address": "SH - 5, Village - Khanpur Akbar, Post - Sadar, (Jaunpur - Shahganj Road), Jaunpur",
+      "lat": 25.7888,
+      "lng": 82.69109999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJt7YHu607kDkRp8XiNOOA1DA",
+      "name": "Bharat Petroleum Petrol Pump , AYUSH SERVICE STATION",
+      "address": "ARAZI NO. 94/1, MOHALLA GADAN AZINITEHSIL SADAR",
+      "lat": 25.7605981,
+      "lng": 82.68099959999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJu3O0RJY7kDkRh6c2EkD3NM8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gata No 94, 96, 121, Sadar, Sukkhipur, Jaunpur",
+      "lat": 25.762801,
+      "lng": 82.688501,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwTxv6-05kDkRRdv76Pasfy0",
+      "name": "DHARMA AMAR FILLING STATION",
+      "address": "Sakarmandi, Jaunpur",
+      "lat": 25.76835939999999,
+      "lng": 82.6881691,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJrZ6sdmI5kDkRaVGqDq-zHuY",
+      "name": "Tejas Kingdom",
+      "address": "Enayatpur Katka Road, Jaunpur",
+      "lat": 25.7745993,
+      "lng": 82.6807458,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJpe5YdZs7kDkRzV1M4K7JfHM",
+      "name": "CNG Bharat Petroleum, Petrol Pump -Maa Sheetla Filling Station",
+      "address": "PACHHATIA,MANDAVIVER,DST J, Jaunpur",
+      "lat": 25.753662,
+      "lng": 82.70755109999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJp0-OECM6kDkR3uJ7lH7p2Qw",
+      "name": "IndianOil",
+      "address": "Ground Floor Panchhatia, Azamgarh road, Aurahi",
+      "lat": 25.7546095,
+      "lng": 82.7097531,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKyZxbgA7kDkRvj3jYA2YYs0",
+      "name": "Ashok Stmabh अशोक स्तंभ",
+      "address": "Pathak Petrol Pump, Jaunpur - Azamghar Road, Panchhatiya, Tiraha",
+      "lat": 25.75488769999999,
+      "lng": 82.70972239999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJaYta-xg5kDkRQIrqVqvu_TM",
+      "name": "Sonkar filling station (Bharat petroleum station)",
+      "address": "QP94+54V, Unnamed Road, Chhabilepur",
+      "lat": 25.767977,
+      "lng": 82.705291,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-QQDMQA5kDkRjaD0N4t0PHs",
+      "name": "Aarya Aarvi Online CNG",
+      "address": "Shitala Dham Chaukiya, New Mandi Road, Jaunpur",
+      "lat": 25.7659271,
+      "lng": 82.711941,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJXWKBm6A5kDkRwaZkg4x-v9A",
+      "name": "IndianOil",
+      "address": "Shahganj Road, Siddikpur",
+      "lat": 25.790591,
+      "lng": 82.69182099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJK7wGCxw6kDkRU_RnrshGYGY",
+      "name": "IndianOil",
+      "address": "Ground Floor, Mahrupur,Shahganj, Jaunpur",
+      "lat": 25.759249,
+      "lng": 82.719673,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs_NVEK0wkDkRxi1AR8dSt0k",
+      "name": "Sainath Filling Station",
+      "address": "Premapur",
+      "lat": 25.7639574,
+      "lng": 82.7436319,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxQAlkTI3kDkR7sXVdUCZ8sI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Vidhar, Gaurabadshahpur, Chorsand",
+      "lat": 25.768901,
+      "lng": 82.766201,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjZ3POgExkDkRL9sKP3GhuFo",
+      "name": "IndianOil",
+      "address": "Ground Floor, SH 66A, Jaunpur - Azamgarh Road, Mehrupur, Ahmadpur",
+      "lat": 25.7653551,
+      "lng": 82.7501869,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJIYjkfxs3kDkR6H9H365WmU0",
+      "name": "Sharda Shankar Service Station",
+      "address": "Jaunpur, Jaunpur Azamgarh",
+      "lat": 25.7684161,
+      "lng": 82.7502475,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHz7srzQ3kDkRaaRvNQLWS0I",
+      "name": "IndianOil",
+      "address": "Ground Floor Gaura, Badshahpur, Sadar, Saloni Mahimapur",
+      "lat": 25.7864993,
+      "lng": 82.7367002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhRdkPAA3kDkRuIv3JGjLXNg",
+      "name": "Paramshila Devi Yadav",
+      "address": "QPQP+J33, Saloni Mahimapur",
+      "lat": 25.789007,
+      "lng": 82.73517079999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJB-187eE5kDkRP9MibeUE7V8",
+      "name": "IndianOil",
+      "address": "near Mobile Tower, Ground Floor, Patahana Kafarpur Link Rd Patahana, near Mobile Tower, Sadar, Kafarpur",
+      "lat": 25.8099139,
+      "lng": 82.7252713,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9yIDeAA5kDkRVzz07Pc7uWk",
+      "name": "Vijay Filling Station",
+      "address": "RP9G+GG, Bhakura",
+      "lat": 25.8188716,
+      "lng": 82.7263028,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCX3QljI3kDkRNidcSrk-odc",
+      "name": "HP PETROL PUMP - SUSHIL FILLING STATION",
+      "address": "Bithar PO Chorsand, Gaurabadshahpur, DT",
+      "lat": 25.7765732,
+      "lng": 82.8088504,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJw8LUs6NqkDkRNHOZoDernoE",
+      "name": "IndiaIndian Oil Petrol Pump",
+      "address": "Leduka",
+      "lat": 25.8707579,
+      "lng": 82.5546014,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJf_v4028_kDkRraWit-e64Mw",
+      "name": "D S KSK petrol pump",
+      "address": "Kolhalganj bazar, Jaunpur",
+      "lat": 25.824207,
+      "lng": 82.6182956,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm4z2MwAVkDkRbpAhVTCRFpI",
+      "name": "Bharat petroleum, Sri Hari petroleum naupedwa",
+      "address": "RG8W+QQ9, Udpur",
+      "lat": 25.8169086,
+      "lng": 82.54699839999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ597EeM8_kDkR8fwhrFu25HM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Malhani Marg, Aurahi",
+      "lat": 25.849234,
+      "lng": 82.638289,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJT9oklm0VkDkR48oCjdFuIrU",
+      "name": "Petrol Pump",
+      "address": "RG8V+CGW, Mahmadpur",
+      "lat": 25.8161034,
+      "lng": 82.54381289999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsaz5I-AVkDkRDPi5JookVwA",
+      "name": "Bharat Petroleum, Petrol Pump -Mahendra Service Station",
+      "address": "NEOPEDWA BAZAR,LKO RD,DST, JAUNPUR",
+      "lat": 25.8178059,
+      "lng": 82.54184409999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ5XskfgAVkDkRFbW19ZmfyeM",
+      "name": "Niraj Filling station(Indian Oil)",
+      "address": "RGGJ+R7Q, Kataka Chak English",
+      "lat": 25.8266003,
+      "lng": 82.5301746,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJdUnldwBrkDkRYpHssy9q5Ak",
+      "name": "Brijesh Chauhan",
+      "address": "61235 Leduka BajarBelava Mod Gram Belava, Jaunpur",
+      "lat": 25.8705786,
+      "lng": 82.5601319,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJT7imCzBBkDkRwjuLB98u-ak",
+      "name": "IndianOil",
+      "address": "Koiridaha Road, Shahganj, Malhani",
+      "lat": 25.871383,
+      "lng": 82.646945,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJVuXIPo4kDkRzVXvxbx8euM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Karanja Kalan",
+      "lat": 25.820164,
+      "lng": 82.686272,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVUnFdN85kDkRrhgUMjW98eo",
+      "name": "Bharat Petroleum, Petrol Pump -S.L. Filling Station",
+      "address": "DEOKALI,SADAR,DST JAUNPUR, Jaunpur",
+      "lat": 25.8422984,
+      "lng": 82.6789699,
+      "open_now": true
+    }
+  ]
+}

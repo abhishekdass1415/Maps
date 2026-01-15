@@ -1,0 +1,2635 @@
+{
+  "city": "Gurugram",
+  "state": "Haryana",
+  "count": 328,
+  "center": {
+    "lat": 28.4595,
+    "lng": 77.0266
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJOWqUTLU9DTkR67uZD2hmOxM",
+      "name": "IndianOil",
+      "address": "Imt Manesar, Gurugram",
+      "lat": 28.3675234,
+      "lng": 76.94225039999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs9Ol0ow9DTkRfbTlHpdbdqI",
+      "name": "Nayara Petrol Pump-Shree Balaji Fuels",
+      "address": "CW4R+6JF, Badha, Gurugram",
+      "lat": 28.4060763,
+      "lng": 76.9410224,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP8oxxD89DTkRG8vZA0_1u2c",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Wazirpur, Manesar Road, Nawada Fatehpur, Sector 86, Gurugram",
+      "lat": 28.3960982,
+      "lng": 76.9329724,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjeWi7O89DTkR2QzSwTmf2jU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Sector 87, Gurugram",
+      "lat": 28.3983761,
+      "lng": 76.9295041,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkVG9bzsWDTkR-Cx9XSEB2JQ",
+      "name": "Essar Petrol Pump",
+      "address": "CWGW+VMM, Pataudi Road, Gurugram",
+      "lat": 28.4272246,
+      "lng": 76.9466729,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJexDerio8DTkRKQ7_acFsI24",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "HSIIDC Indl Estate, Plot No 10, Sector 3, Manesar, Gurugram",
+      "lat": 28.364408,
+      "lng": 76.918697,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQ8CRpuIXDTkRHN7mokNfog4",
+      "name": "IndianOil",
+      "address": "CX9X+M73, NH 8, Sector 35, Narsinghpur",
+      "lat": 28.4188239,
+      "lng": 76.9980334,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJiRQg6PoVDTkRQTi--P0D8qI",
+      "name": "H.P. Petrol Pump jupiter",
+      "address": "CWC5+2FX, SH-15A, Sector 95B, Gurugram",
+      "lat": 28.4201174,
+      "lng": 76.9087493,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJAWfXNY0XDTkR2XiAoZ4c58Q",
+      "name": "Petrol Pump Khandsa",
+      "address": "1656, Kargil Shaheed Sukhbir Singh Yadav Marg, Udyog Vihar Industrial Area Phase VI, Sector 10A, Gurugram",
+      "lat": 28.4422675,
+      "lng": 77.00044369999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxRtP4a9HDTkRJRuLFp6NMXE",
+      "name": "IndianOil",
+      "address": "Ground floor, Mau, Pataudi, Inchha Puri, Gurugram",
+      "lat": 28.3897297,
+      "lng": 76.95582410000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPz2MNMw9DTkRtgGw2GBKDO0",
+      "name": "Sonu Tyre Shop",
+      "address": "Shop No 3, VATIKA INDIA NEXT, Sector 82, Gurugram",
+      "lat": 28.390796,
+      "lng": 76.9630456,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJTXH0ef49DTkRFgI0HnIbrS0",
+      "name": "IndianOil",
+      "address": "Ground Floor, Manesar To D Road, Sector 85, Gurugram",
+      "lat": 28.3968575,
+      "lng": 76.95336019999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4yGdIwA9DTkRxn_39r30rmc",
+      "name": "Hariom filling station",
+      "address": "Ground Floor, Gurgaonimt, Manesar To D Road, Sector 85, Gurugram",
+      "lat": 28.3968846,
+      "lng": 76.9532493,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ4bUOdA9DTkRcj62B5SuKII",
+      "name": "IndianOil",
+      "address": "near Sector 82, Ground Floor Dividing Road, Sikanderpur, near Sector 82, 85, Khandsa, Gurugram",
+      "lat": 28.39792,
+      "lng": 76.958854,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJa9--PKc9DTkREJF6WUgNHvk",
+      "name": "Bharat Petroleum",
+      "address": "9XW2+P28, Dwarka Expressway Link Road, Gurugram",
+      "lat": 28.3967863,
+      "lng": 76.9500758,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSwgiJ2k9DTkRWkajSvoodw0",
+      "name": "Tata motors",
+      "address": "9XM9+472, National Highway 48, Sector 78, Gurugram",
+      "lat": 28.3827527,
+      "lng": 76.9681449,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ0ckgbAA9DTkR9jdhGGJ7Zt4",
+      "name": "CNG pump sector 84",
+      "address": "2, Sector 84, Gurugram",
+      "lat": 28.4011492,
+      "lng": 76.9614242,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7wvOz2s9DTkR_1h-FGYbGuk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Sikandarpur Badha, Sector 84, Gurugram",
+      "lat": 28.401253,
+      "lng": 76.96131100000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJO72uhQg9DTkRQs4w9dQf3cE",
+      "name": "IndianOil",
+      "address": "NH 8, 44, KM Stone, Delhi - Jaipur Expressway, Shikohpur, Gurugram",
+      "lat": 28.3817581,
+      "lng": 76.967839,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ29nT0Ag9DTkRL8qSJECBg5s",
+      "name": "गुप्ता कल्च रिपेरिंग",
+      "address": "9XM9+JQ9, National Highway 48, Sector 78, Gurugram",
+      "lat": 28.38404,
+      "lng": 76.96949599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsavZjcg9DTkRWPFLVyaiqsc",
+      "name": "IndianOil",
+      "address": "Mustil No 30, 11/2/1 Dwarka, Manesar Road, Sector 81, Gurugram",
+      "lat": 28.390277,
+      "lng": 76.942088,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB0mG6DI9DTkRgvxonQ-4kVs",
+      "name": "HP Petrol Pump",
+      "address": "Jai Singh Chowk, H14 Street, Sector 82, Gurugram",
+      "lat": 28.4016287,
+      "lng": 76.9612113,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJqd9Lmd09DTkRqv4amR_56Jc",
+      "name": "IndianOil",
+      "address": "Ground floor, Lakhnola NH 8, 45/6, Mile Stone, Sector 80, Gurugram",
+      "lat": 28.376224,
+      "lng": 76.956869,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqfzdZK49DTkRLMrFWAW3ssU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, KM 46 Stone, near Macdonalds, Nakhrola Road, Manaser, Gurugram",
+      "lat": 28.375381,
+      "lng": 76.955101,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqfuC58w9DTkRlHSRHBW9rC4",
+      "name": "Sita services Indian oil corporation",
+      "address": "9XVH+28J, Sector 84, Gurugram",
+      "lat": 28.3925949,
+      "lng": 76.9782561,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJIxbj55A9DTkRzHVcXWBPP5A",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 8, South City 1, Kherki Daula, Gurugram",
+      "lat": 28.3926813,
+      "lng": 76.9782792,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBTO8i1s9DTkRvPsjdsgPWDc",
+      "name": "IndianOil",
+      "address": "No 19 2, 2 19/2/2/1/1, Sector 86 Road, Badha, BB Ashram, Rewari",
+      "lat": 28.40581199999999,
+      "lng": 76.9439556,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHYZuyaw9DTkRfhDj3TIe_6A",
+      "name": "Bharat Petroleum",
+      "address": "CW4V+7CH, opposite Nayara Petrol Pump-Shree Balaji Fuels, Sector 86, Gurugram",
+      "lat": 28.4056846,
+      "lng": 76.9436132,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJs9CSTwA9DTkRfCmynbN3VF8",
+      "name": "Bharat Petroleum sec 85",
+      "address": "CW5X+CGW, Gurugram",
+      "lat": 28.4086243,
+      "lng": 76.9488403,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXbzHtXk9DTkRcOJ-HkTn9Vs",
+      "name": "SS Petromart",
+      "address": "Sector 85, On Sector 85 & 89, Dividing Road, Gurugram",
+      "lat": 28.4086315,
+      "lng": 76.9488507,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJNRPWD3M9DTkRJLD44j4AfMM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Nawada Fatehpur, Sector 87, Gurugram",
+      "lat": 28.3934814,
+      "lng": 76.93375069999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPRYmapM9DTkRFMIZg4IyJS0",
+      "name": "Indraprastha Gas Limited CNG Station",
+      "address": "Gurgaon - Delhi Expressway, Gurugram",
+      "lat": 28.3936753,
+      "lng": 76.9806057,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJv3twHwA9DTkRZ5ENbWhSHlU",
+      "name": "R.C Millennium",
+      "address": "9XJJ+F26, Sector 77, Gurugram",
+      "lat": 28.3811727,
+      "lng": 76.9800154,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ98EkXgA9DTkRizwjfLrbvVg",
+      "name": "Shree shyam fuel point",
+      "address": "214Y, Sector 89, Manesar",
+      "lat": 28.4137636,
+      "lng": 76.9534147,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJV5xe3EY9DTkRvIcOF0V6Dxg",
+      "name": "IndianOil",
+      "address": "Ground Floor, South City 1, Badha, Manesar, Gurugram",
+      "lat": 28.411774,
+      "lng": 76.94345299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJk4b0EGM9DTkRXASpmo7G3qo",
+      "name": "Indraprastha Gas Limited CNG Station",
+      "address": "BEFORE Kherkidaula toll plaza 42 Milestone Delhi - Jaipur Expressway, NH-8, Kherki Daula, Gurugram",
+      "lat": 28.3974467,
+      "lng": 76.98425069999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJG8RVxEs9DTkRkRnM4pDvKDQ",
+      "name": "Petrol Pump BP",
+      "address": "9XPP+Q9F, Toll Bypass Road, Sector 76, Gurugram",
+      "lat": 28.3869254,
+      "lng": 76.9859099,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ73dQTGo9DTkRRsdrKUkNrYc",
+      "name": "Shree Shyam petro",
+      "address": "9XPP+WGM, To Shikohpur Village, Sector 77, Gurugram",
+      "lat": 28.3873309,
+      "lng": 76.98630539999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJA6ALbAA9DTkRyf1S1L_RIQk",
+      "name": "Kalu gas shop",
+      "address": "9WGJ+6F, Gurugram",
+      "lat": 28.3755905,
+      "lng": 76.9311501,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJBWllCro9DTkRC4Tk0R4RNpA",
+      "name": "indraprastha gas limited cng station",
+      "address": "9XPP+MH, Sector 77, Gurugram",
+      "lat": 28.3864511,
+      "lng": 76.9869531,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqZ3mYYwXDTkRvuovqVBxvhY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 63, opposite Sector 84, 16/1/1, Hayatpur, Gurugram",
+      "lat": 28.4166691,
+      "lng": 76.96108679999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJz0OLk0s9DTkRD7U7XsSpI5c",
+      "name": "MILLENNIUM (BPCL PUMP)",
+      "address": "Sector 77 Road, To Shikohpur Village, Sector 77, Gurugram",
+      "lat": 28.3837193,
+      "lng": 76.98742969999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJq4FKVz09DTkR5WRGW6XzuM8",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sector 77, Gurugram",
+      "lat": 28.3830745,
+      "lng": 76.9880029,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHVsIXwA9DTkRSkFKpo8rkLw",
+      "name": "Bk puc",
+      "address": "9WWF+VR3, Gurugram",
+      "lat": 28.397134,
+      "lng": 76.9245502,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJxaTxb_A9DTkRWHMGbLMtKpw",
+      "name": "SHREE SAI PETROLEUM BHARAT PETROLEUM PETROL PUMP",
+      "address": "9WWF+WM, Gurugram",
+      "lat": 28.3973204,
+      "lng": 76.9241838,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJmYvZAAA9DTkRAyd73XMT1rM",
+      "name": "BPCL RC 76 Petrol Pump",
+      "address": "9XJQ+HW6, Sector 77, Gurugram",
+      "lat": 28.3822509,
+      "lng": 76.9897043,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhd_9LQA9DTkRL1NLNqNTSTI",
+      "name": "Dwarka",
+      "address": "CX3Q+8C4, Northern Peripheral Road, Block D, Vishnu Garden, Sector 105, Gurugram",
+      "lat": 28.40325499999999,
+      "lng": 76.9885867,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJA2v1Mvg8DTkREOzayxhMWZ8",
+      "name": "IndianOil",
+      "address": "Ground Floor, South City 1 Rampura, Naurangpur Road, Manesar, Gurugram",
+      "lat": 28.359301,
+      "lng": 76.966923,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4SPfdAA9DTkRaQppRfkaw0I",
+      "name": "krishna service centre",
+      "address": "9XJR+FG, Gurugram",
+      "lat": 28.3812,
+      "lng": 76.9913,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJDSDZ0fY8DTkRflUaVUiWYzk",
+      "name": "Sanwariya Petro",
+      "address": "Naurangpur Road, Sector 79, Naurangpur",
+      "lat": 28.3591081,
+      "lng": 76.9671455,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-z92dhg9DTkRfxs-DSgleBg",
+      "name": "SH MAMAN SINGH BOHRA FUELS",
+      "address": "DLF ROAD, 87/91, Dividing Road, Kankrola, Gurugram",
+      "lat": 28.3961251,
+      "lng": 76.9210222,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJRXAze_c8DTkRKTuesAOMRE4",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 28.3579653,
+      "lng": 76.9678977,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJt8yCUbw9DTkR_Oba9xGLZrs",
+      "name": "Shyam Sai Fuels",
+      "address": "Naurangpur, New Sector Road, Sector 79, Gurugram",
+      "lat": 28.3578414,
+      "lng": 76.9688224,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaXtaAwAXDTkR9wpeESK_Rts",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 48, Hayatpur Road, Sector 89, Pataudi",
+      "lat": 28.419551,
+      "lng": 76.938891,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy3Alppo9DTkRS1hPaSMjYLE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 8, Shikohpur, Manesar, Gurugram",
+      "lat": 28.37976299999999,
+      "lng": 76.9941751,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMeVbM8E_DTkRSf7ZoZSQUZ4",
+      "name": "IndianOil",
+      "address": "Vill kankrolo, Sector 87, Gurugram",
+      "lat": 28.3958974,
+      "lng": 76.9179212,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJk_H1KtY_DTkRarUVAWijGvY",
+      "name": "Puc Check Point",
+      "address": "Shop No 1, Sector 87, Gurugram",
+      "lat": 28.3957051,
+      "lng": 76.9173847,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJmYH4hVw9DTkR2KFKtEvWNro",
+      "name": "SBI",
+      "address": "India",
+      "lat": 28.4091973,
+      "lng": 76.99238799999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJeQamflw9DTkRWG40wb0lgi8",
+      "name": "IndianOil CNG",
+      "address": "Delhi - Jaipur Expressway, Sector 74A, Narsinghpur",
+      "lat": 28.4097878,
+      "lng": 76.9926912,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuwkAvXcXDTkRXoK19qVd-es",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Hayatpur, Sector 94, Hisar",
+      "lat": 28.419444,
+      "lng": 76.93027699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJu4IoqXQYDTkRmrTDYMB1Ke8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Subhash Chowk, near Hero Honda, Chowk Road, Sector 48, Gurugram",
+      "lat": 28.4274846,
+      "lng": 77.0342605,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMxgVg3QYDTkRTkvdaVeO7X0",
+      "name": "STARK PETROLEUM",
+      "address": "36, Omaxe Celebration Mall, Sohna Road, Gurugram",
+      "lat": 28.4278498,
+      "lng": 77.03567559999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJQSXq6GwYDTkRA890D0odapI",
+      "name": "Bharat Petroleum",
+      "address": "Shop No - 38, State Highway 13, Sector 38 Islampur Village, Sector 38, Gurugram, opposite AIRFORCE Station, 38, Badshahpur Sohna Road, Islampur Village, Sector 38, Gurugram",
+      "lat": 28.4375003,
+      "lng": 77.03514179999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJA3GbRnQiDTkRvVX1q96AqQ0",
+      "name": "Nayara Petrol pump & CNG Station",
+      "address": "near CNG pump, Sector 57, Gurugram",
+      "lat": 28.422272,
+      "lng": 77.0753908,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJz8mEaCIYDTkRfv5Fcw8soh8",
+      "name": "BPCL Fuel Station",
+      "address": "Delhi - Jaipur Expressway, Rajiv Colony, Sector 33, Gurugram",
+      "lat": 28.4448969,
+      "lng": 77.01829850000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBRRxo5ojDTkR3TxQMuelLtk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Police Post, Badshahpur Sohna Road, Bhondsi, Gurugram",
+      "lat": 28.346201,
+      "lng": 77.067391,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEQXl5Q8iDTkRLshWkHUP1M4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Southern Peripheral Road, Sector 62, Gurugram",
+      "lat": 28.41628649999999,
+      "lng": 77.089128,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFYBXbVyRyzsR_Oxo3oLw09Y",
+      "name": "IndianOil",
+      "address": "Ground Floor, Part 1, NH 8, Sector 15, Gurugram",
+      "lat": 28.4501857,
+      "lng": 77.03960219999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6fld5kMYDTkR1eDYwr3xnJ4",
+      "name": "Haryana City Gas CNG Station",
+      "address": "Delhi - Jaipur Expressway, Sector 15 Part 1, Gurugram",
+      "lat": 28.4504697,
+      "lng": 77.03979269999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJO8DzUiYZDTkRlBB3Dl1ZIoE",
+      "name": "Bharat Petroleum, Petrol Pump -Jawala Service Station",
+      "address": "Delhi - Jaipur Expressway, Sector 31, Gurugram",
+      "lat": 28.45586579999999,
+      "lng": 77.04639900000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGUFk7VoYDTkRKyZonNFDqwE",
+      "name": "Cng Pump sec 15",
+      "address": "14, Delhi - Jaipur Expressway, LIG Colony, Sector 31, Gurugram",
+      "lat": 28.4563465,
+      "lng": 77.0470625,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYV4InFoYDTkRDF7SsyJjaYM",
+      "name": "Haryana City Gas CNG Station",
+      "address": "Delhi - Jaipur Expressway, Sector 15 Part 2, Gurugram",
+      "lat": 28.4580247,
+      "lng": 77.04713,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJh5WgPd0jDTkRjYj21BpML2U",
+      "name": "IndianOil",
+      "address": "Southern Peripheral Road, Sector 71, Gurugram",
+      "lat": 28.4014961,
+      "lng": 77.0204052,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM9duN9kjDTkRLsDGfAX5RJU",
+      "name": "COCO BP BADSHAHPUR",
+      "address": "92HV+J47, Aklimpur - Teekli Road, Gurugram",
+      "lat": 28.379037,
+      "lng": 77.042794,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTUYfqm09DTkRZBTzxg1lpKQ",
+      "name": "IndianOil",
+      "address": "17/9/2/4/2 & 10/1, Wml 1, Darbaripur, Gurugram",
+      "lat": 28.386207,
+      "lng": 77.006227,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB4PbHwA9DTkRG8Xav3CLyBQ",
+      "name": "IndianOil",
+      "address": "Central Park II, Sector 48, Gurugram",
+      "lat": 28.3878361,
+      "lng": 77.0040179,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJPTOeKBY9DTkRdK50YjRZRwU",
+      "name": "Bhanu fuels ksk",
+      "address": "92Q3+3GX, Darbaripur Road, Gurugram",
+      "lat": 28.3877265,
+      "lng": 77.0038659,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJiWk9jUsjDTkRY7lZEdMyfOY",
+      "name": "Indraprastha Gas limited",
+      "address": "NH - 248 A, Main Sohna, Gurugram Road, Dhani, Sector 48, Gurugram",
+      "lat": 28.4059805,
+      "lng": 77.0432423,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ0fYn3a49DTkRJbXTTg-ZKn4",
+      "name": "Pradooshan Janch Cendra",
+      "address": "Shop 678, near Hp Pump, Sector 73, Gurugram",
+      "lat": 28.3995374,
+      "lng": 77.00289959999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ6YWfZvY9DTkRiasxkzcW2s0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 8, Begumpur Khatola, Sector 75A, Gurugram",
+      "lat": 28.399423,
+      "lng": 77.00252499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCcyqGTo9DTkR4-_TNaeFwDo",
+      "name": "RAMA Filling Station Bharat petroleum",
+      "address": "C232+5F6, Southern Peripheral Road, Sector 74A, Gurugram",
+      "lat": 28.4029211,
+      "lng": 77.00114669999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbSYneAA9DTkRcyXI5RyI_Hs",
+      "name": "प्रदूषण जांच केंद्र",
+      "address": "CX3W+7X7, Southern Peripheral Road, Sector 75A, Gurugram",
+      "lat": 28.4031503,
+      "lng": 76.9974159,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJS9ukajQjDTkRqqkOGxOE55Y",
+      "name": "IndianOil",
+      "address": "2, Urban Estate, Sector 49, Gurugram",
+      "lat": 28.417473,
+      "lng": 77.041679,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJG2qwCukjDTkRgxR2ji865fA",
+      "name": "Nain singh tyagi filling station",
+      "address": "67 road, Sector 66, Gurugram",
+      "lat": 28.3925187,
+      "lng": 77.0617986,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwWL5fZwiDTkRIkynStDr1s4",
+      "name": "Haryana City Gas CNG Station",
+      "address": "SF-06 State Highway 13 Sector 49, Park Hospital Road, Block S, Sispal Vihar, Gurugram",
+      "lat": 28.4175731,
+      "lng": 77.0421844,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjZamTAAjDTkR6b3JE1YgLuo",
+      "name": "Ajay puc centre",
+      "address": "C29R+4VP, Park Hospital Road, Block S, Sispal Vihar, Sector 49, Gurugram",
+      "lat": 28.4178278,
+      "lng": 77.0421951,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJMcyezjEjDTkRMWbfZDoPTmM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sector 47, Gurugram",
+      "lat": 28.4181157,
+      "lng": 77.04272089999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEbFm-oIjDTkRvURzuA6nU-s",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Medawas, Sector 66, Gurugram",
+      "lat": 28.39304899999999,
+      "lng": 77.062716,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB0fKWn0jDTkR5rJZuSKbQvw",
+      "name": "Harsh Fuels",
+      "address": "opposite Police Station, Golf Estate Road, Sector 66, Gurugram",
+      "lat": 28.4010136,
+      "lng": 77.0616149,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHYrzewUZDTkRZ-bCkbNKDZE",
+      "name": "Indraprastha Gas Limited CNG Station",
+      "address": "C2GG+983, Unnamed Road, Sector 72A, Sector 72, Gurugram",
+      "lat": 28.42587580000001,
+      "lng": 77.02580859999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVSwKGYwZDTkRLatFfD-ePvg",
+      "name": "IndianOil",
+      "address": "Sohna - Gurgaon Road, Sector 48, Gurugram",
+      "lat": 28.425138,
+      "lng": 77.037613,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRbIvYTEZDTkR5woPE3LSsPU",
+      "name": "Mohd Firoz Enterprises",
+      "address": "Hero Honda, near CNG Pump, Road, Sector 33, Gurugram",
+      "lat": 28.4267208,
+      "lng": 77.0237008,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJe7HiKHAZDTkRc9adBqCafeg",
+      "name": "HCG CNG STATION SEC 33",
+      "address": "C2HF+39F, Sector 33, Gurugram",
+      "lat": 28.42748010000001,
+      "lng": 77.0234849,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJbd_9GlgjDTkRWksujzz72BY",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sohna - Gurgaon Road, Fazilpur, Gurugram",
+      "lat": 28.3651955,
+      "lng": 77.059997,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_8xXTgAZDTkRY58521tFM_A",
+      "name": "HCG",
+      "address": "C2HC+5FP, Sector 72A, Sector 72, Gurugram",
+      "lat": 28.4279723,
+      "lng": 77.0212174,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJG9o-WsEZDTkR5nDzMeLUX8g",
+      "name": "Petrol pump",
+      "address": "village, yakubpur, Farukh Nagar",
+      "lat": 28.4292937,
+      "lng": 77.02727449999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ8tR3WUiDTkRLNfWP1IcBFY",
+      "name": "IndianOil",
+      "address": "Opp Nirvana Country Spa, Golf Course Extension Road, Badshahpur, Sector 65, Gurugram",
+      "lat": 28.408913,
+      "lng": 77.06639899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe1AH7AQYDTkRXsI25n8XFjo",
+      "name": "Diesel Yard",
+      "address": "C2J9+45M, Info Technology Park, Sector 34, Gurugram",
+      "lat": 28.4303426,
+      "lng": 77.0179179,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ9xMNyX0ZDTkRteMc5pjY5P4",
+      "name": "TWENTY FOUR HOUR FILLING STATION",
+      "address": "Indian Oil Petrol Pump, near Subhash Chowk, 354/3, Badshahpur Sohna Road, Islampur Village, Gurugram",
+      "lat": 28.4302244,
+      "lng": 77.0362411,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdSmDIwAZDTkRWEX92a2AfQk",
+      "name": "Jatin glass &alluminium",
+      "address": "Badshahpur Sohna Road, Bhondsi",
+      "lat": 28.4303253,
+      "lng": 77.03691069999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJo-EXagAZDTkRdBMB_vlaq0g",
+      "name": "Vicky puncture shope",
+      "address": "Subhash Chowk, 4, Badshahpur Sohna Road, Islampur Village, Sector 48, Gurugram",
+      "lat": 28.4309242,
+      "lng": 77.0389168,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ__w6sEYiDTkRGs7KZ7a4qD4",
+      "name": "Modern Fuels, Petrol Pump, Bharat Petroleum",
+      "address": "93WF+RR9, VILLAGE MEDHAWAS, near Modern Fuels, Gurugram",
+      "lat": 28.3970093,
+      "lng": 77.0748177,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6ZPHmrsYDTkRExoPBfdhzs4",
+      "name": "SKN-HCG CNG Station",
+      "address": "Sector 52A, Gurugram",
+      "lat": 28.4422851,
+      "lng": 77.08596949999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5XMtINMhDTkR6qKWstlRVXI",
+      "name": "Fuel and Fun - Bharat Petroleum",
+      "address": "C4FW+PVR, Baliawas, Bandhwari",
+      "lat": 28.4243629,
+      "lng": 77.1471254,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkwLJ9rcYDTkRBbnSd_tVJQY",
+      "name": "Bharat Petroleum Retail Outlet",
+      "address": "141, Saint Thomas Marg, DLF Phase 5, Sector 43, Gurugram",
+      "lat": 28.449704,
+      "lng": 77.09149719999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJDeq4n-sYDTkRWCnKwb7H68g",
+      "name": "Haryana City Gas CNG Station",
+      "address": "44, Institutional Area, Prem Puri, Sector 32, Gurugram",
+      "lat": 28.45215809999999,
+      "lng": 77.0752005,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ579CbAAjDTkRbt8q_A9X9Kc",
+      "name": "Nicky petrol pump",
+      "address": "24/2-A, CRPF Road, Sector-63A, Kadarpur",
+      "lat": 28.3896257,
+      "lng": 77.09236299999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJjbyiZ90jDTkR0Hh5C6vForw",
+      "name": "IndianOil",
+      "address": "Kadarpur Road, Sector-63A, Gurugram",
+      "lat": 28.39338799999999,
+      "lng": 77.0939017,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLwL0HwAjDTkRBMujLkN3ghM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Medawas, & 64, Sector 63, Gurugram",
+      "lat": 28.395018,
+      "lng": 77.081595,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJj7M_9BMjDTkRT0YWxK1HTIw",
+      "name": "IndianOil",
+      "address": "No 20, South City 1, 2/1/2, Ullawas Dhani Road, Sector 62, Gurugram",
+      "lat": 28.4010985,
+      "lng": 77.0866971,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTXNc4RYjDTkRYVIktV1A1lk",
+      "name": "A.S CHAHAR ENERGY JUNCTION",
+      "address": "64 Dividing Road, Sector 65, Sector 65, Gurugram",
+      "lat": 28.3989842,
+      "lng": 77.0773664,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKTsUZl8jDTkRzx2CjMOhPek",
+      "name": "IndianOil",
+      "address": "Ulhawas Kadarpur, Sohna, Sector 62, Gurugram",
+      "lat": 28.409389,
+      "lng": 77.091469,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg70c1w8iDTkRkMECtwsfW0k",
+      "name": "Hindustan Petroleum HCG CNG Pump",
+      "address": "C38Q+CFQ, Golf Course Extension Road, Block F, Sector 57, Gurugram",
+      "lat": 28.4160981,
+      "lng": 77.08874639999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMYpkJG0iDTkRv7ZJPN0mhfo",
+      "name": "IndianOil",
+      "address": "Ground Floor, Tigra, Sector 62, Gurugram",
+      "lat": 28.4128867,
+      "lng": 77.0785045,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhxU_paUjDTkRargYVaVNE64",
+      "name": "Golf Ex Petrol Pump",
+      "address": "C37H+898, Golf Course Extension Road, Sector 62, Gurugram",
+      "lat": 28.4132796,
+      "lng": 77.078468,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5UHcTCAjDTkRGiFLL-8OQyk",
+      "name": "Ajay Pollution Checking Centre",
+      "address": "Golf Course Ext Rd, Sushant Lok III Extension, Sector 57, Sector 62, Gurugram",
+      "lat": 28.4144759,
+      "lng": 77.07838199999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ5U12ktkjDTkRfHphdxQ3poU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Southern Peripheral Road, Tigra, Gurugram",
+      "lat": 28.4109951,
+      "lng": 77.0725721,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvRae9G4iDTkRebs2Lxlawy4",
+      "name": "HP Petrol Pump, Sec 65",
+      "address": "Vill Tigra Southern, Golf Course Extension Road, Sector 65, Gurugram",
+      "lat": 28.4109064,
+      "lng": 77.0724324,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKzkqPwAjDTkRGMJOWzP8IdE",
+      "name": "Nayara Petrol Pump",
+      "address": "Rail Vihar, Dharm Marg, Block C, Sector 57, Gurugram",
+      "lat": 28.4223522,
+      "lng": 77.0753843,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY7eXqasYDTkRllGUsbq6tTQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, opposite Jalvayu Towers, Sector 53, Gurugram",
+      "lat": 28.4317748,
+      "lng": 77.0994491,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoXwXMzEZDTkRHgtSnxprUAU",
+      "name": "Cng Pump",
+      "address": "Near, IILM Institute, Sector 53, Gurugram",
+      "lat": 28.4318667,
+      "lng": 77.09985429999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo77VwiUZDTkRv6mFi62CMKI",
+      "name": "IndianOil",
+      "address": "&, Dividing Road, 52, Wazirabad, Sector 51, Gurugram",
+      "lat": 28.430385,
+      "lng": 77.081845,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4T9AeQAfDTkRS4MgUJgaDOw",
+      "name": "Ibeju lekki Lagos",
+      "address": "AIT Chowk, Suncity, Sector 54, Gurugram",
+      "lat": 28.4364449,
+      "lng": 77.1042824,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ4_j9TqUYDTkRAr_gF9ey-lI",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sector 52A, Gurugram",
+      "lat": 28.4389571,
+      "lng": 77.08988889999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIQWwvJojDTkRkQNA5pWaDj0",
+      "name": "Raghav Fuels",
+      "address": "Vill, Badshahpur Sohna Road, Bhondsi, Gurugram",
+      "lat": 28.3459487,
+      "lng": 77.06771189999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4RnjIv8fDTkR2Q8ufjhXkm8",
+      "name": "BPCL S.S.FILLING STATION",
+      "address": "Golf Course Road, Sector 54, Gurugram",
+      "lat": 28.4399039,
+      "lng": 77.1031558,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlafOkbsYDTkRlAcMPj4VVfM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sector 52A, Gurugram",
+      "lat": 28.4425402,
+      "lng": 77.08582969999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJi3wuYTghDTkRtdZYJXrP-xc",
+      "name": "CNG FILLING STATION HCG",
+      "address": "MDR137, Baliawas, Bandhwari",
+      "lat": 28.4306092,
+      "lng": 77.1391865,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ8RWFxzcjDTkRQTROH5TQITc",
+      "name": "Bharat Petroleum Petrol Pump , GROVER PETROMART",
+      "address": "VILLAGE BHONDSITEHSIL, Sohna - Gurgaon Road, Gurugram",
+      "lat": 28.3395234,
+      "lng": 77.0681833,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9yE2YwAfDTkR2fkik9kF8BA",
+      "name": "Indian Oil Petrol Pump Neem Tree Fuels",
+      "address": "12/1/2/2/13, Baliawas, Bandhwari",
+      "lat": 28.4360589,
+      "lng": 77.1328345,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY8Ao0NIhDTkRlW_8vFDDcco",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near 10 Km Mile Stone, Faridabad - Gurgaon Road, Balola, Gurugram",
+      "lat": 28.4239956,
+      "lng": 77.14793,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWc6hSAAZDTkRyd3CQ-ScAes",
+      "name": "Torrent CNG GAS",
+      "address": "C3XR+VC7, DLF Phase 5, Sector 53, Gurugram",
+      "lat": 28.4496532,
+      "lng": 77.0910487,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJkViIGXsYDTkRMjqvB_TTBqU",
+      "name": "Bharat Petrol Pump",
+      "address": "Netaji Subhash Marg, Sector 47, Gurugram",
+      "lat": 28.4324101,
+      "lng": 77.04772969999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVwNeSvohDTkRFIKeLOuibG8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near 11 Km Mile Stone, Faridabad - Gurgaon Road, Gwal Pahari, Gurugram",
+      "lat": 28.418851,
+      "lng": 77.157445,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVVoYPe8ZDTkRtO-2iQr7g3A",
+      "name": "IndianOil",
+      "address": "IOCL PetrolPump, Sector 44, Gurugram",
+      "lat": 28.44856489999999,
+      "lng": 77.0776388,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJd9DLSKsZDTkRKDKs5a7Pa_U",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sector 39, Gurugram",
+      "lat": 28.4365912,
+      "lng": 77.0504213,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSfsF0xslDTkR1HPlxLz61pw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Toll Plaza, near Ghamroj, Sohna - Gurgaon Road, Ghamroj",
+      "lat": 28.3301705,
+      "lng": 77.0678655,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFUIK-q0ZDTkRFgP-96vAdBo",
+      "name": "Bharat Petroleum, Petrol Pump -BP-Sector44",
+      "address": "SEC 44, OPP GOLD SUKH MALL, Gurugram",
+      "lat": 28.4518303,
+      "lng": 77.0753667,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJd0VVVQAZDTkRJg2NdsarMJY",
+      "name": "Pollution checking centre",
+      "address": "F34H+48W, Dr. Fuel indian oil petrol pumpSushant, Sushant Lok Road, Phase I, Sector 43, Gurugram",
+      "lat": 28.455363,
+      "lng": 77.0783275,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ90Y4rk4hDTkRCS7Esu-l-uM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Faridabad - Gurgaon Road, Factory Area, Mangar",
+      "lat": 28.4044899,
+      "lng": 77.1748156,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWSqrT-MWDTkRY_0y18NAJc0",
+      "name": "Rahul Pan Shop",
+      "address": "Near Petrol Pump Village Dhankot, Gurugram",
+      "lat": 28.4728067,
+      "lng": 76.9593002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdfX8fZoWDTkRXxJJsfEXaQ4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Sultanpur Lake Road, Budhera, Gurugram",
+      "lat": 28.4725063,
+      "lng": 76.9264523,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ98ewNywYDTkRdLQpp6XJBY4",
+      "name": "IndianOil",
+      "address": "Pataudi Chowk, near Public Health Office, Madanpuri Road, New Colony, Gurugram",
+      "lat": 28.4635182,
+      "lng": 77.0189993,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfdBhkNkZDTkRUnD4Vydr68s",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Station Road, Gurugram",
+      "lat": 28.4798529,
+      "lng": 77.0152465,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx3sSpMUZDTkRdM_ade68XR4",
+      "name": "Bharat Petrol Pump",
+      "address": "LT Atul Kataria Marg, Part- 6, Masani Village, Sector 6, Gurugram",
+      "lat": 28.4805719,
+      "lng": 77.0253108,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs7-bMcoZDTkRIqBQutcQjeg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Sector Road, Sector 12A, Gurugram",
+      "lat": 28.472691,
+      "lng": 77.03096099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1ZRMO-YXDTkRHw2b-rTrRHA",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kadipur, Dwarka Expressway, Kherki Majra",
+      "lat": 28.4653136,
+      "lng": 76.9709194,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpwBatGwXDTkRP8mShq3PA8E",
+      "name": "Bharat Singh fuel company",
+      "address": "Khasra no 224/2/2/2, Sector 37D, Gurugram",
+      "lat": 28.4570333,
+      "lng": 76.97436379999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpXJJVwAXDTkRsrCDJOtjf6I",
+      "name": "HCG CNG Station",
+      "address": "Shri Hari Filling Station, Northern Peripheral Road, Harsru, Sector 37D, Gurugram",
+      "lat": 28.4435732,
+      "lng": 76.9616898,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJr8mDIisXDTkRRx4Te3GpHKk",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sector 37, Gurugram",
+      "lat": 28.4535194,
+      "lng": 76.9777007,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVyB3iGEXDTkRRIBN0ry2TCA",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sector 37, Gurugram",
+      "lat": 28.4535119,
+      "lng": 76.977702,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJV93VfFAXDTkRanDLc4CX_Tg",
+      "name": "Maximum Fuel Services",
+      "address": "opposite to BPTP Park Generation, DISCOVERY PUBLIC SCHOOL Gali 3, 1st Street, opposite to BPTP Park Generation, GATE, Sector 37D, Gurugram",
+      "lat": 28.453485,
+      "lng": 76.977762,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ5bngQQAXDTkRwok8SbquNCE",
+      "name": "JMD Fuels",
+      "address": "Global Heights, Sohna -Gurgaon Road, Sector 33, Gurugram",
+      "lat": 28.478022,
+      "lng": 76.964794,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ72E5bEQXDTkREoQBiaMW7nY",
+      "name": "Shivam Enterprises",
+      "address": "near Indian Oil Petrol Pump, Dhankot",
+      "lat": 28.4725546,
+      "lng": 76.9393899,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJY-uZDt8XDTkRml8WpnEIio4",
+      "name": "IndianOil",
+      "address": "Ground Floor, Farukhnagar Road, South City 1, Sultanpur, Gurugram",
+      "lat": 28.472845,
+      "lng": 76.939267,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe1kHMjQXDTkRPE9pChjskKs",
+      "name": "Bharat Petroleum",
+      "address": "FXCG+XQ8, Dwarka Expressway, Sector 101, Gurugram",
+      "lat": 28.4732543,
+      "lng": 76.9762763,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJIaK_ZwAXDTkRuVKvzxRnW2s",
+      "name": "Petrol pump ⛽",
+      "address": "FXFG+8G3, Gurugram",
+      "lat": 28.4732522,
+      "lng": 76.9763071,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJAR9FRyYXDTkRc5uW-mqwBgk",
+      "name": "Bharat Petroleum, Petrol Pump -Shree Sai Fuels",
+      "address": "FWCM+VQQ, Gurugram Road, Budhera, Chandu",
+      "lat": 28.471814,
+      "lng": 76.93383419999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuYW4W80XDTkRi3FphzpmQ3I",
+      "name": "IndianOil",
+      "address": "Ground Floor, Main, Northern Peripheral Road, Sector 37D, Gurugram",
+      "lat": 28.4355187,
+      "lng": 76.9608957,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgfk5QwAXDTkRd0-gWfi3bys",
+      "name": "CNG Hindustan petrol pump ⛽",
+      "address": "48D, Garauli Kalan, Sector 37C, Gurugram",
+      "lat": 28.446908,
+      "lng": 76.980695,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJo72Oh4oXDTkRR8_sRBnY7o4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Khasra No 9, 6/2, Godoli, Khurd, Sector 37D, Gurugram",
+      "lat": 28.446945,
+      "lng": 76.980959,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB-OyvegXDTkRFG0_WQTganY",
+      "name": "IndianOil",
+      "address": "SH 15A, Gurgaon - Farukhnagar Road, Budhera, Chandu",
+      "lat": 28.4728126,
+      "lng": 76.9326131,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJi-VlSHEXDTkRLZnbNosUUC8",
+      "name": "Bharat Petroleum Gas Station",
+      "address": "FX3P+FVX, Sector 37 C Road, Basai Village, Sector 37D, Gurugram",
+      "lat": 28.4539707,
+      "lng": 76.9867292,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJC_Z5eU0XDTkRZHK8KfYrMA0",
+      "name": "Petrol pump",
+      "address": "CXRJ+4GM, Gadauli Kalan / Gadauli Khurd, Godoli, Sector 37B, Sector 37D, Gurugram",
+      "lat": 28.4403344,
+      "lng": 76.9812853,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2QpyqFgXDTkRFzibhy4VMhU",
+      "name": "IndianOil",
+      "address": "Sec 88 B, Northern Peripheral Road, Harsaru, Gurugram",
+      "lat": 28.4300148,
+      "lng": 76.9617074,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJk0SIBJkXDTkR8sryAVrvhS4",
+      "name": "Guru Industrial Gases",
+      "address": "Shop No 5, Basai Road, Kataria Market, Gurgaon, NCR, Region",
+      "lat": 28.4558649,
+      "lng": 76.99063989999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ20y_Lr4XDTkRuHpEqfgg_84",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Pataudi Road, Sector 37, Gurugram",
+      "lat": 28.443931,
+      "lng": 76.986921,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkaPJDQAXDTkR8-66_5Vuogo",
+      "name": "HCG Gas CNG Pump",
+      "address": "CXVP+HQF, Pataudi Road, Sector 37A, Sector 37, Gurugram",
+      "lat": 28.4439143,
+      "lng": 76.9870306,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJLYxFuTwWDTkRfpmgeO2M090",
+      "name": "Haryana City Gas CNG Station",
+      "address": "Jai Maa Santoshi Filling Station, near Tulip Petals, Gurgaon, Sector 89, Grurugram",
+      "lat": 28.4271454,
+      "lng": 76.9467003,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAxoNZgAXDTkRPvjrCYoGTGc",
+      "name": "Delhi",
+      "address": "FX4W+V9J, Gurugram Road, Vikas Nagar, Sector 9, Gurugram",
+      "lat": 28.4572126,
+      "lng": 76.9958994,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJL2PHIwAXDTkRVIUWPTmRMoM",
+      "name": "Indian Oil petrol pump",
+      "address": "Secto 103, Daulatabad, Gurugram",
+      "lat": 28.4909198,
+      "lng": 76.9734067,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJt6-UAwAXDTkRTXCTSx6Timw",
+      "name": "Haryana city gas sec 10",
+      "address": "24, Sector 10, Gurugram",
+      "lat": 28.4520437,
+      "lng": 76.99555699999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ7R-RySYXDTkRcVofZhYRG3M",
+      "name": "Home town",
+      "address": "FXHR+4GQ, Gurugram",
+      "lat": 28.4778375,
+      "lng": 76.9913594,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ7R0OMwAXDTkRRjhqMHg66AA",
+      "name": "Petrol pump HP",
+      "address": "FXVF+85J, near DAULATABAD STADIUM, Sector 103, Gurugram",
+      "lat": 28.4926828,
+      "lng": 76.97266669999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJNeHpGUIXDTkRkefCr0jHBpw",
+      "name": "Haryana City Gas CNG Station",
+      "address": "near Umang Bhardwaj Chowk, Kadipur Village, Sector 10, Gurugram",
+      "lat": 28.44977879999999,
+      "lng": 76.9969053,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJybXCLYUXDTkRPXullz32Iac",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Daulatabad, Sector 102, Gurugram",
+      "lat": 28.4939805,
+      "lng": 76.9729072,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwwv40X4XDTkRYJ4vtlGSeic",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sector 9A, Gurugram",
+      "lat": 28.471104,
+      "lng": 76.99810409999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ____z48XDTkRCWqkvHM1nss",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kadipur, Pataudi Road, Gurugram",
+      "lat": 28.449579,
+      "lng": 76.999428,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNSZL-oQXDTkRUSolGaxRSko",
+      "name": "IndianOil",
+      "address": "No 189/201, Rec No 6, Killa No 16, Factory Area, Industrial Area, Faridabad",
+      "lat": 28.45712,
+      "lng": 77.00099100000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJa69RfwAXDTkRSmcPCn3_A_w",
+      "name": "Riddhi Fuels Station",
+      "address": "Daulatabad, Gurugram",
+      "lat": 28.495658,
+      "lng": 76.9740547,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkUBZO9cXDTkRMZdbqlz47XM",
+      "name": "A.S CHAHAR FUELS",
+      "address": "A.S CHAHAR FUELS, Sector 10, Gurugram",
+      "lat": 28.4570177,
+      "lng": 77.0013442,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCzs3bQAXDTkRSflZMBTaREc",
+      "name": "Bharat Petroleum DS Fuels",
+      "address": "Shop 21Pataudi Road, Kadipur Road, Kadipur Village, Sector 10A, Gurugram",
+      "lat": 28.449652,
+      "lng": 77.000091,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCc0mSgAXDTkRTImGJSPto-E",
+      "name": "RM engineering works",
+      "address": "F242+FH6, Sector 10, Gurugram",
+      "lat": 28.456184,
+      "lng": 77.00135499999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ-3su0HYXDTkRC-FHnc6HteA",
+      "name": "Online Puc Center",
+      "address": "shop no 1, Petrolm, Gurugram",
+      "lat": 28.4232958,
+      "lng": 76.9360955,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJac0flhIXDTkRsyfvh_fxbTg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Hayatpur, Sector 94, Gurugram",
+      "lat": 28.423001,
+      "lng": 76.935459,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs0UqBBAWDTkRNNibk1LY7WQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, Pataudi Road, Hayatpur, Gurugram",
+      "lat": 28.424239,
+      "lng": 76.93032800000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_wIZ69wZDTkRpun1lKYR_1Y",
+      "name": "IndianOil",
+      "address": "Ground Floor, Gurgaon Basai Road, Chowk, Pataudi",
+      "lat": 28.4571079,
+      "lng": 77.0045693,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJza3HcjAZDTkRXTxB57kDVHc",
+      "name": "Geeta Petro Station",
+      "address": "KILA NO-15/2/2, 15/2/3, near MALWA HONDA, KHE/KHA-723/787, Basai Road, Gurugram",
+      "lat": 28.457312,
+      "lng": 77.004684,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ04DsBhAWDTkRjkbc2P4i5z0",
+      "name": "Haryana City Gas CNG Station",
+      "address": "Vijay Fuels, State Highway 15A, Hayatpur, Gurugram",
+      "lat": 28.4239769,
+      "lng": 76.93014509999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAxH8ZLwXDTkRP1wH3gDqIo4",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sector 104, Gurugram",
+      "lat": 28.484426,
+      "lng": 77.000053,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSUzX7VUYDTkRerzmun1vS4Q",
+      "name": "Bharat Petroleum",
+      "address": "Delhi - Jaipur Expressway, Block A, Sector 30, Gurugram",
+      "lat": 28.465562,
+      "lng": 77.0556369,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJj0X8pwQZDTkRvsGqIm9Co0Y",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Mehrauli-Gurgaon Road, Sector 17C, Gurugram",
+      "lat": 28.476711,
+      "lng": 77.066541,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYeJrLOQYDTkR5Gt7v3-BJd4",
+      "name": "Haryana City Gas CNG Station",
+      "address": "Near Near HUDA City Center Metro Station, August Kranti Marg, Sector 29, Gurugram",
+      "lat": 28.4635142,
+      "lng": 77.0733094,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7_wwzYIZDTkRzxNFVBH848o",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Tau Devi Lal Park, Sector 23A, Gurugram",
+      "lat": 28.50453669999999,
+      "lng": 77.05440949999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo44tZogZDTkRzwROTiSomYc",
+      "name": "IndianOil",
+      "address": "near Ansal Plaza, opposite Sector 23, Sector 1, Palam Vihar, Gurugram",
+      "lat": 28.5129539,
+      "lng": 77.0435676,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ00QJN2QfDTkRFib7Vu7uNds",
+      "name": "Bharat Petroleum, Petrol Pump -Shri Ram Fuel Centre",
+      "address": "Mehrauli-Gurgaon Road, Sikanderpur, Gurugram",
+      "lat": 28.482508,
+      "lng": 77.1030363,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRQnRNosZDTkRNxNEi8Lyp88",
+      "name": "Delhi Oil Corporation",
+      "address": "shop no, 25, Khandsa Road, Sector 11, Gurugram",
+      "lat": 28.4560795,
+      "lng": 77.0228807,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJxTJJvDkYDTkRdxuSEal7O2A",
+      "name": "IndianOil",
+      "address": "Ground Floor, Court Road, Sector 9, Gurugram",
+      "lat": 28.45427099999999,
+      "lng": 77.029191,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ31GhQgAZDTkRx2nmr_Mvm-M",
+      "name": "Man",
+      "address": "F268+4MV, Gali Number 6, Madanpuri, Sector 8, Gurugram",
+      "lat": 28.4603683,
+      "lng": 77.016667,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJey83cOYZDTkRPwR882mvfKY",
+      "name": "IndianOil",
+      "address": "Ground Floor, More, New Colony, Sector 7, Gurugram",
+      "lat": 28.465927,
+      "lng": 77.019615,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJD3rwAnEZDTkRxYYLAiXPVcg",
+      "name": "IndianOil",
+      "address": "Mahavir Chowk, Mehrauli-Gurgaon Road, Maharana Pratap Chowk, Gurugram",
+      "lat": 28.464801,
+      "lng": 77.037384,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS1VVFa0ZDTkR3WTAKNNUHVI",
+      "name": "Haryana City Gas CNG Station",
+      "address": "Mehrauli-Gurgaon Road, Sector 14, Gurugram",
+      "lat": 28.4650189,
+      "lng": 77.03730089999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdYaSL5AZDTkRZ-nVBH1tFZc",
+      "name": "Uranium Fuels",
+      "address": "Ground Floor, near Pataudi Road, Basai Road, Manohar Nagar, Chowk, Gurugram",
+      "lat": 28.4570711,
+      "lng": 77.0135489,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5YqbzyUZDTkRRXn3w-ZGqUQ",
+      "name": "IndianOil",
+      "address": "308/2, Old Delhi Road, Gurugram",
+      "lat": 28.4672292,
+      "lng": 77.0369065,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJE6pRMSMYDTkRfaT0nbneK2w",
+      "name": "Ashima Gases",
+      "address": "35 K.M. Stone, Rajib Colony, Wine Shop, Sector 33, Delhi - Jaipur Expressway, Gurugram",
+      "lat": 28.4478719,
+      "lng": 77.02150809999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCcVgf0sYDTkRgCjHXRBDXf0",
+      "name": "IndianOil",
+      "address": "Ground Floor, Mehrauli Road, Gurugram",
+      "lat": 28.465871,
+      "lng": 77.038963,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJG6GpdQAZDTkRnhsb2j3Eq2g",
+      "name": "Pollution janch Kendra",
+      "address": "F28Q+FPV, Anamika Enclave, Sector 14, Gurugram",
+      "lat": 28.46624019999999,
+      "lng": 77.03931229999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJy-TG0eEZDTkRdTK73q2V-04",
+      "name": "Surender gas shop",
+      "address": "F2CM+W8P, Gali Number 1, West Rajiv Nagar, Sector 12, Gurugram",
+      "lat": 28.472338,
+      "lng": 77.0333279,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJMS3kbqUZDTkRZUv4QebxnyQ",
+      "name": "Pradushan Jaanch Kendra",
+      "address": "Shop No 78, Gurugram",
+      "lat": 28.4448305,
+      "lng": 77.0180611,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJYfprJAAZDTkR9Yx_a4gF9cs",
+      "name": "cut for petrol pump",
+      "address": "129, Delhi - Jaipur Expressway, Sector 31, Gurugram",
+      "lat": 28.4559243,
+      "lng": 77.0464354,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJL5DsnVoYDTkR4QaKi_JPqGk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 8, Part 2, Sector 15, Gurugram",
+      "lat": 28.4578137,
+      "lng": 77.04682079999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUxCod1AYDTkRLM4kaBbBi2E",
+      "name": "Kapil Chopra Enterprise",
+      "address": "India",
+      "lat": 28.4580647,
+      "lng": 77.04695319999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJWcSb61oYDTkRhTRmU3nryvM",
+      "name": "Haryana City Gas CNG Station",
+      "address": "NH 8, LIG Colony, Sector 31, Gurugram",
+      "lat": 28.4562461,
+      "lng": 77.046759,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYS6kAgAxDTkRmbpTTnY9Nek",
+      "name": "Jio-bp pulse",
+      "address": "3rd, IFFCO, No 77B, Road, Gurugram",
+      "lat": 28.4443237,
+      "lng": 77.0388035,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs41eSh8YDTkRByFgSsD-pnw",
+      "name": "Raj Gases",
+      "address": "C2R8+R9P, Delhi Highway, opposite Petrol Pump, NH-8, Gurugram",
+      "lat": 28.4420915,
+      "lng": 77.0159458,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGyJqUwAZDTkR7J48-RTbRyA",
+      "name": "Rajiv Nagar",
+      "address": "F2GR+969, Rajiv Nagar, Sector 13, Gurugram",
+      "lat": 28.4759235,
+      "lng": 77.04061469999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ05qQ_lEZDTkRKYN7bOvwCC0",
+      "name": "Gurgaon Gas Service , Indane Godown",
+      "address": "1, Part II, Sector 15 Part 2, Sector 15, Gurugram",
+      "lat": 28.4648328,
+      "lng": 77.049823,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJm02ZRg4ZDTkRlhmnT_XPt_I",
+      "name": "IndianOil",
+      "address": "near Hero Honda Chowk, Delhi - Jaipur Expressway, Sector 37, Gurugram",
+      "lat": 28.4407788,
+      "lng": 77.01383969999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAXaTIIwZDTkRwQeL5sneHB4",
+      "name": "Air Force Gas agency Gurgaon",
+      "address": "C2PG+CXX, Airforce Station Sohna Road, Sector 33, Gurugram",
+      "lat": 28.4361203,
+      "lng": 77.02747099999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJbbOPv1QYDTkReapxtti81UE",
+      "name": "Priyali",
+      "address": "F392+CR8, Gia Marg, Industrial Development Area, Sector 16, Gurugram",
+      "lat": 28.468548,
+      "lng": 77.05209119999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJB6YBvJ4ZDTkRzSmiTQtWkb4",
+      "name": "Boosting station sector 16 gurugram",
+      "address": "F383+2HF, Unnamed Road, Chander Nagar, Sector 16, Gurugram",
+      "lat": 28.4650591,
+      "lng": 77.05393509999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZ148ewAZDTkR18sCpbYi-YA",
+      "name": "Delhi exit point 16 number south city",
+      "address": "F3C2+QG6, Mehrauli Road, DLF Colony, Sector 14, Gurugram",
+      "lat": 28.4719224,
+      "lng": 77.0512638,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ-UC651geDTkRoAkowupAEu0",
+      "name": "IndianOil",
+      "address": "Ground Floor, Mehrauli-Gurgaon Road, Ghitorni, New Delhi",
+      "lat": 28.4951486,
+      "lng": 77.1508837,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJlWegzOAbDTkR6XqthgtsRJk",
+      "name": "IGL KAPASHERA",
+      "address": "Nera Mcd Toll, Delhi Gurgaon Border, near Chetak Logicstic, opp. Surya Vihar, KAPASHERA, NEW DELHI",
+      "lat": 28.520952,
+      "lng": 77.08228,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIQqd2x8bDTkRqvqXaJ6gcrk",
+      "name": "Bharat Petroleum, Petrol Pump -Jaipur Golden Tpt.Co.Ltd.",
+      "address": "BORDER, Kapas Hera, New Delhi",
+      "lat": 28.5222258,
+      "lng": 77.0819688,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJK9-eP_8bDTkR86rTGlQbyJE",
+      "name": "IndianOil",
+      "address": "Lock No 349, NH 8, Samalka, New Delhi",
+      "lat": 28.5247534,
+      "lng": 77.10100779999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ74Up6uYbDTkRxSKiGXBb0S8",
+      "name": "Naveen Gas Services",
+      "address": "1188, Gali Number 12, Kapas Hera Extension, Kapas Hera, New Delhi",
+      "lat": 28.5229353,
+      "lng": 77.0782625,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJO-Dnz-UbDTkRpVDexGFVVgA",
+      "name": "Indane - Jatin Gas Service",
+      "address": "Shop No 15, near Icici Bank, Kapas Hera, New Delhi",
+      "lat": 28.5289588,
+      "lng": 77.0864943,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJtVY-aAAZDTkR5PFL80bvM2s",
+      "name": "Petrol Station",
+      "address": "Opposite, Vyapar Kendra Road, Sushant Lok Phase I, Gurugram",
+      "lat": 28.4611971,
+      "lng": 77.08446049999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJW8nfIWkZDTkRMoBAz5htqBg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Metro Station, near DLF Phase 1, Mehrauli-Gurgaon Road, Sector 25, Gurugram",
+      "lat": 28.4704264,
+      "lng": 77.0945653,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWXMO8ZAZDTkRzHV50w_gCSY",
+      "name": "IndianOil",
+      "address": "&, 43, Chakkarpur, Sector 27, Gurugram",
+      "lat": 28.4608605,
+      "lng": 77.08384649999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMZMLwqMZDTkRqBJc0S-eLko",
+      "name": "cylinder gas filling",
+      "address": "218, Nathuram Market, A Block, Chakkarpur, Gurugram",
+      "lat": 28.4729249,
+      "lng": 77.0824011,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJHellLq0ZDTkRBVEbxX9I4y0",
+      "name": "IndianOil",
+      "address": "Site 1, Sector 29, Gurugram",
+      "lat": 28.46342539999999,
+      "lng": 77.0725418,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjYC_7CwZDTkRTms5lRU5qX4",
+      "name": "Pemex Global Consultancy",
+      "address": "3 Mehrauli-Gurgaon Road DLF City Garden Estate, Nathupur, Sector 24, Gurugram",
+      "lat": 28.4817687,
+      "lng": 77.1006024,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJYyQV6tMeDTkRgjussZDSh6Q",
+      "name": "Boosting Station",
+      "address": "F4J4+XQ5, Mehrauli-Gurgaon Road, Sikanderpur, Sector 26, Gurugram",
+      "lat": 28.4823843,
+      "lng": 77.10699199999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJUzYdOwAfDTkRhI5bbTc3wJ8",
+      "name": "Janta Filling Station",
+      "address": "opposite Pillar No. 22, near Le Meridien, Plot No 1, Sikanderpur, Marble Market, Sector 26, Gurugram",
+      "lat": 28.4818928,
+      "lng": 77.1085461,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ____v_wYDTkREZXijQssqE8",
+      "name": "IndianOil",
+      "address": "Site 2, Sector 29, Gurugram",
+      "lat": 28.47231099999999,
+      "lng": 77.07236499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJad3pW9EeDTkRNHmfkZY22nI",
+      "name": "Indian Oil",
+      "address": "India",
+      "lat": 28.4823046,
+      "lng": 77.1085478,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJcS19c6MZDTkRfY3akvKXkPA",
+      "name": "IndianOil",
+      "address": "near Building 5, Nathupur, near Building 5, DLF Cyber City, DLF Phase 3, Gurugram",
+      "lat": 28.489352,
+      "lng": 77.0912156,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdaRTOV0ZDTkRdvDNxUQviDE",
+      "name": "Ola Electric Mobility Swapping Station",
+      "address": "37/19, Ashok Marg Gali Number 5 Moti Vihar, South City I, Sector 41, Gurugram",
+      "lat": 28.4585396,
+      "lng": 77.0617998,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJAQAAAAcZDTkR5v2pbAgdsYs",
+      "name": "Rajan Autocare",
+      "address": "Sector 17 C, Fifaco Chowk, Mahadhari, Mahadhari, Gurugram",
+      "lat": 28.4767312,
+      "lng": 77.0665204,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJCcHGNQAZDTkRsec5WRPVzyA",
+      "name": "Sukhral",
+      "address": "F3G8+QFX, Mehrauli-Gurgaon Road, Block C, Sector 17C, Gurugram",
+      "lat": 28.4769998,
+      "lng": 77.0662346,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJvbugwQ8ZDTkRPMm8zdy1ovI",
+      "name": "Ola Electric Mobility Swapping Station",
+      "address": "F3PF+M79, Lane Number 6, Sector 18, Gurugram",
+      "lat": 28.4866682,
+      "lng": 77.0732402,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7x4zLwAZDTkRkCN_YfnovAw",
+      "name": "Enroute Sahay's Filling Station",
+      "address": "F384+67C, Delhi - Jaipur Expressway, Block A, Sector 30, Gurugram",
+      "lat": 28.46552269999999,
+      "lng": 77.0557043,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtWuyNEgZDTkRuLtm-0oSJRY",
+      "name": "IndianOil",
+      "address": "tehsil, near bus stop, Rd tauru Goela, mewat, Tauru, Gurugram",
+      "lat": 28.4881634,
+      "lng": 77.070118,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJh8F4TGIZDTkRYw2925lVzdQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 8, Delhi - Jaipur Expressway, Sector 16, Gurugram",
+      "lat": 28.4663306,
+      "lng": 77.0550071,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJn0GVauEPDTkRi4w1PLfCpoQ",
+      "name": "Indraprastha Gas Limited CNG Station",
+      "address": "C/o SHOKEEN PETRO(BPCL), Main Chawla Najafgarh Road, Vpo. Chawla, Chawla, NAJAFGARH, NEW DELHI",
+      "lat": 28.55671199999999,
+      "lng": 77.0045069,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVYjzm0kRDTkRys2u3CxNLIU",
+      "name": "Bharat Petroleum, Petrol & CNG pump -Jai Shree Krishna Filling Station",
+      "address": "VILL.DINDARPUR, NEW DELHI",
+      "lat": 28.5886702,
+      "lng": 76.9943059,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm0_ragARDTkRI89Z6Yk5e4g",
+      "name": "daulatpur mod",
+      "address": "GXR9+MH6, New Delhi",
+      "lat": 28.54177499999999,
+      "lng": 76.96945769999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJF4upTgARDTkRQAGGQCN_Mws",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "3/1, More, 48/2/2 & 8/2/1, Main Jhatikra Road, Daulatpur, New Delhi",
+      "lat": 28.5431059,
+      "lng": 76.9703803,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl_qobxoXDTkRm7z9ClwEpdM",
+      "name": "Javid Puntchar Shop",
+      "address": "Kocoon, near by Jahaz Ghar, Chowk, Sector 109, Gurugram",
+      "lat": 28.5084673,
+      "lng": 77.0011253,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJeboTMHMXDTkR3XBGoC_z6bY",
+      "name": "Shree Shyam Filling Station",
+      "address": "opp. Ats Kocoon, sec.106, opp. Ats Kocoon, Sector 109, Gurugram",
+      "lat": 28.5078979,
+      "lng": 77.0010954,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJn6w7IgAXDTkR7-3LmX8Kgog",
+      "name": "HP CH SISH RAM FILLING STATION",
+      "address": "2, Daulatabad, Gurugram",
+      "lat": 28.49944,
+      "lng": 76.995311,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ684Vq4AQDTkRmrEHgzqTzR8",
+      "name": "Chhawla Petrol/ CNG Pump",
+      "address": "Chhawla, New Delhi",
+      "lat": 28.5567967,
+      "lng": 77.00472549999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ19NxWTcRDTkRF3go1Brk6cA",
+      "name": "CNG Station Kharkhari Nahar",
+      "address": "HXJ5+44F, Kharkhari Nahar",
+      "lat": 28.5803033,
+      "lng": 76.95779089999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJKXj_hKIbDTkRsNPUE6mDDdU",
+      "name": "S. N. K Friends Body Works",
+      "address": "near jhod, sec 112 bajghere gurgaon 122017, near jhod",
+      "lat": 28.5310147,
+      "lng": 77.01656810000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJHZsnRSURDTkR5A1v2kZvs4w",
+      "name": "IGL CNG PUMP ( SHRI HANUMANT GAS STATION )",
+      "address": "HXGP+J7W, Main Jhatikra Road, Paprawat, Delhi",
+      "lat": 28.57653969999999,
+      "lng": 76.9858163,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0Z-feAAbDTkRTTL_YceoVLo",
+      "name": "Potrol pamp",
+      "address": "G2H9+72G, Sector 112, Bajghera, Gurugram",
+      "lat": 28.52818809999999,
+      "lng": 77.01758319999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJmWc3thoaDTkRnZAEiKtSj9Q",
+      "name": "Rana Filling Station",
+      "address": "G2FC+5XR, Bajghera Road, New Palam Vihar, Block D, New Palam Vihar Phase 3, Sector 110, Gurugram",
+      "lat": 28.52299219999999,
+      "lng": 77.02239900000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6bymrWsbDTkRTJnm18DWbkk",
+      "name": "IndianOil",
+      "address": "Ground Floor Baghera, New Palam Vihar, Carterpuri Village, Sector 23A, Gurugram",
+      "lat": 28.52267399999999,
+      "lng": 77.022908,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJV7L6Aq4bDTkROPWGZF3wqss",
+      "name": "Petrol Pump and CNG",
+      "address": "G2FF+363, Bajghera Road, Sector 113, Bajghera, Gurugram",
+      "lat": 28.522634,
+      "lng": 77.0230613,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJRxLrW_UTDTkR45jdI4J_5EQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, South City 1, Makdaula, Gurugram",
+      "lat": 28.5011314,
+      "lng": 76.896278,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlV4OShIQDTkRz__1z7QJQoI",
+      "name": "Reliance Petroleum",
+      "address": "VILL.DINDARPUR,NAJAFGARH-BIJWASAN ROAD,TEHSIL NAJAFGARH,NEW DELHI- 110043, Najafgarh",
+      "lat": 28.5833894,
+      "lng": 76.99649749999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJO70rGN8ZDTkRsT-fS5XJELE",
+      "name": "Bharat Petroleum, Petrol Pump -Karamveer Filling Station",
+      "address": "RLY STN RD,OPP APNA ENCL,G, Gurugram",
+      "lat": 28.4844463,
+      "lng": 77.0126568,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS9HvsBIUDTkRrCD21PyxJO4",
+      "name": "HP PETROL PUMP - HP PARTAP FILLING STATION",
+      "address": "HPC Petrol Pump Bhadli Road Kaliawas, Gurugram",
+      "lat": 28.4884285,
+      "lng": 76.89573990000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpVPJDd0ZDTkR39NQ-V7nKHM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Palam Vihar Road, Sector 5, Gurugram",
+      "lat": 28.490507,
+      "lng": 77.01924199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ_k3pRIUDTkRSw7Zvkz3lyQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Bhadli Road, Kaliawas, Gurugram",
+      "lat": 28.488171,
+      "lng": 76.89575099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIaB1yd0ZDTkRaMUIf68k-GI",
+      "name": "Sofiya Gas Repairing Centre",
+      "address": "5, Block G, Ashok Vihar Phase 2, Near Hanuman Mandir, Gurugram, NCR, Region",
+      "lat": 28.4870254,
+      "lng": 77.0173976,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTcKlYt0ZDTkRLfLEf44TVBM",
+      "name": "महक कूलर शॉप",
+      "address": "ब्लाक जी, जन्नत हास्पिटल व एचपी पेट्रोल पम्प के सामने, पालम विहार रोड, अशोक विहार, गुरुग्राम",
+      "lat": 28.4896623,
+      "lng": 77.01979380000002,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJTdCE1eYRDTkRYJN86kEsEtQ",
+      "name": "Prince Raj",
+      "address": "Store No 132, New Delhi",
+      "lat": 28.5989174,
+      "lng": 76.9668265,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJSx6UHgQbDTkR4g_Y_SJ1Ep4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Marble Market, Sector 20 Dwarka, Dwarka, New Delhi",
+      "lat": 28.568708,
+      "lng": 77.0632813,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6SimHOIaDTkRaejklq8hKE4",
+      "name": "IndianOil",
+      "address": "Near Welcome Hotel, No, 205 Delhi Road, Sector 10 Dwarka, Dwarka, New Delhi",
+      "lat": 28.57917,
+      "lng": 77.05539999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq90dehobDTkRroKjDcny7kg",
+      "name": "Indraprastha Gas Limited CNG Station",
+      "address": "opp. Apejay School of Management, C/o MILLENNIUM PETROCARE(IOCL, opp. Apejay School of Management, Dwarka Sector 9, New Delhi",
+      "lat": 28.5752839,
+      "lng": 77.0677819,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_-rroroaDTkRFCmdqYF-qPc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Phase 2, Sector 17 Dwarka, Dwarka, New Delhi",
+      "lat": 28.592767,
+      "lng": 77.023387,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ67hLC7cbDTkREeQWqhP1nOI",
+      "name": "IndianOil",
+      "address": "No F28, Dwarka Link Road, Bharthal, New Delhi",
+      "lat": 28.5355358,
+      "lng": 77.0994359,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7QdU0zobDTkRxckP-hzZwko",
+      "name": "B.S Dwarka",
+      "address": "Sector 11 Dwarka, Dwarka, Delhi",
+      "lat": 28.5912405,
+      "lng": 77.0469535,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJseiipLUbDTkRzeaHqRzHB4c",
+      "name": "Bharat Petroleum Corporation Limited",
+      "address": "G3R5+F9W, New Delh3jdx1i, Bharthal, Delhi",
+      "lat": 28.5412363,
+      "lng": 77.05844549999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMRjDwP4aDTkRN7wEYeoDApQ",
+      "name": "Indraprastha Gas Limited CNG Station",
+      "address": "near Vardwan Mall, Pochanpur Village Road, Sector 23, New Delhi",
+      "lat": 28.5657657,
+      "lng": 77.051876,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrTtWZogZDTkRhvbXPY55PvI",
+      "name": "Andian Oil",
+      "address": "India",
+      "lat": 28.512614,
+      "lng": 77.04370349999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJk8DTxxAbDTkRRvqCPt8bICk",
+      "name": "IndianOil",
+      "address": "Ground Floor Kapashera, Near Gorlakhdham Mandir, Main Road, Bijwasan, New Delhi",
+      "lat": 28.5313972,
+      "lng": 77.0626371,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKwslJVgZDTkRLeg5EFv7MM0",
+      "name": "OM LUBES",
+      "address": "DC Office, Kapashera, Gurugram",
+      "lat": 28.4979248,
+      "lng": 77.0328474,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJsVRfe1MaDTkRvZu58j7s0HA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Metro Station, Sector 22 Dwarka, New Delhi",
+      "lat": 28.5557888,
+      "lng": 77.05420869999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJi3AUsDkbDTkRdemYz3cyZq4",
+      "name": "Petrol Pump",
+      "address": "Ranjit Vihar-I, Sector 22 Dwarka, Dwarka, New Delhi",
+      "lat": 28.5560939,
+      "lng": 77.056595,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJTWGWq6wbDTkRymfn63_UpZo",
+      "name": "BHARAT PETROLEUM",
+      "address": "C/o JAG, LAN FS (BPCL, near Sai Temple, opp. BANK VIHAR APARTMENT, Ranjit Vihar-I, Sector 22 Dwarka, Dwarka, New Delhi",
+      "lat": 28.5560787,
+      "lng": 77.0566518,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvSVZLwAbDTkRsDMnDw9jB5U",
+      "name": "CNG Puml",
+      "address": "91, Main Road, Kapas Hera, New Delhi",
+      "lat": 28.5282843,
+      "lng": 77.06953100000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJKZLO0iAZDTkR-zFXuKyQ9zU",
+      "name": "Bedanta Grocery",
+      "address": "87, Krushna Building, New Delhi",
+      "lat": 28.5148106,
+      "lng": 77.0664103,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJwa0kx24bDTkRHfxKYL3TFQM",
+      "name": "Abdula Shop",
+      "address": "Shop No 10, Gali Number 4, Kapas Hera, New Delhi",
+      "lat": 28.5252273,
+      "lng": 77.0771317,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJs_CxlnEZDTkRq8ANo24B2UE",
+      "name": "Shiva Diesel Services",
+      "address": "Shop No.103, Maruti Main Gate, 1, Old Delhi Gurugram Road, Gurugram",
+      "lat": 28.497453,
+      "lng": 77.0628119,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtaMhGXEZDTkRKrxDUu5Ku2k",
+      "name": "Shubham petroleum",
+      "address": "H No 76, near Omi Dairy, Dundahera Road, Gurugram",
+      "lat": 28.5152873,
+      "lng": 77.077015,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJiQ4kOgAbDTkRhQ9jgJTEJbM",
+      "name": "IGL MANGAL PETROL PUMP KAPASHERA 110097",
+      "address": "near SBI, A91, Main Road, Masoodpur, Kapas Hera Extension, Vasant KunjNew, New Delhi",
+      "lat": 28.5309849,
+      "lng": 77.0800399,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJYSg0DgAbDTkRS_FJcr9Dkb4",
+      "name": "Massif securitas pvt ltd",
+      "address": "G3GH+FX4, Kapas Hera, New Delhi",
+      "lat": 28.5261267,
+      "lng": 77.079966,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ09iBOY8bDTkRpGIGBlVATuE",
+      "name": "Bharat Petroleum, Petrol Pump -Mangal",
+      "address": "Kapas Hera, New Delhi",
+      "lat": 28.53083380000001,
+      "lng": 77.08017029999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJI0_dGQAbDTkRWpWjI0XdQR0",
+      "name": "Pushpanjali farm house C-31",
+      "address": "G3PH+CW8, Pushpanjali Farms, New Delhi",
+      "lat": 28.5360283,
+      "lng": 77.079833,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ6xTzhKAZDTkRO0opj4urPDw",
+      "name": "SOS",
+      "address": "F3Q4+M5Q, Old Delhi Gurugram Road, Inayatpur",
+      "lat": 28.489203,
+      "lng": 77.055471,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJReEob5gZDTkRaXNL6n-DNnk",
+      "name": "IndianOil",
+      "address": "Lock Id No, I/557, Border, Kapas Hera, New Delhi",
+      "lat": 28.5184632,
+      "lng": 77.0800354,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJMXTx9F8ZDTkRaqFDYWvSEuM",
+      "name": "Kapasera Delhi CNG Station",
+      "address": "890, Old Delhi Gurugram Road, Dundahera Village, Sector 20, New Delhi",
+      "lat": 28.5182697,
+      "lng": 77.0807624,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUUsQil8ZDTkR2aVrysjjJaA",
+      "name": "Indraprastha Gas Limited CNG Station",
+      "address": "1780, Old Delhi Gurugram Road, D Block, Dundahera Village, Sector 20, Gurugram",
+      "lat": 28.5185034,
+      "lng": 77.08121299999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJDwMyJLsZDTkR3J4bNs68rj4",
+      "name": "IndianOil",
+      "address": "Lock No 348 Gurgaon Road, Kapashera, Border, Sultanpur, New Delhi",
+      "lat": 28.5180233,
+      "lng": 77.08133339999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtcVosQ0bDTkRXW-7T0oapVw",
+      "name": "Indraprastha Gas Limited CNG Station/Jaipur Golden transport co Petrol pump",
+      "address": "G3CJ+9V9, Old Jaipur Road, New Delhi",
+      "lat": 28.5209169,
+      "lng": 77.0822407,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJx2vCQAAbDTkRIVjtTFPjgG8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Old, Old Delhi Gurugram Road, Border, Kapas Hera, New Delhi",
+      "lat": 28.520792,
+      "lng": 77.08239600000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2e6ZRgAbDTkR8-cXVp9AGvU",
+      "name": "Cng pump",
+      "address": "Ground Floor, near Marble Market, Sector 20 Dwarka, Dwarka, New Delhi",
+      "lat": 28.5687328,
+      "lng": 77.06326539999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJgeOBShIcDTkRLbJmIvHb9zU",
+      "name": "KAY SERVICE STATION ADHOC",
+      "address": "National Highway 48, Mahipalpur, New Delhi",
+      "lat": 28.5407473,
+      "lng": 77.1168502,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmxNcuBMcDTkRQZAi9rpD87s",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Raddison Hotel, NH 8, Mahipalpur - Rangpuri Road, New Delhi",
+      "lat": 28.5448724,
+      "lng": 77.1214243,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTdwcx7EdDTkR_hbJ4gsMgfk",
+      "name": "IGL CORPORATE OFFICE CONTROL ROOM VASANT KUNJ",
+      "address": "Adjacent To Pushpanjali Petrol Pump Near Ambience Mall Vasant Vihar VASANT VIHAR Sector C Vasant Kunj, 4, Vasant Vihar Poorvi Marg, Block F, Vasant Vihar, New Delhi",
+      "lat": 28.537579,
+      "lng": 77.153215,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmZmF580dDTkRIhSrrJeJp8w",
+      "name": "Bharat Petroleum, Petrol Pump -Pushpanjali",
+      "address": "NELSON MANDELA RD ,VK, New Delhi",
+      "lat": 28.53779919999999,
+      "lng": 77.15333009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1dDREXQeDTkRNUbCHkJGWDA",
+      "name": "Indraprastha Gas Limited CNG Station",
+      "address": "near Fortis Hospital, Aruna Asaf Ali Road, near Fortis Hospital, Kishangarh, Vasant Kunj, New Delhi",
+      "lat": 28.5217323,
+      "lng": 77.1666991,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4RCiVLkdDTkR8mCGsWX5C-U",
+      "name": "Bharat Gas Filling Station",
+      "address": "326, Nelson Mandela Marg, Munirka Enclave, Munirka, New Delhi",
+      "lat": 28.55500679999999,
+      "lng": 77.1656855,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJNW0KU0cbDTkRT232hFWE0S0",
+      "name": "Bharat petroleum, Shiv Service Station",
+      "address": "Pocket 1, Sector 1 Dwarka, Dwarka, New Delhi",
+      "lat": 28.5937741,
+      "lng": 77.07786589999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJb6s44j8eDTkR0kRkyiQt8Pg",
+      "name": "IndianOil",
+      "address": "Khasra No 76, Metro Station, near Chhatarpur, 26, Mehrauli-Gurgaon Road, Andheria Mor Village, New Delhi",
+      "lat": 28.5042688,
+      "lng": 77.1717245,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDZcs0hQcDTkR_9ZEZMtSyUw",
+      "name": "IndianOil",
+      "address": "NH 8, Mahipalpur, New Delhi",
+      "lat": 28.5448618,
+      "lng": 77.1218743,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJER-W4L8bDTkRN-qOLJ5lz8c",
+      "name": "Sohop Lala Auto Warks",
+      "address": "G4F2+R8J, Yawantika Colony, Rangpuri, New Delhi",
+      "lat": 28.5245899,
+      "lng": 77.1007568,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJd1MW4rUbDTkRl1o0ObHROZs",
+      "name": "Aravalli",
+      "address": "Rajokri Flyover, Yawantika Colony, Samalka, New Delhi",
+      "lat": 28.522878,
+      "lng": 77.09960149999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJx-SIvx0bDTkRw2g_SQFVyHA",
+      "name": "Indane - Jatin Gas Service",
+      "address": "Shop No 15, near Icici Bank, Kapas Hera, New Delhi",
+      "lat": 28.5289588,
+      "lng": 77.0864943,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJC05qMO0dDTkRkiOfbXtC38Y",
+      "name": "Satbir Filling Station",
+      "address": "National Highway 48, Rangpuri, New Delhi",
+      "lat": 28.533824,
+      "lng": 77.10697069999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM2WnsGUdDTkRD9ZKnIwiyVU",
+      "name": "IndianOil",
+      "address": "Indira Gandhi International Airport, Gurgaon - Delhi Expressway, New Delhi",
+      "lat": 28.5363658,
+      "lng": 77.11404329999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJA46htBMcDTkRZSAMM055U-o",
+      "name": "HP PETROL PUMP - ADHOC HIGHWAY SERVICE STATION",
+      "address": "Airport Hotel Breeze Inn, Near Village, NH-8, Mahipalpur - Rangpuri Road, Mahipalpur Village, Indira Gandhi International Airport, New Delhi",
+      "lat": 28.5406844,
+      "lng": 77.1168703,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGcPCSgsdDTkR5GWxmkJZxWY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, opposite Radission Hotel, Gurgaon - Delhi Expressway, Rangpuri, New Delhi",
+      "lat": 28.540971,
+      "lng": 77.116958,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ12h4thIcDTkR2DLW0P2WsVU",
+      "name": "IGL",
+      "address": "Tikri Border, Rohtak Road, Near Bahadurgarh-Delhi Border, Delhi Border, NEW DELHI, Rohtak Road, TIKRI BORDER",
+      "lat": 28.5444114,
+      "lng": 77.1152942,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq_4E0T8dDTkR2o8NLcrOvWQ",
+      "name": "Meena Tea Stall",
+      "address": "161 Gali, Street Number 14, Rangpuri, New Delhi",
+      "lat": 28.54158679999999,
+      "lng": 77.12050239999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJx8Bk9pUdDTkRdzEw7hMDPJo",
+      "name": "Vicky palumbr",
+      "address": "G4RC+2X8, Milakpur Kohi Rangpuri, Rangpuri, New Delhi",
+      "lat": 28.5394683,
+      "lng": 77.1230283,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ5U4eO4cdDTkRckW8hgTokWw",
+      "name": "Parag Sakhare",
+      "address": "27u, New Delhi",
+      "lat": 28.5422409,
+      "lng": 77.12580439999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJX-XqCggdDTkRN43-AbBnvy0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground floor, Indira Gandhi International Airport, New Delhi",
+      "lat": 28.5582173,
+      "lng": 77.10686179999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqYb-M-4dDTkRXR-ffCtAEaA",
+      "name": "Jio-bp pulse",
+      "address": "Ground Floor, near IBIS Hotel, IGI Road, Aerocity, New Delhi",
+      "lat": 28.551396,
+      "lng": 77.123373,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoY9ZZUAcDTkRupiXP21_E28",
+      "name": "Rajpal Gas Service",
+      "address": "G4WH+M3V, Mahipalpur, New Delhi",
+      "lat": 28.546733,
+      "lng": 77.1276833,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ43E8mDscDTkR5BGDvEGZtp8",
+      "name": "Indraprastha Gas Limited CNG Station",
+      "address": "Ryan International School - Vasant Kunj, Delhi - CBSE, Mehrauli Vasant Kunj Marg Near, Mahipalpur, New Delhi",
+      "lat": 28.5385175,
+      "lng": 77.1326165,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgXS4etkfDTkREIaDjHttArI",
+      "name": "Puja General Store",
+      "address": "Vinod Kumar Saini, Vinod Kumar Saini, Gurugram",
+      "lat": 28.4973252,
+      "lng": 77.1066444,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJf0zfcaEbDTkR-4xhHTaNbxY",
+      "name": "Palam ASF",
+      "address": "H35G+M96, Indira Gandhi International Airport, Delhi",
+      "lat": 28.559152,
+      "lng": 77.07587749999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJp9GR5C0cDTkRQ3t0_4jDsnU",
+      "name": "IndianOil",
+      "address": "Lock No, I 562, Vasant Kunj, New Delhi",
+      "lat": 28.535133,
+      "lng": 77.14323399999999,
+      "open_now": true
+    }
+  ]
+}

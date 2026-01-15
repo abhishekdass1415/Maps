@@ -1,0 +1,971 @@
+{
+  "city": "Kota",
+  "state": "Rajasthan",
+  "count": 120,
+  "center": {
+    "lat": 25.2138,
+    "lng": 75.8648
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJv-Prv4mEbzkRzwa_apZhnjU",
+      "name": "IndianOil",
+      "address": "Ground Floor, Swami Vivekananda Nagar, Kota",
+      "lat": 25.118501,
+      "lng": 75.822998,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVZs7weiRbzkR03JrUUQYHSA",
+      "name": "Bharat Petroleum Corporation Limited, Kota TOP",
+      "address": "NH-27, Baran Road, Village- Brijeshpura, Tehsil, Kota",
+      "lat": 25.1054065,
+      "lng": 75.830902,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfwpG9t-EbzkRYVH5VSz0eK4",
+      "name": "IndianOil",
+      "address": "Part 2, Block A, Rajeev Gandhi Nagar, Choraha, Kota",
+      "lat": 25.144301,
+      "lng": 75.853203,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM0GS9d-EbzkRuVNQ2FTdN3c",
+      "name": "BPCL Petrol and CNG Pump - Bedi Brothers",
+      "address": "Bharat Petroleum, near Aerodrum Circle, Jhalawar Road, Kota Airport Area, Gumanpura, Kota",
+      "lat": 25.1659381,
+      "lng": 75.8510561,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUXUz9AKFbzkRivWH1R9T63Q",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Plot No 1, Jhalawar Road, Transport Nagar, Indraprastha Industrial Area, Kota",
+      "lat": 25.129101,
+      "lng": 75.85521899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJi0c9iyqbbzkRUhYncdcTACA",
+      "name": "IndianOil",
+      "address": "Aerodrum Circle, Jhalawar Road, Gumanpura, Kota",
+      "lat": 25.169101,
+      "lng": 75.852097,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJixCPGwGFbzkRB4baunz_bwI",
+      "name": "Reliance Petrol Pump",
+      "address": "Jhalawar Road, Anantpura, Kota",
+      "lat": 25.1241579,
+      "lng": 75.8570964,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxRN7JiibbzkRY_LogrYijGQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Power House, Aerodrome Road, Kotri Road, Kota",
+      "lat": 25.175971,
+      "lng": 75.853291,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5U3J0y2FbzkRI_BSYA8idII",
+      "name": "Bharat Petrol Pump",
+      "address": "59, DCM Road, Ramchandrapura, Dhanmandi, Kota",
+      "lat": 25.1624844,
+      "lng": 75.8616146,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoV_0R6mFbzkRzImRcA_Ymu8",
+      "name": "IndianOil",
+      "address": "Jhalawar Road, Anantpura, Kota",
+      "lat": 25.1155462,
+      "lng": 75.8606975,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUyN7kGOcbzkRJUNo_qauRhM",
+      "name": "IndianOil",
+      "address": "Ladpura, Nanta",
+      "lat": 25.211615,
+      "lng": 75.791466,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJefyT-buDbzkRO82mu94G4eU",
+      "name": "BPCL Petrol PUMP KOTA (CNG*)",
+      "address": "4RH3+PPV, Swami Vivekananda Nagar, Kota",
+      "lat": 25.1293566,
+      "lng": 75.8042992,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYQDIOTaDbzkRwKW0slgWhcY",
+      "name": "Tejraj Singh",
+      "address": "Naya Gov, Kota",
+      "lat": 25.1227696,
+      "lng": 75.7936236,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJXVA8dQCFbzkR4MZeODRgjIs",
+      "name": "Shah Manjil (Nawaz Shah)",
+      "address": "No 68 Shah Manjil (Nawaz Shah ) Amwa, Shivpura, Balrampur",
+      "lat": 25.1524902,
+      "lng": 75.81735309999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJg5x4vgyFbzkRrpC82yXYUIY",
+      "name": "Vp Pvt",
+      "address": "246vhl, Swami Vivekananda Nagar, Kota",
+      "lat": 25.1216501,
+      "lng": 75.82467009999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJJ9GE-MWEbzkRI0Otgo6Ohn0",
+      "name": "BP kota",
+      "address": "New Jawahar Nagar, Talwandi, Kota",
+      "lat": 25.1531302,
+      "lng": 75.8364659,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEbqYbPKEbzkRF_zLbhQFK0c",
+      "name": "IndianOil",
+      "address": "Balaji Market, near Medical College, Rangbari Road, Ladpura, Kota",
+      "lat": 25.128799,
+      "lng": 75.83460199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBRR0TQCFbzkR8A5TaPGGqKg",
+      "name": "Shivpuri.m.p.",
+      "address": "5R4P+HGJ, New Jawahar Nagar, Talwandi, Kota",
+      "lat": 25.1564664,
+      "lng": 75.8362808,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJKWPz_V2FbzkReewTL3Af3Cw",
+      "name": "Amanhs",
+      "address": "3h5, Mahaveer Nagar 3, Kota",
+      "lat": 25.136799,
+      "lng": 75.8427396,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJE0-jpNiFbzkRckg_crTdboY",
+      "name": "Meena Chelani",
+      "address": "House No 102, First Floor, Sector 11A Parijat Colony Special, Housing Board, Mahaveer Nagar, Kota",
+      "lat": 25.132817,
+      "lng": 75.8459203,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJw2sLHgCbbzkRZFbwo7O1jzo",
+      "name": "Kaithu",
+      "address": "5RHJ+HX7, Kaithunipol, Rampura, Kota",
+      "lat": 25.178919,
+      "lng": 75.83243399999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJk8dVTgCFbzkRH1eGY8X291w",
+      "name": "Indian Oil Petrol Pump",
+      "address": "4VX3+6FG, Commerce College Road, Sector 1, Talwandi, Kota",
+      "lat": 25.1480726,
+      "lng": 75.8537178,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJAcFAU3uFbzkRWouVjXBEPt8",
+      "name": "Shivaya fillling Station",
+      "address": "No. 3, A-46(B), Road, Indraprastha Industrial Area, Kota",
+      "lat": 25.1386953,
+      "lng": 75.8547967,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVU0M9oKFbzkRypCp-0C6HxY",
+      "name": "Bharat Petroleum, Petrol Pump -Heera & Company",
+      "address": "Rawatbhata Road, Gumanpura, Kota",
+      "lat": 25.1747993,
+      "lng": 75.8447886,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsZ5yxrmFbzkRQPViMrIZpDU",
+      "name": "Reliance Petroleum",
+      "address": "RELIANCE PETROL PUMP, SH 19, KHANPUR PIN CODE 326038 KHANPUR",
+      "lat": 25.1375337,
+      "lng": 75.8550647,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJA5owH4ObbzkRLLuM2Ws3XOk",
+      "name": "JBR INDUSTRIAL WORKS",
+      "address": "406, Axis Bank, Shopping Centre, Gumanpura, Kota",
+      "lat": 25.1685517,
+      "lng": 75.849655,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJI3vdO9WEbzkRDdTrzuamWuI",
+      "name": "IndianOil",
+      "address": "Ground Floor, opposite airport, Jhalawar Road, Kota",
+      "lat": 25.16517069999999,
+      "lng": 75.85142689999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJk47_1FqbbzkRufODAmJCBnc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Gumanpura, Kota",
+      "lat": 25.1756314,
+      "lng": 75.8457725,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcxOLO9WEbzkRzeUSBFw6aHI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Plot No 3, Jhalawar Road, Aerodram, Dhanmandi, Kota",
+      "lat": 25.166101,
+      "lng": 75.85170099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJARNbedWEbzkRyJtucvfPCkQ",
+      "name": "MICRO FUEL SERVICE",
+      "address": "India",
+      "lat": 25.1637916,
+      "lng": 75.85297059999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJaUoeh2cqezkR96HSjAd3f2M",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "680, 899/677, near Asalpur Chauraha, Kh No 677, Jhalawar Bhopal Rd, Asalpur, Aklera",
+      "lat": 25.1682854,
+      "lng": 75.8515953,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3Qc61MaFbzkRpEfN2VSPFOk",
+      "name": "IndianOil",
+      "address": "Kh No 32 Plot No, Anantpura, Kota",
+      "lat": 25.1196028,
+      "lng": 75.8519096,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWYHkinybbzkRQUrVkyn4bCU",
+      "name": "IndianOil",
+      "address": "Ladpura, Nanta",
+      "lat": 25.200232,
+      "lng": 75.811089,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH9kTEwCbbzkR_deA1YmG16I",
+      "name": "CNG PUMP -Torrent Gas, Nevaji FS Nanta",
+      "address": "6R26+3GR, Nanta",
+      "lat": 25.2002013,
+      "lng": 75.8113631,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgerkTdWabzkRMRWkP_274KU",
+      "name": "IndianOil",
+      "address": "Ground Floor, opposite New Mandi, Dhanmandi, Kota",
+      "lat": 25.166901,
+      "lng": 75.854103,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC5g-O7abbzkRnXhp0iuzi-8",
+      "name": "Uma Filling Station",
+      "address": "Uma Filling station ESSAR PETROL PUMP KHARA Nu 1560/2 NH 52 KOTA JHALAWAR HIGHWAY MANDANA, DIST, Kota",
+      "lat": 25.200326,
+      "lng": 75.811382,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7z_SS_SbbzkRzOwl5oUf8h4",
+      "name": "Sonu Kahar",
+      "address": "Naka Chungi, Bus Stand, ke samne Puliya, Kota",
+      "lat": 25.1932102,
+      "lng": 75.8313757,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ9bYaOzqFbzkR-6fCljnjoEo",
+      "name": "Jio pump",
+      "address": "207, Dhanmandi, Kota",
+      "lat": 25.1238894,
+      "lng": 75.8569684,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJH1XlTCuFbzkRvWb311uSW8s",
+      "name": "ASHOK OIL COMPANY",
+      "address": "India",
+      "lat": 25.166744,
+      "lng": 75.8582527,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJq6lo-yebbzkRfsCH7ghUxdU",
+      "name": "TANKRAS",
+      "address": "India",
+      "lat": 25.1783602,
+      "lng": 75.8527806,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJvy6WnqmFbzkRkmKZWHtk-2E",
+      "name": "BPCL PETROL PUMP -Jain Filling Station",
+      "address": "Indraprastha Industrial Area, Kota",
+      "lat": 25.1180361,
+      "lng": 75.860353,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ53nVXPyFbzkRRe_ntO6ia7k",
+      "name": "Bharat Petroleum, Petrol Pump -Jain Filling Station",
+      "address": "Jhalawar Road, Anantpura, Kota",
+      "lat": 25.11800029999999,
+      "lng": 75.8604131,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQfokiAWFbzkRZ3s4ple1vi0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "RIICO Road, Plot No P3, Bhamashah Mandi Road, Sanjay Gandhi Nagar, Kota",
+      "lat": 25.1289717,
+      "lng": 75.86497949999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_3u3WA-FbzkRdAsm4N4xKdo",
+      "name": "IndianOil",
+      "address": "Bhamasah Krishi Upaj Mandi, Kota",
+      "lat": 25.1279792,
+      "lng": 75.864967,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_7Eveg-FbzkRxl4EGZsf6Y4",
+      "name": "CNG Filling Station-Gail India",
+      "address": "Sanjay Gandhi Nagar, Indraprastha Industrial Area, Kota",
+      "lat": 25.1294725,
+      "lng": 75.8653988,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDQkyMzCFbzkR5gRdzEVbn9g",
+      "name": "IndianOil",
+      "address": "Ground Floor, Industrial Area Road, Kota",
+      "lat": 25.159101,
+      "lng": 75.865997,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuwD8fgiFbzkR_ZuiIHMJ90U",
+      "name": "BPCL Petrol Pump - Vinod filling station",
+      "address": "Radheshyam, Road Number 6, Indraprastha Industrial Area, Kota",
+      "lat": 25.1238682,
+      "lng": 75.86501299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-2eMAQCFbzkRpC6se7uUwMI",
+      "name": "CNG pump industrial area kota",
+      "address": "4VH8+CH4, Sanjay Gandhi Nagar, Indraprastha Industrial Area, Kota",
+      "lat": 25.128512,
+      "lng": 75.8664672,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJY0tvJhCbbzkRexGwqSJ15Qo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Khasra No, 268 & 269, Bundi Road, Kunadi, Kota",
+      "lat": 25.1995932,
+      "lng": 75.8397288,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSVSQpiGbbzkRwW8gdQEIbO8",
+      "name": "IndianOil",
+      "address": "Ground Floor, Baran Road, Kota",
+      "lat": 25.19251059999999,
+      "lng": 75.8503975,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ2edNZQybbzkRYVNx8znPsuo",
+      "name": "Bharat Petroleum",
+      "address": "9, Bundi Road, Ladpura, Kota",
+      "lat": 25.20435519999999,
+      "lng": 75.83372949999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJQ200FuqFbzkR1mT8kAYg6x8",
+      "name": "Roopchand Jain Petrol Pump",
+      "address": "Jhalawar Road, Anantpura, Kota",
+      "lat": 25.1058967,
+      "lng": 75.8617419,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_X2bv_mabzkRLdxIGkGO6Go",
+      "name": "IndianOil",
+      "address": "Plot No 3, Mohan Niwas Vistar, Yojana, Kota",
+      "lat": 25.209608,
+      "lng": 75.863548,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9ejQUTiFbzkRnPnGrdP2omk",
+      "name": "Shaheed Hemraj Meena CNG Filling Station",
+      "address": "5V3F+VPC, Kota Industrial Area, Kota",
+      "lat": 25.1546782,
+      "lng": 75.8742524,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpxzTbwuFbzkROZNUedyj4ZA",
+      "name": "HP petroleum",
+      "address": "Kota Industrial Area, Kota",
+      "lat": 25.1538422,
+      "lng": 75.8757552,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbSnl8cqFbzkRgWoAMKILTDM",
+      "name": "IndianOil",
+      "address": "4VWV+44M, Deoli Arab Road, Ladpura, Udyog Nagar, Raipura, Kota",
+      "lat": 25.145599,
+      "lng": 75.893402,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6cESQGmFbzkRxts6FD3J3Dg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near Raipura, Plot No CP1, Deoli Arab Road, Chauraha, Raipura, Kota",
+      "lat": 25.1512507,
+      "lng": 75.89846010000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1QZXUTOFbzkRf-EirK9RX4A",
+      "name": "Hindustan Petroleum Raipura",
+      "address": "5V2X+GC, Raipura, Kota",
+      "lat": 25.1512732,
+      "lng": 75.89888119999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJLf3FK0-bbzkRzo2sqqwhPy4",
+      "name": "Jai Shree Stone & Marble",
+      "address": "5VGP+5PV, Borekhera, Kota(Raj.) petrol pump, near Welcome Associates, Borkhera, Kota",
+      "lat": 25.1754828,
+      "lng": 75.8868086,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzZ_QawCPbzkRT_BRcGLgJ18",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 27, Raipura Circle, Ladpura, Sukhpura",
+      "lat": 25.144641,
+      "lng": 75.908091,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSYhcCACbbzkRNIiLH_STwNY",
+      "name": "Petrol pump",
+      "address": "Petrol Pump, near borkhera, Shriram Nagar, Kota",
+      "lat": 25.1799021,
+      "lng": 75.8833385,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZUPS4NubbzkRGM4cw7AYbEw",
+      "name": "IndianOil",
+      "address": "Ground Floor, Rampura, Ladpura, Kota",
+      "lat": 25.1920072,
+      "lng": 75.85655779999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQ4Ai_sKPbzkR2URHMtk3HGE",
+      "name": "Dhakarkheri STP- 40MLD",
+      "address": "4WJ9+64G, Dhakarkheri",
+      "lat": 25.1305523,
+      "lng": 75.917819,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJi-O9dwubbzkRqbGF7GzqFGM",
+      "name": "Bharat Petroleum, Petrol Pump -Ujagar Singh Sethi & Brothers",
+      "address": "MBS Hospital Road, Kota",
+      "lat": 25.1939796,
+      "lng": 75.8533879,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJj5zyggiQbzkRrQ2FR_1-IsU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Khasra No 27 Borkheda Road, Naya Nohra, Borkhandi",
+      "lat": 25.182951,
+      "lng": 75.90336099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJw7eiFQCFbzkRgQDKxE0eeYk",
+      "name": "Parth motors def urea",
+      "address": "3VQ7+X9H, Jhalawar Road, Vigyan Nagar, Kota",
+      "lat": 25.0899304,
+      "lng": 75.8634818,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJB3XToo-bbzkRLoovoqch2Cc",
+      "name": "CNG Kota",
+      "address": "Unnamed Road, Kota",
+      "lat": 25.1992525,
+      "lng": 75.8601431,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ65hqj-SabzkRf_Yi5AYBJWQ",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 25.1994132,
+      "lng": 75.86001619999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ9-DjEsOPbzkRw9AkhBl33ro",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 25.1599449,
+      "lng": 75.92733869999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ04HcUwSPbzkR2Ijhwl-j59w",
+      "name": "Ushara filling station (BPCL)",
+      "address": "5W5G+XW, Chareenda",
+      "lat": 25.1599545,
+      "lng": 75.9273522,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJz1S9piePbzkR4ct0-U37-8o",
+      "name": "Jain agro service station",
+      "address": "Kaithoon-kota Road Near khera, circle, Kota",
+      "lat": 25.1322666,
+      "lng": 75.9503615,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIQCg6FeObzkRKo1s_LDBTaA",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kethun",
+      "lat": 25.130905,
+      "lng": 75.956768,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJG4f6UDePbzkR7WURQ6SbcHo",
+      "name": "Ansari Feeling Station",
+      "address": "Feeling Station, Kethun",
+      "lat": 25.130861,
+      "lng": 75.9679139,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJURLUt3ORbzkRRP9UHYRVsB0",
+      "name": "Bharat Petroleum, Petrol Pump -Jaishree Filling Station",
+      "address": "BORKHANDI, KOTA BARAN ROAD, Kota",
+      "lat": 25.1825646,
+      "lng": 75.917333,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHx2gPACRbzkRQ___1it8bxM",
+      "name": "PETROL PUMP",
+      "address": "near Mahalakshmi Puram, Baran Road, Kota",
+      "lat": 25.182368,
+      "lng": 75.913172,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs5OCRgCPbzkRolMpB8-rL2k",
+      "name": "BP DME 352",
+      "address": "3WWV+5WQ, Ramnagar",
+      "lat": 25.0954531,
+      "lng": 75.9448725,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlZitYhmRbzkR9I5sm6H3MHA",
+      "name": "IndianOil",
+      "address": "Khasra No 690, Ladpura, Daslana",
+      "lat": 25.1919251,
+      "lng": 75.96088209999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoUbsysKRbzkRpEabpuPMqcQ",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 25.1892073,
+      "lng": 75.9679889,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJHyO74e2RbzkRe71z0ZC_ZGU",
+      "name": "Vakrangee Petroleums (BPCL)",
+      "address": "NH27, Baran Road, Kota",
+      "lat": 25.1893524,
+      "lng": 75.967882,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8VeOttyRbzkRcsVNU1-DLNQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, Oppposites Oil Depot, Kota Bypass, Baran",
+      "lat": 25.1882198,
+      "lng": 75.97045349999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJW0mP7OWRbzkRqAZUE2-padI",
+      "name": "भरत फेब्रिकेटर्स",
+      "address": "India",
+      "lat": 25.1888812,
+      "lng": 75.9766456,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJQZGRPQCNbzkR20H5-N2BSTk",
+      "name": "Nagar filling station",
+      "address": "42H3+4C, Godalyaheri",
+      "lat": 25.12783439999999,
+      "lng": 76.00351959999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJFR3ozyONbzkRWzCfFBD-clc",
+      "name": "Dhakad fuel station kishanpura road kaithoon",
+      "address": "Ground Floor, Kethun - Sangod Road, Godalyaheri",
+      "lat": 25.127604,
+      "lng": 76.003456,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKW4cHh6MbzkRfJG4mk8ggyM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Khasra No 243, 1 SH 51, Ladpura, Kethun",
+      "lat": 25.1055557,
+      "lng": 75.9927857,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUURZLgCRbzkR7T2ZTKmNZlM",
+      "name": "Lpg gas kota",
+      "address": "6W43+7C, Gandhi Colony, Kari Bawadi, Kota",
+      "lat": 25.2056777,
+      "lng": 75.90359020000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJBydLMACbbzkRCJHFlr2tKwQ",
+      "name": "M/S YATHARTH FILLING STATION",
+      "address": "6W43+9JF, Chandresal Road, Gandhi Colony, Kari Bawadi, Kota",
+      "lat": 25.205938,
+      "lng": 75.90406159999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJvTPsQACdbzkRz0q4BhlH6e0",
+      "name": "CNG PUMP - Torrent Gas, Bhatia Filling Bundi Road",
+      "address": "6RH2+C4, Gordhanpura",
+      "lat": 25.2283935,
+      "lng": 75.8001266,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7y8tMDudbzkRNN1hRNGoWCE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Agamgarh Gurudwara, Ramnagar, Ladpura, Gordhanpura",
+      "lat": 25.228541,
+      "lng": 75.800291,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ03a3_g6bbzkRg66md4Iqa0U",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Ladpura, Naya Khera",
+      "lat": 25.217454,
+      "lng": 75.81663800000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY2X-RambbzkRyZFssVpATeo",
+      "name": "IndianOil",
+      "address": "Bundi Road, Naya Khera",
+      "lat": 25.212401,
+      "lng": 75.82370100000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJee7H0J2bbzkR_aPE0AyOFuo",
+      "name": "Jai Chambal Petrol Pump and Cng station",
+      "address": "Tiraya, Kota",
+      "lat": 25.2123374,
+      "lng": 75.8242022,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-1-JGp6bbzkR7G0jbc1Lg7U",
+      "name": "Bharat Petroleum",
+      "address": "",
+      "lat": 25.2107763,
+      "lng": 75.82489079999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtf1KtTybbzkRs2cu0aAp2c8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Lalsot - Kota Mega Highway, Girdharpura",
+      "lat": 25.21899,
+      "lng": 75.83259,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJa70PbE-dbzkRYFIAAjYChbU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Bundi Road, Bargaon",
+      "lat": 25.24669039999999,
+      "lng": 75.77951420000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVVVVVZyebzkR1Kp5kfCfDgg",
+      "name": "IndianOil",
+      "address": "GF, Bundi Road, Nayapur, Bada Gaon, Naka, Govindpur Baori",
+      "lat": 25.2503454,
+      "lng": 75.7782794,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJn6S7mZ2ebzkRgHYF4kf5epQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, Adgaon Naka, Alfanagar",
+      "lat": 25.25259999999999,
+      "lng": 75.7756,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJyYOwmZ2ebzkRbQUZ3z3PDB0",
+      "name": "Devnarayan Filling Station",
+      "address": "near, Kota Road, Govindpur Baori",
+      "lat": 25.252718,
+      "lng": 75.7757699,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJge4nbUyfbzkRlWZrsHhFoOk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near Shriram Automall, Khasra No 363/104 Kota Road, Kota Govindpur Bawdi, Talera, near Shriram Automall, Bundi",
+      "lat": 25.2608401,
+      "lng": 75.7690801,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvwxdVgCbbzkRxQhOG_cDAwc",
+      "name": "CNG STATION",
+      "address": "6V77+GWC, Kota",
+      "lat": 25.2138156,
+      "lng": 75.8647527,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJkegzcwCbbzkRxyhsYY5ecyE",
+      "name": "Shree Ganesh Filling station",
+      "address": "6V77+GWC, Itawa road, Kota",
+      "lat": 25.2138156,
+      "lng": 75.8647527,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJHRw29Y6fbzkRJfmvwDPw5Kk",
+      "name": "Balaji Nayara Energy",
+      "address": "Bundi Road, Ballop",
+      "lat": 25.2745243,
+      "lng": 75.7593809,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7ZLgt1-ebzkR-BbfOXFDwBg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 581/157 844/585 & 846/726, National Highway 52, Ballop",
+      "lat": 25.274581,
+      "lng": 75.758141,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVwRezl6abzkRGyRbksvSpUg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Manoj Talkies Cinema, Station Main Road, Kota",
+      "lat": 25.218341,
+      "lng": 75.871281,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJI2Zh04OQbzkRJTSv-hUpFug",
+      "name": "IndianOil",
+      "address": "Ground Floor, Ladpura, Chandresal Road, Arjunpura, Sogriya",
+      "lat": 25.2237001,
+      "lng": 75.902901,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJ9py7IiRbzkRztX23_44SLs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "KH No 702/102, Rangpur Road, Ladpura, Kota",
+      "lat": 25.2527501,
+      "lng": 75.9054801,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTatyh7ifbzkR-8GXHoZLzno",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bundi Road, Kota",
+      "lat": 25.3087388,
+      "lng": 75.7373179,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJz5QbQcefbzkRZRQH29KAP5c",
+      "name": "Arham filling statiom",
+      "address": "Ground Floor, Chitawa Road, Talera",
+      "lat": 25.3132342,
+      "lng": 75.7841397,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFx-9GRafbzkRuMTmH9xXFfU",
+      "name": "BHARAT PETROLEUM PUMP भारत पेट्रोलियम पम्प",
+      "address": "Tehsil, NH 52 Village Kheroli, District, Talera",
+      "lat": 25.2844516,
+      "lng": 75.7544942,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLwxzlbOfbzkRMYw3VBF31vg",
+      "name": "petrol Pump + C.N.G.",
+      "address": "Kota Road, Raghunathpura",
+      "lat": 25.2992046,
+      "lng": 75.7441265,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB7uE0MifbzkRs6oJOPAVyJ0",
+      "name": "Prithvi Filling Stn",
+      "address": "8P8J+CJG, Talera",
+      "lat": 25.3160719,
+      "lng": 75.7315667,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJiX2LNqeXbzkR0W195gvdTu4",
+      "name": "IndianOil",
+      "address": "Ground Floor Iswar Nagar, Kesoraipatan, Keshoraipatan",
+      "lat": 25.3146001,
+      "lng": 75.929401,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMVZ4eteZbzkRWApLglCKQ5U",
+      "name": "IndianOil",
+      "address": "Ground Floor, Suwasa, Keshoraipatan",
+      "lat": 25.3280001,
+      "lng": 75.8661,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAyDYyMCZbzkRPP0CCcj23Nc",
+      "name": "Bharat Petroleum Petrol Pump , CHITAWA FILLING STATION",
+      "address": "Chitawa",
+      "lat": 25.328439,
+      "lng": 75.867981,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJLypWSnGXbzkRGkDIdAlREHc",
+      "name": "Aswal Filing Station",
+      "address": "8W26+C8F, Lalsot - Kota Mega Highway, Keshoraipatan",
+      "lat": 25.301075,
+      "lng": 75.9107956,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqSn6WXSXbzkRzVSC1VD_1jc",
+      "name": "Reliance Petroleum",
+      "address": "Ground Floor, Sh 33, Lalsot - Kota Mega Highway, Keshoraipatan, Ishwarnagar",
+      "lat": 25.308401,
+      "lng": 75.91986899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJc6-l8aaXbzkRtQpior-97VQ",
+      "name": "Bharat Petroleum, Petrol Pump -Aswal Filling Station",
+      "address": "KESHVRAI PATAN, KOTA LALSO, BUNDI",
+      "lat": 25.294371,
+      "lng": 75.9275651,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJU0peaQCXbzkROHGm6dGZ1-o",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Keshoraipatan, Lesarda",
+      "lat": 25.327231,
+      "lng": 75.92278200000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ12ti5uCWbzkR3OFtBPVms_o",
+      "name": "Bharat Petroleum",
+      "address": "Matra Petrol Pump, Keshoraipatan",
+      "lat": 25.2941778,
+      "lng": 75.9503766,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJV1Ql1EyWbzkR-qStgaTI6j4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Khasra No 746, 7 SH 33, Keshoraipatan",
+      "lat": 25.329381,
+      "lng": 75.946773,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpRBJPAqXbzkRFXJCdCX15sg",
+      "name": "Nayara petrol pump",
+      "address": "8XP4+WF5, Rajasthan State Highway 33, Chadi",
+      "lat": 25.3372636,
+      "lng": 75.95624730000002,
+      "open_now": true
+    }
+  ]
+}

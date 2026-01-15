@@ -1,0 +1,2411 @@
+{
+  "city": "Indore",
+  "state": "Madhya Pradesh",
+  "count": 300,
+  "center": {
+    "lat": 22.7196,
+    "lng": 75.8577
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJjdornF_5YjkRz1sFuwQA6tw",
+      "name": "IndianOil",
+      "address": "CGO Complex, Rau Square, AB Road, Indore",
+      "lat": 22.628418,
+      "lng": 75.80560299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQcqI1vf7YjkRV4igN8Q_5bQ",
+      "name": "IndianOil",
+      "address": "Emerald school, Ground Floor Ab Road, Rau, Pigdamber Infront of, Indore",
+      "lat": 22.6500876,
+      "lng": 75.8209072,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZzedYV_5YjkRj2Bi1HRky8Y",
+      "name": "HP Petrol Pump",
+      "address": "Mega City Circle, Rau, Indore",
+      "lat": 22.6296914,
+      "lng": 75.80673329999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJvYG-WPf7YjkRvVrjtptkKyo",
+      "name": "Bharat Petroleum",
+      "address": "Shramik Colony, Rau, Raumhow, Rdindor, NH-3, Agra Bombay Road, Ab Road, Indore",
+      "lat": 22.6452,
+      "lng": 75.8186,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ18PaGgn8YjkR6mXkgUJlWhc",
+      "name": "Bharat Petroleum, Petrol Pump -Nimar Auto Centre",
+      "address": "HUKUMAKHEDI,RAJENDRA NGR P, Indore",
+      "lat": 22.6541723,
+      "lng": 75.821929,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbZ7ibWT5YjkRMW8BpE6W-FM",
+      "name": "Bharat Petroleum - Granth Petro/CNG Filling Station",
+      "address": "Pigdambar",
+      "lat": 22.6155355,
+      "lng": 75.7990192,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8TzRaJP7YjkRAbIwR6c5NOo",
+      "name": "IndianOil",
+      "address": "Ground Floor, Indore Bypass Road, Pigdamber, Indore",
+      "lat": 22.6346429,
+      "lng": 75.8318331,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKUE5NkH8YjkR3pKxzwhTjNo",
+      "name": "Vaishnavi Fuels - Bharat Petroleum, Petrol Pump",
+      "address": "Annapurna Road, Sudarshan Nagar, Indore",
+      "lat": 22.6796486,
+      "lng": 75.8343778,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9XrC7p75YjkRscQpDjpjNJo",
+      "name": "IndianOil",
+      "address": "Ground Floor Umaria, Mhow,Pigdamber, Indore",
+      "lat": 22.5966889,
+      "lng": 75.78744089999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJE8ib3kX8YjkR3iqJPtRXoTg",
+      "name": "IndianOil",
+      "address": "Ground Floor, Annapurna Road, Indore",
+      "lat": 22.68492,
+      "lng": 75.83652889999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJR69yWRTqETkRGRWGbYeT4aA",
+      "name": "IndianOil",
+      "address": "opposite Sirpur, 256, Dhar Road, Talab, Indore",
+      "lat": 22.7035478,
+      "lng": 75.80962629999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAQVvGpX4YjkRJKUYNAG41qQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, Amjhera",
+      "lat": 22.6168749,
+      "lng": 75.7353964,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY0H-T7v9YjkRr_yWbVgPcLE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 204, Dhar Road, Labriya Bheru, Indore",
+      "lat": 22.7088013,
+      "lng": 75.8297041,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFxn3BlL5YjkRY6ifu5orS90",
+      "name": "IndianOil",
+      "address": "Survey No. 640/2 Village Rangwasa, Rangwasa Road, Rau, Indore",
+      "lat": 22.6426406,
+      "lng": 75.7954977,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJu6YVyIv5YjkRYqXwKvFRiWQ",
+      "name": "IndianOil",
+      "address": "Ground Floor Pigdamber, near Iim Indore Gate, to, Cat Sq Road, Indore",
+      "lat": 22.6322139,
+      "lng": 75.7939359,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ95GC8lf5YjkRZCcg1J9W7PA",
+      "name": "Nayara petrol pump",
+      "address": "JRQ4+67V, CAT Road, Rau, Indore",
+      "lat": 22.6381193,
+      "lng": 75.8056845,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZVxH9SH9YjkRXuf-9dnwuGY",
+      "name": "Shree Shiv Shakti Fuel Station",
+      "address": "MR76+G7C, Parmanu Nagar, Indore",
+      "lat": 22.663809,
+      "lng": 75.8106468,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQzqlaQD_YjkRWl5sXv-m3SY",
+      "name": "SHREE SHYAM FUELS (INDIAN OIL CORPORATION LTD)",
+      "address": "MQ98+6MG, Sindoda",
+      "lat": 22.6671982,
+      "lng": 75.7667623,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJW9N9HAz5YjkRhwAB0BYKatI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, AB Road, Rau, Indore",
+      "lat": 22.6303307,
+      "lng": 75.80697599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJa345NPf7YjkRCYhLv2HCtOQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, AB Road, Rau, Indore",
+      "lat": 22.6381003,
+      "lng": 75.813851,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFabWfcH7YjkRIugtCGA64Ro",
+      "name": "TRIVENDRA KA GHAR",
+      "address": "JRM6+55V, Rau, Indore",
+      "lat": 22.6329859,
+      "lng": 75.8104335,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJIUEYlw35YjkRuljj9c5k0dg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "S No 3151/15/6/1/315/6/2, Rau - Pithampur Road, Pithampur, Indore",
+      "lat": 22.6237584,
+      "lng": 75.77317,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq6uwHsP5YjkRsO5Nt2OZ69o",
+      "name": "Mehtab fuels",
+      "address": "315/1, Rau, Sonway",
+      "lat": 22.6234691,
+      "lng": 75.7731661,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg5idOOL7YjkRA7SwNwLstaY",
+      "name": "Shell Printpack Pvt Ltd",
+      "address": "No 475, AB Road, Rajendra Nagar, Indore",
+      "lat": 22.653026,
+      "lng": 75.8211002,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJByxJ3179YjkRDn3kRNvCwNY",
+      "name": "Shubham Petroleum Indore",
+      "address": "CAT Road, Indore",
+      "lat": 22.6710091,
+      "lng": 75.8153674,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-d0UaQD7YjkR5PDeKh2odko",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "1244/2, 1244/1/2, Survey No 950/2, AB Road, Rau, Indore",
+      "lat": 22.630991,
+      "lng": 75.818147,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuxdHLwD7YjkRN3qvF1s1PXQ",
+      "name": "A one petroleum",
+      "address": "Ashok Vatika, 553/2/1, Rau, Indore",
+      "lat": 22.630871,
+      "lng": 75.8181464,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOX5oOwD5YjkR_5R_AQL7h0I",
+      "name": "Jirati Fuel Station",
+      "address": "JQ8X+GCP, Pigdambar, Indore",
+      "lat": 22.616329,
+      "lng": 75.7985807,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJnRPrCxH8YjkREgd3mNNkUw4",
+      "name": "Bharat Petroleum, Petrol Pump -Gur Kirpa Fuels",
+      "address": "RETIMANDI NEAR RAJENDRA NA, Indore",
+      "lat": 22.6654658,
+      "lng": 75.8225351,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdXphzhb8YjkRZgIF-XCizT4",
+      "name": "IndianOil",
+      "address": "Survey No 25, Bijal Ret Mandi, 1/1/2, CAT Square, Rajendra Nagar, Indore",
+      "lat": 22.6681064,
+      "lng": 75.82207369999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFZURnyH5YjkR5n_knxJx5Mk",
+      "name": "Bharat Petroleum, Petrol Pump -M.P.Bombay Fuel Center",
+      "address": "SONVAYE, Indore",
+      "lat": 22.6121491,
+      "lng": 75.77177309999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3X9--5n9YjkRPnl7qTNV3cA",
+      "name": "Bharat Petroleum, Petrol Pump -Ratankamal Automobiles",
+      "address": "INDORE RD, RAU, MHOW",
+      "lat": 22.6657039,
+      "lng": 75.827803,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpR-24xr5YjkRKGxwNonN6OM",
+      "name": "IndianOil",
+      "address": "Survey No 193 Paiki, Mhow, Sonway",
+      "lat": 22.6123527,
+      "lng": 75.76982590000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJz4tnjK39YjkRzxAwjHh5NwI",
+      "name": "हषे अॉटो गेरेज",
+      "address": "राज बेलडीग वाले पास, आनंद नगर, इन्दौर",
+      "lat": 22.6659668,
+      "lng": 75.83016599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmS3ODhn_YjkRb4U7Wt94fNc",
+      "name": "IndianOil",
+      "address": "Ground Floor Navdapanth, NH, 59, Indore - Dhar Road, Navda, Indore",
+      "lat": 22.687835,
+      "lng": 75.76633199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJV8tgfbP_YjkRCzltbOfRGyo",
+      "name": "Shree jee petrol pump",
+      "address": "MQRC+86W, Navdapanth, Shri Ram Talawali",
+      "lat": 22.6908533,
+      "lng": 75.7705795,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJcCejuv9YjkRo4UEpOcchqA",
+      "name": "Motiram fuels",
+      "address": "near pani ki tanki, Silicon City road, near pani ki tanki, Main Road Bijalpur, Bijalpur, Indore",
+      "lat": 22.6644369,
+      "lng": 75.8338356,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2wBtxdr_YjkRPCKe7kZVZE4",
+      "name": "Shree Jee KSK",
+      "address": "Indore - Pithampur Road, Navdapanth, Indore",
+      "lat": 22.6899803,
+      "lng": 75.76530009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJiaIuOQX_YjkRZz8yMRYVR20",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 59, Indore - Dhar Road, Nawada",
+      "lat": 22.6799805,
+      "lng": 75.75032910000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy12lSS3_YjkRkRcSQbrkq9s",
+      "name": "ABHINANDAN PETROL PUMP H.P.C.L",
+      "address": "MQWQ+P3W, Indore - Dhar Road, Jawahar Tekri, Sinhasa, Indore",
+      "lat": 22.6968703,
+      "lng": 75.7877175,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo8sXFOT4YjkRu9l400pDP7M",
+      "name": "IndianOil",
+      "address": "Ground Floor, Indore Mumbai Road, NH 3, Bhenslai, Pigdamber, Indore",
+      "lat": 22.6140135,
+      "lng": 75.7534265,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnXbdhb__YjkRqOnhqNFBEbU",
+      "name": "IndianOil",
+      "address": "Ground Floor Dhar Road, 2, Jawahar Tekri, Indore",
+      "lat": 22.6981976,
+      "lng": 75.79319799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRTyHvaz5YjkRTeZvRCUURBw",
+      "name": "Phoenix Car Fashion",
+      "address": "near DMart, 02, hui hui hui, near DMart, Indore",
+      "lat": 22.600361,
+      "lng": 75.7910682,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJm8EI5IH_YjkRYzxVL_F0t48",
+      "name": "IndianOil",
+      "address": "Ground Floor, Indore Airport, to, Indore - Dhar Road, Navdapanth, Indore",
+      "lat": 22.6958101,
+      "lng": 75.7650558,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJT8N36n7_YjkRyjf5YMgXUjg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Dhar Road, Indore",
+      "lat": 22.700201,
+      "lng": 75.798001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8aqUZxz5YjkRcKG09RxlCWo",
+      "name": "Hp petrol pump",
+      "address": "HQWP+3FG, Mhow - Indore Highway, Harnya Khedi",
+      "lat": 22.5951877,
+      "lng": 75.78621,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJa6lIb_79YjkREMsEntJQeIY",
+      "name": "IndianOil",
+      "address": "Ground Floor AB Road, Tejpur, Gadbai, Rajendra Nagar, Indore",
+      "lat": 22.6736,
+      "lng": 75.842,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJt6x-efn9YjkR-VVCxeH9u30",
+      "name": "IndianOil",
+      "address": "No 173/114, CGO Complex, AB Road, Tejpur Gadbadi, Indore",
+      "lat": 22.6744699,
+      "lng": 75.8420048,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMaGjYRf5YjkR_x2gVBKJt50",
+      "name": "Golu Bala",
+      "address": "JPHH+RGV, Bagoda",
+      "lat": 22.6296106,
+      "lng": 75.7287849,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJu4xZHe77YjkRYuhT_nyJkw0",
+      "name": "Bharat Petroleum, Petrol Pump -Ramsingh & Sons",
+      "address": "NIHALPURMUNDI,NH-3 BY-PASS, Indore",
+      "lat": 22.63938,
+      "lng": 75.84980270000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJU3XpejX8YjkRCpvu0Mj3MO8",
+      "name": "HP Petrol Pump And CNG Gas Station",
+      "address": "MRWH+4RG, Ranjeet Hanuman Road, Gumasta Nagar, Scheme 71, Lakshman Singh Gour Marg, Phooti Kothi, Gumasta Nagar, Sudama Nagar, Indore",
+      "lat": 22.6952804,
+      "lng": 75.82970809999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkRSdOzX8YjkRE5nP-zeFov8",
+      "name": "IndianOil",
+      "address": "Schme No 71 Plot No 7AX, Ring Road, Indore",
+      "lat": 22.6966028,
+      "lng": 75.827997,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGYcNWdL9YjkR4RW8_KEyoT4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Agra Mumbai Road, Dwarkapuri, Indore",
+      "lat": 22.6952816,
+      "lng": 75.829791,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJa7oj1XP_YjkRiVX1TcOkfb4",
+      "name": "IndianOil",
+      "address": "Ground Floor Kalaria Dhar Road, 359 Gram, Atwada, Indore",
+      "lat": 22.680201,
+      "lng": 75.731492,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVdC1TBX_YjkRiJsjrXkIN30",
+      "name": "Samrajya Biodiesel",
+      "address": "Dharwara",
+      "lat": 22.6501991,
+      "lng": 75.7217764,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ1Qwbd1r_YjkRlw0FnzTdBkA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Indore - Pithampur Road, Bisnavda",
+      "lat": 22.70825199999999,
+      "lng": 75.764381,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvYZ2E0z-YjkRceCs0PE2k-g",
+      "name": "HP",
+      "address": "India",
+      "lat": 22.7083721,
+      "lng": 75.76458099999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ6alIEc_9YjkRd3NOCTUiUkk",
+      "name": "Raja Agnihotri Petrol Pump",
+      "address": "PR4C+GFF, Indore - Dhar Road, Geeta Nagar, Indore",
+      "lat": 22.7067503,
+      "lng": 75.8224815,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJc61a38j9YjkRYO-4gFumYtU",
+      "name": "Bharat Petroleum Petrol Pump And Cng",
+      "address": "Scheme No 71, Indore",
+      "lat": 22.7057234,
+      "lng": 75.8255665,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ57ELyaL5YjkR26Mo1o4__sY",
+      "name": "HP DIESEL , CNG PUMP - GOPIKISHAN CHHOGALAL",
+      "address": "Rasalpura Mhow Indore, Agra-Bombay Road, Harnya Khedi",
+      "lat": 22.5830606,
+      "lng": 75.7787498,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe-exWE_7YjkRzJUfaVLyfmw",
+      "name": "IndianOil",
+      "address": "Ground Floor, Khandwa Road Kelod Kartal, Datoda, Kasturba Nagar, Indore",
+      "lat": 22.64004300000001,
+      "lng": 75.88798299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJO-f1B8D8YjkRf85XGeNgJH8",
+      "name": "Bharat Petroleum, Petrol Pump -H.S. Road Carriers",
+      "address": "PALDA VILLAGE,NEAR GURUDRA, Indore",
+      "lat": 22.6785507,
+      "lng": 75.8781407,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrTHVYMX8YjkRIRP75vY7UwQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Scheme No 94H, No 22A & 23B, Ring Road, Vijay Udyog Nagar, Udhyog Nagar, Indore",
+      "lat": 22.6896485,
+      "lng": 75.8879963,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJu21bis_8YjkRy0yVv3APKqg",
+      "name": "Maharaja Agrasen Petroleum",
+      "address": "Babulal Nagar, Dev Nagar, 180, Eastern Ring Road, Babulal Nagar, Khati Mohalla, Musakhedi, Indore",
+      "lat": 22.6895623,
+      "lng": 75.888369,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJvbmMLy3jYjkRFBVH4oAY1aE",
+      "name": "IndianOil",
+      "address": "CGO Complex, 37, Nemawar Road, Udhyog Nagar, Musakhedi, Indore",
+      "lat": 22.6872796,
+      "lng": 75.9014641,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmwQ9hBf9YjkRcLvgnPfxL7Q",
+      "name": "IndianOil",
+      "address": "near Navlakha Complex, Plot No 10B, Loha Mandi, Scheme no. 31, Indore",
+      "lat": 22.7055231,
+      "lng": 75.8711989,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIWvW5wb9YjkREPL0pPMRNyk",
+      "name": "Bharat Petroleum, Petrol Pump -Sukhmani Petro Filling Station",
+      "address": "Palsikar Colony, Indore",
+      "lat": 22.7073924,
+      "lng": 75.8570463,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7TINFjfjYjkRmZufJdC8-Xs",
+      "name": "Bharat Petroleum - Kumudini Enterprises",
+      "address": "MWP5+8P4, Nemawar Road, Udhyog Nagar, Palda, Indore",
+      "lat": 22.6857564,
+      "lng": 75.90933729999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJX6NupTjjYjkRLiuI6mYbrW0",
+      "name": "IndianOil",
+      "address": "HSD Site No 376, Nemawar Road, Musakhedi, Datoda",
+      "lat": 22.6838604,
+      "lng": 75.9144657,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSTB2GRr9YjkRAcDvz9V12RM",
+      "name": "Bharat Petroleum",
+      "address": "1, Nasiya Road, Chhawni, Indore",
+      "lat": 22.7117826,
+      "lng": 75.8702828,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJoz1cryP9YjkRLKXM78hsEIs",
+      "name": "IndianOil",
+      "address": "CGO Complex, opposite Nehru Stadium, AB Road, Ushaganj, Indore",
+      "lat": 22.7104989,
+      "lng": 75.8803089,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCy5d3hn9YjkR-5-ccFLJ7mo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 26, Station Road, Kibe Compound, Indore",
+      "lat": 22.7128349,
+      "lng": 75.872265,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmwQ9hBf9YjkR-pnP6VpT-lM",
+      "name": "Laxmi Auto Service, BPCL Petrol Pump",
+      "address": "Murai Mohalla, Jaora Compound, Indore",
+      "lat": 22.7136301,
+      "lng": 75.87533940000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJb9z7CTv9YjkRcJG7_i4hMLE",
+      "name": "Noshirwan Petrol Pump",
+      "address": "2, Agra Bombay Road, Geeta Bhawan Square, Indore",
+      "lat": 22.717021,
+      "lng": 75.88429099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0zolujv9YjkRor3mE9go4Vg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Mumbai Agra Road, Indore",
+      "lat": 22.7170701,
+      "lng": 75.8842901,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJV0jzS6_7YjkRGCLchaoaby8",
+      "name": "Bharat Petroleum, Petrol Pump ke pss",
+      "address": "KAILODKARTAL,INDORE BYPASS, Indore",
+      "lat": 22.6371836,
+      "lng": 75.8688569,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJE_EAJrv7YjkRjgfx_TpkZIM",
+      "name": "Purwa Gas godown CCTV service electrician service",
+      "address": "JVHF+Q7, Morod",
+      "lat": 22.6294983,
+      "lng": 75.87321829999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoQroGwT9YjkRyDk_lNBFrxI",
+      "name": "Ummeena",
+      "address": "Ring Road, Ambikapuri, Indore",
+      "lat": 22.6792164,
+      "lng": 75.8628789,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ3dcO9iz9YjkRHm1m-YoRSis",
+      "name": "Kale Petrolium",
+      "address": "12 Newmarket, Indira Colony, Indore",
+      "lat": 22.6752303,
+      "lng": 75.8747209,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJv3Qp1ez9YjkRvlbaewT2pCs",
+      "name": "S.S. Auto Energies",
+      "address": "Limbodi, Indore",
+      "lat": 22.670136,
+      "lng": 75.881925,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmSenowf9YjkRfAK0WoILc2o",
+      "name": "Petrol Pump",
+      "address": "in front of GURUDWARA GATE, 44, in front of GURUDWARA GATE, Khandwa Naka, Indore",
+      "lat": 22.6765662,
+      "lng": 75.8747946,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJPW6rn9j7YjkRm_KkD0WL6pc",
+      "name": "Reliance Petroleum",
+      "address": "Ground Floor, near Carmel Convent School, Sh 27, Khandwa Road, Indore",
+      "lat": 22.6362616,
+      "lng": 75.8885961,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhTd5XPL8YjkRtOhAkZ9il6E",
+      "name": "Bharat Petroleum, Petrol Pump -Prakash Auto Centre",
+      "address": "IDA SCHEME NO.94, INDORE, Indore",
+      "lat": 22.6807156,
+      "lng": 75.86338219999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLckoxPP8YjkRLgVCCREMGhA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Bhawarkua, near Rajiv Gandhi Circle, Ring Road, Indore",
+      "lat": 22.68190269999999,
+      "lng": 75.8611648,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJocghUaP9YjkRw4VQ0J-Q6Vo",
+      "name": "PBR AUTO ENERGY",
+      "address": "17/1/5, Pipliya Rao Ring Road, CHOHITRAM SQUARE, Indore",
+      "lat": 22.6824976,
+      "lng": 75.8579649,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJaeQy4877YjkRQl5CebBFPPM",
+      "name": "Bharat Petroleum, Petrol Pump -International Service Station,Kh Rd",
+      "address": "KAILODKAR TAL,SH27,INDORE, Indore",
+      "lat": 22.632466,
+      "lng": 75.8881814,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4zs5HfT8YjkRPta0HxzYPWA",
+      "name": "IndianOil",
+      "address": "Plot No 1 Ring Road, Rajiv Gandhi Circle, Indore",
+      "lat": 22.6826115,
+      "lng": 75.85832479999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZb_21q79YjkRRlsppyloHUI",
+      "name": "Bharat petroleum",
+      "address": "MVM4+C6W, near petrol pump, Choithram Circle, Indore",
+      "lat": 22.6836052,
+      "lng": 75.85558759999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJt7rfpQT9YjkRqVJb8Bhh54c",
+      "name": "Balaji Fuel",
+      "address": "47A, Bholaram Ustad Marg, Sector A, Sarvanand Nagar, Pipliya Rao, Indore",
+      "lat": 22.6837916,
+      "lng": 75.8615593,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJpyHgRPb8YjkRv_2p0Xr7s9A",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "3, No 28, near Choitram Hospital, No 17/1, Manik Bagh Road, Pipliya Rao, Indore",
+      "lat": 22.68459009999999,
+      "lng": 75.85544159999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7aCvbDn9YjkRslljnqP3KPE",
+      "name": "Shree Shyam",
+      "address": "MVM7+RQ4, Main Road, Bhawarkua, Scheme 78, Vijay Nagar, Indore",
+      "lat": 22.6845115,
+      "lng": 75.8644601,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJK5lA1b_9YjkRHG2m6QURAhc",
+      "name": "IndianOil",
+      "address": "opposite Mathura Mahal Garden, 17/2, Pipliya Rao Ring Rd, opposite Mathura Mahal Garden, Choithram Hospital Road, Indore",
+      "lat": 22.68503239999999,
+      "lng": 75.85577459999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJf_kuxHv7YjkR_fY6znIvrDY",
+      "name": "IndianOil",
+      "address": "Ground Floor, Khandwa Road, Morod",
+      "lat": 22.6200942,
+      "lng": 75.8860864,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJu7hmdwD9YjkR16praEuHvqA",
+      "name": "34, Anand Nagar Rd, near Chitawad, Davv Takshila",
+      "address": "near Chitawad, 34, Anand Nagar Road, Davv Takshila Parisar, Indore",
+      "lat": 22.6841498,
+      "lng": 75.8792198,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJPwwOSCX7YjkRf1TmyNGcBPA",
+      "name": "IndianOil",
+      "address": "Ground Floor, Khandwa Road, Morod",
+      "lat": 22.6181901,
+      "lng": 75.887468,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhbG7jxb9YjkRA9QaBqugkgw",
+      "name": "IndianOil",
+      "address": "Rajiv Gandhi Circle, Manakbagh, BR Road, Juni, Indore",
+      "lat": 22.6916592,
+      "lng": 75.8549559,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ34zFynHjYjkRUp04ie3yyvQ",
+      "name": "Bharat Petroleum",
+      "address": "Near Punjab Dhaba, Crescent Road,AB Road, Dudhia, Indore",
+      "lat": 22.675118,
+      "lng": 75.93607209999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJV8XmgsXiYjkRPSRg7Z5BWvw",
+      "name": "The Tasty Treat",
+      "address": "Prem Bandhan Chopati, near Petrol Pump, Indore",
+      "lat": 22.7199068,
+      "lng": 75.9122379,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJw3qjx6fjYjkRp8tEdwEMj7s",
+      "name": "IndianOil",
+      "address": "Ground Floor, Dev Guradia Road, Dosdar, Nayta Mundla, Datoda",
+      "lat": 22.6710891,
+      "lng": 75.917621,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJBTKWtuPjYjkRXGJct6XI0zE",
+      "name": "BIO CNG PLANT INDORE",
+      "address": "MWGG+GWF, Nemawar Road, Indore",
+      "lat": 22.6763184,
+      "lng": 75.9273079,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo2ApHfzkYjkR9MaVL-EOPG8",
+      "name": "IndianOil",
+      "address": "Ph No 28, Survey No 52/1, Tillor Khurd",
+      "lat": 22.6193985,
+      "lng": 75.94030219999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUfrcEATjYjkR3GEim--_oVM",
+      "name": "RK FUELS",
+      "address": "MWG3+2C3, Dev Guradia Road, Udhyog Nagar, Nayta Mundla, Indore",
+      "lat": 22.6750161,
+      "lng": 75.9035335,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ91PyOiXjYjkRFmbYWYTL60c",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Palda, Rto Road, Udhyog Nagar, Pathar Mundla, Indore",
+      "lat": 22.675091,
+      "lng": 75.90357399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJc-7gV0fjYjkRANkmfXoWG4E",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Patthar Mundla, Nemawar Road, Palda, Indore",
+      "lat": 22.6821811,
+      "lng": 75.9167764,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaRP1U-rjYjkRHgu0rpraQ1E",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Nemawar Road, Badia Keema",
+      "lat": 22.676001,
+      "lng": 75.954701,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJK0NJgjfjYjkRLjaLwrW_A5w",
+      "name": "Bharat Petroleum, Petrol Pump -Patel Malhar Fuels",
+      "address": "PALDA NEMAWAR ROAD,INDORE, Indore",
+      "lat": 22.6842771,
+      "lng": 75.911016,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY8XAN-bjYjkR4qBMU7Cn_5I",
+      "name": "IndianOil",
+      "address": "Ground Floor, Nemawar Road, Musakhedi, Indore",
+      "lat": 22.685101,
+      "lng": 75.911537,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM6QpRkv9YjkRDUOcqHd8ZV8",
+      "name": "Gaurav Petrol Pump",
+      "address": "Sanjay Gandhi Nager, 6, New RTO Road, Dinesh Nagar, Palda, Indore",
+      "lat": 22.6810238,
+      "lng": 75.8969109,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJc7UZgjTjYjkR2D_MlRbDKX8",
+      "name": "Reliance Petrol Pump",
+      "address": "Dinesh Nagar, Palda, Indore",
+      "lat": 22.6867721,
+      "lng": 75.9016077,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1dX8b8LjYjkRjdb59qZJr1M",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gut No 148/2/3, NH 52, AB Road, Bicholi Mardana, Indore",
+      "lat": 22.6940005,
+      "lng": 75.9250425,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKe9PLhjjYjkRo1eDdh0SORI",
+      "name": "Sampat Fuels",
+      "address": "Sampat Hills, Bicholi Mardana, Indore",
+      "lat": 22.6952393,
+      "lng": 75.92554919999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgZBGldn9YjkRuTrSmD8w0cM",
+      "name": "IndianOil",
+      "address": "Khasra No 326/1, Palda, Indore",
+      "lat": 22.6872858,
+      "lng": 75.8988984,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP6uvPJPjYjkRTGpZyxgOF7Y",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 59A, Nemawar Road, Mali Khedi",
+      "lat": 22.6790443,
+      "lng": 75.9683888,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtcV3RJf9YjkRUYvt-9uzpZc",
+      "name": "RK Fuels",
+      "address": "270, 3, Patthar Mundla Road, or, Nayta Mundla, Indore",
+      "lat": 22.6842495,
+      "lng": 75.8907342,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJu0lHiLHjYjkRfrbW1eOTl20",
+      "name": "Binjaliya Fuel Pump",
+      "address": "Ground Floor, near Snow City, NH 52, AB Road, Bicholi Mardana, Indore",
+      "lat": 22.6983837,
+      "lng": 75.92536270000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJU3mGewDjYjkRv2DOU106VmY",
+      "name": "अवंतिका गैस लिमिटेड ऑनलाइन पंप",
+      "address": "MWV2+P37, Musakhedi, Indore",
+      "lat": 22.6942881,
+      "lng": 75.9001818,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJg8SNXT3jYjkRSGOlIuB052M",
+      "name": "IndianOil",
+      "address": "Ground Floor, CGO Complex, Ring Road, Near Musakhedi Square, Musakhedi, Indore",
+      "lat": 22.6949072,
+      "lng": 75.900426,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM1b_TQDjYjkRKdvWdNm1D-s",
+      "name": "Palson Petroleum",
+      "address": "Scheme No 94, PSP-2, near Club 19, Ring Road, Indore",
+      "lat": 22.6969292,
+      "lng": 75.9033275,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJW2R3rE3jYjkR_xLjUW0KtuU",
+      "name": "Kanha Auto Energy By Nayara Energy",
+      "address": "MXHG+QP, Songuradiya",
+      "lat": 22.6793912,
+      "lng": 75.9767688,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLanHeADjYjkRalSEitOetaA",
+      "name": "Bagherwal fuels",
+      "address": "Bagherwal fuels Asrawad Buzurg satmil, Nemawar Road, Indore",
+      "lat": 22.6725092,
+      "lng": 75.9821276,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJIVbX6q7jYjkRP-H_mMzbaCU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Badia Keema",
+      "lat": 22.7012965,
+      "lng": 75.9537756,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjyxxpcH9YjkR3BM0F7zkLi4",
+      "name": "Mittal Petro Point",
+      "address": "Sajan Nagar, Teen Imli Chauraha, Chitawad, Indore",
+      "lat": 22.6908418,
+      "lng": 75.88344,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1zmSIwDjYjkRiVM0Do4r_Tw",
+      "name": "Binjaliya",
+      "address": "PW5F+754, Bicholi Mardana, Indore",
+      "lat": 22.7081414,
+      "lng": 75.9229596,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ5cQ1otz8YjkRy6nKujorokY",
+      "name": "IndianOil",
+      "address": "CGO Complex, Survey No 182/1, Ph No 38, Chitawad Road, near Chitawad, Teen Imli Square, Navlakha, Indore",
+      "lat": 22.6916544,
+      "lng": 75.8818752,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJF2fYGwD9YjkRWARWYaB1cEc",
+      "name": "Shivom fuels",
+      "address": "182, Nemawar Road, Chitawad, Indore",
+      "lat": 22.6920684,
+      "lng": 75.8819846,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJvx3YIgDlYjkR_FyX3RGgTSA",
+      "name": "Indian Oil - Maa Shipra Fuels",
+      "address": "1, Kampel road, Mundla dostdar, Indore",
+      "lat": 22.6338053,
+      "lng": 75.9903808,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJpaPM8rTiYjkRk4Hw9eVK_Oc",
+      "name": "Maharaja Agrasen Petroleum",
+      "address": "94, Ring Road, Teen Imli Chauraha, Sector H, Indore",
+      "lat": 22.6933868,
+      "lng": 75.8818841,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJrcT5ttXiYjkRTYhHrzqkE20",
+      "name": "Eco Gas",
+      "address": "252, Godhra Highway, Lohamandi, Pipliyahana, Indore",
+      "lat": 22.70670879999999,
+      "lng": 75.90402639999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJv1LXReTjYjkRjB6XiuDM8xY",
+      "name": "HP Petrol pump",
+      "address": "Indore",
+      "lat": 22.6805116,
+      "lng": 75.98492279999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJQcvfpKDhYjkRLthjm6MdG7E",
+      "name": "IndianOil",
+      "address": "Ground Floor, Baoliakhurd, NH-59A, Asrawad Buzurg",
+      "lat": 22.682336,
+      "lng": 75.9839267,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy-x3CoH7YjkR6SlF_S--tbg",
+      "name": "Bharat Petroleum, Petrol Pump -Singh Roadlines",
+      "address": "SHIVNAGAR, SH-27,INDORE",
+      "lat": 22.592846,
+      "lng": 75.898654,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5yoIcdHiYjkRYQlhZbA1l48",
+      "name": "Indian Biodiesel",
+      "address": "near Radha Rameshwar Building, 206, Mahadev Totla Nagar Road, Mahadev Totla Nagar, Indore",
+      "lat": 22.7127296,
+      "lng": 75.90663909999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJETXgO978YjkRnTCrgDHOUbg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Chauraha, Navlakha, Indore",
+      "lat": 22.6982006,
+      "lng": 75.8777137,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmfgcMQDjYjkRRv0-yYeBSjc",
+      "name": "Bhura",
+      "address": "PW98+63Q, Shiv Shakti Nagar Road, Sarv Suvidha Nagar, Indore",
+      "lat": 22.7180843,
+      "lng": 75.9152201,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJIUIMN739YjkRVJaJFjC0Hkw",
+      "name": "IndianOil",
+      "address": "8, Airport Road, Indore",
+      "lat": 22.720531,
+      "lng": 75.83815799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJ3yy8ZX9YjkRpJRQiJXvJAk",
+      "name": "Police Welfare Filling Station",
+      "address": "PRFM+3Q2, near Bank of India, Airport Road, Ramchandra Nagar Extention, Chowraha, Indore",
+      "lat": 22.7226351,
+      "lng": 75.83438749999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsTTKZpv9YjkRi0sLYwcBuO4",
+      "name": "IndianOil",
+      "address": "Ground Floor, VIP Road, Industrial Area, Indore",
+      "lat": 22.7323014,
+      "lng": 75.846797,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5buIJeABYzkR-clr5m_c9gs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Depalpur Road, Gandhi Nagar, Indore",
+      "lat": 22.7408418,
+      "lng": 75.7859391,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS9sTlAsBYzkR9eZ1yFL4e1Q",
+      "name": "Aadiyta Gas Agency Godown",
+      "address": "PQVJ+6JG, Gandhi Nagar, Indore",
+      "lat": 22.7430589,
+      "lng": 75.7815842,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5WpcXOP9YjkR8DswYVMrKKo",
+      "name": "bp Jio",
+      "address": "India",
+      "lat": 22.72982540000001,
+      "lng": 75.8122039,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJsztKX5j9YjkRSRW14qdxpi0",
+      "name": "BHADORIYA FUELS PRIVATE LIMITED",
+      "address": "Gajadhar Nagar, 6/116/E, Airport Road, Indore",
+      "lat": 22.7300627,
+      "lng": 75.8133783,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJLdB6WML9YjkROCaYTKE_4cI",
+      "name": "मोदक गणेशा किराना स्टोर्स",
+      "address": "6 - डी, नगीन नगर वैष्णो धाम मंदिर, इन्दौर",
+      "lat": 22.7182527,
+      "lng": 75.8215171,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJk-AMO-n9YjkRE4YHcBMRfs0",
+      "name": "HP GAS",
+      "address": "India",
+      "lat": 22.7251139,
+      "lng": 75.822312,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJjfs1MwECYzkR2bee_PxlVFg",
+      "name": "IndianOil",
+      "address": "Survey No 63, near SS Car Service Station, 6, Bijasan Road, Chota Bangarda, Indore",
+      "lat": 22.7468,
+      "lng": 75.8129001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbWhALdr9YjkRs_01LOgWtJc",
+      "name": "S S ENTERPRISES petrol pump machinery item",
+      "address": "Shivalay chok, Raj Nagar, Indore",
+      "lat": 22.71887019999999,
+      "lng": 75.8274823,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJc27nYE79YjkRPG8cR_Mxs8k",
+      "name": "MAHESH ENTERPRISES",
+      "address": "A 8, Dhar Road, Indore",
+      "lat": 22.708016,
+      "lng": 75.82601199999999,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJderLndP9YjkRh0RzDBrI4mU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, 60 Feet Road, Anjani Nagar, Indore",
+      "lat": 22.728573,
+      "lng": 75.827431,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7V6_DCj9YjkRYBaCVZNUq78",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sirpur, Dhar Road, Lokmanya Nagar, Malharganj, Indore",
+      "lat": 22.708114,
+      "lng": 75.827354,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC2IGOJT9YjkR3mMTtGvbL2M",
+      "name": "CM Petrol Pump Puc",
+      "address": "CM Petrol Pump, 1, Airport Road, Tirupati Nagar, Indore",
+      "lat": 22.7220141,
+      "lng": 75.8297566,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ82Ud0ur9YjkRdrspoYCfMFc",
+      "name": "C.M. Petro Point, BPCL petrol pump",
+      "address": "Airport Road, Tirupati Nagar, Indore",
+      "lat": 22.7231933,
+      "lng": 75.8297932,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJA_CXBMj9YjkR_zrkNwxSSIA",
+      "name": "HP Petrol Pump - Kimti Brothers",
+      "address": "Hpcl Petrol Pump Labriya Bheru, 204, Dhar Road, Noorani Nagar, Indore",
+      "lat": 22.7088231,
+      "lng": 75.829664,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWYKV4W0BYzkR5r5kW9UAqMs",
+      "name": "Kanchan Shree Fuels",
+      "address": "Ground Floor, Super Corridor, Hatod Road, Bada Bangarda, Indore",
+      "lat": 22.762438,
+      "lng": 75.785961,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2WcoPbb9YjkRGyQ5ExSYdRg",
+      "name": "IndianOil",
+      "address": "Ground Floor, Airport Road, Corner, Bijasan Road, APTC, Sula Khedi",
+      "lat": 22.7223021,
+      "lng": 75.8342201,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2a1n6Ln9YjkR_B3mXKLqixE",
+      "name": "Centex",
+      "address": "390, G N T Market, Scheme 71, Indore",
+      "lat": 22.710546,
+      "lng": 75.83465699999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJhy6mWvgBYzkRKGhn6yiYTCw",
+      "name": "IndianOil",
+      "address": "Bada Bangarda, Indore",
+      "lat": 22.7639394,
+      "lng": 75.7837675,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJY3FhyXD9YjkRFeUFYC6jKbc",
+      "name": "Tirupati fuel Station",
+      "address": "MR5, Chota Bangarda Road",
+      "lat": 22.7306316,
+      "lng": 75.83603099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPwvlWtf9YjkREv9q8WHK50g",
+      "name": "Swanky Style",
+      "address": "1145, Gumasta Nagar, Usha Nagar, Indore",
+      "lat": 22.7026125,
+      "lng": 75.8342962,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJGxZLSAD9YjkRnPGeKsNeP9E",
+      "name": "PAWAN automobile",
+      "address": "PRCQ+5JW, Indore Road, Bada Ganpati, Indore",
+      "lat": 22.7204893,
+      "lng": 75.83908509999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJlfEBUbL9YjkRAk3-mNvXetI",
+      "name": "IndianOil",
+      "address": "No 262 Bheru, Dhar Road, Labariya, Indore",
+      "lat": 22.7131011,
+      "lng": 75.8386117,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe0jnHrH9YjkRFo9jh5YFaEE",
+      "name": "BHARAT OIL CENTER",
+      "address": "India",
+      "lat": 22.706821,
+      "lng": 75.8376241,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZ44BULv9YjkR3yX3wcvl6Ac",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "204, Jawahar Marg, Raj Mohalla, Indore",
+      "lat": 22.7153886,
+      "lng": 75.841032,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhT3LukH8YjkRLZGe8ow77qs",
+      "name": "Gayatri Petroleum Depot",
+      "address": "69, Annapurna Road, Mahawar Nagar, Indore",
+      "lat": 22.7016557,
+      "lng": 75.841881,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJVevoQc0DYzkRNoCcy4PIHDc",
+      "name": "Arya Filling Services",
+      "address": "near Girnar City, 245/3, Chhota Bangarda, Indore",
+      "lat": 22.7532982,
+      "lng": 75.8327839,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJyf2Hea79YjkR8-sSUYoLJh8",
+      "name": "IndianOil",
+      "address": "Babu Labh Chand, Plot No 5/61, Chhajlani Marg, Lokmanya Nagar, Indore",
+      "lat": 22.7050833,
+      "lng": 75.84425990000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTYfNAkpZYjkRyq-v-Hc8NFg",
+      "name": "IndianOil",
+      "address": "Survey No 77, 2 & 77/3, Yashwantnagar, Mhow",
+      "lat": 22.7516903,
+      "lng": 75.8351825,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHU2c4lL8YjkRp6D9Dcg0S90",
+      "name": "Tera Energy",
+      "address": "NO.1, Babu Lalchand Chajlani Road, Lokmanya Nagar, Indore",
+      "lat": 22.6969157,
+      "lng": 75.8446684,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJoe0zLsL9YjkRb90UoamaCuY",
+      "name": "Tanishka uniform petrolium drees supliers",
+      "address": "102, penjan colony, Indore",
+      "lat": 22.7396275,
+      "lng": 75.84737,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJBcIDtp39YjkRvdPRhi2oqy8",
+      "name": "Khushi Oil",
+      "address": "India",
+      "lat": 22.7301526,
+      "lng": 75.8508803,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJK77elgb9YjkR-EgFR7MlkJc",
+      "name": "D B Corner",
+      "address": "28/1, Sukhmani Potrol Pump, Palsikar Road, Godha Colony, Indore",
+      "lat": 22.7077092,
+      "lng": 75.851663,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJIeF8TJ39YjkRdZvfv8xUWd8",
+      "name": "IndianOil",
+      "address": "No 4/5, Industrial Area, Indore",
+      "lat": 22.7343964,
+      "lng": 75.8520156,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJF40Ly2r9YjkRvJyO01m4C_M",
+      "name": "Hindustan Petroleum Corporation Limited, Retail Regional Office",
+      "address": "Kapas Bhawan, Race Course Road, Dil Pasand Colony, Race Course Road, Indore",
+      "lat": 22.7252748,
+      "lng": 75.8754172,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJj3PK7bTiYjkRSplFneFeKQY",
+      "name": "PALIWAL FUELS CLUB HPCL STAR",
+      "address": "865/2, Khajrana,Ring Road Circle, Khajrana Road, Indore",
+      "lat": 22.731396,
+      "lng": 75.9014541,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzeEsmjf9YjkRgTalXWfX7-4",
+      "name": "IndianOil",
+      "address": "New no 14/1, near Palasia, No 1/1, Old Palasia Road, Chauraha, Indore",
+      "lat": 22.7238933,
+      "lng": 75.88930669999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy-sUPxP9YjkR-qG1BOLIXeU",
+      "name": "Bharat Petroleum Fuel Station",
+      "address": "33, Nehru Park Road, Saste Nagar, Nehru Park 2, Shivaji Nagar, Indore",
+      "lat": 22.7232907,
+      "lng": 75.8692726,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJc8S4RxT9YjkR1FzrBrvi3Y8",
+      "name": "HP Petrol Pump (Ashok Petrol Company)",
+      "address": "Indore, 41, Mahatma Gandhi Rd, Bhangiya, Regal Square, Rajwada, South Tukoganj, Indore",
+      "lat": 22.7204604,
+      "lng": 75.8711987,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJiew_QBT9YjkRpL0-Dc7fySY",
+      "name": "IndianOil",
+      "address": "566/1, Mahatma Gandhi Road, South Tukoganj, Indore",
+      "lat": 22.7206076,
+      "lng": 75.8722963,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJU9eNNTj9YjkRhswOslPAd8c",
+      "name": "Sunil Service Station, Bharat Petroleum Petrol Pump",
+      "address": "AB Road, Indore",
+      "lat": 22.7234256,
+      "lng": 75.88688069999999,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJX5CPtEz9YjkR6xjBgP_AP98",
+      "name": "IndianOil",
+      "address": "LIG Link Road, Ring Road, LIG Square, Indore",
+      "lat": 22.7341181,
+      "lng": 75.8996882,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJc_AQm1b9YjkR1CrYhZweFPU",
+      "name": "Raghunath prasad and co . BPCL petrol pump",
+      "address": "Infront of, Plot no 25 , Sheme no 54, AB Road, Vijay Nagar, Badi Bhamori, Indore",
+      "lat": 22.7453065,
+      "lng": 75.89422940000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaZm6z1X9YjkRwsg4Lrh6KpY",
+      "name": "IndianOil",
+      "address": "No 307, AB Road, Vijay Nagar, DDU Nagar, Scheme No 54, Indore",
+      "lat": 22.7478152,
+      "lng": 75.894913,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJW7N1oaoCYzkRLVwYBUzmBQo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, MR 10 Road, Khajrana, Indore",
+      "lat": 22.7507359,
+      "lng": 75.89860840000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJdEO30odYzkR-cwbz8H4Mns",
+      "name": "Hindustan Petroleum",
+      "address": "AB Road, Dewas Naka, Scheme No 114, Indore",
+      "lat": 22.7711008,
+      "lng": 75.9012762,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJN22K3kodYzkRmQ1i0EI-Wsg",
+      "name": "IndianOil",
+      "address": "Ground Floor, AB Road, Dewas Naka, Niranjanpur, Indore",
+      "lat": 22.7716007,
+      "lng": 75.9013093,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJr8RqDTUdYzkRGCzZHY2sndw",
+      "name": "Laxmi Service Station",
+      "address": "AB Road, Dewas Naka, Scheme 78, Vijay Nagar, Indore",
+      "lat": 22.7754479,
+      "lng": 75.9024372,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIVEWt6L9YjkR0BC-xjYVzkk",
+      "name": "Pragti filling",
+      "address": "PV95+R3H, Indore",
+      "lat": 22.7195687,
+      "lng": 75.8577258,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJEZRiXG39YjkRM8IH7IJMad0",
+      "name": "Shree Saibaba Diesels",
+      "address": "12, Kibe Compound, Indore",
+      "lat": 22.7195687,
+      "lng": 75.8577258,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJYWbLkb39YjkRr89bs4v8YGc",
+      "name": "Ajay Petroleum And Services",
+      "address": "Mahatma Gandhi Road, Indore",
+      "lat": 22.7195682,
+      "lng": 75.85772709999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJzyj2h-j9YjkR_ZxPEJtvaSM",
+      "name": "Sanket Enterprise",
+      "address": "Near, Rajwada, Indore",
+      "lat": 22.7188244,
+      "lng": 75.85801839999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJRU4LaEX9YjkR7wUq1s1Hh4s",
+      "name": "Vikram Petroleum",
+      "address": "Jawaharlal Road, Indore",
+      "lat": 22.7164477,
+      "lng": 75.8553999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJDde5B9_9YjkRkdjYYLwopHg",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Rambag, Netaji Subhash Marg, Indore",
+      "lat": 22.7234,
+      "lng": 75.8583,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBQQ_dL_9YjkRsDQ2l97bhuQ",
+      "name": "बिसानी",
+      "address": "PV96+4WV, Ranipura, Indore",
+      "lat": 22.7178643,
+      "lng": 75.86229159999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJuwcH5D_9YjkRF6IoWxX0h5o",
+      "name": "JAYRAJ FILLING STATION",
+      "address": "nearby Pandit Ji Ka Daba, Choumela Road, Dag",
+      "lat": 22.7151169,
+      "lng": 75.8621138,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJcaOcxe_9YjkRATN1vQGeQKA",
+      "name": "Sonu Petroleum",
+      "address": "Near, Laxmi Bai Nagar, Indore",
+      "lat": 22.7291011,
+      "lng": 75.8550415,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJnQ1CiZ_9YjkR3oMTlRXosKY",
+      "name": "IndianOil",
+      "address": "Ground Floor, Central Jail, Snehlataganj Main Road, Sahakar Nagar, Indore",
+      "lat": 22.728968,
+      "lng": 75.863348,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ____Dw79YjkR08bIRT8GgUg",
+      "name": "Gopinath Traders",
+      "address": "24, 10, Ware House Road, Siyaganj, Indore",
+      "lat": 22.7112847,
+      "lng": 75.8655034,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJJ3wbcgD9YjkRAnlIlZs8eCc",
+      "name": "Bharat Petroleum, Petrol Pump -Sukhmani Petro Filling Station",
+      "address": "13, Palsikar Road, Nai Duniya, Pagnis Paga, Indore",
+      "lat": 22.7081307,
+      "lng": 75.8554386,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJeVnPR_r9YjkRZ-esvo65YAI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Mahatma Gandhi Road, Regal Square, Indore",
+      "lat": 22.720382,
+      "lng": 75.871303,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl2vFOQD9YjkRUwYvOBMyb7k",
+      "name": "PUC Suveedha Petrol Pump",
+      "address": "566, Mahatma Gandhi Road, Nehru Park 2, Shivaji Nagar, Indore",
+      "lat": 22.7205086,
+      "lng": 75.87243579999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ41t3WgD9YjkRr4ndM-iv5fQ",
+      "name": "bharat petrol pump",
+      "address": "PV44+3RC, Palsikar Colony, Indore",
+      "lat": 22.7051886,
+      "lng": 75.8570266,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJEZRiXG39YjkRm8Ww0vsGQyk",
+      "name": "Bharat Petroleum, Petrol Pump -V.M. Modi & Sons, Indore",
+      "address": "RNT MARG, INDORE, Indore",
+      "lat": 22.7170001,
+      "lng": 75.8731347,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJA6U0hBf9YjkR3urdTFnnr6c",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Plot No 3, Madhumilan Cinema Road, Madhumilan Square, Kibe Compound, Indore",
+      "lat": 22.7134935,
+      "lng": 75.87213469999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzQ75d3f9YjkRFan3R3iVn_4",
+      "name": "IndianOil",
+      "address": "1st, Battalion, Keolari Line, Pologround",
+      "lat": 22.7342565,
+      "lng": 75.8563317,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZQzt_xb9YjkRUH-Qc4XR4Iw",
+      "name": "IndianOil",
+      "address": "CGO Complex, 8A, RNT Marg, Indore",
+      "lat": 22.716238,
+      "lng": 75.87359599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAepM2ez9YjkR6T7pO2jzs64",
+      "name": "Anand Petrol Pump",
+      "address": "PV7F+526, Unnamed Road, Murai Mohalla, Kibe Compound, Indore",
+      "lat": 22.7129151,
+      "lng": 75.8725101,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJf8rSUBb9YjkRBZ4rzngC28o",
+      "name": "Mahesh Auto Sales & Service",
+      "address": "8 A, RNT Marg, South Tukoganj, Indore",
+      "lat": 22.71677679999999,
+      "lng": 75.8740926,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJMdOViHIdYzkRbH9ksBCyJ44",
+      "name": "Essar-Nayara Petrol Pump",
+      "address": "QWFP+Q47, Bypass Rd, Omaxe City 1, Nipania, Indore",
+      "lat": 22.7744181,
+      "lng": 75.93528169999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXzp2wJYbYzkRLBesEKZZDGA",
+      "name": "IndianOil",
+      "address": "CGO Complex Bypass Road, NH 3, Mayakhedi, Indore",
+      "lat": 22.77674,
+      "lng": 75.93634709999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ11z9i0odYzkRY489KAbjbq8",
+      "name": "IndianOil",
+      "address": "Ground Floor, AB Road, Lasudia Mori, Barlai Jagir",
+      "lat": 22.7820778,
+      "lng": 75.9053392,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTS3lITIdYzkRaKWCsDy0Xr4",
+      "name": "Nayara Petrol Pump",
+      "address": "QWM4+R45, AB Road, Sda Compound, Lasudia Mori, Indore",
+      "lat": 22.7845221,
+      "lng": 75.9053577,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQx9v2ZrjYjkRdDwfpC9HdAI",
+      "name": "Bharat Petroleum, Petrol Pump -Gangotri Developers",
+      "address": "KANADIA, Kanadia Main Road, Indore",
+      "lat": 22.7249666,
+      "lng": 75.9220293,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJR0hD-viYjkRUY5AFJh5Kyk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Bypass Junction, Kanadia Main Road, Indore",
+      "lat": 22.72708870000001,
+      "lng": 75.92693349999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVamvQgDjYjkRrh3guNN92Bc",
+      "name": "Mahin bhai's house",
+      "address": "PWH9+V64, Heena Palace, Indore",
+      "lat": 22.7296383,
+      "lng": 75.9180741,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJI8EUUpnjYjkR1peiIZSNffk",
+      "name": "essar petrol pump",
+      "address": "128b, Kanadia Main Road, Vaibhav Nagar C- Sector, Vaibhav Nagar Sector A, Indore",
+      "lat": 22.7197992,
+      "lng": 75.91212089999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJxa1lkWfjYjkRG98uSbVqVq4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, MR 9 Road, Khajrana, Indore",
+      "lat": 22.736469,
+      "lng": 75.930533,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ59g0qPbjYjkRWZo0jO7arfU",
+      "name": "Bharat Petroleum, Petrol Pump -Khajrana Petro Needs",
+      "address": "Khajrana, Indore",
+      "lat": 22.7320085,
+      "lng": 75.9114285,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqV5WdrTjYjkRjEDFL6P6GOY",
+      "name": "Bhoriya enterprise",
+      "address": "PWC3+694, Garipipliya Road, Swami Vivekanand Nagar, Indore",
+      "lat": 22.7205022,
+      "lng": 75.9034551,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJSYtqLZriYjkRrB-Bn2ZAsxQ",
+      "name": "IndianOil",
+      "address": "Scheme No 159, No, MR10 County Walk Township, Indore",
+      "lat": 22.7444361,
+      "lng": 75.92943,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjenH9pnjYjkRiOm5_UKMk20",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Khasra No 865, Khajrana Road, Indore",
+      "lat": 22.731201,
+      "lng": 75.901501,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYy5aJaXiYjkRdBTYoz-dz1U",
+      "name": "Paliwal Fuels",
+      "address": "No 16, Khajrana Road, Old Palasia, Indore",
+      "lat": 22.7313691,
+      "lng": 75.90148669999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJo-hSNu7jYjkRLio7Zlb7RLs",
+      "name": "Balkishan Kushwaha",
+      "address": "9, Indore",
+      "lat": 22.7430511,
+      "lng": 75.90963959999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJB7GZOgD9YjkRyxHM5cx8dQ8",
+      "name": "Andad",
+      "address": "PVGV+RR6, Anand Bazar Road, Indore",
+      "lat": 22.72703659999999,
+      "lng": 75.894513,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ1YE7yl8dYzkRJFp-6xdKyAU",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Apollo Db City, Nipania, Indore",
+      "lat": 22.7549626,
+      "lng": 75.92208769999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJW11hBHrjYjkRivhgnWlY64g",
+      "name": "Aavantika Gas Limited CNG Station",
+      "address": "Eastern Ring Road, Tapeshwari Bagh Colony, Indore",
+      "lat": 22.7486225,
+      "lng": 75.9044998,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJm39051MdYzkR_x3Cceu2lnE",
+      "name": "IndianOil",
+      "address": "Mr 10, Ring Road, DDU Nagar, Crossing, Indore",
+      "lat": 22.7488009,
+      "lng": 75.9040028,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWTWrivoAYzkRwNc6CLJ-yWE",
+      "name": "Essar Petrol Pump",
+      "address": "QQR2+X3H, Indore",
+      "lat": 22.7924493,
+      "lng": 75.7502312,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEV12xq4DYzkRCykGGu2blik",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sanwer Road, Rewati",
+      "lat": 22.7996965,
+      "lng": 75.84690570000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2c-7EQABYzkR3UYY7UgMvjA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Khasra No 75/1/2 Budhaniya, Hatod",
+      "lat": 22.782827,
+      "lng": 75.758573,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZYRMXfkAYzkRZrio3IEAi-g",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Depalpur Road, Indore",
+      "lat": 22.7890701,
+      "lng": 75.7532059,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSaxn1rsBYzkRz9C3xQYkZjU",
+      "name": "Bharat Petroleum Petrol Pump , GORIGIRIJA PUMP",
+      "address": "VILLAGE PALIYAHATHOD TEHSIL, Indore",
+      "lat": 22.829101,
+      "lng": 75.79329,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJG-bTz7UDYzkRfOWlOOpoizE",
+      "name": "ESSAR Fuel Pump",
+      "address": "QRWJ+FVC, Bardari Road, Limboda Gari",
+      "lat": 22.7961897,
+      "lng": 75.8321539,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJL0yk4HEDYzkR8SMOq3GP6l0",
+      "name": "shree Shrishti Fuel Tower",
+      "address": "Bardari, Indore",
+      "lat": 22.7965327,
+      "lng": 75.83251059999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq6LHVfwDYzkR-Eor95sQojc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Paliya, Hatod, Paliya Haidar",
+      "lat": 22.827308,
+      "lng": 75.81018100000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWeBDG_oBYzkRGF0euXD9NyI",
+      "name": "IndianOil",
+      "address": "Ground Floor, Depalpur Road, Hatod",
+      "lat": 22.7971023,
+      "lng": 75.7378828,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm8qxN1ACYzkRxtqrMj3A2DQ",
+      "name": "Aavantika Gas Limited CNG Station",
+      "address": "QRMR+5WV, 247/1, Sector E, Sanwer Road Industrial Area, Indore",
+      "lat": 22.7827646,
+      "lng": 75.843097,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJgURNp5EAYzkR-xGvfKxfjO0",
+      "name": "IndianOil",
+      "address": "Sur No 178/3/2, PH No 1 Alwasa, Hatod",
+      "lat": 22.7964399,
+      "lng": 75.7295438,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWTWCElsDYzkRXa7AQAYQeCM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Paliya Road, Alwasa",
+      "lat": 22.826511,
+      "lng": 75.831352,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ60V6xq4DYzkRHHRD0MQR9Y4",
+      "name": "Kaka Shri Fuel Centre",
+      "address": "RR2W+2P5, Bhawrasla",
+      "lat": 22.8000163,
+      "lng": 75.84684659999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJo6IaCQADYzkRB4wpXP1cIu8",
+      "name": "PUC centre",
+      "address": "Kaka Shree petrol pump, Bhawrasla, Indore",
+      "lat": 22.8001526,
+      "lng": 75.84709740000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ21U3YlkCYzkR3Zjzq9_I76o",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "B/1, Plot No 117/A1 & 117, Narwal Sanwer Road, Industrail Area, Sector E, Indore",
+      "lat": 22.7734283,
+      "lng": 75.8476216,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPdzbBgUDYzkR3udhwxP3QIY",
+      "name": "नरवल झोन चौराहा",
+      "address": "QRFX+54G, Sector E, Sanwer Road Industrial Area, Indore",
+      "lat": 22.7729498,
+      "lng": 75.8478234,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJFWWMWAsBYzkRzFs7am8o5j0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Depalpur, Depalpur Road, Hatod",
+      "lat": 22.796868,
+      "lng": 75.723725,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYe_tre0DYzkRHyD6yKlqlBc",
+      "name": "Rohit Mobile Repairing Centre",
+      "address": "RRGQ+2WV, Alwasa",
+      "lat": 22.8251177,
+      "lng": 75.83978379999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ4eiZnA0BYzkRedUelzMsQO4",
+      "name": "IndianOil",
+      "address": "Major District Road, Fulkaradiya",
+      "lat": 22.803403,
+      "lng": 75.72032899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnW7OXPsDYzkREaVBFcU6BOU",
+      "name": "4 M ETP LD",
+      "address": "QVF4+H5C, Sector F, Sanwer Road Industrial Area, Indore",
+      "lat": 22.7739427,
+      "lng": 75.85539059999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJhQLjhPEDYzkRrG_Ka6QcTgY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Ujjain - Indore Road, Malharganj, Baroli",
+      "lat": 22.821854,
+      "lng": 75.850527,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlRpqbgADYzkROm35r-uzd9Q",
+      "name": "SACHKHAND INDANE GES GODAM",
+      "address": "RVC2+4XQ, Gram Baroli",
+      "lat": 22.8203205,
+      "lng": 75.85251029999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJnSMwExQDYzkRP0t-f5QEIfc",
+      "name": "Samavyaa Fuels (BPCL)",
+      "address": "Baroli, Ujjain Road, Indore",
+      "lat": 22.8270223,
+      "lng": 75.8510259,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYQfief0DYzkR9Y1XjR16wmw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gram Baroli",
+      "lat": 22.8281875,
+      "lng": 75.8505625,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJIStDEQwDYzkR1_ZqnlOdaR8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Sanwer Road, Malikhedi, Gram Baroli",
+      "lat": 22.828152,
+      "lng": 75.850784,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmYBamvgDYzkRyGM8fR8IIsQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 63/3, Sanwer Road, Banganga, Indore",
+      "lat": 22.747192,
+      "lng": 75.850611,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB3z_VmwDYzkRiBO3kD2p3Oo",
+      "name": "Maa Geeta Petrol Diesal Cng Pump",
+      "address": "banganga main road ujjain, naka, Indore",
+      "lat": 22.7468843,
+      "lng": 75.8504516,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNyYRGs4DYzkRtSUWL-MiDXE",
+      "name": "Aaradhya Bio Diesel Company",
+      "address": "Shop No. 185, Mr 9 Road, Indore",
+      "lat": 22.7723488,
+      "lng": 75.8649275,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8QGoEQADYzkRUs8i4_XVUKI",
+      "name": "Pitra Kripa IOCL petrol pump",
+      "address": "QVPG+CXW, Bhangarh, Indore",
+      "lat": 22.7861055,
+      "lng": 75.8774423,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJr3wuHQADYzkRg9_myBl0HCw",
+      "name": "ATHARV FUEL BPCL",
+      "address": "QV8C+7J6, Kashipura Road, Malvi Nagar, Shyam Nagar Annex A, Sukhliya, Indore",
+      "lat": 22.7656585,
+      "lng": 75.87152739999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAVdUJZoCYzkRwQe35fwuRk4",
+      "name": "Cng Petrol Pump",
+      "address": "10, Hira Nagar Main Road, Veena Nagar, DDU Nagar, Sukhliya, Indore",
+      "lat": 22.7576453,
+      "lng": 75.869961,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJT4bHzpsCYzkRIopHRVBAnOA",
+      "name": "Aavantika Gas Limited CNG Station",
+      "address": "DDU Nagar, Sukhliya, Indore",
+      "lat": 22.7561263,
+      "lng": 75.8696746,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJe1kxyZsCYzkRGrBBy4yz0Yk",
+      "name": "Bharat Petroleum Petrol Pump R.B Filling Station",
+      "address": "Hira Nagar Main Road, DDU Nagar, Sukhliya, Indore",
+      "lat": 22.7561364,
+      "lng": 75.8698096,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJFeE2bacDYzkR2AV0O68s3KQ",
+      "name": "Jasraj Services - Bharat Petroleum Corporation Limited",
+      "address": "near Life Care Hospital, PSP-4 Scheme No 78, Part 2, near Life Care Hospital, Indore",
+      "lat": 22.7622018,
+      "lng": 75.88351639999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKWGJVM0DYzkR42f724Y3Re8",
+      "name": "Petrol pump",
+      "address": "PVX3+VW4, opp. laxmibainagar railway station, MR4 Road, Bhagirathpura, Indore",
+      "lat": 22.7496466,
+      "lng": 75.85481399999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJHbyDWzQdYzkREa8J-_2q82o",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Agra Mumbai Road, Lasudia Mori, Indore",
+      "lat": 22.7781601,
+      "lng": 75.903301,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJi0XkRTQdYzkRbT824b2Wfe8",
+      "name": "IndianOil",
+      "address": "More, Ground Floor Dewas Naka, AB Road, DDU Nagar, Lasudia Mori, Indore",
+      "lat": 22.777896,
+      "lng": 75.9040057,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ25bsgjUdYzkRixOJXvNlLdU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Mumbai Agra Road, Niranjanpur, Indore",
+      "lat": 22.774501,
+      "lng": 75.903001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo3gCjEodYzkROti37bdkl3g",
+      "name": "IndianOil",
+      "address": "No 412, 3, Dewas Naka, Niranjanpur, Indore",
+      "lat": 22.772999,
+      "lng": 75.902596,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3xEIEy4dYzkRSSJZoJpsXj4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Lasudia Mori, Indore",
+      "lat": 22.78751,
+      "lng": 75.90693999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9XXmkGH9YjkRxl5itZeUtrQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "3/1, Pardesipura, Indore",
+      "lat": 22.746001,
+      "lng": 75.8718001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbZF0bKQdYzkRLxicb3c178E",
+      "name": "Service centre",
+      "address": "KM 101, AB Road, Dewas Naka, Lasudia Mori, Indore",
+      "lat": 22.78849,
+      "lng": 75.907124,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ_yAUPAADYzkR2_B9Utlz5lM",
+      "name": "Friends enterprises indore",
+      "address": "PVXP+V78, gali 04, Banganga, Ram Nagar, Indore",
+      "lat": 22.7496544,
+      "lng": 75.8857096,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJw1prcw2nYzkRPFYFEh8K9HU",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sanwer, Hansa Khedi, Fatehabad Chandrawatiganj",
+      "lat": 22.782834,
+      "lng": 75.90989499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJU-niTqgCYzkRMIpkbusix68",
+      "name": "IndianOil",
+      "address": "near Sayaji Hotel, MR 10 Road, DDU Nagar, Scheme No 54, Indore",
+      "lat": 22.7515091,
+      "lng": 75.8906811,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwSauKioDYzkRy1ir3wNrBho",
+      "name": "Essar Petrol Pump",
+      "address": "QV2R+853, Sayaji Club Rd, Suyash Vihar, Bhamori, Vijay Nagar, Indore",
+      "lat": 22.7507584,
+      "lng": 75.89041859999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJiy4qiCwDYzkRvzeD8qRiIa0",
+      "name": "Ranjana hp",
+      "address": "QV3V+8F8, Vijay Nagar, Madhepura",
+      "lat": 22.7532848,
+      "lng": 75.8936962,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJXcrrzhEDYzkRt-2_1hZftTk",
+      "name": "BABA MOTORS LTD",
+      "address": "Shop No 15, AB Road, Panodiya Biaora, Indore",
+      "lat": 22.75815790000001,
+      "lng": 75.899826,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJXXcb5JIcYzkRozT7-a07cnM",
+      "name": "IndianOil",
+      "address": "Lock No 29/2, Agra - Mumbai Highway, Manglaya Sadak, Ratlam",
+      "lat": 22.8252836,
+      "lng": 75.93208709999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfWkFkukdYzkReR4C8B_zU_A",
+      "name": "Jio-bp",
+      "address": "opposite Hpc Bottling Plant, Ground Floor Nh 3, Ab Road, Sanwer, Lasudia Parmar, opposite Hpc Bottling Plant, Indore",
+      "lat": 22.8417857,
+      "lng": 75.9435397,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOdc3HAAdYzkRre_RGx_8tLc",
+      "name": "S R KUMAWAT FUELS (BPCL)",
+      "address": "QWRQ+J3W, Manglaya Sadak, Indore",
+      "lat": 22.79178,
+      "lng": 75.937046,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRczE8T0dYzkRpVNhOhBFzkg",
+      "name": "Tamanna Shri gas agency",
+      "address": "QWJ6+VXR, Talab road, Dewas Naka, Lasudia Mori, Indore",
+      "lat": 22.78224089999999,
+      "lng": 75.91238299999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJlfnK4DgdYzkRfmF7ux4qXgM",
+      "name": "Bharat Petroleum Petrol Pump , SHREE SAI FILLING CENTER",
+      "address": "AB Road, ROADMANGALIYA, Indore",
+      "lat": 22.7980169,
+      "lng": 75.9124435,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqYvy6-YdYzkRG7DjoLXDcw8",
+      "name": "IndianOil",
+      "address": "11 AB Road, Talawali Chanda Lane, Manglaya Sadak, Indore",
+      "lat": 22.8017902,
+      "lng": 75.91411880000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPSJdjAMdYzkR6DI6kgjrFaM",
+      "name": "Nayara Petrol Pump - Vindheshwari Fuels",
+      "address": "near SS Infinitus, MR11 Road, Lasudia Mori, Indore",
+      "lat": 22.7743029,
+      "lng": 75.9152713,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvcwi6BcdYzkRTUnONKqRD7M",
+      "name": "NR Yadav Fuel (BPCL)",
+      "address": "QWG6+3W8, MR11 Road, Dewas Naka, Lasudia Mori, Indore",
+      "lat": 22.7751541,
+      "lng": 75.9123194,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ30cIbM8DYzkRQsnn0dJV1HQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Regenta Hotel, NH 3, Manglaya Sadak, sanwer",
+      "lat": 22.8129164,
+      "lng": 75.93711739999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5am_xEUdYzkRG_a3HkIkeSo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Bhawan Prominent School, Nipania Main Road, Pipliya Kumar, Indore",
+      "lat": 22.768436,
+      "lng": 75.9133174,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNeEyATodYzkRPJqKvpS4a20",
+      "name": "Bharat Petroleum Petrol Pump , PAWAN FUELS",
+      "address": "Ring Road, Indore",
+      "lat": 22.7708622,
+      "lng": 75.9095262,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbc1_ecIcYzkRIMk0sBX7vCs",
+      "name": "BPCL Manglia Depot",
+      "address": "Manglaya Sadak, Indore",
+      "lat": 22.8143491,
+      "lng": 75.9227378,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJz53M5h4dYzkRYGzQA6Ol2iQ",
+      "name": "Oberoi filling station",
+      "address": "near BALAJI SKYZ, nipani main road, Tulsi Nagar, Nipania, Indore",
+      "lat": 22.7669371,
+      "lng": 75.9156835,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJebUL6mUdYzkRAAAA0PMoJkw",
+      "name": "Parida Shop",
+      "address": "QW7J+92W, Nipaniya Road, Vijay Nagar, Indore",
+      "lat": 22.7634752,
+      "lng": 75.9300672,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJLdmTlM0dYzkRZFSwVF-dMeY",
+      "name": "Shaddow infrastructure &investments Org",
+      "address": "21, Royal Bungalow, Nipania, Indore",
+      "lat": 22.76307,
+      "lng": 75.9258739,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ58ETuCsdYzkRrJyrpBiU1uc",
+      "name": "IndianOil",
+      "address": "CGO Complex, near Oscian Park, Nipania, Indore",
+      "lat": 22.7605498,
+      "lng": 75.92976519999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHYgGSwAdYzkRgTNBd-8UDr0",
+      "name": "HPCL T.T driver room",
+      "address": "RW9C+FVX, Manglaya Sadak, Indore",
+      "lat": 22.8187495,
+      "lng": 75.92223419999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJISxrKgAdYzkRi9dEBU0sYIU",
+      "name": "Office DLS INFRAMAKER",
+      "address": "Singapore British Park, near Dewas Naka, 157-B, Indore",
+      "lat": 22.813066,
+      "lng": 75.906305,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ01NI738dYzkRf74Hd6X1xtc",
+      "name": "RAM PETROL PUMP",
+      "address": "RAM PETROL PUMP, Indore",
+      "lat": 22.7587391,
+      "lng": 75.92013539999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJawDm1wUdYzkRa4l8-ma5pQ8",
+      "name": "Sharanya Mobilities",
+      "address": "282/4, Indore",
+      "lat": 22.8200172,
+      "lng": 75.9383757,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSW52Wk0dYzkRqa27yDYb9Po",
+      "name": "Reva Kishan sewa kendra",
+      "address": "Sula Khedi Road, Manglaya Sadak, Indore",
+      "lat": 22.8182455,
+      "lng": 75.9437674,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZzo2Q5AdYzkRXO0OMUDvP38",
+      "name": "Hindustan Petroleum",
+      "address": "Hindustan Petroleum, Indore",
+      "lat": 22.7576054,
+      "lng": 75.9218446,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJl9e3qUkdYzkRqlZmX6hJPBw",
+      "name": "IndianOil",
+      "address": "Survey No 12/3, Ph, No 60, Sanwer, Sullakhedi, Barlai Jagir",
+      "lat": 22.8185001,
+      "lng": 75.94380009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzY0tpQYdYzkRmaMaWA3e1ZI",
+      "name": "Bharat Petroleum, Petrol Pump -Sun N Deep Filling Center",
+      "address": "Ring Road, Pipliya Kumar, Indore",
+      "lat": 22.763336,
+      "lng": 75.90590089999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP_ykAvsdYzkRELCO0GgG8Ac",
+      "name": "IndianOil",
+      "address": "Ground Floor Sanwer, Gari Pipliya, Barlai Jagir",
+      "lat": 22.8270845,
+      "lng": 75.9164632,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq8RhMgAdYzkRvnyrFavxKcE",
+      "name": "HP petrol and CNG pump",
+      "address": "RWJ7+6QC, Gari Pipalya",
+      "lat": 22.8305516,
+      "lng": 75.9143867,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJo1ICWgADYzkRHb6jpBnJYbY",
+      "name": "I P FUEL STATION",
+      "address": "Vijay Nagar, Bhagyashree Colony, Indore",
+      "lat": 22.7507219,
+      "lng": 75.8986832,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwYuiA4YcYzkRu5qaBkqs8Wg",
+      "name": "IndianOil",
+      "address": "KM Stone, Ground Floor NH 3, Raukhedi,Badayala Mata, near No 591/2, Ratlam",
+      "lat": 22.836144,
+      "lng": 75.940902,
+      "open_now": true
+    }
+  ]
+}

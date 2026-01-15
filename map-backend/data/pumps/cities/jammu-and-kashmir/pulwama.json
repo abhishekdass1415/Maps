@@ -1,0 +1,115 @@
+{
+  "city": "Pulwama",
+  "state": "Jammu and Kashmir",
+  "count": 13,
+  "center": {
+    "lat": 33.8333,
+    "lng": 75.3333
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJ5zLRA5UP4jgRl-4z8u8I5vk",
+      "name": "Mattan Filling Station",
+      "address": "Petrol Pump, near Mattan, 36 KP Road, Anantnag",
+      "lat": 33.7535375,
+      "lng": 75.20056799999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJJ1jt430P4jgRoJUh2vAe9ew",
+      "name": "Umeir Yaqoob Dar",
+      "address": "near Mattan Petrol Pump, 20 Mattan Road, Anantnag",
+      "lat": 33.7535375,
+      "lng": 75.20056799999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ9cSrnPIP4jgRjFIxE-NAzHY",
+      "name": "IndianOil",
+      "address": "Ground Floor Khanabal, Road, Pahalgam",
+      "lat": 33.753528,
+      "lng": 75.199826,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoZNU5M0P4jgRcR7x-ZRjyjQ",
+      "name": "Mattan Filling Station",
+      "address": "Islamabad Mattan Road, Mattan",
+      "lat": 33.7543058,
+      "lng": 75.1995194,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ5RFmozAP4jgRJT2peNVje8A",
+      "name": "Ashiq Hussain Malik",
+      "address": "Petrol Pump, 121 Road, Mattan",
+      "lat": 33.7534556,
+      "lng": 75.19962129999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJLyQLXAAR4jgR1JxrIcM24Mk",
+      "name": "Pahalgam Filling Station",
+      "address": "KP Road, Sili Gam",
+      "lat": 33.8305453,
+      "lng": 75.2584092,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVbj4OmcP4jgRymp-UZNsPU4",
+      "name": "Aftab Filling Station",
+      "address": "20, near Trahab, Achabal",
+      "lat": 33.7442315,
+      "lng": 75.1844165,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ5_WKrtsL4jgR5nUTm_aTX-Q",
+      "name": "Petrol pump",
+      "address": "M7V9+8C6, Shangus",
+      "lat": 33.6932832,
+      "lng": 75.26851049999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZ8EWK25z4jgRnO4m3qSRILo",
+      "name": "Zakir Hussain Khatana",
+      "address": "Sheikh Pora",
+      "lat": 33.739174,
+      "lng": 75.3432553,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJk3ZzoK8L4jgR50oQwRw15i8",
+      "name": "SN Filling STATION",
+      "address": "M7VF+498, Islamabad - Chatpal Road, Nowgam Kothar",
+      "lat": 33.6927875,
+      "lng": 75.2734588,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJL33V_mQR4jgROdbm7S0honA",
+      "name": "Sakhi kashmir gas service",
+      "address": "Chatrasoo Badroo",
+      "lat": 33.8377036,
+      "lng": 75.2332334,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJKSZ6VAAR4jgRjjwDctcgBSs",
+      "name": "Gas Agency",
+      "address": "R6QJ+2MP, Dachee Gam",
+      "lat": 33.8377086,
+      "lng": 75.2318748,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJPztJ_pUT4jgRt1Mpgoj0-FQ",
+      "name": "IndianOil",
+      "address": "J&K, KP Road, Aishmuqam",
+      "lat": 33.86166099999999,
+      "lng": 75.276962,
+      "open_now": true
+    }
+  ]
+}

@@ -1,0 +1,723 @@
+{
+  "city": "Kulgam",
+  "state": "Jammu and Kashmir",
+  "count": 89,
+  "center": {
+    "lat": 33.6333,
+    "lng": 75.0833
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJ6ylxFgD_HTkRmqJ97xxbU68",
+      "name": "PETROLEUM PUMP",
+      "address": "Bunpora Sarmarg Road, Sarmarg",
+      "lat": 33.5697766,
+      "lng": 74.9745457,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0VF2qfP3HTkRBlFMo-EZ1OA",
+      "name": "M/S .White Hill Filling Station",
+      "address": "Kuri Gam",
+      "lat": 33.5993973,
+      "lng": 75.155536,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkT1PpiEH4jgRaYvx5q-Jv5U",
+      "name": "Sits for Malla Petrol Pump",
+      "address": "J3MW+37V, Unnamed Road, Chuian",
+      "lat": 33.6327354,
+      "lng": 75.0956679,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJgab1fwD3HTkR6x4zzl5bwPA",
+      "name": "DEF STATION AD BLUE PUMP",
+      "address": "Ziyarat Sharif, Chaimullah bypass, Qazigund",
+      "lat": 33.5926972,
+      "lng": 75.1658388,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ-eZdGgD3HTkRSRdO4BFb1us",
+      "name": "Genuine D.E.F",
+      "address": "4, Qazigund",
+      "lat": 33.5904683,
+      "lng": 75.175637,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJiR-gf_n3HTkRJ72ciuzhnJw",
+      "name": "IndianOil",
+      "address": "Ground Floor, Manjmoh, Manzmoh",
+      "lat": 33.59846099999999,
+      "lng": 75.15999599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC417YQP3HTkRzQElQ1ssKCM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Mundah",
+      "lat": 33.558102,
+      "lng": 75.1958235,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq-zJ6xb3HTkRVM3zc4s5VRA",
+      "name": "HP GAS QAZIGUND",
+      "address": "near 100 YARDS DEPARTMENTAL STORE, SHAMPORA, near 100 YARDS DEPARTMENTAL STORE, Qazigund",
+      "lat": 33.59987229999999,
+      "lng": 75.1590828,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJo6egw3H3HTkRzoccE34gE_8",
+      "name": "Shahabad filling station, chambran dooru",
+      "address": "Chambran dooru, 192211",
+      "lat": 33.5672808,
+      "lng": 75.20758769999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJA9l3xuD2HTkRz3OJ5tlDc6M",
+      "name": "Jehlum Filling Station Bharat Petroleum",
+      "address": "Lower Munda, Kulgam NH-1A, Srinagar, Highway, Jammu",
+      "lat": 33.548415,
+      "lng": 75.206206,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ74ZYFgD3HTkRJFktIC54HxQ",
+      "name": "Aroush'Z Filling Station",
+      "address": "H5VW+JWX, Kreeri, Doru Shahabad",
+      "lat": 33.5941135,
+      "lng": 75.1973739,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ6Z7SS1r2HTkRJUMP6tFLpL0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, ADV Road, Doru Shahabad",
+      "lat": 33.5767544,
+      "lng": 75.21549759999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJI_SqBEsH4jgRbHOyT3DizY8",
+      "name": "LPG FILLING STATION QAZIGUND",
+      "address": "J49V+J72, Qazigund",
+      "lat": 33.6190201,
+      "lng": 75.14314519999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ19gGNyH3HTkRWAcMuptTFCc",
+      "name": "Shahabad filling station chambran dooru",
+      "address": "Doru anantnag Kashmir Chambran, Dooru Road, Doru Shahabad",
+      "lat": 33.5758343,
+      "lng": 75.2214575,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJBxyFyEX3HTkRSZqeOTkTdCo",
+      "name": "Alamdar Filling Station",
+      "address": "Dooru Road, Doru Shahabad",
+      "lat": 33.5610625,
+      "lng": 75.22993749999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMaD_yPQJ4jgRNPf--_2SvHA",
+      "name": "Khanday Petroleum",
+      "address": "VERINAG Road, SHANKERPORA",
+      "lat": 33.6258215,
+      "lng": 75.17824809999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ53VTXKrxHTkRCjzn13cNGrA",
+      "name": "Bharat Petroleum Petrol Pump , GOUSIA FILLING STATION",
+      "address": "NOWGAM BANIHAL RAMBAN, JK",
+      "lat": 33.495897,
+      "lng": 75.170839,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdY6dN5Sl4TgRcXKG4mUfGXk",
+      "name": "IndianOil",
+      "address": "Khata No 94, Khasra No 220, Chansar",
+      "lat": 33.64461669999999,
+      "lng": 75.0192014,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJa1nSJQAB4jgRT6NHjcfQpck",
+      "name": "NAIK FUEL CENTRE",
+      "address": "",
+      "lat": 33.6449908,
+      "lng": 75.018031,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx4FHwOAB4jgR9ZewbUIbv2c",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Chawalgam",
+      "lat": 33.64708799999999,
+      "lng": 75.00072399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm2dvVLkB4jgRtARXW-U27fU",
+      "name": "IndianOil",
+      "address": "Ground Floor Chawalgam, Kulgam, Akhal",
+      "lat": 33.646687,
+      "lng": 74.996521,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZyg8rr4B4jgRC3KmCuhu8Qo",
+      "name": "Fast-Track Filling Station",
+      "address": "166 H c gam, Chawalgam",
+      "lat": 33.64722449999999,
+      "lng": 74.9961905,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJr3VibIUB4jgRjty0IsC4L04",
+      "name": "Iqbal fillling station",
+      "address": "Chawalgam",
+      "lat": 33.6481003,
+      "lng": 74.9945211,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJI_59GfgB4jgR7uGVfw5KRiE",
+      "name": "BHAT MANZOOR",
+      "address": "Bhat General Store, 1 To, Kulgam",
+      "lat": 33.6466098,
+      "lng": 74.9913407,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJgwEMRe8B4jgR6zKdHoCGD9M",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kulgam",
+      "lat": 33.6565792,
+      "lng": 75.0254822,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvWvaoG0B4jgRWfEZrxNVWmE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Kulgam",
+      "lat": 33.6590315,
+      "lng": 75.0278422,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ75_zLHgB4jgRfvubkMZr-0g",
+      "name": "K S K BRAZLOO",
+      "address": "J2VW+VPG New hospital qazigund, road, Brazlo",
+      "lat": 33.6446875,
+      "lng": 75.0468125,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJT79DNCYB4jgRICIrMXVsLfs",
+      "name": "MEHRAJ AHMAD KUMBAY",
+      "address": "103, ORIEL KUND Hardu, Tang Marg",
+      "lat": 33.6574781,
+      "lng": 75.0376619,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJKYMtcskB4jgR6j_tfkl2zKY",
+      "name": "TARIQ AHMAD KUMBAY",
+      "address": "ORIEL KUNDspn, 103 Hurda Aboora, Tang Marg",
+      "lat": 33.6574781,
+      "lng": 75.0376619,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJD5rFGSEB4jgRKU8_fgje31Q",
+      "name": "Lone Filling Station",
+      "address": "166, Chawalgam",
+      "lat": 33.6478564,
+      "lng": 74.9779537,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ30dwbwAB4jgRCl2sQGXZKCw",
+      "name": "Baba reshi filling station Hc gam",
+      "address": "JXXG+396, Chawalgam",
+      "lat": 33.6476512,
+      "lng": 74.9758781,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJp1VARaUB4jgRzbZ4S6URhDI",
+      "name": "Pertol Pump",
+      "address": "Devsar",
+      "lat": 33.673547,
+      "lng": 75.0415429,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ4ZQYdMoB4jgRjeEr-HRivbE",
+      "name": "Valley filing station",
+      "address": "M2FV+R48, Srandoo, Jadi Pora Khalsa, Shindoo Kulpora",
+      "lat": 33.6742465,
+      "lng": 75.0427359,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJH2YNoCgH4jgRagFgquda310",
+      "name": "IndianOil",
+      "address": "Ground Floor Devsar, Kulgam, Akhal",
+      "lat": 33.635784,
+      "lng": 75.072777,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2zMjPsj_4TgRdFBkYBBl6Iw",
+      "name": "IndianOil",
+      "address": "Ground Floor Nelwo, Kulgam, Akhal",
+      "lat": 33.662937,
+      "lng": 74.9477271,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM9Uo174D4jgRW_KFraK5noo",
+      "name": "Bharat Petroleum petrol Pump Bogund",
+      "address": "137, Bogund",
+      "lat": 33.6901388,
+      "lng": 75.05519939999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ7WOcf7cD4jgR6AAlWRrMJNg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Shopian Wanpoh Road, Balsoo",
+      "lat": 33.7024389,
+      "lng": 75.0260639,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdQi4hwYH4jgRExSMJNv91sg",
+      "name": "REZWAN MUSHTAQ",
+      "address": "Near Main Road, Mandhole",
+      "lat": 33.6588423,
+      "lng": 75.11494929999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJsx3IbEYG4jgRkol9t5SNJKw",
+      "name": "Hasina Filling Station CHECK RAJ WALI Bharat patrol",
+      "address": "M45G+C9P, National Highway 44",
+      "lat": 33.6585883,
+      "lng": 75.12594279999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdagiRwAH4jgRIAYS7whew7U",
+      "name": "Bhat Fuel Station Akhran",
+      "address": "Akhran",
+      "lat": 33.6756553,
+      "lng": 75.10677489999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhapQSQAH4jgR5Wo9jbshbyw",
+      "name": "Naik Fuel Centre",
+      "address": "Bhan",
+      "lat": 33.68152190000001,
+      "lng": 75.07894569999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcSew5esH4jgRtmRuen6V0mE",
+      "name": "Bharat Petroleum, Petrol Pump -Hasina Filling Station",
+      "address": "QAZIGUND DIST.ANANTNAG",
+      "lat": 33.6423482,
+      "lng": 75.1450466,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7z9y8kcH4jgRMwqr7-1ACFs",
+      "name": "IndianOil",
+      "address": "Ground Floor Nipora, NH 1A Manjmoh",
+      "lat": 33.687348,
+      "lng": 75.11616099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmetnH9YF4jgRKHRzSI-w-h0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Jammu Srinagar Road, NH 1A Mir Bazaar Road, Nepora",
+      "lat": 33.6884917,
+      "lng": 75.114778,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAwqhehAF4jgRvNUjM3hVdCo",
+      "name": "Hyder Filling Station",
+      "address": "near police post Mir bazar, 20 kulgam road, Anantnag",
+      "lat": 33.69113209999999,
+      "lng": 75.1125158,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ886MtW8J4jgR9od8p11G9DQ",
+      "name": "Mir Oil Station",
+      "address": "Malikpora Hakura",
+      "lat": 33.653262,
+      "lng": 75.1945956,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJTY5kGWcJ4jgRNbX2B0yu8VU",
+      "name": "SHEIKH-UL ALAM FILLING STATION HAKURA",
+      "address": "SHEIKH-UL ALAM FILLING STATION, 01, Hakura Badas Gam",
+      "lat": 33.6491952,
+      "lng": 75.198196,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ9xS4OlEJ4jgR_Ujx78ixUmw",
+      "name": "Bharat Petroleum Petrol Pump , KHANDAY FILLING STATION",
+      "address": "PERTH, Dialgam",
+      "lat": 33.6844346,
+      "lng": 75.1678009,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvdDO2OMJ4jgRNFcRYEUdvS8",
+      "name": "Mount View Filling Station ⛽",
+      "address": "244, National Highway, Watar Hall",
+      "lat": 33.61893750000001,
+      "lng": 75.2304375,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJFWWPNj8J4jgR6T1LfZKusN4",
+      "name": "Bharat Eco Fuel Franchise",
+      "address": "opp. to Smiling Buds Play Way School, Main Market Hiller, Anantnag",
+      "lat": 33.62437,
+      "lng": 75.2326598,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5fOtqlYP4jgR_hQEzG-pDqs",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bondalagam, Anantnag",
+      "lat": 33.6997927,
+      "lng": 75.160294,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdQb-RQAJ4jgRsQOMPTMlmIg",
+      "name": "Breng Valley Filling Station",
+      "address": "J6JM+J9G, Hakura Badas Gam",
+      "lat": 33.6315616,
+      "lng": 75.23344589999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYw4e1REJ4jgRqsQt7ytFt7M",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Hiller, Road, Kokernag",
+      "lat": 33.62412539999999,
+      "lng": 75.2329159,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJN2J8ZgAP4jgRPcFI2fCAT50",
+      "name": "Abu Hamzah Properties",
+      "address": "P524+84P, Bon Dialgam",
+      "lat": 33.7008408,
+      "lng": 75.1553319,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJOTxllFcP4jgRN_msVTdGMFs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 2, Ground Floor ADV Road, Dialgam, near KM Stone, Bon Dialgam",
+      "lat": 33.7036506,
+      "lng": 75.1562189,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJG_E6nQYD4jgR1JmahxRdQsY",
+      "name": "Petrol pump",
+      "address": "Yaripora",
+      "lat": 33.71156250000001,
+      "lng": 75.0179375,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKZmxuJ0D4jgR8D0g808XuXE",
+      "name": "G2 FILLING STATION",
+      "address": "P2G7+FH5, opposite New Bus Stand, Balsoo Yaipora Road, Yaripora",
+      "lat": 33.7262802,
+      "lng": 75.0140552,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJG45DQnQD4jgRrSXDdg12Q0I",
+      "name": "SAHAIB FILLING STATION",
+      "address": "Kujar Road, Frisal",
+      "lat": 33.74807990000001,
+      "lng": 75.0445792,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY72Wll0E4jgRmrGv_N-lIRk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Wanpoh Kulgam Road, Khudwani",
+      "lat": 33.7216234,
+      "lng": 75.08568,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0-3GsLv54TgR9awx2jsj_rg",
+      "name": "IndianOil",
+      "address": "Ground Floor, Herman",
+      "lat": 33.7076899,
+      "lng": 74.93401310000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJh-w87Q0F4jgRJURqt0fpxns",
+      "name": "Bharat Petroleum - بھارت پٹرولیم",
+      "address": "Khanabal, Anantnag, NH-1A, Srinagar Jammu Highway, Anantnag, Anantnag",
+      "lat": 33.744019,
+      "lng": 75.126734,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ461i5HcF4jgRNNWHGPbe1kY",
+      "name": "Zum zum filling station پیٹرول پمپ",
+      "address": "Anantnag",
+      "lat": 33.73614749999999,
+      "lng": 75.14194839999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlw6XXHgF4jgRUqqHLPH4_Oc",
+      "name": "IndianOil",
+      "address": "near Bus Stand, KP Road, Anantnag",
+      "lat": 33.7382974,
+      "lng": 75.1442969,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5S6RX0sE4jgRkpACXwzgCos",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 1A, near Jammu, Srinagar - Kanyakumari Highway, Laram Jangi Pora",
+      "lat": 33.7149609,
+      "lng": 75.10649769999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJT4yaTgAF4jgRpy25AvqsNMA",
+      "name": "IndianOil",
+      "address": "Ground Floor, Wanpoh",
+      "lat": 33.72748319999999,
+      "lng": 75.10360709999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdxSHXScF4jgR1hNR9b0QGv4",
+      "name": "HP petrol pump",
+      "address": "P4G3+WRW, National Highway 444, Wanpoh",
+      "lat": 33.72735179999999,
+      "lng": 75.10458290000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJbVVcQAF4jgR53fLJHZGx8A",
+      "name": "COCO KASHMIR (COMPANY OWNED COMPANY OPERATED RETAIL OUTLET )",
+      "address": "P3QW+2JH, Turka Thachloo",
+      "lat": 33.7375647,
+      "lng": 75.09659529999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNQ_Q1nEF4jgR-xHpSfR5QqU",
+      "name": "IndianOil",
+      "address": "Ground Floor, Monghal, Acchabal,Brinal Lamar, Achabal",
+      "lat": 33.7057168,
+      "lng": 75.129965,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjSPgGMQF4jgR2g9stf-4WFc",
+      "name": "IndianOil",
+      "address": "Ground Floor Khannabal Road, Janglat Mandi, Anantnag",
+      "lat": 33.7350559,
+      "lng": 75.1179988,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHyPQPhcF4jgRn7wuDpbCBaI",
+      "name": "IndianOil",
+      "address": "Ground, Batangoo Playground, Akingam",
+      "lat": 33.75060199999999,
+      "lng": 75.121337,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhZREkhcF4jgRK5Xjf6X7JWw",
+      "name": "Hafiz Filling Station",
+      "address": "NH 1, Kanjigund",
+      "lat": 33.7532758,
+      "lng": 75.1198653,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjccOs5sF4jgRG25eHYadE4I",
+      "name": "IndianOil",
+      "address": "Ground Floor, Khanabal Bridge, Anantnag",
+      "lat": 33.7354451,
+      "lng": 75.1430969,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo_GubXkF4jgR-K8fRWf-FdQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, Mehndi Kadal, Anantnag",
+      "lat": 33.7352075,
+      "lng": 75.1434821,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQUU29rcF4jgR-JdpkUH_CEo",
+      "name": "United Filling Station",
+      "address": "United Filling Station, Anantnag",
+      "lat": 33.737908,
+      "lng": 75.14343029999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJB9O5x7AF4jgREc3L1XdMpQ0",
+      "name": "Irfan Ahmad Khuroo",
+      "address": "60 Near General Bus Stand, KP Road, Anantnag",
+      "lat": 33.7378642,
+      "lng": 75.1454232,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJJXWPrmAP4jgRvLJ5dIHCYao",
+      "name": "Aijaz Ahmad Bhat",
+      "address": "near Petrol Pump, 20 Achabal Road, Anantnag",
+      "lat": 33.7250164,
+      "lng": 75.1574681,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJJfmR3WUP4jgRlRdEWMpwlgE",
+      "name": "IndianOil",
+      "address": "Anantnag",
+      "lat": 33.7226875,
+      "lng": 75.1648125,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6VrXfXod4jgRbvqiTMYsn50",
+      "name": "IndianOil",
+      "address": "Ground Floor, Shirpora",
+      "lat": 33.7704213,
+      "lng": 75.0557034,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtbb4HGoP4jgRTP21x4TYV-M",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Kokernag Road, Achabal",
+      "lat": 33.7183648,
+      "lng": 75.1721754,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJna1iw88P4jgRelASv5-RqK8",
+      "name": "Bharat petroleum pump",
+      "address": "P5C8+9WG, NH 1B, Anantnag",
+      "lat": 33.7209478,
+      "lng": 75.16733909999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJqaHOyKwP4jgRpQ3ReZZRjMI",
+      "name": "Achabal Filling Station",
+      "address": "Takia Bal",
+      "lat": 33.7161886,
+      "lng": 75.1745467,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVbj4OmcP4jgRymp-UZNsPU4",
+      "name": "Aftab Filling Station",
+      "address": "20, near Trahab, Achabal",
+      "lat": 33.7442315,
+      "lng": 75.1844165,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJVfLSXDEJ4jgR2rKRwpsElLo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Road Jogigund, Achabal",
+      "lat": 33.688756,
+      "lng": 75.214574,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_8DbHQAJ4jgRLB6i2LANtv0",
+      "name": "Aftab filling station petrol pump",
+      "address": "M6XC+WGP, Kangan Hal",
+      "lat": 33.6998331,
+      "lng": 75.22133579999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ5RFmozAP4jgRJT2peNVje8A",
+      "name": "Ashiq Hussain Malik",
+      "address": "Petrol Pump, 121 Road, Mattan",
+      "lat": 33.7534556,
+      "lng": 75.19962129999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ9cSrnPIP4jgRjFIxE-NAzHY",
+      "name": "IndianOil",
+      "address": "Ground Floor Khanabal, Road, Pahalgam",
+      "lat": 33.753528,
+      "lng": 75.199826,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5zLRA5UP4jgRl-4z8u8I5vk",
+      "name": "Mattan Filling Station",
+      "address": "Petrol Pump, near Mattan, 36 KP Road, Anantnag",
+      "lat": 33.7535375,
+      "lng": 75.20056799999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJJ1jt430P4jgRoJUh2vAe9ew",
+      "name": "Umeir Yaqoob Dar",
+      "address": "near Mattan Petrol Pump, 20 Mattan Road, Anantnag",
+      "lat": 33.7535375,
+      "lng": 75.20056799999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJoZNU5M0P4jgRcR7x-ZRjyjQ",
+      "name": "Mattan Filling Station",
+      "address": "Islamabad Mattan Road, Mattan",
+      "lat": 33.7543058,
+      "lng": 75.1995194,
+      "open_now": null
+    }
+  ]
+}

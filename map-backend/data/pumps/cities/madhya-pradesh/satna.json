@@ -1,0 +1,555 @@
+{
+  "city": "Satna",
+  "state": "Madhya Pradesh",
+  "count": 68,
+  "center": {
+    "lat": 24.5833,
+    "lng": 80.8333
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJB9sDlfKGgzkR3ik5gTVvzE8",
+      "name": "IndianOil",
+      "address": "Unnamed Road, Pondi",
+      "lat": 24.4860916,
+      "lng": 80.7467313,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQZ7CQQCHgzkRV3IlkLpnQns",
+      "name": "चंदेल पेट्रोल पंप पिथौरा बाद",
+      "address": "FQF5+G5J, Pithaurabad",
+      "lat": 24.4738318,
+      "lng": 80.7578913,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ-cBCok15hDkRNyr0n6nOHGU",
+      "name": "SUJAL RETAIL SERVICE",
+      "address": "BUS STAND, Satna",
+      "lat": 24.5038805,
+      "lng": 80.824561,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfTJycgB5hDkRozjzBPjKElo",
+      "name": "Bharat Petroleum BPCL",
+      "address": "GR8G+4WX, Bandhi Mohar",
+      "lat": 24.515365,
+      "lng": 80.82735679999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJs1NVcIh_hDkRyjeTOF23UIM",
+      "name": "Bharat PetroleumCNG & Petrol Pump , MARUTI FUELS",
+      "address": "M.P, Dhawari, Satna",
+      "lat": 24.556491,
+      "lng": 80.8145821,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmTxqOACFgzkRNSYfmn3-vQE",
+      "name": "Pitambara filling station",
+      "address": "GM9R+5F, Shyamnagar",
+      "lat": 24.5178893,
+      "lng": 80.69124169999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJj2ju_naEgzkRxcSLmNJigqA",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 24.518029,
+      "lng": 80.6911693,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ3yC1W6OHgzkRfJ5ovbZSshg",
+      "name": "CHANDEL FUELING - BPCL PETROL PUMP",
+      "address": "Unchehara, Nagod Road, Pithaurabad",
+      "lat": 24.4485354,
+      "lng": 80.7496055,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7_SbhLl4hDkRk5oMI0xh77U",
+      "name": "MANGAL FUELS CNGPUMP PETROL AND DIESEL PUMP",
+      "address": "4, Dhawari Gali Number 4, Dhawari, Satna",
+      "lat": 24.5553304,
+      "lng": 80.8207351,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJu34WG-p_hDkR3KxFKnHNVkc",
+      "name": "Nison Fuels",
+      "address": "Maihar Bypass Road, Delaura, Tikuria Tola, Satna",
+      "lat": 24.5337545,
+      "lng": 80.8349485,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL8YxTDR_hDkRcxaKL8AeAnU",
+      "name": "स्टार मेघराज ढावा",
+      "address": "India",
+      "lat": 24.5339654,
+      "lng": 80.83530909999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJIYbgXGKAgzkR6jo8F_TkqfQ",
+      "name": "Sukheja Brothers Petrol Pump",
+      "address": "HQGW+H72, Panna Khajuraho Road, Satna",
+      "lat": 24.576397,
+      "lng": 80.79564599999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJtQNwri5_hDkRscR8q0VhJQw",
+      "name": "IndianOil",
+      "address": "UCCHWA TOLA, Satna",
+      "lat": 24.5494786,
+      "lng": 80.829667,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmRBNjxKBgzkRrIXWgISQeVw",
+      "name": "Bajrang Bio Diesel Selling Center Sohawal Satna",
+      "address": "HQM9+9XF, Satdhar",
+      "lat": 24.5834491,
+      "lng": 80.7699359,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJdQBi9GKAgzkRV-ru8PsmCXg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Panna Khajuraho Road, Amaudha Kalan, Satna",
+      "lat": 24.5765501,
+      "lng": 80.7973901,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJE0mSnjN_hDkRkr9fBDoytHQ",
+      "name": "CNG & Bharat Petroleum Diesel Pump",
+      "address": "GRMQ+9HJ, Tighara",
+      "lat": 24.53347179999999,
+      "lng": 80.838888,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmx5jbA1_hDkRpbEfktR45L8",
+      "name": "GOPINATH LALBIHARI PETROL PUMP",
+      "address": "Ganpat Marg, Nazirabad, Satna",
+      "lat": 24.5665811,
+      "lng": 80.8340228,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ0wFA3wV_hDkRlyXICA5BBTQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Semariya Chowk, Satna",
+      "lat": 24.5715601,
+      "lng": 80.8450701,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgyBk7gh_hDkRanseEeb9InY",
+      "name": "United Service Station Petrol pump",
+      "address": "hotel rewa, united service station Rewa road, near park, hotel road, Satna",
+      "lat": 24.5736617,
+      "lng": 80.84142349999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSbgJHZJ-hDkR0LDmhpeqv5Y",
+      "name": "Indian Oil Petrol , Lucky Service Station",
+      "address": "Ground Floor, NH 75, Rewa Road, RHS, Satna",
+      "lat": 24.5671546,
+      "lng": 80.8820883,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJo0LRzrZ_hDkRdzb8Vh4Pnz4",
+      "name": "IndianOil",
+      "address": "Ground Floor, SH 11, Maihar Bypass Road, Uchwa Tola, Badkhar, Satna",
+      "lat": 24.530964,
+      "lng": 80.84007299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ93RaLNp5hDkRxsU9MdQrTj8",
+      "name": "Bharat Petroleum Petrol Pump , MANGAL FUELS",
+      "address": "M.P, SATNA Maihar Bypass Road, Tighara",
+      "lat": 24.5408012,
+      "lng": 80.8374633,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbTEkjzp_hDkRZ0ey6McJLPk",
+      "name": "IndianOil",
+      "address": "Plot No 536/2/2/4, Maihar Bypass Road, Delaura, Ward No 37, Satna",
+      "lat": 24.543168,
+      "lng": 80.8405088,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtbn90Wx_hDkRii4ePm-9z00",
+      "name": "आर.डी. प्लास्टिक",
+      "address": "India",
+      "lat": 24.5615046,
+      "lng": 80.83186909999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJg2EDWnd_hDkRJA_3av_91IU",
+      "name": "HP Biodiesel",
+      "address": "HRCC+FJM, Rajendra Nagar Gali Number 10, Rajendra Nagar, Satna",
+      "lat": 24.5712035,
+      "lng": 80.8215366,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxxD3zjh_hDkRztkH0eUStJ0",
+      "name": "IndianOil",
+      "address": "Khasra No 138, 6/1, Raghuraj Nagar, Nadi Teer, Itma",
+      "lat": 24.572484,
+      "lng": 80.83022299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4e6-EAR_hDkRLXTD7d_B_w0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Semaria Chowk, Satna",
+      "lat": 24.5712801,
+      "lng": 80.8479401,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFQwbDwR_hDkR4_JKrrXVHgQ",
+      "name": "Hariyana Petrol Pump",
+      "address": "Panna Khajuraho Road, ChankyaPuri Colony, Satna",
+      "lat": 24.5711928,
+      "lng": 80.8483742,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJVVgAOmN_hDkROzCPlxeT5SU",
+      "name": "Bharat petroleum",
+      "address": "HV7C+45C, Maihar Bypass Road, RamTekri, Satna",
+      "lat": 24.56282,
+      "lng": 80.87037749999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJbRyuhP1-hDkRN-Y0smYDHKM",
+      "name": "IndianOil",
+      "address": "near RHS, Ground Floor NH 75, Badkhar, near RHS, Rewa Road, Satna",
+      "lat": 24.57022479999999,
+      "lng": 80.8548165,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7cMtcHd_hDkRWso09Cxr3DI",
+      "name": "IndianOil",
+      "address": "Ground Floor, Collectorate Road, Satna",
+      "lat": 24.5743984,
+      "lng": 80.8229054,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJG6mzhQJ_hDkRswxBnKyppd0",
+      "name": "Gurunanak Fuels",
+      "address": "Civil Lines, Satna",
+      "lat": 24.5755803,
+      "lng": 80.82541049999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJtb1oNCp_hDkRYEO5ViKF0uQ",
+      "name": "Bharat Petroleum,CNG & Petrol Pump -Kalyan Service Station",
+      "address": "Panna Naka, Umri, Satna",
+      "lat": 24.5760338,
+      "lng": 80.81843789999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl1rJnXh_hDkR8fZlJtFTtcc",
+      "name": "IndianOil",
+      "address": "Ground Floor Panna Naka, NH 75, Panna Khajuraho Road, Badkhar, Satna",
+      "lat": 24.575938,
+      "lng": 80.81741199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtR41EIt_hDkRlt7QDG2qGSY",
+      "name": "IndianOil",
+      "address": "Kh No 1257/2/Kha/1, Belhata, Kripalpur",
+      "lat": 24.5659704,
+      "lng": 80.8739616,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwYnhIJh_hDkRuPUZ9cveA84",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Station Road, Mukhtiyarganj, Satna",
+      "lat": 24.578705,
+      "lng": 80.830353,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvReGboB_hDkR3gF4hp1HeLM",
+      "name": "IndianOil",
+      "address": "Khasra No 622/2/1, Dhankher Kalan Raghurajnagar, Itama Nadi Teer",
+      "lat": 24.5760512,
+      "lng": 80.8126315,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJp_rEJQ5_hDkRjrHMLWKC2Vk",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Superindendent Of Police, Satna",
+      "lat": 24.5791914,
+      "lng": 80.8226002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwS1oq_F_hDkREKPT8eaJCVA",
+      "name": "Bharat Petroleum, CNG & Petrol Pump -Satna Fuels",
+      "address": "Satna",
+      "lat": 24.5694996,
+      "lng": 80.8734861,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsTP-Gat_hDkRkoRlBQRywdM",
+      "name": "YADAV FUELS —Bharat Petroleum, Petrol Pump -",
+      "address": "HRGX+J7X, BIRLA ROAD, SATNA, in front of yadav gass agency, Yadav fuels J.R, Birla Road, Bandhavgarh Colony, Satna",
+      "lat": 24.5818144,
+      "lng": 80.8527038,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZa_8EY19hDkRADHAGdAHSik",
+      "name": "IndianOil",
+      "address": "Barbasa",
+      "lat": 24.5579662,
+      "lng": 80.91843279999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJI8XH1v9_hDkRFgMU6luV9jU",
+      "name": "Shri Ganpati Fuels - Bharat Petroleum",
+      "address": "Rewa Road, Kripalpur",
+      "lat": 24.5646631,
+      "lng": 80.895046,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ23aJ7iR9hDkRxzWZdWxe6gU",
+      "name": "IndianOil",
+      "address": "No 970/4/Kh Kripalpur, Road, Ramasthan",
+      "lat": 24.5712509,
+      "lng": 80.9102073,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTdb2vxt5hDkRA-umZg6ATzA",
+      "name": "AYANSH PETROLEUM",
+      "address": "FV2P+WV, Sahijana Kothar",
+      "lat": 24.4523232,
+      "lng": 80.8871432,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWcDeHiR9hDkRRp-97MrC7IE",
+      "name": "SHREE HARSH VALLABH FUELS",
+      "address": "SAJJANPUR BYPASS SATNA, TO, REWA",
+      "lat": 24.5537705,
+      "lng": 80.95876319999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy5qUtEN7hDkRCOGjFz282hw",
+      "name": "IndianOil",
+      "address": "No 3/1/1, Bakia, Lilaha",
+      "lat": 24.4879774,
+      "lng": 80.9710913,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJG74ZNYZ9hDkR0xMtVtvSfoo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Raghurajnagar, Matehna, Kh No 59/1/kA/2, Koihai",
+      "lat": 24.581681,
+      "lng": 80.915861,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJE7FlYKt9hDkRVlATUnjzf9c",
+      "name": "Dheerendra mobile shop",
+      "address": "Dheerendra, Mand satna",
+      "lat": 24.57907879999999,
+      "lng": 80.93503319999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeylAZLiBgzkRe_gZyy1RYFo",
+      "name": "Bada Itma Indane",
+      "address": "Bada Itma, Bada, Itma",
+      "lat": 24.5871669,
+      "lng": 80.7634626,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJFfzg2JmBgzkRHYxD81kdYoE",
+      "name": "IndianOil",
+      "address": "Khasra No 166/3, Ph, No 23, Harduwa Majhol, Nagod",
+      "lat": 24.583159,
+      "lng": 80.740072,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVXaQwC9_hDkRUj1i9HcifrE",
+      "name": "IndianOil",
+      "address": "Ground Floor Satna Chitrakoot Road, SH 11, Bagaha",
+      "lat": 24.604126,
+      "lng": 80.815186,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjQziXuR_hDkRHVTpsRiiaM0",
+      "name": "Ashish kushwaha",
+      "address": "Sharda Colony, Maruti Nagar, Satna",
+      "lat": 24.5894501,
+      "lng": 80.8332516,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ8-FOOgB_hDkRZjcaj-GcGK4",
+      "name": "Nazeerabad petrol pump",
+      "address": "JR2J+6V5, Satna",
+      "lat": 24.6005075,
+      "lng": 80.8322428,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJA-oAfAB_hDkRIEY2hrumIMw",
+      "name": "Satna MP india",
+      "address": "JR2J+6V5, Satna",
+      "lat": 24.6005075,
+      "lng": 80.8322428,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJq6qqqup_hDkRpJPc7gKqLdE",
+      "name": "Kalyan CNG & Petrol Pump, Panna Road,Satna",
+      "address": "in front of Abi Bakery Shop, Near Kalyan Petrol Pump Umri, in front of Abi Bakery Shop, Gali Number 2, Satna",
+      "lat": 24.6005075,
+      "lng": 80.8322428,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkdRtojl_gzkRSSNu-SiXJAQ",
+      "name": "Paradise Fuels",
+      "address": "Hati Road, Satna",
+      "lat": 24.634205,
+      "lng": 80.8087242,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ85LIx0V-hDkR_Vrz1bA-_RY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Satna - Semariya Road, Badkhar Nagar, Raghurajnagar, Trichi Colony, Satna",
+      "lat": 24.595441,
+      "lng": 80.86745599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNb-2yDt_hDkR6EFVzmTW2ek",
+      "name": "Bharat Petroleum Petrol Pump , PANDEY FUELS",
+      "address": "near BIRLA CEMENT FACTORYSATNA, Badkhar Nagar, Anand Colony, Satna",
+      "lat": 24.5973711,
+      "lng": 80.8745544,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWYatsRd_hDkR1fLAiCojLo4",
+      "name": "Ramroop Jaiswal",
+      "address": "Manikwar 486123 Manikwar Rewa Mp 486123, Satna",
+      "lat": 24.58214299999999,
+      "lng": 80.8779211,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJVX6ZA8Z_hDkRbpBmY5Ll1bk",
+      "name": "IndianOil",
+      "address": "Ground Floor Badkher, Raghurajnagar,Itma, Nadi Teer, Satna",
+      "lat": 24.599455,
+      "lng": 80.881783,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxbaeYgCBhDkRz9VrmQipVLU",
+      "name": "Indian Oil Petrol Pump",
+      "address": "JVV3+XP, Tikuri Kothar",
+      "lat": 24.64495789999999,
+      "lng": 80.8543732,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdct4EACBhDkRb_QmRncDMD0",
+      "name": "Paradise Fuels",
+      "address": "JRW8+MQ2, Hati Road, Rampur Chaurasi",
+      "lat": 24.6466417,
+      "lng": 80.8168888,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ-dsj7xB9hDkRyyF0rogUVMw",
+      "name": "Indian Oil CFA Satna",
+      "address": "HWRF+P7J, Road, Ramasthan",
+      "lat": 24.5918499,
+      "lng": 80.9231428,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJdWvfdZV9hDkRzkwlqxK8YPc",
+      "name": "IndianOil",
+      "address": "Khata No 505/1 Baraj, Nadi Teer, Itma",
+      "lat": 24.62388,
+      "lng": 80.908126,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdZPBWGWHhDkR5C1npuxQHxo",
+      "name": "bp",
+      "address": "JWRJ+M9J, Satna - Semariya Road, Bari Khurd",
+      "lat": 24.6417023,
+      "lng": 80.9308768,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJSWZVrseHhDkR8PTf8hTuAvs",
+      "name": "IndianOil",
+      "address": "Ground Floor, Satna - Semariya Road, Raghuraj Nagar, Babupur",
+      "lat": 24.6439909,
+      "lng": 80.9321952,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJb6nMtHGHhDkR81ISVO1SNGw",
+      "name": "Chandel Service Centre",
+      "address": "Bari Khurd",
+      "lat": 24.6449133,
+      "lng": 80.9334522,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvQEWZqR5gzkR5WtdaWSp6Y8",
+      "name": "Tanu Filling Station",
+      "address": "Karsara Road, Gadara Pawai",
+      "lat": 24.658537,
+      "lng": 80.688074,
+      "open_now": true
+    }
+  ]
+}

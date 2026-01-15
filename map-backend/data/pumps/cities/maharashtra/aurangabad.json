@@ -1,0 +1,1451 @@
+{
+  "city": "Aurangabad",
+  "state": "Maharashtra",
+  "count": 180,
+  "center": {
+    "lat": 19.8833,
+    "lng": 75.3333
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJnXcOFvab2zsRzPooRvCM_3M",
+      "name": "IndianOil - SWAGAT",
+      "address": "Ground Floor, near garwale polyester, Waluj, Naigaon",
+      "lat": 19.8057466,
+      "lng": 75.2319722,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJO8I59vqb2zsRebFxMCCRSs8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Pune Road, Waluj, Chhatrapati Sambhajinagar",
+      "lat": 19.816351,
+      "lng": 75.240191,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsVn5GGCZ2zsRA5aBd77Kxnw",
+      "name": "IndianOil",
+      "address": "behind Court, Amladi Cottage, Samadhan Colony Asegaon, behind Court, Chhatrapati Sambhajinagar",
+      "lat": 19.830633,
+      "lng": 75.248431,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ74Hm32SZ2zsRzqkeMYI9BXU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "beside Bhuvan Hundai, Gut No 123 Part, Nagar Pune Road, beside Bhuvan Hundai, Pandharpur Main Road, Waluj, Tisgaon",
+      "lat": 19.8402127,
+      "lng": 75.2565778,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB8J-lHOZ2zsR9KP3523Gx2k",
+      "name": "Arihant CNG Petroleum",
+      "address": "SH-60, Ahemadnagar Newasa Highway, Walunj, Chhatrapati Sambhajinagar",
+      "lat": 19.847205,
+      "lng": 75.26706399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ951YH_SY2zsRIQC64xP7Tz4",
+      "name": "IndianOil",
+      "address": "Ground Floor, Beed Bypass Road, Chhatrapati Sambhajinagar",
+      "lat": 19.853647,
+      "lng": 75.31240799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJU66CWiOa2zsRRgN2xU_R95o",
+      "name": "Bharat Petroleum, Petrol Pump -Shantai Petroleum",
+      "address": "SAHAJAPUR, Chhatrapati Sambhajinagar",
+      "lat": 19.8699037,
+      "lng": 75.236902,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx_tyxAWb2zsR05SjpVwvQI4",
+      "name": "Samruddhi Petroleum",
+      "address": "Bajaj Company, Main Gate, Pandharpur",
+      "lat": 19.8231241,
+      "lng": 75.2446542,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnyw6WJa12TsRaDDC8I2UxCo",
+      "name": "IndianOil",
+      "address": "Gut No 7, 137, CIDCO, Mahanagar, Wadgaon, Waluj, Pandharpur",
+      "lat": 19.8211866,
+      "lng": 75.24324109999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqRDWkrOZ2zsRUA-HBEdKIKA",
+      "name": "Prashant Petrol",
+      "address": "Waluj, Pandharpur",
+      "lat": 19.8304033,
+      "lng": 75.2482491,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJV2o-nQWZ2zsRYZLI0lAgD5I",
+      "name": "Anand Petrol Pump",
+      "address": "Nakshtra Wadi MBR, Chhatrapati Sambhajinagar",
+      "lat": 19.8152397,
+      "lng": 75.2887045,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJt2Ho1Kub2zsRtXPzzqzr_bo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gut No 18 Part, Nagar Road, Waluj, Naigaon",
+      "lat": 19.8139206,
+      "lng": 75.2375599,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ____D2GZ2zsREnFS-Gd47Mg",
+      "name": "IndianOil",
+      "address": "near Pandharpur, G No 128 Tisgaon, near Pandharpur, Pune Road, Chhatrapati Sambhajinagar",
+      "lat": 19.8367112,
+      "lng": 75.25350089999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ08cYVGyf2zsRCVB7n4BZ3hg",
+      "name": "Parason Petroleum CNG",
+      "address": "opposite Maruti Fertilizer Company, Gut No 58, Georai Tanda, opposite Maruti Fertilizer Company, Paithan Road, Chhatrapati Sambhajinagar",
+      "lat": 19.7971434,
+      "lng": 75.2900287,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoyzvdQCb2zsRBJixgZ4A8Zs",
+      "name": "Petrol pump",
+      "address": "R6RW+6MR, More Chowk, Waluj, Wadgaon Kolhati",
+      "lat": 19.8406027,
+      "lng": 75.2466299,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJhZssXR-b2zsR_Wimy_Ji83E",
+      "name": "Bajaj Auto Petrol Pump",
+      "address": "R66H+39P, Bajaj Auto Road, Waluj, Chhatrapati Sambhajinagar",
+      "lat": 19.8102193,
+      "lng": 75.228444,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJeXDqcR-Z2zsRTRNm4mXjMLQ",
+      "name": "PAVAL GAS SERVICE",
+      "address": "India",
+      "lat": 19.8338919,
+      "lng": 75.29100079999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJRYV1QQCZ2zsRQUg4CLHIziw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Kanchanwadi, Chhatrapati Sambhajinagar",
+      "lat": 19.8364368,
+      "lng": 75.2918148,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJN2HVqx-Z2zsRLapdixf5waE",
+      "name": "Jai Balaji Petrol & CNG",
+      "address": "A-8, Paithan Road, Kanchanwadi, Chhatrapati Sambhajinagar",
+      "lat": 19.836291,
+      "lng": 75.2919754,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJt9FMUR6Z2zsR0lM8OZUA7Dc",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 19.8363033,
+      "lng": 75.2920195,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJk4FUxaqZ2zsRvVlkEkGim_0",
+      "name": "Savera Motor",
+      "address": "opp. chirdiya petrol pump, opp. A.S.Club.Hotel, Ahmednagar - Aurangabad Road, Chhatrapati Sambhajinagar",
+      "lat": 19.8486275,
+      "lng": 75.2695849,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ8yN02UqZ2zsRMwbD7v195ho",
+      "name": "Bharat Petroleum, Petrol Pump -P.M.Chordia",
+      "address": "PUNE R, Tisgaon",
+      "lat": 19.849389,
+      "lng": 75.268682,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLZ54kaKZ2zsRliBBgY_cCCQ",
+      "name": "AUTO LPG",
+      "address": "R7XC+W75, CIDCO Waluj Mahanagar 2, Waluj, Chhatrapati Sambhajinagar",
+      "lat": 19.84976229999999,
+      "lng": 75.2707397,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJATdyvX-d2zsRMTdOIsRn7sA",
+      "name": "Sabne Petroleum",
+      "address": "Gangapur Vaijapur Roads, Gangapur, Chhatrapati Sambhajinagar",
+      "lat": 19.7967825,
+      "lng": 75.22595960000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJb-N2KJKb2zsRCHNnLFi8PmI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gut No, 92 Gangapur, Kamlapur Road, Jogeshwari",
+      "lat": 19.823162,
+      "lng": 75.221651,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhUy5UO-b2zsRL157Hb6p6is",
+      "name": "Nayara Energy",
+      "address": "Jay Bhawani Chowk, Jay Bhavani Chowk, Bajaj Nagar, Ranjangaon Shenpunji, Waluj, Chhatrapati Sambhajinagar",
+      "lat": 19.8432463,
+      "lng": 75.233734,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ54H_Odib2zsRlmC037F9u2U",
+      "name": "Dhanlaxmi Nayara Petroleum",
+      "address": "Jai Bhavani Chowk, X385/A, Bajaj Nagar, MIDC, Waluj, Chhatrapati Sambhajinagar",
+      "lat": 19.8430618,
+      "lng": 75.2333317,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs9aeAtWb2zsRkuBeLoKBTHM",
+      "name": "Nayara petrol pump",
+      "address": "V64W+7W2, Waluj, Chhatrapati Sambhajinagar",
+      "lat": 19.8556313,
+      "lng": 75.24725099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmQGJWwCd2zsRL1gsMePWTYU",
+      "name": "BHUMI PETROLEUM INDIAN OIL",
+      "address": "Q6MF+F9F, Waluj Bk.",
+      "lat": 19.7843563,
+      "lng": 75.22303029999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJCejlDmeX2zsR_HOyZndxBFQ",
+      "name": "IndianOil",
+      "address": "gut No, 72 Ranipet, Chhatrapati Sambhajinagar",
+      "lat": 19.8580509,
+      "lng": 75.24186569999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcW68agCd2zsRaRToKuJKyic",
+      "name": "JAT petroleum waluj जाट पेट्रोलियम वाळूज",
+      "address": "Q6Q9+W4R, Waluj Bk.",
+      "lat": 19.7895535,
+      "lng": 75.2171462,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJawgQsRid2zsRGhRwEVZ2aQs",
+      "name": "IndianOil",
+      "address": "Gut No 261, part Gangapur, Waluj Bk.",
+      "lat": 19.7893455,
+      "lng": 75.2171888,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqWU6iLab2zsReaL1BIVQQgY",
+      "name": "Shan Petroleum",
+      "address": "India",
+      "lat": 19.8436265,
+      "lng": 75.2215927,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJDbFBcEid2zsR_rAlKVbcJ04",
+      "name": "Gajanan Enterprises Diesel Pump Station",
+      "address": "Aurangabad - Ahmednagar - Pune Highway, Waluj Bk.",
+      "lat": 19.787032,
+      "lng": 75.21258,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8wYuW5yZ2zsRIxqALDpPHaY",
+      "name": "Deolai road",
+      "address": "V825+434, Satara Parisar, Chhatrapati Sambhajinagar",
+      "lat": 19.8502643,
+      "lng": 75.3076904,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJhZf0o3eb2zsRsqQkxnXRBCo",
+      "name": "Sheikh",
+      "address": "Rajan Rao Simpu Ji, Chhatrapati Sambhajinagar",
+      "lat": 19.8435679,
+      "lng": 75.211884,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJUSj0R6Wb2zsRfowKMdhPQ9g",
+      "name": "Rahul Dhakne",
+      "address": "Jay Bhagwan Datnagar, Fhata, Chhatrapati Sambhajinagar",
+      "lat": 19.848492,
+      "lng": 75.214953,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJE7VX3qab2zsRpI534rlMht4",
+      "name": "Swami Petroleum",
+      "address": "R6X7+QX6, Datta Nagar, Ranjangaon Shenpunji, Waluj, Chhatrapati Sambhajinagar",
+      "lat": 19.8494192,
+      "lng": 75.21488169999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJQyK3Esyb2zsRY0Xa0Z5R3p4",
+      "name": "IndianOil",
+      "address": "Gut No 40, Ranjangaon Shenpunji, Gangapur, Waladgaon",
+      "lat": 19.8499601,
+      "lng": 75.2149501,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFw6VhK6b2zsRdq4789owbqo",
+      "name": "IndianOil",
+      "address": "Gut No 149 Gangapur, Ranjangaon, Waladgaon",
+      "lat": 19.843044,
+      "lng": 75.20939299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuYJwoB2Z2zsRDpz9lWDaeJo",
+      "name": "Go Gas Auto LPG Filling Station",
+      "address": "V837+87F, National Highway 52, Satara Parisar, Chhatrapati Sambhajinagar",
+      "lat": 19.8533157,
+      "lng": 75.3131756,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC2o7cu2u2zsROfaTb2TIx80",
+      "name": "IndianOil",
+      "address": "Gut No 291 Gadejalgaon, near Railway Station, Chhatrapati Sambhajinagar",
+      "lat": 19.860726,
+      "lng": 75.31112399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJh51peuuj2zsRuvfSgeYsTLg",
+      "name": "Shivdatt Petrol Pump",
+      "address": "NH 211, Beed Bypass Road, Zalta, Chhatrapati Sambhajinagar",
+      "lat": 19.8520744,
+      "lng": 75.31976399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0Yn1almY2zsRhA4Q49dwOCA",
+      "name": "Taranga Sales And Services (Petrol Pumps-Indian Oil)",
+      "address": "V866+W5H, Bhanudas Sabhahgrah Railway Station Road, Chhatrapati Sambhajinagar",
+      "lat": 19.86229999999999,
+      "lng": 75.31049999999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJQSgU-bKZ2zsRUkXjjs3dWig",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gut No 303, SRPF Camp Road, Satara, Chhatrapati Sambhajinagar",
+      "lat": 19.828675,
+      "lng": 75.331997,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYSFDlE2e2zsRCvjrx3YzRNQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gut No 123, opposite Videocon Factory, 123, Shiwanai - Bokud Jalgoan Road, Chittegaon",
+      "lat": 19.7503868,
+      "lng": 75.29036359999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq3TLiJid2zsRSJXv54m7Ye4",
+      "name": "BP Waluj OSTS Waluj Bharat Petroleum Petrol Pump",
+      "address": "Aurangabad - Ahmednagar - Pune Highway, Shivrai",
+      "lat": 19.7812172,
+      "lng": 75.1994855,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-c1LNz6a2zsRh91JA2My2Dc",
+      "name": "Girija Petroleum",
+      "address": "SH-30, Nagpur - Aurangabad - Mumbai Highway, MIDC, Waluj, Chhatrapati Sambhajinagar",
+      "lat": 19.872967,
+      "lng": 75.2281374,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7c77Oj6a2zsRtr3xX4nsoIw",
+      "name": "IndianOil",
+      "address": "Survey No 15, Railway Station, near Aurangabad, Express Highway, Waluj, Chhatrapati Sambhajinagar",
+      "lat": 19.8731947,
+      "lng": 75.2283786,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvU08ByCZ2zsREwIOT9pKeO0",
+      "name": "SOMNATH MALKARI",
+      "address": "near Osmnpura, Shop, Gopal T, Chhatrapati Sambhajinagar",
+      "lat": 19.8656033,
+      "lng": 75.3104141,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJYRZIH2Cd2zsRNQVYh1o43H8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "gut No, 53 & 69 SH 60, Gangapur, Limbe, Jalgaon",
+      "lat": 19.781377,
+      "lng": 75.19774009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJu2ZdwJWZ2zsRpYPmKC2oERQ",
+      "name": "IndianOil",
+      "address": "Cts No 19312, Railway Station, Deogiri College Road, Chhatrapati Sambhajinagar",
+      "lat": 19.8630944,
+      "lng": 75.3150244,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHTGREIuc2zsR_5GEg7gCwms",
+      "name": "IndianOil",
+      "address": "Gut No 64, Gangapur, Adgaon Sarak, Chhatrapati Sambhajinagar",
+      "lat": 19.7806367,
+      "lng": 75.1976234,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2SJbyH2i2zsRbS1ynEzQySY",
+      "name": "IndianOil",
+      "address": "Gut No 57/4, Plot No 11 & 12, Garkheda, Chhatrapati Sambhajinagar",
+      "lat": 19.8027269,
+      "lng": 75.3419694,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ54kdgn-Y2zsR0sjuptcqvuI",
+      "name": "IndianOil",
+      "address": "Khivansara Park, Garkheda, Chhatrapati Sambhajinagar",
+      "lat": 19.8644946,
+      "lng": 75.34187829999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfbZ7QmSY2zsRy5t0ukC2WUQ",
+      "name": "Sakla Uniforms",
+      "address": "5/2/24, 5, New Usmanpura, Chhatrapati Sambhajinagar",
+      "lat": 19.8663675,
+      "lng": 75.3257564,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxRbc-YWi2zsRS6yFtSO844k",
+      "name": "Nayara Petrol pump",
+      "address": "V993+436, Pundlik Nagar Road, Near Advanced ENT Hospital, Gajanan Temple, Vishalnagar, Nyay Nagar, Chhatrapati Sambhajinagar",
+      "lat": 19.8677779,
+      "lng": 75.35265009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_cY393SY2zsReyg9saqIy4M",
+      "name": "IndianOil",
+      "address": "Datta Nagar, Jaffer Gate, Chhatrapati Sambhajinagar",
+      "lat": 19.880657,
+      "lng": 75.337486,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS7NxC_Ki2zsRcK4fSlqTTyg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Jalna - Aurangabad Road, Cidco, Chhatrapati Sambhajinagar",
+      "lat": 19.8739913,
+      "lng": 75.3690883,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSUPtyGiY2zsR0cGBEgPgiko",
+      "name": "IndianOil",
+      "address": "Plot No 10, Jalna Road, N2 CIDCO, Mukundwadi, Chhatrapati Sambhajinagar",
+      "lat": 19.872334,
+      "lng": 75.3733962,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1UQ1b0KY2zsRFxe_8MKnyP0",
+      "name": "Bharat Petroleum Mahavir Stambh Baba Petrol Pump",
+      "address": "Nashta Corner Baba Petrol Pump, Bhagyanagar, Chhatrapati Sambhajinagar",
+      "lat": 19.8740819,
+      "lng": 75.31588459999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKb8zOgCj2zsR5IicSVic-_w",
+      "name": "Yogeshwari petrolium",
+      "address": "R8VX+34J, Naik Nagar, Deolai, Chhatrapati Sambhajinagar",
+      "lat": 19.8427227,
+      "lng": 75.3477767,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJGXD4Z4OY2zsRFfT48ZS8XcI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gut No 22, near Hotel MH20, Beed Bypass Road, Shahnoorwadi, Chhatrapati Sambhajinagar",
+      "lat": 19.84976529999999,
+      "lng": 75.3361295,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrzoqANWj2zsRIYoLiDZi-9Y",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gut No 136 Plot No 1, 2 & 4, Deolai, Satara",
+      "lat": 19.8443739,
+      "lng": 75.35437739999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5W2DBQCj2zsRdlwMQD_da3c",
+      "name": "Yogeshwari Petroleum",
+      "address": "Old, Beed Bypass Road, Chhatrapati Sambhajinagar",
+      "lat": 19.8496799,
+      "lng": 75.3423722,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJB_JVaT-j2zsR7gUgpPbv1zU",
+      "name": "Shiv Sai Petroleum (Nayara Energy Limited)",
+      "address": "16-6, Samrudhi Co-operative Housing Society, Chhatrapati Sambhajinagar",
+      "lat": 19.8493971,
+      "lng": 75.3443899,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJf1ct8tSZ2zsR4IhebmbqWXA",
+      "name": "Sarjeet Singh Jabinda Petroleum",
+      "address": "32, PWD Colony, Disha Nagari, Chhatrapati Sambhajinagar",
+      "lat": 19.8511503,
+      "lng": 75.3310281,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ0xdzm4WY2zsRbAYKVE4mnMQ",
+      "name": "Essay Petroleum LPG",
+      "address": "India",
+      "lat": 19.8511634,
+      "lng": 75.3304374,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ0WDdWQCj2zsRv8D9PsfCYl8",
+      "name": "Hpcl pump",
+      "address": "V926+44M, Naik Nagar, Satara Deolai Parisar, Chhatrapati Sambhajinagar",
+      "lat": 19.8503312,
+      "lng": 75.3602993,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJq6qqRnyi2zsRMolxkSwYC_c",
+      "name": "Balaji Servo Services",
+      "address": "Plot No 11/12, Laxmi Nagar Grk, Garkheda, Chhatrapati Sambhajinagar",
+      "lat": 19.8569763,
+      "lng": 75.3488698,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJfenaJgCj2zsRzMp31X9ML8k",
+      "name": "Raj Electrical",
+      "address": "161, Sara Raaj Nagar, Garkheda, Chhatrapati Sambhajinagar",
+      "lat": 19.8561202,
+      "lng": 75.3546564,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJhzu0Y0Si2zsRaGAc_mQtabQ",
+      "name": "IndianOil",
+      "address": "Gut No 141, NH 211, Beed Bypass Road, Balapur, Chhatrapati Sambhajinagar",
+      "lat": 19.8480083,
+      "lng": 75.3713405,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUfAd-WWZ2zsRXG6bv1VrUig",
+      "name": "Imran auto Garage",
+      "address": "4-13-693, Shrikrishna Nagar, Ulkanagari, Chhatrapati Sambhajinagar",
+      "lat": 19.8628183,
+      "lng": 75.33969189999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJlyUGhGWY2zsRDemhH3l2Wbs",
+      "name": "Bharat Petrol Pump",
+      "address": "GOAPL T, 01, Bhanudas Sabhahgrah Railway Station Road, Snehnagar, Konkanwadi, Chhatrapati Sambhajinagar",
+      "lat": 19.8702153,
+      "lng": 75.3264143,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhxIlrhWZ2zsRmRFlirbwyaw",
+      "name": "BANTI AUTO SERVICES",
+      "address": "Gopal Tea, 01, Railway Station Road, Konkanwadi, Chhatrapati Sambhajinagar",
+      "lat": 19.8702626,
+      "lng": 75.3263681,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJP2V-vCGZ2zsR_1asI8M_iqo",
+      "name": "Unique Auto 2",
+      "address": "Gopal T, Near, New Usmanpura, Chhatrapati Sambhajinagar",
+      "lat": 19.8702885,
+      "lng": 75.3263655,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJFX05TEuZ2zsRJN50yZMlXJU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "CTS No 14814/A, Bag Sher Jung, Ramanagar, Chhatrapati Sambhajinagar",
+      "lat": 19.8722833,
+      "lng": 75.3351849,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9SEHyW-Y2zsR_hfRhqEoPB0",
+      "name": "IndianOil",
+      "address": "Ground Floor, Adalat Road, Chhatrapati Sambhajinagar",
+      "lat": 19.871986,
+      "lng": 75.325531,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJr5j0T0OY2zsRZdCQVgK4kvw",
+      "name": "एसे पेट्रोलियम",
+      "address": "India",
+      "lat": 19.87028489999999,
+      "lng": 75.3128782,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJR0yAzHOY2zsRPA25J3RToP0",
+      "name": "Indian Auto Gas",
+      "address": "Cts No-13791, Kranti Chowk, Ajabnagar, Chhatrapati Sambhajinagar",
+      "lat": 19.8740352,
+      "lng": 75.3304249,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJM8rK1G-Y2zsR8MTDULXW5Zg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "CTS No 14453, NH 752, Jalna - Aurangabad Road, Kranti Chowk, Chhatrapati Sambhajinagar",
+      "lat": 19.8740017,
+      "lng": 75.329329,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0Wv0iUSZ2zsRLSETQFg8J_k",
+      "name": "Ashok and Sons AUTO LPG PUMP",
+      "address": "V8FJ+M25, Kranti Chowk, Ajabnagar, Chhatrapati Sambhajinagar",
+      "lat": 19.8741346,
+      "lng": 75.33010399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTd-r_Xij2zsRhuKnHsjlnnE",
+      "name": "Bharat Petroleum, Petrol Pump -Jagruth Petroleum",
+      "address": "Seven Hill fly over, Gajanan Maharaj Mandir Road, Vidya Nagar, Garkheda, Chhatrapati Sambhajinagar",
+      "lat": 19.8737581,
+      "lng": 75.3525444,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJf345qwSj2zsRBlPKXwjxdsU",
+      "name": "Zyada Gas Auto LPG Pump",
+      "address": "Essy petroleum, Zyada Gas, near by BPCL Pump, Sevan hill, Chhatrapati Sambhajinagar",
+      "lat": 19.8737976,
+      "lng": 75.352449,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNevVMMGj2zsRzRo2DbqzoZU",
+      "name": "Shoheb Khan",
+      "address": "Shop No 01, Chhatrapati Sambhajinagar",
+      "lat": 19.8738511,
+      "lng": 75.3524566,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJU3BJfEWj2zsRDfxTW9BLurc",
+      "name": "Totalenergies Auto LPG station",
+      "address": "TotalEnergies AutoLPG, gas station Sevenhills, near dulhadulhan showroom, to, Garkheda Road, Chh, Chhatrapati Sambhajinagar",
+      "lat": 19.8743603,
+      "lng": 75.35250900000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSUPtyGiY2zsRuXs5_GC9T_M",
+      "name": "Atuls Lubricant Oil",
+      "address": "V8GW+H47, Jalna Road, Jaffer Gate, Chhatrapati Sambhajinagar",
+      "lat": 19.8764059,
+      "lng": 75.3453019,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJOWnKdvOi2zsRQ2xjuMER0kE",
+      "name": "Bhaishree Petroleum LLP",
+      "address": "near Zambad Bunglow, Bhaishree Chamber, Plot No 29/45, Survey No 70/P, near Zambad Bunglow, Kamgar Chowk, N 2, Cidco, Chhatrapati Sambhajinagar",
+      "lat": 19.8692979,
+      "lng": 75.3671025,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJx30BUQCZ2zsRvBUD0T9RY0M",
+      "name": "Reliance petrol pump",
+      "address": "1, Central Bus Stand Road, Pushpa Nagari, Chhatrapati Sambhajinagar",
+      "lat": 19.8758839,
+      "lng": 75.3166799,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJuzcF18SZ2zsRnelLRYzTZ20",
+      "name": "Bharat Petroleum, Petrol Pump -N.A. Printer",
+      "address": "CROSS ROAD AURANGABAD, Chhatrapati Sambhajinagar",
+      "lat": 19.878147,
+      "lng": 75.3346572,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJz6w7gpCi2zsRbXRDTTOd_c0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near MGM Hospital, CTS No 12373/14 & 15, Hospital Road, M G M, Chhatrapati Sambhajinagar",
+      "lat": 19.87621619999999,
+      "lng": 75.3530036,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm0lGupGi2zsRK5s00DbDxpA",
+      "name": "IndianOil",
+      "address": "Ground Floor, Jalna Road, Chhatrapati Sambhajinagar",
+      "lat": 19.875171,
+      "lng": 75.356819,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY7xpoxWY2zsRmsT9AgFQCGE",
+      "name": "New Era Traders (Reliance Gas Distributor)",
+      "address": "Pratap Commercial Complex, Mondha Road, Near Jafar Gate,Opposite Central Bank, Jaffer Gate, Chhatrapati Sambhajinagar",
+      "lat": 19.880243,
+      "lng": 75.336963,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6SIE-AeZ2zsRD5fuRb8TpJc",
+      "name": "Nitin Sarvices",
+      "address": "Bas Stand, 2-15-851, Chhatrapati Sambhajinagar",
+      "lat": 19.8803022,
+      "lng": 75.3174712,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ9YGARFej2zsRYAdmtgdZqN4",
+      "name": "Bharat Petroleum, Petrol Pump -Sai Krishna & Sons",
+      "address": "V9FC+42X, API Corner, MIDC Industrial Area, Chhatrapati Sambhajinagar",
+      "lat": 19.8731051,
+      "lng": 75.3698527,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJj1Ofu3SY2zsR3gE25TgqQpo",
+      "name": "IndianOil",
+      "address": "Ground Floor, Old Mondha, Chhatrapati Sambhajinagar",
+      "lat": 19.882219,
+      "lng": 75.33672299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ88kLEjmj2zsRE2XxQB6bUzg",
+      "name": "Manoj Gopaldas Vaishnav",
+      "address": "Ambika Nagar Road, Maya Nagar, Cidco, Chhatrapati Sambhajinagar",
+      "lat": 19.873177,
+      "lng": 75.36995999999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ4_kXMH-k2zsRraerrq-438Y",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gut No 41/1, Jalna - Aurangabad Road, Sundarwadi",
+      "lat": 19.8631054,
+      "lng": 75.4366111,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxwViT3uk2zsRt_n--6Iswaw",
+      "name": "Nava Bharat Petroleum CNG Station, sundarwadi",
+      "address": "30, Nagpur - Aurangabad - Mumbai Highway, Mahesh Nagar, Sindhi Colony, Chhatrapati Sambhajinagar",
+      "lat": 19.8623131,
+      "lng": 75.44538469999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJj-vNuAM9xzsRi7MwfpTp2Mo",
+      "name": "IndianOil",
+      "address": "Gut no, 125 Cambridge, Cidco Colony, Zalta",
+      "lat": 19.8399163,
+      "lng": 75.41826619999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJF-CqdIil2zsRk2lKiLxVgeo",
+      "name": "BHARAT PETROLEUM BPCL SR PETROLEUM CNG AVAILABLE",
+      "address": "Beed road zalta, Chhatrapati Sambhajinagar",
+      "lat": 19.8351754,
+      "lng": 75.43591169999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJrSX-DACl2zsRXjz7HIknmSg",
+      "name": "RK_CNG_pump_bidbaypas",
+      "address": "RCPP+459, Zalta",
+      "lat": 19.8352717,
+      "lng": 75.435935,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ6_rfYw-k2zsRlWNiDizKQes",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gut No 252 & 34, Aurangabad, NH 52, Beed Hwy, Fata, Zalta",
+      "lat": 19.83406759999999,
+      "lng": 75.4420993,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJn-d98wKj2zsRbNZtlX6icHY",
+      "name": "Bharat Petroleum, Petrol Pump -Saraswati Fuel Home",
+      "address": "ZALTA , DIST AURANGABAD, Chhatrapati Sambhajinagar",
+      "lat": 19.8502472,
+      "lng": 75.4289254,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtdlRXNaj2zsRSysSOWT2eng",
+      "name": "Go Gas Lpg gas station",
+      "address": "VC89+27W, Aurangabad - Nagpur Road, Shri Krishna Colony, Chilkalthana, Chhatrapati Sambhajinagar",
+      "lat": 19.8651099,
+      "lng": 75.4182058,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ_Rj16Yyj2zsRmGk5FKnIAWs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Jalna Road, Chilkalthana, Chhatrapati Sambhajinagar",
+      "lat": 19.8659005,
+      "lng": 75.4165426,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcyBY40-j2zsRNNXbQQzhANM",
+      "name": "TRANSWELL AUTOMALL PRIVATE LIMITED, Essay Petroleum Autogas station",
+      "address": "beside Gayatri Lawns, Gut No 407, beside Gayatri Lawns, Chilkalthana, Chhatrapati Sambhajinagar",
+      "lat": 19.8660669,
+      "lng": 75.4158285,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5xbTsjyj2zsR5y51a9LBR78",
+      "name": "Bharat Petroleum CNG & Petrol Pump , VINOD PETROLEUM (ADHOC)",
+      "address": "Jalna Road, Chilkalthana, Chhatrapati Sambhajinagar",
+      "lat": 19.8653624,
+      "lng": 75.4210981,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl7j1FCij2zsRhpBnp9SdeYA",
+      "name": "Petrol Pump Police Community",
+      "address": "V99X+MRP, Aurangabad - Nagpur Road, MIDC Industrial Area, Chilkalthana, Chhatrapati Sambhajinagar",
+      "lat": 19.8692169,
+      "lng": 75.3995722,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCdKJnQij2zsR4dAud0KMZRg",
+      "name": "IndianOil",
+      "address": "Gut No 703, P & 704/P, Chilkalthana, Adgaon Bk",
+      "lat": 19.8695595,
+      "lng": 75.40020609999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJWpReXaj2zsRb_1-VRXcREM",
+      "name": "APEX ENTERPRISES",
+      "address": "Main Road, Hina Nagar Road, Chhatrapati Sambhajinagar",
+      "lat": 19.8692173,
+      "lng": 75.4173238,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJO4st7Tqn2zsRJRfUqTGlPss",
+      "name": "Nayara Energy _ Ganapati Petroleum",
+      "address": "NH52, vill, Bhalgaon",
+      "lat": 19.8138515,
+      "lng": 75.4645283,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJo76SZwCn2zsRhFk_zi4GR9g",
+      "name": "Ganpati petroleum nayara energy bhalgaon",
+      "address": "Bhalgaon",
+      "lat": 19.8139398,
+      "lng": 75.4646044,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4U3vBACj2zsR4ASCA6JkLlQ",
+      "name": "HINA NAGAR CHIKALTHANA AURANGABAD",
+      "address": "VC9C+F7M, Hina Nagar Road, Chilkalthana, Chhatrapati Sambhajinagar",
+      "lat": 19.8687117,
+      "lng": 75.42067530000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJgaQA7Xuk2zsRG0Drwr5Am_E",
+      "name": "Bhadra Servo Services",
+      "address": "Gut No.5, Sundarwadi, Jalna Road, (Near Cambridge School)), Chhatrapati Sambhajinagar",
+      "lat": 19.861989,
+      "lng": 75.441576,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJp3Wf7Xuk2zsRsjlhfkWzFE0",
+      "name": "IndianOil",
+      "address": "Ground Floor, Jalna - Aurangabad Road, Sundarwadi",
+      "lat": 19.8622934,
+      "lng": 75.4413021,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbYEIRKej2zsRtssZN4uguwY",
+      "name": "Zyada Gas Auto LPG Pump",
+      "address": "near Lifline Hospital, near Ramnagar, Jalna Road, Kaman, Mukundwadi, Chhatrapati Sambhajinagar",
+      "lat": 19.871781,
+      "lng": 75.38337829999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGTf5G_Ki2zsREurRuyDHtgs",
+      "name": "API Corner",
+      "address": "V9FC+F2M, N 2, Cidco, Chhatrapati Sambhajinagar",
+      "lat": 19.873703,
+      "lng": 75.3700525,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJyff16nmi2zsR23P1eTwn3qA",
+      "name": "IndianOil",
+      "address": "Ground Floor, Satara, Chhatrapati Sambhajinagar",
+      "lat": 19.8778054,
+      "lng": 75.371878,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDZ6RLK6Q2zsR6X6w_QiVtpQ",
+      "name": "Bharat Petroleum Corporation Ltd",
+      "address": "W65Q+QPC, National HIghway 211, Shernapur",
+      "lat": 19.9094391,
+      "lng": 75.2392808,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCQwsFgCZ2zsRVbqymfq3swY",
+      "name": "Bhaskara HP Gas Agency",
+      "address": "Aurangabad trade centre, opposite tarangan, below Moti medical mitmia, Aurangabad - Nashik Highway, Padegaon, Chhatrapati Sambhajinagar",
+      "lat": 19.8939256,
+      "lng": 75.27484009999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJQ-TCu4OX2zsRNRbaeFrYL8w",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gat No 131, Mitmita, Chhatrapati Sambhajinagar",
+      "lat": 19.9000392,
+      "lng": 75.2643805,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJZPkjVeX2zsRgPtEwFiXr7U",
+      "name": "PURTI GAS",
+      "address": "India",
+      "lat": 19.9016888,
+      "lng": 75.2588973,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJFVemBD2Z2zsRRJouGk-NDdw",
+      "name": "IndianOil",
+      "address": "Ground Floor, Aurangabad Cantonment, Padegaon, Chhatrapati Sambhajinagar",
+      "lat": 19.886396,
+      "lng": 75.285697,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJyWEMSwCZ2zsRMA5cmYf_wlM",
+      "name": "Bharat Petroleum",
+      "address": "V7MR+H63, Padegaon, Chhatrapati Sambhajinagar",
+      "lat": 19.8837752,
+      "lng": 75.2910467,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJa8mCsGqR2zsRYOrTTG8eiTU",
+      "name": "IndianOil",
+      "address": "Gut No 29, Part Mitmita, Padegaon, Chhatrapati Sambhajinagar",
+      "lat": 19.908083,
+      "lng": 75.245768,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJU6BmLLCQ2zsR6weeNlr-ypI",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 211, Shernapur",
+      "lat": 19.909986,
+      "lng": 75.23885299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe3sspfGR2zsRImEZdVFR5LU",
+      "name": "IndianOil",
+      "address": "gut No, 56/part, Shernapur",
+      "lat": 19.8981261,
+      "lng": 75.2292738,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQcVaObCQ2zsRheVYjQ6c1Wo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gat No 97/1, NH 52, near T Point, Road, Daulatabad Road, Shernapur",
+      "lat": 19.9109428,
+      "lng": 75.2381946,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDbcYchib2zsRnhl6XvR9cR4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gut No 38, near Sai Food Bar, Solapur Dhule Highway, Karodi",
+      "lat": 19.878108,
+      "lng": 75.215908,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUUbbV2ia2zsR9ZnCVB2noDs",
+      "name": "M/s. Gp Petroleums Ltd.",
+      "address": "India",
+      "lat": 19.8758472,
+      "lng": 75.2152066,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJgyZQlsiZ2zsRAbwNWdhN1Qk",
+      "name": "Pradeep Suvarnakar Lpg",
+      "address": "Plg Pump, Shop No1 Near Milk Corner Raod, Chhatrapati Sambhaji Nagar Road, Mill Corner, Chhatrapati Sambhajinagar",
+      "lat": 19.883993,
+      "lng": 75.3163416,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXZpayUGR2zsRNi9Q-IUbgPw",
+      "name": "Renukamata Petroleum",
+      "address": "Gut no 96, opp. jain internationalschool, Aurangabad - Nashik Highway, Maliwada",
+      "lat": 19.9195226,
+      "lng": 75.2198023,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpfUY20qR2zsRvuUqvBA8c3Y",
+      "name": "IndianOil",
+      "address": "Gut No 96 Maliwada, Shernapur",
+      "lat": 19.91972,
+      "lng": 75.21989400000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpa2dXQCZ2zsRJhWJ24Utrxc",
+      "name": "Bharat Petroleum, Petrol Pump - Chacha Petrol Pump",
+      "address": "V8RF+HH2, near by MCA, Town Hall, Buddi lane, Naralibag, Chhatrapati Sambhajinagar",
+      "lat": 19.8913842,
+      "lng": 75.3239011,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJH8_eV32a2zsR4dfvoTquApw",
+      "name": "Bharat Petroleum, Tulja Mata Petroleum CNG PUMP",
+      "address": "Karodi Road, Waluj, Chhatrapati Sambhajinagar",
+      "lat": 19.8841348,
+      "lng": 75.20141009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJc5_2bQmR2zsRUcKt5jzlOI4",
+      "name": "IndianOil",
+      "address": "Gut No 96, Sharnapur, Maliwada",
+      "lat": 19.9285456,
+      "lng": 75.22165199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJA0poZMei2zsRnzwy8badybQ",
+      "name": "Reliance Petroleum",
+      "address": "Plot No 1A, N7, Sector P, Cidco, Chhatrapati Sambhajinagar",
+      "lat": 19.8933603,
+      "lng": 75.3650277,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJW9G9Zsei2zsRj31wagnEsmk",
+      "name": "BPCL Rajyog Petrol Pump",
+      "address": "Sector P1, N 7, Cidco, Chhatrapati Sambhajinagar",
+      "lat": 19.8929675,
+      "lng": 75.3649677,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsd2CAlK92zsRWQY-8rYXO2s",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near Harsul T.point, Plot No 12/13N/11/P1, Survey No 187 CIDCO, near Harsul T.point, Sector, N 11, Harsul, Chhatrapati Sambhajinagar",
+      "lat": 19.913542,
+      "lng": 75.35222499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAzYQ5na92zsRdQ08jqijEzQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, Ajanta Jalgaon, Bypass Road, Sawangi",
+      "lat": 19.95044099999999,
+      "lng": 75.35679499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwwmtcgyY2zsRIrVdLdhNgVY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Shahganj Road, Shahgunj, Chhatrapati Sambhajinagar",
+      "lat": 19.887281,
+      "lng": 75.33473099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjy4wODGZ2zsRMM3mbCStIfA",
+      "name": "Reliance Petroleum",
+      "address": "Plot No 1, Pushp Nagari, next to Employement Office, Sy No 2071, Central Bus Stand Road, Chhatrapati Sambhajinagar",
+      "lat": 19.8939403,
+      "lng": 75.3333791,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl0LZSAaY2zsRUG3sx9EjivQ",
+      "name": "Bharat Petroleum, Petrol Pump -N.A. Printer",
+      "address": "Delhi Gate Road, Chhatrapati Sambhajinagar",
+      "lat": 19.8966255,
+      "lng": 75.337779,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ16nTVfqj2zsRIFKFwLiLpf8",
+      "name": "IndianOil",
+      "address": "Survey No 35, Jaswantpura, Chhatrapati Sambhajinagar",
+      "lat": 19.8847912,
+      "lng": 75.3519366,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL1cVSweY2zsR1K-bja3qO-I",
+      "name": "BATCO ENERGY",
+      "address": "India",
+      "lat": 19.9008125,
+      "lng": 75.34003129999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJi5rH29Cj2zsRz8yntEerbcM",
+      "name": "IndianOil",
+      "address": "6, Cidco, Central Naka Road, M G M, Chhatrapati Sambhajinagar",
+      "lat": 19.88130899999999,
+      "lng": 75.35355,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdR2mzTKj2zsRVPvKlMah7VQ",
+      "name": "Nayara petrol pump main Aurangabad",
+      "address": "Kiradpura Road, Kirti Housing Society, Rahemania Colony, Kiradpura, Chhatrapati Sambhajinagar",
+      "lat": 19.8881063,
+      "lng": 75.353341,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJH1ixaqWi2zsRAqSQSvCfy4g",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gut No 4, 12 Hattesingpura, near Kat Kat Gate, Chhatrapati Sambhajinagar",
+      "lat": 19.894824,
+      "lng": 75.351485,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJE017LdCj2zsRt3taS_92LiQ",
+      "name": "Bharat Petroleum, Petrol Pump -Police Ro -Cidco",
+      "address": "CIDCO, AURANGABAD, TV CENT, Chhatrapati Sambhajinagar",
+      "lat": 19.8983725,
+      "lng": 75.3535787,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNaBauJmj2zsRpMFkCjjDBuQ",
+      "name": "MistarAnkush Narayan Tonde",
+      "address": "Shop No 1, Shani Madir Panvadat, Bajar, Pata, Sillod",
+      "lat": 19.8999515,
+      "lng": 75.3562834,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ3_LtWQC92zsRiH-C_wU1iF0",
+      "name": "Indian oul petrol pump",
+      "address": "W85W+QMM, TV Centre Road, Hudco, Yadav Nagar, N 11, Cidco, Chhatrapati Sambhajinagar",
+      "lat": 19.9094871,
+      "lng": 75.3466536,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0VatBAC92zsRuygnOuUWgf8",
+      "name": "Pathrikar petroleum iocl pump",
+      "address": "Plot no 1, Hudco, Pathrikar Nagar, N 11, Cidco, Chhatrapati Sambhajinagar",
+      "lat": 19.9104763,
+      "lng": 75.34710489999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjyhRXQCj2zsRFwNXT2SBMOg",
+      "name": "Jio petrolium",
+      "address": "1A, Service Road, Sector P1, N 7, Cidco, Chhatrapati Sambhajinagar",
+      "lat": 19.8933524,
+      "lng": 75.36496939999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJr3npCLii2zsR6ggNxa_M6c8",
+      "name": "आरोग्यम क्लिनिक",
+      "address": "आंबेडकर नगर, एन.७, सिडको, औरंगाबाद.",
+      "lat": 19.8962798,
+      "lng": 75.3642759,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJw1TMOE292zsRHLwIbOopdF0",
+      "name": "IndianOil",
+      "address": "Gut No 194/4, Harsul, Chhatrapati Sambhajinagar",
+      "lat": 19.9089508,
+      "lng": 75.3544288,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJD_jyqZij2zsRFZf6STJ5AHg",
+      "name": "IndianOil",
+      "address": "Gut No 23, Naregaon, Chhatrapati Sambhajinagar",
+      "lat": 19.8949986,
+      "lng": 75.3953691,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY97YFwCj2zsROD8VfAW92N8",
+      "name": "Sani kata",
+      "address": "V9WV+4P2, Naregaon - Malharpur - Warud Road, Naregaon, Chilkalthana, Chhatrapati Sambhajinagar",
+      "lat": 19.8948533,
+      "lng": 75.3943967,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ_09e2Iuj2zsRKr0IVrTbx68",
+      "name": "Shrikant Petroleum HP",
+      "address": "Shop No1, near Hp Petrol Pump, Naregaon, Chhatrapati Sambhajinagar",
+      "lat": 19.8916692,
+      "lng": 75.3844141,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJszGNI5uj2zsRKG6BrTp33DI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gut No 27P, near HP Gas Plant, Naregaon Main Road, Chhatrapati Sambhajinagar",
+      "lat": 19.89287299999999,
+      "lng": 75.38352900000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJr3oVPgCj2zsRTa_731R7Y4c",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Naregaon Main Road, Chilkalthana, Chhatrapati Sambhajinagar",
+      "lat": 19.892411,
+      "lng": 75.379934,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVWTsE9O82zsRCYF_lYm_seA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gut No 64 Sundarwadi Sawangi, Bypass Road, Gopalpur",
+      "lat": 19.913113,
+      "lng": 75.39504099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVQpCUAC92zsRqnfjkil4ipE",
+      "name": "Shree Ram Petroleum",
+      "address": "W99Q+FVJ, Pisadevi",
+      "lat": 19.9187113,
+      "lng": 75.38962699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_9TFfQCj2zsR-55CagpIpcE",
+      "name": "Azad Market HP petrol pump Aurangabad.",
+      "address": "W928+93M, आज़ाद मार्केट जाधववाड़ी, Azad Market, हर्सुल, छत्रपती संभाजीनगर",
+      "lat": 19.9009625,
+      "lng": 75.36517189999999,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJC8A3ujij2zsRML1kaM4DN3w",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Pisadevi Road, Jadhavwadi, Chhatrapati Sambhajinagar",
+      "lat": 19.901065,
+      "lng": 75.365135,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs8lBJYG92zsR6rC6CVFWODg",
+      "name": "Rajureshwar Bharat Petroleum& CNG",
+      "address": "W9FQ+GW2, Rajureshwar Petrol Pump, opposite Janki lawns, Pokhri Fata, Cambridge-Sawangi bypass, Jalgaon Bypass Road, Chhatrapati Sambhajinagar",
+      "lat": 19.9237585,
+      "lng": 75.389752,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJw_Q6SQC92zsR0JrClB1WKeg",
+      "name": "Shiv petroleum pro, Vinayakrao Bhise",
+      "address": "WCG4+CQ8, Palshi Road",
+      "lat": 19.9260384,
+      "lng": 75.4069612,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJH6lCXWW92zsR_C_o6UXchLw",
+      "name": "Prem Intarprises",
+      "address": "Sarangi Bypass Aanjani Park, Chhatrapati Sambhajinagar",
+      "lat": 19.9245342,
+      "lng": 75.3888028,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ_VAvc3S92zsRHrR2nndZFeU",
+      "name": "Siddhi Petroleum - Nayara Energy Limited",
+      "address": "W996+RCF, Harsul, Chhatrapati Sambhajinagar",
+      "lat": 19.9194255,
+      "lng": 75.3610819,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ1Ur8WyG92zsRXJ6E7QlBBi0",
+      "name": "Abhijit Ghode home",
+      "address": "W996+VCF, Harsul, Chhatrapati Sambhajinagar",
+      "lat": 19.9196979,
+      "lng": 75.3610326,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJLV_VrveQ2zsRgr6VfBTAIWE",
+      "name": "Bharat Petroleum, CNG Petrol Pump -Harsh Petroleum",
+      "address": "MALIWADA, Chhatrapati Sambhajinagar",
+      "lat": 19.9277067,
+      "lng": 75.2039185,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwcqinVeQ2zsRyMBB9osZOBA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 12, P NH 52, beside Trishul Hotel, Dhule - Solapur Highway, Aurangabad",
+      "lat": 19.930503,
+      "lng": 75.198301,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ75OONgC92zsR3Q4x2eX-MTY",
+      "name": "Nikumbh petrol pump",
+      "address": "X944+9PP, Ashrafpur",
+      "lat": 19.9559661,
+      "lng": 75.3568269,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJK0zwcGq92zsRfxqQTgGNne0",
+      "name": "NAYARA PETROL PUMP (GURUKRUPA PETROLEUM)",
+      "address": "Harsul Toll Naka, Harsul, Chhatrapati Sambhajinagar",
+      "lat": 19.9349576,
+      "lng": 75.3533495,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrySlkHO92zsR_mZc09JT7so",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gut No, 185, Bypass Road, Sawangi, Chhatrapati Sambhajinagar",
+      "lat": 19.948603,
+      "lng": 75.361031,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJI4mRon6X2zsRrzUmigx1vV0",
+      "name": "CNG Harne Bharat Petroleum Pump",
+      "address": "SHOP NO 1, opp. HARNE PETROL PUMP, Ekta Nagar - Jatwada Road, Harsul, Chhatrapati Sambhajinagar",
+      "lat": 19.9215107,
+      "lng": 75.3368247,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOe7f1cS92zsRQKcTPdFkMz0",
+      "name": "United Solutions",
+      "address": "Z1, Plot no- 77, Bhagatsingh Nagar Road, Beri Bagh, Harsul, Chhatrapati Sambhajinagar",
+      "lat": 19.9170473,
+      "lng": 75.354923,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpVIrBgC92zsRwjrwjluh_xY",
+      "name": "अहिल्यादेवी होळकर प्रवेश",
+      "address": "t-point, Mhasoba Nagar, Harsul, Chhatrapati Sambhajinagar",
+      "lat": 19.9150414,
+      "lng": 75.3550298,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJY2iusVW92zsRUVGEvWc7emc",
+      "name": "IndianOil",
+      "address": "Gut No 5 & 6, Pokhari",
+      "lat": 19.944382,
+      "lng": 75.3985861,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJz7rjkoa-2zsRBavXyi-fJmk",
+      "name": "Wankhede Petrol Pump",
+      "address": "Chhatrapati Sambhajinagar",
+      "lat": 20.0119085,
+      "lng": 75.392346,
+      "open_now": true
+    }
+  ]
+}

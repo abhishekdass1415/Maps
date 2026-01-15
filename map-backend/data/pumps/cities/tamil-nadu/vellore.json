@@ -1,0 +1,851 @@
+{
+  "city": "Vellore",
+  "state": "Tamil Nadu",
+  "count": 105,
+  "center": {
+    "lat": 12.9211,
+    "lng": 79.1228
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJwcErzok-rTsRrIx9I00AllM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Vellikadai, Ussoor",
+      "lat": 12.8669864,
+      "lng": 79.0652346,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJv9cNYsA_rTsROeD401AsKMw",
+      "name": "Amman Thunai Transport And Petrol Bunk",
+      "address": "W28R+HFX",
+      "lat": 12.9164965,
+      "lng": 79.04124879999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqxx-YsA_rTsRlAMB2PvurMg",
+      "name": "Bharat Petroleum",
+      "address": "335/1, BANGALORE TRUNK ROAD, Sathiyamangalam, Poigai",
+      "lat": 12.9166364,
+      "lng": 79.0413595,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJv6IPwk4_rTsRn7twXJVj_Ws",
+      "name": "SLN FUELS G.R.Palayam- NAYARA ENERGY",
+      "address": "V2CW+RXP, POODHUR VILLAGE, Anaicut Road, Vellore",
+      "lat": 12.8720873,
+      "lng": 79.047459,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJd3ULNAA_rTsRMgrsv5G0eb4",
+      "name": "KKS Fuel Agency",
+      "address": "V3H7+VRX, Ussoor",
+      "lat": 12.8797407,
+      "lng": 79.0646241,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlUjsW5Y-rTsRSYrgbWB1Hh4",
+      "name": "IndianOil",
+      "address": "next to Golden Temple, 9 Sripuram Main Road, Ariyur, next to Golden Temple, Vellore",
+      "lat": 12.868301,
+      "lng": 79.0845701,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJv2OvNic_rTsR64SPmhJWbyE",
+      "name": "Bharat Petroleum Petrol Pump , SRI SHARAN AGENCY",
+      "address": "PENNATHUR, MAIN ROADVELLORE RING ROAD, Ariyur",
+      "lat": 12.8551938,
+      "lng": 79.1018318,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuatw4o0VrTsRA_Zq-7uXB3w",
+      "name": "Bharat Petroleum (Mithra Agencies)",
+      "address": "State Highway 122, Tharvazhi",
+      "lat": 12.8819361,
+      "lng": 79.0110252,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ8nlrG4VrTsRSDG0dlKEGV4",
+      "name": "Arulmigu Annamalaiyar Fuels",
+      "address": "243, Road, Ganganallur, Anaicut",
+      "lat": 12.879898,
+      "lng": 78.9981086,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsxWmMcs-rTsRPnuk_FKUiZ4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 807, 2B, Gandhi Road, Mahalakshmi Nagar, Ariyur",
+      "lat": 12.8805912,
+      "lng": 79.1091651,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5z7bu9s_rTsR1dGKmrjbi3Q",
+      "name": "IndianOil",
+      "address": "Lock No, near Aerodrome, NH 46, Sathiyamangalam, Anpundi",
+      "lat": 12.914361,
+      "lng": 79.063965,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo9SvAAA_rTsRF7CuzHw1Vj4",
+      "name": "Go gas",
+      "address": "W377+WGP, Sathiyamangalam, Vellore",
+      "lat": 12.9148486,
+      "lng": 79.0638352,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ3aZfIwA_rTsRcEo6-k4yitM",
+      "name": "Euro def",
+      "address": "W37F+GJQ, Poigai",
+      "lat": 12.9138311,
+      "lng": 79.0741152,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJbcSRGMY_rTsReGFsXthuP_E",
+      "name": "SRI BALAJI AGENCY, Bharat Petroleum Fuel Station",
+      "address": "National Highway 48, Abdullah Puram, Vellore",
+      "lat": 12.9149957,
+      "lng": 79.0714979,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJs0PDUEw_rTsRpDN3KZpAuXQ",
+      "name": "Shell",
+      "address": "Mumbai Highway, Melmanavur, Revenue Village, Vellore",
+      "lat": 12.915055,
+      "lng": 79.077642,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJR-I7BiQ5rTsRn3ycN2L6TdI",
+      "name": "IndianOil",
+      "address": "Lock No 1113, S, 36/2B, Officer's Line, Allapuram, Thorapadi, Vellore",
+      "lat": 12.8944984,
+      "lng": 79.12716259999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq16-7BY5rTsRd8MAyB3g-C4",
+      "name": "ESSAR OIL",
+      "address": "Madras Matriculation School Road, Bagayam",
+      "lat": 12.885093,
+      "lng": 79.1359092,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJx9yGzeE4rTsR0sc4SSLi73s",
+      "name": "Bharat Petroleum",
+      "address": "26/B, near Krishna Nagar, 26/B, Officer's Line, Sasthri Nagar, Krishna Nagar, RV Nagar, Vellore",
+      "lat": 12.9022502,
+      "lng": 79.1314886,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJBy_sMWlHrTsR9SCZhjgRYfk",
+      "name": "IndianOil",
+      "address": "Lock No 1071, No 14, Officers Lane, Vellore",
+      "lat": 12.907518,
+      "lng": 79.13177499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7_yij2c5rTsRW9MqJXOQvVI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "V47M+X4M, Ground Floor SH 9, near Adukkumbarai, GH Road, Ramalinga Nagar, Edayansathu",
+      "lat": 12.8643686,
+      "lng": 79.13283969999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOQ3vbqI7rTsRVXC7cMplNY4",
+      "name": "IndianOil",
+      "address": "S No 191/1, Arni Road, Kaniyambadi",
+      "lat": 12.8171563,
+      "lng": 79.13315109999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl9QzRw05rTsR8Ia3yKWTb4g",
+      "name": "Bharat Petroleum, Petrol Pump -C.Lakshminarasimham&Son",
+      "address": "Doctor Ambedkar Street, Cinna Sankaranpalayam, Shenbakkam, Vellore",
+      "lat": 12.885023,
+      "lng": 79.13541219999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOQ3vbqI7rTsRbzGgTH0fhlc",
+      "name": "Bharath Petroleum",
+      "address": "Nh 234, Polur - Vellore Road,Kaniyambadi, Bagayam",
+      "lat": 12.8157501,
+      "lng": 79.1333047,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJ4KNmjs7rTsR55VCnmcpejI",
+      "name": "Bharat Petroleum Petrol Pump , SRI MUKHUNDHAN AGENCIES",
+      "address": "302, Arni Road, Vellore",
+      "lat": 12.815394,
+      "lng": 79.13328000000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGem49MA5rTsR_fJN0eVq9S0",
+      "name": "IndianOil",
+      "address": "Sy No 41/1, Prison Department, Thorapadi, Tiruvannamalai",
+      "lat": 12.8901775,
+      "lng": 79.12317639999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPSB00h85rTsRa2mEJivm6Xo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "14, Arni Trunk Road, Vellore",
+      "lat": 12.899821,
+      "lng": 79.1350037,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJD0WbKuA4rTsRsOAbLqt2mWg",
+      "name": "IndianOil",
+      "address": "Lock No 1110 Allapuram, Sainathapuram, Vellore",
+      "lat": 12.900512,
+      "lng": 79.134964,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH1lxkt04rTsRdNgjxDhlmK8",
+      "name": "Co-Operative Gas Station",
+      "address": "W45J+3JM, Azad Road SH-207, Bishop David Nagar, Kosapet, Vellore",
+      "lat": 12.907704,
+      "lng": 79.1315429,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJvQdvHeU4rTsRIvqGxhVHbXg",
+      "name": "KMS",
+      "address": "India",
+      "lat": 12.9093512,
+      "lng": 79.1415686,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJJbetlR4xrTsRDTLcfVIlwq8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Arcot - Kannamangalam Road, Vellore",
+      "lat": 12.832683,
+      "lng": 79.24926099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvZp8tiIxrTsRKKJWHpEI0-Q",
+      "name": "IndianOil",
+      "address": "Tiruvannamalai, S No 113, Lock 1234 Kavanur, Arcot, Vethajipuram",
+      "lat": 12.8388869,
+      "lng": 79.25601499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJyX0eb6oxrTsREyfxo0WiBgI",
+      "name": "JSN FUELS CENTER",
+      "address": "Punganur Arcot to kannamangalam road Arcot tk Ranipet, dt, Arcot",
+      "lat": 12.8230443,
+      "lng": 79.2384225,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpR9KRwAxrTsRl0lrNu4btDo",
+      "name": "Pudhu road bus stop",
+      "address": "SH 129, Punganur",
+      "lat": 12.823781,
+      "lng": 79.239088,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJky8cZl9ArTsRBELeNK_aFUA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Gudiyatham, Main Road, Latteri",
+      "lat": 12.969631,
+      "lng": 79.063831,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJA4aXW2wVrTsRNwX4L1Zh08k",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Chennai Banglore NH, Erayangadu",
+      "lat": 12.9107396,
+      "lng": 79.0009163,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXWUH-rc4rTsRCs8OBoUzYeM",
+      "name": "SRI SRINIVAS AUTO SERVICE",
+      "address": "No.111, Bangalore Road,, Mullipalayam, Vellore",
+      "lat": 12.923399,
+      "lng": 79.120511,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJK7HKt65BrTsRI-5J-bHRO0U",
+      "name": "IndianOil",
+      "address": "A Site Ksk, Survey No 56/5A2, Mudinampattu",
+      "lat": 12.9405978,
+      "lng": 79.01968339999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJi6FTqSdBrTsRfEI1998v4VI",
+      "name": "Lokesh fuels",
+      "address": "Bus Stop, Mudinampattu",
+      "lat": 12.9451778,
+      "lng": 79.0205259,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfzGEuotBrTsRDXv-5yAylWA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "9/50/A1, National Highway 75, KV Kuppam, Pattiyur, Latteri",
+      "lat": 12.966394,
+      "lng": 79.050822,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhc9yXw1BrTsRSOBSihdWvT8",
+      "name": "R.K.FUELS",
+      "address": "NH59, Bomminayakan Palayam",
+      "lat": 12.9666665,
+      "lng": 79.0509038,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbefkCwA_rTsR_puYqwgAhg4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 40/7, Perumalnagar, Vellore",
+      "lat": 12.9230349,
+      "lng": 79.1016259,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq9XG-hZBrTsRbhCNlypaD18",
+      "name": "Nikinish Fuels (HINDUSTAN PETROLEUM, Latheri)",
+      "address": "Katpadi-Gudiyatham Main Road, Kuppam",
+      "lat": 12.9698517,
+      "lng": 79.06378169999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMW0T7VQVrTsRLdIkmeVaWhM",
+      "name": "Bharat Petroleum, Petrol Pump -V.S.Renugopal",
+      "address": "POIGAI SATHYAMANGALAM, VELLORE AMBEDKR",
+      "lat": 12.9089405,
+      "lng": 79.00081850000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZaMHHtBBrTsRlUi61-UAzM4",
+      "name": "Sethu Fuels",
+      "address": "to, Pallathur Road, Latteri",
+      "lat": 12.972689,
+      "lng": 79.064196,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe4NnU6dBrTsRi3yTNL01lt8",
+      "name": "Bharat Petroleum, Petrol Pump -Shakthisree Service Station",
+      "address": "VELLORE (NR VIT COLLEGE), VELLORE AMBEDKR",
+      "lat": 12.9737591,
+      "lng": 79.076165,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPTk5KgBBrTsR8BHoWJymhlo",
+      "name": "BHARAT PETROLEUM",
+      "address": "X3J5+37X, Pallathur Road, Arumbakkam",
+      "lat": 12.9792419,
+      "lng": 79.05904679999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJlw5vOE4VrTsRO4praG4IIok",
+      "name": "Bharat Petroleum, Petrol Pump -S.A.V Agencies",
+      "address": "KALANIPAKKAM, VELLORE AMBEDKR",
+      "lat": 12.9101248,
+      "lng": 78.9865834,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJiUtAcLg4rTsRxCd2Ml9vlfY",
+      "name": "IndianOil",
+      "address": "Lock, 139, 1089, Bangalore Road, Mullipala, Vellore",
+      "lat": 12.923682,
+      "lng": 79.121597,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJG6kVb7g4rTsR_iU6J6i5E3c",
+      "name": "Reliance Petroleum",
+      "address": "opp. to JOTHI THEATRE, SURVEY NO 612/ PART, TALUK, Vellore",
+      "lat": 12.9235352,
+      "lng": 79.1228723,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJK8r6BRQ5rTsRfkgYFEf9c8A",
+      "name": "Jio-bp",
+      "address": "T, opposite Jothi Theatre, 612/1, Bangalore Road, Vellore",
+      "lat": 12.9232454,
+      "lng": 79.1229596,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8Y0yu2hBrTsRpPwNAGSK2Fw",
+      "name": "Sri Maruthi Fuels (Indian Oil)",
+      "address": "near Kalabairavar Temple, to, Latheri, Road, Panamadangi",
+      "lat": 12.9900142,
+      "lng": 79.0536436,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgRtQo2drrTsRtMcJq8uLi3Q",
+      "name": "Bharat Petroleum Petrol Pump , SRI BALAJI AGENCIES",
+      "address": "KATPADI TO GUDIYATHAM MAIN ROADK.V. KUPPAM VELLORE, AMBEDKR",
+      "lat": 12.95623,
+      "lng": 78.989237,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgz82p5Q4rTsRFynOgyto4UI",
+      "name": "HP Petrol Bunk",
+      "address": "Old Bypass Road, Vellore",
+      "lat": 12.9304674,
+      "lng": 79.13438599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLan6bJY4rTsR8dWRmg2B0Zk",
+      "name": "Bharat Petroleum",
+      "address": "W4HM+WGV, Old Byepass Road, Salam Paints, Old Bypass Road, Vellore",
+      "lat": 12.9298635,
+      "lng": 79.13378279999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJBy_sMWlHrTsRokBSetb7ias",
+      "name": "IndianOil",
+      "address": "Lock, 84, SH 9, Suthanthira Ponvizha Nagar, Dharapadavedu, Katpadi, 1112, Katpadi Main Road, Vellore",
+      "lat": 12.9609531,
+      "lng": 79.1375357,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx13z0b04rTsRHKvG38DiDmU",
+      "name": "Bharath Petroleum- GVS Agencies",
+      "address": "W4HH+MWM, NH 46 Service Road, Thottapalayam, Vellore",
+      "lat": 12.9292192,
+      "lng": 79.1297981,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL5Nap5Q4rTsRLYmpALJn6n4",
+      "name": "Hindustan Petroleum",
+      "address": "Arcot Road, Sripuram, Saidapet, Vellore",
+      "lat": 12.924341,
+      "lng": 79.137883,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJHW854544rTsRWK8QTjQpCig",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 40/2, opposite Vishnu Theatre, Katpadi - Vellore Road, Viruthampattu, Vellore",
+      "lat": 12.9423041,
+      "lng": 79.1351548,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvXAFnVBHrTsRp2YmA6i7DYM",
+      "name": "Bharat Petroleum : Narayanaswamy Fuels",
+      "address": "Kalinjur Main Road, Gandhi Nagar",
+      "lat": 12.9528572,
+      "lng": 79.12117599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8VT1T5A5rTsRZizIt71t9v8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Door No 9, 3, Old Bypass Road, Thottapalayam, Vellore",
+      "lat": 12.927031,
+      "lng": 79.128951,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzUMyXZU4rTsRivNkW6C9Yfk",
+      "name": "Galaxy Scientific Company",
+      "address": "34/10-A, Katpadi Main Road, Vellore",
+      "lat": 12.9242904,
+      "lng": 79.1333061,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAZon7JU4rTsRhNnyWWyKbow",
+      "name": "Gas Station",
+      "address": "W4HM+37W, near Jos Alukkas Jewellery - Vellore, State Highway 9, Thottapalayam, Vellore",
+      "lat": 12.927737,
+      "lng": 79.1332089,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJW2WN9GI5rTsR5SKalEPfYIM",
+      "name": "Rajam Fuels",
+      "address": "W4FP+JHW, IDA Scudder Road, Sripuram, Kosapet, Vellore",
+      "lat": 12.9241166,
+      "lng": 79.1364554,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJOTrcfFg5rTsRWXnDUL1psAI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "4/4A, Nainiyappan Street, Vellore",
+      "lat": 12.930621,
+      "lng": 79.134411,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJh8DyD5I4rTsRjs-Ch9uxubQ",
+      "name": "IndianOil",
+      "address": "No S/2920, 1, IDA Scudder Road, Vellore",
+      "lat": 12.928419,
+      "lng": 79.14306599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMy-U7Bs5rTsRdpy-U88HXQ0",
+      "name": "Bharat Petroleum, Petrol Pump -Padma Auto Service&Supplies Co.",
+      "address": "BY PASS ROAD, VELLORE, VELLORE AMBEDKR",
+      "lat": 12.9452095,
+      "lng": 79.1369519,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhaAMrlNHrTsR25SGV3pMguM",
+      "name": "Indian Oil RON95 Petrol Pump -G.V.S Agencies",
+      "address": "NH4,VELLORE, VELLORE AMBEDKR",
+      "lat": 12.9465071,
+      "lng": 79.13716199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8SEbSABHrTsRmk53GajqDLM",
+      "name": "Indian Oil Petrol Pump -Sri Venkateswara Enterprises",
+      "address": "W4WP+JW6, Katpadi, Vellore",
+      "lat": 12.9465367,
+      "lng": 79.1372691,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ3dg1IgBHrTsR-em-b5dGbpM",
+      "name": "IOCL RON 95 Petrol Pump",
+      "address": "W4WP+JVP, Suthanthira Ponvizha Nagar, Mottur, Viruthampattu, Vellore",
+      "lat": 12.9465519,
+      "lng": 79.1372801,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJcwHKcog4rTsRHGzFrKGfgQg",
+      "name": "IndianOil",
+      "address": "Lock No 1277, 1131, Sathuvachari, Vellore",
+      "lat": 12.934667,
+      "lng": 79.153521,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJh4z_s2I4rTsRtw38I_AvwqU",
+      "name": "Muthu Gas Services Centre",
+      "address": "behind Rajan Medicals, 263, Regional Transport Office Road, Sathuvachari, Vellore",
+      "lat": 12.93508,
+      "lng": 79.15590999999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJSewJYTpHrTsRdRs5DFn6WZQ",
+      "name": "Shell",
+      "address": "Katpadi - Vellore Road, Vellore",
+      "lat": 12.954889,
+      "lng": 79.136917,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJs1iuUGE4rTsRn8V49t3wV-E",
+      "name": "Sathuvachari Third Stage Pump House",
+      "address": "India",
+      "lat": 12.9294838,
+      "lng": 79.1596993,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJRZBtxWhHrTsRbKy0cm5R4no",
+      "name": "IndianOil",
+      "address": "No 65, Lk No 1114 Cuddalore Chittoor Road, East Street, Gandhi Nagar, Vellore",
+      "lat": 12.959588,
+      "lng": 79.1368942,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNWKnM7NHrTsR8k3d50DzCHc",
+      "name": "Bharat Petroleum",
+      "address": "Kanchipuram - Vellore Road, Old Katpadi, Shenbakkam, Vellore",
+      "lat": 12.9651341,
+      "lng": 79.1375271,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy_gBDABHrTsRJGB26B9Fk8w",
+      "name": "Karpagam cooperative petrol bunk",
+      "address": "BUS STAND, near CHITTOR, 40, VIT Road, Bharathi Nagar, Katpadi, Vellore",
+      "lat": 12.9667329,
+      "lng": 79.1387337,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcWWmlIRHrTsRMQf76758Ghc",
+      "name": "IndianOil",
+      "address": "575/1C1575/2A575/3A, Vellore - Chittoor Road, Dharapadavedu, Vellore",
+      "lat": 12.9667532,
+      "lng": 79.1387262,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ58u6C2c5rTsRkPzzkEZ7NMg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Rangapuram, Vellore",
+      "lat": 12.9397486,
+      "lng": 79.17261359999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl69txXM4rTsRV2prxeEn_4o",
+      "name": "Kalaimagal Petrol Bunk",
+      "address": "HPC Dealers N A A, Arcot Road, Rangapuram, Sathuvachari, Chennai",
+      "lat": 12.9397585,
+      "lng": 79.17268899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmcqgIjxHrTsRsVkJI4Kpm8A",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 12.9746287,
+      "lng": 79.12804589999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ52fs3MVHrTsRnjeH4uq1fug",
+      "name": "S.P. Agencies (Aegis Autogas)",
+      "address": "X4G8+3JX, National Highway 75, Vellore",
+      "lat": 12.9752345,
+      "lng": 79.116605,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJKRLCcQBHrTsRsRS575coRhU",
+      "name": "AGP CNG Dispenser Station",
+      "address": "X593+7JR, VIT Road, Katpadi, Vellore",
+      "lat": 12.9683607,
+      "lng": 79.1540816,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJGf8p3os5rTsR0FQ03g2cBEU",
+      "name": "IndianOil",
+      "address": "Lock No 1109, NH 46, Arcot Road, Sathuvachari, Vellore",
+      "lat": 12.9415177,
+      "lng": 79.17673289999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHxYPsxNHrTsRHUDOD29PA9o",
+      "name": "Subhra Bhattacharjee",
+      "address": "D Block, Men s Hostel, VIT University, Katpadi, Vellore",
+      "lat": 12.9731811,
+      "lng": 79.1590054,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJiWYpX6pHrTsRnmRXLVAH68Y",
+      "name": "Indian gas",
+      "address": "X4PP+MH2, LF Road,arriner, Anna Nagar, Kalpudur, Katpadi, Vellore",
+      "lat": 12.98663,
+      "lng": 79.13638230000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJGXpxI7NHrTsRSGPDRX41FFc",
+      "name": "NAYARA",
+      "address": "X4RM+98X, Kalpudur, Katpadi, Vellore",
+      "lat": 12.9909875,
+      "lng": 79.1333594,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJa69D8uI3rTsR3leFAcXuXIU",
+      "name": "S P G Agencies - HP Petrol Pump",
+      "address": "NH-46, Pilliyarkuppam Perumugai, Chennai",
+      "lat": 12.9479131,
+      "lng": 79.21456859999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJr7iq-UA2rTsRrqIEvUbYNds",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Melvisharam, Nandiyalam",
+      "lat": 12.9262998,
+      "lng": 79.2646689,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJX4HsXAE4rTsRXQYvQFqA2gk",
+      "name": "IndianOil",
+      "address": "No 259, 1A/2, NH 46, Sathuvachari, Venkatapuram",
+      "lat": 12.943223,
+      "lng": 79.195503,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH8Wj_AU3rTsREVPwovXL9Q4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 46, Pilliyarkuppam, Perumugai",
+      "lat": 12.947949,
+      "lng": 79.213351,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnb0tOaE3rTsR6Ec2Z62hxXo",
+      "name": "Bharat Petroleum Petrol Pump , RAMANI SHANKAR AGENCIES",
+      "address": "ARAPAKKAM VILLAGECHENNAI - BANGALORE HIGHWAY NH 48 VELLORE, AMBEDKR",
+      "lat": 12.947148,
+      "lng": 79.217068,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs5Mki583rTsRSDCKomdjdX8",
+      "name": "IndianOil",
+      "address": "Lock No 1231/1279/61/5, St Sathuvachari, Rangapuram, Phase 14, Guruthopu",
+      "lat": 12.945545,
+      "lng": 79.2273101,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJj7wMozNHrTsRsnmIFtgn2U4",
+      "name": "IndianOil",
+      "address": "SN 228/13A228, Vellore Institute of Technolog, 14B, T Iruvalam Road, Katpadi, Brahmapuram",
+      "lat": 12.9689546,
+      "lng": 79.18502579999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5SGACABJrTsRz3kejPrnHKg",
+      "name": "Velmurugan Agencies Indian Oil petrol Bunk",
+      "address": "345, Chennai salai, Karnambut",
+      "lat": 12.9712178,
+      "lng": 79.22433529999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXysLKgA3rTsR_PyI9p0GXyM",
+      "name": "Poonjolai Nagar ranipet district, Greater Vellore City Municipal Corporation",
+      "address": "W7M5+764, Melvisharam",
+      "lat": 12.9332767,
+      "lng": 79.2591456,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJHaciCVVGrTsRDw1X5tblZaU",
+      "name": "IndianOil",
+      "address": "Lock No 1194, No 60S 236B/3B Vallimalai Rd, Pallikuppam, North, Katpadi, Vellore",
+      "lat": 12.994918,
+      "lng": 79.157112,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWbnePOBGrTsRv8VAUb_nZ60",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "S No 207/2B, Chittoor Cuddalore Road, Dharapadavedu, Katpadi, Vellore",
+      "lat": 12.992041,
+      "lng": 79.133881,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7feSHB5HrTsRztMkuYIqDDM",
+      "name": "INDIAN OIL (Sri Sugi Agencies) Petrol Pump",
+      "address": "Indian Oil, Kilthanpet, Chittoor, Main Road, Katpadi, Vellore",
+      "lat": 13.0041182,
+      "lng": 79.1303487,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpz4VNoBHrTsRGC3ur3J0axo",
+      "name": "Sri Renugambal Agencies",
+      "address": "236B, 3B, Nadumotore, Pallikuppam",
+      "lat": 12.9935011,
+      "lng": 79.1534422,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJk1maeapJrTsRXT_xX8kLFm4",
+      "name": "IndianOil",
+      "address": "Lock No 1080, Tiruvalam Koot Road, NH 4, Katpadi, Kugaiyanallore",
+      "lat": 12.995973,
+      "lng": 79.24857899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZwoDJKVJrTsRK_n62kyYVEQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 340, 1B/374/1A/375/2 NH 40, Kodukkanthangal",
+      "lat": 13.0133641,
+      "lng": 79.2220128,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_WvBK_pJrTsRqH8HlVIYKSo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Ranipet, Serkadu Road, Serkadu",
+      "lat": 13.0227357,
+      "lng": 79.2172733,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4bYkoE9IrTsRPSxHT0Q7VPo",
+      "name": "IndianOil",
+      "address": "State Highway 59",
+      "lat": 12.9814927,
+      "lng": 79.235304,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdYnK3_9IrTsR7pAtN25rcvc",
+      "name": "Akhil Travels 24x7",
+      "address": "X6WV+XX8, Kugaiyanallore",
+      "lat": 12.997411,
+      "lng": 79.24494899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJu9mRQgBJrTsRcX5hRwIqYik",
+      "name": "sk sanjai Thiruvalam",
+      "address": "149, Thiruvalam",
+      "lat": 12.980506,
+      "lng": 79.26541399999999,
+      "open_now": null
+    }
+  ]
+}

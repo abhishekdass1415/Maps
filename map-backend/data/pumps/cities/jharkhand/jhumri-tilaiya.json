@@ -1,0 +1,267 @@
+{
+  "city": "Jhumri Tilaiya",
+  "state": "Jharkhand",
+  "count": 32,
+  "center": {
+    "lat": 24.0667,
+    "lng": 86.5
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJgahgGACx9jkRoPx3fxpiW0o",
+      "name": "Prabhaditya Fuel Centre",
+      "address": "XCVR+82, Rengha",
+      "lat": 23.993266,
+      "lng": 86.44005399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTT99C5ex9jkRu9MaaueMkIA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, SH 13, Tundi",
+      "lat": 23.9873452,
+      "lng": 86.44761760000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWfuAjy-x9jkRIrDe9o3hQIo",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 23.9709384,
+      "lng": 86.49003239999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ83wpLn-t9jkRUrJ5XoaUeyg",
+      "name": "IndianOil",
+      "address": "Plot No 115P & 117P, Khata No 6, No 578, Motieda, Bhandaridih",
+      "lat": 24.056139,
+      "lng": 86.413063,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJK16q7i2x9jkRu5GQFDXl5gs",
+      "name": "IndianOil",
+      "address": "Ground Floor Lodhariya, Tundi",
+      "lat": 23.9722606,
+      "lng": 86.49553680000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGc89tRuz9jkRouwAsCqJsDE",
+      "name": "Fuel Pump",
+      "address": "Banki Kala",
+      "lat": 24.0639221,
+      "lng": 86.49033589999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJv6AFI2W39jkRGlv2BsopDSs",
+      "name": "Bharat Petroleum, Petrol Pump -Maa Kalyaneshwari Filling Station",
+      "address": "UDAIPUR ,DISTRICT DHANBAD, DHANBAD",
+      "lat": 23.9815478,
+      "lng": 86.57435919999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGR58w5K39jkR-7mq10beUjU",
+      "name": "Dey Cosmetics Center",
+      "address": "Tundi Road, Kamardi",
+      "lat": 23.9266664,
+      "lng": 86.5108662,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJcU-FeFPL9jkRFKyGB7zXMeo",
+      "name": "IndianOil",
+      "address": "Ground Floor, Narayanpur, Amdiha",
+      "lat": 24.041,
+      "lng": 86.6223,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx6kokxPL9jkRCTS5YwqU_uE",
+      "name": "Aayan Service Station",
+      "address": "2JRF+94C, Thekbahiar",
+      "lat": 24.0409331,
+      "lng": 86.6227612,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnU_-LAC19jkRsvIFXkwZdVE",
+      "name": "Indian Oil petrol pump YADUVANSHI FUELS",
+      "address": "3H7G+89M, Ramnagar",
+      "lat": 24.0633282,
+      "lng": 86.5759349,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJl5ABhybJ9jkR1A3fSITjHFM",
+      "name": "Fuel Junction",
+      "address": "MAIRANAWATAND, SHANKARDIH",
+      "lat": 23.9377808,
+      "lng": 86.60969,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC-km79u19jkR5H61taBMHKU",
+      "name": "BPCL PETROL PUMP SHREE SHYAM FUELS",
+      "address": "PANDAYDIH MORE, NARAYANPUR, Ramnagar",
+      "lat": 24.0656043,
+      "lng": 86.57890499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKQrqcADJ9jkRa6GS4xKwqv0",
+      "name": "Barharwa sa ranchi wala road",
+      "address": "WJP5+XXG, Ghosaldi",
+      "lat": 23.9374296,
+      "lng": 86.60995129999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJgS3n3zCt9jkRHt4rD6aMGNI",
+      "name": "Shiv Fuel",
+      "address": "01pandri Main Road, Giridih",
+      "lat": 24.0747451,
+      "lng": 86.38975970000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJcaYeXgCt9jkR-w42NL4G-SU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, SH 13, Pandri",
+      "lat": 24.0817656,
+      "lng": 86.3808188,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIdDdHABN8TkRc2dHGbFoDSA",
+      "name": "Maa Usha Filling Station",
+      "address": "4F4Q+X45, Vil Post, Gandey Road, Ahilapur",
+      "lat": 24.1073918,
+      "lng": 86.48785079999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvcXV6lhN8TkRe1XISC5mtHk",
+      "name": "IndianOil",
+      "address": "Ground Floor Barkitand, Ahilyapur, Gandey",
+      "lat": 24.1040518,
+      "lng": 86.4929034,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLY2Pc2i19jkR6dxlhN3p8OE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Pandeydih Road, Murlipahari",
+      "lat": 24.08309100000001,
+      "lng": 86.577118,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqSWeUx5L8TkROlVTBajGNos",
+      "name": "BPCL PETROL PUMP SHRI SHYAM AUTOMOBILES",
+      "address": "4H95+96P, Deoghar - Sarwan Road",
+      "lat": 24.118452,
+      "lng": 86.5580653,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ01D25aBT8TkRoieCmFJWnw8",
+      "name": "Indian Oil petrol pump",
+      "address": "jamtara, YADUVANSHI FUELS Ramnagar pandeydih Narayanpur",
+      "lat": 24.1358551,
+      "lng": 86.39974529999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ19bTDQBN8TkRclUNEGjFQMQ",
+      "name": "Chandan petrol mart",
+      "address": "5CHQ+RH9, Dasdih",
+      "lat": 24.1795306,
+      "lng": 86.4389904,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJiWBht2NN8TkRcrZk0fRW9sg",
+      "name": "Bharat Petroleum Petrol Pump , BABA FUEL SERVICE",
+      "address": "VILL AND PO GANDEY, Giridih",
+      "lat": 24.1882631,
+      "lng": 86.4356687,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJb4vUBDFN8TkRXxqN-3-P-cg",
+      "name": "shiv shakti fuel (Bharat petrolium)",
+      "address": "Rukotanr",
+      "lat": 24.1801643,
+      "lng": 86.4661048,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPcIIWDdM8TkR-eTKvTor9cE",
+      "name": "IndianOil",
+      "address": "Ground Floor Ahardih, Gandey,Dhobia, More",
+      "lat": 24.1799,
+      "lng": 86.4692,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBzHhMI9N8TkRl4mFehBqeAk",
+      "name": "IndianOil",
+      "address": "Khata No 8 & 9, Plot No 140 & 141, Barkitand, Mahjori",
+      "lat": 24.1951078,
+      "lng": 86.4257866,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGTrvLpBT8TkRe4WH4H4Wx98",
+      "name": "IndianOil",
+      "address": "Ground Floor Mohanpur, Giridih Tundi, Road, Karharbari",
+      "lat": 24.133651,
+      "lng": 86.354541,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ281eCgBT8TkRp-VHQhGGElw",
+      "name": "Reliance Jio Petrol Pump",
+      "address": "5924+F53, Udnabad",
+      "lat": 24.151134,
+      "lng": 86.355418,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJfwNIEwBL8TkR6kkB1smtUjs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Margomunda - Giridih Road, Jeruwa, Pandedih",
+      "lat": 24.1604316,
+      "lng": 86.5205221,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0Z7l6JpL8TkRB8mlxSdLA-U",
+      "name": "Maa tara fuels station",
+      "address": "Jeruwa, Kushmaha",
+      "lat": 24.1610339,
+      "lng": 86.5203974,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJByrAV2Y18TkRagxOnASK_C4",
+      "name": "Rah filling station, Pipra",
+      "address": "Madhupur - Margomunda Road, Patojori",
+      "lat": 24.1913668,
+      "lng": 86.6083283,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMReFGAA18TkRbSqIF1xesl8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Madhupur - Margomunda Road, Pattajori, Deoghar",
+      "lat": 24.197001,
+      "lng": 86.61142099999999,
+      "open_now": true
+    }
+  ]
+}

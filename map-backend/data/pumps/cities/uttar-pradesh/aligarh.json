@@ -1,0 +1,1131 @@
+{
+  "city": "Aligarh",
+  "state": "Uttar Pradesh",
+  "count": 140,
+  "center": {
+    "lat": 27.8974,
+    "lng": 78.088
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJE-BeCy6idDkROdIHSPaTixA",
+      "name": "Bharat Petroleum",
+      "address": "Saharanpur, SH-80, Mathura Aligrah Road, Aligarh",
+      "lat": 27.8169479,
+      "lng": 78.02944959999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC4kOw7yjdDkRuKInDa96M4I",
+      "name": "M/s Raj Kiran Indane",
+      "address": "R3V3+P3J, State Highway 80",
+      "lat": 27.8443385,
+      "lng": 78.05264700000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ6_tYRqkdDkRNCBShnsejnM",
+      "name": "Essar Petrol Pump",
+      "address": "V2MH+FWW, Bajna - Aligarh Road, Megh Vihar, Jalalpur, Aligarh",
+      "lat": 27.8837272,
+      "lng": 78.0298309,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJhTpbdm2jdDkRtOgFTYsw-hI",
+      "name": "IndianOil",
+      "address": "Hathras Road, Mandir Ka Nagla",
+      "lat": 27.852905,
+      "lng": 78.077675,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHwSQUmykdDkR1JFXCTDeLdU",
+      "name": "Bharat Petroleum, Petrol Pump - Baba Hargovind Fuel Point",
+      "address": "KOIL,ALIGARH CITY, Kanwari Ganj Road, Jalalpur, Aligarh",
+      "lat": 27.8852074,
+      "lng": 78.04596409999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWx6qr3yfdDkR6FQK4OZzFrg",
+      "name": "Essar Oil",
+      "address": "QX9M+3VH, State Highway 80, Nagla Mibhiya",
+      "lat": 27.7676835,
+      "lng": 77.9847497,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAc2bBRehdDkRgNpkiBXXTyQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Aligarh, Mathura Road, Iglas",
+      "lat": 27.80367390000001,
+      "lng": 78.0166414,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ58pWf7yjdDkRaC_r4k72J9w",
+      "name": "IndianOil",
+      "address": "Ground Floor, Agra Road, Khedia Khwaza, Bannadevi, Aligarh",
+      "lat": 27.8421734,
+      "lng": 78.05041310000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJi4Vd8JijdDkRJaBDXuiB820",
+      "name": "IndianOil",
+      "address": "Daulra Nirpal, SH-80, Mathura - Aligarh Road, Aligarh",
+      "lat": 27.8506,
+      "lng": 78.0572,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhZQDPS-hdDkRINNqkIQ9dcg",
+      "name": "IndianOil",
+      "address": "Ground Floor Aisi, Kol, Akbarpur, Lodha",
+      "lat": 27.8555899,
+      "lng": 77.98081300000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJW13D15ijdDkRrl8tofPF5GU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Sanskar City, Daultabad",
+      "lat": 27.8515106,
+      "lng": 78.0588832,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHZrk-wCjdDkRC5nLO-QNTUo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Blk Lodha, NH 34, GT Rd, Kutubpur, Shahpur, Aligarh",
+      "lat": 27.86878,
+      "lng": 78.03506,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcfy7GeSjdDkRE9QorBG3eNM",
+      "name": "Madan dharam kanta (madan)",
+      "address": "V328+74W, Hajipur Chauhatta, Aligarh",
+      "lat": 27.8507476,
+      "lng": 78.0653263,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ32_Lc5yjdDkRHD0Q6Z9drxo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Koil, Gonda Road, Makhdum Nagar, Aligarh",
+      "lat": 27.869601,
+      "lng": 78.044001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQ0ow5g2ldDkRyVEf3tEHHgQ",
+      "name": "Essar Petrol - M S Filling Station",
+      "address": "V2GH+86H, Essar patrol tanki ke brabar gali Mama ki dukan",
+      "lat": 27.8758001,
+      "lng": 78.028114,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZeX3ywWkdDkRqa0QP68M9KM",
+      "name": "NAYARA",
+      "address": "India",
+      "lat": 27.8759533,
+      "lng": 78.02840929999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJmzsmQ52jdDkR_1tJ2b-0Hlc",
+      "name": "Kamlesh Oil Company-ESSAR Petrol Pump",
+      "address": "V357+QQM, Laxmi Nagar, Sasni Gate, Daultabad",
+      "lat": 27.8594566,
+      "lng": 78.0644317,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgR203GKjdDkR6BApvxPmygw",
+      "name": "Riddi 24×7 Yuria [Add Blue]PAMP Station",
+      "address": "cut haiway, Ali Nagar, Aligarh",
+      "lat": 27.8677547,
+      "lng": 78.05841749999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ8-GvRwCjdDkRhC1WtMQhkho",
+      "name": "Vashistha HP filling station",
+      "address": "R3XG+J67, Mandir Ka Nagla",
+      "lat": 27.8490453,
+      "lng": 78.0755339,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ4XFiWnijdDkRpOBAXVc-kEY",
+      "name": "RS POWER",
+      "address": "India",
+      "lat": 27.8633,
+      "lng": 78.0672731,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJcZV8qtWjdDkR2C_do4wp2A8",
+      "name": "PARASHAR FILLING STATION ( INDIAN OIL)",
+      "address": "Agra Road, Brahampuri, Mukundpur",
+      "lat": 27.83017499999999,
+      "lng": 78.08207999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLcythG2jdDkRJcBrTaE2oEk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Infront of Rusa Medical Centre, Pala Sahibabad, Agra Road, RK Puram, Aligarh",
+      "lat": 27.853608,
+      "lng": 78.077375,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJv3fie4qjdDkR_BK9Gf9ATn4",
+      "name": "Nayara Petrol Pump - Hindustan Filling Station",
+      "address": "Bhujpura, Turkman Gate, Aligarh",
+      "lat": 27.8725776,
+      "lng": 78.0607055,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFRG_EwCldDkRxUtH2okBU0g",
+      "name": "Indian Gas agency",
+      "address": "V2QH+MRF, Khair - Aligarh Road, Wajidpur Nada, Aligarh",
+      "lat": 27.8885919,
+      "lng": 78.0298332,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJOWU6QROkdDkRsQoaU33eCS4",
+      "name": "Yash fuel centre",
+      "address": "V2PR+GGJ, Prem Vihar, Jalalpur, Aligarh",
+      "lat": 27.8863324,
+      "lng": 78.04125069999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-6te3j6kdDkRFNKzGtehXDw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Tata Dharam Kanta, Khair - Aligarh Road, Aligarh",
+      "lat": 27.8884193,
+      "lng": 78.03404929999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnaPquU6ldDkR7-19AARk5YI",
+      "name": "IndianOil",
+      "address": "2/2, Khair - Aligarh Road, Bannadevi, Aligarh",
+      "lat": 27.89130609999999,
+      "lng": 78.0270646,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq8m-kBikdDkR08aOpGJc_LU",
+      "name": "IndianOil",
+      "address": "2/2, Khair - Aligarh Road, Bannadevi, Aligarh",
+      "lat": 27.89130609999999,
+      "lng": 78.0270646,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJA8Ki2O6ldDkRde3YwgAuLaI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Chauraha, Nadda, Ashrafpur Jalal",
+      "lat": 27.8914176,
+      "lng": 78.0321194,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCe8v_5WfdDkRCrECH512bWY",
+      "name": "GAYATRI AUTOMOBILES,NAYARA ENERGY,PETROL PUMP",
+      "address": "near Mohraini, Village, Nagla Mishria, turning, Hastpur Chandfari",
+      "lat": 27.7676785,
+      "lng": 77.98475049999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLYJzZACldDkRmUhZQYrVS4E",
+      "name": "Indian cng pumb",
+      "address": "V2VM+4HV, near cng pump, Khair Bypass, Ram Nagar, Jalalpur, Aligarh",
+      "lat": 27.892918,
+      "lng": 78.0342795,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJC4JjnjKldDkRe2CFXuicIXA",
+      "name": "Indian Oil CNG Station",
+      "address": "V2RP+RPV, Chauraha, Khair Bypass, Nadda, Aligarh",
+      "lat": 27.8931076,
+      "lng": 78.034198,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJka_gGWOkdDkRLVU4RaWjwtU",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 27.8852781,
+      "lng": 78.0616694,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ48TPUqandDkRw3HnX8mdwMg",
+      "name": "Radha Raman filling point",
+      "address": "V2W4+XR5, Aligarh",
+      "lat": 27.8965847,
+      "lng": 78.0071414,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ6_opa--ndDkR3ys8rofScjk",
+      "name": "M/s Shri Ramchandra Singh Filling Station",
+      "address": "Luosara visawan, Aligarh",
+      "lat": 27.8968189,
+      "lng": 78.00516689999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJX7QFEG6ndDkRf-22H-p1DKk",
+      "name": "IndianOil",
+      "address": "Ground Floor, Aligarh Palwal Road Kol, Lohsara Bisawan, Akravat",
+      "lat": 27.8971925,
+      "lng": 78.00574639999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjZ2CJoOkdDkRNryhp5DmN_Q",
+      "name": "IndianOil",
+      "address": "Hathras Adda, Mahendra Nagar, Aligarh",
+      "lat": 27.87655659999999,
+      "lng": 78.0756644,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2_oNE4ikdDkRrXFKjwjMHtg",
+      "name": "Nayara Petrol Pump Radha Madhav Filling Station",
+      "address": "V3M8+XH2, Uday Singh Jain Road, Barahdwari, Aligarh",
+      "lat": 27.8848968,
+      "lng": 78.066391,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfWwvZwCldDkReX9OYOWfQgQ",
+      "name": "Gular Road",
+      "address": "5/351, Gular Road, New Ashok Nagar, Aligarh",
+      "lat": 27.887255,
+      "lng": 78.0625883,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ0ftlvmGkdDkRH2aOa0ZiatE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Plot No 5/689, Gular Road, Aligarh",
+      "lat": 27.887929,
+      "lng": 78.061754,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfTxYbIikdDkRs-Nc9Yr_St0",
+      "name": "ESSAR",
+      "address": "V3M8+XPM, Uday Singh Jain Road, Gudiya Bagh, Aligarh",
+      "lat": 27.8849501,
+      "lng": 78.0668046,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ0_Y2fKekdDkRTETUB_CCkVE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 91, Etah Chungi, Aligarh",
+      "lat": 27.8753193,
+      "lng": 78.0962168,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSRZn76CkdDkR2x-y4B8Ecz0",
+      "name": "IndianOil",
+      "address": "Ground Floor, Road, Aligarh",
+      "lat": 27.876811,
+      "lng": 78.09190100000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRZ_7_I6kdDkRi3zWsDldjBI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Kavar Kutta, GT Road, Aligarh",
+      "lat": 27.887601,
+      "lng": 78.073201,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJT1GOUWuYdDkR6doULTpsyYA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Mangalayatan Temple, Susayat Khurd",
+      "lat": 27.76389499999999,
+      "lng": 78.087572,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIbe0igSjdDkR3D09zgZ6Zpw",
+      "name": "MAHAJAN GAS TRADERS",
+      "address": "R4P5+HF8, Isanpur, Agra",
+      "lat": 27.8364168,
+      "lng": 78.1086892,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJE9M2ii2jdDkR-LuaXH8fvpY",
+      "name": "IndianOil",
+      "address": "Ground Floor Etah Agra Bypass Rd, Ishanpur, Bannadevi, Aligarh",
+      "lat": 27.841201,
+      "lng": 78.106901,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx8d7xMq8dDkR6jMkVUfQDCs",
+      "name": "ESSAR",
+      "address": "India",
+      "lat": 27.8513385,
+      "lng": 78.1118699,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJw9ETlZmjdDkR1MUa5bV8B5U",
+      "name": "IndianOil",
+      "address": "near Dhanipur, No 799/2, Grand Trunk Road, Aligarh",
+      "lat": 27.872206,
+      "lng": 78.10434099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmSRDOkeldDkRE_NWzsGf9SI",
+      "name": "Jeevesh Shivaji",
+      "address": "Chhawani Road, Flight, Naurangabad, Nagla Pala",
+      "lat": 27.8756454,
+      "lng": 78.08681039999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJY3DcIh29dDkRr9mu7nxRLU0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Bonair Etah Road, NH 91, Grand Trunk Road, Aligarh",
+      "lat": 27.8642546,
+      "lng": 78.1256867,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm15_Y2eZdDkRbA_ZYSK1LaI",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 509, Old NH 93, KM 1657 Sahpur Madrak, Kol, Basai Kazi",
+      "lat": 27.7757121,
+      "lng": 78.08505260000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJf2OPI4WkdDkRerbY-btb_cM",
+      "name": "GAUTAM SERVICE STATION",
+      "address": "दुबे का पड़ाव, जी.टी. रोड, अलीगढ",
+      "lat": 27.88236809999999,
+      "lng": 78.0755039,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJPY1SkZO8dDkRUHqSuL-9JGA",
+      "name": "Bharat Petroleum, Petrol Pump -Durga Automobiles",
+      "address": "BONER,ALIGARH",
+      "lat": 27.8596616,
+      "lng": 78.1403586,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKVs9NACXdDkRYODjSVTfD4s",
+      "name": "Pali rajapur",
+      "address": "Q4H9+6MW, Pali Razapur",
+      "lat": 27.7781174,
+      "lng": 78.1192112,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_85tdvuXdDkRbCS26RxP50A",
+      "name": "Bharat Petroleum",
+      "address": "Q4H9+4QX, Madrak Road, Bhopatpur",
+      "lat": 27.7778565,
+      "lng": 78.1194901,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJjbVy16-kdDkRZnzC5z-4qqQ",
+      "name": "IndianOil",
+      "address": "Koel, Etah, Chungi Bypass Road, Quarsi, Aligarh",
+      "lat": 27.886805,
+      "lng": 78.10161599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGT27_ZCkdDkRyGXF1qDhkyA",
+      "name": "HP Petrol Pump - Naurangrai Jain & Sons",
+      "address": "Ground Floor, Ramghat Road, New Vishnupuri, Aligarh",
+      "lat": 27.8879618,
+      "lng": 78.0800649,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRSaGwoikdDkR1W-qaFANmf4",
+      "name": "Jai Ram & Sons",
+      "address": "Bans Godown, Sarai Hakeem, Aligarh",
+      "lat": 27.8862351,
+      "lng": 78.06951579999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6SPCCAC7dDkRx0n1JZWcEbg",
+      "name": "GRS FILLING STATION",
+      "address": "V4HF+J76, Ozone Road",
+      "lat": 27.8798037,
+      "lng": 78.12369749999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9___SIikdDkRGRqFP_ciF84",
+      "name": "Kilat Ganj Aligarh",
+      "address": "V3P8+GPM, Shivpuri Road, Patthar Bazar, Aligarh",
+      "lat": 27.8863436,
+      "lng": 78.0667978,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZbS9GgC9dDkRYEYLNCcqtsE",
+      "name": "Vivek Motors (D.E.F) Uriya",
+      "address": "V542+9F5, Kishan Garhi",
+      "lat": 27.8558993,
+      "lng": 78.1512337,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJDwer0dqldDkRFUuaVNzArCk",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Malviya Putakalaya, Raavan Teela Road, Malgodam, Aligarh",
+      "lat": 27.8904897,
+      "lng": 78.0728173,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoZ0ofJOkdDkRVFlkxtg7la0",
+      "name": "IndianOil",
+      "address": "Ground Floor, Marris Road, Aligarh",
+      "lat": 27.894243,
+      "lng": 78.08217599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjy_f6IqkdDkR_gBND41ySDo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, GT Road, Sarai Rehman, Aligarh",
+      "lat": 27.893745,
+      "lng": 78.0671322,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ80HeDYuldDkR8j114QF3YbI",
+      "name": "Bharat Petroleum, Petrol Pump -Uma Automobiles",
+      "address": "Ramghat Road, Phase 1, ADA Colony, Aligarh",
+      "lat": 27.8966906,
+      "lng": 78.092212,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUz0regCldDkRnAX0QvnoqU4",
+      "name": "Mahavir Filling Station Nahroi Hathras",
+      "address": "V3WQ+X62, Aligarh - Kanpur Road, Nahroi, Agra",
+      "lat": 27.8973944,
+      "lng": 78.0880129,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJCapYG1y8dDkR-rP3uKKkDPE",
+      "name": "Jio-bp",
+      "address": "No 202, Kh No 5/2, Purani Subzi Mandi Sashi, Maha Maya Ngr, Koal, Aligarh",
+      "lat": 27.8527402,
+      "lng": 78.1624176,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKyOi5qSldDkR-Ks3Jw6Rhcw",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kayam Byepass Rd, Asadpur Kayam, Aligarh",
+      "lat": 27.89575529999999,
+      "lng": 78.1087323,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsdZIlvOkdDkRj7BbOh3RGR8",
+      "name": "Narottam Motor & Engg. Works",
+      "address": "opposite Head Post Office, near Tasvir Mahal, Civil Lines, Aligarh",
+      "lat": 27.8976556,
+      "lng": 78.0740002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdRvaxbW7dDkRA3iibSqe0Lg",
+      "name": "Sangwan Filling Station",
+      "address": "Sangwan City Road, Aligarh",
+      "lat": 27.8920027,
+      "lng": 78.1224405,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuwLllki8dDkRM180qCHuIXc",
+      "name": "Essar - Dev Filling Station",
+      "address": "Panaithi, Aligarh, NH-91, Aligrah Kanpur Road, Aligarh, Aligarh",
+      "lat": 27.8463,
+      "lng": 78.17519999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJk_mgkDa8dDkRL_O6-UNs1eE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor 145, Km Stone, near Sahore Drain, Grand Trunk Road, Panaithi",
+      "lat": 27.84287429999999,
+      "lng": 78.1830858,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJReBfW6m_dDkRQscVonWPv50",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 91, Bannadevi, Jasrathpur",
+      "lat": 27.8327219,
+      "lng": 78.2057667,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJn9PUDfu9dDkRhvkOK2C_CDo",
+      "name": "BPCL- Pavitra Devi fuel station",
+      "address": "Khasra No. 127, Panethi, Gangiri Road, Aligarh",
+      "lat": 27.8543557,
+      "lng": 78.2008309,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ980hTzWXdDkR7gtUk0sfVLg",
+      "name": "Sima Devi Petrol Pump",
+      "address": "near by Parrori, 101, Aligarh",
+      "lat": 27.7651039,
+      "lng": 78.1758265,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJIYvj4Hi_dDkRvWs8haA4Z3w",
+      "name": "Anupam kisan seva kendra Petrol pump",
+      "address": "Nanau, to, sasni Road, Aligarh",
+      "lat": 27.7992722,
+      "lng": 78.224398,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJwzH4IriXdDkRToyhqFrvb8Y",
+      "name": "RAKESH SIKARWAR PETROL PUMP",
+      "address": "Veghapur Sassi Hatteras, Road, Sasni",
+      "lat": 27.7655889,
+      "lng": 78.1343247,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJf2BA8Nq_dDkRCsxmm5E2_U4",
+      "name": "IndianOil",
+      "address": "Raipur Koil, Sasni Road, Nanau",
+      "lat": 27.80106899999999,
+      "lng": 78.2265309,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_VOZWjSkdDkRN_v6AgbYTfA",
+      "name": "IndianOil",
+      "address": "No 804/4, Soot Mill, Raavan Teela Road, Aligarh",
+      "lat": 27.912762,
+      "lng": 78.038857,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXwqqbk-kdDkR9k9tPx3Szkk",
+      "name": "Roadways Bus Gas Filling Station",
+      "address": "115, G-9, Baraula Bypass, Sarvoday Nagar, Kundan Nagar, Chauhapur, Aligarh",
+      "lat": 27.90668589999999,
+      "lng": 78.0498757,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJiSPoi1ykdDkRXvXRajolZXo",
+      "name": "IndianOil",
+      "address": "Ground Floor, World Bank Colony, Bannadevi, Aligarh",
+      "lat": 27.899086,
+      "lng": 78.056221,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPZL1LFykdDkRnj0KUtod5WM",
+      "name": "Shree Nath Indane Gas Sewa",
+      "address": "Ismail Manzil, GT Road, Bannadevi, Aligarh",
+      "lat": 27.8979019,
+      "lng": 78.05893449999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ65PclPOkdDkRpN3vkj4cKGo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, opposite Head Post Office, Civil Lines, Aligarh",
+      "lat": 27.8998462,
+      "lng": 78.0722195,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg6rbbACldDkRq-PSh2NGa2I",
+      "name": "Dheeraj Pradhan Energy center",
+      "address": "V2XQ+2PR, near Gagan public school, Khair Bypass, Aligarh",
+      "lat": 27.8976209,
+      "lng": 78.0392684,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJd4f0JD-kdDkRf_BCVIu_F5E",
+      "name": "Bharat Petroleum, Petrol Pump -J. P. Filling Station",
+      "address": "ALAPUR GARIA,, Aligarh",
+      "lat": 27.8979959,
+      "lng": 78.0400137,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvadLz6ildDkR8km50RfN_DA",
+      "name": "IndianOil",
+      "address": "Soot Mill, Chrauhagt Road, Aligarh",
+      "lat": 27.911488,
+      "lng": 78.039444,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJu2G93TWkdDkRXEh6Uat1v2I",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Koil, near Sootmil Chauraha, GT Road, Aligarh",
+      "lat": 27.9109436,
+      "lng": 78.04082679999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9U02HzakdDkR9cKYNodrNM8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Koil Near, Sootmil Chauraha, Aligarh",
+      "lat": 27.909301,
+      "lng": 78.042001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ64bIPQCldDkRWQ9eTcmUlVA",
+      "name": "Tej Filling Station",
+      "address": "W26R+F83, GT Road, Sarsaul",
+      "lat": 27.9111349,
+      "lng": 78.0408085,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJkXSaIDakdDkRO6SQObImqyw",
+      "name": "IndianOil",
+      "address": "Ground Floor, Delhi Road, Aligarh",
+      "lat": 27.909051,
+      "lng": 78.042389,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLQKrv9indDkRyahT8utDAyI",
+      "name": "S.D.FILLING POINT - NAYARA ENERGY PETROL PUMP",
+      "address": "Village Lodha, Khair Road, Aligarh",
+      "lat": 27.9019288,
+      "lng": 77.9894948,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo0RN1-aldDkRDBeFROciNio",
+      "name": "M/s shyam sunder mittal",
+      "address": "W23W+9M9, Ramghat road, Aligarh",
+      "lat": 27.9034015,
+      "lng": 78.0467496,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJP5oa_dGldDkRh9Y-5jLsqzU",
+      "name": "Reliance Petroleum",
+      "address": "Khata No 37, Khasra No 149, Industrial Estate, Koal, Bhikampur",
+      "lat": 27.921723,
+      "lng": 78.03052699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJE0TBfACldDkRvIIhxg7zV5c",
+      "name": "Jio BP Petrol Pump",
+      "address": "near Royal Residency, 2a, GT Road, Lekhrajpur, Aligarh",
+      "lat": 27.9217914,
+      "lng": 78.0307703,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ9Y-gbgCldDkRWXcTeGShy70",
+      "name": "Kaka Dhram Kata",
+      "address": "W2FJ+2F5, Sarsol, Aligarh",
+      "lat": 27.9225074,
+      "lng": 78.031223,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJlUjFnRuldDkR0OhSUmGRWtQ",
+      "name": "Bharat Petroleum Petrol Pump , GIRRAJ FUEL POINT",
+      "address": "VARDAN MANDAP NEAR RTO OFFICE",
+      "lat": 27.9032996,
+      "lng": 78.05062099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ77gPeNqldDkRpdUTgoBtaaI",
+      "name": "IndianOil",
+      "address": "opposite Darshan Oil Mill, 6th Milestone, Delhi Road, Farrukhabad",
+      "lat": 27.9267488,
+      "lng": 78.0276162,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQc_R596ldDkREHYjIAkYq94",
+      "name": "Bharat Petroleum",
+      "address": "W2MF+F6J, GT Road, Sikandarpur Bhuarawali",
+      "lat": 27.9337049,
+      "lng": 78.0230084,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJV1YTWwCldDkRteO97EipJyQ",
+      "name": "H P Petrol Pump(Tasveer Mahal)",
+      "address": "Stat Highway 29, Fuller Road, Aligarh",
+      "lat": 27.9007809,
+      "lng": 78.0714714,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJI19Z6GqldDkRXXR3dTc3TPs",
+      "name": "IndianOil",
+      "address": "Khasra No 131134 & 136, Maheshpur, Manjur Garhi, Aligarh",
+      "lat": 27.94511719999999,
+      "lng": 78.08576479999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOcJdme-6dDkRtaTr9qLJ1YE",
+      "name": "Paras HP Petrol Pump",
+      "address": "W4QV+532, Ramghat Road, Sector 1, Talanagri, Talashpur, Harduaganj Dehat",
+      "lat": 27.9378867,
+      "lng": 78.1426299,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ3VkIPsekdDkRJ3H0f9f3Y74",
+      "name": "IndianOil",
+      "address": "Site 3/9B, Beedha Nagargt Road, Ramghat Road, Vikram Colony, Aligarh",
+      "lat": 27.8998108,
+      "lng": 78.0950981,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrUyS046ldDkR8zJzDLKH7Vo",
+      "name": "Rahim Husain",
+      "address": "Jeevangarh, Pulia, Aligarh",
+      "lat": 27.9125737,
+      "lng": 78.0977834,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJO52HT96kdDkRElL7WlO7Xk8",
+      "name": "University Petrol Pump, A.M.U.",
+      "address": "AMU Campus, Aligarh",
+      "lat": 27.91702639999999,
+      "lng": 78.0900485,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJJ3hiIQCldDkRxQx3ObnGKLY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Quarsi Bypass Road, Dhorra, Dhourra Mafi, Aligarh",
+      "lat": 27.916838,
+      "lng": 78.096587,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-9Wxg82kdDkRHPDrCsPYQXU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Ramghat Road, Quarsi, Aligarh",
+      "lat": 27.91000099999999,
+      "lng": 78.107801,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS9DkHwCldDkRyfmuZgmVWIc",
+      "name": "CITY ENERGY STATION",
+      "address": "W3FP+63V, Dhaurra Mafi",
+      "lat": 27.9231159,
+      "lng": 78.0851607,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJgxteEACldDkRTERxJ-aA4b4",
+      "name": "Hindustan Coal Traders",
+      "address": "4/28, Sherwani Hall Road, Aligarh",
+      "lat": 27.9262914,
+      "lng": 78.0765334,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ6Xj5PLmldDkRJAG7bwI0MQ0",
+      "name": "IndianOil",
+      "address": "Ground Floor kol, near Lifestyle Mall, Quarsi Byepass Rd, Dhourra Mafi, Aligarh",
+      "lat": 27.9295006,
+      "lng": 78.088707,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5wy_hhCldDkR0AMyd3oJzt0",
+      "name": "Jamalpur Petrol Pump",
+      "address": "D, Mahek Street, 4/778, Hamdard Nagar, Jamalpur, Aligarh",
+      "lat": 27.931735,
+      "lng": 78.07972939999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJG4gykxGldDkRlNtgRuxz0c4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Anoop Shahar Road, Hamdard Nagar, Jamalpur, Aligarh",
+      "lat": 27.9317754,
+      "lng": 78.0796914,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfzrQ6yi7dDkRSMPQL8b6f3g",
+      "name": "IndianOil",
+      "address": "Plot No 167, Autroli Road, Talashpur, Aligarh",
+      "lat": 27.919221,
+      "lng": 78.12050099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJk324jqW7dDkRSTP-eeQbnls",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gata No 18, Panethi, Sadhu Ashram Road, Koil, Barkatpur",
+      "lat": 27.903896,
+      "lng": 78.178794,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe92-khq7dDkRenhhzydTDuU",
+      "name": "Bharat Petroleum, Petrol Pump -Shahid Kanchi Singh Filling Station",
+      "address": "Ramghat Road, Aligarh",
+      "lat": 27.9298576,
+      "lng": 78.1333021,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcRhTotm7dDkRrQoyJ1Bylf4",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 27.91610769999999,
+      "lng": 78.1979374,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJadi7ku-6dDkR53ApOc8167Y",
+      "name": "Vardhman Fuel Point",
+      "address": "Ramghat Road, Sector 2, Talanagri, Harduaganj Dehat",
+      "lat": 27.9378227,
+      "lng": 78.1436216,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJR7IbyUG5dDkRFh2H_N4zEoc",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bhudasi, Jalali Rd, Barotha, Harduaganj",
+      "lat": 27.9064787,
+      "lng": 78.20620079999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnQvpt_G6dDkRQ7-xwoSMqEQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Ramghat Road, Harduaganj",
+      "lat": 27.9406464,
+      "lng": 78.14652760000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhUPFCPG6dDkRF-La4goaNNs",
+      "name": "Arvind Automobiles",
+      "address": "W4RX+C74, Ramghat Road, Harduaganj",
+      "lat": 27.941,
+      "lng": 78.1482,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJQU7QkTm7dDkR8EhxEFOF_rQ",
+      "name": "IndianOil",
+      "address": "Ground Floor Atrauli, Main Road, Harduaganj, Aligarh, Barotha",
+      "lat": 27.943439,
+      "lng": 78.150201,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwX3jAqeodDkRkm3H15l6w8A",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 91, Aligarh Ghaziabad Road, Bharatri",
+      "lat": 27.962062,
+      "lng": 78.00458499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJecULklmvdDkRP3E0r9GDUIk",
+      "name": "Police chowki amrouli",
+      "address": "X3Q3+MVV, Barauli Road, Amrauli",
+      "lat": 27.989234,
+      "lng": 78.0546729,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJhTiQGqSpdDkRApoiAdjucZs",
+      "name": "VSN CNG Energy - Indian Oil Adani Gas",
+      "address": "Village Palla Sallu, Gabhana, NH 34, Aligarh",
+      "lat": 27.9958332,
+      "lng": 77.9855314,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJW4fgx-SodDkRyXwh27iB_24",
+      "name": "Bharat Petroleum, Petrol Pump -Jadhons Fuel Point",
+      "address": "GABHANA, Aligarh",
+      "lat": 27.9965233,
+      "lng": 77.9859611,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPfnBGqKvdDkRcSbETcZDMq0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Pala Majra Kastari Vaishya",
+      "lat": 27.999871,
+      "lng": 78.054934,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ60ScNgCpdDkRO3ZQFgTPWD8",
+      "name": "Rishabh",
+      "address": "XX76+GRW, Sujapur",
+      "lat": 27.9638708,
+      "lng": 77.96208659999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJDTzKuAqldDkRaqYwgBw1gpo",
+      "name": "Nayara petrol pump",
+      "address": "W3R8+6JR, Ramgarh Panjipur Bypass Road, Manjoor Garhi",
+      "lat": 27.94062,
+      "lng": 78.0665235,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlznGVQCvdDkR3Qk6inFBhbc",
+      "name": "Petrol Pump",
+      "address": "2353+4G, Pala Majra Kastari Vaishya",
+      "lat": 28.0078316,
+      "lng": 78.0538045,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ8YNijAqpdDkRDcb-NHNCf6A",
+      "name": "Reliance",
+      "address": "India",
+      "lat": 28.0233709,
+      "lng": 77.9748164,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJgXqFphmwdDkRcc57EkH-ooY",
+      "name": "BPS AUTOMOBILE Bharat Petroleum",
+      "address": "India",
+      "lat": 27.9886614,
+      "lng": 78.1196969,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJL2i21qSvdDkRWay5l32N1XU",
+      "name": "Nayara Petrol Pump - Indu Aseem Filling Station",
+      "address": "2434+MC6, Anupshahr - Aligarh Road, Aligarh",
+      "lat": 28.0041572,
+      "lng": 78.1060036,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8U7bo0CwdDkR1_dbipDCDxQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Kasimpur Road, Koil, Aligarh",
+      "lat": 27.998168,
+      "lng": 78.134176,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhzlcwbqvdDkRPoTu9f19Ev0",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sumera, Jawan, Barauli Rd, Baraula, Sunana",
+      "lat": 28.0361329,
+      "lng": 78.089052,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq6qq-gm6dDkRJ-wFGVl-ZtQ",
+      "name": "JAY FILLING STATION, NAYARA PETROL PUMP",
+      "address": "X5CP+QVV, Safedpura",
+      "lat": 27.9719958,
+      "lng": 78.18717099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpduUt_G6dDkRBDLumhFFqXo",
+      "name": "IndianOil",
+      "address": "Ground Floor, Ramghat Road, Narauna, Barotha",
+      "lat": 27.995969,
+      "lng": 78.22754719999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ54IjaQ67dDkRxf0rzDoYH7Y",
+      "name": "Bharat petrolium filling station - monika enterprises",
+      "address": "Ramghat Road, Gwalra",
+      "lat": 27.96787280000001,
+      "lng": 78.1816386,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJf8sZSyy7dDkRiNO2M_ebRFI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Ramghat Road, Gwalra",
+      "lat": 27.968059,
+      "lng": 78.182495,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl11LZ2-7dDkRspmBU-43VOE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Ramghat Road, Gwalra",
+      "lat": 27.968059,
+      "lng": 78.182495,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCVvPuGm3dDkR6P6YJjL1obU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Atrauli, Ramghat Road, Narona Akapur, Aligarh",
+      "lat": 27.993998,
+      "lng": 78.22645399999999,
+      "open_now": true
+    }
+  ]
+}

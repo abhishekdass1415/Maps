@@ -1,0 +1,2491 @@
+{
+  "city": "Lucknow",
+  "state": "Uttar Pradesh",
+  "count": 310,
+  "center": {
+    "lat": 26.8467,
+    "lng": 80.9462
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJp_oml63-mzkRt88UwgvnEYY",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kanpur - Lucknow Road, Krishna Nagar, Lucknow",
+      "lat": 26.7893974,
+      "lng": 80.8889226,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLxmciRb5mzkRM8kUBGpGqss",
+      "name": "IndianOil",
+      "address": "Kanpur Road Amausi, Sarojini Nagar, Lucknow",
+      "lat": 26.757874,
+      "lng": 80.870155,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdVzVyk35mzkR8vdT79KaEJg",
+      "name": "IndianOil",
+      "address": "Kanpur Road, Transport Nagar, Lucknow",
+      "lat": 26.780892,
+      "lng": 80.884873,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB_0sOQb9mzkRF_gVfZ8VE8M",
+      "name": "HINDUSTAN PETROLIUM GAS AGENCY",
+      "address": "NH25 Near Awadh Timber House Gouri Bazar Sarojini Nagar, Lucknow",
+      "lat": 26.7459746,
+      "lng": 80.86274039999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJHRvTqzj5mzkRqAWXA3OK7iE",
+      "name": "EDS International Pvt Ltd",
+      "address": "Junaids Communication, Amaosi AirPort, Airport, Kanpur - Lucknow Road, Amausi, Lucknow",
+      "lat": 26.76764,
+      "lng": 80.87634,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ-Rs4bqf-mzkRM169hoHXt7Y",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Avadh Hospital Chauraha, VIP Road, Lucknow",
+      "lat": 26.8009415,
+      "lng": 80.8988226,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_RQKAyD8mzkR5sOYnL3fVgA",
+      "name": "Hindustan Petroleum",
+      "address": "555CHA/182, Ram Nagar, Alambagh, Lucknow",
+      "lat": 26.8099171,
+      "lng": 80.8991735,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWSfdHw78mzkRngXKU_JLhuc",
+      "name": "Bharat Petroleum Petrol Pump , BP ASHIANA",
+      "address": "Aashiyana Chauraha, Pakri Ka Pul, Lucknow",
+      "lat": 26.7988687,
+      "lng": 80.91409329999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ46g2cyT8mzkRGu89O6ig8L4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Kanpur Road, Alambagh, Lucknow",
+      "lat": 26.8165011,
+      "lng": 80.9054256,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ89e4DHb7mzkRvmA9soe7-uQ",
+      "name": "M/S R.K. Awasthi Bharat Petroleum Corporation Ltd.",
+      "address": "184, Raibareli Road, Senani Vihar, Sainik Nagar, Telibagh, Lucknow",
+      "lat": 26.7720916,
+      "lng": 80.9440771,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm7PfYnD7mzkRrLuNezo4Mu8",
+      "name": "Green Gas Limited CNG Station",
+      "address": "6A, CNG pump, 750, Babhnan Basti, Vrindavan Colony, Lucknow",
+      "lat": 26.77715890000001,
+      "lng": 80.9512219,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLSBEiowFnzkRSrOJ86z820Q",
+      "name": "IndianOil",
+      "address": "Ground Floor, Talkatora Road, Lucknow",
+      "lat": 26.8429585,
+      "lng": 80.8950129,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs0vkGj_5mzkRnUlZCOOm_Xc",
+      "name": "Green Gas Limited CNG Station",
+      "address": "QV8F+2Q6, Amausi, NH 25, Alambagh, Lucknow",
+      "lat": 26.7650435,
+      "lng": 80.8744044,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKQhoZgD5mzkRIiRA5cmvhWw",
+      "name": "Ashwin Urja HPCL Petrol Pump",
+      "address": "Bag no 2, Main, Kanpur - Lucknow Road, Behsa, Amausi, Lucknow",
+      "lat": 26.7751923,
+      "lng": 80.8814536,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbU-EfDj5mzkR0bmYy07P4Q0",
+      "name": "Sri Nath Ji Gas",
+      "address": "QVCG+695, Kanpur - Lucknow Road, Nadarganj, Vijayanagar Colony, Lucknow",
+      "lat": 26.7705007,
+      "lng": 80.8759802,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJO8bSLUz5mzkRlCtC3B_7LaM",
+      "name": "Marshal Diesel Service",
+      "address": "QVJM+2RC, National Highway 25, Transport Nagar, Lucknow",
+      "lat": 26.780066,
+      "lng": 80.884511,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJgxoKDk35mzkRGoEHycAw-e4",
+      "name": "Shri Filing Station and LPG station",
+      "address": "T.P. Nagar, Kanpur Road, Opp. P.A.C. Ground, T.P. Nagar, Hindnagar Colony, Transport Nagar, Lucknow",
+      "lat": 26.7828441,
+      "lng": 80.8856057,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZb_vQ2T5mzkR9AkIYYcCdXE",
+      "name": "Rajawat industries pvt Ltd",
+      "address": "phoenix United mall, Near, Lucknow",
+      "lat": 26.76532109999999,
+      "lng": 80.87500849999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJE6XotlH5mzkREF16f9h6khQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No C, 35, Kanpur Road, Transport Nagar, Lucknow",
+      "lat": 26.777399,
+      "lng": 80.8892106,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFXFobCT5mzkRXku3obQF3s4",
+      "name": "LUCKNOW TERMINAL GAIL INDIA LTD",
+      "address": "QV98+7P8, Nadarganj, Amausi, Lucknow",
+      "lat": 26.7681532,
+      "lng": 80.8668369,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJqYh6dD_5mzkRGOT83Ch-DHU",
+      "name": "Reliance Aviation Fuelling Station",
+      "address": "QV7G+V49, Badali Kheda, Sector-13 Vikas Nagar, Amausi, Lucknow",
+      "lat": 26.7646525,
+      "lng": 80.87535059999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ56Y2Dz_5mzkROHBQQ7N-tAQ",
+      "name": "City Gate Station",
+      "address": "QV7F+VR7, Kanpur Road, Kanpur Road, Nadar Gunj Tempo Stand, Nadarganj, Lucknow",
+      "lat": 26.76466,
+      "lng": 80.87455,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJp20jvqT_mzkRW6aFxz5itSU",
+      "name": "Santi filling station hind nagar kanpur road Lucknow",
+      "address": "NH 25, Hind Nagar, Sector C1, LDA Colony, Lucknow",
+      "lat": 26.785624,
+      "lng": 80.8871607,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJpbeVGL7_mzkRRce-NQLm8GE",
+      "name": "IndianOil",
+      "address": "Ground Floor, Hind Nagar, Lucknow",
+      "lat": 26.785443,
+      "lng": 80.887422,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ07vn6O7_mzkRBfR4PLTzQtg",
+      "name": "Bharat Petroleum, Petrol Pump -Chandra Filling Center",
+      "address": "Ashiana Cross Road, Sector L, Ashiyana, Lucknow",
+      "lat": 26.7862007,
+      "lng": 80.8866851,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFQe21035mzkRYskyW3eM81w",
+      "name": "Jio BP Pump | Guru Nanak Filling Station",
+      "address": "E 114 A PHASE, 01, Transport Nagar, Lucknow",
+      "lat": 26.7793992,
+      "lng": 80.8939826,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS8yFCa3-mzkRPXOV1GUL_b4",
+      "name": "Arvind Gas Gadgets",
+      "address": "QVQQ+9PG, Kanpur - Lucknow Road, Krishna Nagar, Alambagh, Lucknow",
+      "lat": 26.78844,
+      "lng": 80.88933999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXQ-X263-mzkRL1XGPxJ-tek",
+      "name": "IndianOil",
+      "address": "Kanpur Road, Vijay Nagar Colony, Alambagh, Lucknow",
+      "lat": 26.791052,
+      "lng": 80.889336,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFZYpA4X5mzkRkelgqScc5c8",
+      "name": "Amar Jeet",
+      "address": "001, Sadruna",
+      "lat": 26.7618149,
+      "lng": 80.8637524,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJGbQgOq_-mzkRHyn7cCmz7Lo",
+      "name": "Bajaj Oil Shop",
+      "address": "Kanpur - Lucknow Road, Vijay Nagar, Lucknow",
+      "lat": 26.7909329,
+      "lng": 80.88962699999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJn2xHZrn5mzkR337KFc0oriw",
+      "name": "Green gas limited(CNG station/pump)",
+      "address": "QVFX+H2F, Hindnagar Colony, Transport Nagar, Lucknow",
+      "lat": 26.7739299,
+      "lng": 80.8975377,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJf5f3i67-mzkR1M5Qnh-CyNQ",
+      "name": "Balhan Oil Carriage",
+      "address": "Anupam Hospital, Station Road, Amausi, Lucknow",
+      "lat": 26.79274,
+      "lng": 80.89069,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJp1gcmSr_mzkRa2KByr8Odko",
+      "name": "Ankur",
+      "address": "34, Krishna Nagar Road, Lucknow",
+      "lat": 26.7973165,
+      "lng": 80.8776429,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJa640VhH5mzkRM0ihtwuHI_s",
+      "name": "Karan Gas Service",
+      "address": "Sumit Hardware, Sarojini Nagar, Lucknow",
+      "lat": 26.75473,
+      "lng": 80.87092,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQy58qfX5mzkRlbU_lhlAvU0",
+      "name": "Shivam Filling Station",
+      "address": "अमौसी स्टेशन रोड, Lucknow",
+      "lat": 26.7756904,
+      "lng": 80.8505002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJE9ob-hD_mzkRVDnLkFE3MKY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Kanausi, Krishna Nagar, Kesari Nagar, Lucknow",
+      "lat": 26.799715,
+      "lng": 80.872051,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJASKvGVz7mzkRkWKlMRw207k",
+      "name": "MANSAROVAR FILLING STATION BPCL",
+      "address": "QW92+WW9, CP 05 SECTOR O EXTENSION KANPUR ROAD SCHEME ON, Amar Shaheed Path, Mansarovar, Transport Nagar, Lucknow",
+      "lat": 26.7703337,
+      "lng": 80.90189989999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJT5bMecf5mzkRudB-hRU8hT8",
+      "name": "Faijan Sarvice Centre",
+      "address": "01Hardoi Road, Rahimabad",
+      "lat": 26.749473,
+      "lng": 80.8827451,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJIXHWXab-mzkRU1rfl0sVFWc",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bara Birwa, Kanpur Road, Alambagh, Lucknow",
+      "lat": 26.8002987,
+      "lng": 80.8945993,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoYVHMAD5mzkRcqNwIkrvVYU",
+      "name": "SUSHMA FILLING STATION",
+      "address": "Anora",
+      "lat": 26.7738635,
+      "lng": 80.8440408,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJOZRscQv7mzkRC_7xstBpk0o",
+      "name": "Saanvi BHARAT PETROLEUM",
+      "address": "QW95+7X9, Adarsh Nagar, Lucknow",
+      "lat": 26.7680711,
+      "lng": 80.9103836,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnX0MKQj8mzkRot6eUB1wS1o",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Police Station, Bangla Bazar, Ashiyana Colony, Lucknow",
+      "lat": 26.7872399,
+      "lng": 80.912373,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTfyYAe77mzkR_3Tfuazf9qM",
+      "name": "D & D PETROL PUMP",
+      "address": "QW46+C9F, Lucknow",
+      "lat": 26.75606760000001,
+      "lng": 80.91092809999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo9WDlIH7mzkRCp1GhjGgFAg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Bijnor Road, Lucknow",
+      "lat": 26.75896599999999,
+      "lng": 80.913467,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwUqcJzn7mzkR8nCe24-sTAY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Bijnor Road, Lucknow",
+      "lat": 26.75896599999999,
+      "lng": 80.913467,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQ4YP6g__mzkRbmmqzbNDyYw",
+      "name": "Soni beauty care",
+      "address": "Hansh Nagar, Near, Para, Lko, Lucknow",
+      "lat": 26.8138056,
+      "lng": 80.86532869999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJBZb3eFD_mzkRDEqEGnMPh3w",
+      "name": "vijay gas service godown",
+      "address": "RV78+J3V, Hans Khera, Lucknow",
+      "lat": 26.8141031,
+      "lng": 80.8651824,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJr07WBPL7mzkReZ5js371FjE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No PP/2 Kanpur Road Scheme, Sector N, Ashiyana, Lucknow",
+      "lat": 26.7756464,
+      "lng": 80.9200129,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJU7rq2en7mzkRjOyGnOSh6IQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, Near, Shaheed Path, Sarvan Nagar, Bijnor",
+      "lat": 26.7484606,
+      "lng": 80.9065892,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwTiJy5_5mzkRYt9iXlT681c",
+      "name": "SHREE VISHNU FILLING STATION",
+      "address": "PVPH+VJ7, Major District Road 91C, Natkur",
+      "lat": 26.7371638,
+      "lng": 80.8790551,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJgVbVtp35mzkRBjic61QJ9yU",
+      "name": "IndianOil",
+      "address": "Ground Floor Bijnore, Pipersand Road, Natkur",
+      "lat": 26.7360992,
+      "lng": 80.88359849999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6fR4QGH_mzkRFU_Y9B1nMBk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Mankanika Road, Hans Khera, Para, Lucknow",
+      "lat": 26.816291,
+      "lng": 80.86221499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJD5pnJwD_mzkRFKKE8wWkXGc",
+      "name": "CNG Mahaveer filling station",
+      "address": "Lucknow",
+      "lat": 26.8163566,
+      "lng": 80.8623874,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9-sbIAD7mzkRRVnI8MTNILg",
+      "name": "Kashif Car Machanic",
+      "address": "1/24, Ratan Khand, Ruchi Khand 1, Sharda Nagar, Lucknow",
+      "lat": 26.7758988,
+      "lng": 80.9231891,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJdepiTIf9mzkR9jaxDSm2ru0",
+      "name": "PUC CAR/BIKE Allahabad",
+      "address": "auto sales building, 18, Kanpur - Lucknow Road, Alambagh, Prayagraj",
+      "lat": 26.813084,
+      "lng": 80.902158,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJtzD5NBr_mzkROCqf8RHNsMA",
+      "name": "Vijay Shop",
+      "address": "01, Hans Khera, Road, Lucknow",
+      "lat": 26.819425,
+      "lng": 80.8641389,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJfWMdeub_mzkRB6nJgigEl0A",
+      "name": "G.D. FILLING STATION",
+      "address": "behind Rivaaj Palace, Hans Khera, Lucknow",
+      "lat": 26.8195541,
+      "lng": 80.8632386,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgYJWWqn9mzkRPLb5owhGMOg",
+      "name": "Reena Parlor",
+      "address": "568K/299, 568 Ka 301, Krishnapalli, Ramprasad Bismil Nagar, Alambagh, Arambagh Lucknow",
+      "lat": 26.8056036,
+      "lng": 80.91568629999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJu4i4wGb7mzkRyayacPbxYIc",
+      "name": "Bharat Petroleum, Petrol Pump -BP Lucknow",
+      "address": "QWGF+974, 1/24, Ratan Khand, Ruchi Khand 1, Sharda Nagar, Lucknow",
+      "lat": 26.7802142,
+      "lng": 80.9271725,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPXAiWgD_mzkRHIsWU1d8UIc",
+      "name": "Mega Mobile Service",
+      "address": "Mega MOBILE SERVICE Hans Kheda, Para Road, Lucknow",
+      "lat": 26.8210662,
+      "lng": 80.8636132,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJySDz2k3jmzkRXwEvxMklWW8",
+      "name": "IndianOil",
+      "address": "Sultanpur Road, Arjunganj, Lucknow",
+      "lat": 26.80604,
+      "lng": 80.991997,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4d8AcU38mzkR8DMlwSv4Hb4",
+      "name": "Bharat Petroleum Corporation Limited Petrol Pump",
+      "address": "Near KKC College, Station Road, Charbagh, Lucknow",
+      "lat": 26.8326751,
+      "lng": 80.9309943,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXVkfN6z9mzkRRvJ4isPOzO8",
+      "name": "Meerut Diesel Service",
+      "address": "40, Nixat Park, Avadh Hotel, Vidhan Sabha Marg, Ghasyari Mandi, Husainganj, Lucknow",
+      "lat": 26.839986,
+      "lng": 80.93513399999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJQSbGS8r9mzkRUFzezem4JU8",
+      "name": "Bharat Petroleum",
+      "address": "RWQ9+987, Aishbagh Road, Rajendra Nagar, Lucknow",
+      "lat": 26.8384003,
+      "lng": 80.9182817,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaRW44sv9mzkR-XObyVKofj4",
+      "name": "IndianOil",
+      "address": "near Bridge, 269, Aishbagh, Lucknow",
+      "lat": 26.840057,
+      "lng": 80.915581,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB_0sOQb9mzkR8RXOJH_-aNk",
+      "name": "Bharat petroleum Petrol Pump",
+      "address": "Vidhan Sabha Marg, Narpatkhera, Lalbagh, Lucknow",
+      "lat": 26.8462365,
+      "lng": 80.94557069999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsVi9c7T7mzkRP9uJf0m4sVw",
+      "name": "BP Vrindavan BPCL COCO",
+      "address": "Sector 6, Vrindavan Colony, Lucknow",
+      "lat": 26.775093,
+      "lng": 80.9484354,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdRJff6z7mzkRHCmM2rn5ieQ",
+      "name": "Shree Aura Enterprises",
+      "address": "Amrapali Vihar, Sainik Nagar, Sharda Nagar, Lucknow",
+      "lat": 26.7765507,
+      "lng": 80.93853299999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJhUz_sHX7mzkRAMhN9s3-7JA",
+      "name": "HP PETROL PUMP - RAMLAL & SONS",
+      "address": "Plot No 439SA, New Defence Colony, Lucknow",
+      "lat": 26.7697284,
+      "lng": 80.94511609999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPwHiSHf7mzkRc1bMywWfeF8",
+      "name": "SHREE AURA ENTERPRISES",
+      "address": "Road, Telibagh, Lucknow",
+      "lat": 26.7842691,
+      "lng": 80.94158709999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJwQe2HgD7mzkRM1H_4Dj-rrg",
+      "name": "Green Gas limited",
+      "address": "QWHM+MM7, Ratan Khand, Rajni Khand, Sharda Nagar, Lucknow",
+      "lat": 26.7791508,
+      "lng": 80.93417389999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJzTzrMw_7mzkR2XvDRmNYIZA",
+      "name": "Green Gas Limited",
+      "address": "Commercial Plot No. 1, Ratan Khand, Sharda Nagar, Lucknow",
+      "lat": 26.7794951,
+      "lng": 80.9307871,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlaVL7Xn8mzkRKkkPA7-rwPY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Plot No 626, PWD Colony, Lucknow",
+      "lat": 26.79353279999999,
+      "lng": 80.9329836,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJORbQo4n7mzkRQH7RMgasrK8",
+      "name": "SHREE BALAJI FILLING STATION PETROL PUMP, BPCL",
+      "address": "Vidya Nagar, Nilmatha, Lucknow",
+      "lat": 26.7879298,
+      "lng": 80.9725555,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEQxA-MH7mzkR3JOkcI3DB0s",
+      "name": "Green Gas Limited CNG Station",
+      "address": "QXGM+HR5, Muzaffar Nagar Ghusval",
+      "lat": 26.7763852,
+      "lng": 80.984606,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6dv9n2f7mzkRSwuDMxKmfzI",
+      "name": "IndianOil",
+      "address": "Pocket 1 Ansal, Golf City, Muzaffar Nagar, Sector A, Lucknow",
+      "lat": 26.776264,
+      "lng": 80.984701,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTxi8dwD7mzkRS8JgGWAJ-to",
+      "name": "Puc check center",
+      "address": "PXV6+97Q, SGPGI Rae Bareilly Road, Lucknow",
+      "lat": 26.743454,
+      "lng": 80.9607391,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZUBRaeD6mzkR5S4PlwzuCWk",
+      "name": "Green Gas Limited CNG Station",
+      "address": "yojma mother station, sec 18, Vrindavan",
+      "lat": 26.741858,
+      "lng": 80.9639419,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJi-yxkPP7mzkR_6Z8fLMpgks",
+      "name": "Nca Cg1",
+      "address": "PXR7+MHW, Kalli Pashchim",
+      "lat": 26.7417441,
+      "lng": 80.963955,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2XUaAXT7mzkRnFlztB35Fzc",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Lulu Mall, Amar Shaheed Path, Hariharpur",
+      "lat": 26.7836418,
+      "lng": 80.98912109999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg94HQpf9mzkRA3Y0PuyL7dE",
+      "name": "Petrol pump",
+      "address": "RXH2+82X, State Highway 36, Sadar Bazaar, Cantonment, Lucknow",
+      "lat": 26.8283756,
+      "lng": 80.9501842,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZd9wlvv8mzkRoxmfyI71yQk",
+      "name": "IndianOil",
+      "address": "236, Mahatma Gandhi Marg, Cantonment, Lucknow",
+      "lat": 26.828575,
+      "lng": 80.94986109999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJK6B04Ov6mzkR32suJMZROoA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Raibareli Road, Kalli Pashchim",
+      "lat": 26.72581469999999,
+      "lng": 80.9607253,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkQnt_PT9mzkRfzUuGQv1CH0",
+      "name": "Bharat Petroleum Cantt (COCO)",
+      "address": "Near, Old Railway Crossing, Sadar Bazaar, Cantonment, Lucknow",
+      "lat": 26.8303091,
+      "lng": 80.9506122,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJywXbKvv9mzkRt-j3dJmgbmA",
+      "name": "Bharat Petroleum",
+      "address": "United Bank Of India, Talkatora Road, Sardari Khera, Chander Nagar Market, Chander Nagar, Alambagh, Lucknow",
+      "lat": 26.815455,
+      "lng": 80.9043496,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJoWz9Ar_9mzkRgw_luyKOVY4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Alambagh, Lucknow",
+      "lat": 26.8166814,
+      "lng": 80.90558589999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM2ZYg5LjmzkRE7cwS1dUEAM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Lucknow - Sultanpur Road, Ahmamau",
+      "lat": 26.7989681,
+      "lng": 81.0089799,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJf4lxMQDlmzkRsAauf1YEwJQ",
+      "name": "Rahi tent house dharma kataa bilding material and transport all India service.",
+      "address": "Q2FW+R9X, Lucknow - Sultanpur Road, Pahar Nagar Tekareya",
+      "lat": 26.7742483,
+      "lng": 81.04540829999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJXWsnX27kmzkR7ZDdKHuwPo0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Sultanpur Road, Madhurmau Khurd, Lucknow",
+      "lat": 26.7812727,
+      "lng": 81.04619749999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm7Ki6bPjmzkREyHx8ex1U9A",
+      "name": "Gems Lucknow office",
+      "address": "4/1166, Sector 4, Gomti Nagar, Lucknow",
+      "lat": 26.8196461,
+      "lng": 81.01182709999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJRadzagDjmzkRJaNdBYN9Bgc",
+      "name": "General Energy Management System Pvt Ltd",
+      "address": "R2C6+MWQ, Gomti Nagar, Lucknow",
+      "lat": 26.8217031,
+      "lng": 81.0123476,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJXRXaTT3jmzkReaXIP_g2seY",
+      "name": "IndianOil",
+      "address": "Ground Floor, Gomti Nagar, Lucknow",
+      "lat": 26.82678199999999,
+      "lng": 81.012587,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJedLa8E_jmzkR1lL5TRaf8OY",
+      "name": "Aasha Filling Center",
+      "address": "near S T P Chauraha, Gomti Nagar Vistar, Lonapur",
+      "lat": 26.8304549,
+      "lng": 81.0414517,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJnW8qDXb9mzkRohwtH3F6LzE",
+      "name": "IndianOil",
+      "address": "Ground Floor, near STP Chauraha, Gomti Nagar Extension, Lonapur",
+      "lat": 26.83055629999999,
+      "lng": 81.04153760000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJG8qCwITjmzkRaItu3ElNLPQ",
+      "name": "IndianOil",
+      "address": "Road, Khargapur, Malesemau",
+      "lat": 26.8366071,
+      "lng": 81.0300062,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBSdYTdrlmzkR4g6IULs3n9k",
+      "name": "GEETA FILING STATION",
+      "address": "P3RC+6PX, National Highway 230, Beli",
+      "lat": 26.74059999999999,
+      "lng": 81.071873,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ94tI9lDlmzkRP12U7s-LFKE",
+      "name": "Bharat Petroleum - Palacio Fuels",
+      "address": "Mohari Kalan,Near New Jail, Mohanlalganj-Gosaiganj, Road, Mohanlalganj",
+      "lat": 26.7286546,
+      "lng": 81.0593458,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM-bqUs7lmzkRhsu3x8wbxCs",
+      "name": "Mohari filling Station",
+      "address": "Ground Floor, Mohanlalganj, Mohari Kala",
+      "lat": 26.7254502,
+      "lng": 81.0564514,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGULgDuLimzkRxWWsqvV4WlU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 86/S, Gata, Khargapur, Lucknow",
+      "lat": 26.8409594,
+      "lng": 81.0157904,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtRFxooLlmzkR1zfpxelTHvg",
+      "name": "IndianOil",
+      "address": "Ground Floor Gosaiganj, Road, Khujauli",
+      "lat": 26.711752,
+      "lng": 81.031769,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQ_qu4_7nmzkRWHG-SFA8k5c",
+      "name": "IndianOil",
+      "address": "Mohanlalganj, A P Sabha, Ground Floor Beli, near Km Stone, 32 to 28, Gosainganj",
+      "lat": 26.749743,
+      "lng": 81.08491599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ59NSMQDjmzkRpdpQ5IDyrPE",
+      "name": "My home",
+      "address": "7/8, Saraswati Puram, Khargapur, Gomti Nagar, Lucknow",
+      "lat": 26.8443277,
+      "lng": 81.0143708,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZ-xHFRT-mzkRWir8Il1_BG0",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Balaganj Cross, Campbell Road, Kishore Ganj, Shekhpur, Lucknow",
+      "lat": 26.8598045,
+      "lng": 80.8807642,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJz9LWnfz9mzkRjTaWRa19EjE",
+      "name": "BP Chowk - Bharat Petroleum COCO",
+      "address": "Chowk Road, Thakurganj, Lucknow",
+      "lat": 26.8701712,
+      "lng": 80.90441740000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbVuVysH9mzkRYuXG8lNAo_Q",
+      "name": "Bharat Petrol Pump",
+      "address": "VW59+4Q6, Jagat Narayan Road, Jagat Narayan Road Wazeew Gunj, Hind Cetters, Wazirganj, Lucknow",
+      "lat": 26.857787,
+      "lng": 80.9194005,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFQrBKWFVmTkR2U-xqu1qnFQ",
+      "name": "Bharat Petroleum Corporation Limited Petrol Pump",
+      "address": "VRJP+C2V, Sikrauri",
+      "lat": 26.8811083,
+      "lng": 80.8350325,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJSdb5rqb9mzkRxAhhiuQfbDs",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Dm Bunglow, Mahatma Gandhi Marg, Kaiser Bagh, Lucknow",
+      "lat": 26.852507,
+      "lng": 80.937805,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmQ1O_CdWmTkR9xCLPzj6vPA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Sitapur Road, Lucknow",
+      "lat": 26.8823324,
+      "lng": 80.9319107,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJb-TFyA79mzkR0sbn6IA9QfE",
+      "name": "IndianOil",
+      "address": "Ground Floor, Ashok Marg, Lucknow",
+      "lat": 26.8519155,
+      "lng": 80.94864249999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRW1cFgZVmTkR3V8gIx5bxwI",
+      "name": "Shyama Gauri Filling Station",
+      "address": "WV62+8RF, Maura",
+      "lat": 26.910812,
+      "lng": 80.85204999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJI3RU_mj-mzkRr3nNT41S8Hk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No E6/501, Rajajipuram, Lucknow",
+      "lat": 26.8461823,
+      "lng": 80.87947559999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJca1h8A__mzkRhBgnqf_e6rw",
+      "name": "Sahu Fuel Station",
+      "address": "356/318/335, Manas Vihar, Alamnagar, Saripura, Lucknow",
+      "lat": 26.8486075,
+      "lng": 80.86823129999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJERqCIwD_mzkRi8lv8MloJjY",
+      "name": "Aaryaaarvibandanamonusingh p.pump",
+      "address": "RVQG+5JM, Rajajipuram, Lucknow",
+      "lat": 26.8379544,
+      "lng": 80.8765463,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJYUikInv_mzkRMTHKA0oL8Wg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Ashiya Mau, Campbell Road, Lucknow",
+      "lat": 26.855003,
+      "lng": 80.880344,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZRG8nHn-mzkR2nN3QJD3k3E",
+      "name": "IndianOil",
+      "address": "Talkatora Road, Tulsidas Marg, Lucknow",
+      "lat": 26.841908,
+      "lng": 80.89380600000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJydcOBQD_mzkRVA3fzreK9Zc",
+      "name": "DEF UREA PUMP",
+      "address": "Budheshwar, Chauraha, Lucknow",
+      "lat": 26.8550625,
+      "lng": 80.8600625,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXbAY5uX_mzkRI7wms_Ct-c0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Dubagga Road, Budh Chauraha, Bhoohar",
+      "lat": 26.853905,
+      "lng": 80.858817,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLwg60TX-mzkREe4pbnU1TBc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Hardoi Bypass Budheshwar, Dubagga Road, Tiraha, Malhapur, Lucknow",
+      "lat": 26.8561966,
+      "lng": 80.8598827,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJffpVpxb_mzkRN7jjgpMtQKM",
+      "name": "Lalabagh Petrol Pump",
+      "address": "1 Hp Petrol Pump Lala Bagh, Ring Road, Dubagga, Lucknow",
+      "lat": 26.8561772,
+      "lng": 80.85958889999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1TSs6Sf_mzkRJA6AYjfNdOE",
+      "name": "IndianOil",
+      "address": "Bypass Hardoi Road, Mallpur, Lucknow",
+      "lat": 26.859921,
+      "lng": 80.862793,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdcngMWf_mzkRXV1lAzF5Djk",
+      "name": "Santosh Store",
+      "address": "19, Dubagga Road, Lucknow",
+      "lat": 26.8482091,
+      "lng": 80.8556239,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQdMYGDH-mzkRh4Z4kECe_Fs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Kanpur By Pass Road, Mallpur, Hardoi",
+      "lat": 26.861418,
+      "lng": 80.861998,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJu-ipSH_-mzkR1osR4krcDIE",
+      "name": "Bharat Petroleum BP Petrol Pump",
+      "address": "RVQX+628, Talkatora, Lucknow",
+      "lat": 26.8380282,
+      "lng": 80.8975871,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJC521lQb_mzkRl6J-YogoLXs",
+      "name": "Gulmohar Petrol Pump",
+      "address": "RVR3+F98, Alamnagar, Rajajipuram, Lucknow",
+      "lat": 26.8411705,
+      "lng": 80.8534634,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJy9M8T4j_mzkRP2rvYgdBwoE",
+      "name": "Ajeet Gas Godam",
+      "address": "Ajeet Gas Goudam, Baraura Hussain Bari, Lucknow",
+      "lat": 26.8675869,
+      "lng": 80.8712414,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJVfqhqPj-mzkRoLBsVxKm07s",
+      "name": "BP Diesel Pump R K Agarwal & Sons",
+      "address": "Deputy Khera, 1174, Para Road, Rajajipuram, Lucknow",
+      "lat": 26.8302479,
+      "lng": 80.86059139999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJBUO23Jf_mzkRxe1Y-twRM_8",
+      "name": "IndianOil",
+      "address": "No 701 Kanpur, Hardoi Bypass Road, Rajajipuram, Lucknow",
+      "lat": 26.8390857,
+      "lng": 80.8535217,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmd4MTcj_mzkRNnbl9t-u6Cc",
+      "name": "JIO BP (RELIANCE) DIESEL PETROL & CNG PUMP",
+      "address": "PARA, near TIKONIYA CHAURAHA, DUBAGGA ROAD, ALAMBAGH, Lucknow",
+      "lat": 26.8291474,
+      "lng": 80.8620432,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrZWdGIT_mzkR9pY35s6ICW0",
+      "name": "Shri Ramswaroop filling station (BPCL)",
+      "address": "Dubbagga kanpur bypass, Mallahpur, Faridipur, Lucknow",
+      "lat": 26.8663479,
+      "lng": 80.86269879999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJz7m7B7T_mzkR2m9b052uMEI",
+      "name": "K.C FILLING STATION ( Nayara petrol pump)",
+      "address": "VVCJ+JFG, Campwell Rd, near Essar Petrol pump, Balaganj Chauraha, Lucknow",
+      "lat": 26.8715748,
+      "lng": 80.8811971,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJb0SaM2b_mzkRMwClLqsHfKI",
+      "name": "Synergy Fuels",
+      "address": "Tondan Marg, Balaganj, Lucknow",
+      "lat": 26.8726244,
+      "lng": 80.87582909999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJk2TbBQD9mzkRmz6GLxQEMVY",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Idgah, Aishbagh, Lucknow",
+      "lat": 26.845118,
+      "lng": 80.907158,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXffwryn-mzkRDsMS8FeDdkw",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Dubagga, Hardoi Road, Ahiran Khera, Lucknow",
+      "lat": 26.8740282,
+      "lng": 80.8645076,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEeoWYsr9mzkRahmV5_w-6n8",
+      "name": "Khanna Fuels",
+      "address": "No-269, Aishbagh Road, Aishbagh, Lucknow",
+      "lat": 26.8514491,
+      "lng": 80.9085657,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJsXzAqxz_mzkRP9tDMNvU1bI",
+      "name": "Lucknow plot location",
+      "address": "Dubagga Petrol Pump, Ahiran Khera, Lucknow",
+      "lat": 26.8742375,
+      "lng": 80.8649855,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ7UMILtv9mzkR0KQz1kZZxDw",
+      "name": "I B P Petrol Pump",
+      "address": "Water Works Road, 718/28, Aishbagh Flyover, Tilak Nagar, Aishbagh, Lucknow",
+      "lat": 26.84895,
+      "lng": 80.90935999999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJLx2Pcq__mzkRCpq1rS6dL7w",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Ring Crossing, SH 40, Mohan Road, Lucknow",
+      "lat": 26.8375083,
+      "lng": 80.844396,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLWfo5Ob9mzkRyw0efIxfen0",
+      "name": "Lukmani Oil",
+      "address": "VW64+3FV, Juta Bazar, Near Haider Baksh Masjid Juta bazar, Chowki Public, Chowk, Lucknow",
+      "lat": 26.86024,
+      "lng": 80.90616,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJO4_tJ13_mzkRHCr32frya6M",
+      "name": "Budheshwar filling station",
+      "address": "NH40, Mohan Road, Pink City, Lucknow",
+      "lat": 26.8359639,
+      "lng": 80.84474929999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ64xYrgb-mzkRI4iJzF6cSLk",
+      "name": "Anshu Sales Corporation",
+      "address": "439/137, State Highway 25, Thakurganj, Daulatganj, Lucknow",
+      "lat": 26.873042,
+      "lng": 80.893642,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZWIzzcT9mzkRdrEsI-C2XIo",
+      "name": "SitaraMobilOil Shop",
+      "address": "VW26+966, Water Works Road, Aishabagh, Gurudwara, Aishbagh, Lucknow",
+      "lat": 26.8509019,
+      "lng": 80.91051499999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJtZY3Ygf-mzkRjqImxvM5oJo",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Balaganj Chauraha, Hardoi Road, Thakurganj, Lucknow",
+      "lat": 26.8718772,
+      "lng": 80.8988189,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3TfbUQD_mzkRN7S_f0830rQ",
+      "name": "Aaryaaarvibandanamonusingh Green gas",
+      "address": "VVF3+PWM, Dubagga, Lucknow",
+      "lat": 26.8743393,
+      "lng": 80.85478289999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJuzMPiOL9mzkRLEHklAvpPcY",
+      "name": "M/s. PPS Distributors-BPCL Petrol Pump",
+      "address": "69/1, Mill Road, Aishbagh, Lucknow",
+      "lat": 26.8297891,
+      "lng": 80.90884679999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJX8ZDTW79mzkRvyPyKm13DrM",
+      "name": "Lucknow Gas Service",
+      "address": "near Umrao Cinema, B-14, near Umrao Cinema, Nishat Ganj, Lucknow",
+      "lat": 26.86871,
+      "lng": 80.95595999999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJvXhxzRn9mzkRlPbMzdW6tJw",
+      "name": "Indian Oil",
+      "address": "Ground Floor, VVIP Road, Jiamau, Lucknow",
+      "lat": 26.8479859,
+      "lng": 80.9622321,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgwmN-k_9mzkRN1JmlLzLE5g",
+      "name": "Greaves Fuel Efficient",
+      "address": "326-327, Sahara Shopping Center, Wal Multiplex, Vijay Khand, Lucknow",
+      "lat": 26.87238,
+      "lng": 80.97661,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJUSE3b039mzkRN0-w5t-SNwk",
+      "name": "IndianOil",
+      "address": "Police Station, near Ghazi Pur, Faizabad Road, Indira Nagar, Lucknow",
+      "lat": 26.872925,
+      "lng": 80.985519,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs5E8099XmTkRbZsvkDvkkGo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 134, 135/1, Faridnagar Marg, Faridnagar, New Rahim Nagar, Lucknow",
+      "lat": 26.886233,
+      "lng": 80.9634018,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJdwO7h8_imzkRaBrPppFjASg",
+      "name": "IndianOil",
+      "address": "Patrakarpuram Road, Vikas Khand 1, Gomti Nagar, Lucknow",
+      "lat": 26.8531224,
+      "lng": 80.99785949999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMdKSXLDimzkRXUExGJp-o10",
+      "name": "IndianOil",
+      "address": "Polytechnic Chauraha, Gomti Nagar, Lucknow",
+      "lat": 26.8721391,
+      "lng": 80.9965058,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlVm_pwBYmTkRvKkMzegEcG4",
+      "name": "IndianOil",
+      "address": "No 16, Cp/104, Tedhi Pulia Ring Road, Munshi Pulia, Indira Nagar, Lucknow",
+      "lat": 26.885706,
+      "lng": 80.9924415,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJyySMi4kFmjkRIwHGAKBkIp8",
+      "name": "IndianOil",
+      "address": "Ground Floor, Lucknow - Ayodhya Road, Acharya Nagar, Sahadatganj, Faizabad",
+      "lat": 26.8859827,
+      "lng": 80.99476930000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJN6vahKn9mzkRG11KZpgamgM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "HPCL Fuel Station, 16, Vidhan Sabha Marg, Lalbagh, Lucknow",
+      "lat": 26.885992,
+      "lng": 80.99473689999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJE7ZOsMBXmTkRBsik0ivJ9FA",
+      "name": "Bharat Petroleum",
+      "address": "Near Corporation bank, Tedhi Pulia Ring Road, Adil Nagar, Lucknow",
+      "lat": 26.9059882,
+      "lng": 80.9603491,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5dshf6pXmTkRr-xbq7xSvHw",
+      "name": "Bharat Petroleum, Petrol Pump -Nrl Kursi Road Energy Station",
+      "address": "WX65+QVG, near ADIL NAGAR, 655A/633, Kursi Road, Tedhi Pulia, Adil Nagar, Lucknow",
+      "lat": 26.912397,
+      "lng": 80.959874,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ44TiavDimzkROGU3Ba_Ni80",
+      "name": "IndianOil",
+      "address": "No 1 & 2, Mahanagar Mandir Marg, Lucknow",
+      "lat": 26.8537823,
+      "lng": 81.0217749,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJf4lJ0oL9mzkRX0wwx9xFOtc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 791, University Road, Lucknow",
+      "lat": 26.8708915,
+      "lng": 80.9407265,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJU0f0JZ_9mzkRdAYTO70ZdKQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, University Road, Lucknow",
+      "lat": 26.8613819,
+      "lng": 80.93814359999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5aQpRwb9mzkRE0KRZLu2vfg",
+      "name": "HP PETROL PUMP - RANJAN SERVICE STATION",
+      "address": "Opp. GPO, Mahatma Gandhi Marg, Hazratganj, Lucknow",
+      "lat": 26.8458845,
+      "lng": 80.946585,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJW2Jowj9mzkRutl9sV1vHZc",
+      "name": "Bharat Petroleum",
+      "address": "RWXW+7WW, near Sakhawat Restaurant, 9, Ashok Marg, Hazratganj, Lucknow",
+      "lat": 26.848277,
+      "lng": 80.9473593,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq2zNNKb9mzkRnOHzKjVDi8Y",
+      "name": "New Awadh Auto Gas",
+      "address": "5, Capper Road, Lalbagh, Lucknow",
+      "lat": 26.848559,
+      "lng": 80.94012,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ614NDF79mzkRUqFA1bCNX2Y",
+      "name": "Yas Car",
+      "address": "3 Novelity, Lalbagh, Lucknow",
+      "lat": 26.8479426,
+      "lng": 80.9395389,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJbZvjMKb9mzkRxo1l9t6J6xo",
+      "name": "New Hindustan Deisel",
+      "address": "RWXQ+8R4, Capper Raod, Balmiki Marg, Near Novelty Cinema, Capper Road, Lalbagh, Lucknow",
+      "lat": 26.84827,
+      "lng": 80.93959,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJzc_Jcab9mzkRZEK1T0h80dc",
+      "name": "Ganpati Agency",
+      "address": "RWXQ+M59, Near Sub Post Office, Capper Road, Lalbagh, Lucknow",
+      "lat": 26.84917,
+      "lng": 80.93796999999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ1Wbb5q39mzkRE6saFq2pBY8",
+      "name": "Adhoc Mahalaxmi Fuel centre Hussainganj",
+      "address": "21, Vidhan Sabha Marg, Husainganj, Lucknow",
+      "lat": 26.84115939999999,
+      "lng": 80.93961999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTdVMAaz9mzkRGXH7iA6SsQY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near Burlington Chauraha, 40, Cantonment Road, Lucknow",
+      "lat": 26.8409338,
+      "lng": 80.93707119999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUeh7NsD9mzkRS75CysN0ELw",
+      "name": "Bike service",
+      "address": "VW2P+P9M, near dastarkhwan, above prem non veg",
+      "lat": 26.851837,
+      "lng": 80.9359315,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJzR8rPqv9mzkRRZm10rEem4s",
+      "name": "Ashoka Oil Mills",
+      "address": "RWPQ+RH7, Cantonment Road, Udaiganj, Lucknow",
+      "lat": 26.8370258,
+      "lng": 80.9389233,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJH6ZrH8n9mzkRwkURngQld0w",
+      "name": "Bharat Petroleum, Petrol Pump -Ramkumar Aggarwal & Sons",
+      "address": "near BUS STAND, Kaiser Bagh, Lucknow",
+      "lat": 26.8497631,
+      "lng": 80.93218069999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJb5G_ghn9mzkRHF3Vldp-BAQ",
+      "name": "Bharat Petroleum, Petrol Pump -Sheo Narain & Sons",
+      "address": "CANTT,MG ROAD, LUCKNOW, Lucknow",
+      "lat": 26.8332882,
+      "lng": 80.9500844,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUQLJEa39mzkReinpe4IcUAY",
+      "name": "Jai Devi Filling Station (Hindustan Petroleum)",
+      "address": "RWPM+WFW, Station Road, Lucknow",
+      "lat": 26.837354,
+      "lng": 80.933702,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJXwuDOQ39mzkRPWF35kLkbAM",
+      "name": "Mumbai ka Petrol",
+      "address": "krishi niddeshalaya, Gokhle Marg, Lucknow",
+      "lat": 26.8576712,
+      "lng": 80.95847739999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdwaGDFz9mzkRt-OXacuYL6M",
+      "name": "Malti Prakash Fuel Hub",
+      "address": "82, 74, Guru Govind Singh Marg, Maqbool Ganj, Lalkuan, Lucknow",
+      "lat": 26.8386942,
+      "lng": 80.9311421,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsxQzMY39mzkRb1NvJ1KR6DA",
+      "name": "Bharat Petroleum, Petrol Pump -Raj Ganga Automobiles",
+      "address": "Station Road, Naka Hindola, Lucknow",
+      "lat": 26.83870779999999,
+      "lng": 80.9310434,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsbdUJgD9mzkROJZKJN6JDfk",
+      "name": "Lalkuan crossing",
+      "address": "RWQJ+964, Lucknow",
+      "lat": 26.8383863,
+      "lng": 80.9305742,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJJ4Dfg7v9mzkRQCvXDmBHVQc",
+      "name": "Ravi Service Station",
+      "address": "near Durga Mandir, 71/1, Doctor RK Tandon Road, Kaiser Bagh, Lucknow",
+      "lat": 26.851995,
+      "lng": 80.92880319999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJM_zYd7z9mzkRO0IWIr1eqX4",
+      "name": "Jaara Service Station",
+      "address": "92, Raja Tyre House, 92/3, Doctor RK Tandon Road, Kaiser Bagh, Lucknow",
+      "lat": 26.85239799999999,
+      "lng": 80.92823969999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJvVDIp7P9mzkRYrzx1PichSQ",
+      "name": "Shakti Oil",
+      "address": "Guru Govind Singh Marg, near Lal Kuan, Chauraha, Lalkuan, Lucknow",
+      "lat": 26.83796,
+      "lng": 80.9283,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJpdE-8Tf9mzkRgXc-JidGF1U",
+      "name": "IndianOil",
+      "address": "1 Station Road, AP Sen Road, Lucknow",
+      "lat": 26.833412,
+      "lng": 80.93184699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo8fIdxL9mzkRHaVP97aND8Q",
+      "name": "Sawan",
+      "address": "1, AP Sen Road, Cash and Pay Colony, Charbagh, Lucknow",
+      "lat": 26.8334257,
+      "lng": 80.931033,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJARVQPLT9mzkRhFb9KWJO8v4",
+      "name": "Anjan Group",
+      "address": "near Tiwari Chat Corner, 9/3 Shiv Puri, Gautam Buddh Marg, near Tiwari Chat Corner, Gautam Buddha Marg, Lucknow",
+      "lat": 26.83955,
+      "lng": 80.92470999999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJBdinGbr9mzkR_79DouHZKOc",
+      "name": "Vishal Gas Service",
+      "address": "RWXC+PW9, Aminabad Stand, Rakabganj Road, Opp.-Bank Of Baroda Raniganj, Aminabad, Lucknow",
+      "lat": 26.8492843,
+      "lng": 80.92237399999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJoW6bz4_imzkRJfwonDDzEJ0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No CP/2, Vijayant Khand, Gomti Nagar, Lucknow",
+      "lat": 26.873773,
+      "lng": 81.02106959999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHfI-pUjimzkRwbAESb74lfk",
+      "name": "Nayara Petrol Pump",
+      "address": "V23W+7CQ, Khasra No. 352/1, Lucknow, Nijampur Malhaur",
+      "lat": 26.8536325,
+      "lng": 81.0486828,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJX5UwPp1YmTkRefUKzlMxp2M",
+      "name": "Nayara Petrol Pump",
+      "address": "V2RV+583, Plot no-88, Deva Road, matiyari, chinahat, kanchanpur",
+      "lat": 26.8906403,
+      "lng": 81.0435797,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHWbHcfrjmzkRVN-LSSjUM4U",
+      "name": "Mechanic",
+      "address": "R2X4+HQJ, Jeevan Plaza, Husarza Chauraha, Amar Shaheed Path, Viram Khand 5, Gomti Nagar, Lucknow",
+      "lat": 26.8489589,
+      "lng": 81.0068786,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJey6h_NzimzkR6noi4zQH42k",
+      "name": "IndianOil",
+      "address": "No CP/7, Viram Khand, Gomti Nagar, Lucknow",
+      "lat": 26.8492123,
+      "lng": 81.00590129999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJi7ZyQwDjmzkRbKuKTbnm8ws",
+      "name": "Jaguar",
+      "address": "V26F+M9V, Virat Khand Road, Vibhav Khand -4, Vibhav Khand, Gomti Nagar, Lucknow",
+      "lat": 26.8617384,
+      "lng": 81.02343549999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ58-HwyHjmzkRbzT6eUvuoC4",
+      "name": "IndianOil",
+      "address": "Sahara Hospital Bharwara Road, Jagpal Kheda Road, Lucknow",
+      "lat": 26.848013,
+      "lng": 81.035961,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmQ0HvIzimzkRk8boeaF-nws",
+      "name": "Major Amiy Tripathi Filling Station Bharat Petroleum",
+      "address": "3, 936, Road, Vastu Khand, Gomti Nagar, Lucknow",
+      "lat": 26.8655673,
+      "lng": 81.0247839,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC-AywffjmzkRPR4b_xTMsR4",
+      "name": "Indialliance",
+      "address": "DLF MY PAD, B2 208, Vibhuti Khand, Gomti Nagar, Lucknow",
+      "lat": 26.8655504,
+      "lng": 81.00612269999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSwcEifTjmzkR2kln-xUuckw",
+      "name": "KRRISHAY BIOFUEL PRIVATE LIMITED",
+      "address": "C, 3/84, Vibhuti Khand, Gomti Nagar, Lucknow",
+      "lat": 26.862612,
+      "lng": 81.00091429999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaSeqprfimzkRhAhRq6C9NTY",
+      "name": "IndianOil",
+      "address": "VX8W+3HF, opp. Urdu academy, Vibhuti Khand Road, Vibhuti Khand, Gomti Nagar, Lucknow",
+      "lat": 26.8651796,
+      "lng": 80.9964097,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJVU2zprfimzkRLWxXeqY200w",
+      "name": "IndianOil",
+      "address": "Vibhuti Khand, Gomti Nagar, Lucknow",
+      "lat": 26.8651568,
+      "lng": 80.99634999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-Y6EpDDjmzkRT3wtVIHyKr4",
+      "name": "Green gas limited",
+      "address": "V2CJ+6R2, Vikalp Khand, Gomti Nagar, Lucknow",
+      "lat": 26.87051730000001,
+      "lng": 81.0320191,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ5RifdI_imzkRXWGqkGpfBxY",
+      "name": "IndianOil",
+      "address": "India",
+      "lat": 26.8746549,
+      "lng": 81.02334440000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJW3vu-6PjmzkRewGju9xZWyY",
+      "name": "Fashion Fewer Technologies Pvt Ltd",
+      "address": "Wave Mall, near polytechnic, Gomti Nagar, Lucknow",
+      "lat": 26.8700587,
+      "lng": 80.997208,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJD2siQjHjmzkRViE04wejv-w",
+      "name": "IndianOil",
+      "address": "Gate No 3, Plot No 8B, Amity New Campus Hasemau, Nijampur Near, Lucknow",
+      "lat": 26.8486703,
+      "lng": 81.05002069999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgfXObwDjmzkR1XFCdQldfjM",
+      "name": "Aaryaaarvibandanamonusingh cng",
+      "address": "V2FM+QX5, Chinhat, Lucknow",
+      "lat": 26.8743898,
+      "lng": 81.0349854,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJDeqtU33imzkR46Isa60RRPM",
+      "name": "Indian Oil",
+      "address": "India",
+      "lat": 26.8767748,
+      "lng": 81.0317994,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJkUkWg8zjmzkRufT7LIq8K1Q",
+      "name": "Indian Oil Pump",
+      "address": "Ground Floor, near Amity University Road, Laulai Road, Nizampur, Chinhat, Lolai",
+      "lat": 26.8513428,
+      "lng": 81.053518,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjaS7zT7jmzkRrEBH_V5j18E",
+      "name": "ANOJ KUMAR",
+      "address": "BABULAL Boys Hostel, Madhav Green Road, Lucknow",
+      "lat": 26.8553768,
+      "lng": 81.0531264,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJb4541vjjmzkRmzFxTiOFcho",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gata No 368/1, Nijampur Malhaur",
+      "lat": 26.8510172,
+      "lng": 81.0543137,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4VOnNijjmzkR3YlG_o_twkM",
+      "name": "IndianOil",
+      "address": "Ground Floor, opposite HAL, Faizabad Road, Indira Nagar, Lucknow",
+      "lat": 26.872917,
+      "lng": 80.988497,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9TdbaW_9mzkRMdT2kVU8KzM",
+      "name": "Samthar Service Station",
+      "address": "7-A, Faizabad Road, Gomti Nagar, Lucknow",
+      "lat": 26.8716577,
+      "lng": 80.9784191,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJjYHClBXimzkRPFnseGF9kMs",
+      "name": "Sri Balaji Filling Station ..Nayara Petrol Pump",
+      "address": "V394+3XP, Sarai Shekh",
+      "lat": 26.8677239,
+      "lng": 81.05744,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy0AS6HnimzkRdsaWulWPDHY",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kanchanpur, Matiyari, Lucknow",
+      "lat": 26.8837727,
+      "lng": 81.04132609999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJn_5ekEJZmTkRuM6MixmqIGw",
+      "name": "IndianOil",
+      "address": "near 2 Km From Integral University, Ground Floor Paikramau, near 2 Km From Integral University, Kursi Road, Basaha, Lucknow",
+      "lat": 26.8859827,
+      "lng": 80.99476930000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJO7lmW4QlmjkR-__JuUjfWwE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Lucknow - Ayodhya Road, Sujaganj, Barabanki",
+      "lat": 26.885992,
+      "lng": 80.99473689999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUxsFevv5mzkRzHSjMkyCNec",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near HPCL Terminal, Lucknow Anora Road, Anora, Behta",
+      "lat": 26.885992,
+      "lng": 80.99473689999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJiQ8Jq7DjmzkRGoysxIhwIus",
+      "name": "Reliance Petroleum",
+      "address": "Ground Floor Ganeshpur, Opposite Akaashwani, Faizabad Road, Chinhat, Ganeshpur Rahmanpur",
+      "lat": 26.8832702,
+      "lng": 81.0437966,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJf0w8u5PjmzkRwiIuY_su81g",
+      "name": "HP CNG Pump",
+      "address": "Deva Road, Adarsh Nagar, Matiyari, Kamta, Lucknow",
+      "lat": 26.885938,
+      "lng": 81.0428294,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ29xJl3fimzkR2Y9HB6GHIMA",
+      "name": "Bharat Diesel & Tool Trading",
+      "address": "V2PV+P9R, Baba Market, Deva Road, Matiyari, Chinhat, Lucknow",
+      "lat": 26.886868,
+      "lng": 81.04340599999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJaW9ZhYFYmTkR3yoCyMfwKeA",
+      "name": "GULF LUBRICANTS",
+      "address": "India",
+      "lat": 26.8907195,
+      "lng": 81.0361885,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJg99DCQBZmTkRuI8_R-r0sn0",
+      "name": "5G site",
+      "address": "134, Takrohi Road, Chinhat, Lucknow",
+      "lat": 26.895351,
+      "lng": 81.01308,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJy2QVARjjmzkRVVDPoFEitX8",
+      "name": "IndianOil",
+      "address": "Faizabad Road, Service Road, Semra",
+      "lat": 26.88540919999999,
+      "lng": 81.04954289999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJI62tfABZmTkRyAttyxkRaQE",
+      "name": "Amit Gupta",
+      "address": "V2W8+CXQ, Takrohi, Lucknow",
+      "lat": 26.8960774,
+      "lng": 81.0174917,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJjww1S8pZmTkR8fKEa_tm4Ak",
+      "name": "सतीश कुमार कुशवाहा",
+      "address": "V2W8+CXQ, Takrohi, Lucknow",
+      "lat": 26.8960774,
+      "lng": 81.0174917,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ5_uY3zRRmTkRcHUrw9LpX0k",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sitapur Road, Lucknow",
+      "lat": 26.9531622,
+      "lng": 80.9291594,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_2X1u3BVmTkRxB2vbuOIb2w",
+      "name": "Chirag Indian Gas Agencies",
+      "address": "WV9V+G2P, Allu Nagar Diguria",
+      "lat": 26.9188487,
+      "lng": 80.8925653,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ5ZSR4l9VmTkRdKP2M772tfI",
+      "name": "Prakash Filing Station",
+      "address": "WV2F+C9X, Lucknow",
+      "lat": 26.9011068,
+      "lng": 80.8734689,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL-xXDGtVmTkR3GcBlfwm-Gc",
+      "name": "aliganj vihaan gas godown",
+      "address": "WV6R+2X8, Ghaila",
+      "lat": 26.9100259,
+      "lng": 80.8924579,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJyzguAZ9VmTkRQYUR01wXZx4",
+      "name": "IndianOil",
+      "address": "WR7X+9JR, Ground Floor, Barawan Kala, Jehta Mall Road, Kakori",
+      "lat": 26.9132567,
+      "lng": 80.8497649,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkSMdVABXmTkRE0cMWlhZUM0",
+      "name": "DEF UREA PUMP",
+      "address": "WWG2+Q8V, IIM Road, Mubarakpur",
+      "lat": 26.9269981,
+      "lng": 80.9007853,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYwr4jIBWmTkRUHDVdstTNp8",
+      "name": "HP PETROL PUMP SS FILLING STATION",
+      "address": "H P C Dealers Vill: Ullunagar Digaria IIM Road, Lucknow, Lucknow",
+      "lat": 26.927601,
+      "lng": 80.9022262,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl1kQijVXmTkR7AyAyja3LAU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, IIM Road, Dugaria, Allu Nagar Diguria",
+      "lat": 26.927592,
+      "lng": 80.902391,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7Yrt2oZWmTkRKXohZ0q-puI",
+      "name": "IndianOil",
+      "address": "WWJ4+42Q, Prabandh Nagar, Mubarakpur, Lucknow",
+      "lat": 26.9303537,
+      "lng": 80.90495949999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJF_AJPMVXmTkRifxlIA1a0VE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near IIM, IIM Road, Allu Nagar Diguria",
+      "lat": 26.930886,
+      "lng": 80.90611299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUTJllaxVmTkRIXMH5lXgAIU",
+      "name": "Reseller",
+      "address": "Land, E2/77, Lucknow",
+      "lat": 26.885647,
+      "lng": 80.8594506,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ1f-q1ptVmTkRjPcVbsuH1Ag",
+      "name": "Furniture shop",
+      "address": "E2/74, NEW, Lucknow",
+      "lat": 26.8855224,
+      "lng": 80.859685,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJc8pBSQVVmTkReEQYzSwgD3o",
+      "name": "Ranjit",
+      "address": "E2/47, E2/47, Doctor Ambedkar Road, Amrapali Yojna, Lucknow",
+      "lat": 26.8854591,
+      "lng": 80.8598349,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJQRTTCoRVmTkReyhleZ7IPEI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No E/2/COM/2A, IIM Road, Lucknow",
+      "lat": 26.8845096,
+      "lng": 80.8600209,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJI-kI9dRVmTkRWAB0hf6TO0E",
+      "name": "RAMNARESH SINGH",
+      "address": "Land, E2/54, Lucknow",
+      "lat": 26.8847228,
+      "lng": 80.8593195,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ8-1dQ0NVmTkR6876FL9oKi4",
+      "name": "Gonga Singh",
+      "address": "Land, E2/54, Lucknow",
+      "lat": 26.8847228,
+      "lng": 80.8593195,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJyeJgWs1VmTkRNzZbAzMzcDM",
+      "name": "Hotel dolphin digha",
+      "address": "Land, E, 2/128, Lucknow",
+      "lat": 26.8850632,
+      "lng": 80.85852489999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJsV70NhNWmTkRiLXusKxFZCE",
+      "name": "Jaglal Yadav Filling Station",
+      "address": "Ghaila Road, Hanumant Puram 2nd, Fazullaganj, Lucknow",
+      "lat": 26.9036346,
+      "lng": 80.9137326,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJieJzOeFXmTkRHZQa1_uLi4w",
+      "name": "Rahul Kumar",
+      "address": "22, Gaur Bheet Road, Fazullaganj, Lucknow",
+      "lat": 26.9048706,
+      "lng": 80.9162807,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJT2NqCkRVmTkRw9ds7TBXg-U",
+      "name": "Duggaur Bharatgas Agency",
+      "address": "Khasra No 773 Vill Duggaur Near Yadav Chauraha IIM Road, near Awadh Rifile Shooting, road, Sarora",
+      "lat": 26.951783,
+      "lng": 80.84682409999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS7mrwQxXmTkRopXmebNeR3M",
+      "name": "Bharat petroleum petrol station",
+      "address": "12, IIM Rd, near maharishi vidya mandir college, Mubarakpur, Lucknow",
+      "lat": 26.93278099999999,
+      "lng": 80.9223469,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJh0ki339VmTkRtqMRZiv5UF0",
+      "name": "Star Petroleum (Petrol pump)",
+      "address": "Tondan Marg, Dubagga, Lucknow",
+      "lat": 26.8769561,
+      "lng": 80.8527969,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnTd6hURWmTkRZmtQeCPoB5g",
+      "name": "Power Lubricant",
+      "address": "WW7G+MQG, Naubasta, Triveni Nagar, Nowbasta, Triveni Nagar, Sonam Marriage Hall, Triveni Nagar, Lucknow",
+      "lat": 26.9142,
+      "lng": 80.92696,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJNwLSsn1VmTkRfFBQ2NtvdLI",
+      "name": "Green Gas Limited",
+      "address": "India",
+      "lat": 26.8792359,
+      "lng": 80.84690549999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMeCdD_1XmTkRLo-MWHhK85w",
+      "name": "Singh Online Services",
+      "address": "316/315, Madiyan Narmdeshwer Mandir, Gayatri Nagar, Lucknow",
+      "lat": 26.9115997,
+      "lng": 80.9283916,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ6wp20vv9mzkRjoxOZXcRRss",
+      "name": "Goplden Oil Centre",
+      "address": "Hussainbad, Rahish Manzil, near Almas Creation, near Zari Art, Husainabad, Lucknow",
+      "lat": 26.87364999999999,
+      "lng": 80.90670999999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJrQl5dwD9mzkRO3K_c2WA0yk",
+      "name": "Aziz Khan",
+      "address": "412, Husainabad, Lucknow",
+      "lat": 26.871747,
+      "lng": 80.904365,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJc_5ktQVXmTkR20Jwo886lVs",
+      "name": "Vahuniya electronic Store",
+      "address": "Bhitauli, Lucknow",
+      "lat": 26.93131290000001,
+      "lng": 80.9328915,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJH7y1WAZUmTkRFVF-B_vkS7c",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sitapur Raitha Road, Bhauli",
+      "lat": 26.9683456,
+      "lng": 80.89023,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJW5oaMUtXmTkRhSRoQ-rI_AE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Saraiya",
+      "lat": 26.96579839999999,
+      "lng": 80.89921729999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJbeyZ0MBVmTkRwdpR_jYOXpM",
+      "name": "Deshpremi Filling Station (Diesel/Petrol)",
+      "address": "1127, Lodhmau Road, Borumau",
+      "lat": 26.9627172,
+      "lng": 80.8452537,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJU_LMAPlWmTkRRHa2WrHWIHA",
+      "name": "Pal Service Center",
+      "address": "WWJP+G25, Bhitauli Crossing,Sitapur Road, National Highway 24, Achchu Market, Jankipuram Extension, Bhitoli Khurd",
+      "lat": 26.9312653,
+      "lng": 80.93511199999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJy9n1gDX9mzkRM0pBdeNIwjs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Tandon Marg, Chowk, Lucknow",
+      "lat": 26.869251,
+      "lng": 80.90658100000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJp99AUm9XmTkRvu2Y8AKhz1k",
+      "name": "Jk furniture",
+      "address": "Abhishek Srivastava 616/Kh 98 Sa, Sitapur Road, Madiyaon Thana, Aziz Nagar, Mohibullapur, Madiyanva, Lucknow",
+      "lat": 26.9140127,
+      "lng": 80.9375776,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJvz3aOp1XmTkRm6kAUglkM0Y",
+      "name": "Reena electronic",
+      "address": "68, Sitapur Road, Sector F, Madhiyaon, Lucknow",
+      "lat": 26.9140127,
+      "lng": 80.9375776,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJz6zwTkhXmTkRmwWkDNRzoiE",
+      "name": "Online shopping",
+      "address": "643/9S, Satya Lok Colony, Mohibullapur, Lucknow",
+      "lat": 26.9113108,
+      "lng": 80.9373557,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJlQAzqKBXmTkRoSqxa2yWuKs",
+      "name": "Hotel lakhdatar",
+      "address": "Lucknow",
+      "lat": 26.9138568,
+      "lng": 80.93761339999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJceUJhU5XmTkRWAMoXRv2DAg",
+      "name": "Payment payment from",
+      "address": "Krishna Complex, Satya Lok Colony, Mohibullapur, Lucknow",
+      "lat": 26.9123479,
+      "lng": 80.9375783,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJYU84GjJXmTkR1I9gBV-8-sU",
+      "name": "Electronics shop",
+      "address": "Satya Lok Colony, Mohibullapur, Lucknow",
+      "lat": 26.9130589,
+      "lng": 80.9376431,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJld-jxWxXmTkRp73od-vd5GM",
+      "name": "furniture store",
+      "address": "Lodhi Market, Sitapur Road, Satya Lok Colony, Mohibullapur, Madiyanva, Lucknow",
+      "lat": 26.91286029999999,
+      "lng": 80.93763679999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ4SHnP55XmTkRnqiKXa-yy6E",
+      "name": "SANDEEP SHOP",
+      "address": "near Chandra Hospital, Plot No. 98, Sitapur Road, Mohibullapur, Madiyanva, Lucknow",
+      "lat": 26.9158832,
+      "lng": 80.9377883,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ1SedBs1XmTkR5XijXix8zDY",
+      "name": "Received money From",
+      "address": "near Chandra Hospital, Plot No. 98, Sitapur Road, Mohibullapur, Madiyanva, Lucknow",
+      "lat": 26.9158832,
+      "lng": 80.9377883,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJh9mHx01XmTkRv1Z3Exnbel4",
+      "name": "Om Automobile Gas",
+      "address": "Shop No 52, near Eldeco Colong, Sitapur Road, Madiyanva, Lucknow",
+      "lat": 26.9161857,
+      "lng": 80.9379828,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJr5O90vr9mzkR5Zf2HO0OvlY",
+      "name": "Indian Gas Salimar Gas Service",
+      "address": "VW94+HXH, Arif Ashiyana, Arif Ashiyana Chowk, Chowk, Nakkhas, Lucknow",
+      "lat": 26.86894,
+      "lng": 80.90749,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvy_XZ4lXmTkRLlxak3cWo1Y",
+      "name": "Received money credit",
+      "address": "WW7Q+269, Sector AGH, Lucknow",
+      "lat": 26.9125423,
+      "lng": 80.93811819999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJs4z_T3lXmTkROxPyiIb9a3I",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near BPC Bottling Plant, Kursi Road, Lucknow",
+      "lat": 26.9368848,
+      "lng": 80.98068219999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlenK6u5ZmTkRAR6dFO2zJBg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Kursi Road, Mahona, Paikaramau",
+      "lat": 26.963874,
+      "lng": 81.002394,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB1NL2zBRmTkRkxAEtomW4rA",
+      "name": "Nayara Petrol Pump",
+      "address": "Khasra No. 218, Village - Vargadi Magath, Bakshi Ka Talab, Bargadi Magath",
+      "lat": 26.984471,
+      "lng": 80.9271327,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq3WZYrRXmTkRxCFZQa9xxTQ",
+      "name": "IndianOil",
+      "address": "Ground Floor Jankipuram, Ring Road, Aliganj, Sector B, Near, Lucknow",
+      "lat": 26.9111084,
+      "lng": 80.9455045,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYVJ_y3FXmTkRcrwkPuaqgm0",
+      "name": "Receive money from",
+      "address": "E-SIB/100, Shiv Vihar Road, Sector A, Aliganj, Lucknow",
+      "lat": 26.9112015,
+      "lng": 80.94451339999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJnfVjBCRXmTkRfN1o7FbBEmQ",
+      "name": "BOOK SHOP",
+      "address": "E-SIB/100, Shiv Vihar Road, Sector A, Aliganj, Lucknow",
+      "lat": 26.9112015,
+      "lng": 80.94451339999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ49Aq96FXmTkR-p6sqyZyg-g",
+      "name": "RAMBHAROS YADAV",
+      "address": "E-SIB/100, Shiv Vihar Road, Sector A, Aliganj, Lucknow",
+      "lat": 26.91099729999999,
+      "lng": 80.94452369999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJn1tfiHhXmTkRgWo6-pe7eNQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Sachiwalay Colony, Faizabad, Sitapur Road, Aliganj, Lucknow",
+      "lat": 26.9106939,
+      "lng": 80.9484386,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJbo8GnZXmTkRQAteDiqTu9I",
+      "name": "Green Gas Limited CNG Station",
+      "address": "Usman Enclave, B-2/1, Aliganj, Lucknow",
+      "lat": 26.9104419,
+      "lng": 80.948556,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJtUmBHDxXmTkRc1CC-dLzzIo",
+      "name": "Electronics shop",
+      "address": "B2-283, Mohibullapur, Jankipuram, Lucknow",
+      "lat": 26.9117034,
+      "lng": 80.9411372,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJjajj-4ZXmTkRtUTWx2Odwvs",
+      "name": "old furniture and electronics",
+      "address": "B2-283, Mohibullapur, Jankipuram, Lucknow",
+      "lat": 26.9117034,
+      "lng": 80.9411372,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJBTsQputXmTkRRLKKZFrsUj0",
+      "name": "LAXMI MANDAL",
+      "address": "B2-283, Mohibullapur, Jankipuram, Lucknow",
+      "lat": 26.9117034,
+      "lng": 80.9411372,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJtfPYawBXmTkR6-jOJdRxmfw",
+      "name": "Suchit's Point",
+      "address": "26-647, 60 Feet Road, Sultanpur Village, Jankipuram Extension, Lucknow",
+      "lat": 26.9256293,
+      "lng": 80.9425758,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJh4Wcmn5XmTkRQecbmENVAtM",
+      "name": "Devkinandan fuel station jankipuram",
+      "address": "60 Feet Road, Sultanpur Village, Jankipuram Extension, Lucknow",
+      "lat": 26.9257139,
+      "lng": 80.94259009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzVICqo5XmTkRqsmpXzh0A3g",
+      "name": "PINTU FURNITURE SHOP",
+      "address": "Krishna Complex, Satya Lok Colony, Mohibullapur, Lucknow",
+      "lat": 26.9096716,
+      "lng": 80.95739739999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJU-wPezhXmTkRiVyHGL64DdU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, 60 Feet Road, Tiraha, Saraswathipuram, Jankipuram Extension, Lucknow",
+      "lat": 26.930715,
+      "lng": 80.94549599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_w1T01RWmTkRGCaC4_DzcmA",
+      "name": "HP PETROL PUMP - MISHRA BROTHERS SERVICE STATION",
+      "address": "60 Feet Road, Janki Vihar Colony, Jankipuram, Mulayam Tiraha",
+      "lat": 26.9307681,
+      "lng": 80.9455859,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxWfYjLlXmTkRw2TSiyO9WTI",
+      "name": "Shees filling station",
+      "address": "60 Feet Road, Lucknow",
+      "lat": 26.9310689,
+      "lng": 80.9455728,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJNTXVUwBXmTkRONKMgQoNtak",
+      "name": "Radhekrishna poojan Bhandar",
+      "address": "Atal Chauraha, Sector 5, Jankipuram Extension, Lucknow",
+      "lat": 26.9334147,
+      "lng": 80.9465307,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJMWMnOZZXmTkRYIPdvENnVQY",
+      "name": "लक्ष्मी फ्यूल सेन्टर",
+      "address": "India",
+      "lat": 26.9151147,
+      "lng": 80.9662105,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ_RQIPgBXmTkR9i28b2ewZ8s",
+      "name": "Petrol pump",
+      "address": "WWPX+WCF, 60 Feet Road, Sector 5, Jankipuram Vistar, Lucknow",
+      "lat": 26.9373184,
+      "lng": 80.9485387,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJDW58x7NXmTkRXwFn_2nl4Pk",
+      "name": "Reliance Petroleum",
+      "address": "Plot No 22, & 23, Kursi Road, Jahirpur, Gaurabagh, Gudumba",
+      "lat": 26.92455199999999,
+      "lng": 80.970039,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs9gE2lpXmTkRe1Xyw3DeOto",
+      "name": "BP Awadh – BPCL Petrol Pump",
+      "address": "Maan Lawn, Between Eldeco park view apartments, &, Sitapur Road, Priyadarshani Yojana, Lucknow",
+      "lat": 26.895297,
+      "lng": 80.9361928,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ92BNr81XmTkR1CnefJkZ1So",
+      "name": "Avadh Filling station",
+      "address": "in front of avadh club, Jankipuram extension Tiwari chauraha, in front of avadh club, Lucknow",
+      "lat": 26.9349666,
+      "lng": 80.96238559999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFa4yZwBXmTkR_JZg-dq7hzo",
+      "name": "Ola charging station",
+      "address": "Mama Chauraha, Sector M, Aliganj, Lucknow",
+      "lat": 26.89467,
+      "lng": 80.95498,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJpVgPXQBXmTkRW63VbEoW1M8",
+      "name": "Indian Oil petrol pump (Company owned company operated)",
+      "address": "VWVV+7PQ, Sector H, Sector-A, Aliganj, Lucknow",
+      "lat": 26.8932197,
+      "lng": 80.9443695,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJG7cwGwBZmTkRTvf0KKR_Oeo",
+      "name": "Solapur highway Tekdi Devli road",
+      "address": "Swapnil enclave, near Glory of God School, Lucknow",
+      "lat": 26.9117241,
+      "lng": 81.0163791,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ--4wxDpZmTkRWss8pv6gGCc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gata No 115MI, Amrai Gaon, Lucknow",
+      "lat": 26.917528,
+      "lng": 81.022278,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMSX6ilxYmTkR9tJ-AojRYdg",
+      "name": "Anmol Filling Station",
+      "address": "Amrai Gaon, Naubasta Kala",
+      "lat": 26.9154452,
+      "lng": 81.0230085,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJv6BUv21YmTkRjPV9W170V2o",
+      "name": "Petrol Pump",
+      "address": "V2X6+5PJ, 82A, Takrohi Road, Kranti Nagar, Shivaji Puram, Takrohi, Indira Nagar, Lucknow",
+      "lat": 26.9005511,
+      "lng": 81.0133278,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJC9R2RAtYmTkRp2Jd3jmmy-g",
+      "name": "IndianOil",
+      "address": "Ground Floor, Takrohi, Lucknow",
+      "lat": 26.900107,
+      "lng": 81.013042,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC7TdOq9ZmTkRBuB4J-CZ8wU",
+      "name": "Chandan Petrol Pump",
+      "address": "WX2X+HFH, Chandanapur, Indira Nagar, Lucknow",
+      "lat": 26.9014418,
+      "lng": 80.9987412,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHQmsAQBZmTkRU6hp6qwZH64",
+      "name": "Dgh",
+      "address": "Bhulbhulpur farms, Rasoolpur Sadat",
+      "lat": 26.943518,
+      "lng": 81.026578,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJaVhGnLlZmTkRP6YumIPfNG4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Deva Road, Matiyari, Kanchanpur",
+      "lat": 26.890989,
+      "lng": 81.0441001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOdACruRXmTkR-0Jbnlc52OE",
+      "name": "IndianOil",
+      "address": "Yadav Bhawan Mishrapur, B 26, Aliganj, Sector H, Lucknow",
+      "lat": 26.9381409,
+      "lng": 80.98183259999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ54zJCghXmTkRmRtU1d2QTfw",
+      "name": "SR Filling Station BPCL",
+      "address": "Major District Road 77C, Guramba",
+      "lat": 26.9316562,
+      "lng": 80.9775645,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ568w5ktZmTkRk0dPVtk3LqY",
+      "name": "Janta gases",
+      "address": "Khandak Marg, Goila",
+      "lat": 26.924139,
+      "lng": 81.05958770000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJTRU5BZ5ZmTkRIC0I7XH9lL8",
+      "name": "Ram Krishna Filling Station",
+      "address": "Kursi Road, Lucknow",
+      "lat": 26.9502049,
+      "lng": 80.9923848,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJoxVopc9ZmTkR8eQHEYKBb9A",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kursi Road, Tedhi Pulia, Chauraha, Lucknow",
+      "lat": 26.9517,
+      "lng": 80.9925,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJT8x9DxZmTkRIMvRLrmP6FE",
+      "name": "Tejas Filling Station",
+      "address": "Kursi Road, Lucknow",
+      "lat": 26.9517,
+      "lng": 80.992485,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe681aglZmTkRrpq7rC44brs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Nawabganj, Sarsaundi",
+      "lat": 26.9487001,
+      "lng": 81.053786,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQdd0_0lXmTkRbnVpUbr6peU",
+      "name": "Awadh Enterprises",
+      "address": "WXRC+4GM, Unnamed Road",
+      "lat": 26.9403456,
+      "lng": 80.9713089,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcdv9HABXmTkRCvKLzeRkaJc",
+      "name": "Indian Oil petrol pump",
+      "address": "VXX9+62G, Sector-10, Sector 11, Vikas Nagar, Lucknow",
+      "lat": 26.898052,
+      "lng": 80.9675927,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ-a8yS-hXmTkRX0DAy9pwqaA",
+      "name": "HP Petrol Pump : Kishore Filling Station",
+      "address": "Plot No 494, Vikas Nagar, Lucknow",
+      "lat": 26.89883749999999,
+      "lng": 80.9669198,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmUTXeADjmzkRqdDy76mc49M",
+      "name": "Bbd",
+      "address": "V3P5+VX5, Uattardhona",
+      "lat": 26.8871281,
+      "lng": 81.0600159,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJr1JmCwdZmTkR2wfdHgrBFPc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Faizabad Road, Uattardhona",
+      "lat": 26.892905,
+      "lng": 81.07003499999999,
+      "open_now": true
+    }
+  ]
+}

@@ -1,0 +1,1227 @@
+{
+  "city": "Visakhapatnam",
+  "state": "Andhra Pradesh",
+  "count": 152,
+  "center": {
+    "lat": 17.6868,
+    "lng": 83.2185
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJYyM-t_9rOToRSYDTMm1WKSM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "S No, 575, Balacheruvu Road, Kanithi, Gajuwaka, Visakhapatnam",
+      "lat": 17.6435301,
+      "lng": 83.1670101,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJATSRWIVuOToRaqDP6-_JLlo",
+      "name": "IndianOil",
+      "address": "Steel Plant, Sector 9, Desapatrunipalem, Visakhapatnam",
+      "lat": 17.6557034,
+      "lng": 83.1318675,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRcyqV0xpOToRSwox6Enumic",
+      "name": "IndianOil",
+      "address": "Lock No T1/22, Ravidas Street plant, near Cantee, Junction, Balacheruvu Road, Visakhapatnam",
+      "lat": 17.6606646,
+      "lng": 83.16776039999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ606IffFtOToR84OfM81S1Bk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "S, Atchutapuram Road, Paravada, Visakhapatnam",
+      "lat": 17.6248167,
+      "lng": 83.0867507,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_VzVldNuOToR28EcMBOObW0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "D No 31/4/3, Gajuwaka, Kurmannapalem, Visakhapatnam",
+      "lat": 17.68495009999999,
+      "lng": 83.1611301,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJz3-ZTwBvOToRetz31Euw1Z0",
+      "name": "Indian Oil Filling Station",
+      "address": "M44J+8QM, Nehru Road, Sector 12, Steel Plant Township, Visakhapatnam",
+      "lat": 17.6558356,
+      "lng": 83.1319175,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJc7XtgEJpOToRS44RA5BE2w8",
+      "name": "IndianOil",
+      "address": "S No 335, 1M Kanithi, Gajuwaka, Visakhapatnam",
+      "lat": 17.660496,
+      "lng": 83.186371,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJ89IzvltOToR3mkYwkd4QZo",
+      "name": "IndianOil",
+      "address": "Sub station junction, Visakhapatnam",
+      "lat": 17.6279039,
+      "lng": 83.0889487,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJG20G6GRpOToRWSZQhsSnvWo",
+      "name": "BPCL Petrol Bunk",
+      "address": "M53W+P7V, Visakhapatnam",
+      "lat": 17.65436859999999,
+      "lng": 83.1956756,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxRl9ta9pOToRMH0aivd-NMc",
+      "name": "IndianOil",
+      "address": "S No 287, 6, Gangavaram Port Road, Visakhapatnam",
+      "lat": 17.6642927,
+      "lng": 83.18959629999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhzXMO09pOToRJl4XKvYkFlY",
+      "name": "IndianOil",
+      "address": "Sy No 315/3B1 315, 7A 315/8A 315, Kanithi Road, Gajuwaka, Visakhapatnam",
+      "lat": 17.6628765,
+      "lng": 83.1925959,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJbeGoddpOToRLUgSVnzbAos",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Gangavaram Port Road, Gajuwaka, Pedagantyada, Visakhapatnam",
+      "lat": 17.6643724,
+      "lng": 83.1913392,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ05EkxT9pOToRiamw1DcOoDU",
+      "name": "Bharat Petroleum, Petrol Pump -Lakshmi Durgaa Filling Station",
+      "address": "M5FM+22J, KARNIVANIPALEM, Sri Nagar, Gajuwaka, Visakhapatnam",
+      "lat": 17.67153,
+      "lng": 83.1856274,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmT5-HV1tOToRwxHWkuLy9vI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "S No 34/9, near NTPC, Vada Cheepurupalli, Swayambuvaram",
+      "lat": 17.5817701,
+      "lng": 83.087445,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM9XoIwBpOToRooAnAc8dgKI",
+      "name": "Dibbapalem",
+      "address": "DIBBAPALEM, Gangavaram, Visakhapatnam",
+      "lat": 17.6784967,
+      "lng": 83.18307,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJMyyhV0xpOToREWoHE8rQfIk",
+      "name": "Indian Oil (Ravi Rays-Diesel Bunk)",
+      "address": "near Steel Plant, Vadlapudi, near Steel Plant, National Highway 16, main gate, Visakhapatnam",
+      "lat": 17.68483789999999,
+      "lng": 83.1713024,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs-u4sBZvOToRUGU636dbOvA",
+      "name": "Bharat Petroleum, Petrol Pump -Steel City Petro Fill",
+      "address": "AGNAMPUDI, Visakhapatnam",
+      "lat": 17.6880443,
+      "lng": 83.141634,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJF0KoTKBpOToRLZqMMTNQK9w",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 43/5, S, Dayal Nagar, Pedagantyada, Visakhapatnam",
+      "lat": 17.6719949,
+      "lng": 83.2105078,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaevPbBFpOToRZHwdEM-T8m4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 152/2, near The Gajuwaka Club, Gangavaram Port Road, Gajuwaka, Visakhapatnam",
+      "lat": 17.6771354,
+      "lng": 83.1933413,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJN31W0QVpOToRyuaNwP8nHp4",
+      "name": "IndianOil",
+      "address": "Lock No T1/44, Gajuwaka, Visakhapatnam",
+      "lat": 17.684501,
+      "lng": 83.202103,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkW8piJ9pOToR9RXbjLZmg08",
+      "name": "Bharat Petroleum",
+      "address": "M6C5+4VC, Balacheruvu Road, Pedagantyada, Visakhapatnam",
+      "lat": 17.6703109,
+      "lng": 83.20962949999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJKzjzxGBpOToR5ZwyJ8kyhr0",
+      "name": "BHARAT GAS GODOWN STREET",
+      "address": "23-60-3, Azeemabad, Gajuwaka, Visakhapatnam",
+      "lat": 17.6760862,
+      "lng": 83.2119783,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ-2WiraVpOToRF1XvZ3ooS4A",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "S No 79, Kakatiya ITI Road Junction, Balacheruvu Road, Gajuwaka, Visakhapatnam",
+      "lat": 17.6795857,
+      "lng": 83.2153828,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwagSrRZpOToRkeolhjjjm7I",
+      "name": "Bharat Petroleum, Petrol Pump -Kanchansri Agencies",
+      "address": "KARNIVANIPALEM, VISAKHAPAT, Visakhapatnam",
+      "lat": 17.6762364,
+      "lng": 83.1915727,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJA0TwY35pOToRkb3PEI7cJY8",
+      "name": "HANUMAN PETROLEUMS",
+      "address": "Sri Nagar Main Road, Sri Nagar, Gajuwaka, Visakhapatnam",
+      "lat": 17.6777894,
+      "lng": 83.1886689,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJW_J7DpBpOToRXnlzw563CJM",
+      "name": "Bharat Petroleum, Petrol Pump -V Chalamaiah Sons",
+      "address": "NEW GAJUWAKA, VISAKHAPATNA, 13-1-7/2, High School Road, Gajuwaka, Visakhapatnam",
+      "lat": 17.685532,
+      "lng": 83.2168081,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJU9jfU-BpOToR3G28nvou3Ic",
+      "name": "Bharat Petroleum, Petrol Pump -Mahalakshmi Enterprises",
+      "address": "M6M2+GVG, OLD GAJUWAKA, VISAKHAPATNA, Junction, Old Gajuwaka, Chaitanya Nagar, Gajuwaka, Visakhapatnam",
+      "lat": 17.68395,
+      "lng": 83.202371,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAf2Ouy5pOToR04camu4jENw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "D No 28/16/1, Vadlapudi, Gajuwaka, Visakhapatnam",
+      "lat": 17.6857037,
+      "lng": 83.17119559999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJR9X7dxhpOToRRwwxcWRjBl0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "D No, 123/4, Sri Ramnagar, Vadlapudi, Gajuwaka, Visakhapatnam",
+      "lat": 17.6834901,
+      "lng": 83.1862301,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ99blP0tuOToRZ6KTGLyrXEg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "S No 174, NH 5, Aganampudi, Parawada, Lankela Palem",
+      "lat": 17.6888074,
+      "lng": 83.10455859999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWSes2vRoOToRraBAa5ZSkTI",
+      "name": "Anuradha Auto Service Centre",
+      "address": "National Highway 5 Gajuwaka, Akkireddypalem, Visakhapatnam",
+      "lat": 17.7165133,
+      "lng": 83.2045941,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZQbpRwBvOToRuUKDWXtuqN8",
+      "name": "RAMANALAKSHMI SONS ENERGY STATION -IOCL",
+      "address": "Sy no 37, 3B1, Askapalli - Aganampudi Road, Duvvada, Gajuwaka, Visakhapatnam",
+      "lat": 17.6967568,
+      "lng": 83.1497418,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVVVVVSlvOToR3F1HPEIA2o8",
+      "name": "Ravi Rays",
+      "address": "Door No 32, near Steel Plant, M 1, Main Gate, Vadlapudi, Kurmannapalem, Visakhapatnam",
+      "lat": 17.698036,
+      "lng": 83.15953999999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJYZLZ4RRvOToRMj9bCCg-FIE",
+      "name": "Nayara Petrol Bunk",
+      "address": "M5W6+PJJ, 1, Phase 7, Dwarakapuri Colony, Vuda Colony, Kurmannapalem, Visakhapatnam",
+      "lat": 17.6976672,
+      "lng": 83.1628053,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq41CGzZpOToR6w99TSSPdO0",
+      "name": "Mahalakshmi Bharat Petroleum Pump",
+      "address": "P53J+Q9P, Yadava Jaggaraju Peta, Visakhapatnam",
+      "lat": 17.7044593,
+      "lng": 83.18094599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJceKnnJBpOToRv8PBHTXA4Xk",
+      "name": "IndianOil",
+      "address": "Sy No 39/P, Chinagantyada, Plot No 197/3, Visakhapatnam",
+      "lat": 17.696341,
+      "lng": 83.187637,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtfVicv1wOToR6jSegJUeToo",
+      "name": "IndianOil",
+      "address": "Lock No T1/78, NH 5, Chinagantyada, Gajuwaka, Visakhapatnam",
+      "lat": 17.6839263,
+      "lng": 83.1900644,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpZ4YMEtuOToRCIwfJV2Jc70",
+      "name": "IndianOil",
+      "address": "Ground Floor, Lankelapalem Rd NH 5, Gopalapatnam, Visakhapatnam",
+      "lat": 17.6897001,
+      "lng": 83.10380099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdeavRBppOToRDBQY8JZIQ3E",
+      "name": "Bharat Petroleum, Petrol Pump -Sri Sai Medha Pure Fuels",
+      "address": "D block, Road, Tungalam, Auto Nagar, Visakhapatnam",
+      "lat": 17.6996999,
+      "lng": 83.1915423,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhXftR-9pOToR_w320Hc9RqE",
+      "name": "Anuradha Auto Lubes - Lubricants in Vizag",
+      "address": "Plot No. 91, 92, B-Block, Auto Nagar, Visakhapatnam",
+      "lat": 17.695861,
+      "lng": 83.19572699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1ZqDSwBvOToR5BC5l14VHhw",
+      "name": "Nayara Petrol Bunk Pedamusidivada",
+      "address": "P453+M89, Pedamusidivada",
+      "lat": 17.7098729,
+      "lng": 83.1027421,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJlzt_RwBvOToRsTWyUXczCjk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Sabbavaram Road, Lankelapalem",
+      "lat": 17.697364,
+      "lng": 83.097019,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJd8ElU_NvOToRmteqKBPolXE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Sabbavaram Road, Lankelapalem",
+      "lat": 17.697364,
+      "lng": 83.097019,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQdhTqm1pOToRTJlV3Iua4xg",
+      "name": "Indian gas agency",
+      "address": "P52X+GW2, Auto Nagar Road, BHPV Township, Visakhapatnam",
+      "lat": 17.7010242,
+      "lng": 83.1998043,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJK_A8WLJvOToRAe0VRLYW3dQ",
+      "name": "Sri venkata satya agencies",
+      "address": "P4MP+F6M, Nanginarapadu, GVMC 88th ward, pedda gollapalem post, sabbavaram, mandalam, Nanginarapadu",
+      "lat": 17.7365355,
+      "lng": 83.1352735,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJd1v4NgBvOToRCgIHTjNPypI",
+      "name": "Bharat Petroleum Petrol Bunk",
+      "address": "M3HV+2V, Visakhapatnam",
+      "lat": 17.6774819,
+      "lng": 83.0952078,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJzxSLButvOToRuDdlldNw87w",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Pharma City, Lankelapalem",
+      "lat": 17.6760019,
+      "lng": 83.0948413,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo-FxEABvOToRBX_ff_ntqWk",
+      "name": "HPCL Petrol Bunk",
+      "address": "Pharmacity Road, parvada Road, Lankelapalem",
+      "lat": 17.67590599999999,
+      "lng": 83.094838,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ6ZPDdQBvOToRygn2faJp01A",
+      "name": "SNJR BHARAT Petroleum station",
+      "address": "SNJR, BHARAT PETROLEUM PUMP, near sri Annapurna transport",
+      "lat": 17.6869881,
+      "lng": 83.08033669999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJuavjfABvOToREhHU8us0nec",
+      "name": "Bharat Petroleum Petrol Bunk",
+      "address": "P4P2+PFV, Paidiwada Agraharam",
+      "lat": 17.7357008,
+      "lng": 83.10187169999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ0fQd99FpOToRjuIXgznJWmg",
+      "name": "Hindustan Petroleum HPCL Petrol bunk",
+      "address": "13, 530011, 62-1-13, ramakrishnapuram, High School Road, Sriharipuram, Visakhapatnam",
+      "lat": 17.6891355,
+      "lng": 83.2408628,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJV-rFZHlCOToRHonrIAiRV6s",
+      "name": "IndianOil",
+      "address": "Lock No, T1/31, Malkapuram, Visakhapatnam",
+      "lat": 17.6875535,
+      "lng": 83.2556113,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJw3mApIJCOToR08z6jfIXb0w",
+      "name": "Bharat Petroleum BP-VIZAG INSTALLATION",
+      "address": "P742+9CX, BPCL Road, HPCL Steel Plant",
+      "lat": 17.70599,
+      "lng": 83.2511035,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ37VMvJZCOToRVZNWcIYJn2c",
+      "name": "BPCL- Vizag Port Petrol Bunk",
+      "address": "Scindia Rd, Collgate Bus Stop, HPCL Steel Plant, Visakhapatnam",
+      "lat": 17.7149854,
+      "lng": 83.26581639999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFf_hdAdoOToRZVAGHHT35Gs",
+      "name": "IndianOil",
+      "address": "Karasa Ward No 31, S No 651, 652 & 653, Marripalem, Visakhapatnam",
+      "lat": 17.7407621,
+      "lng": 83.2427755,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9UlQlg9nOToRRP9zuxqTsNA",
+      "name": "Reliance Petroleum",
+      "address": "Door No 58, 17/50/1, NAD Kotha Road, Gate, Oppsite, NSTL, Visakhapatnam",
+      "lat": 17.7464402,
+      "lng": 83.24027869999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm3za7bZCOToRQjgjrdV2WbI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "S No 60/1A, near Old ITI Junction, D No 57/1/92/1A & 2A, Kapparada, Visakhapatnam",
+      "lat": 17.735311,
+      "lng": 83.268541,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB81X37JCOToR4TvuLP8Fuxg",
+      "name": "IndianOil",
+      "address": "Lock No, T1/6, Muralinagar, Kapparada, Visakhapatnam",
+      "lat": 17.7416896,
+      "lng": 83.2639913,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs7OgS1VCOToRIK5uPRa2XDs",
+      "name": "IndianOil",
+      "address": "Lock No T1/84, opposite Town Police Station, Port Area, Visakhapatnam",
+      "lat": 17.6958091,
+      "lng": 83.2930063,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ99Bt8CxpOToRYoLFgEgOQJY",
+      "name": "Essar Petrol and Diesel",
+      "address": "M6RH+C5M, Gajuwaka - Scindia Road, Pittalavanipalem, Sriram Nagar, Visakhapatnam",
+      "lat": 17.6910986,
+      "lng": 83.2279101,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJT5f27MtpOToR91fNL87b1r0",
+      "name": "SATYA JAISHEEL PETROLEUMS, CORAMANDAL GATE, MALKAPURAM",
+      "address": "65-1-194/c, High School Rd, Coromandel Gate, Ajantha Colony, Sriram Nagar, Sriharipuram, Visakhapatnam",
+      "lat": 17.6905735,
+      "lng": 83.23233429999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdQ4seABpOToRzMpZs1HHopo",
+      "name": "SDN FRUIT AND FLOWERS",
+      "address": "M6QM+X7V, Coromandel Gate, Sriharipuram, Visakhapatnam",
+      "lat": 17.6899848,
+      "lng": 83.2329483,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJfxyba0dpOToR-1zP-Q-yK30",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "RS No 23, HPCL Housing Complex Sriharipuram, Yarada Park Road, Malkapuram, Visakhapatnam",
+      "lat": 17.6888314,
+      "lng": 83.2410543,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM0-4OwBDOToRxg39LIARwN4",
+      "name": "Indian Oil Petrol Bunk",
+      "address": "M7Q4+255, T1-31, Gajuwaka - Scindia Road, HPCL Steel Plant, Visakhapatnam",
+      "lat": 17.6874403,
+      "lng": 83.255618,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJfY4JJgBDOToRQBo57-0YQ4M",
+      "name": "Ganapati site petrol pump and cng station",
+      "address": "M7Q4+27Q, Visakhapatnam",
+      "lat": 17.6875917,
+      "lng": 83.2557333,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBUl4ECJoOToRUj18fDqoIDk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "S No 2, Allagadda, Petro Park, Port Road, Visakhapatnam",
+      "lat": 17.7175939,
+      "lng": 83.24510509999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB5J3cwBDOToRjm_xRn-M4rs",
+      "name": "EIPL LPG Terminal",
+      "address": "P763+G2Q, East India Petroleum Road, HPCL Steel Plant, Visakhapatnam",
+      "lat": 17.7113363,
+      "lng": 83.25259609999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ_RkLbQBpOToRWqZbMaI8bbM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 516E, Port Connectivity Road, Visakhapatnam",
+      "lat": 17.7188322,
+      "lng": 83.2467334,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJD5_zWABpOToRw6M8uxJ3YJo",
+      "name": "HP Fuel Station",
+      "address": "Port Road, HPCL, Visakhapatnam",
+      "lat": 17.7188322,
+      "lng": 83.2467334,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJn3NyQABDOToRkINADekfrrM",
+      "name": "Circar petrol pump",
+      "address": "M7R9+J4X, Scindia Road, Hindustan Shipyard Colony, Visakhapatnam",
+      "lat": 17.69160429999999,
+      "lng": 83.2678686,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJcwvOIwBpOToR1WRmTTab7VA",
+      "name": "Signals",
+      "address": "P6PJ+FM6, Kakani Nagar Road, Kakani Nagar, Visakhapatnam",
+      "lat": 17.7361624,
+      "lng": 83.2316441,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJdagvgvhpOToRYTiHJOblHJI",
+      "name": "Nayara Petrol Bunk - Vasishta Express Fuel Station",
+      "address": "Survey Number 238/1, MES Pump House, Peda Narava",
+      "lat": 17.7399823,
+      "lng": 83.19972109999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9xngqr1nOToRAQO4zxM-eMM",
+      "name": "IndianOil",
+      "address": "Lock No, T1/14, Nad Junction, Visakhapatnam",
+      "lat": 17.7430768,
+      "lng": 83.2354639,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_5n6HN1nOToRXzCaXSa3EuM",
+      "name": "Bharat Petroleum, Petrol Pump -Sapthagiri Filling Station",
+      "address": "Araku - Visakhapatnam Road, Nad Junction, Buchirajupalem, Gopalapatnam, NSTL, Visakhapatnam",
+      "lat": 17.74515,
+      "lng": 83.2243703,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2WEEHxlpOToRoDie2n6MOjc",
+      "name": "Bharat Petroleum, Petrol Pump -Sri Sai Petroleums",
+      "address": "MARRIPALEM, VISAKHAPATNAM, Visakhapatnam",
+      "lat": 17.7407914,
+      "lng": 83.24692739999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ43aJ7ABoOToRP23AjZy8fDk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "S No 96/3, Main Road, Marripalem, Visakhapatnam",
+      "lat": 17.740651,
+      "lng": 83.249219,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdT7UMQBnOToR5pjBjyPgTHQ",
+      "name": "Sri Bharpani petroleum JIO BP",
+      "address": "P6WR+M35, NSTL, Visakhapatnam",
+      "lat": 17.7466437,
+      "lng": 83.2402425,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJgQscD9BnOToR4w3Y3Y_rjYQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "D No 8/12/60, Araku - Visakhapatnam Road, Gopalapatnam, Marripalem, Visakhapatnam",
+      "lat": 17.7524796,
+      "lng": 83.2180028,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjddMAWhDOToRJrBouA6saqA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "CR Reddy Circle, opposite Andhra University, Siripuram, Visakhapatnam",
+      "lat": 17.7229421,
+      "lng": 83.317978,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbUGz5S1DOToRLSJ8Yu95AAU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near Police Station, Plot No 121 & 122, Balayya Sastri Layout, Visakhapatnam",
+      "lat": 17.738161,
+      "lng": 83.304751,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcYeQ5S1DOToRWaos5UvnpsE",
+      "name": "IndianOil",
+      "address": "Ward No 34, VPT Land, Survey No 2/1, Dondaparthy Extn, Visakhapatnam",
+      "lat": 17.73997499999999,
+      "lng": 83.29608700000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm-ScRjxDOToRiGE-Ss4mp7s",
+      "name": "IndianOil",
+      "address": "Lock No T1/71, Resapuvanipalem, Visakhapatnam",
+      "lat": 17.7329263,
+      "lng": 83.317839,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJA96o7y1DOToRgWgC3DARgYA",
+      "name": "Kusum Kunj Enterprises",
+      "address": "P8Q3+M8M, NGGOS Colony, Akkayyapalem, Visakhapatnam",
+      "lat": 17.739205,
+      "lng": 83.3032861,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJi6vzultDOToRUAA-RB8mYAE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "opposite Polamamba Temple, S No 111, Pedda Waltair, Visakhapatnam",
+      "lat": 17.7294172,
+      "lng": 83.3289934,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJc3ILwDVDOToRwlJRzVDxmxs",
+      "name": "IndianOil",
+      "address": "Lock No T1 8, AP State Civil Supplies, Eenadu, Seethammadara, Visakhapatnam",
+      "lat": 17.740299,
+      "lng": 83.313411,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0f1TSVJDOToRxLQgmlnCDo0",
+      "name": "IndianOil",
+      "address": "L No T1, 91011, Isukathota, MVP Colony, Visakhapatnam",
+      "lat": 17.740999,
+      "lng": 83.32790399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUXnDbaZEOToRHOUI87v20Xk",
+      "name": "Bharat Petroleum",
+      "address": "Sarovar Apartment, 105, Beach Road, Lawsons Bay Colony, Pedda Waltair, Visakhapatnam",
+      "lat": 17.7319789,
+      "lng": 83.3407762,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPTwdBFNDOToRMFv6OPQCy50",
+      "name": "Bharat Petroleum Petrol Bunk",
+      "address": "P8VH+2CC, MVP Double Road, A.P.G.O Colony, Sector 1, MVP Colony, Visakhapatnam",
+      "lat": 17.7425659,
+      "lng": 83.3285033,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCTY-iv1COToR-7yR0GZYvfE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "D No 26/3/8, Chittaranjan Marg, Visakhapatnam",
+      "lat": 17.704401,
+      "lng": 83.2933201,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZePXbcxDOToRzvblveb_VBk",
+      "name": "BPCL - Matsya Marines",
+      "address": "FISHING HARBOUR RD, VISAKH, Visakhapatnam",
+      "lat": 17.7000524,
+      "lng": 83.3029471,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6fGZeSlDOToRcJR4jv3NQq0",
+      "name": "Pratibha Vaishnav",
+      "address": "STREET, Kotha Agraharam, Jalaripeta, STREET, Visakhapatnam",
+      "lat": 17.7011365,
+      "lng": 83.30225709999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJVb3_37FpOToRv1zTYp3GV5w",
+      "name": "Ramachandra Gas Agencies",
+      "address": "21-1-35, Town Kotha Road, AVN College Down, Jagadamba Junction, Visakhapatnam",
+      "lat": 17.7044571,
+      "lng": 83.29805259999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ64oPUR1DOToRfHeWy90164U",
+      "name": "IndianOil",
+      "address": "Lock No T1, 29, 75 Feet Road, Old Town, Visakhapatnam",
+      "lat": 17.7086828,
+      "lng": 83.29339829999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcfEDTx1DOToR_ZoDdrIL2Bw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "D, 26/3/1, 75 Feet Road, Purna Market, Visakhapatnam",
+      "lat": 17.709151,
+      "lng": 83.294321,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy9KrLxtDOToRBlB7LQ-xiDY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Turner Choultry, D No 28/8/34, Main Road, Jn, Town Kotha Road, Visakhapatnam",
+      "lat": 17.709361,
+      "lng": 83.300921,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJiwEjDY5DOToR5LsQ2buQAAE",
+      "name": "Akshaya fire services",
+      "address": "Raja Rammohan Roy Road, Suryabagh, Jagadamba Junction, Visakhapatnam",
+      "lat": 17.7114208,
+      "lng": 83.2988197,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJFdWV4RpDOToRHg3BREkifWY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "D No, 28/2, Turners Choultry Main Road, Maharani Peta, Jagadamba Junction, Visakhapatnam",
+      "lat": 17.7108908,
+      "lng": 83.3015944,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6e8e5R1DOToRWtBJFiuE17E",
+      "name": "Bharat Petroleum",
+      "address": "P77V+HM3, Bowdara Road, Daba Gardens, Allipuram, Visakhapatnam",
+      "lat": 17.7138809,
+      "lng": 83.29417409999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJa-B5bDVDOToRWrYEheXN-J8",
+      "name": "Tirumula enterprises BPCL petrol station",
+      "address": "beside Manorama Theater, 32-1-179, Bowdara Road, Allipuram, Visakhapatnam",
+      "lat": 17.7138709,
+      "lng": 83.2942364,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJz7x-9RtDOToRcEG3XDet7p4",
+      "name": "IndianOil",
+      "address": "No T1, Lock, 88, Leelamahal Road, Daba Gardens, Visakhapatnam",
+      "lat": 17.713301,
+      "lng": 83.298897,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOy7wxyJDOToRCbvZ7UDwCvk",
+      "name": "IndianOil",
+      "address": "Lock No T1/13, Convent Junction, Visakhapatnam",
+      "lat": 17.717301,
+      "lng": 83.289001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJewBnW7lDOToRQOcwPPLBLKQ",
+      "name": "Kiran fuels",
+      "address": "325 Kiran, Maharani Peta, Visakhapatnam",
+      "lat": 17.7127956,
+      "lng": 83.30872699999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJTSJam0pDOToRG7oZ5inLGa0",
+      "name": "IndianOil",
+      "address": "opposite DRM OFFICE, Station Road, Rateti_Aswini, Dondaparthy, Visakhapatnam",
+      "lat": 17.7181392,
+      "lng": 83.29919629999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9d2C7iNDOToRm2MnElBCsIw",
+      "name": "Indian Oil",
+      "address": "P7GX+5WJ, Waltair Station Approach Road, Dondaparthy, Railway New Colony, Visakhapatnam",
+      "lat": 17.7254579,
+      "lng": 83.2997516,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJsYC7odhCOToRuRid7RbLD4Y",
+      "name": "IndianOil",
+      "address": "D No 43/9/216, Sri Siddi Enclave, Railway New Colony, Visakhapatnam",
+      "lat": 17.72765039999999,
+      "lng": 83.29305049999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm-ScRjxDOToRzEiwEdiMkr4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "D No 48/19/11, Asilmetta, Opposite RTC Complex, Visakhapatnam",
+      "lat": 17.7248401,
+      "lng": 83.30774009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy6EYJDxDOToRGTko9BlNI5E",
+      "name": "Bharat Petroleum Petrol Bunk",
+      "address": "Riza Mansion, 9-1-262, Rama Talkies Road, CBM Compound, Asilmetta, Visakhapatnam",
+      "lat": 17.72487,
+      "lng": 83.3091656,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJFx8E4jdDOToRDS7dokg6UHc",
+      "name": "Petrol Pumps",
+      "address": "52-14, 77/a, 1st Lane, Dwaraka Nagar, Visakhapatnam",
+      "lat": 17.7257937,
+      "lng": 83.3075105,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJm_QQf39DOToRYDOOem8aPtk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Siripuram Junction, Siripuram, Visakhapatnam",
+      "lat": 17.7212283,
+      "lng": 83.3195022,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8Zq0wPNDOToRePb3BGX8xmg",
+      "name": "Bharat Petroleum, Petrol Pump -Lakshmi Samanvi Fuels",
+      "address": "VIZAG CITY (DIAMOND PARK), Visakhapatnam",
+      "lat": 17.7317968,
+      "lng": 83.2995237,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeb2L-TpDOToRKWBnrWfcoHc",
+      "name": "Reliance Petroleum",
+      "address": "D No 50, 81/1, 6 Seethampeta, Dwaraka Nagar, Visakhapatnam",
+      "lat": 17.7303301,
+      "lng": 83.306455,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-5NYCQBDOToR63hA-MTCCbE",
+      "name": "Vtc tower",
+      "address": "P8G8+F5Q, Asilmetta, Visakhapatnam",
+      "lat": 17.7262172,
+      "lng": 83.3154703,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJEUrxHjlDOToRIthVQMbC1vA",
+      "name": "రవి క్రిష్ణ మెస్",
+      "address": "India",
+      "lat": 17.7285537,
+      "lng": 83.311939,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJfysQ29ZCOToR2M0beyxne4s",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Shop No 5/2C/1, WN 34, Railway New Colony Road, Thatichetlapalem, Visakhapatnam",
+      "lat": 17.7354421,
+      "lng": 83.2888955,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfar_OUZDOToR00FLm4qop20",
+      "name": "Geo Fuel Pump",
+      "address": "Back Side, Staff Quarter, Andhra University, Visakhapatnam",
+      "lat": 17.7255081,
+      "lng": 83.32167510000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJm-ScRjxDOToRwPmZkL4wBSw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Door No 52, next to Bullayya College, 14/77/2, Resapuvanipalem Road, Visakhapatnam",
+      "lat": 17.7304578,
+      "lng": 83.3149071,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJszX2IyNDOToRcqgmFHAMtcs",
+      "name": "Bharat Petroleum, Petrol Pump -Sujatha Agencies",
+      "address": "M.V.P COLONY, VISAKHAPATNA, Visakhapatnam",
+      "lat": 17.7321733,
+      "lng": 83.317139,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJ8d5IFlDOToR9yZFTt0GYJE",
+      "name": "Siva Jyothi Enterprises CNG",
+      "address": "9-1-44, Resapuvanipalem Road, AU North Campus, Resapuvanipalem, Andhra University, Visakhapatnam",
+      "lat": 17.732425,
+      "lng": 83.31778419999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJY-1IAABDOToRRvqW5kSS8uE",
+      "name": "HPCL Petrol Bunk",
+      "address": "P8Q7+37X, Seethammadara, Visakhapatnam",
+      "lat": 17.7377302,
+      "lng": 83.31324219999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaVmEEltDOToR0UEKx28z7t8",
+      "name": "Inidan Oil",
+      "address": "India",
+      "lat": 17.7289846,
+      "lng": 83.327473,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ-TbfxkZkOToRycmxB98Oiss",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "S No 130/2, Sabbavaram",
+      "lat": 17.802348,
+      "lng": 83.13963199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJc4bN8kRkOToRlJ8YadxAAoM",
+      "name": "IndianOil",
+      "address": "Ground Floor Patha Road, Main Rd, Adduru, Sabbavaram Agraharam",
+      "lat": 17.8017001,
+      "lng": 83.1349,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJyfQwWf1lOToR5gr0yrWFMmc",
+      "name": "Sri Ganesh filling station",
+      "address": "Iruvada",
+      "lat": 17.7797915,
+      "lng": 83.1290464,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJyas8hAFlOToRxj6UhALVPC8",
+      "name": "Bharat Petroleum, Petrol Pump -Sri Satyasai Enterprises",
+      "address": "SABBAVARAM VILLAGE, VISAKH, Visakhapatnam",
+      "lat": 17.7822096,
+      "lng": 83.1170228,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ84FCRQBlOToR7rrI3F7Bg8E",
+      "name": "Nayara petrol bunk",
+      "address": "Q4QF+W34, Sabbavaram",
+      "lat": 17.7897607,
+      "lng": 83.1227031,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJfUeVPABlOToRGZAiN_en63Y",
+      "name": "VSP-0-J-006",
+      "address": "R42M+8VJ, Sabbavaram Agraharam",
+      "lat": 17.8008013,
+      "lng": 83.13460719999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJl_yoLABlOToRhF1V-RDc4ec",
+      "name": "Vizag",
+      "address": "R42M+8VJ, Sabbavaram Agraharam",
+      "lat": 17.80083,
+      "lng": 83.134655,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJC7XOh1BlOToReyEtZPfpbWY",
+      "name": "IndianOil",
+      "address": "Lock No T1/28, Adduru",
+      "lat": 17.8034001,
+      "lng": 83.1405,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMU07ZwBlOToRLzx1bWBj4o8",
+      "name": "Petrol Pump",
+      "address": "SH-38, Chodavaram Road, Gotivada",
+      "lat": 17.7932454,
+      "lng": 83.11554799999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ16wMtJZmOToRGjnyevV_RlQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "S No 85/2, 3, 7 & 8, Pendurthi Vepagunta Pinagadi, Road, Rampuram",
+      "lat": 17.804964,
+      "lng": 83.178381,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEZNsVJ9mOToRVGCjl8tBYO8",
+      "name": "IndianOil",
+      "address": "Ground Floor, Pendurthi, Chinamushidiwada, Pinagadi",
+      "lat": 17.81001,
+      "lng": 83.1699,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJT-4Y56JmOToRZAkWmY2pVIc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "S No 64/22/25/26, Pinagadi",
+      "lat": 17.8127108,
+      "lng": 83.1742161,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ8p6wrBnOToRxRN3HDMtguk",
+      "name": "IndianOil",
+      "address": "Lock No T3 & 120, Vepagunta, Visakhapatnam",
+      "lat": 17.77200329999999,
+      "lng": 83.21628439999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJebEJzrBnOToR-qgrjwsiLjI",
+      "name": "HP Gas Godown",
+      "address": "Q6C8+FJ8, NAD Flyover, BC Colony, Vepagunta, Visakhapatnam",
+      "lat": 17.7711598,
+      "lng": 83.2165775,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLev7PtBkOToRcYas6pBt-VI",
+      "name": "IndianOil",
+      "address": "Sy No 107, 678 21, Sh 38, Lagisettipalem",
+      "lat": 17.7939108,
+      "lng": 83.0881757,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzezLJgVnOToRLt-iq1dXU2o",
+      "name": "BFFS",
+      "address": "Krishnarayapuram, Visakhapatnam",
+      "lat": 17.7838702,
+      "lng": 83.2144596,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJScobkqlnOToR6SrEzGnwCzc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 32, 11 & 12A, BRTS Road, Krishnarayapuram, Pendurthi, Visakhapatnam",
+      "lat": 17.7864873,
+      "lng": 83.2137006,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuWhpMdhmOToRe6kmGOxjpoc",
+      "name": "Bharat Petroleum",
+      "address": "S NO 221 Penduthi Village Mandal, Pendurthi, Visakhapatnam",
+      "lat": 17.8235255,
+      "lng": 83.2048142,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5eRbk3BnOToRI1BebVN3y2s",
+      "name": "HP Petrol Bunk",
+      "address": "Survey No 211, Old Gosala Junction, near Gopalapatnam, BRTS Road, Old Adavivaram, Simhachalam, Visakhapatnam",
+      "lat": 17.771132,
+      "lng": 83.2355778,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJD3R63etnOToRuGVCujIOBsE",
+      "name": "Information",
+      "address": "D.no 402:, Sri Vigneswara Nilayam, back side hp petrol bunk, Sujatha Nagar, Visakhapatnam",
+      "lat": 17.7967465,
+      "lng": 83.2130438,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJX_qOoANnOToRDJ0CZFTGYfA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "S No 151/2, Papayyarajupalem Junction, Chinnamushidiwada, Pendurthi, Visakhapatnam",
+      "lat": 17.796781,
+      "lng": 83.211541,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9RL9VeZnOToRFNvd8SI-RMc",
+      "name": "IndianOil",
+      "address": "Ground Floor, Pendurthi, Visakhapatnam",
+      "lat": 17.81811099999999,
+      "lng": 83.206411,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJASsQAQBDOToR__UBXjVdUzI",
+      "name": "Bharat bunk kailasapuram",
+      "address": "P7VM+66R, Ganesh Colony, Visakhapatnam",
+      "lat": 17.7431094,
+      "lng": 83.28301569999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJt6Z21dlmOToRNBp50jL2olY",
+      "name": "Dora Filling Station",
+      "address": "India",
+      "lat": 17.8232388,
+      "lng": 83.2049361,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJP87DNOVnOToRX74Mn3FRoOs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "S No 221, Pendurthi, Visakhapatnam",
+      "lat": 17.8260049,
+      "lng": 83.2144916,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_XDLNNhmOToRbMGWnJCAiaw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 188, 2B, Kothavalasa Road, Pendurthi, Visakhapatnam",
+      "lat": 17.8252406,
+      "lng": 83.2042687,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJb6i8eqtcOToRqCeOn2xE10k",
+      "name": "Bharat Petroleum (Venkojipalem Petrol Bunk)",
+      "address": "223, MVP Colony, MVP Sector 1, Venkojipalem, Visakhapatnam",
+      "lat": 17.747549,
+      "lng": 83.3315939,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgxT6Aa1EOToROcPl6zzlKaY",
+      "name": "IndianOil",
+      "address": "MNVP Colony, opposite Appu Ghar, Beach Road, Kailasagiri, Visakhapatnam",
+      "lat": 17.7430196,
+      "lng": 83.3441065,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvf-7iU5DOToRQc5OhSlIm7M",
+      "name": "Bharat Petroleum",
+      "address": "P8QF+54C, B.A.R. & Co, BPCL Petrol Bunk, # 53-17-17/2, Maddilapalem, National Highway 16, Maddilapalem, Visakhapatnam",
+      "lat": 17.7377451,
+      "lng": 83.3225911,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlfZTIadcOToRDHQLKQgJ5NQ",
+      "name": "Bharat Petroleum BPCL Petrol Bunk",
+      "address": "Service Road, Indira Gandhi Nagar, Adarsh Nagar, Visakhapatnam",
+      "lat": 17.7617115,
+      "lng": 83.3339556,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJud7YEltDOToRJkkiHa9cuwY",
+      "name": "IndianOil",
+      "address": "Lock No T1/16, Chinna Waltair, Visakhapatnam",
+      "lat": 17.7290004,
+      "lng": 83.32749629999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo67L0lZbOToRISPtL1t3j5M",
+      "name": "Police Welfare Petrol Bunk (HP) - Hindustan Petroleum",
+      "address": "9-580, Police Quarters Road, Vishalakshi Nagar, Visakhapatnam",
+      "lat": 17.753821,
+      "lng": 83.341293,
+      "open_now": true
+    }
+  ]
+}

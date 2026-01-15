@@ -1,0 +1,755 @@
+{
+  "city": "Jhansi",
+  "state": "Uttar Pradesh",
+  "count": 93,
+  "center": {
+    "lat": 25.4484,
+    "lng": 78.5685
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJPfKsEhd6dzkRp4znozZi3_4",
+      "name": "IndianOil",
+      "address": "Jhansi - Lalitpur Road, Bijoli",
+      "lat": 25.383646,
+      "lng": 78.553276,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHaPO-X17dzkR6sndJEMN64Q",
+      "name": "Mobile store",
+      "address": "442, Bhel Rajagarh Road, Jhansi",
+      "lat": 25.3767703,
+      "lng": 78.5311311,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJFajKUAt7dzkRNe64u3xFeWs",
+      "name": "Bharat Petroleum, Petrol Pump and cng pump - Mahadev Motors",
+      "address": "Shivpuri - Lalitpur Bypass Road, Bijauli Industrial Area",
+      "lat": 25.367299,
+      "lng": 78.5423984,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ--l66P1xdzkRUb7LIV8T13Y",
+      "name": "IndianOil",
+      "address": "476 Mi, Dongri",
+      "lat": 25.4174759,
+      "lng": 78.4830018,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNRj_bzh6dzkR46LasEbxN7c",
+      "name": "Reliance Petrol Pump",
+      "address": "N South Corridor Road (NH-26), Bijaul Industrial Area, Bijauli, Jhansi",
+      "lat": 25.369588,
+      "lng": 78.544403,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZZ9uBbF7dzkReCClENyk2DY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Jhansi - Lalitpur Road, Khailar",
+      "lat": 25.3472467,
+      "lng": 78.5352134,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmZv2inJ7dzkRaa6MAYzmcuQ",
+      "name": "Saurabh Kirana Store",
+      "address": "Shastri Nagar, Main Road, Ballampur, Ballampur Road, Jhansi",
+      "lat": 25.3898547,
+      "lng": 78.5488135,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJnemlegV6dzkRksXR82XQa8o",
+      "name": "Bharat Petroleum, Petrol Pump - Prakash Motors",
+      "address": "N South Corridor, Road, National Highway 26, Hansari, Jhansi",
+      "lat": 25.3940667,
+      "lng": 78.5554198,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2QpCeqJ7dzkRPc_jNstSZIg",
+      "name": "IndianOil",
+      "address": "Ground Floor, Municipal Board, Jhansi - Lalitpur Road, Chauraha, Khailar",
+      "lat": 25.331619,
+      "lng": 78.52848399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqd0NnAN6dzkRk3-RWeNAouY",
+      "name": "Tayalco Filling Station (Indian Oil)",
+      "address": "9HW6+5HR, near Pac, Jhansi - Lalitpur Road, Bijoli",
+      "lat": 25.395484,
+      "lng": 78.561403,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJE8SptZx7dzkRxHNDwA-z_xs",
+      "name": "BHEL Veerangana Petrol Station",
+      "address": "Pankaj Ghavri, Gate No.3, Jayanti Park Road, Township, BHEL Area, BHEL Jhansi Factory",
+      "lat": 25.3194127,
+      "lng": 78.5247511,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCUveWAB7dzkRKjz_VeNQYYQ",
+      "name": "BPCL PUMP",
+      "address": "Simrawari",
+      "lat": 25.3095064,
+      "lng": 78.5121286,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJA13Eyip3dzkRANzDlDlJM8Q",
+      "name": "IndianOil",
+      "address": "No 944, Lock No, 11020, Civil Lines, Jhansi",
+      "lat": 25.449394,
+      "lng": 78.566223,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_____0t3dzkRFp9Wq3ppnGI",
+      "name": "Om Shanti Filling Station (Reliance Petroleum)",
+      "address": "Civil Lanes NH 26, Bijoli",
+      "lat": 25.4222557,
+      "lng": 78.5717631,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJK6Es2C15dzkRcmFO_15oZBw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Kh No 981/3, 982, Gundrai, Orchha",
+      "lat": 25.346931,
+      "lng": 78.622917,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2Q96yxl3dzkRTzyfxMyOzrE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "500, Sadar Bazar, Jhansi",
+      "lat": 25.43791450000001,
+      "lng": 78.5820954,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbRz55zp3dzkRj-0bBKRh384",
+      "name": "IndianOil",
+      "address": "Ground, Sadar Bazar, Jhansi",
+      "lat": 25.438828,
+      "lng": 78.579819,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgeZpnyx3dzkRm6cg-vxItAY",
+      "name": "HiP PETRjuOL PUMP - VENKTESWAR HP CENTRE",
+      "address": "Vill Rampura Tehsil Madogarh",
+      "lat": 25.445018,
+      "lng": 78.567567,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL0Y0jRtxdzkRe_656oevL6I",
+      "name": "IndianOil",
+      "address": "Plot 2359, Isai Tola, Sadar, Khati Baba, Jhansi",
+      "lat": 25.4413957,
+      "lng": 78.5412138,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwWJHUwB3dzkRIGAf0wFBxwc",
+      "name": "Shivhare petrol pump jhanshi",
+      "address": "Civil Lines, Jhansi Rly. Settl",
+      "lat": 25.4467449,
+      "lng": 78.5675047,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQwBupLN3dzkRUxaZESn_SpQ",
+      "name": "Aahil Filing Station",
+      "address": "near by Hyundai Showroom, 80, Civil Lines, Jhansi",
+      "lat": 25.4487804,
+      "lng": 78.5663062,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJb2zygyh3dzkR4wcI-CWl-jw",
+      "name": "Bharat Petroleum, Petrol Pump - V R Motors",
+      "address": "CHXG+CV2, Jhokhanbagh Road, Jhokan Bagh, Jhansi",
+      "lat": 25.4485195,
+      "lng": 78.5771263,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ37glPtVwdzkRxZ2fiERjDC8",
+      "name": "Bharat Petroleum, Petrol Pump - Anil Automobiles",
+      "address": "CHX8+R2P, Shivpuri - Jhansi Road, Civil Lines, Cantt, Jhansi",
+      "lat": 25.4495971,
+      "lng": 78.5650754,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJVcM5LEd3dzkRXyz-F-unGk8",
+      "name": "Bharat Petroleum, Petrol Pump - Anand Fuel Station",
+      "address": "CIVIL LINES, NATRAJ MOBILE, Jhansi",
+      "lat": 25.4496285,
+      "lng": 78.56512320000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcxiCZJd3dzkRgWOQOM8ImiU",
+      "name": "IndianOil",
+      "address": "Elite Chauraha, Civil Lines, Jhansi",
+      "lat": 25.450247,
+      "lng": 78.57017499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ80-uTlOddzkRqdxhISNE-ck",
+      "name": "Bharat Petroleum, Petrol Pump - Kshatriya Filling Station",
+      "address": "jhansi , NH-76, Jhansi khjuraho Road, Laxmanpura",
+      "lat": 25.4123,
+      "lng": 78.6636,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3VlMvpR3dzkRnY44x9Tn1G4",
+      "name": "IndianOil",
+      "address": "Jhansi - Mauranipur Highway, Bhagwantpura",
+      "lat": 25.4280174,
+      "lng": 78.6324623,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJu0QDhb13dzkRi7u_pKrwYRk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Bhagwantpura",
+      "lat": 25.4327093,
+      "lng": 78.6269081,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5x9_RtuCdzkRlR-zAjlxAPA",
+      "name": "IndianOil",
+      "address": "Ground Floor Ghughuwa, Nohat Ksheer, Barua Sagar",
+      "lat": 25.3978191,
+      "lng": 78.6919075,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHbIkhgdxdzkR7ZRHaqwoWA0",
+      "name": "IndianOil",
+      "address": "Ground Floor, Shivpuri Road, Jhansi",
+      "lat": 25.4569306,
+      "lng": 78.5208869,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDbbbJidxdzkRr1a8BpenADw",
+      "name": "Bharat Petroleum, Petrol Pump - Amber Filling Station",
+      "address": "Sipri Bazar, Jhansi",
+      "lat": 25.4524641,
+      "lng": 78.5501912,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWWA9K0BxdzkRXuG4Su0Dgwk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 27, Shivpuri - Jhansi Road, Raksa, Jhansi",
+      "lat": 25.457301,
+      "lng": 78.499201,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwfsG7x9xdzkRsyHyf6a3cL0",
+      "name": "CUGL Mother Station JHANSI",
+      "address": "FG49+7WH, Lahargird",
+      "lat": 25.4556971,
+      "lng": 78.51986,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJa71gdwBxdzkRpXufngJ7BqY",
+      "name": "Shorvi Fuels petrol pump",
+      "address": "FG4C+QMG, Shivpuri Road, ganesh Vihar, Jhansi",
+      "lat": 25.4569443,
+      "lng": 78.52169350000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJCek1cx1xdzkROpYOMxhCvhA",
+      "name": "Manish Petrol Pump",
+      "address": "126, Bankers' Colony, Jhansi",
+      "lat": 25.4600154,
+      "lng": 78.5320108,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJL67V1BhxdzkRawahTNEIqzU",
+      "name": "IndianOil",
+      "address": "Lock No IG3630, Shivpuri - Nagra Road, Nandanpura, Jhansi",
+      "lat": 25.454689,
+      "lng": 78.540672,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAaP9wxJxdzkRgL3bLC-un98",
+      "name": "HP PETROL PUMP",
+      "address": "Village Sijwaha NH-27, Raksha, Shivpuri -Jhansi Road",
+      "lat": 25.4707079,
+      "lng": 78.53379199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqRusaQdxdzkRtVZ8X9UR01E",
+      "name": "Bharat Petroleum, Petrol Pump -Prakash Motors",
+      "address": "RAJGARH, LALITPUR ROAD, Jhansi",
+      "lat": 25.4546054,
+      "lng": 78.549854,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ2wC_WU9vdzkRSm8pcomSwHI",
+      "name": "Bharat Petroleum, Petrol Pump - R.B. Chhajju Singh & Sons",
+      "address": "Shivpuri - Gwalior Bypass Road, Raksa, Jhansi",
+      "lat": 25.4626308,
+      "lng": 78.4475484,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl2yIS3RvdzkRaJ5mTHfFoe8",
+      "name": "Bharat Petroleum, Petrol Pump -Janki Dhyanchand & Sons",
+      "address": "DAGARWAHA, SHIVPURI ROAD, Jhansi",
+      "lat": 25.46265,
+      "lng": 78.4467169,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJXQddMkBxdzkRfK9ERUQuU3s",
+      "name": "IndianOil",
+      "address": "Gata No 149, 150 & 151, Nayagaon",
+      "lat": 25.480103,
+      "lng": 78.54775099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTbLom4tudzkRS2PUgJQnlSM",
+      "name": "Anand Motors",
+      "address": "FC8G+J2, Dhikoli",
+      "lat": 25.4788741,
+      "lng": 78.4382469,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEW8hzfN3dzkREIG9wJbwUx4",
+      "name": "Deepraj",
+      "address": "1171, Talpura, Jhansi",
+      "lat": 25.4509235,
+      "lng": 78.5702862,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJb3LRsS1xdzkR_WETidDblQU",
+      "name": "IndianOil",
+      "address": "Ground Floor, Buddha, Gwalior - Jhansi Road, Abbotganj, Jhansi",
+      "lat": 25.491787,
+      "lng": 78.554046,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy_-ltlFxdzkR4hWGefz0f5M",
+      "name": "Bharat Petroleum, Petrol Pump - Vishnu Automobiles",
+      "address": "Shankar Road, Ansal Colony, Jhansi",
+      "lat": 25.4872875,
+      "lng": 78.5580241,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqfRgUyBxdzkReLWvWiB4a9Y",
+      "name": "CUGL CNG Station, Bhagwati Filling",
+      "address": "near sutimeel, Gwalior Road, Jhansi",
+      "lat": 25.4917975,
+      "lng": 78.5540944,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6T1IHS53dzkR7DW28DkI1hw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Araji No, New No 145, House No 277, near Aantiya, 3009 to 3011, Antiya Talab Road, Jhansi Khas",
+      "lat": 25.45932089999999,
+      "lng": 78.5710927,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgyqsCk5xdzkREOsPO-f0SdI",
+      "name": "IndianOil",
+      "address": "Gwalior Road, Ansal Colony, Jhansi",
+      "lat": 25.484186,
+      "lng": 78.560585,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNbFofQV3dzkRoNayhoa0XBk",
+      "name": "UPC HP",
+      "address": "Shop No.102, ASHIK CHAURAHA, Loha Mandi, Jhansi",
+      "lat": 25.45915939999999,
+      "lng": 78.57123229999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJWVm2GTR3dzkRKJ5ms00qbq8",
+      "name": "SRI RAM HP petrol pump",
+      "address": "ASHIK CHAURAHA, College Road, Sharda Hills Colony, Panchkuiyan, Loha Mandi, Jhansi",
+      "lat": 25.4590542,
+      "lng": 78.5712794,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_TJLoj5zdzkRMieykgMJ1R8",
+      "name": "IndianOil",
+      "address": "Gata No 1038, 1039, Rd, Punawalikala, Raksa",
+      "lat": 25.5143851,
+      "lng": 78.47673259999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCz0BFoN3dzkRWRWZ_53pF20",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gata No 790, near Bhani Devi Goyal School, 26, Balaji Unnao Road, Nayagaon",
+      "lat": 25.478783,
+      "lng": 78.56805899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVWreOslzdzkRHMImj3fgfVo",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Grassland Institute, Gwalior - Jhansi Road, karari",
+      "lat": 25.5131464,
+      "lng": 78.5282945,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjdO8FoRvdzkRs590zdEhw0w",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 25, Shivpuri - Jhansi Road, Raksa, Dagarwaha",
+      "lat": 25.4674214,
+      "lng": 78.4219883,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6TBXwzB2dzkRcAy4B77Ut0M",
+      "name": "Bharat Petroleum, Petrol Pump - Srikrishna Energies",
+      "address": "Shop No.00, NH 25, Jhansi",
+      "lat": 25.4662803,
+      "lng": 78.6409323,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1a-F1TF2dzkRIgbngQRF5Eo",
+      "name": "IndianOil",
+      "address": "Ground Floor, Municipal Board, Chauraha, Kanpur - Jhansi Highway, Jhansi",
+      "lat": 25.4656905,
+      "lng": 78.6455881,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJj8g09yd3dzkRuApXNGql9ag",
+      "name": "H.P. PETROL PUMP - RAJHANS AUTOMOBILES",
+      "address": "HP PET Dealers NEW Road Fort Jhansi",
+      "lat": 25.451606,
+      "lng": 78.57825199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo3PWslp3dzkRQFniGoF56LI",
+      "name": "Bharat Petroleum, Petrol Pump -V R Motors",
+      "address": "JOKHAN BAG, Jhansi",
+      "lat": 25.4506364,
+      "lng": 78.588943,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJDd3mSrd3dzkRXIGyGbLHBG4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Shivaji Nagar, Jhansi",
+      "lat": 25.4525406,
+      "lng": 78.5886921,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJE2i4daF3dzkRSPsMKvlLcOA",
+      "name": "Marutee Petroleum And Highway Service",
+      "address": "Marutee Petroleum NH 25 Chirgaon, Jhansi",
+      "lat": 25.4680807,
+      "lng": 78.5814698,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJU_P6bC13dzkRMhPRYckNRns",
+      "name": "Jan Seva Kendra",
+      "address": "00, Shivaji Nagar, Jhansi",
+      "lat": 25.4505956,
+      "lng": 78.59487010000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ-a9htBZ3dzkRmcNMDI2MxRc",
+      "name": "Lalit Chaudhary",
+      "address": "Shop Number 24, Bada gaon, Jhansi",
+      "lat": 25.4472476,
+      "lng": 78.5955044,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJOwW1zxx3dzkRGjSZAGdpNrI",
+      "name": "Bharat Petroleum, Petrol Pump - United Brothers",
+      "address": "National Highway, 39, Kanpur - Jhansi Highway, Shivaji Nagar, Jhansi",
+      "lat": 25.4500022,
+      "lng": 78.5993998,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7fLe1lJ3dzkRKUPP5EZbGvU",
+      "name": "IndianOil",
+      "address": "Shivaji Nagar, Jhansi",
+      "lat": 25.4504664,
+      "lng": 78.5998883,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo2IrFDx3dzkR13uNDe9PG6o",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kanpur Road, Jhansi",
+      "lat": 25.452381,
+      "lng": 78.60284399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTw7dGwJ3dzkR-evs_IMtjb8",
+      "name": "Sanchit Petroleum",
+      "address": "Beside Bundelkhand University Kanpur, road, Jhansi",
+      "lat": 25.4531021,
+      "lng": 78.6052943,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDaML0rp3dzkRlizk1v0HV8U",
+      "name": "IndianOil",
+      "address": "Talpura, Risala Chungi, near Bundelkhand University, Jhansi",
+      "lat": 25.4527437,
+      "lng": 78.6055019,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPxqBh7R3dzkR7N2xztT--4w",
+      "name": "Bharat Petroleum, Petrol Pump - Aarya Filling Station",
+      "address": "Bundelkhand University, Jhansi",
+      "lat": 25.4552453,
+      "lng": 78.6110787,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlcaCEd93dzkRV3pW3Low8uE",
+      "name": "Bharat Petroleum, Petrol Pump - Pinaki Fuels",
+      "address": "MERI, JHANSI BYPASS, NH 27 OPPOSITE SAROJ HOSPITAL Shivpuri - kanpur Jhansi bypass,Kanpur, bypass, Jhansi",
+      "lat": 25.4802465,
+      "lng": 78.5977236,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQx7Hu1V2dzkRChBwJ8qPzG8",
+      "name": "Water Pump",
+      "address": "India",
+      "lat": 25.458654,
+      "lng": 78.6133909,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJe80uRgB1dzkRmTlyUpqAhOM",
+      "name": "Indian oil lav kush enery station",
+      "address": "GH3G+WVC, Balaji Unnao Road, Jhansi",
+      "lat": 25.5043728,
+      "lng": 78.57723469999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJazXtjBt1dzkRCCCocuEwvTE",
+      "name": "HP Petrol Pump",
+      "address": "GH4G+MRJ, Balaji Unnao Road, Ansal Colony, Jhansi",
+      "lat": 25.5067045,
+      "lng": 78.57701999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_dQi5ux1dzkR6n3cidZqB58",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Arazi No, 606 & 603, Bhojla",
+      "lat": 25.5075253,
+      "lng": 78.5771168,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbR_Bbfp1dzkRYlG08yyXE-0",
+      "name": "Bharat Petroleum, Petrol Pump - Dada Kalicharan Filling Station",
+      "address": "GH6G+2XJ, Balaji Unnao Road, Jhansi",
+      "lat": 25.5102112,
+      "lng": 78.5778739,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJt1UP53l3dzkRucidcmkrAyo",
+      "name": "Bharat Petroleum, Petrol Pump - Shakti Filling Station",
+      "address": "Digara-Bhagwantpura, bypass, Jhansi",
+      "lat": 25.4617571,
+      "lng": 78.6504528,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIdrOg0B3dzkRohcWp2CcSto",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 25, Kanpur - Jhansi Highway, Digara",
+      "lat": 25.4644653,
+      "lng": 78.6489318,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgaTL9IWddzkRuhApu9mHdBc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Goramachia, NH 27, Jhansi - Kanpur Highway, Jhansi",
+      "lat": 25.4700889,
+      "lng": 78.663972,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdQFUSNNwdzkRIsqGscRF9HI",
+      "name": "Parecha Automobiles",
+      "address": "FM99+XRF, Civil Lines, Goramachhiya",
+      "lat": 25.4699356,
+      "lng": 78.6695542,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqWozn5qddzkRA1afOi-5D3U",
+      "name": "Reliance Petroleum",
+      "address": "Ground Floor, Goramachiya, near Maida Hill, Jhansi",
+      "lat": 25.4701175,
+      "lng": 78.669607,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZfz0ZYyddzkRQBTthhwxsiA",
+      "name": "IndianOil",
+      "address": "Ground Floor, Municipal Board Chauraha, Goramachiya, Digara",
+      "lat": 25.466801,
+      "lng": 78.677742,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8R6olieddzkRXplu_4XH65k",
+      "name": "Bharat Petroleum, Petrol Pump - Richhariya Highway Halt",
+      "address": "National Highway 27, Digara",
+      "lat": 25.47105,
+      "lng": 78.6825709,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdUILMwCddzkRh7Qc1m99-Ks",
+      "name": "Bharat Petroleum, Petrol Pump - Radhey Radhey Filling Station",
+      "address": "FMCM+P3, Digara",
+      "lat": 25.4718304,
+      "lng": 78.68270509999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJfQbDw7qddzkR1arDQ2i-1eM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Suetha Kalan Chauraha, Municipal Board, Goramachhiya",
+      "lat": 25.473288,
+      "lng": 78.689041,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe02dTo9zdzkRnQAmirTiwxY",
+      "name": "CNG ADANI STATION SHAHEED SINGHRAN FILL ST",
+      "address": "GGP5+JQJ, Gwalior - Jhansi Road, Ambabai",
+      "lat": 25.5365808,
+      "lng": 78.5093871,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6fz0fVdydzkRXvMkRp5ltE0",
+      "name": "IndianOil",
+      "address": "Ground Floor, Gwalior - Jhansi Road, Ambabai",
+      "lat": 25.5366214,
+      "lng": 78.5093534,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsyBdH71zdzkRZ-LzdC-La58",
+      "name": "Bharat Lodhi",
+      "address": "HF3X H9X, Gwalior - Jhansi Road, Ambabai",
+      "lat": 25.5541374,
+      "lng": 78.4988379,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJlVeFrLBydzkR0BNtWQExTJ0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 75, Gwalior Road, Ambabai",
+      "lat": 25.5740391,
+      "lng": 78.4921079,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq2Q9cVFzdzkRyq0LM12jPIA",
+      "name": "SM Filling Station",
+      "address": "Sm Filling Station, near Alpine Public School, Ambabai",
+      "lat": 25.5743512,
+      "lng": 78.4931788,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTZTQEvJ0dzkR17GAX4tMxoc",
+      "name": "IndianOil",
+      "address": "near Dulhe Raja Mandir, Ground Floor Isagarh, near Dulhe Raja Mandir, Bara Bazar, Kot",
+      "lat": 25.5574503,
+      "lng": 78.5931497,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe6RpyMV0dzkRMoNXSfT4g5w",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Datia Unao Road, Unao",
+      "lat": 25.5795397,
+      "lng": 78.5957734,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHQGmSQB1dzkRN_PD6BSnH34",
+      "name": "GS FUEL FILLING BIRGUWAN",
+      "address": "GJVR+3R, Birguwa",
+      "lat": 25.5426466,
+      "lng": 78.6420531,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ-Y4KKpJ1dzkRbPyRhPCe9p0",
+      "name": "Indian Oil Shri Vishnu Purohit Energy Station",
+      "address": "Tatya Milk Works, Paramedical Road, Mawaigird",
+      "lat": 25.5508891,
+      "lng": 78.64605089999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlxC2I7t1dzkR5xualbbvqKg",
+      "name": "Khiriya gas godam",
+      "address": "HM44+XF7, Unnamed Road, Mawaigird",
+      "lat": 25.5574201,
+      "lng": 78.6561837,
+      "open_now": null
+    }
+  ]
+}

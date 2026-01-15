@@ -1,0 +1,2411 @@
+{
+  "city": "Mumbai",
+  "state": "Maharashtra",
+  "count": 300,
+  "center": {
+    "lat": 19.076,
+    "lng": 72.8777
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJYbVzG8_O5zsROs0OKLehEh4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "opposite Axis Bank, Ground Floor, Shivaji Park Veer Savarkar Marg, opposite Axis Bank, Old Cadel Road, Mumbai",
+      "lat": 19.026271,
+      "lng": 72.836011,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ57IDKsfO5zsRPdpbgIaRzPs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "opposite Shree Siddhivinayak Temple, 386, Swatantryaveer Savarkar Road, Prabhadevi, Mumbai",
+      "lat": 19.0175931,
+      "lng": 72.83055399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1wXm72zO5zsRi2yflxtatfY",
+      "name": "Bharat Petroleum Corporation ltd",
+      "address": "Police Station, near Agripada, 14A, Doctor Anandrao Nair Marg, Mumbai",
+      "lat": 18.9751859,
+      "lng": 72.8234232,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWcTgKO2p5zsRVgOt7HXq1fg",
+      "name": "IndianOil Petrol Pump (Prabhadevi)",
+      "address": "17 Veer Savarkar Marg, Old Cadel Road, Mumbai",
+      "lat": 19.0190297,
+      "lng": 72.83117469999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAZkSV2fO5zsRWAx-0exCgZ8",
+      "name": "IndianOil Petrol Pump (Jacob Circle)",
+      "address": "next to Kasturba Hospital, Sane Guruji Marg, next to Kasturba Hospital, Arthur Road, Agripada, Mumbai",
+      "lat": 18.98524129999999,
+      "lng": 72.8308533,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ____v3XO5zsRevUGR3BJNss",
+      "name": "New Kampala Service Station",
+      "address": "Anand Arshan, next to Jaslok Hospital, opposite Doctor Houses, Doctor Gopalrao Deshmukh Marg, Mumbai",
+      "lat": 18.9724894,
+      "lng": 72.8095664,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJRLGnRPO5zsRZSpJgPEs-aE",
+      "name": "HP Petrol Pump",
+      "address": "3, Maulana Shaukat Ali Road, Grant Road East, Khetwadi, Girgaon, Mumbai",
+      "lat": 18.9610079,
+      "lng": 72.8200425,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJw6XdfF_O5zsRP1An_zs3U-I",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "next to Creative Industrial Estate, Ground Floor, Sitaram Mill Compound NM Joshi Marg, next to Creative Industrial Estate, Delisle Road, Mumbai",
+      "lat": 18.988625,
+      "lng": 72.831255,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJif4T6Y_O5zsRlE88gIFJPlg",
+      "name": "Bharat Petroleum Corporation ltd",
+      "address": "near Acharya Atre Chowk, Plot No 87, Doctor Annie Besant Road, Worli Naka, Mumbai",
+      "lat": 18.9979375,
+      "lng": 72.8173077,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfy7u4IXO5zsR6KxCw34IhL4",
+      "name": "IndianOil Petrol Pump (Worli)",
+      "address": "Ground Floor, Worli Naka, Mumbai",
+      "lat": 18.9922645,
+      "lng": 72.81442630000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM-9VkIfO5zsRWyaKiabUzic",
+      "name": "IndianOil Petrol Pump (Worli)",
+      "address": "Doctor Annie Besant Road, Worli, Mumbai",
+      "lat": 18.9879776,
+      "lng": 72.8140617,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYRp_u2HO5zsR-SIPi-PtDbU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Kishav Ravkhadhi Road, Doctor Elijah Moses Road, Mahalakshmi, Mumbai",
+      "lat": 18.9878659,
+      "lng": 72.82337369999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOQAP7-XO5zsR6hWMTMXOY0U",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Saint Xavier Street, Parel, Mumbai",
+      "lat": 19.006042,
+      "lng": 72.8406546,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJX5ORQnDO5zsRRBJS0JbJ7gA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "opposite Air Cond Market, 75, Tardeo Road, Mumbai",
+      "lat": 18.974041,
+      "lng": 72.814071,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM6y9k73P5zsRDbNuSGTbYYU",
+      "name": "Bharat Petroleum Corporation ltd",
+      "address": "Ground Floor, near Shiv Sena Bhavan, Ash Lane, Dadar, Mumbai",
+      "lat": 19.0252863,
+      "lng": 72.8403988,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4Uj281bO5zsR29Sa8BdvCPk",
+      "name": "Bharat Petroleum Corporation ltd",
+      "address": "near Fire Brigade, 1st Avenue Boundary Rd, near Fire Brigade, West, Cotton Green East, Sewri, Mumbai",
+      "lat": 18.9867526,
+      "lng": 72.8438681,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqVhnnc3O5zsRFHWzIn1m2BQ",
+      "name": "Bharat Petroleum, Petrol Pump -Park Garage",
+      "address": "opp. HINDUJA HOSPITA, MAHIM, opp. HINDUJA HOSPITA",
+      "lat": 19.0324821,
+      "lng": 72.83887399999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJhR_Xmd_N5zsR5s6P3AbQuTE",
+      "name": "IndianOil Petrol Pump (Cumballa Hill)",
+      "address": "100, Bhulabhai Desai Marg, Breach Candy, Cumballa Hill, Mumbai",
+      "lat": 18.9655882,
+      "lng": 72.8034536,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq6U0R3XO5zsRUEctNHQPm7g",
+      "name": "IndianOil Petrol Pump (Cumballa Hill)",
+      "address": "opposite tata Sanatorium, August Kranti Road, Cumballa Hill, Mumbai",
+      "lat": 18.9643122,
+      "lng": 72.8056601,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJa-FQg_rO5zsR89yGG2x-VFs",
+      "name": "Bharat Petroleum Corporation ltd",
+      "address": "No 142, Lamington Road, Girgaon, Mumbai",
+      "lat": 18.96465,
+      "lng": 72.81980999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0S0PTdjO5zsRb0oc78ZfJS4",
+      "name": "IndianOil Petrol Pump (Dadar)",
+      "address": "Hindu Colony, L N Road, near Ruia College, Dadar East, Mumbai",
+      "lat": 19.0227588,
+      "lng": 72.848716,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl62lu0HO5zsRBZkWg4PM7Wc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "next to Piccadilly Flats, Ground Floor Clare Road, next to Piccadilly Flats, Chamber Lane, Byculla, Mumbai",
+      "lat": 18.9692758,
+      "lng": 72.8298389,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbRjQBy3J5zsRC6WJMqst0Co",
+      "name": "Bharat Petroleum Corporation ltd",
+      "address": "Sitladevi Temple Road, Junction, Mahim, Mumbai",
+      "lat": 19.0352871,
+      "lng": 72.842677,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJW1OAy3J5zsRFPOZkwt89-M",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Bank of Maharashtra, Lady Jamshedji Road, Mahim, Mumbai",
+      "lat": 19.0384825,
+      "lng": 72.8421461,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzzQILTDO5zsRhoAoPBrkQBA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 45, HP Apartments, near Priyadarshini park, Nepean Sea Road, Mumbai",
+      "lat": 18.960543,
+      "lng": 72.801106,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjT9vlkjO5zsRhqp8NbYABng",
+      "name": "Universal Motors Bharat Petroleum Pump",
+      "address": "Jindal Mansion, Rambhau Bhogle Marg, Thakkar Estate, Byculla, Mumbai",
+      "lat": 18.9708189,
+      "lng": 72.8407756,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwS8hgC7P5zsRDSGKp2jWt18",
+      "name": "Bharat Petroleum Corporation ltd",
+      "address": "opposite Kings Circle, Plot No 362, Matunga East, Mumbai",
+      "lat": 19.0262752,
+      "lng": 72.85447440000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDz9Q6RvP5zsRYjNBBo2VpMo",
+      "name": "Petrol Pump",
+      "address": "Eastern Freeway, Pratiksha Nagar, BPCL Terminal, Wadala, Mumbai",
+      "lat": 19.00739279999999,
+      "lng": 72.85866539999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx6Jbt1LO5zsR12uQb4lkikM",
+      "name": "LAXMI ENTERPRISES (BPCL)",
+      "address": "XVJ2+5C8, Signal Hill Avenue, Brick Bunder Tank Road, Reay Road, Mumbai",
+      "lat": 18.980417,
+      "lng": 72.8510861,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP81ngQnO5zsRnP8njVDKFq4",
+      "name": "Petrol Pump",
+      "address": "b4, Malabar Hill, Mumbai",
+      "lat": 18.9573653,
+      "lng": 72.8069685,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJlbaelTzO5zsRvntYKJD0TLg",
+      "name": "IndianOil Petrol Pump (Bhuleshwar)",
+      "address": "Telephone Exchange, near Madvi, 26, Mohammed Ali Road, BP Lane, Mumbai",
+      "lat": 18.9558839,
+      "lng": 72.8325487,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQTq7eD3J5zsR8eKsZccrnAM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near Bandra, 261, Swami Vivekananda Road, Talao, Bandra West, Mumbai",
+      "lat": 19.0578487,
+      "lng": 72.83683959999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1_WjVyTO5zsRwUbMpy_bwM0",
+      "name": "Exxon",
+      "address": "Shop no. 34/4, Devkaran Nivas, 7th Floor, Samuel Street, Issaji Street, Masjid Bandar West, Masjid Bandar, Mumbai",
+      "lat": 18.9517982,
+      "lng": 72.8360967,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJDdigIPbJ5zsRhjHrm8XXt5U",
+      "name": "Bharat Petroleum, Petrol Pump -New Bombay Auto Supply Co",
+      "address": "3R6P+H8H, near Bharat petrol pump, PLOT NO.241, Linking Road, Bandra West, Mumbai",
+      "lat": 19.0615906,
+      "lng": 72.8356968,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJw6YqpC_O5zsRmEksGEY2_5Q",
+      "name": "BPCL Petrol Pump - Varma Automobiles",
+      "address": "85, P D'Mello Road, East, Masjid Bandar, Mumbai",
+      "lat": 18.9529047,
+      "lng": 72.8417857,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRSsboCbO5zsRgi2fslIRmnE",
+      "name": "Bharat Petroleum Corporation ltd",
+      "address": "Mohammed Ali Road, Carnac Road, Mumbai",
+      "lat": 18.9487978,
+      "lng": 72.83521,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdWKoEy_O5zsR4sM83fnVWWA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "opposite vyapar bhawan, 95, P D'Mello Road, Carnac Bunder, East, Masjid Bandar, Mumbai",
+      "lat": 18.9513763,
+      "lng": 72.84150749999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbU3taB7O5zsRETQqIptpdMI",
+      "name": "IndianOil Petrol Pump (Marine Lines)",
+      "address": "A & B, Plot No 100, Netaji Subhash Chandra Road, Mumbai",
+      "lat": 18.9440219,
+      "lng": 72.8231823,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ946WC87I5zsRjr08UupDoik",
+      "name": "Bharat Petroleum Corporation ltd",
+      "address": "next to SBI, No 30, Sion Circle, Sion, Mumbai",
+      "lat": 19.0433863,
+      "lng": 72.8639346,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ946WC87I5zsRqTWk_N7DbwE",
+      "name": "HP Petrol Pump & CNG Filling Station",
+      "address": "Sion Circle, 90-91, Sion - Trombay Road, Next to, Mumbai",
+      "lat": 19.0437794,
+      "lng": 72.8646323,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIckziUrP5zsR0P5SXRoctwE",
+      "name": "IndianOil Petrol Pump (Sion)",
+      "address": "near Wadala RTO, Anik Wadala Link Road, near Wadala RTO, Salt Pan Road, Phase 1, Wadala Truck Terminal, Mumbai",
+      "lat": 19.0362606,
+      "lng": 72.8762429,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtxRJfZrO5zsR-cd4lYOOh9A",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "opposite Poddar Hospital, 233, Doctor Annie Besant Road, Worli, Mumbai",
+      "lat": 19.0016263,
+      "lng": 72.8153947,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXXWMg5DO5zsRnaTLf1s_W88",
+      "name": "Super Service Station",
+      "address": "20, Sir Pochkhanawala Road, Worli Police Camp, Worli Sea Face, Worli, Mumbai",
+      "lat": 19.0021359,
+      "lng": 72.8164437,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZaGWc5DO5zsRf4fiZN_2Ycs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near BDD Chawls Worli, No 183/A, Doctor Annie Besant Road, Worli Naka, Mumbai",
+      "lat": 19.0005126,
+      "lng": 72.8165309,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxwAw-ILP5zsRWAFaBqjPqsg",
+      "name": "Mahanagar CNG Pump",
+      "address": "167, 2nd Floor, READY MONEY TERRACE, 2nd Flr, Doctor Annie Besant Road, Worli Naka, Bhim Nagar, Worli, Mumbai",
+      "lat": 18.99797019999999,
+      "lng": 72.81741330000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJKaU5fwDP5zsRQFDrcQhk7Ug",
+      "name": "Worli way PUC center",
+      "address": "XRW9+X2P, Worli Naka, Siddharth Nagar, Worli, Mumbai",
+      "lat": 18.99746919999999,
+      "lng": 72.8175748,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJAew85L3O5zsRFca7PHNPCu0",
+      "name": "Ravi Auto Services",
+      "address": "271, Doctor Annie Besant Road, Worli, Mumbai",
+      "lat": 19.0110433,
+      "lng": 72.82051899999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ44lxCgDP5zsR5bm9zVg0PDQ",
+      "name": "Cng pump",
+      "address": "Raheja Artesia, Worli, Mumbai",
+      "lat": 19.0080618,
+      "lng": 72.8222217,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJtQ-heovP5zsRLRu7BfLoLdI",
+      "name": "Aarya Group Of Companies",
+      "address": "Kalpataru Tower, Plot No. 1264, Koliwada Road, Sion West, Sion, Mumbai",
+      "lat": 19.0198433,
+      "lng": 72.81854059999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHXoqM23P5zsRhDirm2TEh88",
+      "name": "Mahanagar Gas CNG Station",
+      "address": "XRQF+48V, Worli, Mumbai",
+      "lat": 18.987866,
+      "lng": 72.823288,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJibWsdtLP5zsRGQ9aRlX1RPs",
+      "name": "Bharat Petroleum Corporation ltd",
+      "address": "next to Haji Ali, Ground Floor, next to Haji Ali, Haji Ali, Police Station, Mumbai",
+      "lat": 18.97802,
+      "lng": 72.81078509999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJD_FeSwDP5zsRjFqJihE17Yk",
+      "name": "Haji Ali cng pump",
+      "address": "XRH6+45H, Haji Ali, Mumbai",
+      "lat": 18.9778192,
+      "lng": 72.8104819,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9WaDJvDO5zsR1kymEo1Xwns",
+      "name": "IndianOil Petrol Pump (Parel)",
+      "address": "near Central Railway Workshop, 206, Doctor Babasaheb Ambedkar Road, Best Staff Colony, Parel East, Mumbai",
+      "lat": 19.00051449999999,
+      "lng": 72.8376794,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ93eQ-PDO5zsRt72F8paZ8F0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "288, Doctor Babasaheb Ambedkar Road, Parel, Mumbai",
+      "lat": 18.9978252,
+      "lng": 72.8372225,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVa6cdSDO5zsRd_rl1TGA3Rc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Pedder Road, opposite Mahalaxmi Temple, junction, Bhulabhai Desai Marg, Breach Candy, Mumbai",
+      "lat": 18.9762055,
+      "lng": 72.8087567,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJc2p2-F7O5zsRTAxr_lcyjlk",
+      "name": "Mahanagar Gas CNG Station",
+      "address": "Jacob Circle, Mumbai",
+      "lat": 18.9852096,
+      "lng": 72.8309247,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJvYnyI_bO5zsRsXTWuzodrTY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Mill Chawl, opposite Digvijay, Doctor Babasaheb Ambedkar Road, Lal Baug, Mumbai",
+      "lat": 18.9895399,
+      "lng": 72.8355449,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTZdNHdXP5zsRmGzKZobfryw",
+      "name": "Bharat Petroleum, Petrol Pump -Kausar Auto Service",
+      "address": "Sane Guruji Marg, Agripada, Mumbai",
+      "lat": 18.9792268,
+      "lng": 72.8247707,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkUxmm17P5zsRM-52UOcJE-Y",
+      "name": "Petrol Pump",
+      "address": "2R5R+GG9, Doctor Babasaheb Ambedkar Road, Gautam Nagar, Mumbai",
+      "lat": 19.0087822,
+      "lng": 72.841292,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbyFMzFDP5zsRiII7Eexy7hg",
+      "name": "National Petrol Company BPCL Petrol pump with CNG",
+      "address": "Gokhale Road, Dadar West, Dadar, Mumbai",
+      "lat": 19.0215049,
+      "lng": 72.8372741,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJw9ULoRbP5zsRL5vmET2FQKQ",
+      "name": "Mumbai Lpg Teritary",
+      "address": "BPCL Refinery, 4Th Floor Admin Building, Mahul Road, Chembur, Mumbai",
+      "lat": 19.0381814,
+      "lng": 72.89495099999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJD-USQkvP5zsRZXoFSwJEIew",
+      "name": "Mahanagar Gas CNG Station",
+      "address": "Sewri - Chembur Road, Trombay Indusrial Area, Chembur, Mumbai",
+      "lat": 19.0472131,
+      "lng": 72.8785042,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsS_826XI5zsRSs057BEhaB8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Akbarallys Showroom, Chembur, Mumbai",
+      "lat": 19.05385489999999,
+      "lng": 72.8924725,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQx3jPAPG5zsRE5AlxiIc51c",
+      "name": "Bharat Petroleum Corporation ltd",
+      "address": "near Fire Brigade, Sion - Trombay Road, Chembur, Mumbai",
+      "lat": 19.0538876,
+      "lng": 72.8934072,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2-RriAnG5zsRbb1I5Ai3Zw0",
+      "name": "IndianOil Petrol Pump (Chembur)",
+      "address": "opposite Telecom Factory Road, Sion - Trombay Road, Deonar, Mumbai",
+      "lat": 19.0448012,
+      "lng": 72.91640389999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY2zQgQnG5zsR7-Ud7YRdmQA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Telecom Factory Road, Sion - Trombay Road, Deonar, Mumbai",
+      "lat": 19.0453907,
+      "lng": 72.9163617,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdbOFvMLI5zsR6sHuQdvhv-M",
+      "name": "IndianOil",
+      "address": "No C/67, Block G, BN Bhavan, Mumbai",
+      "lat": 19.06017469999999,
+      "lng": 72.8646732,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJR3rFLevI5zsRorlcY89Ds2s",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Agra Road, Kurla, Mumbai",
+      "lat": 19.0654266,
+      "lng": 72.87477319999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ462BXubI5zsR38lf420VTIA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near ICICI Bank North Tower, Bandra Kurla Complex, Bandra East, Mumbai",
+      "lat": 19.064691,
+      "lng": 72.86083099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm-oQLOnI5zsRr064RNuukZY",
+      "name": "Mahanagar Gas CNG Station",
+      "address": "4-5012, Trident Road, G Block BKC, Bandra Kurla Complex, Bandra East, Mumbai",
+      "lat": 19.0665031,
+      "lng": 72.8667724,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJCzC38iDG5zsRewr1lUi0Fq0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near Amar Mahal, Plot No 76/77, Ghatkopar - Mahul Road, Tilak Nagar, Kurla, Mumbai",
+      "lat": 19.0677663,
+      "lng": 72.90025229999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_VMh3ybG5zsR-iq03PVixVA",
+      "name": "IndianOil Petrol Pump (Ghatkopar East)",
+      "address": "near Shoppers Stop, Ghatkopar - Mahul Road, Tilak Nagar, Kurla, Mumbai",
+      "lat": 19.0713319,
+      "lng": 72.901777,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH4o9RSjJ5zsRZyiV44uA8fE",
+      "name": "Bharat Petroleum Corporation ltd",
+      "address": "near MUMBAI UNIVERSITY, SG Barve Marg Santacruz, near MUMBAI UNIVERSITY, Campus, Mumbai",
+      "lat": 19.0723068,
+      "lng": 72.8567173,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFyT9XxzP5zsRPRawiUDdjpM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, opposite Bombay Port Trust Road, 6, East, Sewri, Mumbai",
+      "lat": 19.0054988,
+      "lng": 72.8559904,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKTsTpgPP5zsR86fJAFnP1oc",
+      "name": "Indian Oil T2",
+      "address": "XVX4+P4G, MPT, Sewri, Mumbai",
+      "lat": 18.99932189999999,
+      "lng": 72.855329,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJAZO7jpfP5zsRcSldgql7HLU",
+      "name": "Bharat Petroleum Corporation ltd",
+      "address": "Plot No 44, near Ajhad Nagar, R.A. Kidwai Marg, Wadala West, Wadala, Mumbai",
+      "lat": 19.0140981,
+      "lng": 72.8553499,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP4rXIOnF5zsRyZLj-nJYFnQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Mahul, Mumbai",
+      "lat": 19.0114601,
+      "lng": 72.9014401,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHUm3Sz_P5zsRAUYjXEepQmA",
+      "name": "Bharat Petroleum Corporation ltd",
+      "address": "Ground Floor, behind C Installation, Messent Road, Mumbai",
+      "lat": 18.9953427,
+      "lng": 72.8539487,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC2B9m0nP5zsRDnkmEdRX8xM",
+      "name": "IndianOil Petrol Pump (Sion)",
+      "address": "opposite Bhakti Park, Survey No 8, DP Road, 120 Ft Road, opposite Bhakti Park, Wadala - Chembur Road, Phase 1, Wadala Truck Terminal, Mumbai",
+      "lat": 19.0323592,
+      "lng": 72.8777606,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6yJQVTbP5zsRaYVGPsyfjPc",
+      "name": "Bharat Petroleum Corporation ltd",
+      "address": "No 3, opposite Kohinoor Mills, R G Gadkari Chowk, Dadar, Shivaji Park, Mumbai",
+      "lat": 19.016168,
+      "lng": 72.851879,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaSQbpv3O5zsRZ7XxFOll8nw",
+      "name": "Bharat Petroleum Corporation ltd",
+      "address": "Acharya Donde Marg, Sewri, Mumbai",
+      "lat": 18.9988169,
+      "lng": 72.84937049999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQxUtoUrP5zsRL2t4Oqka0wI",
+      "name": "Mahanagar Gas CNG Station",
+      "address": "64, R.A. Kidwai Marg, Matunga East, Mumbai",
+      "lat": 19.0284985,
+      "lng": 72.8580766,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMzzHjbzP5zsRoHY-fa4FE2Y",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Kings Circle, Mumbai",
+      "lat": 19.0285017,
+      "lng": 72.85806219999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9XL7MHDP5zsRjSyIF4BLZgs",
+      "name": "Bharat Petroleum, Petrol Pump -Bajrang Auto Service Adhoc",
+      "address": "behind C' INSTLN, SEWREE, Mumbai",
+      "lat": 18.9889206,
+      "lng": 72.8525824,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwS8hgC7P5zsR8aIYwxVsNok",
+      "name": "IndianOil Petrol Pump (Sion)",
+      "address": "292, Kommrade Harbanslal Marg Koliwada, Marg, Sion East, Mumbai",
+      "lat": 19.0315163,
+      "lng": 72.860154,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOQnDGZnD5zsRYE05j26nfcU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Plot No 2 Palm Beach Road, Nerul, Sector 44, Seawoods, Navi Mumbai",
+      "lat": 19.01329549999999,
+      "lng": 73.01347109999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGSOtCfrF5zsRh8MbDBdniDM",
+      "name": "H P 31",
+      "address": "2WJ4+576, HP Nagar, Chembur, Mumbai",
+      "lat": 19.0304006,
+      "lng": 72.9056415,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJYSchRADH5zsRN7AATdm8JKk",
+      "name": "CNG Pump",
+      "address": "46, VN Purav Marg, Saras Baug Colony, Anushakti Colony, Anushakti Nagar, Mumbai",
+      "lat": 19.0446049,
+      "lng": 72.91642809999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJT7brhQnG5zsR4b2WL1oTlxE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Punjab Wadi, opposite Telecom Factory Road, Sion - Trombay Road, Deonar, Mumbai",
+      "lat": 19.0448354,
+      "lng": 72.9162468,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrx75GwnG5zsRRibc4_Mp_SU",
+      "name": "Hement Karkare CNG Station",
+      "address": "CTS 315D, BS Devashi Marg, Patil Wadi, Govandi East, Mumbai",
+      "lat": 19.0464637,
+      "lng": 72.91395539999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ_-mhVADH5zsR3Sx_PIovX_I",
+      "name": "Naseem khan",
+      "address": "Panjarapol, Kolwada Borla Road, Union Park, Chembur, Mumbai",
+      "lat": 19.046,
+      "lng": 72.907917,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJB2PsfVbP5zsRQixzVprFMK0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, RC, near Bharat Petroleum Monorail Station, Mahul Road, Vasi Naka, Chembur, Mumbai",
+      "lat": 19.0346736,
+      "lng": 72.89589520000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQ3T-dADH5zsRpv_n_EIdY_c",
+      "name": "Mahanagar Gas",
+      "address": "113, Waman Tukaram Patil Marg, Ghatla, Chembur, Mumbai",
+      "lat": 19.0505471,
+      "lng": 72.9103958,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJnRxd3ffH5zsRmW_2eMFIc1o",
+      "name": "Savariya Petroleum",
+      "address": "Plot No 16, Mumbai",
+      "lat": 19.0617829,
+      "lng": 72.9263867,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJacqPCwDH5zsRFEw6e4hxUvM",
+      "name": "Excel Gas Service Godown",
+      "address": "3W25+Q57, Ghatla, Chembur, Mumbai",
+      "lat": 19.0519017,
+      "lng": 72.9079261,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJFTlN7FTP5zsRrgEKqS6ZoFs",
+      "name": "IndianOil Petrol Pump (Chembur)",
+      "address": "opposite Ashish Cinema, Mahul Road, FCI, Chembur, Mumbai",
+      "lat": 19.0388045,
+      "lng": 72.89457809999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjYF_TwDF5zsRPav4zY-En9U",
+      "name": "JD Metering Station ONGC",
+      "address": "XW64+63, Navi Mumbai",
+      "lat": 18.9606158,
+      "lng": 72.9051444,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ4dBORKrH5zsRtvEMRAd4bEU",
+      "name": "Petrol Pump",
+      "address": "No D, Shop No 5 Line, 8, Govandi Road, Mumbai",
+      "lat": 19.0636738,
+      "lng": 72.92625199999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJHb4q9xDJ5zsR5scM73dgn_A",
+      "name": "Bharat Petroleum Corporation ltd",
+      "address": "Plot No, opposite K Star Mall, 2, VN Purav Marg, Chembur, Mumbai",
+      "lat": 19.0516801,
+      "lng": 72.902666,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ13a7ZADD5zsRR_kxoL9XB5o",
+      "name": "HP petrol pump Sector 44",
+      "address": "2277+79G, Sector 44, Seawoods, Navi Mumbai",
+      "lat": 19.0131934,
+      "lng": 73.0134432,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJea1qCqvI5zsRC-UtaOIDU0c",
+      "name": "Vinayak Gas Service",
+      "address": "No 4, Nityanand Baug Road, Chembur Colony, RCF Colony, Chembur, Mumbai",
+      "lat": 19.043497,
+      "lng": 72.89465299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq6x05FTH5zsRvE00sSZwaO0",
+      "name": "Jio-bp pulse",
+      "address": "Ground Floor, Bus Depot, near Shivaji Nagar, Nirankar Nagar, Mumbai",
+      "lat": 19.0662069,
+      "lng": 72.9285609,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2ZcU3wLG5zsREMZrGnxtbVw",
+      "name": "Bharat Petroleum Corporation ltd",
+      "address": "near Diamond Garden, Plot No 305, Sion - Trombay Road, Chembur, Mumbai",
+      "lat": 19.0516972,
+      "lng": 72.901466,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJiRVQsqXH5zsRQfYU2aoo0B8",
+      "name": "H P Gas",
+      "address": "Saibaba Mandir, Govandi Slums, Gajanand Colony, Lotus Colony, Shivaji Nagar, Mumbai",
+      "lat": 19.0652146,
+      "lng": 72.9197009,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJU-AlNm_H5zsRKZLhLguTJLA",
+      "name": "IndianOil Petrol Pump (Shivaji Nagar)",
+      "address": "Plot No A/3, CTS No 1 TF Donar, Govandi, Borla, Chedda Nagar, Mumbai",
+      "lat": 19.0636465,
+      "lng": 72.91347619999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_xyPSwjP5zsRx4Dhib3RmP0",
+      "name": "IndianOil",
+      "address": "Building No. 17, Veer Savarkar Marg, Cadell Rd, Prabhadevi, Mumbai",
+      "lat": 19.0635597,
+      "lng": 72.9106924,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0Y8lLZPD5zsR5zsh436cA_8",
+      "name": "Mahanagar Gas CNG Station",
+      "address": "20, Sector 6, Sarsole, Navi Mumbai",
+      "lat": 19.0428038,
+      "lng": 73.00866669999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjWyVMWPB5zsR-a4jdEDIbSs",
+      "name": "Bharat Petroleum Corporation ltd",
+      "address": "Palm Beach Road, Nerul, Mumbai",
+      "lat": 19.0429886,
+      "lng": 73.0088322,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJD187SOjD5zsRA5fWFRd6x3I",
+      "name": "Om Gas Agency",
+      "address": "Shope No 34, Hatole Gaothan, Sector 10, Nerul, Thane",
+      "lat": 19.0383491,
+      "lng": 73.0153546,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlfsya6bJ5zsRwAf2-UdVelw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, opposite Khira Nagar, Swami Vivekananda Road, Santacruz, Mumbai, Mumbai",
+      "lat": 19.0859439,
+      "lng": 72.83825039999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9WviwKXJ5zsRI60Xn164eNs",
+      "name": "Bharat Petroleum Corporation ltd",
+      "address": "Plot No 2, next to Reliacne Mall, TPS 5, Khira Compound, Santacruz (West), Mumbai",
+      "lat": 19.0882759,
+      "lng": 72.8379808,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWR4bqrDJ5zsRCtg-7-Wg7OQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near Nanavati Hospital, 97, Swami Vivekananda Road, Vile Parle West, Mumbai",
+      "lat": 19.0975518,
+      "lng": 72.83970380000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsTEOTr_J5zsRxqjrXKX0Wj0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, JVPD Scheme, Mumbai",
+      "lat": 19.1031287,
+      "lng": 72.8334117,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB0VY6uHJ5zsR14dRE0tehkA",
+      "name": "Vikram Auto Services ( Petrol Pump, 24 HRS CNG filling and Car Service Station)",
+      "address": "Balasaheb Sawant Road, Juhu Versova Link Road, Four Bungalows, Andheri West, Mumbai",
+      "lat": 19.1247368,
+      "lng": 72.8234496,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLd82c-bJ5zsRXtL-yjUeOHw",
+      "name": "Bharat Petroleum - Prakash Automobiles",
+      "address": "Bus Depot, Bus Depot Mhatre Road, near New JVPD, Circle, Juhu, Mumbai",
+      "lat": 19.1164436,
+      "lng": 72.82879009999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJj1aIhMjJ5zsRZlI74zB3IHA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near Prime Mall, No 133, Swami Vivekananda Road, Irla, Vile Parle West, Mumbai",
+      "lat": 19.1079024,
+      "lng": 72.8400891,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe1NiqFLI5zsRgoTYkAuaauc",
+      "name": "IndianOil Petrol Pump (Vile Parle)",
+      "address": "near Domestic Airport, Western Express Highway, Vile Parle, Mumbai",
+      "lat": 19.0963107,
+      "lng": 72.852841,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfe1ODM_J5zsRPfYimagl1zI",
+      "name": "Bharat Petroleum Corporation ltd",
+      "address": "near Andheri Fire Brigade, Swami Vivekananda Road, Irla Signal, Bharucha Baug, Andheri West, Mumbai",
+      "lat": 19.11265,
+      "lng": 72.84147,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJv4QBlSC25zsRlnCRL1AFzjM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor JP Road, Versova - Ghatkopar, Andheri West, Andheri",
+      "lat": 19.1281095,
+      "lng": 72.8322646,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3x2pqDHI5zsRhZ5LnAWduEM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Chakala Complex, Ground, opposite Holy Family Church, Andheri - Kurla Road, Andheri East, Mumbai",
+      "lat": 19.1146348,
+      "lng": 72.8596331,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYR5940XI5zsRY251GuPZu28",
+      "name": "Indian Oil Petrol Pump And CNG Gas Station ICARPORT",
+      "address": "Chhatrapati Shivaji Maharaj International Airport Road, Navpada, Vile Parle East, Vile Parle, Mumbai",
+      "lat": 19.1028185,
+      "lng": 72.8738832,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJb41B9JXJ5zsR22MyyPEcXa0",
+      "name": "IndianOil Petrol Pump (Juhu)",
+      "address": "Juhu Tara Road, Juhu, Mumbai",
+      "lat": 19.1038641,
+      "lng": 72.8269044,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg0mbKzy25zsRTP3yVO01zP4",
+      "name": "IndianOil Petrol Pump (Andheri West)",
+      "address": "Oshiwara Mandapeshwar, Jogeshwari West, Mumbai",
+      "lat": 19.1432913,
+      "lng": 72.8309932,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ97X83qXJ5zsRXn9-SM_lzXA",
+      "name": "Doss Petroleum Products",
+      "address": "B-4/2, S V Road, Santacruz (w, Khira Nagar, Mumbai",
+      "lat": 19.0872442,
+      "lng": 72.8380251,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ9QU9TBbJ5zsRmW3qEX1BlDA",
+      "name": "TITAN",
+      "address": "VN Sphere Mall, 199, Linking Road, Bandra West, Mumbai",
+      "lat": 19.0600585,
+      "lng": 72.8364643,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJf9KjMxbJ5zsRB1ncVtbOd7g",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, opposite PC Chandra Jewellers, Bandra West, Mumbai",
+      "lat": 19.059276,
+      "lng": 72.8365338,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJw_6hJADJ5zsR4SMQ-2nYhSs",
+      "name": "MOLTOM",
+      "address": "West Building, Swami Vivekananda Road, Bandra West, Mumbai",
+      "lat": 19.0592988,
+      "lng": 72.8365586,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJsVpIfz3J5zsR6l_NSFCB3q8",
+      "name": "Mahanagar Gas CNG Station",
+      "address": "261, Swami Vivekananda Road, Bandra West, Mumbai",
+      "lat": 19.0578798,
+      "lng": 72.8368611,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ2bls07bJ5zsReYHEMtc-yM8",
+      "name": "Asad Tech",
+      "address": "Santacruz East, Mumbai",
+      "lat": 19.0738219,
+      "lng": 72.8425445,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSeBbCgDJ5zsR6tDyxy4xiRU",
+      "name": "Juhu Tara Road opposite Mahesh lunch home",
+      "address": "4R3G+JR2, Juhu Tara, Juhu, Mumbai",
+      "lat": 19.1040072,
+      "lng": 72.827015,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJP635_DzJ5zsRy7WL7yf4wIA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "239, Swami Vivekananda Road, Bandra West, Mumbai",
+      "lat": 19.0552247,
+      "lng": 72.8373787,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJexyYMz3J5zsRcspwGS5DiQA",
+      "name": "Indian Petroleum",
+      "address": "3R4Q+JR2, 4/9,Municipal Building, G.K.Marg,Lower Parel (west), Turner Road, Patkar Blocks, Bandra West, Mumbai",
+      "lat": 19.056572,
+      "lng": 72.8395022,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJbRHxSdLJ5zsRHlKi9XxaBIQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "opposite Lucky Hotel, 267, Swami Vivekananda Road, Bandra West, Mumbai",
+      "lat": 19.053561,
+      "lng": 72.837966,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY_ePM8DJ5zsR-QnYXjqhr7U",
+      "name": "Bharat Petroleum Corporation ltd",
+      "address": "SV Road Junction of, Hill Road, Bandra West, Mumbai",
+      "lat": 19.0536633,
+      "lng": 72.8380818,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCXEBNLfJ5zsRgDmUxWxWesg",
+      "name": "IndianOil Petrol Pump (Vile Parle West)",
+      "address": "opposite Nanavati Super Specialty Hospital, 18, Swami Vivekananda Road, Vile Parle West, Mumbai",
+      "lat": 19.097016,
+      "lng": 72.839367,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMSK9LqDJ5zsRrlNVjbfVfF0",
+      "name": "IndianOil Petrol Pump (Bandra West)",
+      "address": "Bandra Causeway, Bandra West, Mumbai",
+      "lat": 19.0515228,
+      "lng": 72.8379966,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpzK0y0PJ5zsRDJYPaFRIb3Y",
+      "name": "IndianOil Petrol Pump (Vile Parle West)",
+      "address": "398 Swami Vivekanand Road, Vile Parle, Juhu, Mumbai",
+      "lat": 19.1007946,
+      "lng": 72.83925599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEVb107nJ5zsRkDPfJsXprpQ",
+      "name": "ARINA AUTO GARAGE",
+      "address": "383, Swami Vivekananda Road, LIC Colony, Suresh Colony, Vile Parle West, Mumbai",
+      "lat": 19.1012725,
+      "lng": 72.8393622,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJO0WcjzXJ5zsRt-QiskCCfxY",
+      "name": "MAFFFL Mumbai Aviation Fuel Farm Facility Pvt Ltd.",
+      "address": "3VR2+R7C, Marble Market, Navpada, Vile Parle East, Vile Parle, Mumbai",
+      "lat": 19.0920576,
+      "lng": 72.8506482,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ5aYPRHPJ5zsREWYHmjGpc_U",
+      "name": "Adarsh Service Station",
+      "address": "3VW2+V8M, Nehru Road, Mumbai",
+      "lat": 19.097221,
+      "lng": 72.85078539999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_xWh_ObI5zsRP1lIlc_P1yc",
+      "name": "Mahanagar Gas CNG Station",
+      "address": "Bandra Kurla Complex Road, G Block BKC, Bharat Nagar, Bandra East, Mumbai",
+      "lat": 19.0642234,
+      "lng": 72.8600738,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYfz0Hy3J5zsRrRi0HXODkC4",
+      "name": "HP PETROL PUMP HIND AUTO and cng station",
+      "address": "52, Lady Jamshedji Road, Mahim West, Mumbai",
+      "lat": 19.0368258,
+      "lng": 72.84212149999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjVfT2l3J5zsRVrcWCQn_SjM",
+      "name": "Petrol pump nitrohen",
+      "address": "FORTUNE-2000, Bandra Kurla Complex Road, G Block BKC, Bandra Kurla Complex, Bandra East, Mumbai",
+      "lat": 19.0616788,
+      "lng": 72.85982059999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ8wQnWgDJ5zsRCdezKk83TWc",
+      "name": "Lakhbir Automobiles",
+      "address": "3VC7+92C, Central Salsette Tramway Road, Kolivery Village, Kunchi Kurve Nagar, Kalina, Santacruz East, Mumbai",
+      "lat": 19.07093769999999,
+      "lng": 72.8625156,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm7StP_LJ5zsR7jjhwnoFS3w",
+      "name": "Sufiya Enterprises",
+      "address": "199, Ansari Mohalla sty, nr. Sagar City, Vitthalbhai Patel Road, Andheri West, Mumbai",
+      "lat": 19.1184529,
+      "lng": 72.8396085,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ3ejypinJ5zsR-2fzLzDRe9Y",
+      "name": "Akil Oil Company",
+      "address": "Saniaullah compund Dharavi, Mumbai",
+      "lat": 19.0445173,
+      "lng": 72.8518454,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1QzG69HJ5zsRfS0Q-uwGWK0",
+      "name": "Mahanagar Gas CNG Station",
+      "address": "169, Swami Vivekananda Road, Zalawad Nagar, Shree Ram Nagar, Andheri West, Mumbai",
+      "lat": 19.1173852,
+      "lng": 72.8443807,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEST7-JHJ5zsR0Q2E6O6Uz3c",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, opposite Bank Of India, Swami Vivekananda Road, Andheri West, Mumbai",
+      "lat": 19.1174569,
+      "lng": 72.844398,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ08q7uH7J5zsRaPVjqg8YCRY",
+      "name": "BPCL Petrol Pump",
+      "address": "C-32, G Block BKC, Bandra Kurla Complex, Bandra East, Mumbai",
+      "lat": 19.0594569,
+      "lng": 72.86239599999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJl7hX6KPJ5zsR9wyTl_y_f5g",
+      "name": "IndianOil Petrol Pump (Mahim)",
+      "address": "No 424/B, Senapati Bapat Marg, Kapad Bazar, Mahim, Mumbai",
+      "lat": 19.0366354,
+      "lng": 72.84741129999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQZ6McGbJ5zsRDK2aHuNDDxc",
+      "name": "Bharat Petroleum, Petrol Pump -Madhav Motorstores Pvt.Ltd.A/Candhe",
+      "address": "Swami Vivekananda Road, Andheri West, Mumbai",
+      "lat": 19.1180898,
+      "lng": 72.8450431,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSaNtPIjI5zsR_ZXbe4pqqS4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Phoenix Market City, Agra - Mumbai Highway, Kurla West, Mumbai",
+      "lat": 19.0848371,
+      "lng": 72.8851948,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBdfkmoDI5zsRs3ygbA7QgMs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Kerawala Estate Agra Road, Lal Bahadur Shastri Marg, Ghatkopar West, Mumbai",
+      "lat": 19.0860454,
+      "lng": 72.8950107,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ87tx1M3H5zsR875hVRXztSU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No B, 6, Lal Bahadur Shastri Marg, Ghatkopar West, Mumbai",
+      "lat": 19.0939579,
+      "lng": 72.9132956,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2yfwv87H5zsRYwyBVuoXL6I",
+      "name": "Bharat Petroleum Corporation ltd",
+      "address": "Lal Bahadur Shastri Marg, Ghatkopar East, Mumbai",
+      "lat": 19.09568,
+      "lng": 72.9151,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJI1CjtMfH5zsReHZV7RXOn_E",
+      "name": "IndianOil Petrol Pump (Vikhroli West)",
+      "address": "opposite Godrej & Company, LBS Marg, opposite Godrej & Company, Agra - Mumbai Highway, Vikhroli West, Mumbai",
+      "lat": 19.1023956,
+      "lng": 72.9195445,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXQyHJN635zsRfse7uLl8ph8",
+      "name": "Bharat Petroleum Corporation ltd",
+      "address": "opposite Mata Sitala, Survey No 9, CTS 1 D Vadavali, opposite Mata Sitala, Andheri East, Mumbai",
+      "lat": 19.134701,
+      "lng": 72.874658,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXQyHJN635zsRplgkK1ktsSQ",
+      "name": "IndianOil Petrol Pump (Jogeshwari East)",
+      "address": "Bus Depot, opposite Majas, Jogeshwari - Vikhroli Link Road, Jogeshwari East, Mumbai",
+      "lat": 19.1394113,
+      "lng": 72.8648853,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7Yto-YvJ5zsRt-l0AdbFbtA",
+      "name": "Nwabganj Bhgaoti Pur",
+      "address": "b, wing green, West View Society Road, Friends Colony, Babhai Naka, Borivali West, Mumbai",
+      "lat": 19.075983,
+      "lng": 72.87765499999999,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJHVI0A43I5zsRjtkXg3Tx8Us",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near Best Depot, Ground Floor CST Road, near Best Depot, Lal Bahadur Shastri Marg, Kurla West, Mumbai",
+      "lat": 19.0761805,
+      "lng": 72.87734449999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg6zh6aTJ5zsRSIFY8j307AI",
+      "name": "Tawab & Group",
+      "address": "A/5 Kismat Nagar CST Road, Near, kanakia Zillion, Kurla West, Mumbai",
+      "lat": 19.0766659,
+      "lng": 72.8766236,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJ_-9s1xvJ5zsRUgYDlzncABY",
+      "name": "M B PETROLEUM",
+      "address": "maqsood estate, opposite kalpana cinema, D - 8, pathanwadi lane, Kismat Nagar, Mumbai",
+      "lat": 19.077396,
+      "lng": 72.8770968,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJyUo6aozI5zsRpQx-CDuwEO4",
+      "name": "Hindustan Petroleum Baxis Singh and Co.",
+      "address": "next to Kalpana Cinema Hall, Lal Bahadur Shastri Road, next to Kalpana Cinema Hall, Mumbai - Agra National Highway, Friends Colony, Kurla West, Kurla, Mumbai",
+      "lat": 19.0775699,
+      "lng": 72.8792201,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg72tAo3I5zsRgenMBkRxgJM",
+      "name": "HP PETROL PUMP - MUMBAI TAXI ASSC.",
+      "address": "3VHH+5PR, near C S T, Chunabhatti BEST Bus Depot Road, Vrindavan, Kurla West, Sion, Mumbai",
+      "lat": 19.0779922,
+      "lng": 72.8792751,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJa68gXOTJ5zsROZ54sE0kSpg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Agra Road, Lal Bahadur Shastri Marg, Kurla, Mumbai",
+      "lat": 19.07822359999999,
+      "lng": 72.8792976,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJzxEyvfJ5zsRsK8wQNS9Hz8",
+      "name": "Mishra communication",
+      "address": "05, Nolasapara, Mumbai",
+      "lat": 19.0772342,
+      "lng": 72.87254949999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJk_POXYnI5zsRppdGQ6M5hO8",
+      "name": "Mumbai Taxi Association Petrol Pump (Hindustan Petroleum)",
+      "address": "Bus Depot, Mumbai Taxi Association Co Operative Society Ltd, near Kurla, Lal Bahadur Shastri Marg, Kurla West, Mumbai",
+      "lat": 19.0809832,
+      "lng": 72.8815144,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJd5HxNP3J5zsRAZ4Mk0zuMFI",
+      "name": "AMAANI GROUP",
+      "address": "3VJJ+9M3, Lal Bahadur Shastri Marg, Bail Bajar, Kurla, Mumbai",
+      "lat": 19.0808838,
+      "lng": 72.881667,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJEfSS0-zI5zsRRvyUx4wFZhc",
+      "name": "Asha Auto Service and Fuel",
+      "address": "Lal Bahadur Shastri Marg, Kurla, Mumbai",
+      "lat": 19.0700359,
+      "lng": 72.874912,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAYNXnOLJ5zsR3hRxRvI7REw",
+      "name": "IndianOil Petrol Pump (Kurla West)",
+      "address": "opposite Equinoh, 142, Lal Bahadur Shastri Marg, Kurla West, Mumbai",
+      "lat": 19.0699833,
+      "lng": 72.8746713,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJA2u4nzbJ5zsRwKaRueZmhIM",
+      "name": "SAISH AUTO",
+      "address": "Lal Bahadur Shastri Marg, Kurla, Mumbai",
+      "lat": 19.0694536,
+      "lng": 72.8752799,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJi9SnBkTJ5zsRx2Ax6qQlx80",
+      "name": "Arti Petroleum Private Limited",
+      "address": "Unit No:124, AB, Andheri - Kurla Road, Saki Naka, Mumbai",
+      "lat": 19.0845036,
+      "lng": 72.8800109,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJH9fhDjfB5zsRKw0GuMKUogA",
+      "name": "IndianOil Petrol Pump (Vashi)",
+      "address": "Plot No F, 1, Sector 19 Vashi Road, Sanpada, Navi Mumbai",
+      "lat": 19.077278,
+      "lng": 73.003171,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfZEa1NHA5zsRvAQPnrZhvU8",
+      "name": "IndianOil Petrol Pump (Kopar Khairane)",
+      "address": "Plot No 10, 11, Kopar Khairane Road, Sector 20, Kopar Khairane, Navi Mumbai",
+      "lat": 19.108111,
+      "lng": 73.001801,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVfWI6SfB5zsResflTrwkxiQ",
+      "name": "Bharat Petroleum Corporation ltd",
+      "address": "plot no 6, Sector 13, Kopar Khairane, Navi Mumbai",
+      "lat": 19.0959499,
+      "lng": 73.00605039999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC-FRNULB5zsRPIGiXUjpCJo",
+      "name": "Bharat Petroleum Corporation ltd",
+      "address": "near HDFC Bank ATM, Plot No 17 & 18, near HDFC Bank ATM, Turbhe Road, Navi Mumbai",
+      "lat": 19.0678311,
+      "lng": 73.01434379999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq8zX9na45zsRPhC_KuR23dA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, opposite Jai Hind Oil Mills, Lal Bahadur Shastri Marg, Bhandup West, Mumbai",
+      "lat": 19.1396151,
+      "lng": 72.9309356,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDftdDtvA5zsRGEwBvB-EXnI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Plot No 8 Vashi, Sector 4A, Kopar Khairane, Navi Mumbai",
+      "lat": 19.106731,
+      "lng": 73.00907099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2V5Q2rXA5zsRZijimo2g8YE",
+      "name": "NIRU CNG STATION",
+      "address": "Shakti Developers, Sector 8, Jijamata Nagar, Ghansoli, Navi Mumbai",
+      "lat": 19.1216428,
+      "lng": 72.9988403,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM1oruHC45zsRMsciKVEaCxk",
+      "name": "Bharat Petroleum Corporation ltd",
+      "address": "Janta Market, near Neptune Magnet Mall, Agra Road, Bhandup West, Mumbai",
+      "lat": 19.1429679,
+      "lng": 72.9330401,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAQAAAFzB5zsRQuzzQiLq0Uk",
+      "name": "Bharat Petroleum Corporation ltd",
+      "address": "near Gondevi, Plot No 17 Juinagar, Sanpada, near Gondevi, Sector 24, Chowk, Mumbai",
+      "lat": 19.0493927,
+      "lng": 73.0173459,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlftsR4TH5zsRamLYnHk8LDE",
+      "name": "Samyak Hp Gas Services",
+      "address": "Shop no 1, Vasant Rao Naik Road, Ghatkopar, Ramabai Ambedkar Nagar, Mumbai",
+      "lat": 19.0783926,
+      "lng": 72.9164375,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJhfTfXRnH5zsRSkujU9Ys1GA",
+      "name": "Police Fuel Station Bharat Petroleum",
+      "address": "opposite Ramabai Nagar, Eastern Express Highway, Pant Nagar, Railway Police Colony, Ghatkopar East, Mumbai",
+      "lat": 19.0795448,
+      "lng": 72.9164627,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZToCfpbH5zsRVhgCTaRu15g",
+      "name": "Bharat gas",
+      "address": "3WH6+C3J, Ghatkopar East, Mumbai",
+      "lat": 19.0785988,
+      "lng": 72.91014559999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ3SA6scfH5zsRE5P7q8XE7sA",
+      "name": "IndianOil",
+      "address": "TALUKA-KURLA, Vikhroli West, Mumbai",
+      "lat": 19.1024466,
+      "lng": 72.9199649,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJU1WHpaTH5zsRUfSbNhmq7A4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near Railway Station, Ground Floor LBS Marg, near Railway Station, Agra - Mumbai Highway, Vikhroli East, Mumbai",
+      "lat": 19.1104477,
+      "lng": 72.925591,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6eeIfgDH5zsRO8nZJjLP0YA",
+      "name": "Ravi Petrol pump",
+      "address": "Amar Mahal, Ghatkopar - Mahul Road, Mumbai",
+      "lat": 19.0714044,
+      "lng": 72.9018741,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ6bi_f1XH5zsRlB7EA-aGfds",
+      "name": "Alfa Oil",
+      "address": "Shop No.3, Vikhroli Park Site, Anangarh, Mumbai",
+      "lat": 19.1071313,
+      "lng": 72.9143796,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ3xjGmMPJ5zsRVPsvDkhbL_o",
+      "name": "Bharat Petroleum Corporation ltd",
+      "address": "Ground Floor, Ghatkopar - Mahul Road, Chembur, Mumbai",
+      "lat": 19.0701058,
+      "lng": 72.9011226,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7RXZNQvH5zsRcFdW38KNnZg",
+      "name": "IndianOil",
+      "address": "AB Road, Ghatkopar, Chirag Nagar, Ghatkopar West, Mumbai",
+      "lat": 19.0871001,
+      "lng": 72.89971109999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDydlgdXH5zsRxVpIdqbA3qE",
+      "name": "Sagar Oil Center",
+      "address": "3VRX+3MJ, Chirag Nagar, Ghatkopar West, Mumbai",
+      "lat": 19.090224,
+      "lng": 72.89914100000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTcfLB4DI5zsRGCcfYZb4Fuc",
+      "name": "H M VULCANIZING WORKS",
+      "address": "Porbandarwala Chawl, 7, Dharamveer Sambhaji Marg, Chirag Nagar, Ghatkopar West, Mumbai",
+      "lat": 19.0868642,
+      "lng": 72.898145,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJXc0xyX_I5zsRxjH-SBSk3ck",
+      "name": "Green Fuels Gas System",
+      "address": "3, Narayan Nagar Road, Narayan Nagar, Ghatkopar West, Mumbai",
+      "lat": 19.0879681,
+      "lng": 72.8963581,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJuQ0WyX_I5zsRLgN-cUWB04U",
+      "name": "Jai Bajrang Oil Depot",
+      "address": "2, Narayan Nagar Road, Narayan Nagar, Ghatkopar West, Mumbai",
+      "lat": 19.0880275,
+      "lng": 72.8963405,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJS8DXujHB5zsRD0xZf1YGr90",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near Goandevi Temple, Plot No 2/2, Sector 14, Vashi, Navi Mumbai",
+      "lat": 19.083171,
+      "lng": 73.001151,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpe1H3ETJ5zsRe42P1kJbCgA",
+      "name": "Lubrica Global",
+      "address": "Godown No: 06, Kartar Singh Compound, behind Kamal T.V. Center, Lal Bahadur Shastri Marg, Gurunanak Nagar, Ghatkopar West, Mumbai",
+      "lat": 19.0853822,
+      "lng": 72.8930086,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJp0XKBgDB5zsRG18plt_gUIg",
+      "name": "Free Nitrogen air",
+      "address": "32M3+856, Sector 14, Vashi, Navi Mumbai",
+      "lat": 19.0832975,
+      "lng": 73.00289149999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ6Q8pIEjB5zsRfDG3ob95Zkc",
+      "name": "CNG Station",
+      "address": "225, Vashi-Turbhe Road, APMC, APMC Market, Sector 18, Vashi, Navi Mumbai",
+      "lat": 19.0738717,
+      "lng": 73.00361529999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJldbfHkjB5zsRJNN_qJ78SLU",
+      "name": "IndianOil Petrol Pump (Vashi)",
+      "address": "Lock No 21016 Plot No 42, Sector 18, Sector 26, Vashi, Navi Mumbai",
+      "lat": 19.073771,
+      "lng": 73.003914,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg0FTz2rH5zsRAj3F9PZ9KdU",
+      "name": "Bharat Petroleum Corporation ltd",
+      "address": "Telephone Exchange, Ground Floor Powai Rd Junction, Agra Road, near Powai, Lal Bahadur Shastri Marg, Mumbai",
+      "lat": 19.124919,
+      "lng": 72.92495389999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWQuu8jPB5zsRndHSnzrV66U",
+      "name": "IndianOil Petrol Pump (Sanpada)",
+      "address": "70 Phase, PLOT NO.- 88, 2, Sector 19 Vashi Road, Sector 26, Navi Mumbai",
+      "lat": 19.077124,
+      "lng": 73.00483899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNUJriyTB5zsRsKjsY_pyQ0M",
+      "name": "Mahanagar Gas CNG Station",
+      "address": "Kopripada, Sector 26, Vashi, Navi Mumbai",
+      "lat": 19.0886604,
+      "lng": 73.0096786,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1TySWQDH5zsR2RGE8lBi4GU",
+      "name": "Shell",
+      "address": "4WGC+JFF, Jogeshwari - Vikhroli Link Road, IIT Area, Powai, Mumbai",
+      "lat": 19.1265645,
+      "lng": 72.921168,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJA88jDHLH5zsR_IQ_N1AUE0s",
+      "name": "Shell Petrol Pump",
+      "address": "2, Jogeshwari - Vikhroli Link Road, Vikhroli East, Mumbai",
+      "lat": 19.126639,
+      "lng": 72.92121999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJG3EwFDi25zsRe5PoktASTgQ",
+      "name": "Super Gas Point",
+      "address": "BUS DEPOT, SHOP NO 16. PRABHA APT. SEJAL TOWER. NEAR OSHIWRA, New Link Road, Goregaon West, Mumbai",
+      "lat": 19.1549781,
+      "lng": 72.8355952,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJX25hVry35zsR2Z01bqcoqRA",
+      "name": "Bharat Petroleum Corporation ltd",
+      "address": "SV Road, opposite Filmistan Studio, Junction, Aarey Road, Goregaon West, Mumbai",
+      "lat": 19.16607,
+      "lng": 72.84586,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnYIPM1-35zsRjwkGjfOSq_M",
+      "name": "IndianOil Petrol Pump (Goregaon)",
+      "address": "BMC 3, Walbhat Road, Cama Industrial Estate, Goregaon, Mumbai",
+      "lat": 19.1570937,
+      "lng": 72.8565421,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBzksE8q35zsRse2vF4av6UM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, opposite Aarey, Flyover, IB Patel Road, Sonawala Industry Estate, Goregaon, Mumbai",
+      "lat": 19.1614981,
+      "lng": 72.85750329999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy7JATj625zsRP00kzHmOpWQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Tarapore Towers, Adarsh Nagar, Andheri West, Mumbai",
+      "lat": 19.146012,
+      "lng": 72.83001870000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJR6ExYwC35zsRs_AXhqwHzvo",
+      "name": "Opposite HP Petrol pump",
+      "address": "433, Off New Link Road, Adarsh Nagar, Jogeshwari West, Mumbai",
+      "lat": 19.1450698,
+      "lng": 72.830015,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJoRX2AkS35zsRdyxbADtpItI",
+      "name": "BPCL Lotus Petrol Pump",
+      "address": "Shop No 2, Lotus Petrol Pump, Shakti nagar, Jogeshwari West, Mumbai",
+      "lat": 19.1426288,
+      "lng": 72.83167259999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDZZLbQC15zsRwXSfDXhZaVM",
+      "name": "Petrol Pump SSK Suri",
+      "address": "5Q5M+HG9, Bhati Koliwada, Bhati Gaon, Madh, Mumbai",
+      "lat": 19.1589125,
+      "lng": 72.7838594,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnW0YTwC35zsRHK1W2SY-kXc",
+      "name": "Pooja broadcasting live",
+      "address": "28/221, Motilal Nagar Number 1, Motilal Nagar I, Goregaon West, Mumbai",
+      "lat": 19.1580421,
+      "lng": 72.83581769999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJmRVYvze25zsR4dlIVig9-ZE",
+      "name": "Kadiwala Auto Gas",
+      "address": "kadiwala Auto Gas, Relief Road, Jogeshwari West, Mumbai",
+      "lat": 19.1490822,
+      "lng": 72.8385825,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJRwoNliC25zsRIDVWTdgM1Pw",
+      "name": "Mahanagar Gas CNG Station",
+      "address": "Versova Marg, Sahakar Nagar, D.N.Nagar, Andheri West, Mumbai",
+      "lat": 19.1280318,
+      "lng": 72.8322979,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJ5IX9Te25zsRjCaDoyd9P_Q",
+      "name": "Mahanagar Gas CNG Station",
+      "address": "11, Relief Road, Maharashtra Housing and Area Development Authority Colony, Prakash Nagar, Patliputra, Jogeshwari West, Mumbai",
+      "lat": 19.1490565,
+      "lng": 72.8399629,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUQhw_TC25zsR44BnyBiiN2s",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Swami Vivekananda Road, Jogeshwari West, Mumbai",
+      "lat": 19.1427154,
+      "lng": 72.8427766,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJh76iAjG25zsRqY4-kQfcIbc",
+      "name": "MUKAND SUPER SERVICES",
+      "address": "Swami Vivekananda Road, Raj Nagar, Mumbai",
+      "lat": 19.1427101,
+      "lng": 72.8428429,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdTTRTza25zsRh4nRJ01iRog",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Oshiwara Bridge, Swami Vivekananda Road, Jogeshwari West, Mumbai",
+      "lat": 19.1486472,
+      "lng": 72.84330369999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGUfDewC35zsR0BIpaf1ueq8",
+      "name": "Famous auto service station",
+      "address": "Sai Baba nagr, Swami Vivekananda Road, Borivali West",
+      "lat": 19.1386175,
+      "lng": 72.8451695,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJtY2hrZm35zsResbg28KrlhM",
+      "name": "SHREE NAGNATH BPCL PETROL PUMP",
+      "address": "1, Swami Vivekananda Road, Jawahar Nagar, Goregaon West, Mumbai",
+      "lat": 19.15554239999999,
+      "lng": 72.8459632,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ7TlxSiq25zsRyTkheiOcK8k",
+      "name": "Bharat Petroleum",
+      "address": "4RJW+8V6, Kevni Pada Road, Kevni Pada, Jogeshwari West, Mumbai",
+      "lat": 19.130785,
+      "lng": 72.84714319999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJfVleybC35zsR5bFnbF5yqtM",
+      "name": "Jogeshwari Petrol Pump",
+      "address": "4RJW+CWG, Kevni Pada, Jogeshwari West, Mumbai",
+      "lat": 19.1309376,
+      "lng": 72.8472141,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJvfXmsPe25zsRbfN0Y0wMncg",
+      "name": "Mahanagar Gas",
+      "address": "opp. Vinay Industrial Estate, New Link Road Chincholi Bunder Rd, opp. Vinay Industrial Estate, near fuel pump restaurant, Malad - Marve Road, Malad West, Mumbai",
+      "lat": 19.1750843,
+      "lng": 72.83741839999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbxqjkVa35zsRQp7H_cl6j7c",
+      "name": "PUC Van",
+      "address": "Bank of India Link Road Malad West Branch, New Link Road, Malad West, Mumbai",
+      "lat": 19.17654259999999,
+      "lng": 72.8373532,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJge0nV3S35zsRxZzH-q1zp8o",
+      "name": "PUC Van",
+      "address": "5R9W+W42, near Nana Nani Park, Unnat Nagar, Goregaon West, Mumbai",
+      "lat": 19.1696875,
+      "lng": 72.8452848,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUTYHSCG35zsR8IVAkvrs8MU",
+      "name": "SOTI TOURS & TRAVELS",
+      "address": "No 16, 304/9, Jawahar Nagar Road, Mumbai",
+      "lat": 19.1663375,
+      "lng": 72.84765050000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJjcY2KkC35zsR7lsH1cnq9RY",
+      "name": "Bharat Petroleum Corporation ltd",
+      "address": "Bharat Industrial Compound, near SRL Labotary, Goregaon West, Mumbai",
+      "lat": 19.1709905,
+      "lng": 72.84548690000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJu7146IK35zsR2ZD05Bynq3c",
+      "name": "Jio-bp pulse",
+      "address": "Ground Floor, Mindspace, Malad West, Mumbai",
+      "lat": 19.183941,
+      "lng": 72.834671,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQ7G2eRG35zsRXGoPVUTv2CQ",
+      "name": "apna motor",
+      "address": "Ravi, beside cam State new India Royal pump, Bal Welabhatt Road, Ashok Nagar, Goregaon, Mumbai",
+      "lat": 19.1571019,
+      "lng": 72.85487599999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ72JAEjS35zsRZufkmHMK8kk",
+      "name": "Hiranyakeshi Kisan Seva Kendra",
+      "address": "Gat NO 220 Nool Nilaji Road At Nool Taluka Gadhinglaj Dist, Mumbai",
+      "lat": 19.144561,
+      "lng": 72.85685219999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJmSKr97K35zsRbUUk-yYBTZY",
+      "name": "cross over technologies",
+      "address": "Rocky Industrial Estate, Jay Prakash Nagar, Goregaon West, Mumbai",
+      "lat": 19.1613466,
+      "lng": 72.8543313,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJPWO1BQC35zsRTsaJ2hkGXb0",
+      "name": "Mahanand Fuel Station Bharat petroleum pump",
+      "address": "Mahananda Dairy, Goregaon, Mumbai",
+      "lat": 19.1504646,
+      "lng": 72.8572106,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJrV4eQTy35zsRpXOv40rMy9Y",
+      "name": "Furtaz",
+      "address": "5V44+JHC, Uswala Lane, Cama Industrial Estate, Goregaon, Mumbai",
+      "lat": 19.1565562,
+      "lng": 72.8563992,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJdX0gOge35zsRGNLKdcEO_HU",
+      "name": "Petrol Pump",
+      "address": "11, Saint Yadav Road, Cama Industrial Estate, Goregaon, Mumbai",
+      "lat": 19.15973199999999,
+      "lng": 72.8571168,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJk0vZ27O35zsR6rkRDpxngvI",
+      "name": "Mahanagar gas station",
+      "address": "Walbhat Road, Road Number 2, Cama Industrial Estate, Goregaon, Cama",
+      "lat": 19.159735,
+      "lng": 72.8571162,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs2mNDAC35zsRKSyCJjyG0yY",
+      "name": "Hindustan petroleum",
+      "address": "5, Malad, Nadiyawala Colony 2, Malad West, Mumbai",
+      "lat": 19.17853599999999,
+      "lng": 72.8462062,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJmc7Itv625zsRCjDDZZRFBcg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Swami Vivekananda Road, Chincholi Naka, Malad West, Mumbai",
+      "lat": 19.1786494,
+      "lng": 72.8461923,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH3bOt_625zsR2xVY8eN8_aQ",
+      "name": "Mahanagar Gas CNG Station",
+      "address": "nadidwala colony, Swami Vivekananda Road, Chincholi Phatak, Malad West, Mumbai",
+      "lat": 19.1787934,
+      "lng": 72.84623239999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZdbzcAC35zsRk7jFtmdcNfo",
+      "name": "HP gas centre",
+      "address": "1, Sonawala Cross Rd No 1, Jay Prakash Nagar, Goregaon, Mumbai",
+      "lat": 19.1615334,
+      "lng": 72.85747429999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJE4dEbrG35zsRJc20jw6-cIs",
+      "name": "IndianOil Petrol Pump (Goregaon)",
+      "address": "Survey No 589A, Colony Sqaure Building, Pahadi Road, Aarey Milk Colony, Goregaon, Mumbai",
+      "lat": 19.160059,
+      "lng": 72.8584618,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0d7S2aK25zsRreq64Slycsg",
+      "name": "Mahanagar Gas CNG Station",
+      "address": "Marve Road, Kharodi Village, Malad West, Mumbai",
+      "lat": 19.1968658,
+      "lng": 72.8150737,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ3wvi_g235zsRFYaktCQEtuI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "CTS No 449, Survey No 24 Malad Marve Road, Malwani, Rathodi, Mumbai",
+      "lat": 19.1968888,
+      "lng": 72.8151687,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDeIaZPy25zsRz-GDbDnYR7U",
+      "name": "IndianOil Petrol Pump (Dahisar East)",
+      "address": "S.V.Road, Malad East, Mumbai",
+      "lat": 19.182011,
+      "lng": 72.846718,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJowwgjWa45zsR2IPVy7S30zU",
+      "name": "Bharat Petroleum, Petrol Pump -Mahavir Auto",
+      "address": "S-86, PLOT NO, 3, Maruti Mandir Road, Mumbai",
+      "lat": 19.1555178,
+      "lng": 72.9377391,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIdhT_Ga45zsRhQy5DGhDMcw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, opposite Shangrila Biscuit Factory, Lal Bahadur Shastri Marg, Bhandup West, Mumbai",
+      "lat": 19.15674,
+      "lng": 72.93780459999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsTFZ1lW45zsRnzzwSiy6-e4",
+      "name": "Chheda Service Station BPCL Petrol Pump",
+      "address": "near Johnson Garden, Lal Bahadur Shastri Marg, Sambhaji Nagar, Mulund West, Mumbai",
+      "lat": 19.17778,
+      "lng": 72.943679,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm6D_9qe35zsRR4P1CDOt3qE",
+      "name": "Mahanagar Gas CNG Station",
+      "address": "near Dindoshi Depot, Film City Road, Malad East, Mumbai",
+      "lat": 19.175593,
+      "lng": 72.86429799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDSeSRwC35zsRjdaRKsy0IQw",
+      "name": "Wammmmuuu",
+      "address": "29, Royal Palms Road, Royal Palms Estate, Aarey Milk Colony, Goregaon, Mumbai",
+      "lat": 19.1559171,
+      "lng": 72.883453,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJ0_oWU2a35zsRMevMp2Vik54",
+      "name": "Jio-bp pulse",
+      "address": "Ground Floor, Shyam Nagar, Jogeshwari East, Mumbai",
+      "lat": 19.1391538,
+      "lng": 72.86543069999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJU0NaEe635zsRHKlo06kAxy8",
+      "name": "Rajeshwar sahakar cop op soc",
+      "address": "Rajeshwar Society, Jogeshwari - Vikhroli Link Road, Anand Nagar, Jogeshwari East, Mumbai",
+      "lat": 19.1400139,
+      "lng": 72.8629586,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ5S9-CADJ5zsRgz-M9HyfAL4",
+      "name": "PUC Centre 2/4w Diesel/Petrol",
+      "address": "Fifc Tower, 501, G Block BKC, Bandra Kurla Complex, Bandra East, Mumbai",
+      "lat": 19.1291328,
+      "lng": 72.8817649,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJaQpn1c7J5zsRJ1GBqYhdxHk",
+      "name": "IndianOil Petrol Pump (Andheri East)",
+      "address": "4VHJ+MVH, Seepz, Andheri East, Mumbai",
+      "lat": 19.1289792,
+      "lng": 72.88212659999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP2V3Lde35zsR4Mw1tpoFWnk",
+      "name": "C K Oil Depot",
+      "address": "Trimurti Sad An, 1/3, Meghwadi, Indira Nagar, Jogeshwari East, Mumbai",
+      "lat": 19.135037,
+      "lng": 72.86108209999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm1FIKdzJ5zsR6gRLlvOijDI",
+      "name": "Marol Police Petrol Pump",
+      "address": "4VFJ+934, Marol, Andheri East, Mumbai",
+      "lat": 19.1233838,
+      "lng": 72.8802018,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ8dyUrajJ5zsRxC0FNoQwt8s",
+      "name": "Shah Auto",
+      "address": "Raje Sambhaji Nag, options primo bldh, Midc crossroad, n. 21, passport office lane, Vidya Milind Nagar, Mumbai",
+      "lat": 19.1254422,
+      "lng": 72.8898166,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJpejpgqe35zsRXKwHXMxd_3E",
+      "name": "IndianOil Petrol Pump (Goregaon)",
+      "address": "Dindoshi, Goregaon, Mumbai",
+      "lat": 19.1754031,
+      "lng": 72.8661922,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuUaHUDnI5zsRUy2qEr-3O70",
+      "name": "B G Exploration & Production India Limited",
+      "address": "1st Floor, Sahar plaza, near Kohinoor Hotel, A K Road, J B Nagar, Andheri East, Mumbai",
+      "lat": 19.1124592,
+      "lng": 72.8685788,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJrUfELMvJ5zsRUqaE152MYa8",
+      "name": "Bharat Petroleum CNG Pump",
+      "address": "Petrol Pump, Muranjan Wadi, Marol, Powai, Mumbai",
+      "lat": 19.1127061,
+      "lng": 72.88865609999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ1YF2WQDJ5zsRqRHGzZzD6wU",
+      "name": "132/33 kv Vaspeth substation",
+      "address": "4V85+8JH, Amrut Nagar, Mumbai",
+      "lat": 19.1158228,
+      "lng": 72.8591174,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJS7IssB255zsR5nNKyNTtl74",
+      "name": "Bharat Petroleum",
+      "address": "Nandanvan Industrial Estate, D/11, Lal Bahadur Shastri Marg, Louis Wadi, Thane West, Thane",
+      "lat": 19.1875579,
+      "lng": 72.9616995,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJt-dPxwW55zsR3OYlDioCwZY",
+      "name": "AIKI AUTO Cng Pump",
+      "address": "B-27, SG Barve Road, Neheru Nagar, Wagle Industrial Estate, Thane West, Thane",
+      "lat": 19.1939447,
+      "lng": 72.95338989999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJt8asOiu_5zsRQzJ4FHt1nIQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "opposite Green Word, Plot No 130, Digha Naka, TTC MIDC, Vitawa, Navi Mumbai",
+      "lat": 19.184651,
+      "lng": 72.99402100000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ49KrwMPA5zsRz2JqugxHZo8",
+      "name": "IndianOil Petrol Pump (Ghansoli)",
+      "address": "Plot No 14/4, Shil Phata - Mahape Road, TTC Industrial Area, Kopar Khairane, Navi Mumbai",
+      "lat": 19.1140802,
+      "lng": 73.0133048,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC2yhzD255zsRM3py_dGmMQI",
+      "name": "Mahanagar Gas CNG Station",
+      "address": "Khopat Road, Khopat, Thane West, Thane",
+      "lat": 19.2023766,
+      "lng": 72.9726207,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJ4J4UVG_5zsR7cwSnjZC31M",
+      "name": "Bharat Petroleum Corporation ltd",
+      "address": "near Sahakar Bazar, Plot No 33, Sector 5, Airoli, Navi Mumbai",
+      "lat": 19.1492106,
+      "lng": 72.99982729999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgcPwI1q45zsRdp7rCcXUxlM",
+      "name": "Global Automobiles Mahanagar Gas CNG Station",
+      "address": "Lal Bahadur Shastri Marg, Mulund West, Mumbai",
+      "lat": 19.1698056,
+      "lng": 72.9397556,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdcy_EKG55zsR5fq3PcZlScM",
+      "name": "IndianOil Petrol Pump (Mulund West)",
+      "address": "Lal Bahadur Shastri Marg, Mulund West, Mumbai",
+      "lat": 19.1716912,
+      "lng": 72.940981,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpXA6OwC55zsRKnRZbJx57iw",
+      "name": "Mohd Husain",
+      "address": "behind MANISHA HEIGHT BUILDING, B.R, Road, Jai Shastri Nagar, Shastri Nagar, Mulund West, Mumbai",
+      "lat": 19.171377,
+      "lng": 72.934119,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJneOj5lW45zsRSuvGkp5iMVI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Esic Hospital, Lal Bahadur Shastri Marg, Mulund West, Mumbai",
+      "lat": 19.178153,
+      "lng": 72.944925,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-a4M1P-45zsR34ODJmECqn0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, BR Road Junction, near Santoshi Mata Mandir, Lal Bahadur Shastri Marg, Mulund West, Mumbai",
+      "lat": 19.183467,
+      "lng": 72.94873299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-72I8vHH5zsRCrXKGSzVNQU",
+      "name": "Bhawani Petrol Pump",
+      "address": "IIT Main Gate Skywalk, Jogeshwari - Vikhroli Link Road, Tirandaz, Powai, Mumbai",
+      "lat": 19.1243196,
+      "lng": 72.914974,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSRyOwfHH5zsRqIOXK2JtEXw",
+      "name": "IndianOil Petrol Pump (Powai)",
+      "address": "Dixant Bhavan, opposite IIT, Adi Shankaracharya Marg, Powai, Mumbai",
+      "lat": 19.1239521,
+      "lng": 72.915139,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs8AfzuS55zsRcLZmOG8L_PA",
+      "name": "IndianOil Petrol Pump (Thane West)",
+      "address": "Lock No 22005, Plot No 122a, Lal Bahadur Shastri Marg, Naupada, Thane",
+      "lat": 19.1895,
+      "lng": 72.96530000000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPy-XLgDH5zsRuOzcUPhoGBc",
+      "name": "N.M.M.T Ghansoli CNG Pump",
+      "address": "Sai Baba Mandir, Near, Sector 15 Road, Ghansoli, Navi Mumbai",
+      "lat": 19.1218513,
+      "lng": 72.990552,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJy3mDw7655zsRe12JnUVl62E",
+      "name": "MAHANAGAR CNG WAGLE ESTATE",
+      "address": "Road Number 22, Neheru Nagar, Shree Nagar, Thane West, Thane",
+      "lat": 19.19348,
+      "lng": 72.94956239999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg-zt07fH5zsR66bRqxqxJtY",
+      "name": "Meena fuel",
+      "address": "ashtvinayak Apt, 101, Sector 16, Ghansoli Gaon, Ghansoli, Navi Mumbai",
+      "lat": 19.1247512,
+      "lng": 72.99264749999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ9eOLbfG55zsRDyhkcytnD28",
+      "name": "Sandeep Gavelkar Pump",
+      "address": "02 22, Shop 02, Kisan Nagar Road, Thane",
+      "lat": 19.1938754,
+      "lng": 72.9503014,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJe8zbEPS_5zsRJ-GeCjcRcZE",
+      "name": "IndianOil Petrol Pump (Thane West)",
+      "address": "No A/93, COCO MIDC, Road Number 16, Wagle Industrial Estate, Thane",
+      "lat": 19.1939396,
+      "lng": 72.9535659,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9XqaBA-_5zsRatYD-fe4j7I",
+      "name": "Mahanagar Gas CNG Station",
+      "address": "4XXX+MW4, Airoli Bridge Road, Sector 5, Airoli, Navi Mumbai",
+      "lat": 19.1491371,
+      "lng": 72.9998191,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEVb_Nl6_5zsRcCYdzOiHLYw",
+      "name": "Shell Petrol & Gas Pump",
+      "address": "Thane - Belapur Road, Rabale, Navi Mumbai",
+      "lat": 19.145397,
+      "lng": 73.001396,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYwHKntq95zsRG2DAFBmGJAM",
+      "name": "Anjur Service Centre",
+      "address": "3, Agra - Mumbai Highway, Thane West, Bhiwandi",
+      "lat": 19.1957353,
+      "lng": 72.96187189999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJEV-YDiK55zsRrZZDlaq7G18",
+      "name": "Radhakishan Lalchand HP Petrol Pump",
+      "address": "Teen Petrol Pump, Naupada, Thane",
+      "lat": 19.1928872,
+      "lng": 72.9702849,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbTiVQce55zsRcEqLQfSEEYk",
+      "name": "Shell",
+      "address": "Service Road, Thane",
+      "lat": 19.195491,
+      "lng": 72.963081,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxQKJciK55zsRLcN42xzBjn8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 356, Agra - Mumbai Highway, Naupada, Thane",
+      "lat": 19.193261,
+      "lng": 72.970421,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJed5KkCG55zsRMaLYhxviwLw",
+      "name": "BEST TYRE SERVICE",
+      "address": "oppojit teen petrol pump, Tulasi Chambers, B/H, Lal Bahadur Shastri Marg, Thane West, Thane",
+      "lat": 19.1933681,
+      "lng": 72.97023229999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmd2nHQC55zsRYtniEjcyCgM",
+      "name": "KOWTHALAM ADONI ROAD",
+      "address": "5XW4+WJV, Ambica Nagar, Wagle Industrial Estate, Estat, Thane",
+      "lat": 19.1973555,
+      "lng": 72.95653779999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJw4f4oOa55zsR3UzvHIHqX3s",
+      "name": "Namdev Nipurt",
+      "address": "Shop 04, Teen Perto Pump 26, Thane",
+      "lat": 19.1939618,
+      "lng": 72.9704826,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ3_rkbqjA5zsRmI21-2f2BCE",
+      "name": "Mahanagar Gas CNG Station",
+      "address": "R-373, Rabale MIDC Road, MIDC Industrial Area, Rabale, Navi Mumbai",
+      "lat": 19.1412327,
+      "lng": 73.00418839999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-5o2LgDB5zsR-PdUkubM-kk",
+      "name": "Mahanagar Gas",
+      "address": "42G2+856, Ghansoli, Navi Mumbai",
+      "lat": 19.12578239999999,
+      "lng": 73.0003801,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJQzov27XA5zsRTBaoCruGQGM",
+      "name": "MGL CNG Pump",
+      "address": "400701, Sector 8, Jijamata Nagar, Ghansoli, Navi Mumbai",
+      "lat": 19.1215633,
+      "lng": 72.9988104,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJGehcdm7B5zsR6m08PpjNLL4",
+      "name": "IndianOil Petrol Pump (Ghansoli)",
+      "address": "Gut No 85, Talavali gaon, Ghansoli, Thane",
+      "lat": 19.1317735,
+      "lng": 73.0036669,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJaCijYzB5zsR0W_PPJ0Yhbo",
+      "name": "Mahanagar Gas CNG Station",
+      "address": "Jio Regional Office, Park RTEC, Thane - Belapur Road, Reliance Corporate Park, MIDC Industrial Area, Ghansoli, Navi Mumbai",
+      "lat": 19.13214809999999,
+      "lng": 73.0038198,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjX1HbgHB5zsRRwxFO13GykE",
+      "name": "Rabale Fuel Services",
+      "address": "Opposite Reliance B Gate, Belapur Highway, Rabale, Navi Mumbai",
+      "lat": 19.1317718,
+      "lng": 73.0037612,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJcZBDGwC55zsRVTHMi2Y-m28",
+      "name": "Mahanagar Gas CNG",
+      "address": "near Sanjay Gandhi Market, No 33 Ambewadi, near Sanjay Gandhi Market, Road Number 33, Indira Nagar, Wagle Industrial Estate, Thane West, Thane",
+      "lat": 19.204586,
+      "lng": 72.95193309999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcRWbUAC55zsRRy551Z2JKz4",
+      "name": "MGL Wagle Estate , Modern",
+      "address": "6X32+VMC, Road Number 33, Karvalo Nagar, Thane West, Thane",
+      "lat": 19.2046996,
+      "lng": 72.9516515,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJz73kTDC_5zsRsILWnli_XeY",
+      "name": "Mahanagar Gas CNG Station",
+      "address": "near Palampur Company, Plot No General 55, MIDC Road, Digha Naka, Subhash Nagar, Dighe, Navi Mumbai",
+      "lat": 19.1754882,
+      "lng": 73.0023684,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpy5Sw13B5zsRrR-E00rSw98",
+      "name": "Jio-bp",
+      "address": "Twin Tower, GF, Thane - Belapur Road, Reliance Corporate Park, Ghansoli, Thane",
+      "lat": 19.1224924,
+      "lng": 73.0067213,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJj30fq0DB5zsRLMgZ6anNl20",
+      "name": "Jio-bp",
+      "address": "Twin Tower, GF, Thane - Belapur Road, Reliance Corporate Park, Zone 2, Ghansoli, Thane",
+      "lat": 19.1244625,
+      "lng": 73.0082031,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJu2k-j9PB5zsR03yASdq9lbI",
+      "name": "Bharat Petroleum Corporation ltd",
+      "address": "Railway Station, Plot No 11 Ghansoli, Rabale, near Ghansoli, Sector 2, Thane",
+      "lat": 19.1182183,
+      "lng": 73.0065137,
+      "open_now": true
+    }
+  ]
+}

@@ -1,0 +1,403 @@
+{
+  "city": "Sanquelim",
+  "state": "Goa",
+  "count": 49,
+  "center": {
+    "lat": 15.2333,
+    "lng": 73.9833
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJUebqPgBNvjsRE1hgDb-iOXk",
+      "name": "IndianOil",
+      "address": "Ground Floor, Salcete, Bapsoro, Velim",
+      "lat": 15.142595,
+      "lng": 73.9547905,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9faOTQBNvjsRZEbMrkVPxC8",
+      "name": "HP petrol pump",
+      "address": "4WHX+J5G, Kital",
+      "lat": 15.129325,
+      "lng": 73.9482491,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJkfFD82VNvjsRVQ0OPvXzmq0",
+      "name": "IndianOil",
+      "address": "Ground Floor Chinchinim, Salcette, Assolna",
+      "lat": 15.187579,
+      "lng": 73.970708,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJb94ruD1NvjsR4dFzd63T5m8",
+      "name": "BP Petrol Pump",
+      "address": "Cuncolim",
+      "lat": 15.1784534,
+      "lng": 73.99896729999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrYvD9jJNvjsRM3wlo0JR62c",
+      "name": "IndianOil",
+      "address": "Ground Floor NH 17, Cuncolim, Salcete, Barsen",
+      "lat": 15.196733,
+      "lng": 73.99673299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJD7eenrtNvjsRIIVNmU7fols",
+      "name": "Dessai Petrol Pump",
+      "address": "NH 66, Pattem, Bally",
+      "lat": 15.1485504,
+      "lng": 74.02006659999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1zhJryZNvjsRmbOTlpGHGCc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 269, near Cuncolim, 2C, Road, Industrial State, Ambavali",
+      "lat": 15.184906,
+      "lng": 74.017938,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-5Md1_lTvjsRObvGEmu_jYk",
+      "name": "IndianOil",
+      "address": "Survey No 25, 1 AR, Cordem",
+      "lat": 15.1123459,
+      "lng": 74.0356566,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJr4hdJHhTvjsRy4Vx-TNK6a0",
+      "name": "Shubhra Petroleum",
+      "address": "Shubhra Petroleum, Sirvoi",
+      "lat": 15.1934382,
+      "lng": 74.0972491,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZfA3lhKtvzsRyuG2jguh_lE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 152, near Municipal Garden, 3 SH 40, Margao - Quepem Road, Quepem",
+      "lat": 15.214241,
+      "lng": 74.070601,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhas7SC-tvzsRse8_RPTXHEw",
+      "name": "Quepem Gas Station",
+      "address": "Shop No.2, near Petrol Pump, Quepem",
+      "lat": 15.2146357,
+      "lng": 74.0705954,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJ6j9HMmtvzsRDE47KQW9k3Y",
+      "name": "6/67 RVS",
+      "address": "6/67, Garden Street, Quepem",
+      "lat": 15.2148983,
+      "lng": 74.07082430000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ8wpQbgCtvzsRHHviAfYevUs",
+      "name": "Amey Fuel Station IndianOil",
+      "address": "6396+WJF, Quepem",
+      "lat": 15.21982,
+      "lng": 74.0615332,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEa2-E4OzvzsR4uyGQyXgqng",
+      "name": "Bharat Petroleum Petrol Pump",
+      "address": "NEAR REGINA APARTMENTSACSONA, DIULAR",
+      "lat": 15.2553627,
+      "lng": 73.9443113,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJESjTsZqzvzsR87Rf2ABTcno",
+      "name": "IndianOil",
+      "address": "Survey No 44, 2A, Colva Beach Road, Seraulim",
+      "lat": 15.27925,
+      "lng": 73.937629,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJ8MvpBOzvzsRbKvQ_EF41mE",
+      "name": "Furtado Fuel Center",
+      "address": "6XX9+HJC, Bellem, Navelim",
+      "lat": 15.2489332,
+      "lng": 73.9690553,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwWNKp-mzvzsRnQFvzzHS_6M",
+      "name": "BPCL Pump",
+      "address": "Madgaon",
+      "lat": 15.2719078,
+      "lng": 73.956643,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2S8OW5-zvzsRfHM1sSjU7aM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 77/9 & 77/13 Goa Mumbai Highway, National Highway 66, Navelim",
+      "lat": 15.2493959,
+      "lng": 73.9704091,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx0_-ROizvzsRn2Pj_JDN98U",
+      "name": "Y.R. N. Kurade BP Petrol Pump",
+      "address": "BP Petrol Pump, Abade Faria Road, Comba, Pajifond, Madgaon",
+      "lat": 15.2739044,
+      "lng": 73.9574433,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJVCFROizvzsRe_xD-UloaF4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Chalta No 215, opposite Municipal Garden, Goa Mumbai Road, Salcete, Madgaon",
+      "lat": 15.274161,
+      "lng": 73.957411,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJO9asmVuzvzsRcHBaYjsqx1w",
+      "name": "Shree Kamakshi Filling Station ADHOC",
+      "address": "Abade Faria Road, Comba, Pajifond, Madgaon",
+      "lat": 15.2742746,
+      "lng": 73.9574068,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJt_IleABNvjsR7IyRzU-Bby4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "ground floor, Quitol, Betul, Quepem",
+      "lat": 15.2759619,
+      "lng": 73.9583889,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJV0YB7OezvzsRCZYAbpVaoO4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Chalta No 171, No 207, PT Sheet, Salcete, Padre Miranda Road, Madgaon",
+      "lat": 15.277011,
+      "lng": 73.958411,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJz0XKBxKzvzsRvoum0jLMp8s",
+      "name": "Bharat Petroleum",
+      "address": "nr. CINEMETROPLOE, Madgaon",
+      "lat": 15.277884,
+      "lng": 73.95877060000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ75qyPgCzvzsRKDF0Wl-WLXk",
+      "name": "Mohidin Auto Care Centre",
+      "address": "7XH5+4GH, nr. CINEMETROPLOE, Pajifond, Madgaon",
+      "lat": 15.2778208,
+      "lng": 73.95887429999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFwMiHIOyvzsRK8H_XEvRzWQ",
+      "name": "IndianOil",
+      "address": "S No 24/2, Margao Quepem Road Assolda, Salcete, Mulem",
+      "lat": 15.2371048,
+      "lng": 74.02614849999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_4XeftOzvzsRIihTm_ZcMTI",
+      "name": "Clarina BPCL Petrol Pump",
+      "address": "Vidyanagar, Gogol Housing Board, Madgaon",
+      "lat": 15.2829212,
+      "lng": 73.98026829999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJcplN3yxvzsRW2ATk2eS5Dk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Royal Enfield Showroom, No 5 & 57, Margao Bypass Road PT Sheet, Salcete, Fatorda, Arlem, Madgaon",
+      "lat": 15.290841,
+      "lng": 73.976491,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ648fRACzvzsRMZnF4H_qtbs",
+      "name": "Bharat Petrol Pump",
+      "address": "7X3V+RGF, Lakaki, Dikarpal",
+      "lat": 15.2545687,
+      "lng": 73.9938071,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJcz8mflGzvzsR5CZ_OgIjMCI",
+      "name": "Ramnathkar Petroleum",
+      "address": "next to Military Camp, Dikarpal",
+      "lat": 15.2545229,
+      "lng": 73.9939469,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ1_-ZRH2zvzsRznrYvO5OVcI",
+      "name": "LPG Godown Margao gas distributor",
+      "address": "7229+5J, Sao Jose De Areal",
+      "lat": 15.250428,
+      "lng": 74.0191112,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8f_OH2WxvzsRADzL0bHT1hs",
+      "name": "HP PETROL PUMP - DURGA S.CENTRE",
+      "address": "Plot No.44, Margao - Ponda Highway, Fatorda, Madgaon",
+      "lat": 15.2965973,
+      "lng": 73.9702635,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP8LlSxyxvzsRC-Fo2i9AF0Q",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Chalta No 15, Margao Ponda Road, Salc, Fatorda, Madgaon",
+      "lat": 15.296671,
+      "lng": 73.96963099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs9RlNGysvzsRBnsMbRxxEHQ",
+      "name": "Girish Petroleums/ Pauskar Petrol Pump",
+      "address": "74C5+9JX, Sanvardem",
+      "lat": 15.2709804,
+      "lng": 74.1090962,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3x_8ffKsvzsRDI2zptFOTm8",
+      "name": "IndianOil",
+      "address": "Ground Floor, Xeldem",
+      "lat": 15.240984,
+      "lng": 74.097511,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmas1IXOtvzsR7Tf1WCCfefg",
+      "name": "HP GAS ANUBHAV GAS SERVICE",
+      "address": "G 4 12, BANSAI PLAZA, BANSAI, Kakoda, Vodlemol Cacora",
+      "lat": 15.2538347,
+      "lng": 74.1040281,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJoXTr4sqtvzsR7lN1BZ5F3rA",
+      "name": "Navadurga Petroleum",
+      "address": "Ambedkar Chowk, Hodar",
+      "lat": 15.2586018,
+      "lng": 74.1055691,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJw7wpLwCtvzsRA1vEavVZ0aE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Dr Ambedkar Circle, Maruti Gad Road, Quepem, Vodlemol Cacora",
+      "lat": 15.2584466,
+      "lng": 74.10589089999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM6mn0mWsvzsRPMBO-NFZFIw",
+      "name": "Abdul Razak Petrol Pump (Bharat Petroleum)",
+      "address": "BEPQUEGAL, Vodlemol Cacora",
+      "lat": 15.2612419,
+      "lng": 74.1071022,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYXxqTiatvzsRbRZzhqlEq1w",
+      "name": "Bharat Petroleum, Petrol Pump - United Service Centre",
+      "address": "nr. BUS STAND, SALCETE, Sanvardem",
+      "lat": 15.2616373,
+      "lng": 74.1070367,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJh3blxXGsvzsRdrZkwGBoVAw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 36/9, near Tisk, Curchorem - Ponda Road, Quepem, Curchorem",
+      "lat": 15.268081,
+      "lng": 74.113311,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl7GB_063vzsRuXAtl31HZMU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 46/1, National Highway 66, Verna, Mumbai",
+      "lat": 15.361322,
+      "lng": 73.927551,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTeAHdlOxvzsR9mLrhaTinQw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 163, Rmc Plant, near Adwalpalkar Strongest, 1/A, Salcete, Loutolim",
+      "lat": 15.347739,
+      "lng": 73.96823599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJN8auyK6xvzsRAe6aO9Y4_qU",
+      "name": "IndianOil",
+      "address": "Indian Oil Coco, Margao - Ponda Highway, Loutolim",
+      "lat": 15.3277427,
+      "lng": 73.989744,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl-3VDkewvzsRlXBVGXb9wj4",
+      "name": "Bharat Petrol Pump (Shree Kamakshi Filling Station)",
+      "address": "near Borim Bridge, Borim",
+      "lat": 15.3504533,
+      "lng": 74.0044592,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJA9wNgA2wvzsRq_myBrqZQ8k",
+      "name": "Bharat Petroleum and CNG & EV Charging",
+      "address": "opp. Top Cola, 17B, National Highway, Borim",
+      "lat": 15.3705444,
+      "lng": 74.00956790000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOxYkCwCxvzsRd9qRLqwmXlM",
+      "name": "भारत पेट्रोलियम, सीएनजी",
+      "address": "9286+2X6, Borim",
+      "lat": 15.3650456,
+      "lng": 74.0123851,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ8WUxbQCxvzsRpR9HCQn_4NI",
+      "name": "Sidharth Agencies",
+      "address": "92C5+6RV, Borim",
+      "lat": 15.3706229,
+      "lng": 74.009557,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJKxl0QgCrvzsRDZiAfljx9yA",
+      "name": "CNG pump",
+      "address": "74XF+PHQ, Bandoli",
+      "lat": 15.2993265,
+      "lng": 74.12399599999999,
+      "open_now": null
+    }
+  ]
+}

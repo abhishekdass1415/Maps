@@ -1,0 +1,915 @@
+{
+  "city": "Muzaffarpur",
+  "state": "Bihar",
+  "count": 113,
+  "center": {
+    "lat": 26.1288,
+    "lng": 85.32
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJN2hgnT087TkR6HXasFVsy3I",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 102, Pokhraira, Muzaffarpur",
+      "lat": 26.071531,
+      "lng": 85.210861,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJt6j4tK897TkRBR8k1uYCApI",
+      "name": "Bharat Petroleum",
+      "address": "NH-102, Narhar Sarai, Muzaffarpur",
+      "lat": 26.0949385,
+      "lng": 85.2385311,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuWqw6Ds87TkRRKk7uffJyus",
+      "name": "IndianOil",
+      "address": "Ground Floor Rewaghat Road, Bhagwatpur Karja, Karja",
+      "lat": 26.073938,
+      "lng": 85.216336,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfXV_K1897TkR-we--K2tgc8",
+      "name": "Bangali Sah & Chandra Pratap Fules",
+      "address": "Karja, Rewa Road, Karja Dih",
+      "lat": 26.0948983,
+      "lng": 85.2387323,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-4bYmMk_7TkRlpomM_5OJTE",
+      "name": "IndianOil",
+      "address": "Ground Floor, Saraiya, Bahilwara Rupnath South",
+      "lat": 26.0301709,
+      "lng": 85.20419009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJw86SY_IV7TkRq9kRsNCEmgA",
+      "name": "Gaming Access",
+      "address": "Chakwaja Chakwaja, Muzaffarpur",
+      "lat": 26.0095506,
+      "lng": 85.2725717,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJB4prUXk97TkRr7SV9lruVwo",
+      "name": "Reliance Petroleum",
+      "address": "near Nh 102, No 650P & 655P, Khata No 135, 12 & 193 Saraiya, Kanti, Marwan Khurd, near Nh 102, Karja, Muzaffarpur",
+      "lat": 26.111262,
+      "lng": 85.2665301,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJU42ZbNYX7TkR7WHUpeWjCTQ",
+      "name": "IndianOil",
+      "address": "Ground Floor Mansurpur Chamarua, Marwan, A, Bishanpur",
+      "lat": 26.112822,
+      "lng": 85.27355299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUasiCPQV7TkRqaEieM7CFAY",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kurhani",
+      "lat": 26.0308162,
+      "lng": 85.306683,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDWSTHXQ97TkRnwjSuUK7hzE",
+      "name": "IndianOil",
+      "address": "Ground Floor, arja, A, Bishanpur, Marwan Bhoj",
+      "lat": 26.11725,
+      "lng": 85.256417,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeZVEBQA97TkR_fNi2BFeymk",
+      "name": "Om Namah Shivaya Service Station",
+      "address": "47G5+FP7, Bagahi",
+      "lat": 26.1261729,
+      "lng": 85.2593113,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJcRhsb2057TkRusWja0ymdsQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, Mugaulli, Chakna",
+      "lat": 26.046429,
+      "lng": 85.173346,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJX4P_bEW7TkRxolCK25m0UI",
+      "name": "IndianOil",
+      "address": "Ground Floor Ladaura, A, Bishanpur, Muzaffarpur",
+      "lat": 26.073175,
+      "lng": 85.349335,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvzmjTVwR7TkRi-jnF_K3lrs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 77, Hajipur - Muzaffarpur Highway, Muzaffarpur",
+      "lat": 26.0700201,
+      "lng": 85.372624,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnYtbUxMR7TkReUOYGelp6WM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Malang Asthan, Ashok Nagar, Muzaffarpur",
+      "lat": 26.085974,
+      "lng": 85.3807573,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMyT9KhIR7TkRyHVL9Fpmwso",
+      "name": "IndianOil",
+      "address": "Ground Floor, Ramdayalu, NH 77, Khabra",
+      "lat": 26.091583,
+      "lng": 85.383583,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS8RbQ9EQ7TkRLCyOW54nIjg",
+      "name": "IndianOil",
+      "address": "Ground Floor, Near Muz Collectorate, Bhagwanpur",
+      "lat": 26.1161316,
+      "lng": 85.3603929,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy-eQ19IT7TkRQkmsKy0-xp8",
+      "name": "Ms Mishra & Sons Petrol Pump Purushottampur",
+      "address": "Kacchi Pakki Bus Stand Road, Purushottampur",
+      "lat": 26.0538007,
+      "lng": 85.3956865,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJO5h5ZdIQ7TkRP0WGWZ78Igg",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 28, near Bhagwanpur, Chowk, Muzaffarpur",
+      "lat": 26.11962,
+      "lng": 85.358051,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJv7sQnjsV7TkRPjHh5OMO85M",
+      "name": "SAMRAT FUEL SERVICE",
+      "address": "NH 57, Muzaffarpur",
+      "lat": 26.0493501,
+      "lng": 85.3446321,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvXGRCJYV7TkRLbA0LYKX9OY",
+      "name": "IndianOil",
+      "address": "Ground Floor Kurhani, Turki, Basouli",
+      "lat": 26.035007,
+      "lng": 85.34123199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9XJNTw0U7TkRe4H0RHkRV14",
+      "name": "IndianOil",
+      "address": "Ground Floor NH 77, Turki",
+      "lat": 26.0381956,
+      "lng": 85.3456162,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvzeHfywR7TkRvoKE7Q0zggA",
+      "name": "Bharat Petroleum, Petrol Pump -Raj Petroleum",
+      "address": "NH-77,TURKI, MUZAFFARPUR, MUZZAFARPUR",
+      "lat": 26.0516401,
+      "lng": 85.3567837,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8ZFyXTwT7TkRl7rvgHggwy8",
+      "name": "Bharat Petroleum, Petrol Pump -Sarthi Fuel Station",
+      "address": "NH77, KURHANI, MUZAFFARPUR, MUZZAFARPUR",
+      "lat": 26.0516401,
+      "lng": 85.3567837,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJlUfzWwAT7TkRDLkcefxv2vE",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 77, Shakri Saraiya",
+      "lat": 26.052881,
+      "lng": 85.35746,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpdekZfkT7TkR6W7RxruvuT0",
+      "name": "Reliance Petroleum",
+      "address": "Ground Floor, Sakari Saraianchal, Nh 77, Kurhani",
+      "lat": 26.053594,
+      "lng": 85.3595941,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQ2xmYPYU7TkRo8mnBez6GYU",
+      "name": "Sarthi Fuel Station",
+      "address": "286H+65Q, NH77, Road, Chandra Hati",
+      "lat": 26.0105953,
+      "lng": 85.3279895,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH7ISOV8R7TkRTctLjzLvpBA",
+      "name": "IndianOil",
+      "address": "Ground Floor, Shiv Mandir, NH 28, near Khabra, Khabra",
+      "lat": 26.089755,
+      "lng": 85.3708942,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJz2EQD9oR7TkRosCQnkRiRko",
+      "name": "IndianOil",
+      "address": "Ground Floor Malangasthan, NH 77, A, Purushottampur",
+      "lat": 26.0846108,
+      "lng": 85.3812353,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJix9RFRcR7TkRr0b9SodiF_w",
+      "name": "Vijay Petrol Pump",
+      "address": "39WH+CV8, Pragya Nagar, Muzaffarpur",
+      "lat": 26.09604169999999,
+      "lng": 85.37969819999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo4BZKAAR7TkRAPOuDzVUV_E",
+      "name": "CP YADAV PETROLEUM",
+      "address": "399V+426, Siwanpatti",
+      "lat": 26.0675813,
+      "lng": 85.39252479999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJz4psR9EQ7TkR_X_r9JVOfig",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Bhagwanpur, NH 28, Prabhat Nagar Road, Chowk, Muzaffarpur",
+      "lat": 26.117501,
+      "lng": 85.359471,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8X-iZTIX7TkRSA1lSvojREM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Chhapra - Rewa - Muzaffarpur Road, Muzaffarpur",
+      "lat": 26.121278,
+      "lng": 85.351936,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ13RIUAAR7TkRwJrE6SOKl0g",
+      "name": "Tuntun singh",
+      "address": "4968+2C5, Majhaulia Road, Dinkar Nagar Majhuliya, Muzaffarpur",
+      "lat": 26.1100099,
+      "lng": 85.3661125,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJBxKSb58R7TkRIVv7qvohpu4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Kacchi Pakki Road, Mahendra Nagar, Sherpur, Bela",
+      "lat": 26.085701,
+      "lng": 85.39960099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ47khLqsT7TkRyENtTdvr01E",
+      "name": "IndianOil",
+      "address": "Ground Floor, Ramchandra Chouk, Karma Road, Kachi Pakki, Basouli",
+      "lat": 26.0192914,
+      "lng": 85.3957679,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWbedeAQR7TkRnkh6s1CIxro",
+      "name": "Bharat Petroleum Zenith Auto",
+      "address": "493R+8G8, Ramdayalu Nagar - Hajipur Road, Aghoria Bazar, Saadpur, Muzaffarpur",
+      "lat": 26.1037893,
+      "lng": 85.38895579999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjYHFBicO7TkRh4TFC0Qwu3U",
+      "name": "Bharat Petroleum Petrol Pump",
+      "address": "Kothia Dakhili",
+      "lat": 26.0962459,
+      "lng": 85.43975130000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJN98B-PIQ7TkRNBcBXw2-YAs",
+      "name": "IndianOil",
+      "address": "Ground Floor, Collectorate, Akharaghat Road, Muz, Muzaffarpur",
+      "lat": 26.130451,
+      "lng": 85.387902,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJN0Vv1nsR7TkRP_VIROyNGKY",
+      "name": "IndianOil",
+      "address": "Ground Floor, 01, Kacchi Pakki, Dighra Rampur Shah",
+      "lat": 26.079426,
+      "lng": 85.408409,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC9AsMJ8R7TkRNNyaEyIvgCQ",
+      "name": "Bharat Petroleum, Petrol Pump -Kishan Fuel Point",
+      "address": "NH-28,SHERPUR,MUZAFFARPUR, Muzaffarpur",
+      "lat": 26.0838254,
+      "lng": 85.4011544,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJb0f7TJYR7TkRl3Q36Ji1zzU",
+      "name": "Indane Bottling Plant (IOCL)",
+      "address": "Narayanpur Anant, Sherpur",
+      "lat": 26.0848342,
+      "lng": 85.40924679999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhWulkwsR7TkRc0t9_XIaDPg",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 28, Kachi Pakki Chowk, Mahendra Nagar, Muzaffarpur",
+      "lat": 26.0904667,
+      "lng": 85.3919726,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvVlJvmsR7TkRTf7RwrNiNtk",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sadar, Muz Collectorate,Dighara Rampur Shah",
+      "lat": 26.0813132,
+      "lng": 85.41650469999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9arQZYcR7TkRe1mDrQw3Rlk",
+      "name": "IndianOil",
+      "address": "Ground Floor, Swami Vivekanand Road, Narayanpur, Dighra Patti",
+      "lat": 26.0937215,
+      "lng": 85.4083028,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvZAggLwT7TkRBeHkZfDtML0",
+      "name": "Reliance Petroleum",
+      "address": "Khata No 170, 72 106 & 148, Thana No 272, Kurhani",
+      "lat": 26.0541028,
+      "lng": 85.4349216,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJK0NMSgIR7TkRb2NLfJGyWQI",
+      "name": "IndianOil",
+      "address": "Ground Floor, Collectorate, Aghoria Bazar, Muz, Muzaffarpur",
+      "lat": 26.107035,
+      "lng": 85.38962599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzSP8OugR7TkR005D6Cw3SBM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Water Tank Chowk, near Kalambagh Road, Mahammadpur Kazi, Ramna, Satsang Vihar, Muzaffarpur",
+      "lat": 26.1094133,
+      "lng": 85.386456,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJk14vjGIR7TkR6TYPGe4ApOs",
+      "name": "Bharat Petroleum Petrol Pump , MAA TARA FUELS",
+      "address": "KANHAULI AZRAKABEPS, Mithanpura, Muzaffarpur",
+      "lat": 26.1062872,
+      "lng": 85.4206949,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFTv6Qo8N7TkR35L-R2tSW70",
+      "name": "IndianOil",
+      "address": "Thana No 253, Mahanth Maniari",
+      "lat": 26.0298175,
+      "lng": 85.4439108,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJr1Q0Fl4P7TkRrqrreArhTwU",
+      "name": "Vishvakarma Fuels Centre",
+      "address": "Rahua Chowk, near Bharat Petroleum, Pusa Rd, Rohua",
+      "lat": 26.0957069,
+      "lng": 85.4406198,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ3erLJ58R7TkRgqa-eoB7ROE",
+      "name": "Vishnu Nidhi Urga Kendra Company control Pump BPCL",
+      "address": "R K hot and cold point, Hathi Chowk, Kachchi sarai road, Amar cinema, near Bisheswar Shyama Market, to, kalyani road, Muzaffarpur",
+      "lat": 26.1185409,
+      "lng": 85.395566,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEdYtTDER7TkR2UkJyPmHHko",
+      "name": "Bharat Petroleum, Petrol Pump -Lalit Kumar Bose",
+      "address": "Station Road, Muzaffarpur",
+      "lat": 26.1216293,
+      "lng": 85.3811836,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJezU9YBsR7TkRy6_BreRMLXc",
+      "name": "IndianOil",
+      "address": "Ground Floor, Collectorate, Jail Road, Muz, Muzaffarpur",
+      "lat": 26.124826,
+      "lng": 85.405174,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ20VcM84Q7TkRAdhD7zgaFZI",
+      "name": "IndianOil",
+      "address": "Ground Floor Maripur, Saraiyaganj Muz, Collectorate, Muzaffarpur",
+      "lat": 26.1261237,
+      "lng": 85.38520559999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJt2Lniy8R7TkRl-ABpo3oGu8",
+      "name": "MS RAGHUBANSH ENERGY",
+      "address": "ENERGY. Chhap Ambara, RAGHUBANSH, Jaffarpur Deoria Road, Muzaffarpur",
+      "lat": 26.1262788,
+      "lng": 85.3883654,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJc2LSXuoP7TkRde5u5VMLHwQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Mansi Nawada Chowk, near Muzaffarpur Pusa Road, Musahari, Muzaffarpur",
+      "lat": 26.085601,
+      "lng": 85.460768,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9R5fHZA97TkRFoe7NrBDGQA",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kanti - Harchanda Road, B Mahanand, Harchanda",
+      "lat": 26.13704,
+      "lng": 85.2587131,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHVD482897TkR2T4BmoB_rJQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, Muzaffarpur-Deoria Road, Harchanda",
+      "lat": 26.1411171,
+      "lng": 85.2661938,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjWbbjrE87TkRfsMStU1J6wk",
+      "name": "HP PETROL PUMP - GEETA FUELS",
+      "address": "Hpcl Petrol Pump Badkagaon",
+      "lat": 26.14446,
+      "lng": 85.20151299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeWetfaY97TkRjCY_-Ehugn0",
+      "name": "IndianOil",
+      "address": "Ground Floor, Barkagaon Road, Marwan",
+      "lat": 26.15264879999999,
+      "lng": 85.20283789999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJE49p9Ks87TkRIE5Ouy7bfjU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Muzaffarpur-Deoria Road, Barkagaon North",
+      "lat": 26.145879,
+      "lng": 85.194447,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNT3daD4j7TkROjMPLQI-xRc",
+      "name": "Md Aarif",
+      "address": "Urdu School Urdu School, Gopalpur",
+      "lat": 26.18139279999999,
+      "lng": 85.2098307,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJH8XhQ2MX7TkRN4MMRpOLrtc",
+      "name": "Baba Fuel Point",
+      "address": "582F+6CQ, Unnamed Road, Chiknauta urf Harpur Lahauri",
+      "lat": 26.1505897,
+      "lng": 85.3235988,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ24-68a4Q7TkRHPm4eBRwWwE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near Bus Stand, Ground Floor NH 28, kolhua, Paigambarpur, near Bus Stand, Bairia",
+      "lat": 26.147823,
+      "lng": 85.361862,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJz4bHSZsQ7TkRPgwerpMStX4",
+      "name": "IndianOil",
+      "address": "Ground Floor, Akharaghat Zeromile, Ahiyapur, Purushottampur",
+      "lat": 26.149477,
+      "lng": 85.385616,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnVwZNvMQ7TkRP8cf1KKvCqQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Akharghat, Muzaffarpur",
+      "lat": 26.132901,
+      "lng": 85.38980099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsapgTYsX7TkR_C2LfyhAeas",
+      "name": "IndianOil",
+      "address": "Ground Floor Kanti, Bishanpur, Damodarpur, Muzaffarpur",
+      "lat": 26.139595,
+      "lng": 85.349605,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJITBJGVkX7TkRm9Q0XIXOeRo",
+      "name": "Bharat Petroleum, Petrol Pump -Narayani Fuels",
+      "address": "NH-28, Kolva Pagambarpurmu, Muzaffarpur",
+      "lat": 26.1517569,
+      "lng": 85.3412163,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm1MCMTUX7TkRDcXQMIp6K1w",
+      "name": "Shanti Petrol Pump",
+      "address": "Oom Nagar, opposite swayamvar vivah bhawan, After, Railway Crossing, Navijaan Colony, Damodarpur, Jaiprakash Nagar, Muzaffarpur",
+      "lat": 26.1361227,
+      "lng": 85.3542983,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJb7Yh9f8R7TkRVgdNwtN1d6A",
+      "name": "IndianOil",
+      "address": "Ground Floor, Near Muz Collectorate, Brahmapura, Muzaffarpur",
+      "lat": 26.13003,
+      "lng": 85.35853999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhSH247MQ7TkRY5kTOge5UVM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Chandani Chowk, Muzaffarpur",
+      "lat": 26.13951459999999,
+      "lng": 85.3597158,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFYCiKjkR7TkREJtw44rij5A",
+      "name": "Mahavir Auto Service",
+      "address": "Zeromile Chowk, Bairiya Road, Muzaffarpur",
+      "lat": 26.152568,
+      "lng": 85.35203059999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqQEg2fwZ7TkRmHVTQGz13bo",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 26.1586322,
+      "lng": 85.34552070000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpxpsdDIR7TkRyJZVzLpXaZE",
+      "name": "BABA BAIDHNATH FUEL CENTRE",
+      "address": "Rajepur Maduaha, Tetariya, Road",
+      "lat": 26.1354584,
+      "lng": 85.3622338,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJzQLqc64Q7TkRdy3AJkgF_TI",
+      "name": "Bharat Petroleum, Petrol Pump -R.C Filling Station",
+      "address": "BAIRIA GOLAMBAR, Kolhua Paighambarpur, Railway station road, ward-1, Muzaffarpur",
+      "lat": 26.1458337,
+      "lng": 85.36057989999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpWQ_DscQ7TkROuG_y261moY",
+      "name": "Bharat Petroleum, Petrol Pump -Zenith Fuels",
+      "address": "49Q8+82J, Brahampura Main Road, Daudpur Kothi, Muzaffarpur",
+      "lat": 26.131987,
+      "lng": 85.3662557,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJw7tP-bkQ7TkRZ_De_taVIfE",
+      "name": "IndianOil",
+      "address": "Ground Floor, Laxmi Chowk, Collectorate, near Muz, Muzaffarpur",
+      "lat": 26.138188,
+      "lng": 85.365636,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJf52OeOkZ7TkRroqHDdA5Chk",
+      "name": "IndianOil",
+      "address": "National Highway 28, Chhapra Dharampur Jadu",
+      "lat": 26.1723745,
+      "lng": 85.3382292,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_Sd-eBAZ7TkRHWR-XAyBovE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 27, Kalwari, Kanti",
+      "lat": 26.173533,
+      "lng": 85.338144,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe8B1SDcb7TkRbCMYlpRRxHo",
+      "name": "IndianOil",
+      "address": "Ground Floor, Paigambarpur Kolhua Ahiyapur, Kanti, Chhapra Dharampur Jadu",
+      "lat": 26.168915,
+      "lng": 85.36009399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTbLFXxsa7TkRSXPAX8U4O_U",
+      "name": "Induno",
+      "address": "India",
+      "lat": 26.1691745,
+      "lng": 85.3602425,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ76uUGJkQ7TkRJZy_q7HccoE",
+      "name": "IndianOil",
+      "address": "Ground Floor Chakgazi, A, Purushottampur",
+      "lat": 26.14892,
+      "lng": 85.378822,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmVm-Hd8Z7TkRnkybW3m8vbU",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kanti",
+      "lat": 26.1940256,
+      "lng": 85.3165798,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJI6sASwAR7TkRhPkFJRRpcQY",
+      "name": "Shiv shakti services",
+      "address": "49XQ+QJH, New Zero Mile",
+      "lat": 26.1494366,
+      "lng": 85.38909799999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJCe-p2VwR7TkRAu6LmXcI2R0",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 57, New Zero Mile, Muzaffarpur",
+      "lat": 26.148522,
+      "lng": 85.39119920000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHdXwA6g37TkRsa8oPuKhd0Q",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 57, New Zero Mile, Muzaffarpur",
+      "lat": 26.148522,
+      "lng": 85.39119920000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLct2Ww8R7TkRscaMQezcNT0",
+      "name": "Surendra Mehta Gas station",
+      "address": "593R+G6M, Muradpur Dullah",
+      "lat": 26.1538393,
+      "lng": 85.3905319,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS0UoYgAR7TkRgcj8qKzddz0",
+      "name": "New zeromile",
+      "address": "5C43+FPC, Shahbazpur",
+      "lat": 26.1491017,
+      "lng": 85.3957686,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJue1x86sa7TkRZcK2FCDNjAE",
+      "name": "IndianOil",
+      "address": "Ground Floor Patiasa, NH 57, Amma",
+      "lat": 26.163838,
+      "lng": 85.43357800000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKaJjCVYR7TkR0Lq5Wl2wz-w",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Anchal Musahari, Plot No 35, Saraiya Sahdullahpur, Muzaffarpur",
+      "lat": 26.1565938,
+      "lng": 85.40787189999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaS8Nc88b7TkRtVRoH3aUzqs",
+      "name": "IndianOil",
+      "address": "Ground Floor, Amma, Fatehpur - Harpur Bakhri Road, Ahiyapur",
+      "lat": 26.1611136,
+      "lng": 85.4093049,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFY0ShGMa7TkR-QYojzW6uss",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near SKMCH, Bhikhanpura",
+      "lat": 26.172188,
+      "lng": 85.391423,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWykPNqYa7TkRYKLuQkwmNf4",
+      "name": "IndianOil",
+      "address": "Ground Floor, Near Muz Collectorate, Bakhri Crossing, Musahri, Muzaffarpur",
+      "lat": 26.161016,
+      "lng": 85.4256142,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8UY-1HEb7TkRH6f1SilBB5E",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Ghirni Pokharrd, Muzaffarpur",
+      "lat": 26.163251,
+      "lng": 85.431821,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjaJ2GvUa7TkRowvEGqYCTTw",
+      "name": "IndianOil",
+      "address": "near B Factory, Ground Floor Ahiyapur, NH 77,Umanagar, near B Factory, Muzaffarpur",
+      "lat": 26.182655,
+      "lng": 85.397789,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJua6TNAAb7TkRjJONaBiTxWA",
+      "name": "CNG petrol pump",
+      "address": "59MX+475, Bhikhanpura",
+      "lat": 26.182884,
+      "lng": 85.398321,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJpVc8bacY7TkRkcCS6go76-k",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor NH 28, Motipur, Pakhnaha Shiuram",
+      "lat": 26.23178799999999,
+      "lng": 85.273594,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOfVRMZAf7TkR46qRFOonLv4",
+      "name": "IndianOil",
+      "address": "Ground Floor Jhitakahi, Madhuban, Mahartha",
+      "lat": 26.2046663,
+      "lng": 85.2643883,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeW9eTwgi7TkRI0ptVYE4Eoc",
+      "name": "HP PETROL PUMP - SINGH RAMESHWAR HP",
+      "address": "Pakhnaha, Motipur ON, National Highway 28",
+      "lat": 26.233339,
+      "lng": 85.270557,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJX0PgIgAj7TkRW6S3z3NXN4U",
+      "name": "Indian oil petrol pump",
+      "address": "67P7+JG9, Kharika urf Bhalaipur",
+      "lat": 26.2365431,
+      "lng": 85.2638542,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS2p2YakZ7TkR-oVzU-uQDXk",
+      "name": "Shree Patel Enterprises",
+      "address": "near Overbridge, Chowk Nh28, Kanti",
+      "lat": 26.2069612,
+      "lng": 85.2933615,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJJSyABZgZ7TkRhiEDTw5iYb0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Shriram, Minapur, Pakhnaha Shiuram",
+      "lat": 26.227831,
+      "lng": 85.280608,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJz3D7OfYY7TkR1scfGBCYx5Q",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 28, Kanti - Minapur Road, Muzaffarpur",
+      "lat": 26.20234009999999,
+      "lng": 85.2998501,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJat4_PcY7TkRImIN-mjbHi4",
+      "name": "Sheet Basant Fuel service",
+      "address": "6823+M44, National Highway 28, Kanti",
+      "lat": 26.2016343,
+      "lng": 85.3028167,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ22Unhbsj7TkRCH4n307UGKQ",
+      "name": "IndianOil",
+      "address": "Ground Floor Panapur, B Mahanand, Minapur",
+      "lat": 26.24566,
+      "lng": 85.23588099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo_dpgK0j7TkR0N9V6zfReBM",
+      "name": "IndianOil",
+      "address": "66WM+FC6, National Highway 27, Nariar",
+      "lat": 26.245523,
+      "lng": 85.233322,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJn-j50_QZ7TkRARyUXqrf3GM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kanti,B Mahanand, Pakari",
+      "lat": 26.2206746,
+      "lng": 85.30143059999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ74ewijwb7TkREYEnnlg2J0g",
+      "name": "IndianOil",
+      "address": "Ground Floor, Aur, Bishunpur Kanth",
+      "lat": 26.2405456,
+      "lng": 85.3646357,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ35mZIwAb7TkRijDC5DvxVCQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near Viswakarma Chowk, Plot No 1674, Jamala Bad",
+      "lat": 26.2045287,
+      "lng": 85.3930827,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6eloSPsb7TkRdeVgxQpnxIE",
+      "name": "IndianOil",
+      "address": "Ground Floor Ahiyapur, Jhapaha",
+      "lat": 26.1995767,
+      "lng": 85.399423,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJenmvBQb7TkRYydxwGaZglQ",
+      "name": "IndianOil",
+      "address": "B Factory, Ground Floor Bhikhanpur, Bazar, Jhapaha",
+      "lat": 26.2350494,
+      "lng": 85.4154188,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQVhibFgb7TkRys26464PBF4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Muksudpur",
+      "lat": 26.25143719999999,
+      "lng": 85.4258447,
+      "open_now": true
+    }
+  ]
+}

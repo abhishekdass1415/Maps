@@ -1,0 +1,1907 @@
+{
+  "city": "Bhopal",
+  "state": "Madhya Pradesh",
+  "count": 237,
+  "center": {
+    "lat": 23.2599,
+    "lng": 77.4126
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJ9URHW_pcfDkR9xxRXq5C-80",
+      "name": "IndianOil",
+      "address": "Huzur, Neelbad",
+      "lat": 23.190674,
+      "lng": 77.340385,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGzspuORcfDkRiSJ5TyFJo9Y",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Huzur, Neelbad Road, Bhopal",
+      "lat": 23.194202,
+      "lng": 77.344757,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFwjWJSBdfDkRYGJFMNRLonw",
+      "name": "SPS PETROLEUM (Bharat Petroleum)",
+      "address": "BHOPAL CITY, Bhadbhada Road, Bhopal",
+      "lat": 23.201752,
+      "lng": 77.35466509999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJj-n8V2ZcfDkRyvC-BKGPaco",
+      "name": "Nayara Petrol Pump",
+      "address": "16, Sehore - Bhopal Rd, Birthariya Market, Sehore, Birthariya Market, Ratibad",
+      "lat": 23.17238499999999,
+      "lng": 77.3238121,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJhzLf_UpDfDkRhbv47lNcD8U",
+      "name": "Bharat Petroleum, Petrol Pump -Fill And Fly",
+      "address": "Nehru Nagar, Bhopal",
+      "lat": 23.2125867,
+      "lng": 77.3922054,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTWa8CMdCfDkRN_NHgX5puBE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, P & T Chouraha, Shastri Nagar, Bhopal",
+      "lat": 23.2263011,
+      "lng": 77.3930172,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxyYxd3NDfDkRMS34s4-cuUE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, opposite Beema kunj, Kolar Rd, Bhopal",
+      "lat": 23.180938,
+      "lng": 77.417802,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYU_1v5VCfDkRxsivEgGCS2g",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, behind Samanvaya Bhawan, TT Nagar, Bhopal",
+      "lat": 23.2335901,
+      "lng": 77.4027701,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJK_MpCwBdfDkR0nzhA7O-5Lc",
+      "name": "Shukla Puc",
+      "address": "58RR+849, Chauraha, Neelbad",
+      "lat": 23.190797,
+      "lng": 77.3403749,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ07BWyhJdfDkRqFzyItKXOiA",
+      "name": "BPCL (Gitanjali Petroleum)",
+      "address": "VILL BARKHEDI BAJYAFT, Bhopal",
+      "lat": 23.18693499999999,
+      "lng": 77.33484399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWX5Ih-ldfDkRo_Smr7TvFPo",
+      "name": "IndianOil",
+      "address": "Ground Floor, Vajyafta, Huzur, Barkhedi, Bhopal",
+      "lat": 23.180401,
+      "lng": 77.329601,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbVCRmzVpfDkRIBqv5DwoygU",
+      "name": "IndianOil",
+      "address": "Shop No 41, Huzur, Kala, Barkhedi, 142/3/1/120/3, Bhopal",
+      "lat": 23.2046894,
+      "lng": 77.3640102,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnVLdT2ZcfDkRrDVhLmORprg",
+      "name": "HP PETROL PUMP - LAL SINGH NILBAD",
+      "address": "Village Nilbad, Tehsil Huzur, Bhopal",
+      "lat": 23.172379,
+      "lng": 77.32306500000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ3RwJ36pdfDkRiiKFezXe410",
+      "name": "Nayara Petrol Pump- Shukla Petroleum",
+      "address": "near bhadbhada, Neelbad road, near bhadbhada, Bhopal",
+      "lat": 23.2044778,
+      "lng": 77.3656503,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe-kYMuFdfDkRhQVc3hdGffE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Bhadbhada Road, Bhopal",
+      "lat": 23.205046,
+      "lng": 77.365433,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTdtNcgBdfDkRINZmZ3Us-mc",
+      "name": "Puc online checking point",
+      "address": "6948+263, Bhadbhada Road, Barkhedi Kalan, Bhopal",
+      "lat": 23.2050001,
+      "lng": 77.3655594,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ7U0AI5xdfDkR3ShMOvdT7ss",
+      "name": "Bharat Petroleum Petrol Pump , NANAK SERVICE CENTRE",
+      "address": "POST SEMRI WAJAFTRATIBUDRATIBUD BHOPAL, M.P",
+      "lat": 23.162742,
+      "lng": 77.31252099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxWdUcQBdfDkRjqvxTvRvnog",
+      "name": "Indian oil pump Ananta fuels",
+      "address": "5854+M2, Sarvar",
+      "lat": 23.1589443,
+      "lng": 77.3051728,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJffzivNBCfDkRrLH-UVrdjvc",
+      "name": "IndianOil",
+      "address": "Police Line, Nehru Nagar, Bhopal",
+      "lat": 23.211821,
+      "lng": 77.389107,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJi_modQRDfDkR-7Ty9Gt9PEc",
+      "name": "General Energy Management System Pvt. Ltd.",
+      "address": "69CX+MXC, Aradhana Nagar, Bhopal",
+      "lat": 23.221679,
+      "lng": 77.3999054,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoV2gvANDfDkR5F_gazDlCBo",
+      "name": "IndianOil",
+      "address": "Kolar Road, Chuna Bhatti, Bhopal",
+      "lat": 23.2028972,
+      "lng": 77.4164868,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9VUIk5VCfDkR4s0Tr-bYgqk",
+      "name": "IOCL (Major Nanke Petrol Pump)",
+      "address": "New Market, STT Nagar, Malviya Nagar, Bhopal",
+      "lat": 23.233303,
+      "lng": 77.402328,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ38F8BABDfDkR9uZIHfcwC6Q",
+      "name": "PUC centre",
+      "address": "Police Station, 24, near TT Nagar, New Market, STT Nagar, TT Nagar, Bhopal",
+      "lat": 23.2333173,
+      "lng": 77.40234989999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ5UcXLABDfDkRBEhsmI19CU0",
+      "name": "Major Nankay & co.",
+      "address": "New Market, STT Nagar, Bhopal",
+      "lat": 23.2356359,
+      "lng": 77.4006229,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJu775j3xDfDkRpMAM0quXS-o",
+      "name": "IndianOil",
+      "address": "Ground Floor, Huzur, Nayapura, Bagh Swaniya, Bhopal",
+      "lat": 23.164759,
+      "lng": 77.41439799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ96LFkQZDfDkRxcrjPCuglO0",
+      "name": "Bharat Petroleum, Petrol Pump -Radhe Radhe Petroleum",
+      "address": "Shanti palace, HUZUR, SHAHPURA BPL, opposite Bansal Hospital, C-198, Sector C, Shahpura, Bhopal",
+      "lat": 23.19918359999999,
+      "lng": 77.4194904,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJN7da4ZZDfDkR10tWCzhl3OM",
+      "name": "Bharat Petroleum - Mahendra Fuel Point",
+      "address": "5CJM+6P4, Rohit Nagar, Bawadiya Kalan, Gulmohar Colony, Bhopal",
+      "lat": 23.1794719,
+      "lng": 77.4387062,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAQfQHFdCfDkR8g7LBouBADw",
+      "name": "HP Petrol Pump | Ohajil Service Station",
+      "address": "near Police Station, HPC Dealer Ohajil Service Station Hindi, near Police Station, E-5, Habib Ganj, Bhopal",
+      "lat": 23.216857,
+      "lng": 77.427928,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-1wGxoJEfDkRjdEEa7NMrIM",
+      "name": "Indian Petroleum",
+      "address": "5C57+6CG, Bairagarh Chichali, Kolar Rd, Bhopal",
+      "lat": 23.1580575,
+      "lng": 77.4135726,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJw8nhRZtEfDkRvW5l_sx8PHM",
+      "name": "Nayara Energy Petrol Pump - Shukla Energy",
+      "address": "25, Kolar Road, Bairagarh Chichali, Bhopal",
+      "lat": 23.1527319,
+      "lng": 77.412251,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJaTnK-9DfDkRJC0iMbVvf_Q",
+      "name": "IndianOil",
+      "address": "Ahmedpur, Narmadapuram Road, Bhopal",
+      "lat": 23.180511,
+      "lng": 77.456131,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJp9UaI11CfDkRdT0kdIvFyw0",
+      "name": "BP-Bhopal City(BPCL COCO PUMP)",
+      "address": "Anna Nagar, Zone-II, Maharana Pratap Nagar, Bhopal",
+      "lat": 23.2294661,
+      "lng": 77.43455279999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUWvM4_pDfDkR43Az-zk2pAM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Infront Sakleja Hospital, Narmadapuram Road, Shri Ram Colony, Bhopal",
+      "lat": 23.1735755,
+      "lng": 77.46130889999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfc29jWlCfDkRE0FV4BaVHUs",
+      "name": "Hindustan Petroleum",
+      "address": "73-B, Chetak Bridge, Gautam Nagar, Housing Board Colony, Kasturba Nagar, Bhopal",
+      "lat": 23.2340213,
+      "lng": 77.4408949,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJlzw8OKFCfDkRBe81d2XeqAA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Kamla Park Road, Civil Lines, Bhopal",
+      "lat": 23.247801,
+      "lng": 77.396301,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsYvKl39CfDkRRvLKMDkrGk8",
+      "name": "Bharat Petroleum",
+      "address": "7C3G+78H, POOLBOGDA, BHOPAL, Morarji Nagar, Bagh Farahat Afza, Bhopal",
+      "lat": 23.253142,
+      "lng": 77.42585969999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMZLozqZDfDkRoTaXrSbQDfg",
+      "name": "IndianOil",
+      "address": "Khasra No 7/1/1 Huzur, Bawadiya Kalan, Gulmohar Colony, Bhopal",
+      "lat": 23.187661,
+      "lng": 77.426643,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ417ISUVDfDkRrzYDPdCTIaA",
+      "name": "IndianOil",
+      "address": "Extol College, S No 80/2/1/1/2, Shahpura, Thana",
+      "lat": 23.1824007,
+      "lng": 77.4327308,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJk9ilHQBDfDkR0nd7EH4tXII",
+      "name": "PUC FasTag HSRP",
+      "address": "5CJM+6P4, Rohit Nagar, Bawadiya Kalan, Gulmohar Colony, Bhopal",
+      "lat": 23.1805125,
+      "lng": 77.4343281,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ_____29DfDkRwL7GlRk57xY",
+      "name": "Maran Fuel Point",
+      "address": "5C88+6J6, Lalita Nagar, Kolar Rd, Bhopal",
+      "lat": 23.1655327,
+      "lng": 77.4165218,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJr3Q68vFDfDkR2KIizqvKOdA",
+      "name": "Ridhima Fuels (Nayara Petrol Pump)",
+      "address": "Bawaria Kalan, Bhopal",
+      "lat": 23.1913067,
+      "lng": 77.4422293,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJj9QIOxJDfDkR0GruZSfeZFo",
+      "name": "IndianOil",
+      "address": "E-5/4, Arera Colony, Bhopal",
+      "lat": 23.213942,
+      "lng": 77.4272924,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJO_3J_W1DfDkRqEYHSwlWWFA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No E5, near Habibganj Police Station, Arera Colony, Bhopal",
+      "lat": 23.216901,
+      "lng": 77.42800100000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-R75QPFFfDkRgubiIaRvykM",
+      "name": "Bharat Petroleum Petrol Pump , SHANTI FUEL STORE",
+      "address": "GEHUNKHEDA, Kolar Rd, Bhopal",
+      "lat": 23.1585868,
+      "lng": 77.413749,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJw9RIEMdDfDkRmTUGiDel7H4",
+      "name": "IndianOil",
+      "address": "Ahmadpur, Narmadapuram Road, Bagh Swaniya, Bhopal",
+      "lat": 23.194065,
+      "lng": 77.44910399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJU43nMUtCfDkRYLWVTfJfpqg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Habibganj Under Bridge, Habibganj Road, Bagsewaniya, Hoshangabad",
+      "lat": 23.20900679999999,
+      "lng": 77.4437217,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJR6xdrTZDfDkRZQnoAKdNbAg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Phase 2, Huzur, Salaiya, Bhopal",
+      "lat": 23.1663528,
+      "lng": 77.44283779999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH8ZW3fVCfDkRtt_X0eJtRIo",
+      "name": "IndianOil",
+      "address": "Ravishankar Shukla Market, Shivaji Nagar, Bhopal",
+      "lat": 23.2256349,
+      "lng": 77.4228688,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJc36vGQBDfDkRor_LlTriCA4",
+      "name": "5 no Petrol pump Indian oil",
+      "address": "6CGF+935, Link Road Number 2, Char Imli, Bhopal",
+      "lat": 23.2258786,
+      "lng": 77.4227427,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJIbeZ4HxDfDkRx_TOKIdQf4k",
+      "name": "Hd infra",
+      "address": "L42, Kamdhenu tower, Bhopal",
+      "lat": 23.2226077,
+      "lng": 77.4371385,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ6OLCQBDfDkR1bKmKN--hSg",
+      "name": "AAKRITI indian oil petrol pump",
+      "address": "behind Sagar public school, 29, Lane Number 1, Phase 2, Salaiya, Bhopal",
+      "lat": 23.1659416,
+      "lng": 77.4473902,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ82u2jkZFfDkRSpdSot4NW20",
+      "name": "IndianOil",
+      "address": "S No 406, 1/2/Kh 406/2/Ka, Hinotiya Alam",
+      "lat": 23.152103,
+      "lng": 77.427928,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqzFjc-9DfDkRJz2XqjUav7k",
+      "name": "IndianOil",
+      "address": "opposite Mansarovar Complex, Zone-II, Maharana Pratap Nagar, Bhopal",
+      "lat": 23.2263919,
+      "lng": 77.43568859999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJT2RL39RFfDkRAtnYv_gqGUQ",
+      "name": "BPCL PETROLEUM SAAAJ PETROLEUM",
+      "address": "245, Phase 2, Salaiya, Bhopal",
+      "lat": 23.1618024,
+      "lng": 77.4477082,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRVi75V1CfDkRbiNXgD9bvF4",
+      "name": "Sainath Enterprises",
+      "address": "28, Service Road, 7 Number, No 6 Locality, Shivaji Nagar, Bhopal",
+      "lat": 23.2305176,
+      "lng": 77.4306404,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm4txzP5DfDkReXwAEOJctzM",
+      "name": "Modizel Biodiesel - Swadeshi Diesel",
+      "address": "186, Zone-II Near Sargam Cinema, Zone-II, Maharana Pratap Nagar, Bhopal",
+      "lat": 23.2279611,
+      "lng": 77.43696229999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvxsYVuRDfDkROfmYiqlh4uQ",
+      "name": "PEB Solutions Pvt Ltd",
+      "address": "Plot No 29 Zone, 2, Maharana Pratap Nagar, Bhopal",
+      "lat": 23.2319737,
+      "lng": 77.43441609999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJw9m5rshFfDkRurcf-je0kCI",
+      "name": "IndianOil",
+      "address": "S No 104, Jageer, Huzur, Rashulia, 2 & 104/3/2, Bhopal",
+      "lat": 23.142301,
+      "lng": 77.40965299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJD1NFPmFCfDkRjtcsfccApvM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Police Station, near MP Nagar, Plot No 1, Jail Road, Bhopal",
+      "lat": 23.2355401,
+      "lng": 77.42875010000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJj8Zg7kFCfDkRxLjr3aCydw8",
+      "name": "IndianOil",
+      "address": "Ground Floor, near New, Habibganj Road, ISBT, Govindpura, Bhopal",
+      "lat": 23.231316,
+      "lng": 77.442413,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ02ejpLxDfDkRnzaQmmQOaV4",
+      "name": "Jio-bp pulse",
+      "address": "Ground Floor, near Shri Ram Colony, Narmadapuram Road, Bawadiya Kalan, Bhopal",
+      "lat": 23.170581,
+      "lng": 77.462441,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWb0LMwBDfDkRpD8uFrE3qbo",
+      "name": "Bhopal online puc",
+      "address": "6CMR+H46, Near Chetak Bridge, Chetak Bridge, Housing Board Colony, Bhopal",
+      "lat": 23.233904,
+      "lng": 77.44025669999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJb0eN6dhDfDkRlv6fBF7aWoE",
+      "name": "IndianOil",
+      "address": "Katara Hills Road, Arvind Vihar, Bagh Mugliya, Bhopal",
+      "lat": 23.194921,
+      "lng": 77.468407,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8dDt5AxDfDkRLGMhI6Ilvws",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Bagsewaniya, 124-C, Phase-2, Parthsarthy Enclave, Bagmugaliya, Bhopal",
+      "lat": 23.191701,
+      "lng": 77.468701,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcZ1OWQBFfDkRlaT53MjBgWo",
+      "name": "Shri Hari Service Station",
+      "address": "4CP5+X8C, Kolar Road, Rasuliya Inayatpur",
+      "lat": 23.1369884,
+      "lng": 77.4084325,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ0fXgFptCfDkRoAiB6mN4Upw",
+      "name": "IndianOil",
+      "address": "Ground Floor, opposite Lal Parade Ground Police, Jahangirabad, Bhopal",
+      "lat": 23.245234,
+      "lng": 77.41122399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo0xYhwBEfDkRJndShXNQnaI",
+      "name": "Kanta Shrawan Misrod Fuels",
+      "address": "Misrod, Bhopal",
+      "lat": 23.1637754,
+      "lng": 77.46728949999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUW8nJd1BfDkRilTWGdOqh4I",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Capital filling station, Sardar Patel Nagar, Raisen Road, Sardar, Patel Nagar, Bhopal",
+      "lat": 23.249801,
+      "lng": 77.4954101,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJD4GZ2M1BfDkRLK6PLSHL8xA",
+      "name": "IndianOil",
+      "address": "Shop No 440/4, near Pradhan Mantri Awas Yojana Building, Bagmugaliya, Bhopal",
+      "lat": 23.1840061,
+      "lng": 77.4739932,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC-UTw3xBfDkREqrO6wBzofQ",
+      "name": "Power Fuels Bharat Petroleum",
+      "address": "near Spring Valley Dew, Shop No. 1,2,3,4 Rajat Golden Nest, near Spring Valley Dew, Swarna Kunj Colony, Katara Hills, Bagmugaliya, Bhopal",
+      "lat": 23.1837707,
+      "lng": 77.4914002,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJE2Z__ClBfDkRUNlb9cyh84c",
+      "name": "IndianOil",
+      "address": "S No 314, 2/6, Huzur, Katara, Bhopal",
+      "lat": 23.181901,
+      "lng": 77.492401,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxYjOn5xBfDkR3K-umLAPszo",
+      "name": "IndianOil",
+      "address": "S No 328/1/1 Bagroda, Barrai, Bhopal",
+      "lat": 23.170561,
+      "lng": 77.502808,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJT7VYyIhBfDkRffJW6Adg6mY",
+      "name": "Maa Sharda Petrol Pump",
+      "address": "By pass, Bhopal",
+      "lat": 23.1771887,
+      "lng": 77.5107518,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTzOMCABBfDkRRQH1-eK5iK0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Barkhera Pathani, Bhopal",
+      "lat": 23.21822899999999,
+      "lng": 77.476143,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZdO3fgBBfDkRgKsg6g8KX40",
+      "name": "IndianOil",
+      "address": "S No 404/2/1, Huzur, Barkhera Pathani, Kotra",
+      "lat": 23.21907959999999,
+      "lng": 77.4823512,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ78t7q_tHfDkR3tKHjn4dxhs",
+      "name": "Nayara Energy Petrol Pump - Rajvardhan Fuels",
+      "address": "5G85+32F, Katara Hills Barrai Road, Bhopal",
+      "lat": 23.1651815,
+      "lng": 77.5075421,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ362gEwBHfDkRFbWBjp4sLbY",
+      "name": "मीणा कृषि पम्प राम लीला मैदान, मिसरोद",
+      "address": "5F4C+WX2, Misrod Road, Misrod, Bhopal",
+      "lat": 23.157258,
+      "lng": 77.4723767,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJd2alOQBHfDkRk1zjfsC95kY",
+      "name": "Ankit yadav",
+      "address": "5F3H+3RR, Bhairopur",
+      "lat": 23.15274110000001,
+      "lng": 77.4795184,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJo0Yh0rhHfDkR7qK43CizuLM",
+      "name": "Nayara Energy Petrol Pump - Sarvottam Fuels",
+      "address": "Bus Stop, Kaushal Nagar, Bhojpur Rd, Nirmal Estate, Misrod, Bhopal",
+      "lat": 23.1509838,
+      "lng": 77.477083,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ236bmaRGfDkRpia19NRSV8I",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Narmadapuram Road, Bhaironpur, Misrod, Bhopal",
+      "lat": 23.148401,
+      "lng": 77.47961099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJb_3oU7dBfDkRfvq4esudToI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Huzur, New Bhopal Bypass, Khajuri Kalan, Bhopal",
+      "lat": 23.222701,
+      "lng": 77.512081,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQWlp0rxGfDkRWhlQXsQfRWg",
+      "name": "IndianOil",
+      "address": "Misrod, Bhairopur",
+      "lat": 23.145588,
+      "lng": 77.48196399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo2qP90xHfDkRDbylc77LK-8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Bhopal Bypass, Bhopal",
+      "lat": 23.143664,
+      "lng": 77.486766,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC1KvJD1CfDkR9LKsDSbQe1I",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Natraj Community Hall, Berkheda BHEL, Bhopal",
+      "lat": 23.2304723,
+      "lng": 77.45677189999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNefPFABHfDkRa2jgliDi4rA",
+      "name": "Indian Oil Petrol Pump",
+      "address": "4GV2+868, Indus Towne, Ratanpur Sadak, Bhopal",
+      "lat": 23.1433314,
+      "lng": 77.5001355,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJpamwC7hHfDkR0E8xyMRc3vg",
+      "name": "A A ENERGY",
+      "address": "opp. IPER Collage, near British Park, Bhojpur Road, Chan",
+      "lat": 23.1432193,
+      "lng": 77.499864,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH-b2rzBHfDkRtXqwdYeuiCg",
+      "name": "Bharat Petroleum, Petrol Pump -Shri Balaji Fuel Station",
+      "address": "MAU ON NH3, RAJGARH",
+      "lat": 23.1386212,
+      "lng": 77.48725089999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ76ciRLpBfDkRzLE5blsXQLA",
+      "name": "Sure retails",
+      "address": "opposite sos, road, Amjhira",
+      "lat": 23.2005698,
+      "lng": 77.5375794,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJz_dPWgBBfDkROu7ZSnrjPr0",
+      "name": "Bharat petrol pump",
+      "address": "6GHC+4PG, Bhopal",
+      "lat": 23.2278073,
+      "lng": 77.5218249,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY9RhpDVHfDkROJcjxKWYj7E",
+      "name": "Parmar Brothers Petrol Pump",
+      "address": "opposite Kanha Fun City, Ratanpur Sadak, Bhopal",
+      "lat": 23.1359388,
+      "lng": 77.48801069999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJV1niJMpBfDkR8vs05QB0Xiw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Bhopal Bypass, Bhopal",
+      "lat": 23.2397732,
+      "lng": 77.511426,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDWpnbx5HfDkRvX7v0Oe_dzY",
+      "name": "KUNWARJI FULES PETROL PUMP DEEPDI",
+      "address": "village, Bhojpur Road, Deepdi, Bhopal",
+      "lat": 23.1396188,
+      "lng": 77.5110649,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJW415Zu9BfDkRktehDgLqj5A",
+      "name": "IndianOil",
+      "address": "S No 494/3/2 Amjhira, Phanda, Bhel, Bhopal",
+      "lat": 23.212791,
+      "lng": 77.539281,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGcbXhRNHfDkRahq-b2UEtZQ",
+      "name": "Laxmi Petrol",
+      "address": "16, Narmadapuram Road, Bhopal",
+      "lat": 23.1336,
+      "lng": 77.49157389999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ_51x9ctBfDkR3ROqjrTT-fo",
+      "name": "UKT Petrol Pump (BPCL)",
+      "address": "by pass road, Mandideep, Bhopal",
+      "lat": 23.2434302,
+      "lng": 77.51192879999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFTB_XQBBfDkR0BFGfiM5HNs",
+      "name": "Puc centre fastag",
+      "address": "6FXC+FHJ, Raisen Road, Piplani, BHEL, Bhopal",
+      "lat": 23.2489843,
+      "lng": 77.4714171,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJGfh97rNBfDkRN8qdimo8dQE",
+      "name": "IndianOil",
+      "address": "Raisen Road, Sonagiri, Bhopal",
+      "lat": 23.249004,
+      "lng": 77.471367,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJG_JV6khBfDkRJoXfOdTJbL4",
+      "name": "Agrizzone",
+      "address": "Petrol Pump, Leela Tower, Piplani, Bhopal",
+      "lat": 23.2495568,
+      "lng": 77.4711398,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4dZmV91nfDkRxwBBIdc6dtc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Lalghati, Bhopal",
+      "lat": 23.273601,
+      "lng": 77.3676301,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_7gslqJnfDkRwY1UwrcFTLk",
+      "name": "Bharat Petroleum Petrol Pump",
+      "address": "Block A, Hemu Kalani, Bairagarh, Bhopal",
+      "lat": 23.2720558,
+      "lng": 77.34246519999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5Xu-H65nfDkRC78COBJ4IkI",
+      "name": "IOC",
+      "address": "Raja Bhoj Airport Area, Bairagarh, Bhopal",
+      "lat": 23.2874375,
+      "lng": 77.3438125,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJXXlJ1RpofDkRW3vd1nLuuR4",
+      "name": "Bharat Petroleum, Petrol Pump -Taj Service Station",
+      "address": "SULTANIA RD AT CIRCLE BHOP, Bhopal",
+      "lat": 23.262165,
+      "lng": 77.3901312,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7_xplT9ofDkRZZAdzxaANno",
+      "name": "Reliance Petrol Pump",
+      "address": "near Indian Oil Petrol Pump, Berasia Road, Raj Deo Colony, Qazi Camp, Bhopal",
+      "lat": 23.2746882,
+      "lng": 77.4028853,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTyC9cDdofDkREw5Q3SH5pAg",
+      "name": "Bharat Petroleum - Param Filling Station",
+      "address": "Chhola Road, JP Nagar, Bhopal",
+      "lat": 23.2736111,
+      "lng": 77.4136731,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJb0kVaL9gfDkRs8vSK6fQXMQ",
+      "name": "Bharat Petroleum",
+      "address": "7779+M3Q, Bhauri Bypass Road, Bhopal",
+      "lat": 23.2642102,
+      "lng": 77.2677255,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ_-xAEABnfDkRFZg7JFsigyI",
+      "name": "Charging station",
+      "address": "789G+VW6, Bairagarh Road, Halalpura, Lalghati, Bhopal",
+      "lat": 23.2696712,
+      "lng": 77.3272772,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJd40pEgRnfDkRdVWAtf9JZ6k",
+      "name": "Reliance Petroleum",
+      "address": "Khasra No 13, near Surana Motors, 1/1, Halalpura, Lalghati, Bhopal",
+      "lat": 23.2740304,
+      "lng": 77.35702739999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTU6wYEFnfDkR7LJb4zOxNhM",
+      "name": "Essar Petrol Pump",
+      "address": "1, Bairagarh Road, Halalpura, Lalghati, Bhopal",
+      "lat": 23.27417939999999,
+      "lng": 77.3574497,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTTqwRwZnfDkRRedULEeNHbM",
+      "name": "Nayara Energy Petrol Pump - Metro Fuels",
+      "address": "789F+84W, Bairagarh Kalan, Bairagarh, Bhopal",
+      "lat": 23.2683508,
+      "lng": 77.32282099999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJpfzjbLlnfDkRPMYmB43UQqI",
+      "name": "Sunil Sood's Petrol Pump",
+      "address": "Laukhadi, Bairagarh, Bhopal",
+      "lat": 23.2796748,
+      "lng": 77.3509929,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGw1iJhVnfDkRr-wIBa1NE48",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Dindayal Upadhaya Krishi Upaj Mandi, Indore Road, Bhaisenkhedi, Bhopal",
+      "lat": 23.268496,
+      "lng": 77.318465,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl7oGHuhnfDkRcKlfz-v-LAc",
+      "name": "BPCL Fuel Station- Smart City Fuels",
+      "address": "Halalpura, Lalghati, Bhopal",
+      "lat": 23.2730124,
+      "lng": 77.3658008,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7XVAg7lpfDkRkfDNEcURsGo",
+      "name": "PUNJAB SERVICE STATION TYRE SHOP",
+      "address": "PUNJAB SERVICE STATION, HP PETROL PUMP, Lalghati, Bhopal",
+      "lat": 23.2733875,
+      "lng": 77.36760269999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJi946jCRnfDkRDYg4DHocZf4",
+      "name": "Bharat Petroleum Mahadev Filling Station- Petrol Pump",
+      "address": "Lalghati Road, Tilak Nagar, Lalghati, Bhopal",
+      "lat": 23.281245,
+      "lng": 77.3607631,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ0VwtiIFnfDkRBap6QJeAhCI",
+      "name": "L A FUELS",
+      "address": "Ahead Of Chirayu Hospital , Bhaisakhedi , Bhopal Indore Highway",
+      "lat": 23.2665136,
+      "lng": 77.3118786,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ612GWptnfDkRtkA-SoI1PhY",
+      "name": "Shukla ji ka petrol pump",
+      "address": "Airport Road, Bhopal",
+      "lat": 23.2936708,
+      "lng": 77.354034,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJo1P-__1nfDkRKuU_hkr7okg",
+      "name": "Nayara Petrol Pump-Trinity Fuels",
+      "address": "79V3+GJ2, Airport Road, Raja Bhoj Airport Area, Bairagarh, Bhopal",
+      "lat": 23.2937103,
+      "lng": 77.3539632,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJX2iANhVnfDkRn3zrlN10JwQ",
+      "name": "IndianOil",
+      "address": "Lake City Fuel Station, Airport Road, Gandhi Nagar, Bhopal",
+      "lat": 23.2954315,
+      "lng": 77.3469057,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoR7ooJ5nfDkRweKF-rAdh5w",
+      "name": "IndianOil",
+      "address": "Narsinghgarh, Road, Gandhi Nagar, Bhopal",
+      "lat": 23.296221,
+      "lng": 77.35109800000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJD-P_kFNnfDkRqEN1pjJNVvM",
+      "name": "Amrit Fuel Station@Bharat Petroleum",
+      "address": "7862+XM, Bhopal",
+      "lat": 23.2624367,
+      "lng": 77.3017416,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ25PINblpfDkROIAPJYKTL7k",
+      "name": "Bharat Petroleum, Petrol Pump -Happy Fuel Centre",
+      "address": "SULTANIA ROAD BHOPAL, Bhopal",
+      "lat": 23.2620544,
+      "lng": 77.3885607,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJh5kFEwBnfDkRuFw4OlljLnM",
+      "name": "Jio-bp",
+      "address": "Ground Floor, Nh 12, Pipalner, Huzur, Gandhi Nagar, Bhopal",
+      "lat": 23.300303,
+      "lng": 77.3589484,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcW36AldmfDkRZhakXiZRw0s",
+      "name": "Jio-bp",
+      "address": "Pipalner, Huzur, Ground Floor Nh 12, Gandhi Nagar, Bhopal",
+      "lat": 23.3028151,
+      "lng": 77.33580409999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJG8adAldmfDkRj7t-y33Jhp4",
+      "name": "Reliance Petroleum",
+      "address": "NH-12,VILLAGE:PIPALNER,POST_OFFICE : GANDHINAGAR, TEHSIL HUZUR BHOPAL 462036 GANDHINAGAR",
+      "lat": 23.3030248,
+      "lng": 77.33607549999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJozrczhpofDkRT7LqlFxX0Bo",
+      "name": "Royal Market",
+      "address": "796R+H4H, medical college, Hostel Road, Gandhi Nagar, Maulana Azad Medical College Campus, New Delhi",
+      "lat": 23.2614267,
+      "lng": 77.3903728,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJk-TA6BpofDkRKSVZRLDh02U",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Royal Market, near Hamidia Hospital, Sultania Road, Bhopal",
+      "lat": 23.2611701,
+      "lng": 77.3913301,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq0LKTP9pfDkRQBiPAa6anPQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Royal Market, Sultania Road, Bhopal",
+      "lat": 23.2607201,
+      "lng": 77.39245009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjax3KgBnfDkReJY1YtWrAIk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Jail Campus Central, Gandhi Nagar, Bhopal",
+      "lat": 23.301271,
+      "lng": 77.370322,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL1wSgWtpfDkRLBw2NzfY9xk",
+      "name": "SHRADDHA INDANE",
+      "address": "Ward No 6, Chopad Bazar",
+      "lat": 23.2696084,
+      "lng": 77.3956005,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZ64pHBdofDkRDJSKFWi46To",
+      "name": "IndianOil",
+      "address": "Model Ground, Hamidia Road, Bhopal",
+      "lat": 23.2668928,
+      "lng": 77.39749900000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxZTRTRhofDkRwHQ-1X0ISuI",
+      "name": "MODERN OIL AGENCY",
+      "address": "India",
+      "lat": 23.2619761,
+      "lng": 77.3987902,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJTSCGcVRnfDkRT543qUSLiok",
+      "name": "Bharat Petroleum, Petrol Pump -Urja Kendra",
+      "address": "VILL BADWAI, SHYAMPUR RD B, Bhopal",
+      "lat": 23.3009105,
+      "lng": 77.3779236,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY5L_02RofDkRxutRQHkXKlU",
+      "name": "Shiv Mandir Prem Nagar",
+      "address": "79RR+234, Unnamed Road, Prem Nagar, Nariyalkheda, Bhopal",
+      "lat": 23.2900201,
+      "lng": 77.3902126,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJlx59YzRnfDkR3CbwZ4LcPaQ",
+      "name": "Mali and sons fuel station - bharat petroleum (BPCL)",
+      "address": "near IISER college, Bhauri Bypass Road, Bhopal",
+      "lat": 23.2844896,
+      "lng": 77.2879619,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq2y9xz9ofDkR5DxkT40UCqM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Plot No 159, Berasia Road, Qazi Camp, Bhopal",
+      "lat": 23.2739701,
+      "lng": 77.4026801,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFzlugU3zfDkRXkjtQNsBPBU",
+      "name": "IndianOil",
+      "address": "S No, 164/1/2, Amarawat Kalan, Bhopal",
+      "lat": 23.277741,
+      "lng": 77.40204849999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4VkdL_9pfDkRBDQriYD2H58",
+      "name": "IndianOil",
+      "address": "Berasia Road, Qazi Camp, Bhopal",
+      "lat": 23.275891,
+      "lng": 77.402981,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpasZqCRofDkRSmZC_I9DG0o",
+      "name": "Indian Oil - Jetti Traders",
+      "address": "Shop No. B - 8, Plot No. 9, Krishna Complex, Near Nadra Bus Stand, Hamidia Road, Ghora Nakkas, Peer Gate Area, Bhopal",
+      "lat": 23.2640633,
+      "lng": 77.40700149999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCaPg_uVpfDkRVxulgoYyKpQ",
+      "name": "CNG station",
+      "address": "7CH3+RGX, Arif Nagar, Bhanpur, Bhopal",
+      "lat": 23.2796098,
+      "lng": 77.4038523,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJKejfx5dpfDkRl-15c7mqXHI",
+      "name": "M/S AARTI FILLING STATION",
+      "address": "Gambhiriya Toraha, Khurai Road, Bhopal",
+      "lat": 23.2676,
+      "lng": 77.407768,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJk_PjWABpfDkRDpXfMYtzqmk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Ayodhya Bypass Road, Badwai, Bhopal",
+      "lat": 23.3034369,
+      "lng": 77.38810459999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx_1W21RnfDkRWirZiTUph8I",
+      "name": "IndianOil",
+      "address": "SNo 233/1/3/1 & 304/234/1/3, Badi Ukawad, Kurana",
+      "lat": 23.318691,
+      "lng": 77.32619989999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3YZpdNBpfDkRPP0V-t5sLH0",
+      "name": "Bharat Petroleum, Petrol Pump -Agarwal Automotive",
+      "address": "WARD NO, 66, New Jail Road, Karond, Bhopal",
+      "lat": 23.3021981,
+      "lng": 77.3902738,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbaaMyyRofDkRrPpAenczJGU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gorund Floor, Infront of Manohar Dairy, Nadra Bus Stand, Hamidia Road, Bhopal",
+      "lat": 23.2645601,
+      "lng": 77.4088501,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCWV-W61pfDkRLzWX-3RV0uE",
+      "name": "Indian oil Depot, Indian Oil Corporation Ltd.",
+      "address": "7CRG+345, Chandan Nagar, Oriya Basti Colony, Bhanpur, Bhopal",
+      "lat": 23.2901451,
+      "lng": 77.4253643,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJidM5D-1pfDkRXp-DN4eNbTU",
+      "name": "Vijay Vallabh Bharat Petroleum Petrol pump",
+      "address": "Ayodhya Bypass Road, Sagar Estates, Ayodhya Nagar, Bhopal",
+      "lat": 23.2778919,
+      "lng": 77.4566743,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4WzwaPlpfDkRQ3NSIZfAm1w",
+      "name": "Kanta Shrawan Petrol Pump Bharat Petroleum",
+      "address": "7F88+34V, Nerila Shankari, Bhopal",
+      "lat": 23.26524210000001,
+      "lng": 77.4653036,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMeO2TG5pfDkRFWJF3M0QohI",
+      "name": "Saipreet Fuels (Bharat Petroleum)",
+      "address": "Near School, Vidisha, Main Road, Chopra Kalan",
+      "lat": 23.3171559,
+      "lng": 77.4559799,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTfqWBSZofDkRUKPEARMs83w",
+      "name": "IndianOil",
+      "address": "Ground Floor, Patra Road, Bhopal",
+      "lat": 23.258905,
+      "lng": 77.412247,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY2ww5ChofDkRO0heu7MskJg",
+      "name": "Bhopal Garage & Service Station",
+      "address": "India",
+      "lat": 23.2576119,
+      "lng": 77.4151918,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJTxT5OwBpfDkR_IDCuCWQx0k",
+      "name": "Bharat Petroleum Pump",
+      "address": "1 Hamidia Road, Main, Railway Station Road, Dangi Colony, Ghora Nakkas, Peer Gate Area, Bhopal",
+      "lat": 23.2639155,
+      "lng": 77.4110014,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJrQwmshBpfDkRBeIApQsxztQ",
+      "name": "Devendra Yadav",
+      "address": "Aishbagh Rd, Pul Patra, Barkhedi, Jahangirabad, Bhopal",
+      "lat": 23.25599459999999,
+      "lng": 77.4149432,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ4f22hKBpfDkRwaYBuE5HOG0",
+      "name": "Bharat Petroleum, Petrol Pump",
+      "address": "7C79+493, PUSHPA NAGAR TAMOLI, BPL, Bhopal",
+      "lat": 23.26277079999999,
+      "lng": 77.41842,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJN5lGeQBpfDkRMtrk_TQ7lUU",
+      "name": "fame petro point",
+      "address": "7C79+49F, Pushpa Nagar, Bhopal",
+      "lat": 23.2628014,
+      "lng": 77.41842369999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJHbybLXJpfDkRsR5e8Rm3zrw",
+      "name": "JIYALAL HP PETROL PUMP",
+      "address": "Shop No 57 Ashoka Gardern, Pushpa Nagar Road, Bhopal",
+      "lat": 23.2628981,
+      "lng": 77.4184636,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJCToLXwBpfDkRv5r8hoVUsiY",
+      "name": "R.S Jain FUELS Bharat petroleum",
+      "address": "7C39+G9R, Deori, pinoraNowrozabad",
+      "lat": 23.2538593,
+      "lng": 77.41837679999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJcb-tESpofDkRTQiQAzrFgxU",
+      "name": "IndianOil",
+      "address": "Ground Floor, Galla Mandi Road, Junior LIG Colony, Bhopal",
+      "lat": 23.254801,
+      "lng": 77.419403,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-6lLpztofDkRkkA1JFO9zdA",
+      "name": "KAMAL OIL COMPANY",
+      "address": "India",
+      "lat": 23.2671649,
+      "lng": 77.4087474,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZfMWOIJCfDkRRUmmf2tHRLA",
+      "name": "Rajdhani Fueling Center Jahangirabaad",
+      "address": "82, Chiklod Road, Pratap Nagar, Jahangirabad, Bhopal",
+      "lat": 23.2516712,
+      "lng": 77.4172006,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkz-IDIFCfDkR6ywDX7zJb9o",
+      "name": "Rajdhani Petrol Pump",
+      "address": "78, Chiklod Road, Jahangirabad, Bhopal",
+      "lat": 23.251671,
+      "lng": 77.41720099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaQqTDC1ofDkRsxkJujhh_-g",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Prabhat Chouraha, 80 Feet Road, Bhopal",
+      "lat": 23.264475,
+      "lng": 77.421915,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvd9fQABDfDkR_hU7s558rO0",
+      "name": "Bharat Petroleum - Petrol Station",
+      "address": "44, Pul Bogda Road, Mandi Laxmi Ganj, Ashoka Vihar, Bhopal",
+      "lat": 23.2535392,
+      "lng": 77.4211551,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJpbktoY9DfDkR0GoGFcJVVok",
+      "name": "Indore",
+      "address": "7C28+2RR, Jhangir Colony, Pratap Nagar, Jahangirabad, Bhopal",
+      "lat": 23.25,
+      "lng": 77.417,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJN-MipIJDfDkRG-ccja93wqg",
+      "name": "IndianOil",
+      "address": "S No 179179, B1/C1, Jinsi Road, Barkhedi, Jahangirabad, Bhopal",
+      "lat": 23.250717,
+      "lng": 77.420636,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZTwzrw9pfDkRQczgedDDR54",
+      "name": "THINK Gas CNG Station",
+      "address": "VISHAL FUELS, Cholla Road, JP Nagar, Bhopal",
+      "lat": 23.2729568,
+      "lng": 77.413855,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYR4KyoNpfDkRREUK7xhrY1o",
+      "name": "Vishal Fuels (CNG)",
+      "address": "Vishal shadi hall, near Milan garden, Cholla Road, JP Nagar, Bhopal",
+      "lat": 23.2729766,
+      "lng": 77.4138705,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJd4Jhu3BpfDkRX-egGLf_MOE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Manager Huzur, Cholla Road, Bhopal",
+      "lat": 23.272981,
+      "lng": 77.414011,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_8NPTb5pfDkRT71PcyrDMd0",
+      "name": "Manish",
+      "address": "Unknown Appartment, Ashoka Vihar, Bhopal",
+      "lat": 23.2608005,
+      "lng": 77.42852959999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJo64aFX9CfDkR1u_HbWDNAGA",
+      "name": "Capital Petrol Pump",
+      "address": "Ground Floor, Infront of Gurudwara, Pul Bogda Road, New Subhash Nagar, Bhopal",
+      "lat": 23.25338009999999,
+      "lng": 77.4285501,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM5NTRpRDfDkRDMn9_YfO9_k",
+      "name": "Gas refueling center",
+      "address": "7C3J+F6F, Ashoka Garden, Bhopal",
+      "lat": 23.2537183,
+      "lng": 77.43045289999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJDwEvcABDfDkRV03iHphovWw",
+      "name": "Kartar arcade",
+      "address": "Prabhat Choraha, New Subhash Nagar, Old Subhash Nagar Colony, Govindpura, Bhopal",
+      "lat": 23.2521386,
+      "lng": 77.430793,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ__u5AgBDfDkRL1fmUzwoIxk",
+      "name": "Prize set petrol ⛽️ in machine",
+      "address": "7C3J+2C5, New Subhash Nagar, Ashoka Garden, Bhopal",
+      "lat": 23.252506,
+      "lng": 77.4311216,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJb-CXNcxpfDkRa8sXDvLf4L8",
+      "name": "Prabhat petrol pump",
+      "address": "77, Raisen Road, Bagdil Khusa, Near Head Pump, New Ashoka Garden, Ashok Vihar, Bhopal",
+      "lat": 23.25249089999999,
+      "lng": 77.4311991,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJyZ6qPHhCfDkRlRiATVMRkK4",
+      "name": "HP PETROL PUMP - UNITED SALES AND SERVICE BHOPAL",
+      "address": "Ground Floor, Infront of Gurudwara, Raisen Road, Govindpura, Bhopal",
+      "lat": 23.253421,
+      "lng": 77.435051,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNTEwbndCfDkRWyPYr9Z1-Wk",
+      "name": "यश कलेक्शन",
+      "address": "7C2P+MM8, Subhash Nagar Road, ward 43, Old Subhash Nagar Colony, Govindpura, Bhopal",
+      "lat": 23.25167369999999,
+      "lng": 77.43670589999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ5-ZrcNRBfDkRJz6zkqDkX6E",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near New Transportnagar, New Bypass, Bhopal",
+      "lat": 23.2565165,
+      "lng": 77.51237549999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJD5CPhWZpfDkROrKsFPwABuQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Old, SH18, Bhopal - Vidisha Highway, Chopra Kalan",
+      "lat": 23.322574,
+      "lng": 77.46226899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJb4M5CftBfDkRV-34hcehCMs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Raisen Road, Anandnagar, Bhopal",
+      "lat": 23.2512701,
+      "lng": 77.4789701,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJW2VewBBfDkREolP3Wlzs88",
+      "name": "Ratnagiri Titaha",
+      "address": "7F2H+9VJ, Ayodhya Bypass Road, Ashok Vihar, Kalpana Nagar, Bhopal",
+      "lat": 23.2509541,
+      "lng": 77.4796538,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJkVlIivdpfDkRPozw_VcF_Fk",
+      "name": "IndianOil",
+      "address": "Ground Floor, Narela Shankari Road, Ayodhya Bypass, Bhopal",
+      "lat": 23.269857,
+      "lng": 77.46876499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkzg7XUxpfDkRvdYwvqprUoA",
+      "name": "Nitin Dhakad",
+      "address": "Nitin Shop, Nizamuddin Road, Bhopal",
+      "lat": 23.2653345,
+      "lng": 77.4652806,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJQdvC1cZpfDkRTwbx17KhCao",
+      "name": "jio bp",
+      "address": "Gulmohar nursery, near police station Bilkhiriya thana, Raisen Road, Bhopal",
+      "lat": 23.249838,
+      "lng": 77.46711800000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB8CJDDtpfDkRtR9w7gE7W2k",
+      "name": "LPJ ENTERPRISES",
+      "address": "near J.K. ROAD, KHASRA NO 171/2/2, near J.K. ROAD, Nerila Shankari, Bharat Nagar, Bhopal",
+      "lat": 23.2689166,
+      "lng": 77.46530200000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJG84bBvhHfDkR8tfZfd1p9bM",
+      "name": "IndianOil",
+      "address": "No 3/14/116/1, S, Sector B, Indrapuri, Bhopal",
+      "lat": 23.2555779,
+      "lng": 77.4610637,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1yLZLTdpfDkRHIde7sP5fSk",
+      "name": "Shashi Krishan Filling Station",
+      "address": "Nizamuddin Road, 171/2/2, Narela Shankari, JK Road, Bhopal",
+      "lat": 23.2597443,
+      "lng": 77.45838499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFZOmI9JBfDkRtWMOksYboY8",
+      "name": "Maruti Nandan Auto Services(Bharat Petroleum)",
+      "address": "7G26+G8X, Patel Nagar, Bhopal",
+      "lat": 23.2513589,
+      "lng": 77.510865,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy0RaAi9BfDkRfmqOuNM1fKs",
+      "name": "Gokul Fuel Services",
+      "address": "KHASRA NO 154, opposite prestige collage, 1/4/2, Kokta Bypass Road, Hataikheda village, Bhopal",
+      "lat": 23.259646,
+      "lng": 77.5126222,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdeYc89RBfDkRHdfIeT81mtQ",
+      "name": "IndianOil",
+      "address": "Anand Ngr, Ground Floor, Hataikheda, TPT Ngr Govindpura, near Trinity College, Kokta Bypass Road, Bhopal",
+      "lat": 23.257301,
+      "lng": 77.51390099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhc07CgBBfDkRj3iRk9mxgxw",
+      "name": "IndianOil",
+      "address": "Shop No 25, 4/2, Khajuri Khurd, Bhopal",
+      "lat": 23.2524235,
+      "lng": 77.5131627,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOW-og6RrfDkRfC9fjAKRTvE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Plot No 195/2, Bhopal Bypass, Shyampur, Sehore",
+      "lat": 23.2663404,
+      "lng": 77.51638100000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm794LWNrfDkR_V3ivvb396k",
+      "name": "Adhoc Khajuri Highway Service Station",
+      "address": "Rani Avanyibai, Transport Nagar, Kokta",
+      "lat": 23.2707961,
+      "lng": 77.5157174,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJE8KTiptrfDkRR3fy53L8apc",
+      "name": "New Diesel workshop",
+      "address": "Rani Avanti Bai, Bhopal Bypass, New Transport Nagar, Kokta",
+      "lat": 23.2672793,
+      "lng": 77.517361,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ5EeziprfDkRvPA4OsroWvI",
+      "name": "Bharat Petroleum, Petrol Pump -Maruti Nandan Auto Services",
+      "address": "NEW TRANSPORTNAGAR( BHOPAL, Bhopal",
+      "lat": 23.2706633,
+      "lng": 77.51929179999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJvRAzLYhqfDkR1MIkWeiPgnk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Kokta Bypass Road, New, Bhopal Bypass, Transport Nagar, Bhopal",
+      "lat": 23.276528,
+      "lng": 77.5167201,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmbdn13hpfDkRSTkppE35d0g",
+      "name": "Star Peb India Pvt Ltd",
+      "address": "182, New Industrial Area, Sector H, Govindpura Industrial Area, Bhopal",
+      "lat": 23.2713354,
+      "lng": 77.4455765,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrdRVN5VpfDkRqhSX-pvv3EI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Ayodhya Bypass Road, Village Damkheda, Huzur, Bhopal",
+      "lat": 23.2806501,
+      "lng": 77.4490201,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxS80T-xDfDkRp2vEhyAsyXE",
+      "name": "IndianOil",
+      "address": "Ground Floor, Hazur, Bhanpur Kanasayia Rd",
+      "lat": 23.29529579999999,
+      "lng": 77.4969997,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJn41HK_BpfDkRWJUaS4WPdRI",
+      "name": "Chirayu Air Products",
+      "address": "126, 60 Feet Road, Subhash Colony, Bhopal",
+      "lat": 23.268089,
+      "lng": 77.43847439999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJBdD1Ym5CfDkROJr1xNPltnY",
+      "name": "IndianOil",
+      "address": "Siddiquepur, Govindpura, Bhopal",
+      "lat": 23.2412079,
+      "lng": 77.44068209999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq_EzZtFrfDkRUhM5NEUjEMs",
+      "name": "SATYA FILLING STATION",
+      "address": "Village- Kanhasaiya, Bhopal Bypass",
+      "lat": 23.3083243,
+      "lng": 77.503361,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJt3E4aQBpfDkR8MxsIlLhRF4",
+      "name": "IOCL Nishatpura Petrol Pump",
+      "address": "7CRM+PX5, Nishatpura, Bhopal",
+      "lat": 23.2917597,
+      "lng": 77.4349975,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJw5Hfz1xnfDkRmd7gYw8jIsU",
+      "name": "S.S Sales and Services",
+      "address": "National Highway 46, Bhopal",
+      "lat": 23.3329884,
+      "lng": 77.35324,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9ShU8o1nfDkRemRuGM8-Mms",
+      "name": "Satguru filling station bhopal",
+      "address": "88C6+FMF, Bhopal",
+      "lat": 23.321207,
+      "lng": 77.311082,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEVdtnllnfDkRvQg-AplnVLc",
+      "name": "ATHARVA RAJ HIGHWAY SERVICES,Bharat petroleum",
+      "address": "87GX+HX, Chandukhedi",
+      "lat": 23.326426,
+      "lng": 77.29988920000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJWSl0OQBpfDkRDehXs12VkXc",
+      "name": "SHREE SHANKAR FUEL STATION",
+      "address": "89QX+433, Arwaliya",
+      "lat": 23.3377518,
+      "lng": 77.3976745,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCSGIhTJpfDkRvm-m2_eoIw4",
+      "name": "IndianOil",
+      "address": "S No 369/3/1/1, Arwaliya, Imliya",
+      "lat": 23.3371724,
+      "lng": 77.39847,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTZqJmVRhfDkRz-SjkPQtWyQ",
+      "name": "HP Petrol Pump",
+      "address": "Shagampur Road, Parwaliya Sadak, Bhopal",
+      "lat": 23.3313783,
+      "lng": 77.28470150000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC877l51pfDkRnXwdkEe4v0E",
+      "name": "Bharat Petroleum, Petrol Pump -Reliable Carriers Private Limited.",
+      "address": "LAMBAKHEDA, Bhopal",
+      "lat": 23.3355812,
+      "lng": 77.40090649999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ42-vOtFvfDkRnwqNuJTZ7Ig",
+      "name": "IndianOil",
+      "address": "S No 292/2/2293/1 Intkhedi Sadak, Bazaria Shahajahanabad, Bhopal",
+      "lat": 23.360718,
+      "lng": 77.392603,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoYkHt8BofDkRAawF3_D7zpE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Berasia Road, Lambakheda Road, Karond, Lambakheda",
+      "lat": 23.3292201,
+      "lng": 77.4031701,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwUnOHgBpfDkRJtRgSJUf4QU",
+      "name": "करोड़ चौराहा",
+      "address": "8C33+5R4, Karond Chauraha, Karond, Bhopal",
+      "lat": 23.302886,
+      "lng": 77.4045689,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJDWv8fPVofDkRADlgj1f8Gzs",
+      "name": "सिद्धी विनायक कम्युनिकेशन",
+      "address": "India",
+      "lat": 23.2997204,
+      "lng": 77.4036435,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJyV5bL79pfDkRBNS43Veh_m4",
+      "name": "IndianOil",
+      "address": "S No 51, 2/3, Kh Kalanhuzur, Karond, Bhopal",
+      "lat": 23.30234099999999,
+      "lng": 77.406868,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJt5FSVV5ofDkRxZEva4SvCG8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Bhopal Berasia Road, Circle, Karond, Bhopal",
+      "lat": 23.2966288,
+      "lng": 77.40416979999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhwYuFl1ofDkRO7ieBWEMz1E",
+      "name": "IndianOil",
+      "address": "Nishatpura, Berasia Road, Devki Nagar, Karond, Bhopal",
+      "lat": 23.289717,
+      "lng": 77.403161,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJp29hL2RvfDkRhQeAT_EwYqg",
+      "name": "NAYARA Petrol Pump",
+      "address": "Madhya Pradesh State Highway 23, Gol Khedi",
+      "lat": 23.3762764,
+      "lng": 77.400043,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIeRTy_lofDkRhgV98CEtKEg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, opposite BMHRC, Ayodhya Bypass Road, Bhopal",
+      "lat": 23.303189,
+      "lng": 77.4139854,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbXyVx19pfDkRsqLnoGWtggI",
+      "name": "IndianOil",
+      "address": "Khasra No 423424425, Sukhi Sevaniya, Huzur, Balampur",
+      "lat": 23.3472488,
+      "lng": 77.48105,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0-IT1axpfDkRvUJ05ESTHsY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near Arwalia, Ground Floor Bhopal Bypass Road, Huzur, near Arwalia, Square, Shyampur",
+      "lat": 23.342712,
+      "lng": 77.422524,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm435_KZpfDkR8oSIcwTz9XI",
+      "name": "Bharat Petroleum, Petrol Pump -Nirmal Filling Station",
+      "address": "Karond Chauraha, Bhanpur, Bhopal",
+      "lat": 23.3038355,
+      "lng": 77.4205705,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJt7tc1ExpfDkRRL6QWAsYIi8",
+      "name": "Pankaj fuel station",
+      "address": "Imliya",
+      "lat": 23.3365246,
+      "lng": 77.4412566,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvytfSNxpfDkRwZ5ggxZQdXU",
+      "name": "HP INDIAN OIL 1 COUNTER",
+      "address": "Shop No 68 Imaliya Road Bypass, Road, Bhopal",
+      "lat": 23.33651799999999,
+      "lng": 77.44145209999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJpU2E0jVpfDkRqZ4Ym0sY2Ik",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Bhopal Bypass, Huzur, Imliya",
+      "lat": 23.3443437,
+      "lng": 77.4444942,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBalsliNpfDkRh378ccJSNbY",
+      "name": "IndianOil",
+      "address": "Bhanpur, Bhopal",
+      "lat": 23.30253699999999,
+      "lng": 77.4347007,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWz1dOABpfDkRn9R84eKvw0U",
+      "name": "सेठी हार्डवेयर एण्ड प्लाई बोर्ड",
+      "address": "8C2M+VWX, Bhanpur, Bhopal",
+      "lat": 23.3021422,
+      "lng": 77.43476509999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJU7cKM2RpfDkRxiwZK3mtFKU",
+      "name": "Om Petrol Pump",
+      "address": "184, Laxmi Nagar, Bhanpur, Bhopal",
+      "lat": 23.293429,
+      "lng": 77.418419,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJeQ7Q2VBofDkRs-_2Uyi18r4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near New Karond Mandi, PH No 21, Bhanpur, Bhopal",
+      "lat": 23.291912,
+      "lng": 77.41452199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJk93eepdpfDkRk1e-Mtjpp0Q",
+      "name": "Bhagirath Energy Station",
+      "address": "near Vidyasagar School, Bhanpur, Bhopal",
+      "lat": 23.2953113,
+      "lng": 77.4298848,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ895tGqxpfDkRqfBJulI_aZI",
+      "name": "Bharat Petroleum",
+      "address": "7CVH+WP5, near Over Bridge, Vidisha Road, Bhanpur, Bhopal",
+      "lat": 23.2947696,
+      "lng": 77.4293697,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJVVgKFFBofDkR_vpgf833zks",
+      "name": "Bharat Petroleum - Vijay Vallabh Kisan Seva Kendra",
+      "address": "Sabji Mandi Road, New Market, STT Nagar, Karond, Bhopal",
+      "lat": 23.2897455,
+      "lng": 77.4139745,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJObInWgBpfDkR9pfdGwg8fFY",
+      "name": "M.S. Filling Station , Gram Imaliya",
+      "address": "8FV6+46H, Bhopal Bypass, Imliya",
+      "lat": 23.3428798,
+      "lng": 77.4596962,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJqS21FURpfDkRkRZVJbn-PbI",
+      "name": "IndianOil",
+      "address": "Ground Floor, Chopda Kala, Huzur, Bazaria Shahajahanabad, Sukhi Sewania",
+      "lat": 23.3294,
+      "lng": 77.468,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJjaVTtl9pfDkRQTFRJEjHErU",
+      "name": "IndianOil",
+      "address": "Ground Floor, Chopda Kala, Huzur, Bazaria Shahajahanabad, Sukhi Sewania",
+      "lat": 23.3294,
+      "lng": 77.468,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjSIsF3NvfDkRxmk-4i_tcX0",
+      "name": "IndianOil",
+      "address": "Kham Kheda",
+      "lat": 23.3849159,
+      "lng": 77.3995668,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-5EG09NvfDkRkmcAMGQorII",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, SH 10, Bhopal Berasia Road, Kham Kheda",
+      "lat": 23.389723,
+      "lng": 77.399434,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrSe4E7JrfDkRC3GmKI7uzIM",
+      "name": "Bharat Petroleum, Petrol Pump -Kishan Kanta Fuel Sales And Service",
+      "address": "KOFTA BY PASS ,BHOPAL, Bhopal",
+      "lat": 23.3278874,
+      "lng": 77.48436160000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH_dOPHVrfDkRCo_RSg3_a6M",
+      "name": "L N Sahu Fuel Service Petrol Pump",
+      "address": "8F8W+FC8, Bhopal",
+      "lat": 23.3161612,
+      "lng": 77.4960851,
+      "open_now": true
+    }
+  ]
+}

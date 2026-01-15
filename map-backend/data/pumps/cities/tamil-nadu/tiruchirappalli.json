@@ -1,0 +1,1227 @@
+{
+  "city": "Tiruchirappalli",
+  "state": "Tamil Nadu",
+  "count": 152,
+  "center": {
+    "lat": 10.7905,
+    "lng": 78.7047
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJEQ2IlklgqjsR_F7A5Tx2LHI",
+      "name": "IndianOil",
+      "address": "No 3, Panjapur Nagamangalam, NH 45B Velan Thottam K Kallikudi, Craw Ford Col, Manikandam",
+      "lat": 10.7327671,
+      "lng": 78.6323027,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkZmacB1gqjsRljjaPCTPxM4",
+      "name": "Bharat Petroleum",
+      "address": "Panjappur, Tiruchirappalli, NH-45B, Trichy Madurai Highway, Trichy, Tiruchirapalli",
+      "lat": 10.75785,
+      "lng": 78.656143,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ--G-ESthqjsR8zShAAr97VY",
+      "name": "IndianOil",
+      "address": "Lock No 631, Manikandam",
+      "lat": 10.729701,
+      "lng": 78.632627,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtU3qDLVhqjsRgFfLdsggzwA",
+      "name": "Bharat Petroleum, Petrol Pump -R. Venugoap Reddiar",
+      "address": "Pottapatti-Nagamangalam Road, Indira Nagar, Surappatti",
+      "lat": 10.7034016,
+      "lng": 78.624743,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY9tZcTdhqjsRVvlX_Ba82k0",
+      "name": "GO GAS",
+      "address": "QM32+39J, Panjappur",
+      "lat": 10.7527017,
+      "lng": 78.65088430000002,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJyf-iUSVhqjsRo-87LaVElg0",
+      "name": "Nayara Energy Limited,fueling station (Arumai Ammal Agencies)",
+      "address": "94/4A, 5A, Trichy-Maduri NH, Alundur Village, Tiruchirappalli",
+      "lat": 10.6842489,
+      "lng": 78.60972679999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPS0tjIhhqjsRNgz14rF2AtM",
+      "name": "Bharat Petroleum, Petrol Pump -Ramalingam Agencies",
+      "address": "Trichy-Dindigul Road, Bharathiyar Salai, Sangillyandapuram, Tiruchirappalli",
+      "lat": 10.769018,
+      "lng": 78.619847,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJATo0tohfqjsRsFPed2fkjCc",
+      "name": "Nayara Petrol Pump Natchatra Fuels.Trichy",
+      "address": "K Kallikudi Road, Tiruchirappalli",
+      "lat": 10.7720962,
+      "lng": 78.6260655,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ7Vz5JQCLqjsRWRZC1tl9EjE",
+      "name": "Bharth Petroleum - Ananth Agenciess",
+      "address": "PMCQ+F6R, Trichy Bypass, Balan Nagar, Tiruchirappalli",
+      "lat": 10.7213992,
+      "lng": 78.688565,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGSEzVACLqjsRYZLDU6w5p-c",
+      "name": "LRS Fuels HP",
+      "address": "78, Ramachandra Nagar, E.pudhur, Tiruchirappalli",
+      "lat": 10.7705883,
+      "lng": 78.6646717,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJI_UWGgCLqjsR88xe057sbwg",
+      "name": "Indian oil Petrol Pump",
+      "address": "PM7V+8X2, Outer ring road, Tiruchirappalli",
+      "lat": 10.7132729,
+      "lng": 78.694884,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJQxzYo2-LqjsRC-Aj-wObM3U",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Olaiyur Main Road, Udayanpatti, Tiruchirappalli",
+      "lat": 10.740271,
+      "lng": 78.6919116,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2e_B5yOLqjsRblXw8fUTyH4",
+      "name": "Hindustan petroleum K T S Agency",
+      "address": "Olaiyur Main Road, Tiruchirappalli",
+      "lat": 10.7401119,
+      "lng": 78.6921364,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJu1BGallfqjsRkVVbMjwvgP4",
+      "name": "Bharat Petroleum Petrol Pump , BP-CHOLAN NAGAR",
+      "address": "ROADOPP TO DHINAKARAN OFFICE, TRICHY-DINDIGUL, Tiruchirappalli",
+      "lat": 10.7805632,
+      "lng": 78.63952119999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfUejJIGLqjsRLKFN2cGAZ7o",
+      "name": "Golden fuels bharat petroleum",
+      "address": "K.K.NAGAR, TRICHY, Tiruchirappalli",
+      "lat": 10.7525025,
+      "lng": 78.69261379999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBRrk2elZqjsRDWfmHbOAMJ4",
+      "name": "IndianOil",
+      "address": "behind Shivan Temple, No 454, 3rd Street, Thiruppainjili, Manachanallur",
+      "lat": 10.7662588,
+      "lng": 78.68586669999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJW5rHmcuKqjsRIgQp6k_osV8",
+      "name": "IndianOil",
+      "address": "No 32/12 Ward, AG, Block, New SF, 13, K, Sathanur Main Road, Tiruchirappalli",
+      "lat": 10.769612,
+      "lng": 78.684319,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJi53r1Uj1qjsRCwxTeemQku8",
+      "name": "IndianOil",
+      "address": "No 41 Anbil Dharmalingam Ngr, Edamalaipatti Pudur",
+      "lat": 10.780202,
+      "lng": 78.67417100000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjxJJTdP1qjsR39L-Zf_FDDo",
+      "name": "SVR Agencies Nayara Fuel Station",
+      "address": "near Regional Transport Office Tiruchirappalli, 16/1A, TRICHY - DINDIGUL MAIN ROAD, near Regional Transport Office Tiruchirappalli, Pirattiyur",
+      "lat": 10.7909826,
+      "lng": 78.6483406,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJewPWJw-LqjsRtjW3sXTwfoQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Ramanathapuram Road, Sembattu, Tiruchirappalli",
+      "lat": 10.741727,
+      "lng": 78.7154255,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJW1veQCT1qjsRV-i9miUR4Uo",
+      "name": "TVS Bharat Petroleum Pump",
+      "address": "No.1,Chennai Highway, Service Road, TVS Tolgate, Tiruchirappalli",
+      "lat": 10.7875506,
+      "lng": 78.6951636,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC2cfpiD1qjsRTLHi7Ijf0hM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Bypass Road, Subramaniyapuram, Chennai",
+      "lat": 10.790301,
+      "lng": 78.702001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDTG5qNKLqjsRUNl1dp6_i2o",
+      "name": "Perumal Agencies",
+      "address": "Airport Near, Gundur",
+      "lat": 10.7291735,
+      "lng": 78.7192589,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJs1MLsHKLqjsRRqUTa9IJsi0",
+      "name": "IndianOil",
+      "address": "Ground Floor, Tiruchirappalli",
+      "lat": 10.735995,
+      "lng": 78.7164006,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ37uxmMyLqjsR1OG0H0odxGY",
+      "name": "AMY FUELS",
+      "address": "IOCL Coco, Gundur",
+      "lat": 10.7360128,
+      "lng": 78.7163832,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuWoWMq2LqjsRxo1j7TuNKpM",
+      "name": "IndianOil",
+      "address": "No 282/9 T, S No 15/12 Ward Aw, Block 1, Kottapattu, Gundur",
+      "lat": 10.740408,
+      "lng": 78.71567399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTQSZIt-LqjsR0LGWG03bHD0",
+      "name": "SREE KRISHNA AGENICES, HP Petrol pump + CNG Bunk",
+      "address": "National Highway 336, Mathur",
+      "lat": 10.6946986,
+      "lng": 78.734693,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJD2aXcNmLqjsR9p-uIZf5HFs",
+      "name": "Bharat Petroleum, Petrol Pump -Roshan Enterprises",
+      "address": "MATHUR( TRICHY- PUDUKOTTAI, PUDUKKOTTAI",
+      "lat": 10.686106,
+      "lng": 78.73616609999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFasYFs-NqjsRbHLr6Avbnxs",
+      "name": "IndianOil",
+      "address": "Sy No 310/1 Navalpattu, Tiruverumbur, Anna Nagar, Tiruchirappalli",
+      "lat": 10.734521,
+      "lng": 78.755026,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4T5p6Sj1qjsRp1jsnfLeNOE",
+      "name": "Bharat Petroleum, Petrol Pump -Raja Agencies",
+      "address": "GANESHAN NAGAR TRICHY, Tiruchirappalli",
+      "lat": 10.7753026,
+      "lng": 78.6848143,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJN3QPItb0qjsRFcY2txocmpI",
+      "name": "Indian Oil",
+      "address": "India",
+      "lat": 10.7799324,
+      "lng": 78.702671,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJGRquM_31qjsR3xh8Ve5vhcg",
+      "name": "Bharat Petroleum - Samy Agency",
+      "address": "4/634, Ponmalaipatti Road, Thendral Nagar, Tiruchirappalli",
+      "lat": 10.7742275,
+      "lng": 78.73257869999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQyCoBZ71qjsR_MQZoybhrYY",
+      "name": "SAMY Agency",
+      "address": "QPFM+M43, Ponmalaipatti Road, Thirunagar, Tiruchirappalli",
+      "lat": 10.7741329,
+      "lng": 78.73278619999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2TLpRZCNqjsR_mvsa5C3Fvo",
+      "name": "Jeyam Fuels",
+      "address": "AIADMK, 299, SEZ Trichy, near ELCOT, Silambarasan A, IT Park Road, Police Colony, Police Colony, Tiruchirappalli",
+      "lat": 10.7374707,
+      "lng": 78.7648608,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ96B46L-NqjsR-7Lt8OwVHdk",
+      "name": "HP Gas",
+      "address": "QQ26+Q8C, Sholamadevi",
+      "lat": 10.7519293,
+      "lng": 78.7607685,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJlQRuBACJqjsRnCgVVw8h6jk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Mathur, Illupur Road, Amburpatti",
+      "lat": 10.661478,
+      "lng": 78.676671,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwVz0TCX1qjsRKuaYFkO63rQ",
+      "name": "AGMI Petrol Pump",
+      "address": "Trichy - Madurai Highway, Kaja Nagar, Edamalaipatti Pudur",
+      "lat": 10.7845861,
+      "lng": 78.6910312,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdRPpxTr1qjsRI2UXRZ9g9Ak",
+      "name": "IndianOil",
+      "address": "Lock No 13002, Chennai - Theni Highway, Mannarpuram, Tiruchirappalli",
+      "lat": 10.785367,
+      "lng": 78.690094,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ93nARAD1qjsRkKw7mWJYSYc",
+      "name": "IndianOil",
+      "address": "Lock No, 601 Tollgate, No 5, Sangillyandapuram, Chennai",
+      "lat": 10.7892055,
+      "lng": 78.6960434,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM1RjGwD1qjsRyiNAQd58M5s",
+      "name": "LPG TRICHY",
+      "address": "Tiruchirappalli",
+      "lat": 10.78971,
+      "lng": 78.69892469999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJSbnyeC-NqjsR6RM7Vv1hiL8",
+      "name": "IndianOil",
+      "address": "No 653 B3, Sidco Development Plot, Thuvkudimalai, Tiruchirappalli",
+      "lat": 10.7659276,
+      "lng": 78.80141569999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrSxqzi6NqjsRTog5aZshDfs",
+      "name": "IndianOil",
+      "address": "Ground Floor Bhel Township, Thuvkudimalai, Tiruchirappalli",
+      "lat": 10.7689709,
+      "lng": 78.79916519999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5VQ_qzHzqjsRnT71BSNeWD4",
+      "name": "IndianOil - SWAGAT",
+      "address": "Ground Floor, NH-67, Thiruverumbur",
+      "lat": 10.7841998,
+      "lng": 78.77909439999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8dVCgjjzqjsR3ztA5mwLRaw",
+      "name": "Alm Enterprises Bpcl Petrol Pump",
+      "address": "49/7, Thanjavur Road, Thiruverumbur",
+      "lat": 10.7899566,
+      "lng": 78.7704191,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS0Li9_iMqjsRI6mVH7xjXuE",
+      "name": "OFT petrol bunk",
+      "address": "PQMM+7H2, OFT to HAPP Road, Thuppaki Nagar, Navalpattu",
+      "lat": 10.7331317,
+      "lng": 78.7838794,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJw0DwDz6NqjsRCyCeTBAipTM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "S No 100/4, Thiruverumbur",
+      "lat": 10.7567967,
+      "lng": 78.77329569999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJO1H6sMGMqjsRV_gariXvv-U",
+      "name": "HP PETROL PUMP - SALAM FUELS",
+      "address": "HPC Dealer S NO.100/4, Navalpattu Village Thiruverumbur, Tiruchirappalli",
+      "lat": 10.7568062,
+      "lng": 78.7733952,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ09d83S-NqjsRAVh6iPkjxG8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 702/2, Plot No D/C/2, Thiruverumbur, Thuvakudi",
+      "lat": 10.762159,
+      "lng": 78.80536359999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvWpbVz-NqjsR-H8bY1TIM90",
+      "name": "Sai shanthi agency BPCL petrol bunk",
+      "address": "555/2 ganapathi nivas, Ayyampatti",
+      "lat": 10.7744927,
+      "lng": 78.80920739999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1YV9cDONqjsRW16pvmHxV6c",
+      "name": "Bharat Petroleum",
+      "address": "QRF5+RMP, Jeevanantham Street",
+      "lat": 10.7745982,
+      "lng": 78.80920809999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ800CffVfqjsRj-qy9uUjeH4",
+      "name": "ARK Fuels- Indian Oil Petrol Bunk",
+      "address": "No.5, Trichy, to, Dindigul Main Road, Pirattiyur",
+      "lat": 10.7912963,
+      "lng": 78.65672839999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJD40H3gVfqjsREqw2j0l1sAY",
+      "name": "IndianOil",
+      "address": "Sy No 126, 4, Vayalur Road, Kumaravayalur",
+      "lat": 10.820192,
+      "lng": 78.621437,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJycwJ8nj1qjsR8vphmzJltZY",
+      "name": "IndianOil",
+      "address": "Vayalur Road, Puthur, Thillai Nagar, Tiruchirappalli",
+      "lat": 10.814411,
+      "lng": 78.664703,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ__9PrHL1qjsRgfl_-E5wpw0",
+      "name": "KR Fuels - Auto LPG Station - Cantonment",
+      "address": "KR Fuels, No:20, Lawsons Road, Cantonment, Tiruchirappalli",
+      "lat": 10.8058674,
+      "lng": 78.6793326,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-yf6Aw31qjsR06YMy3Z3wtk",
+      "name": "Bharath Petrol Bunk.",
+      "address": "100, 1, Bharathidasan Salai, Cantonment, Tiruchirappalli",
+      "lat": 10.8049515,
+      "lng": 78.6859301,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9QVG05n1qjsRFOqGtTQV3Ms",
+      "name": "Sri Hari Computers",
+      "address": "RMGG+XPG, Woraiyur, Tiruchirappalli",
+      "lat": 10.8274338,
+      "lng": 78.6768359,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJpUH-rhD1qjsRKco-Xz-NdOI",
+      "name": "Hp petrol bunk",
+      "address": "Bharathiar Salai, Bharathiyar Salai, Sangillyandapuram, Tiruchirappalli",
+      "lat": 10.8008063,
+      "lng": 78.6894353,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ4aMEzK_1qjsRLR8H_ipQ1lo",
+      "name": "IndianOil",
+      "address": "Ground floor, near Maingaurd Gate, Theppakulam",
+      "lat": 10.8271667,
+      "lng": 78.6934034,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ85G9hJ9fqjsRJRt88nNDpGQ",
+      "name": "IndianOil",
+      "address": "No 1/103A, Main Road, Somarasempettai, Tiruchirappalli",
+      "lat": 10.812219,
+      "lng": 78.63478099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJh4Kf6udfqjsR0iEndW70woE",
+      "name": "Bharat Petroleum, Petrol Pump -Sundaram Agencies",
+      "address": "Rajiv Gandhi Nagar, Somarasampettai",
+      "lat": 10.8125205,
+      "lng": 78.6387549,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6V2QIbpfqjsR1rbWpCGjvk8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Somarasempettai - Thogaimalai Road, Chunabukarenpatti",
+      "lat": 10.7990044,
+      "lng": 78.61261209999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJn4DMyYpfqjsR9dK-mJf6_QU",
+      "name": "Sri Annadurai Fuels Bharat Petroleum",
+      "address": "Tiruchirappalli",
+      "lat": 10.8154432,
+      "lng": 78.6286696,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS60VBQZfqjsRM35ZwhnmT6c",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 61, 4 & 61/5, Vayalur Road, Srirangam, Malliampathu",
+      "lat": 10.8150124,
+      "lng": 78.64904179999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9fyFBYJfqjsRyXnl0BoH4AA",
+      "name": "Go Gas",
+      "address": "RM72+X6M, Ram Nagar Street, Ram Nagar, MM Nagar, Tiruchirappalli",
+      "lat": 10.8149719,
+      "lng": 78.65053499999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ--qBSs71qjsR9wz_iknO2RU",
+      "name": "MRC ENTERPRISES,INDIAN OIL PETROL STATION.MUTHAPUDAIYANPATTY., MANAPARAI",
+      "address": "No20/4671,NH-45Trichy-Dindigul main road, muthapudaiyanpatty, Tiruchirappalli",
+      "lat": 10.7933747,
+      "lng": 78.67876989999999,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJR1D5G371qjsRk7SM4XLmocU",
+      "name": "Bharat Petroleum, Petrol Pump -Ramanathan Agencies",
+      "address": "Vayallur Road, Bhima Nagar, Sangillyandapuram, Tiruchirappalli",
+      "lat": 10.8142622,
+      "lng": 78.6720912,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjZF9-z_1qjsR9ozeBBZtBsE",
+      "name": "IndianOil",
+      "address": "Lock No 583, No 2, Trichy-Dindigul Road, Tiruchirappalli",
+      "lat": 10.7940031,
+      "lng": 78.68039519999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtbGeaxX1qjsREikOCI6Qi_E",
+      "name": "Bharat Petroleum - YESODHAI PETROL BUNK",
+      "address": "Reliance Apartments, Voc Road, Cantonment, Tiruchirappalli",
+      "lat": 10.796241,
+      "lng": 78.681082,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpb6rFwBfqjsRo91dgDICoHQ",
+      "name": "வாடாவூர் 10th cross",
+      "address": "RMM4+GPG, Thillai Nagar, Tiruchirappalli",
+      "lat": 10.833811,
+      "lng": 78.6568149,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJTeu3ngb1qjsRgZQZmXzv57M",
+      "name": "IndianOil",
+      "address": "No. 19B, 34, Warners Road, Cantonment, Tiruchirappalli",
+      "lat": 10.804556,
+      "lng": 78.68225110000002,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJyfV04gz1qjsRb79zGx5oNV8",
+      "name": "MK CONSTRUCTION",
+      "address": "Municipal Office Road, Thillai Nagar, Tiruchirappalli",
+      "lat": 10.8083096,
+      "lng": 78.68148889999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJEYUIeZf1qjsRt8nF3K6eHAE",
+      "name": "IndianOil",
+      "address": "Municipal Office Road, Cantonment, Tiruchirappalli",
+      "lat": 10.8083431,
+      "lng": 78.6815142,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ29VaA-P1qjsREOW1-VrtWc8",
+      "name": "Bala Enterprises",
+      "address": "No.9/1, TNJ Complex, Thennur High Road, Tiruchirappalli",
+      "lat": 10.8197401,
+      "lng": 78.675792,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH6gfAlz1qjsRj8K3SgCMQLs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 17A, 1, Promenade Road, Cantonment, Tiruchirappalli",
+      "lat": 10.8064729,
+      "lng": 78.6837742,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJK9uK1J71qjsRPUEz9Hw3VWU",
+      "name": "Nayara Petrol Pump",
+      "address": "Salai Road, Ramlinga Nagar, Woraiyur, Tiruchirappalli",
+      "lat": 10.8218599,
+      "lng": 78.6759663,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVRrVv_X1qjsRtWBzurye-C8",
+      "name": "GNC petrol bunk",
+      "address": "RM4M+8W6, Tiruchirappalli",
+      "lat": 10.8057775,
+      "lng": 78.68476629999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ6d6qlBb1qjsR6m8YQixqB1Y",
+      "name": "IndianOil",
+      "address": "Bharathiyar Salai, Sangillyandapuram, Tiruchirappalli",
+      "lat": 10.7984043,
+      "lng": 78.6866684,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXwyC3fH1qjsRcOEE0zc2lpM",
+      "name": "GNC&SONS (P) LIMITED",
+      "address": "Bharathidasan Salai, 2c, Promenade Road, Cantonment, Tiruchirappalli",
+      "lat": 10.8050263,
+      "lng": 78.68587339999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUTNVhCT1qjsR_7UtLpkixZ0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Sy No 177/2, Block 9, Police Check Post, near Lingam Nagar, TS No 40, Kulumani Main Road, Selvam Nagar, Tiruchirappalli",
+      "lat": 10.8351658,
+      "lng": 78.6636664,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhWBTZ4z1qjsRTKZMwYohJuk",
+      "name": "H P",
+      "address": "India",
+      "lat": 10.8350298,
+      "lng": 78.6639622,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJW5DRK9H1qjsR2uOox28kJ8M",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Melapudur, Sangillyandapuram, Tiruchirappalli",
+      "lat": 10.8000439,
+      "lng": 78.6878969,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJw6v9_D1qjsRV48pc2_TbBw",
+      "name": "Bharat Petroleum, Petrol Pump -A. G. Mohammed Ibrahim & Co",
+      "address": "CANTONRMENT, TRICHY, Tiruchirappalli",
+      "lat": 10.8000947,
+      "lng": 78.68792309999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7Xza5v71qjsRRiOFt-vU1ws",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "49, Madurai Main Road, Sangillyandapuram, Tiruchirappalli",
+      "lat": 10.8007536,
+      "lng": 78.68941629999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlefWAQD1qjsR3aAhwHAHrHI",
+      "name": "Bharat Petroleum - CHETTINAD SERVICE",
+      "address": "RM2R+75V, Nagapattinam - Coimbatore - Gundlupet Highway, Bharathiyar Salai, Sangillyandapuram, Tiruchirappalli",
+      "lat": 10.8007096,
+      "lng": 78.690479,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJNexiuHpeqjsRFuKwBF4OUyg",
+      "name": "Arumugam Agencies, Essar Oil Fuel Station",
+      "address": "RH2H+RJ2, Allithurai Road, Viyalanmedu",
+      "lat": 10.8020172,
+      "lng": 78.57900339999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJN5qLH5j1qjsR56pcW4dM62g",
+      "name": "IndianOil",
+      "address": "27A, Salai Road, Woraiyur, Tiruchirappalli",
+      "lat": 10.827644,
+      "lng": 78.67818799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBQ1UaaH1qjsRJQPtZekJPHA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, 9A Cross Road, West Thillai Nagar, Tiruchirappalli",
+      "lat": 10.821212,
+      "lng": 78.68353300000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6z_NqKT1qjsRmVzEwCUWssI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, 74 A, Salai Road, Thillai Nagar, Tiruchirappalli",
+      "lat": 10.827301,
+      "lng": 78.68430099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJE9eVDNteqjsR3lOB8xSNeVs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 169/1, Trichy Bypass Road, Srirangam, Kulumani",
+      "lat": 10.8429165,
+      "lng": 78.6025645,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtbj-O_D1qjsR5eecZqSK-v4",
+      "name": "Bharat Petroleum, Petrol Pump -Tajmahal Enterprises",
+      "address": "SALAI ROAD, TRICHY, Tiruchirappalli",
+      "lat": 10.8273568,
+      "lng": 78.6856565,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1W6bpxz1qjsRRYmpABheQe8",
+      "name": "DHEEPAM LAMP OIL",
+      "address": "India",
+      "lat": 10.8052062,
+      "lng": 78.6966485,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ4za0GdD1qjsRlYor4yPYflc",
+      "name": "Reliance Petroleum",
+      "address": "SURVEY NO.303, _1A, [ OLD, NH 45B,NEW SURVEY NO.120, SOUTH, Kallikudi, Tiruchirappalli",
+      "lat": 10.8018608,
+      "lng": 78.6977713,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJG_suyf70qjsR12_lCDL71tw",
+      "name": "Bharat Petrol Pump",
+      "address": "4A1, Thanjavur Road, Tiruchirappalli",
+      "lat": 10.8136366,
+      "lng": 78.7074619,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzY_iS_j0qjsRlDtOZPbSPrA",
+      "name": "IndianOil",
+      "address": "NH 45, Chennai Byepass Road, Tiruchirappalli",
+      "lat": 10.8150871,
+      "lng": 78.71188719999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmWs55EPzqjsRa6LFSW5k1zM",
+      "name": "IndianOil",
+      "address": "Lock No 1224, SF No 45/5A & 45/5A3, Agaram",
+      "lat": 10.7929109,
+      "lng": 78.7642346,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvycxMiv0qjsRsJA55Acp1GI",
+      "name": "KR Fuels-Auto LPG Gas Bunk",
+      "address": "No. 5/18 Plot No. 5 & 6, Trichy Chennai Trunk Road, Tiruchirappalli",
+      "lat": 10.8581919,
+      "lng": 78.7025589,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_76-xir0qjsR0aoYLRKqMcE",
+      "name": "Indian Oil Petrol Pump",
+      "address": "Trichy Chennai Trunk Road, Srirangam, Thiruvanaikoil",
+      "lat": 10.8602874,
+      "lng": 78.7032437,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJc-STlWP1qjsRMiSLAtlAYzQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Thanjavur Road, Varaganeri, Ariyamangalam Area, Tiruchirappalli",
+      "lat": 10.8055506,
+      "lng": 78.712199,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq6oa8fn0qjsRJSlXcv_8SIg",
+      "name": "KRG",
+      "address": "Palpanai Pvt.Storage Godown, Ariyamangalam Area, Tiruchirappalli",
+      "lat": 10.812668,
+      "lng": 78.7126778,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYX62Cvn0qjsRcgQb8ebZX5k",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Thanjavur Road, Tiruchirappalli",
+      "lat": 10.813301,
+      "lng": 78.71080099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRzX_l9n1qjsRuxqTMZ5Ah50",
+      "name": "Bharat Petroleum, Petrol Pump -Subhaga Agencies",
+      "address": "TANJORE RD.,NH45,TRICHY",
+      "lat": 10.8134284,
+      "lng": 78.7117513,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNZcDqTr1qjsRrUUS-nmo-xY",
+      "name": "Propel Auto LPG",
+      "address": "Jayavilas building, Chennai - Trichy Highway, Viswas Nagar, Tiruchirappalli",
+      "lat": 10.8141621,
+      "lng": 78.7118145,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJr9-h2QD1qjsRyHrjh0EeQiw",
+      "name": "Sri Murugan Oil Mark",
+      "address": "India",
+      "lat": 10.8146671,
+      "lng": 78.6974673,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ97Dk6AD1qjsRaazEnnkCFKw",
+      "name": "SKY MOONE OIL FACTORY",
+      "address": "RM8X+479, Thanjavur Road, Tharanallur, Tiruchirappalli",
+      "lat": 10.8152783,
+      "lng": 78.69823869999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJFfUC-vL0qjsRIexWYINco4E",
+      "name": "Reliance Petroleum",
+      "address": "Sf No 261, 1A & 1D1, Thanjavur Road, Tiruchirappalli",
+      "lat": 10.8090823,
+      "lng": 78.7225808,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrxUw8JL0qjsRc_QzZu7ZE2E",
+      "name": "IndianOil",
+      "address": "S No 250/2A3 & 249/1, Ariyamangalam Area, Tiruchirappalli",
+      "lat": 10.8054508,
+      "lng": 78.7272081,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg1HoyMz1qjsRvY-qhe_07SI",
+      "name": "Freedom Filling Station- IndianOil Corporation",
+      "address": "Gandhi market, Police Station, near Female, And, Sub Jail Road, Tiruchirappalli",
+      "lat": 10.8161766,
+      "lng": 78.6946651,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJi369JKv1qjsRo0rYN-HQwQ8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "12, East Boulevard Road, Tiruchirappalli",
+      "lat": 10.820801,
+      "lng": 78.701301,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJr8iMZsX1qjsRez4dkAwvA7s",
+      "name": "Bharat Petroleum - Sri Vela Fuels",
+      "address": "RP2M+GVV, Oil Mill Road, Ariyamangalam, Vivek Nagar, Pappakurichi Kattur, Tiruchirappalli",
+      "lat": 10.8013998,
+      "lng": 78.7344432,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS9ilYHH1qjsRoV3pMC0QIXo",
+      "name": "IndianOil",
+      "address": "No 1, Goodshed Road, Tiruchirappalli",
+      "lat": 10.8237415,
+      "lng": 78.6922671,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkX8_5Zn1qjsRQx_wfAWtKxo",
+      "name": "Bharat Petroleum - Annamalaiyar Enterprises",
+      "address": "QPRV+42M, old, Manjathidal, Tiruchirappalli",
+      "lat": 10.7903423,
+      "lng": 78.7425622,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8e_HDgDzqjsRbZvSgn539w4",
+      "name": "ACS ENTERPRISES - Bharat Petroleum",
+      "address": "Tanjore Main Road, QQW4+9RV, Balaji Nagar, Raj Nagar, Maharishi Vedathri Nagar, Pappakurichi Kattur, Tiruchirappalli",
+      "lat": 10.7958519,
+      "lng": 78.7572654,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsV_Adc_zqjsReiZj-La9gpM",
+      "name": "Bharat Petroleum, Petrol Pump -R.G.R Enterprises",
+      "address": "Pappakurichi Kattur, Tiruchirappalli",
+      "lat": 10.7986669,
+      "lng": 78.75177049999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ91alO570qjsRlzWK0rmB2Bc",
+      "name": "M S M Oil & Maliga",
+      "address": "India",
+      "lat": 10.8004691,
+      "lng": 78.74669279999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ3zg0oenzqjsR-ojL0FegfMs",
+      "name": "Bharat Petroleum - NSV Agency",
+      "address": "RPVX+PRF, Kallanai Road, Kilamullakudy",
+      "lat": 10.8443044,
+      "lng": 78.7495558,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHQEwMY_2qjsRPBkqIHjNXT4",
+      "name": "IndianOil",
+      "address": "Ground Floor, Trichy Salem Main Road Thiruvasi, Bikshandarkoil, Tiruchirappalli",
+      "lat": 10.8867721,
+      "lng": 78.660898,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHfkXKANZqjsR3CmXttZgZyg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "SF No 40/3, Trichy Musiri Main Road, Killiyanallur",
+      "lat": 10.8922482,
+      "lng": 78.60844159999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNTlvZHH1qjsRxpY7Ch_jHpg",
+      "name": "Nayara Energy Limited - CM Fuels",
+      "address": "98/6A1, Karur Main Road, Kambarasampettai",
+      "lat": 10.8539456,
+      "lng": 78.6717201,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC2bG4-v2qjsRyW3CT8nIHGQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Bikshandarkoil, Koothur",
+      "lat": 10.8623163,
+      "lng": 78.68785849999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwUQ3e6xZqjsRT4FjjHEbC5Q",
+      "name": "IndianOil",
+      "address": "No 309/2, Sholanganallur, Cholanganallur, Sirukambur",
+      "lat": 10.9089679,
+      "lng": 78.6081238,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxR2BMmb1qjsRN_FYZkYQXis",
+      "name": "IndianOil",
+      "address": "Block No 38, Srirangam, Thimmarayasammuthiram, Tiruchirappalli",
+      "lat": 10.8483391,
+      "lng": 78.6899482,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJGYSgkGP1qjsR2RGd3AUQoSg",
+      "name": "Bharat Petroleum Petrol CNG Pump , BP TRICHY CITY",
+      "address": "Karur Bypass Road, Annamalai Nagar, Tiruchirappalli",
+      "lat": 10.830884,
+      "lng": 78.686031,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfwbar8_1qjsRTIbtaLEgmFk",
+      "name": "IndianOil",
+      "address": "Ward A, Block No 20, TS No 10, Chinthamani, Tiruchirappalli",
+      "lat": 10.836031,
+      "lng": 78.689826,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJu4MJx0L1qjsR30jXNK_7HDk",
+      "name": "AVE Agency Best petrolium services",
+      "address": "15/2/1, Kosamettu Street, Melachinthamani, Tiruchirappalli",
+      "lat": 10.8373304,
+      "lng": 78.6914029,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ3-81SF32qjsRx0Rh7ASEj3s",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 192, Madhavaperumal Kovil, near Nochiam, 3C & 192/5, Manachanallur Main Road, Tiruchirappalli",
+      "lat": 10.884851,
+      "lng": 78.691401,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJewLGEsz1qjsRiNzY3NBG4IY",
+      "name": "Ranganathan Petrol Pump Bharat Petroleum",
+      "address": "RMWX+856, Trichy Chennai Trunk Road, Srirangam",
+      "lat": 10.8457754,
+      "lng": 78.697886,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJERde61X1qjsR3YvyHbbIHjk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Chettiar Firm, Thiruvanaikoil, Tiruchirappalli",
+      "lat": 10.851001,
+      "lng": 78.70020099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWw79zrX1qjsRl2Sz1NvnLEM",
+      "name": "BNC",
+      "address": "India",
+      "lat": 10.8371361,
+      "lng": 78.6975187,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ3QPrDDb3qjsRj42eAtJNlo4",
+      "name": "Nayara Petrol Pump G.M.oil Agency, Thaneerpanthal,Mannachanallur- 620015",
+      "address": "148/5d Essar petrol bunk, Palayur Thaneerpanthal",
+      "lat": 10.9218023,
+      "lng": 78.6687491,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRbUVtVD2qjsRujLDFT6CLvs",
+      "name": "IndianOil",
+      "address": "S No 61, 1A4A Manachanallur, Thuraiyur - Tiruchirappalli Main Road, Kovathakudi",
+      "lat": 10.8961901,
+      "lng": 78.6965151,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJE23UZ9z3qjsRlA7Kpwc87yg",
+      "name": "Bharat Petroleum, Petrol Pump -Pari Fuel Filling Service",
+      "address": "No.1.Toll Gate, Tiruchirappalli",
+      "lat": 10.8737882,
+      "lng": 78.7077924,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJz17HEbz1qjsRUWPCAf0XODw",
+      "name": "IndianOil",
+      "address": "Srirangam, Ward No 3 Block 4 Chennai Trichy Main Road, Vellithiur Taluk",
+      "lat": 10.8579515,
+      "lng": 78.7122059,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZcKfmlhvqjsRjlp6eVAS87w",
+      "name": "IndianOil",
+      "address": "Ground Floor, Byepass Road, Manapparai",
+      "lat": 10.851248,
+      "lng": 78.71354769999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy0NqMY_2qjsRV_RY92bbsZI",
+      "name": "IndianOil",
+      "address": "Lock No 598, Near Coleroon, Bikshandarkoil",
+      "lat": 10.874849,
+      "lng": 78.708377,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBVdRFy_3qjsRVb39hnkaD1c",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "2B2A2, 183, No 184, 11A & 183/7B, Ragavendra Nagar, Tiruchirappalli",
+      "lat": 10.875201,
+      "lng": 78.708001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgYMe_Uv0qjsRk-RoLX5V5DE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "SF No 14/4, Anaicut Road, Devadanam, Sanjeevi Nagar, Tiruchirappalli",
+      "lat": 10.8351675,
+      "lng": 78.70591399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJyyyaMfj1qjsRNt0GsmlTmxc",
+      "name": "BPCL Petrol Pump Cng",
+      "address": "RPP4+354, Odathurai Road, Sanjeevi Nagar, Tiruchirappalli",
+      "lat": 10.8351425,
+      "lng": 78.7054441,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZXjra9H1qjsRzwWcVIilglQ",
+      "name": "IndianOil",
+      "address": "Sy No 20/4, Ward No 3 Block, 17, Thimmarayasamuthiram, Srirangam, Tiruchirappalli",
+      "lat": 10.841161,
+      "lng": 78.72153899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJt2Hz4Ov2qjsRSGmZzipVRwY",
+      "name": "HP PETROL PUMP - ARUN AGENCIES",
+      "address": "H P Dealers Bikshandarkoil Trichinopoly DT, Koothur",
+      "lat": 10.8902,
+      "lng": 78.7207,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoaCDHVT2qjsRH6FzeaBSwZ8",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 10.9011622,
+      "lng": 78.6975631,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJW7UydwDxqjsRfmHY1hNFFKw",
+      "name": "Kulithai",
+      "address": "VPFX+MFR, Valadi",
+      "lat": 10.8744498,
+      "lng": 78.7490072,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ4RSd2pzxqjsRj96WxdsbL3U",
+      "name": "Essar",
+      "address": "VQF2+P7Q, National Highway 81, Valadi",
+      "lat": 10.8743382,
+      "lng": 78.750749,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJK0k4zav3qjsRLcJnm6M5bjE",
+      "name": "Bharat Petroleum - Mani Service",
+      "address": "WM6X+9QJ, LF Road, Manachanallur",
+      "lat": 10.9109634,
+      "lng": 78.6993883,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJA5HwEwD3qjsRI82knjivTK0",
+      "name": "Bharat Petroleum",
+      "address": "WM6X+CQ4, LF Road, Manachanallur",
+      "lat": 10.9110162,
+      "lng": 78.69944029999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJP-qIUezxqjsRxjRpD07A5nQ",
+      "name": "IndianOil",
+      "address": "RTD 52, Poovalur Road, Lalgudi",
+      "lat": 10.880372,
+      "lng": 78.818929,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkd4ztbHxqjsRsgiO3GEwWz0",
+      "name": "Bharat Petroleum, Petrol Pump -MRV Supplies",
+      "address": "LALGUDI, Tiruchirappalli",
+      "lat": 10.881355,
+      "lng": 78.8195282,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ196IbOzxqjsRISgyIxtq8Ls",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "141, Poovalur Road, Lalgudi",
+      "lat": 10.881801,
+      "lng": 78.819701,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFYJ9mb_vqjsRf15-4sbgtHI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Anbil Road, Lalgudi",
+      "lat": 10.876108,
+      "lng": 78.840847,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJd88sIeHxqjsRBoDuGYzaXyc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Tiruchirappalli, No 52/2A, 52/3A Peruvalanallur West, Lalgudi",
+      "lat": 10.9082142,
+      "lng": 78.82266709999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-8-KkST3qjsReWBzElAQoFU",
+      "name": "Win Power",
+      "address": "India",
+      "lat": 10.9164629,
+      "lng": 78.73167049999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ1_swuyP3qjsRlIDO5iE4OC8",
+      "name": "IndianOil",
+      "address": "No 84/4C, Manachanallur Road, Marudhur",
+      "lat": 10.9148852,
+      "lng": 78.7287085,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7-lQbfHtqjsR4KuXHTi77kE",
+      "name": "essar petrol bunk",
+      "address": "RRPV+428, Kallanai - Thiruvaiyaru Road, Koviladi village",
+      "lat": 10.8352877,
+      "lng": 78.8425724,
+      "open_now": true
+    }
+  ]
+}

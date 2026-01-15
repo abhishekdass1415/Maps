@@ -1,0 +1,67 @@
+{
+  "city": "Champawat",
+  "state": "Uttarakhand",
+  "count": 7,
+  "center": {
+    "lat": 29.35,
+    "lng": 80.05
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJM6yzgh0eoTkRyiBSjJCnu28",
+      "name": "IndianOil",
+      "address": "Ground Floor, Rotala Mara, Karan Karaye,Chalthi",
+      "lat": 29.342161,
+      "lng": 80.09902,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2fw09uHhoDkRGPFG3V4t7NI",
+      "name": "IndianOil",
+      "address": "Ground Floor, Lohaghat Road,Chalthi",
+      "lat": 29.347001,
+      "lng": 80.0972,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAT06UwDnoDkRk4ZQxgLQHYE",
+      "name": "SC joshi and sons filling station",
+      "address": "Dhunaghat",
+      "lat": 29.380199,
+      "lng": 79.97051069999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJd5OiryLgoDkRD3Ple3Pxc8U",
+      "name": "Parvati filling station",
+      "address": "National Highway 125, Lohaghat Range, Lohaghat",
+      "lat": 29.3952379,
+      "lng": 80.0876217,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJi9pP8RfgoDkRnzeachVLPn8",
+      "name": "GAS STATION LOHAGHAT",
+      "address": "93WP+PM2, Lohaghat Range, Lohaghat",
+      "lat": 29.3967704,
+      "lng": 80.08663059999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ2UR5SQDhoDkRAZ_BnMwWkHc",
+      "name": "Shri kripa filling station",
+      "address": "C36Q+JMM, Lohaghat",
+      "lat": 29.4115998,
+      "lng": 80.0891582,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ6S8Rcg_goDkRRJ12YcmpMBQ",
+      "name": "HP PETROL PUMP - BHAGWATI FUELS",
+      "address": "Ground Floor, Raikot Meher, Champawat Pithoragarh Road, Kotsari",
+      "lat": 29.416759,
+      "lng": 80.09996699999999,
+      "open_now": true
+    }
+  ]
+}

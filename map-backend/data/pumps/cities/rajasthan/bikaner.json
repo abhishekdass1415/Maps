@@ -1,0 +1,531 @@
+{
+  "city": "Bikaner",
+  "state": "Rajasthan",
+  "count": 65,
+  "center": {
+    "lat": 28.0167,
+    "lng": 73.3167
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJk6nJxBnmPzkR1uJoFJt1uXo",
+      "name": "HP PETROL PUMP - SHARMA TRAVELS CNG PUMP",
+      "address": "W7PQ+J23, Udai Ramsar Bikaner, National Highway 89, Jodhpur",
+      "lat": 27.93651,
+      "lng": 73.28756,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJk-YOb7XnPzkRCBnz334Ig_w",
+      "name": "IndianOil",
+      "address": "Ground Floor, Vinayak Nagar, Bikaner",
+      "lat": 27.96660099999999,
+      "lng": 73.301102,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtUX2VKvCPzkRbkERzXuzhd0",
+      "name": "IOC Petrol Pump",
+      "address": "behind Siyag Petrol-Pump, C-131, Murlidhar Vyas Colony, Bikaner",
+      "lat": 28.0125893,
+      "lng": 73.27635939999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJa0xCV5HnPzkRz68EDRvFfeg",
+      "name": "IndianOil",
+      "address": "Ground Floor, Gangashahar Road, Bikaner",
+      "lat": 27.9945691,
+      "lng": 73.3063523,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2wiXDQDnPzkRuvboz9umaxI",
+      "name": "Bharat petroleum MAHAVIR AUTO STORES DIESAL 120158",
+      "address": "89, Udairamsar Road, Udairamsar",
+      "lat": 27.9386504,
+      "lng": 73.3015721,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJHbY-FwDpPzkRXuK_KPYq5xw",
+      "name": "Madan lal jat",
+      "address": "272G+72M, Karmisar, Bikaner",
+      "lat": 28.0007168,
+      "lng": 73.2750377,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJPQ5GbgDrPzkRNiHzBHgDnQA",
+      "name": "Siree Chamunda Petrol Pump",
+      "address": "Kolasar, Bikaner",
+      "lat": 27.939817,
+      "lng": 73.1707018,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJGw8Aes_rPzkRsOng7G9Y0dk",
+      "name": "M.s K C Kukna Petroleoum",
+      "address": "Unnamed Road, Kolasar",
+      "lat": 27.9373621,
+      "lng": 73.16704059999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ_SbpTzfvPzkRksQyS9SPdJs",
+      "name": "Bharat Petroleum, Petrol Pump -Lekh Ram Bhadoo",
+      "address": "UDAIRAMSAR NEAR JAIPUR BYP",
+      "lat": 27.8794552,
+      "lng": 73.27556870000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQTsQE4DnPzkRQCV9oWeks60",
+      "name": "IndianOil",
+      "address": "Ground Floor, Hospital Road, Shardul Colony, Bikaner",
+      "lat": 28.011701,
+      "lng": 73.322304,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkws9n33dPzkRy0tEQUvb_co",
+      "name": "IndianOil",
+      "address": "Ground Floor, Gangashahar Road, Bikaner",
+      "lat": 28.012501,
+      "lng": 73.314796,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0U6MoX3dPzkRjSVZOcqBmYM",
+      "name": "Bharat Petroleum, Banshidhar Jaidev",
+      "address": "near Vishal Mega Mart, Gangashahar Road, Dhobi Talai, Bikaner",
+      "lat": 28.0134243,
+      "lng": 73.31523469999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3V-L_nnnPzkR9g0wZzQ9jhg",
+      "name": "HULASH FILLING STATION (BPCL PETROL PUMP)",
+      "address": "5, Industrial Area Road, Rani Bazar, Bikaner",
+      "lat": 27.9946845,
+      "lng": 73.3235985,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJt-D_9XXnPzkR6DHDWLEjoiE",
+      "name": "Bharat Petroleum",
+      "address": "X8VF+XF8, RIICO Industrial Area Road Number 5, Industrial Area, Bikaner",
+      "lat": 27.9949117,
+      "lng": 73.3237134,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJzYJDRe7nPzkRhM_mN4qZ5pU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Patta Misal No 131, Goga Gate, Ambedkar Circle Road, Bikaner",
+      "lat": 28.0058439,
+      "lng": 73.3135508,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM-4_rkznPzkR9HJe6OXaBOo",
+      "name": "R D SARAN HP Petrol Pump",
+      "address": "2847+9C5, Rani Bazar, Bikaner",
+      "lat": 28.0058927,
+      "lng": 73.3136174,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJk4RYnlbrPzkRAT_89oh8wrg",
+      "name": "IndianOil",
+      "address": "Khasra No 575, 18 Kolasar, Hadla Road, Karmisar, Bikaner",
+      "lat": 28.00991389999999,
+      "lng": 73.3161023,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhfLAIvbnPzkRDSu1As_CvnM",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 28.0085357,
+      "lng": 73.2926541,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ21BdTwDnPzkRKtRuIdUFqko",
+      "name": "Neelkanth Petroleum",
+      "address": "near Govind Palace, Nathusar Gate Road, Nehru Nagar, Bikaner",
+      "lat": 28.0085264,
+      "lng": 73.29260719999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJm0MSGzDnPzkR8mr1Ck7863U",
+      "name": "Bharat Petroleum, Petrol Pump -Mahavir Auto Stores",
+      "address": "Ambedkar Circle, Shardul Colony, Bikaner",
+      "lat": 28.0120132,
+      "lng": 73.32215900000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJobvVYCHhPzkRk_0a7GAJzpo",
+      "name": "Shiv Shakti Petrol Pump",
+      "address": "Shivbari Rural",
+      "lat": 27.9924081,
+      "lng": 73.3910087,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJcySR_8PgPzkR-s_jxYGRLNk",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bypass, Shivbari, Pawan Puri, Bikaner",
+      "lat": 27.992701,
+      "lng": 73.388601,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkbca18PgPzkRfDZQGN9oLYs",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 27.9927078,
+      "lng": 73.3909063,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJs__ZSBpJFTkRs7QrUidq_vI",
+      "name": "Mohd Hussain petroleum",
+      "address": "Ridmalsar Sipahiyan",
+      "lat": 28.009234,
+      "lng": 73.4047664,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkYNxbgDhPzkRjBaNShlT0AM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Khasra No 248, 40 SH 20/B, Napasar Road, Sharkajani, Bikaner",
+      "lat": 28.011991,
+      "lng": 73.395562,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEZ4aELfCPzkR2IWVnRi9rbc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Khasra No 50, Ganganagar Road, Nathusar, Antyodaya Nagar, Bikaner",
+      "lat": 28.025101,
+      "lng": 73.26690099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOxhH3zDDPzkRcw192TDgSsI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Hanumat Dhora, near Bikaner, Shobasar Road, Shobhasar, Bikaner",
+      "lat": 28.0674198,
+      "lng": 73.2674041,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOSsOUzfDPzkRmMjMCOcULDI",
+      "name": "IndianOil",
+      "address": "Ground Floor, Pugal Road, Bangalanagar",
+      "lat": 28.0683435,
+      "lng": 73.26513709999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkzePA3fdPzkR_ra7WyFRwqQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Nagar Nigam, Stadium Road, Bikaner",
+      "lat": 28.0265482,
+      "lng": 73.320497,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJF19abbTCPzkRtKMEgrPf78w",
+      "name": "Bharat Petroleum Petrol Pump",
+      "address": "27F9+XVG, Sri Ganganagar Road, Bikaner",
+      "lat": 28.0249429,
+      "lng": 73.26971259999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJzyGFcrTCPzkRSl0k6RSQRrA",
+      "name": "Kalla Petrol Pump",
+      "address": "KALA PANTROL PUMP, GAJNER ROAD, बीकानेर",
+      "lat": 28.0243178,
+      "lng": 73.27220400000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJT0ZM2nXdPzkRZ3AYY6jG7vg",
+      "name": "Bharat Petroleum, Petrol Pump",
+      "address": "near RAILWAY CROSSING, NAL, near RAILWAY CROSSING, Bikaner",
+      "lat": 28.0395814,
+      "lng": 73.21015009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQ6RCU47dPzkR1oi6232QnBk",
+      "name": "Dudi Petrol Pump",
+      "address": "Bikaner - Kolayat Road, Bikaner",
+      "lat": 28.0241879,
+      "lng": 73.29076859999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJp-TQsEXdPzkRTsbMXP0D3gw",
+      "name": "IndianOil",
+      "address": "Ground Floor, Jaisalmer Road, Bikaner",
+      "lat": 28.024099,
+      "lng": 73.290802,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpV1MgWLdPzkRf_V0I3IVxFs",
+      "name": "India Ptrol Pump",
+      "address": "Shop No 01, Main Market, Bikanet Dudi Patrol Pump, Bikaner",
+      "lat": 28.023872,
+      "lng": 73.291314,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJCd3Nd3rdPzkR5xkrc7Hw2IU",
+      "name": "Mr Sonu Sonu",
+      "address": "Shop Number 56, near Indian Oil Pump, near Mandi, Pugal Road, Bikaner",
+      "lat": 28.0385596,
+      "lng": 73.2865267,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJEQu77DDdPzkRdJvel_HCBTE",
+      "name": "IndianOil",
+      "address": "Ground Floor, Pugal Road, Bikaner",
+      "lat": 28.038601,
+      "lng": 73.286903,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPy2J82ndPzkRnCt_oyyvd7s",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near Bikaner Bus Stand, Plot No 121, Old Gajner Road, Bikaner",
+      "lat": 28.0270086,
+      "lng": 73.3014216,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ09jB0mfdPzkRtAx4un9zkYE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, opposite Satellite Hospital, Vaidya Mangaram Colony, Bikaner",
+      "lat": 28.0212176,
+      "lng": 73.3029809,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcUXKawDdPzkRxZKlEZP3pno",
+      "name": "ASHU AUTO STORE INDIAN OIL PETROL PUMP",
+      "address": "28C6+W99, Bikaner Ganganagar, Bikaner",
+      "lat": 28.0222874,
+      "lng": 73.3109947,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ3bui31vdPzkRlNB2OkG_sxc",
+      "name": "Feeling Station",
+      "address": "Bos Felling Station, near Inox Star City Mall, Bikaner",
+      "lat": 28.0229339,
+      "lng": 73.3119124,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJe5SZY7bdPzkRVJfjPgz_Afk",
+      "name": "Prashant Ravindranath Petrol Pump",
+      "address": "Bikaner",
+      "lat": 28.0605144,
+      "lng": 73.2942276,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJtZlRtXvdPzkR1SFQS4gqgKY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Khasra No 393, opposite GPO, Bikaner Fort, Bikaner",
+      "lat": 28.0206623,
+      "lng": 73.3164204,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCz6Gf3PdPzkR5LbBu2mxXl8",
+      "name": "IndianOil",
+      "address": "near Bikaji Food Products, Pugal Road, Karni Industrial Area, Bikaner",
+      "lat": 28.0606111,
+      "lng": 73.3027888,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJD2TGXzbdPzkRqcArw32QNx8",
+      "name": "Vaibhav Filling Station",
+      "address": "Unnamed Road, Preeti Enclave, Karni Industrial Area, Bikaner",
+      "lat": 28.06356229999999,
+      "lng": 73.3012315,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJJ4EGpJndPzkRHREh74GtIfM",
+      "name": "Hp Petrol Pump",
+      "address": "Neha Markete, 202, Bikaner",
+      "lat": 28.0748984,
+      "lng": 73.2886047,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJaX4XprvdPzkRXW2ymv7T53A",
+      "name": "Naman Fuel Centre",
+      "address": "Transport Nagar, Hanuman Hatha, Bikaner",
+      "lat": 28.0284449,
+      "lng": 73.3247605,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZXU6QQDdPzkRHBhfib3HTNE",
+      "name": "Gasonet CNG Station",
+      "address": "F-636, Preeti Enclave, Karni Industrial Area, Bikaner",
+      "lat": 28.0639,
+      "lng": 73.30816600000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6889NaDdPzkRMJtZwNlySVs",
+      "name": "IndianOil",
+      "address": "Ground Floor, opposite Rsrtc Bus Stand, Samta Nagar, Bikaner",
+      "lat": 28.037399,
+      "lng": 73.326698,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9TTrOADePzkRLV_MP-FbY1w",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Radio Station, NH 11, Jaipur Road, Bikaner",
+      "lat": 28.0201917,
+      "lng": 73.3729237,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYYFScQDePzkRixAcdti17PE",
+      "name": "FLAME CARE SERVICE",
+      "address": "opposite Bharat Petrol Pump, National Highway 11, Tilak Nagar, Bikaner",
+      "lat": 28.0202752,
+      "lng": 73.3714328,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEWQq_qbdPzkR3aRUiL8lSgg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Khasra No, C/5 & C/7, Sri Ganganagar Road, Bikaner",
+      "lat": 28.04446879999999,
+      "lng": 73.326774,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmcNJqEjdPzkRJDzExlJ0MYM",
+      "name": "INDIAN OIL",
+      "address": "Shop Number 56, Jai Narayan Vyas Colony, Bikaner",
+      "lat": 28.0209796,
+      "lng": 73.3704382,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJSQpzMADdPzkRFJk-oyRNoeE",
+      "name": "Dudi petrol pump",
+      "address": "386M+X2F, Bichhwal Industrial Area, Bichhwal, Bikaner",
+      "lat": 28.0624422,
+      "lng": 73.3325516,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJA2XjNwDfPzkRQ-PkNOrR7yE",
+      "name": "CNG pump",
+      "address": "near AKASHWANI, BIKANER-DUNGARGARH ROAD, Bikaner",
+      "lat": 28.0208174,
+      "lng": 73.3712633,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ_ZAtuBzfPzkRb5UHN7IMshA",
+      "name": "BHARAT PETROLEUM",
+      "address": "Shop Number 11, Jaipur Road, Bikaner",
+      "lat": 28.0207993,
+      "lng": 73.3714799,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ2wLeNADfPzkRxgVkkCNzEoM",
+      "name": "SUBESH PETROL PUMP",
+      "address": "29CC+6V5, Jaipur Road, Tilak Nagar, Bikaner",
+      "lat": 28.0205233,
+      "lng": 73.37221970000002,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJN_jAHkzcPzkRXwXB-V8PuHo",
+      "name": "CHANDRA SERVICE STATION,BIKANER",
+      "address": "Ground Floor, Sri Ganganagar Road, Bikaner",
+      "lat": 28.0658555,
+      "lng": 73.3402225,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1acWs07cPzkRPdxwwZlN1IQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sri Ganganagar Road, Bikaner",
+      "lat": 28.0670698,
+      "lng": 73.3414805,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQ2WZTEncPzkRz6zO86SyFQM",
+      "name": "nOil",
+      "address": "KM6, Bichhwal, Beechhwal Rural",
+      "lat": 28.0673176,
+      "lng": 73.3413812,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQfeqjHfdPzkRmQizdWdRvHo",
+      "name": "Bharat Petroleum - Karan service station , Petrol Pump",
+      "address": "Bichhwal, Bikaner",
+      "lat": 28.0806649,
+      "lng": 73.3497363,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ30X_YyLePzkRVM1NByU1hfQ",
+      "name": "HP Petrol Pump - Bikaner Filling Station",
+      "address": "Khasra No 327/2, Jaipur - Bikaner Road, Sikar",
+      "lat": 28.0301114,
+      "lng": 73.3955326,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXylE7zlhFTkRvTjgJategqA",
+      "name": "IndianOil",
+      "address": "Ground Floor, Jaipur Road, Gangashahar, Bikaner",
+      "lat": 28.0326001,
+      "lng": 73.407001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0eRyDnTfPzkR9gooh0RvgE8",
+      "name": "SHIV INDIAN OIL PERSNEU",
+      "address": "Shiv Indian oil Persneu Rajaldesar NH 11, Bikaner - Agra Road, jaipur",
+      "lat": 28.0346123,
+      "lng": 73.41370309999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJWzBOTM7bPzkR4tvbolDOve8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Khasra No 786, Kanasar",
+      "lat": 28.143785,
+      "lng": 73.362984,
+      "open_now": true
+    }
+  ]
+}

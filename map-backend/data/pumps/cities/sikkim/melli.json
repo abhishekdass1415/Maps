@@ -1,0 +1,235 @@
+{
+  "city": "Melli",
+  "state": "Sikkim",
+  "count": 28,
+  "center": {
+    "lat": 27.0833,
+    "lng": 88.25
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJLwx3znsu5DkRhQv8qJILjuU",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Bloomfield, Ghoom",
+      "lat": 27.0131001,
+      "lng": 88.2517001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsUNWY-Yt5DkRBEZVJ3iYxS8",
+      "name": "Majidhura Petrol Pump",
+      "address": "253C+VMV, Majdhura, Ghoom Pahar Forest",
+      "lat": 27.0047359,
+      "lng": 88.17167409999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJh7VuGwAr5DkRwglOTKBT9S0",
+      "name": "Bijanbari",
+      "address": "36F2+R65, Pulbazar",
+      "lat": 27.0737604,
+      "lng": 88.19980059999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJpaK1rocu5DkRXiWV04FNjBw",
+      "name": "Dali Petrol Pump",
+      "address": "27F3+JF9, West Point, Darjeeling",
+      "lat": 27.024045,
+      "lng": 88.25373499999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ__8PN9ox5DkROBkSrDAETWs",
+      "name": "Bharat Petroleum",
+      "address": "X79F+289, Hill Cart Road, Sonada",
+      "lat": 26.9675421,
+      "lng": 88.2733524,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFaGgxZAv5DkRR-67JqJHXsE",
+      "name": "IndianOil",
+      "address": "near Railway Road, 799, Hill Cart Road, Darjeeling",
+      "lat": 27.0395001,
+      "lng": 88.264001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJu1F4TK0v5DkRTGjmDwpkRJI",
+      "name": "Bharat Petroleum, Petrol Pump -R.N.Agarwala & Son",
+      "address": "Darjeeling",
+      "lat": 27.040023,
+      "lng": 88.2639003,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_0E_Orkv5DkRxgMtC0QSfPw",
+      "name": "Goenka Petrol Pump",
+      "address": "Bidhan Road, Chauk Bazaar, Darjeeling",
+      "lat": 27.0406896,
+      "lng": 88.2639942,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJv_pt-VIv5DkRZBLSZPWRbH8",
+      "name": "AUTO POINT",
+      "address": "RN Sinha Road, Chauk Bazaar, Darjeeling",
+      "lat": 27.0412185,
+      "lng": 88.2644488,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJd-zkESwv5DkRqgTvF1DUFjI",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Motsr Stand, Kanth Road, Kothi Gaon, Darjeeling",
+      "lat": 27.0454001,
+      "lng": 88.2655001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY1wixV0v5DkRncwNrk037-M",
+      "name": "Bharat Petroleum, Petrol Pump -Auto Point",
+      "address": "N.C.GOENKA ROAD DARJEELI, Darjeeling",
+      "lat": 27.0484156,
+      "lng": 88.262951,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ531eNlXV5TkRRszsI5riTxM",
+      "name": "Eternal Oil Distributor",
+      "address": "Sombaria Bazar, Sombaria",
+      "lat": 27.1424816,
+      "lng": 88.1481711,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJt_dSX7gp5DkR7oq-hzp8w7Q",
+      "name": "IndianOil",
+      "address": "Ground Floor Naya Bazar, Darjeeling - Jorethang Road, km 104, Okharey",
+      "lat": 27.132029,
+      "lng": 88.276215,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM2szlLAp5DkR54Fyu8FTzzY",
+      "name": "Chandra Sales Agency, Bharath Petroleum",
+      "address": "47JG+RJ4, Jorethang",
+      "lat": 27.1320245,
+      "lng": 88.2765731,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKZu3_P4p5DkRxEQai9Kf3S0",
+      "name": "Bharat Petroleum",
+      "address": "47HP+GX5, Jorethang",
+      "lat": 27.129061,
+      "lng": 88.287297,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ9UXMS4cp5DkR8H4YWWs8gWs",
+      "name": "Bharat Petroleum Petrol Pump , HILL SHIP FUELS",
+      "address": "PIPELEYLLEGSHIP ROAD",
+      "lat": 27.146875,
+      "lng": 88.27976819999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhfMa5kMn5DkRO8dkN7FfVAo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Jorethang, Melli - Nayabazar Road, Namchi, Manpur",
+      "lat": 27.1089047,
+      "lng": 88.3245768,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJj9DWpyUo5DkRNCVsiBxjK1Q",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Namchi - Nayabazar Road, Jorethang",
+      "lat": 27.147175,
+      "lng": 88.289457,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ28BCDjYn5DkRPXcQkjzyq5c",
+      "name": "Simbong div",
+      "address": "39J3+M75, Kambal Tea Garden",
+      "lat": 27.0816406,
+      "lng": 88.3532192,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJueUjWcMp5DkR5CrSajyqqzY",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bharikhola,Okharey",
+      "lat": 27.12123,
+      "lng": 88.32036000000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg5rQ3Okn5DkRgu-v7fSP65A",
+      "name": "IndianOil",
+      "address": "Ground Floor, Mickhola, Namchi",
+      "lat": 27.141572,
+      "lng": 88.34678699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXRXe3eOB5jkRCZgD3zfeuQc",
+      "name": "IndianOil",
+      "address": "Khatian 877, Ilaka, Soreng,Okharey, Plot 573/5004, Soreng",
+      "lat": 27.1699974,
+      "lng": 88.1979709,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAULRJYcn5DkRw9SYF1GClAc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, opposite Church, Road, Namchi",
+      "lat": 27.1614642,
+      "lng": 88.3570987,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzasdM3yd5jkRJCfSxlMfxnY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Jorethang Road, Namchi",
+      "lat": 27.16686099999999,
+      "lng": 88.35700299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzVap65oh5DkR5DM4sRcas5o",
+      "name": "HP Petrol Pump PUMP - M/s Shangrila Oil Depot",
+      "address": "&, Nayabazar Road (NH 710), PO, PS:, Melli",
+      "lat": 27.166569,
+      "lng": 88.3619794,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJO4wpaWKd5jkRdoPIQyVZyo4",
+      "name": "MS City Fuels",
+      "address": "Namchi Damthang Road, Namchi",
+      "lat": 27.16692339999999,
+      "lng": 88.36188039999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ0wUddZmd5jkRYzMHi_LE_3M",
+      "name": "IndianOil",
+      "address": "Ground Floor, Nh710, Namchi - Nayabazar Road, Gumpa-Ghurpisey",
+      "lat": 27.169838,
+      "lng": 88.364381,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbes21AWd5jkRxio7EekgOeA",
+      "name": "Devi Fuels and Services",
+      "address": "Namthang, Road, Bhanjyang",
+      "lat": 27.1678364,
+      "lng": 88.36827249999999,
+      "open_now": true
+    }
+  ]
+}

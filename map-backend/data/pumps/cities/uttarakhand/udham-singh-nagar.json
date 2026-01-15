@@ -1,0 +1,1011 @@
+{
+  "city": "Udham Singh Nagar",
+  "state": "Uttarakhand",
+  "count": 125,
+  "center": {
+    "lat": 28.974,
+    "lng": 79.4
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJZUQNykCCCjkRt8KEmCkTlGI",
+      "name": "IndianOil",
+      "address": "Ground Floor, Dhaki",
+      "lat": 28.877701,
+      "lng": 79.352441,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHZYlQROBCjkRU9VzVrkKG-8",
+      "name": "Akshay Filling Station",
+      "address": "NH-9, Bilaspur - Haldwani, Bilaspur",
+      "lat": 28.9245512,
+      "lng": 79.3259468,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaaJ9fdSBCjkRyfBZohTkaXo",
+      "name": "Bharat Petroleum, Petrol Pump -Gurdeep & Company,A/C Bharatpur",
+      "address": "Bharatpur Road, RAMPUR",
+      "lat": 28.9283732,
+      "lng": 79.3323987,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJR1dGzsqBCjkR270xhMWRWgk",
+      "name": "Ravi krishna filling station",
+      "address": "National highway, kathgodam, delhi",
+      "lat": 28.9046025,
+      "lng": 79.2906379,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg4p9irCBCjkRhI5iaUtQG5Q",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kaunsalganj, Ahor",
+      "lat": 28.9374992,
+      "lng": 79.3492997,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg1bjDQCBCjkRyHxYMswZ6OI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, National Highway 9, Bilaspur",
+      "lat": 28.9385504,
+      "lng": 79.3477877,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3zv_qQKECjkRn3p2tU8bmNU",
+      "name": "Bharat Petroleum, Petrol Pump -Puri Filling Station",
+      "address": "BILASPUR , NH87, RAMPUR, RAMPUR",
+      "lat": 28.8963991,
+      "lng": 79.2799472,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJReT5cwCDCjkRVmItHzKz8e0",
+      "name": "BAATH FARM",
+      "address": "V9PH+CV8, Khata",
+      "lat": 28.8860289,
+      "lng": 79.3797069,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJpQsFNJeDCjkRppU9tRhe7NY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Bilaspur, Khata",
+      "lat": 28.8753283,
+      "lng": 79.3803939,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIZEbyCOECjkR0GWJmlFFGYw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Nainital Road, Bilaspur",
+      "lat": 28.887801,
+      "lng": 79.264301,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx0CGpfx5oDkRuVWBrBflGrg",
+      "name": "SHRI GURU NANAK DEV FUELS",
+      "address": "VILL - MANUA PATI, TEH, Baheri",
+      "lat": 28.88587769999999,
+      "lng": 79.39768900000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJa9H3gCuACjkRQofJ9uvFEEk",
+      "name": "IndianOil",
+      "address": "Ground Floor indarpur, Bilaspur",
+      "lat": 28.9529872,
+      "lng": 79.3749071,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS7eQiiSECjkR3_K_VM1WBTs",
+      "name": "IndianOil",
+      "address": "Ground Floor Ahor, Rampur",
+      "lat": 28.886206,
+      "lng": 79.260628,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnYKcOACDCjkR9DIK3lrzfb4",
+      "name": "Dashmesh Fuel Point",
+      "address": "R9X9+WRF, Kesgarh, Bilaspur",
+      "lat": 28.8498018,
+      "lng": 79.3695554,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdaAeHpCHCjkRvTQ5LB-jG0g",
+      "name": "IndianOil",
+      "address": "Ground Floor, Mathkhera Road, Bilaspur",
+      "lat": 28.896099,
+      "lng": 79.254173,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNeg6-SmACjkRdJLCqVAfyUY",
+      "name": "Bharat Petroleum",
+      "address": "X94H+GX4, Bharatpur",
+      "lat": 28.9562619,
+      "lng": 79.37994119999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ84_7z_Z-oDkRZ8jUQyGZ28w",
+      "name": "Bharat Petroleum Gas Station & Petrol Pump",
+      "address": "XC2R+229, Kotha",
+      "lat": 28.9500327,
+      "lng": 79.4401106,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZ8i-_N5_oDkRIdlsipE5mpo",
+      "name": "IndianOil",
+      "address": "Ground Floor, Shimla Pistaur, Rudrapur, Bagwara, Rudrapur",
+      "lat": 28.9302879,
+      "lng": 79.44459049999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQzBheAh5oDkRelOg5idF2Zg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Primary School, Kichha, Darau",
+      "lat": 28.865046,
+      "lng": 79.436757,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJiW6yt7x5oDkRU6FK5JH_y4E",
+      "name": "Gurunanank Fuel Station",
+      "address": "VC7P+XMP, Tanda Chhanga",
+      "lat": 28.8649722,
+      "lng": 79.4367169,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJPZDe4Ad5oDkRNBaw--Vx908",
+      "name": "IndianOil",
+      "address": "Ground Floor, Darau,Bagwara, Darau Road, Darau",
+      "lat": 28.863845,
+      "lng": 79.43609599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJw85AW5x5oDkRHJfhpJVAkMc",
+      "name": "Indian Gas Shop",
+      "address": "1 Kuraiya, Kichha",
+      "lat": 28.8901375,
+      "lng": 79.4563249,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ57GchRF_oDkRWkrianXYhIA",
+      "name": "S.R FILLING STATION Bharat petroleum",
+      "address": "road, shimal pistour, Malsagirdharpur",
+      "lat": 28.9362663,
+      "lng": 79.44958919999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAXlvXvh-oDkRg5r6adUa4W4",
+      "name": "Reliance",
+      "address": "India",
+      "lat": 28.9531282,
+      "lng": 79.4338171,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJp6Pno8B_oDkRleWhEAmwOik",
+      "name": "Hari Om Indial Oil Pump",
+      "address": "near by bigwara, Kichha Road, Bigwara",
+      "lat": 28.95623569999999,
+      "lng": 79.4278787,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJpyXMrxd_oDkRtUnAF2PQ3P4",
+      "name": "IndianOil - SWAGAT",
+      "address": "Ground Floor, NH74, Rudrapur",
+      "lat": 28.95709939999999,
+      "lng": 79.4274425,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJX3lTTql_oDkRKCaEMq5WRlk",
+      "name": "TEJ FUELS -BPCL PETROL PUMP",
+      "address": "VILL.-LALPUR, RUDRAPUR-KICHHA, HIGHWAY, Rudrapur",
+      "lat": 28.9418392,
+      "lng": 79.4569963,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5cKVAOB7oDkRdAHU-2HtEpc",
+      "name": "Bharat Petroleum",
+      "address": "VFQC+C73, Azad Nagar Road, Chhinaki",
+      "lat": 28.8885069,
+      "lng": 79.470682,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJlwkcUw1_oDkRTXC8LiI6Su0",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kashipur - Sitarganj Highway, Lalpur",
+      "lat": 28.9394001,
+      "lng": 79.46119999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJyS1ep5V_oDkRIrkVgnXPEPw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Seer Gotia, Rudrapur",
+      "lat": 28.970805,
+      "lng": 79.397657,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg0KJ6sp_oDkRAgU9fUsISdc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Toll Plaza, NH 74, Kichha Road, Rudrapur",
+      "lat": 28.9341041,
+      "lng": 79.46906450000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJT67Iw_x7oDkRb8bjhC6ss0g",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Khasra No 576, Road, Kichha, Darau",
+      "lat": 28.8920274,
+      "lng": 79.47738729999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJk-LSddt_oDkRZPNVEA1nxmc",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kashipur Road",
+      "lat": 28.9741238,
+      "lng": 79.3873055,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgehvSvN_oDkR56x3B-Vb24w",
+      "name": "IBP Petrol Pump",
+      "address": "08,09, NH 74, Model Colony/ Bali Vihar, Rudrapur, Rudrapur",
+      "lat": 28.9741444,
+      "lng": 79.3872946,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJqwOaTvN_oDkRDsP2r86MJe8",
+      "name": "Dashmesh Oil Nayara Petrol Pump",
+      "address": "25, Kashipur Road, Model Colony/ Bali Vihar, Dashmesh Nagar, Rudrapur",
+      "lat": 28.9743332,
+      "lng": 79.3869764,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8_5yQ4V7oDkRKXX61TpyL9I",
+      "name": "IndianOil",
+      "address": "Bareilly Road, Kichha",
+      "lat": 28.9037682,
+      "lng": 79.5046577,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJu9RkD4Z7oDkRL6HLYHhYxgk",
+      "name": "Gurunanak Motors(Nayara Petrol Pump)",
+      "address": "Khasra No. 284, 286, 287, Kichha - Sitarganj Road, NH - 74, Mangalam Vatika, Kichha",
+      "lat": 28.90850919999999,
+      "lng": 79.5048686,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxwco-pp7oDkRB6mJGQHV7mU",
+      "name": "Tarai Mandal Agency Hindustan Petroleum",
+      "address": "Udham Singh Nagar, NH-74, Kichha",
+      "lat": 28.9002275,
+      "lng": 79.5062375,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6QQVs5h7oDkRJACceXvLxnI",
+      "name": "BHARAT PETROLEUM - PRAKASH PETROLEUM",
+      "address": "Bareilly Road, Kichha",
+      "lat": 28.8923516,
+      "lng": 79.50963569999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2S1y7kd7oDkRGYxT0IWT9zc",
+      "name": "BHARAT PETROLPUMP",
+      "address": "Kichha - Sitarganj Road, TEHSIL, Pipalia",
+      "lat": 28.89512979999999,
+      "lng": 79.54737480000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJb4he2ZJ7oDkREufHpPEdZQ0",
+      "name": "Bharat Petroleum",
+      "address": "Azad Nagar Road, Sirauli Kalan",
+      "lat": 28.8991801,
+      "lng": 79.4938636,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2xivqvR_oDkRzrF_7jb4MZI",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 74, Bypass Road, Kichha",
+      "lat": 28.904023,
+      "lng": 79.4968201,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9y9bCwR9oDkR2AEA_m50zq4",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 74, Chukti, Chattarpur, Rudrapur",
+      "lat": 28.9260859,
+      "lng": 79.4852296,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNyLalDt9oDkRxRudhQBu7Hk",
+      "name": "M A FUELS",
+      "address": "Nh 74 (9, Rudrapur Road, Kichha",
+      "lat": 28.91964309999999,
+      "lng": 79.49854599999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ8ZJiVwB9oDkRtjT85OZ925U",
+      "name": "IndianOil",
+      "address": "INDIAN OIL DEALER, BYE PASS ROAD, Kichha",
+      "lat": 28.9142774,
+      "lng": 79.5032063,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJV2ubt5p7oDkRJhCyrKgsgD8",
+      "name": "Jio-bp",
+      "address": "328 Kha Khatauni No, Khasra No 328 KA, 169 & 185, Sirauli, Kichha",
+      "lat": 28.9026711,
+      "lng": 79.5056171,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL4vZ4n17oDkR80Ft3s-PrII",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Kichha",
+      "lat": 28.9005281,
+      "lng": 79.5061898,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsYUnqGB9oDkRFC-M1PUNyx0",
+      "name": "Bharat Petroleum, Petrol Pump -Kesar Singh & Sons",
+      "address": "SIMLA PISTAUR,RUDRAPUR,US, UDHAM SINGH NAGAR",
+      "lat": 28.91487,
+      "lng": 79.5078897,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJkx21yKt7oDkRFem_AW5d5bk",
+      "name": "Reliance Petroleum",
+      "address": "M/S MADAAN MOTORS, NH-74, POST_OFFICE, :, VILLAGE:SIROALI KALAN, Kichha",
+      "lat": 28.9087212,
+      "lng": 79.50975489999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtZP04oN7oDkRZ3vuB_hzHPE",
+      "name": "HP PETROL PUMP - TARAI MODEL AGENCIES",
+      "address": "Kichha Dist U.s.nagar, Dehradun",
+      "lat": 28.8917755,
+      "lng": 79.5097857,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS3IhDaF7oDkRmlPP6a7hXl8",
+      "name": "भारत पेट्रोलियम",
+      "address": "India",
+      "lat": 28.8881293,
+      "lng": 79.5112353,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJQciV9uF7oDkRm8YHizVH-3Q",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Khasra No 995, Khet No 681 & 682 MIN, 13, Nanak Nagar, Bandia",
+      "lat": 28.914242,
+      "lng": 79.519165,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ93-z0WN8oDkR8KU2NSDYXWs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Kichha Bypass Road, Bareilly - Nainital Road, Haldwani",
+      "lat": 28.93132099999999,
+      "lng": 79.512051,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ893kdQh7oDkRrRqCh3T3ImA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Sathuia, Kichha",
+      "lat": 28.8805601,
+      "lng": 79.5171201,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvxapAgB9oDkRDV97XQz8m40",
+      "name": "Naini Filling Station",
+      "address": "WGJ7+3WP, Kichha",
+      "lat": 28.9317696,
+      "lng": 79.5149228,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJW3zlmol8oDkRCjJBpBY8B4E",
+      "name": "Bharat Petroleum, Petrol Pump -Sagar Transport Company",
+      "address": "BANDIYA PARGANA,KICHHA,US, UDHAM SINGH NAGAR",
+      "lat": 28.9311649,
+      "lng": 79.5170234,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ1TlnlC57oDkRU2cVZy12EBc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Khasra No 126, Sahiya, Kichha",
+      "lat": 28.8801534,
+      "lng": 79.5193863,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ020yG_N7oDkRM8SbajD-Se0",
+      "name": "IndianOil",
+      "address": "Ground Floor Sutuiya, Kichha",
+      "lat": 28.8778181,
+      "lng": 79.518123,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo7mKVFl7oDkRgQ5QhiG9eSw",
+      "name": "RajSheela Filling Station",
+      "address": "Sutuiya",
+      "lat": 28.8766875,
+      "lng": 79.51781249999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ0SWwEwB7oDkRvV8ZtT4k7p0",
+      "name": "Bharat Petroleum - Yash Filling Station",
+      "address": "SATUIA,UP BORDER, KICCHA,U, UDHAM SINGH NAGAR",
+      "lat": 28.8703097,
+      "lng": 79.5162328,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIwrzZBR7oDkREObC1uglbDQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kichha Sitarganj Road Bhanga NH 74, Bagwara",
+      "lat": 28.890155,
+      "lng": 79.53325000000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSSseHKiGCjkRGTignpgEXqI",
+      "name": "Puri Filling Station BPCL",
+      "address": "Bareilly - Nainital Road, Bilaspur",
+      "lat": 28.8616461,
+      "lng": 79.51577429999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJi6hTxtF9oDkRRbfDt_ALmw4",
+      "name": "IndianOil",
+      "address": "Bagwara, Ground Floor, Kanakpur Anandpur, Lalpur Road, Kichha",
+      "lat": 28.9659001,
+      "lng": 79.4801,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbaM0YKR7oDkRwE1ekpAeSYI",
+      "name": "IndianOil",
+      "address": "Ground Floor, Aam Danda, Atamanda",
+      "lat": 28.8510688,
+      "lng": 79.51438250000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFYQO-KJloDkRj0qS9MD5_Ow",
+      "name": "Guru Nanak Highway Fuels",
+      "address": "NH 74 , 4KM From, To, Kichha - Sitarganj Road, Pulbhatta",
+      "lat": 28.8951869,
+      "lng": 79.5473663,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8QXFo-l_oDkRo73DW9hnq3k",
+      "name": "Shakti Oil Corporation",
+      "address": "Shakti Oil Co-orpration (Indian Oil Co-orpration), opp. Corus motors, Nainital road, NH87, Rudrapur",
+      "lat": 28.982259,
+      "lng": 79.400488,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZwbFo-l_oDkRFVFPIJe_svE",
+      "name": "IndianOil",
+      "address": "Ground Floor, Rampur Road, Rudrapur",
+      "lat": 28.9824394,
+      "lng": 79.4002065,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ30kX_n6BCjkRg1EgYSzeX1E",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Khata No 42, Khasra No 610KHA, Lambakhera",
+      "lat": 28.979552,
+      "lng": 79.308206,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQ9GCpWx_CjkRbVuyhcKVqjs",
+      "name": "Bharat Petroleum Petrol Pump , RIDDHI SIDDHI FILLING STATION",
+      "address": "74, Rudrapur Bypass Road, Rudrapur",
+      "lat": 28.9957069,
+      "lng": 79.3231324,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVQNtKSR-CjkRTekNsP6c8r0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Jafarpur",
+      "lat": 28.997621,
+      "lng": 79.320691,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ90ChcnaACjkR1CUxffKWRjY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 74, Kashipur Road, Rudrapur",
+      "lat": 28.9828832,
+      "lng": 79.36023469999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbd14sDZ_CjkR0TWTqyHn62o",
+      "name": "IndianOil",
+      "address": "Ground Floor Jafarpur, Chhatarpur",
+      "lat": 29.0014467,
+      "lng": 79.319677,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoxoLGTB_CjkR28YgxD5qbuc",
+      "name": "Batra filling station",
+      "address": "282C+VJM, Bagwala - Dineshpur Road, Amarpur",
+      "lat": 29.0022166,
+      "lng": 79.3215586,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9U9rMRB_CjkRHrkRnO7JEvg",
+      "name": "IndianOil",
+      "address": "Ground Floor, Dhaulpur NH 74, Rudarpur Kashipur Road,Chattarpur, Rudrapur",
+      "lat": 29.00320009999999,
+      "lng": 79.3063,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzUqCxxB-CjkRZP72h1Rf72Q",
+      "name": "Gurunanak Sales Cng pump Dhoulpur",
+      "address": "Kashipur Road, Khanpur",
+      "lat": 29.0083422,
+      "lng": 79.2965951,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCV-W9eCHCjkRR7E8Tkq096o",
+      "name": "IndianOil",
+      "address": "Ground Floor, Ratanpura, Premnagar, Gadarpur,Adarsh Ngr, Ratanpura",
+      "lat": 28.9857001,
+      "lng": 79.2775001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrd3-AS9_oDkRsVoKBUN3yPk",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bhurarani Road, Rudrapur",
+      "lat": 28.9880177,
+      "lng": 79.3839989,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJU8XfKIF9CjkRYOfrINqngyc",
+      "name": "shri shyam filling station",
+      "address": "277P+P4W, moad, Mahtosh",
+      "lat": 29.0143718,
+      "lng": 79.2853231,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJ1x1gWR_CjkRF7mOze5-AJc",
+      "name": "IndianOil",
+      "address": "Ground Floor Dineshpur, Rudrapur, Anand, Khera",
+      "lat": 29.0301048,
+      "lng": 79.3207317,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2St1JB2AoDkRmDG9qKntgcQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Plot No 133/1, Chattarpur Bhurarani Road, Foji Matkota Road, Dharampur, Rudrapur",
+      "lat": 29.0090177,
+      "lng": 79.38281889999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl3cem9x_oDkR9cTG6KF5z_A",
+      "name": "Bharat Petrol Pump",
+      "address": "Rudrapur",
+      "lat": 28.9764051,
+      "lng": 79.39778629999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJO-ANtdh_CjkRtKMTNPmxQVU",
+      "name": "Biswas Fillings Station",
+      "address": "Dineshpur - Jaferpur Road, Nainital",
+      "lat": 29.03365140000001,
+      "lng": 79.3209917,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe95tIQB_oDkRlV6IfGeGUJA",
+      "name": "Prem Singh and sons Rudrapur",
+      "address": "XCH2+C4H, Rudrapur - Haldwani Road, Rudrapur",
+      "lat": 28.978555,
+      "lng": 79.40035999999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJiaAxXUB_oDkRYP2cS7b7CGY",
+      "name": "BHARAT PETROLIUM PETROL PUMP",
+      "address": "Jagatpura",
+      "lat": 28.9786011,
+      "lng": 79.4004471,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJXXDcM-p_oDkRaX5NytjAdts",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Nainital Road, Rudrapur",
+      "lat": 28.9796701,
+      "lng": 79.40050099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1wBVRR5_oDkRE4xPA7lHxTo",
+      "name": "PAC JANKALYAN SAMITI",
+      "address": "PAC Fuels, 31bn Pac, Rudrapur",
+      "lat": 28.9890309,
+      "lng": 79.3993601,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ3XuwQ-B_oDkRCiSO35XkDAo",
+      "name": "IndianOil",
+      "address": "Ground Floor, Jagatpura, Chhatarpur",
+      "lat": 28.988907,
+      "lng": 79.39967899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoyy66NR_oDkRIoLCfofSCQY",
+      "name": "IndianOil",
+      "address": "Ground Floor, Chattarpur, Jagatpura",
+      "lat": 28.988907,
+      "lng": 79.39967899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe3Lv1sN_oDkRERriMRmnFyU",
+      "name": "Bharat Petroleum, Petrol Pump -Bp-Rudrapur",
+      "address": "COLLECTORATE, Rudrapur",
+      "lat": 28.9947018,
+      "lng": 79.4006977,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvcRHRACBoDkRQKt_lu5QiCI",
+      "name": "GAIL RT Rudrapur",
+      "address": "29CM+RGM, Chhatarpur",
+      "lat": 29.0220754,
+      "lng": 79.38381079999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJQwNUaA6HCjkRfxkb6evfuU4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Khasra No 469, Bilaspur Chakpheri Road, Bosena",
+      "lat": 28.9561266,
+      "lng": 79.2544626,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy8Bnp4J_oDkRDgAToECDXe8",
+      "name": "Bhart Petrol",
+      "address": "Ward no 11, Gangapur Road, Shiv Nagar, Rudrapur",
+      "lat": 28.9761285,
+      "lng": 79.40864859999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJI6avbAB_oDkRAUxzInWqz7g",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Simla Bahadur, Rudrapur",
+      "lat": 28.989736,
+      "lng": 79.417377,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJN_vDIgCBoDkRriUVG6I_qDk",
+      "name": "Indian oil",
+      "address": "2C49+W8X, Rudrapur",
+      "lat": 29.0073645,
+      "lng": 79.41834879999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ4feYliZ_oDkRrNgUbeRGRS0",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kiccha, Chattarpur, Gangapur Patia",
+      "lat": 28.9899875,
+      "lng": 79.4697882,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJk8ZHLc2BoDkRNO982vOCD7g",
+      "name": "Pollution centre & insurance services",
+      "address": "Hamara pump Jainagar 4, Hamara pump Jaianagar",
+      "lat": 29.0367795,
+      "lng": 79.3859757,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ23YqjS-AoDkROosRwTz8ZzU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 4 Matkota, Dineshpur Road, Gadarpur, Jainagar",
+      "lat": 29.036791,
+      "lng": 79.38597399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJO06rEm6BoDkRZHIMHlWoafY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 4 Matkota, Dineshpur Road, Jainagar",
+      "lat": 29.0368013,
+      "lng": 79.3840847,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJO74kxmuBoDkRBnVv5_nLI_w",
+      "name": "Himalayan Petrol Pump and CNG (HP)",
+      "address": "Tehsil Gadarpur, Khasra No.166, Matkota-Dineshpur Road Village Jainagar, Rudrapur",
+      "lat": 29.0370598,
+      "lng": 79.3824473,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ176c_0GHoDkRGPyllK50YGE",
+      "name": "Petrol Pump Pantnagar",
+      "address": "2FFV+239, Pantnagar",
+      "lat": 29.0225266,
+      "lng": 79.4927271,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJAakayYKHoDkRs0jdYrEbRc0",
+      "name": "Nagla Petrol Pump",
+      "address": "2G98+7R3, Pantnagar",
+      "lat": 29.0181484,
+      "lng": 79.5170517,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJD6BwvsCHoDkR4o-bALE3xGA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Nagla",
+      "lat": 29.018151,
+      "lng": 79.517051,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-doGEzR9oDkRCiSBoW6JScE",
+      "name": "Baba Neem Karori Fuel Center",
+      "address": "Shantipuri No.2, near railways station, Pantnagar",
+      "lat": 28.9963295,
+      "lng": 79.5381383,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ39tMNz19oDkRapoFKMmuJII",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Khata No 246, Khasra No 360/2, Kichha, Khamia Block No2",
+      "lat": 28.995621,
+      "lng": 79.543555,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9xyT3e1-CjkRhafS-Cuv1zM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Gadarpur Road, Dineshpur",
+      "lat": 29.050471,
+      "lng": 79.316951,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl1gYiQ9_CjkRVGvitw4kBLw",
+      "name": "Indian Oil Petrol Pump",
+      "address": "28XW+MPV, Gadarpur-Dineshpur-Matkota Road, Buksaura",
+      "lat": 29.0492256,
+      "lng": 79.34681239999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJn-mFlkd_CjkRBA0EONOyAaM",
+      "name": "IndianOil",
+      "address": "Ground Floor, SH 5, Kalinagar, Vijay Nagar",
+      "lat": 29.04912,
+      "lng": 79.35235899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl5ymmM1_CjkR14RlEJOiqKA",
+      "name": "IndianOil",
+      "address": "Ground Floor, Road, Dineshpur",
+      "lat": 29.0506268,
+      "lng": 79.30083979999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJR21NbqmBoDkRrKL6P8WnTLY",
+      "name": "Gurunanak oil ksk",
+      "address": "3822+63X, Gadarpur - Gularbhoj Road, Dineshpur",
+      "lat": 29.05062240000001,
+      "lng": 79.30022199999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJNzGJvNZ_CjkRrdJAX5Sf-A8",
+      "name": "Dev Filling Station",
+      "address": "DEV FILLING, 5, Dines Pur Gularbooj Roode, Nainital",
+      "lat": 29.0800157,
+      "lng": 79.3269352,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ1-l25O99CjkRIAcsJUW-nOY",
+      "name": "IndianOil",
+      "address": "Ground Floor, Gularbhoj Rd Madnapur, Gadarpur",
+      "lat": 29.0819868,
+      "lng": 79.3279412,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOzkV7WJ9CjkRpCeIqhN17lQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Dineshpur Road, Barirai",
+      "lat": 29.046403,
+      "lng": 79.274839,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnXVpBYV9CjkRNTKmC6gjDeg",
+      "name": "VIKAS FILLING STATION",
+      "address": "Bharat Petroleum Dealer, 76min, Gularbhoj Gadarpur Road, Vill. Barakhera, Gadarpur",
+      "lat": 29.0633314,
+      "lng": 79.26658700000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJK4IFpVl5CjkRH99KeAiE5dc",
+      "name": "Bhagwati Filling Station",
+      "address": "Govindpur Road, Gularbhoj",
+      "lat": 29.0952983,
+      "lng": 79.29391629999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs62eaU98CjkRuNhiSlWyJEM",
+      "name": "Shri Ramji And Sons Petrol Pump Bpcl",
+      "address": "27V6+75W, Gadarpur-Dineshpur-Matkota Road, Barakhera",
+      "lat": 29.0432368,
+      "lng": 79.2604649,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMTEYFVp9CjkRJHjFjyrKPJ0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Bilaspur Road, Gadarpur",
+      "lat": 29.0353097,
+      "lng": 79.2546845,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5ZTlLEB5CjkRte40MP66PHM",
+      "name": "Gularbhoj filling station",
+      "address": "Govindpur Road, Gularbhoj",
+      "lat": 29.106409,
+      "lng": 79.3025918,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ9_3EL1F8CjkRoJpdzFpN6O0",
+      "name": "IndianOil",
+      "address": "Ground Floor, Adarshnagar, Gadarpur",
+      "lat": 29.0399001,
+      "lng": 79.25150099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ89sBHGllCjkRzMCKdDnijNc",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kashipur Road, Gadarpur",
+      "lat": 29.0397041,
+      "lng": 79.2508479,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6YaKdVd8CjkRKQeyRIHN9Pg",
+      "name": "HAZARI LAL & COMPANY",
+      "address": "Main road , bara khera, National Highway 74, Gadarpur",
+      "lat": 29.04205799999999,
+      "lng": 79.247936,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDzsdEM-HoDkRWlJSLidtq6o",
+      "name": "Satyam Truk Decoretion",
+      "address": "3G68+73P, Lalkuan",
+      "lat": 29.0607135,
+      "lng": 79.5152044,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ7bNXbViGoDkRlNvxxahyb3M",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bareilly - Nainital Road, Lalkuan",
+      "lat": 29.0659619,
+      "lng": 79.51627289999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2zfhFsCHoDkRX3S-dRJnPPA",
+      "name": "Pollution certificate centre",
+      "address": "3G98+4GW, Bilaspur-Rudrapur-Haldwani Road, Lalkuan",
+      "lat": 29.0678527,
+      "lng": 79.5163225,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ-e1f2t6HoDkRMddCLnKbg1k",
+      "name": "Uttarakhand Diesel Service Shop",
+      "address": "near Mastan Petrol Pump, Lalkuan",
+      "lat": 29.0725038,
+      "lng": 79.51622549999999,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJvfK2cV-GoDkRUQg91QFcZmQ",
+      "name": "MASTAN SERVICE STATION (Dealer-BPCL)",
+      "address": "3GC8+XFV, near Mastan Petrol pump ⛽, Bareilly - Nainital Road, Lalkuan",
+      "lat": 29.072616,
+      "lng": 79.516279,
+      "open_now": true
+    }
+  ]
+}

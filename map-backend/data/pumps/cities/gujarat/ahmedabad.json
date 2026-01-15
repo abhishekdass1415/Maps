@@ -1,0 +1,2539 @@
+{
+  "city": "Ahmedabad",
+  "state": "Gujarat",
+  "count": 316,
+  "center": {
+    "lat": 23.0225,
+    "lng": 72.5714
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJgdaWXD6QXjkRWS6xFYMyKuA",
+      "name": "IndianOil",
+      "address": "Block No 53, A/2, Daskroi, Bakrol Badrabad",
+      "lat": 22.9367761,
+      "lng": 72.5010942,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJE19wBpGaXjkR-4Onz8UrN9g",
+      "name": "Bharat Petroleum Petrol Pump And Online CNG Pump",
+      "address": "Sarkhej-Bavla Road, Sarkhej, Ahmedabad",
+      "lat": 22.9759905,
+      "lng": 72.4882324,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQYw2yoaQXjkRSCPlcFRewpc",
+      "name": "Bharat Petrol Pump Navkar",
+      "address": "XF39+5FC, S.G.Highway,, Ellisbridge, Ahmedabad",
+      "lat": 22.9529495,
+      "lng": 72.468633,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgxF9u8eaXjkR9i_O5jKLU4M",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, National Highway 8A, Sarkhej, Ahmedabad",
+      "lat": 22.9875701,
+      "lng": 72.5065801,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOeDdzsuaXjkRH7s-zRAEfOU",
+      "name": "NAYARA Petrol Pump",
+      "address": "near Makarba Road, 4 rasta, Sarkhej Road, Quresh Nagar Society, Juhapura, Ahmedabad",
+      "lat": 22.99042709999999,
+      "lng": 72.5156236,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJO9K2u8uaXjkRt1JomxQDda0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No, 103/P & 221/P, Sarkhej Vasna Road, Juhapura, Gyaspur, Ahmedabad",
+      "lat": 22.9909901,
+      "lng": 72.5165301,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNbtm2zuFXjkRuDNo1SDcmQc",
+      "name": "Adani Gas CNG Station",
+      "address": "opp. APMC, Vasna Rd, opp. APMC, 132 Feet Ring Road, Vishala, Ahmedabad",
+      "lat": 22.9957517,
+      "lng": 72.53636310000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDe40a7OPXjkRII4GFLFAgq8",
+      "name": "Bharat Petroleum",
+      "address": "Sardar Patel Ring Road, Ahmedabad",
+      "lat": 22.923446,
+      "lng": 72.5510298,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuenavLKRXjkRxEnVDhJ5PLE",
+      "name": "IndianOil",
+      "address": "Sarkhej-Bavla Road, Changodar",
+      "lat": 22.9277502,
+      "lng": 72.4459076,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg-4UOTuFXjkR2tgk_Vtovts",
+      "name": "Shell",
+      "address": "opp. Karishma Complex, nr. Shell Petrolpump, 132, 132 Feet Ring Road, APMC Market, Gupta Nagar, Vasna, Ahmedabad",
+      "lat": 22.99998099999999,
+      "lng": 72.53648,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJD6i5r36FXjkRDVhTEXCvcUA",
+      "name": "IndianOil",
+      "address": "Ground Floor, Opposite Pirana Octroi Naka, Piplaj - Pirana Road, Shahwadi, Ahmedabad",
+      "lat": 22.9744078,
+      "lng": 72.5624161,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2yuupSmbXjkRUoXfjVibbVs",
+      "name": "Shell",
+      "address": "100, 100 Feet Anand Nagar Road, Prahlad Nagar, Ahmedabad",
+      "lat": 23.01214,
+      "lng": 72.5125,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGVGc2CWFXjkRe4TPAukZVlA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near Jivraj Park, Plot No 543/551, Vejalpur Road, Ahmedabad",
+      "lat": 23.006546,
+      "lng": 72.534263,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVVWV8DuaXjkR2wIrxezH58o",
+      "name": "BPCL Petrol Pump",
+      "address": "XCPV+4CQ, near bacha motors, sarkhej, Sarkhej - Sanand Road, Telav",
+      "lat": 22.9853346,
+      "lng": 72.4436046,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoQOCCs-EXjkRZzXvC4gq6FE",
+      "name": "IndianOil",
+      "address": "Ground Floor, Satellite Road, Ahmedabad",
+      "lat": 23.0194842,
+      "lng": 72.52982039999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-SQGSC-DXjkRUm7z3nm7lzQ",
+      "name": "Adani Gas CNG Station",
+      "address": "XFVX+J2R, Sarkhej, nr. Divya Bhasker, SG Highway Service Road, Makarba, Ahmedabad",
+      "lat": 22.9941239,
+      "lng": 72.4975079,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGeoqgumbXjkRUY8cmjBtts4",
+      "name": "SHREE Ramdev PETROLEUM",
+      "address": "Survey no 156, A/2 160/B/2, New Vanzar Road, Ahmedabad",
+      "lat": 22.9489694,
+      "lng": 72.5033158,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkV70IwCRXjkRseZiUfiLSbk",
+      "name": "Shree Ramdev PETROLEUM",
+      "address": "WGX3+G77, Patiya, Vanzar",
+      "lat": 22.9487959,
+      "lng": 72.5031667,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtepjTe6RXjkRv6RzeKnTRPY",
+      "name": "Jio Petroleum",
+      "address": "Ahmedabad",
+      "lat": 22.9478276,
+      "lng": 72.5029954,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJkajRFwCRXjkRSSl-swnemKA",
+      "name": "Nayara Unique Petroleum",
+      "address": "WFQX+RCF, Vanzar",
+      "lat": 22.9395688,
+      "lng": 72.4985402,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0dq4hGqQXjkRYxc6j8mcH2k",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 197, 200, Sardar Patel Ring Road, Daskroi, Visalpur",
+      "lat": 22.9390066,
+      "lng": 72.4945505,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKWD01tSRXjkRqLu97xeKDaY",
+      "name": "Seema CNG Station",
+      "address": "Bakrol to Sanathal, Sardar Patel Ring Road, Ahmedabad",
+      "lat": 22.9422391,
+      "lng": 72.4875282,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5_W4CT-QXjkR33gkFs1jnkM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 197, 200 Feet, Sardar Patel Ring Road, Daskroi, Visalpur",
+      "lat": 22.9361673,
+      "lng": 72.4987925,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHeQGCT-QXjkRbcNyyi3RBPQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 197, 200 Feet, Sardar Patel Ring Road, Daskroi, Visalpur",
+      "lat": 22.9361673,
+      "lng": 72.4987925,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMfoGU3qQXjkRWPgOowXYe_0",
+      "name": "Nayara petrol pump",
+      "address": "XF2J+VV4, Sardar Patel Ring Road, Badrabad",
+      "lat": 22.95212769999999,
+      "lng": 72.4821989,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbcsHlfmRXjkRpcwp4GD6RXQ",
+      "name": "Adani Gas CNG Station",
+      "address": "XF2J+MVR, Badrabad",
+      "lat": 22.9517451,
+      "lng": 72.48215119999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJU89d2MebXjkRr3uNrQJ3UuA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 271, B2, Sarkhej-Bavla Road, Chowkdi, Sanathal, Ahmedabad",
+      "lat": 22.9616801,
+      "lng": 72.476231,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOxsfen-RXjkRcKj0GRsQZhA",
+      "name": "IndianOil",
+      "address": "near Toll Plaza, 200 Feet, Sardar Patel Ring Road, Bakrol, Ahmedabad",
+      "lat": 22.9351699,
+      "lng": 72.5210216,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm28FAt6bXjkRgIYfkU-kXE0",
+      "name": "Gujarat Gas CNG Station Sanathal",
+      "address": "XF6G+RGC, Circle, Sanathal, Ahmedabad",
+      "lat": 22.9620587,
+      "lng": 72.4762628,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJj-uPBNmPXjkRpcYYd5CGsFE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Block No 324B, 200 Feet, S, Sardar Patel Ring Road, Bakrol Badrabad",
+      "lat": 22.9339282,
+      "lng": 72.5239031,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJT-UdF4GQXjkR2gkN-9nOrTE",
+      "name": "Om Gas Agency",
+      "address": "XF39+VPJ, near Ujala Chokdi, Sarkhej - Gandhinagar Highway, Ahmedabad",
+      "lat": 22.9547174,
+      "lng": 72.469273,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJA6Rc1JSaXjkRJOOQclGdEXI",
+      "name": "Nirmal Diesel Service",
+      "address": "XFMV+PCX, National Highway 8C, Sarkhej, Ahmedabad",
+      "lat": 22.984361,
+      "lng": 72.493605,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ16Uwz3uRXjkRqWMXDfa0I8E",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 193/Paiki, Sanand, Navapura",
+      "lat": 22.948478,
+      "lng": 72.463618,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuwfnWQCbXjkRRQw842LRs4k",
+      "name": "M&H Energy Stop",
+      "address": "XFGC+4P, Ahmedabad",
+      "lat": 22.9752619,
+      "lng": 72.4718251,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJrzsjcMabXjkRqGYWh_B9APo",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Bhavani Tractors, NH 8A, Road, Sarkhej, Bavla",
+      "lat": 22.9862817,
+      "lng": 72.4876274,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOQu8sMeaXjkRDzKBLqAkG2w",
+      "name": "L J THAKKER IOC PETROL PUMP",
+      "address": "NH 8, Sarkhej, Ahmedabad",
+      "lat": 22.9882947,
+      "lng": 72.5066904,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB6W-QC6bXjkRQHR3RP91P-s",
+      "name": "TA Gas Technology Co.authorised CNG Kit Technical Centre of India",
+      "address": "opp. Mamta Complex, F-5 Shanti Complex ,besides Jigar Motors, opp. Mamta Complex, Sarkhej - Sanand Road, Sarkhej-Okaf",
+      "lat": 22.98687379999999,
+      "lng": 72.4868068,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVdF3RrWaXjkR5lL3talNmww",
+      "name": "Rumman Gas Service",
+      "address": "Shop no 2, near Bahta School, near Hamza Masjid, Fatehwadi, Juhapura, Ahmedabad",
+      "lat": 22.9864477,
+      "lng": 72.51961469999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJh0kuJwCbXjkRx1Y6CdqVL4Q",
+      "name": "CNG SG highway",
+      "address": "22, Sarkhej - Gandhinagar Highway, Makarba, Ahmedabad",
+      "lat": 22.994062,
+      "lng": 72.4975393,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJM_NNXgCbXjkRUB4xh2Si5XY",
+      "name": "ROYAL PETROLEUM NAYARA",
+      "address": "1, Shantipura Circle, Sardar Patel Ring Road, Ahmedabad",
+      "lat": 22.9861387,
+      "lng": 72.4717339,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJJ2S3Is2PXjkRZIVe_dS0vZs",
+      "name": "IndianOil",
+      "address": "Ground Floor, Daskroi Paldi, Dholka - Ahmedabad Highway, Paldi Kankaj",
+      "lat": 22.9243901,
+      "lng": 72.53840679999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQSwtj5OQXjkRtGB33TQycQ4",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 8A, Sarkhej-Bavla Road, Sarkhej, Changodar",
+      "lat": 22.93802539999999,
+      "lng": 72.4557715,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJd02pjZOQXjkRtrzjoguEfyc",
+      "name": "GUJARAT GAS STATION",
+      "address": "WFQ4+679, National Highway 8A, Changodar",
+      "lat": 22.93803,
+      "lng": 72.455732,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdXF_3yWRXjkRdoElbZG69S4",
+      "name": "Nayara Petrol Pump -Fill N Chill Energy Stop -",
+      "address": "Changodar",
+      "lat": 22.9373125,
+      "lng": 72.4549375,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgTR3zGSPXjkRAYdLaLsl5C0",
+      "name": "Bharat Petroleum Petrol Pump , SHIVGANGA PETROLEUM",
+      "address": "KAMOD-PIPLAJ ROADNR, Gaay Circle, SPRR, Ahmedabad",
+      "lat": 22.9320718,
+      "lng": 72.54630569999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTzmtccqPXjkRLE4EC6Kr0V8",
+      "name": "IndianOil",
+      "address": "No 148/B, Mouje Kamod Pirana Circle 200 Feet Ring Road, NH 47, Ahmedabad",
+      "lat": 22.924721,
+      "lng": 72.543587,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnzEgoo-PXjkRksF_XZ5EWRg",
+      "name": "IndianOil",
+      "address": "Pirana, Aslali Bypass Road, Ahmedabad",
+      "lat": 22.959534,
+      "lng": 72.55433699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5dSMTpWFXjkRtzcZ8x3pQSA",
+      "name": "IndianOil",
+      "address": "Survey No 582, Hotel, near Vishala, 3, Shahwadi Road, Vishala, Ahmedabad",
+      "lat": 22.992001,
+      "lng": 72.536001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJU1LYs9OaXjkR1PywevSf5j4",
+      "name": "Vijay gas services",
+      "address": "4, Shiv Complex, opp. Makarba Road, Shrinand Nagar Part-2, Vejalpur, Ahmedabad",
+      "lat": 23.0019686,
+      "lng": 72.5166041,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQwNuLs6FXjkRkvbLde6fplw",
+      "name": "Bharat Petroleum, Petrol Pump -Deepak Automobiles",
+      "address": "PALDI, AHMEDABAD, Ahmedabad",
+      "lat": 22.9959971,
+      "lng": 72.5373546,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJPQANOACbXjkRwH6eDtQQLvc",
+      "name": "Bharat Petroleum - Shridhar Petroleum",
+      "address": "2F5W+2PH, Karnavati Club Road, Makarba, Ahmedabad",
+      "lat": 23.00757149999999,
+      "lng": 72.496856,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnRNRz82RXjkRau7SbusghME",
+      "name": "Shree krishna petroleum",
+      "address": "Kasindra",
+      "lat": 22.8994899,
+      "lng": 72.4831061,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrR5FnCKRXjkRN8pa-r-R61c",
+      "name": "Essar Petrol Pump",
+      "address": "VFXM+P9R, Kasindra",
+      "lat": 22.8993665,
+      "lng": 72.4833962,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsXLdWgCPXjkR196Pk-hqrV4",
+      "name": "ADANI CNG STATION",
+      "address": "WHF3+RGM, Ahmedabad",
+      "lat": 22.92457629999999,
+      "lng": 72.5538031,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ8yyHLrqPXjkR3iGOfXnbfjI",
+      "name": "Nayara Petrol Pump - Shree Shesh Petroleum",
+      "address": "near centre point hotel, Survey no.420/341 old paldi kankaj, near centre point hotel, Ahmedabad",
+      "lat": 22.8970924,
+      "lng": 72.5197984,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ36Zwvb2RXjkRV3uAlbVcSvo",
+      "name": "Reliance Gas",
+      "address": "India",
+      "lat": 22.8933966,
+      "lng": 72.48884170000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJkRf2iziaXjkRR9QBTbhHIG8",
+      "name": "Ashirvad Petroleum nayara telav",
+      "address": "XCPW+QCJ, Survey No. 478, Sarkhej - Sanand Road, Telav",
+      "lat": 22.9873773,
+      "lng": 72.4476239,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ72E6iiqbXjkRPlt1tCBxD_Q",
+      "name": "Shree Giriraj Auto Gas Agency",
+      "address": "1, Abhilasha Complex, Vejalpur, Railway Station Road, Satellite, Ahmedabad",
+      "lat": 23.0114775,
+      "lng": 72.517659,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQb7YgNWRXjkRdBlMP7Y3hbE",
+      "name": "Jio-bp pulse",
+      "address": "opposite Divya Dham Ashram, Survey No 12A & 17B Sarkhej Bavla Hwy Road, Changodar, opposite Divya Dham Ashram, Moraiya",
+      "lat": 22.9243901,
+      "lng": 72.442484,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMwbKkMSQXjkRteTfXRrJSqM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 18, NH 8A, Rajkot - Ahmedabad Highway, Changodar",
+      "lat": 22.9231801,
+      "lng": 72.4428401,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ____v72FXjkR1YhAljlLHMw",
+      "name": "Unity Petroleum Co",
+      "address": "Opp. P. W. D. Estate, Chandola Talav , Opp. Octroi Naka, Narol Road, Chhipakuva, Ahmedabad",
+      "lat": 22.9846577,
+      "lng": 72.5830603,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6y6Rw5GFXjkRmDPlVDTjr8w",
+      "name": "Rajasthan Petroleum",
+      "address": "XHMM+MGF, Shri Hari Saw Mill Comp, Narol Road, Narol Road, opposite Bombay Hotel, Ahmedabad",
+      "lat": 22.9841832,
+      "lng": 72.5837901,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJGeBkTGCPXjkR7Vt7qwoOJ9k",
+      "name": "IndianOil",
+      "address": "opposite Transport Nagar, NH 8, Narol Circle, Narolgam, Ahmedabad",
+      "lat": 22.9703794,
+      "lng": 72.58908989999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpdWjn_WFXjkR6z_PGc8douU",
+      "name": "Jio-bp",
+      "address": "Survey No 368, FP No 97 NH 8, Isanpur, Ahmedabad",
+      "lat": 22.9744878,
+      "lng": 72.594945,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsatx1o2FXjkRUf7D_hPvZaI",
+      "name": "IndianOil",
+      "address": "Ahmedabad Bombay Road, NH 8, Danilimda, Ahmedabad",
+      "lat": 22.9809923,
+      "lng": 72.5856124,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFdZE1paFXjkR4MibL3mu5jg",
+      "name": "Bharat Petroleum Petrol Pump",
+      "address": "near Chandola, XHRM+25C Narol Road, near Chandola, Lake, Chhipakuva, Ahmedabad",
+      "lat": 22.9900509,
+      "lng": 72.58289119999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJhxjaLaKFXjkRcu1uavt4_XA",
+      "name": "Shell",
+      "address": "BRTS Corridor, Behrampura, Ahmedabad",
+      "lat": 22.996258,
+      "lng": 72.57433,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJE9xIG-aFXjkRyrsux0TAtUM",
+      "name": "Shell",
+      "address": "Sarjak Avanue, Uttamnagar, Maninagar, Ahmedabad",
+      "lat": 22.99202499999999,
+      "lng": 72.60373,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl6qJ1qSFXjkRZqq40lijWtk",
+      "name": "IndianOil",
+      "address": "Ground Floor, opposite St Workshop, Behrampura, Ahmedabad",
+      "lat": 23.0027069,
+      "lng": 72.5792048,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJySNY6sKFXjkRTC4cD6i2jXI",
+      "name": "IndianOil",
+      "address": "near, Fire Station, Maninaga, Rambaug, Maninagar, Ahmedabad",
+      "lat": 22.998413,
+      "lng": 72.601677,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS0d9IMSFXjkRXQkmv6931E0",
+      "name": "IndianOil",
+      "address": "Ground Floor, Besides Apsara Cinema, Kankaria, Ahmedabad",
+      "lat": 23.0036125,
+      "lng": 72.5973374,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-VbgbASFXjkRYdOBdfq-tjs",
+      "name": "IndianOil",
+      "address": "Ground Floor, opposite Jain Merchant, Paldi, Ahmedabad",
+      "lat": 23.0085067,
+      "lng": 72.560295,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ182ofVeEXjkR9y48JI9JoVk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Char Rasta, Paldi, Ahmedabad",
+      "lat": 23.0121991,
+      "lng": 72.5637832,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSZf6uraFXjkRHSimL0iXiZQ",
+      "name": "Adani Gas CNG Station",
+      "address": "Near, Jamalpur St Road, Jamalpur, Ahmedabad",
+      "lat": 23.0115436,
+      "lng": 72.5863791,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUValAsOFXjkRyHfBurfmaQc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "GROUND FLOOR, Maninagar, Ahmedabad",
+      "lat": 23.0118334,
+      "lng": 72.60116909999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6SCv_9iFXjkRId7QyZ-eNlE",
+      "name": "Shell",
+      "address": "near V-Mart, Anupam Cinema Road, Maninagar, Ahmedabad",
+      "lat": 23.006492,
+      "lng": 72.61232,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtUU2jcqFXjkRh0SLHEnZgac",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Astodia Gate Circle, Jamalpur St Road, Ahmedabad",
+      "lat": 23.0167633,
+      "lng": 72.5927942,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8SOr2HeGXjkRQfPrIBXGUkQ",
+      "name": "Bharat Petroleum Pump",
+      "address": "Opp IBP Petrol Pump, Khokhra Road, Shri Khandubhai Desai Marg, Amraiwadi, Ahmedabad",
+      "lat": 23.0080351,
+      "lng": 72.6152316,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxY3ovk2EXjkRE72SmfEGsN0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Victoria Garden, Raikhad, Ahmedabad",
+      "lat": 23.021638,
+      "lng": 72.5814101,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9yWa0qWPXjkR48JTCLwlniE",
+      "name": "Ahmedabad to khatu shyamji",
+      "address": "XH3Q+8CM, Khatu",
+      "lat": 22.9533445,
+      "lng": 72.58855199999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJUVWSjDuPXjkRZ1dsi4OMWqs",
+      "name": "IndianOil",
+      "address": "A Bad, NH-8, Narolgam, Ahmedabad",
+      "lat": 22.963206,
+      "lng": 72.590469,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXRuhom2PXjkRan2hhlQb1-U",
+      "name": "Rudrashi a vaghela",
+      "address": "XH6R+RJ7, Service Road, Narolgam, Ahmedabad",
+      "lat": 22.9620389,
+      "lng": 72.5915593,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJHWdz1FyPXjkRDCX4geoaW6U",
+      "name": "Bharat Petroleum, Petrol Pump -Krishna Petroleum",
+      "address": "Isanpur, Ahmedabad",
+      "lat": 22.9659461,
+      "lng": 72.58948029999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkxyOGO6PXjkR1P5G2qsMrXM",
+      "name": "Patel Durgeshbhai Auto Fuel",
+      "address": "Shoplamba, Lamba Reg Road, Lamba, Lambha, Ahmedabad",
+      "lat": 22.9351427,
+      "lng": 72.5872771,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJGflFbIiPXjkR2hnY5hawvLw",
+      "name": "Yadav Vikash Akhilesh Fuel Pump",
+      "address": "Krish Homes 3, Shop, Lamnba, Ahmedabad",
+      "lat": 22.9351417,
+      "lng": 72.5872996,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJEUpZS2CPXjkRz-1zGLb4BtY",
+      "name": "umiya petroleum",
+      "address": "Indian Oil Petrol Pump, NH228, 382405, Narolgam, Ahmedabad",
+      "lat": 22.9704973,
+      "lng": 72.58857259999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJfYi5J0ePXjkRFG8gSrPscMw",
+      "name": "ર્નસ પેટ્રોલ વોસ",
+      "address": "India",
+      "lat": 22.9530798,
+      "lng": 72.59822969999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJMTJCIxqPXjkR_3fYVG-8g8o",
+      "name": "IndianOil",
+      "address": "200, 132 Feet Ring Road, Dascroi, Lambha, Ahmedabad",
+      "lat": 22.928434,
+      "lng": 72.579544,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL6l5z4iFXjkRbtmJcbBdLcs",
+      "name": "M.S. Service Station",
+      "address": "India",
+      "lat": 22.9765755,
+      "lng": 72.5816526,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJJ-slUPaFXjkRZyW174Cq150",
+      "name": "IndianOil",
+      "address": "near Tax Office, NH 8, Cross Road, Isanpur, Ahmedabad",
+      "lat": 22.9643655,
+      "lng": 72.5983112,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg_vvY_WFXjkRtN05gom05F8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 385/1, TPS, Kavery Society, Isanpur, Ahmedabad",
+      "lat": 22.9727701,
+      "lng": 72.5934201,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpRa8Y_WFXjkRRXdvsjoEB1E",
+      "name": "fuel station",
+      "address": "XHFV+69M, Narol - Naroda Road, Isanpur, Ahmedabad",
+      "lat": 22.9730795,
+      "lng": 72.5934295,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJIUtm33OPXjkRKNw9c_JiAKE",
+      "name": "RJ AND SONS BPCL PETROLPUMP",
+      "address": "opposite SHREENATH ESTATE, NH 48, NR SP RINGROAD CIRCLE, ON SERVICE ROAD, opposite SHREENATH ESTATE, ROAD, NAROL, Aslali, Ahmedabad",
+      "lat": 22.9340726,
+      "lng": 72.5957006,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRXpWiI-FXjkR_A7Pl9t6UyY",
+      "name": "Pinto Petroleum",
+      "address": "XHJH+7W5, Chhipakuva, Ahmedabad",
+      "lat": 22.9806488,
+      "lng": 72.579846,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJH7XxjI-FXjkRErsqYHnSbBY",
+      "name": "Power Petroleum",
+      "address": "XHJJ+G32, Chhipakuva, Ahmedabad",
+      "lat": 22.9812674,
+      "lng": 72.58012939999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJlQ_g9OyPXjkRN5JRAd4NHWo",
+      "name": "Ambica Petroleum",
+      "address": "Survey no 771/A/2/3 & 771/A/2/4 Opposite Mamlatdar Office Aslali-Kamod, Sardar Patel Ring Road, Lambha, Ahmedabad",
+      "lat": 22.9242116,
+      "lng": 72.5609595,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuW9KcgCFXjkRHp7rA0gF6n0",
+      "name": "JIO PETROL PUMP",
+      "address": "XHFV+PXG, Maheccha Society, Rajeswari Society, Isanpur, Ahmedabad",
+      "lat": 22.9741639,
+      "lng": 72.5946881,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJN9T5rCGPXjkRxeD1YBqs-Pk",
+      "name": "Nayara Tirupati Petroleum",
+      "address": "WHJV+2G, Lambha, Ahmedabad",
+      "lat": 22.9298683,
+      "lng": 72.5939349,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVXIrHyGPXjkROb0kzP5VtQ0",
+      "name": "IBP Petrol Pump",
+      "address": "WHJW+37X, Lambha, Ahmedabad",
+      "lat": 22.930234,
+      "lng": 72.5957304,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ9XMpapSPXjkRuPbDAiDhi_Q",
+      "name": "Ks",
+      "address": "WHHW+R64, Lambha, Ahmedabad",
+      "lat": 22.9295078,
+      "lng": 72.5955822,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ57YnOrCPXjkRi2xnubchb9s",
+      "name": "Huma Petrol Center",
+      "address": "Kutbe Alam Society, nr. Vatva, Kenal, Vatva, Ahmedabad",
+      "lat": 22.9597424,
+      "lng": 72.6055748,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ7WJmKCGPXjkRGXt-cHv0tjE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "survey No 133/B, TP4 & FP15/2, near Aslali Junction, Sardar Patel Ring Road, Ahmedabad",
+      "lat": 22.9300181,
+      "lng": 72.5970662,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4YhC3JuFXjkRPyOsZ8q21lY",
+      "name": "Bharat Petroleum, Petrol Pump -Dharmatar Motor Service",
+      "address": "CHANDOLA LAKE, AHMEDABAD, Ahmedabad",
+      "lat": 22.9826953,
+      "lng": 72.585318,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm-WVagCFXjkRFKw04cz4QMA",
+      "name": "Ather point",
+      "address": "XJG2+CPC, Isanpur, Ahmedabad",
+      "lat": 22.976056,
+      "lng": 72.60176249999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ--R3L_GFXjkRO1kzbk_4IuI",
+      "name": "Ruchi Gases Agency",
+      "address": "Bus Stand, Shop No. 9, Anand Shopping Center, opposite Isanpur, Isanpur, Ahmedabad",
+      "lat": 22.979975,
+      "lng": 72.5997802,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnSkK2ZaFXjkRropuULt-rpE",
+      "name": "Adani Gas CNG Station",
+      "address": "Golden Trader Siniyar Complex, Narol Road, Danilimda, Ahmedabad",
+      "lat": 22.9899579,
+      "lng": 72.5830251,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHb44UEGPXjkR4vSh7gFhDHk",
+      "name": "ABC PETROLEUM",
+      "address": "SURVEY NO 268 GAMDI JETALPUR CANAL ROAD S P RING ROAD, TO, ASLALI CIRCLE ROAD, ASLALI, Gamdi",
+      "lat": 22.9306013,
+      "lng": 72.6085913,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVVVVFXGGXjkROYTItOOSf-g",
+      "name": "Shradha HP Filling Station",
+      "address": "41/2/2-1, ARVIND ESTATE PART-2, OPP. Ambica Hotel, B/h. Saraswati Vidhalay, C.T.M, Amraiwadi, Ahmedabad",
+      "lat": 22.9953537,
+      "lng": 72.63482619999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ8Ro26X-IXjkRoFYf8VCYep8",
+      "name": "IndianOil",
+      "address": "Toll Naka, Dascroi, near Ramol, Sardar Patel Ring Road, Ahmedabad",
+      "lat": 22.979502,
+      "lng": 72.663437,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSf-n4RSGXjkRs2N2H5utOhk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "TP Scheme No 50, Mouje Baug E Firdos, near Naroda Highway, Plot No 58/B, Narol - Naroda Road, Ahmedabad",
+      "lat": 22.9989542,
+      "lng": 72.6356299,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZcgy0HmGXjkRSNubXyS-D2k",
+      "name": "IndianOil",
+      "address": "Ground Floor Rakhiyal, Amraiwadi, Ahmedabad",
+      "lat": 23.0108942,
+      "lng": 72.6186288,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdUAjAV6GXjkRsAHz5LgX9gE",
+      "name": "IndianOil",
+      "address": "near Geeta Gauri Cinema, Main Road, Odhav, Ahmedabad",
+      "lat": 23.01847799999999,
+      "lng": 72.639038,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCelNIW6JXjkRGNa28_G63V8",
+      "name": "Bapa sitaram bio diesel",
+      "address": "WJWW+GXG, Vinoba Bhave Nagar, Vinzol, Ahmedabad",
+      "lat": 22.9463145,
+      "lng": 72.64745479999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJK3ZxG_OIXjkRdfFQtl3osrM",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 22.9545767,
+      "lng": 72.6539872,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJNdyankyJXjkRHi_RPObRRFY",
+      "name": "SHIVAM FUEL CENTER",
+      "address": "XM33+XM3, Hathijan Circle, Vinzol, Ahmedabad",
+      "lat": 22.9548958,
+      "lng": 72.654162,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC__WAwCJXjkRhcZnOjQV9Nk",
+      "name": "SHREE KHODIYAR PETROLEUM",
+      "address": "503, Lal Gebi Circle, Vinzol, Ahmedabad",
+      "lat": 22.95492849999999,
+      "lng": 72.6553787,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ37keb_OIXjkRF6LCVgaQafA",
+      "name": "Nayara Petrol Pump - Shree Khodiyar Petroleum",
+      "address": "near Viva farm, Lal Gebi Circle, Vinzol, Hathijan",
+      "lat": 22.9548865,
+      "lng": 72.6553878,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5Zx6niuJXjkRs6H8OkWjt-0",
+      "name": "Adani Gas CNG Station",
+      "address": "XM44+36P, Ahmedabad",
+      "lat": 22.9552107,
+      "lng": 72.65558089999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJORrunwiJXjkRCebk05vTK7c",
+      "name": "IndianOil",
+      "address": "No 504, AGIDC, Phase IV, Ahmedabad",
+      "lat": 22.971001,
+      "lng": 72.641001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIX6vzdmJXjkR9NoYNexu-ww",
+      "name": "PC PETROLEUM-NAYARA PETROLPUMP",
+      "address": "Ropda, Sardar Patel Ring Rd, Vatva, Ahmedabad",
+      "lat": 22.9367422,
+      "lng": 72.6270914,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNUROe5-IXjkRjTzObPJW4Mc",
+      "name": "Adani Gas CNG Station",
+      "address": "XJFQ+RJ4, Vatva GIDC, Ahmedabad",
+      "lat": 22.9745141,
+      "lng": 72.6390759,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6bn-XUSCXjkRV_7iS9hJA70",
+      "name": "IndianOil",
+      "address": "Plot No 635/B, Gidc, Phase 4, Vatva, Ahmedabad",
+      "lat": 22.97458079999999,
+      "lng": 72.6389978,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC658BQCJXjkRwzGyMIIhKPM",
+      "name": "Unique Petrol Pump",
+      "address": "XJFQ+WQF, Phase IV, Vatva GIDC, Ahmedabad",
+      "lat": 22.9746757,
+      "lng": 72.63923419999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ44nW7yyJXjkRXvTCTQigxac",
+      "name": "IndianOil",
+      "address": "Ground Floor, Vatva, Ahmedabad",
+      "lat": 22.936068,
+      "lng": 72.6245254,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ85y1uHKHXjkR42ON8rXhv4M",
+      "name": "Parth Petro Station",
+      "address": "Near Nirmal sarovar, Sardar Patel Ring Road, Vatva, Ahmedabad",
+      "lat": 22.93561009999999,
+      "lng": 72.6239164,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzeyNXgCJXjkRWnovbT2qpHs",
+      "name": "Rakesh Kumar Kayastha",
+      "address": "Chitrakoot society, opp. Hariraj society, 16/A, pandiya road, p d, Vatva, Ahmedabad",
+      "lat": 22.9664196,
+      "lng": 72.6159612,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJt-JxBCePXjkRMVZoDcZkiu8",
+      "name": "Rakesh Kayastha",
+      "address": "Chitrakut society vibhag 2, opp. Hariraj society P d, PD Pandya College Road, Vatva, Ahmedabad",
+      "lat": 22.9690504,
+      "lng": 72.6148256,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJZOPKteIXjkRfRM53uWDp5w",
+      "name": "IndianOil",
+      "address": "Survey No 183, FP No 105, 200 Ft, Sardar Patel Ring Road, Daskroi, Vatva, Ahmedabad",
+      "lat": 22.9324158,
+      "lng": 72.6155077,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfwQXdHuIXjkRIUEQGISfzLQ",
+      "name": "Adani Gas Limited - CGS",
+      "address": "XMC9+XQQ",
+      "lat": 22.972452,
+      "lng": 72.6694981,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJKz57riqHXjkRYHmzbNZvZpE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 624/3, Ramol, Ahmedabad",
+      "lat": 22.9842601,
+      "lng": 72.6518201,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDctyspiJXjkR4JEGQubmrrw",
+      "name": "રામોલ ટુલ બુથ પાસે, સર્વે નંબર ૮૨/૫.",
+      "address": "XMJ7+425, Ramol, Ahmedabad",
+      "lat": 22.9802735,
+      "lng": 72.6625979,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJxVpWWxaHXjkRhBxdpTy5sQ4",
+      "name": "K.G.N NAGAR OPPOSITE PAPER MILL JANTANAGAR RAMOL",
+      "address": "opposite paper mill, K.g, Ramol - Janta Nagar Road, n nagar, Ahmedabad",
+      "lat": 22.9851633,
+      "lng": 72.65178399999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJfUY5SiqPXjkRlk1AGmcg7jc",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 22.9312891,
+      "lng": 72.6108007,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJRe6JDwCHXjkRWLkxJnFXtwY",
+      "name": "Petrol Pump",
+      "address": "opp. Hanuman Temple, New Maninagar Cross Road, CTM - Ramol Road, Ahmedabad",
+      "lat": 22.9879091,
+      "lng": 72.64444809999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJY__QF7-PXjkRomOuAz5fc5U",
+      "name": "MK Petrolium (BPCL Pump)",
+      "address": "Ashlali-vatva ring road vatva gam Ashlali, ring road, Vatva, Ahmedabad",
+      "lat": 22.931233,
+      "lng": 72.6103754,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ14seeYqHXjkRqVszJsAmp-g",
+      "name": "Nayara Petrol pump",
+      "address": "800, Janta Nagar, Ahmedabad",
+      "lat": 22.9883743,
+      "lng": 72.6453181,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJx5a-3faHXjkRy13PGdFifPY",
+      "name": "Shell Petrol Pump",
+      "address": "Narol - Naroda Road, Ahmedabad",
+      "lat": 22.987129,
+      "lng": 72.626876,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL2P1QACJXjkRyFmJJJBRbtQ",
+      "name": "Jai Ambe gash Goadawn",
+      "address": "XM3P+7PP, Daskroi, Ahmedabad",
+      "lat": 22.953204,
+      "lng": 72.6868293,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJMVVgfleGXjkRAJtkU6zdf2k",
+      "name": "IndianOil",
+      "address": "NH 8, Cross Road, Isanpur, Ahmedabad",
+      "lat": 22.9796942,
+      "lng": 72.6056594,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpwlavkiJXjkRIj3Q0rlJhzc",
+      "name": "Parmeshwar Petroleum",
+      "address": "Memdabad, Dakor Road, Vanch",
+      "lat": 22.9291551,
+      "lng": 72.6854803,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkTpvIcyEXjkRgi4WumZjeAE",
+      "name": "Be Queen Boatique",
+      "address": "2GGG+QCX, GROUND FLOOR, opposite Bharat Petroleum Petrol Pump , GANESH PETROLEUM, Jodhpur Char Rasta, Ahmedabad",
+      "lat": 23.026976,
+      "lng": 72.52609799999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJK5A36UybXjkR1CGTixgYpBc",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Judges Bunglow Road, Bodakdev, Ahmedabad",
+      "lat": 23.04119949999999,
+      "lng": 72.5186922,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeXQRnxKbXjkRuRoXRbEMNwc",
+      "name": "Shell",
+      "address": "Taluka Dascroi, Ambli Road, Ahmedabad",
+      "lat": 23.028103,
+      "lng": 72.48526,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJt8ru_EmbXjkRgvNqqlPMSm0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near Satyagrah Chhavni, Plot No 31, Bodakdev, Ahmedabad",
+      "lat": 23.0331629,
+      "lng": 72.5139068,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJA_c2SkmbXjkRcg7F2ayvoSM",
+      "name": "Bharat Petroleum - Shraddha Petroleum",
+      "address": "near Judges Bungalow Road, Premchandnagar Road, near Judges Bungalow Road, Bodakdev, Ahmedabad",
+      "lat": 23.0382953,
+      "lng": 72.5133816,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPf0-0M-EXjkRvobYTllauDo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, 132 Feet Ring Road, Satellite, Jodhpur",
+      "lat": 23.0237242,
+      "lng": 72.5299447,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJa1lhZXWbXjkRdDQp4f9Cs7g",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 61, near Sardar Patel Ring Road, 67/60, Bopal, Ahmedabad",
+      "lat": 23.0304051,
+      "lng": 72.4738759,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsSeNWbaEXjkRidQm2JtIV8Q",
+      "name": "Bharat petroleum",
+      "address": "लेक, opposite Vastrapur Road, Sargam Marg, Mahavir Nagar society, Vastrapur, Ahmedabad",
+      "lat": 23.0371599,
+      "lng": 72.52852090000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg7ion72EXjkRJwFUZ2Ow0O4",
+      "name": "Adani Gas CNG Station",
+      "address": "2GVV+V4M, near Helmet Cross Road, Drive In Road, University Area, Ahmedabad",
+      "lat": 23.0447022,
+      "lng": 72.5428101,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJX9zpcVObXjkRaHO0MdLfFtw",
+      "name": "132KV Torrent Power substation",
+      "address": "A-206, Drive In Road, Patel Society, Jai Ambe Nagar, Thaltej, Ahmedabad",
+      "lat": 23.0497193,
+      "lng": 72.5182018,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ3x9sQqicXjkRf8L0sYkwkXs",
+      "name": "Shell",
+      "address": "opp. to Narayanan Palace, 4, Zydus Hospital Road, Ahmedabad",
+      "lat": 23.057472,
+      "lng": 72.51019,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJ7a1XbuEXjkRSB4bCYz4dso",
+      "name": "IndianOil",
+      "address": "Survey No 107, near TVS showroom, 1/2, IOC Petrolium, Memnagar, Ahmedabad",
+      "lat": 23.0461317,
+      "lng": 72.53884029999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg8BObeaEXjkRhux8b9HuCLg",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Old Goverment Polytechnic College, Ambawadi, Ahmedabad",
+      "lat": 23.0239975,
+      "lng": 72.5490092,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJF5sasE2DXjkRpji8JReSeEo",
+      "name": "Bharat Petroleum, Petrol Pump -Mody Service Centre",
+      "address": "GHATLODIA, AHMEDABAD, Ahmedabad",
+      "lat": 23.0623216,
+      "lng": 72.5308633,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBeW-tKGEXjkR1EpMdk78MOA",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sola Road, Memnagar, Ahmedabad",
+      "lat": 23.056253,
+      "lng": 72.542389,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtSPeUVeDXjkRINRcfcgECKY",
+      "name": "HP MS/HSD HP COMCO SOLA ROAD",
+      "address": "B-1, Sola Rd, Tulsi Bunglows, Thaltej, Ahmedabad",
+      "lat": 23.0631194,
+      "lng": 72.53171979999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ74fXt6uIXjkRpGle8DRzq5M",
+      "name": "Taiyo Solar",
+      "address": "501 Vrundavan Enclave Near Reliance Petrol Pump, Ahmedabad",
+      "lat": 23.03846829999999,
+      "lng": 72.5540506,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJw0OwxZ6EXjkR3ihd2rbKpig",
+      "name": "Shell",
+      "address": "132 Feet Ring Road, Ahmedabad",
+      "lat": 23.05496,
+      "lng": 72.54808,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJt4YzPJCEXjkRrf8_rMdurbw",
+      "name": "IndianOil",
+      "address": "near Darpan Circle, 6th, Vijay Cross Road, Ahmedabad",
+      "lat": 23.0474666,
+      "lng": 72.5550901,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJh2BKpI6EXjkRWIoSQM_53QM",
+      "name": "IndianOil",
+      "address": "Ground Floor, near SARDAR PATEL STADIUM, Saint Xavier's School Road, Navrangpura, Ahmedabad",
+      "lat": 23.0445025,
+      "lng": 72.5609958,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ58y7GhuDXjkRtn4A6fbjrAU",
+      "name": "Bharat Petrol Pump",
+      "address": "Gaurav Path, Shastrinagar, Nirnay Nagar, Ahmedabad",
+      "lat": 23.06440449999999,
+      "lng": 72.5485655,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq3sp8ViEXjkR_OPxshKVw-I",
+      "name": "Bharat Petroleum",
+      "address": "behind Karaka Building, Ashram Road, Muslim Society, Navrangpura, Ahmedabad",
+      "lat": 23.03102720000001,
+      "lng": 72.56982359999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdbrNMmOEXjkRTIJL9RxXJoQ",
+      "name": "Bharat Petroleum, Petrol Pump -Sir Arvind Petroleum",
+      "address": "USMANPURA, AHMEDABAD, Ahmedabad",
+      "lat": 23.050957,
+      "lng": 72.5716441,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqarYxG-DXjkRg_8LTPJ4cbg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near Deshwali Society, FP No 247, KK Nagar Road, Ghatlodiya, Ahmedabad",
+      "lat": 23.074187,
+      "lng": 72.554932,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs52SbZiEXjkRvfdjjez2Hi0",
+      "name": "IndianOil",
+      "address": "near Pujya Ravi Shankar Maharaj Fly Overbridge, Survey No 192/2, 132 Feet Ring Road Sola, near Pujya Ravi Shankar Maharaj Fly Overbridge, Cross Road, Memnagar, Ahmedabad",
+      "lat": 23.0496884,
+      "lng": 72.54503009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKS0IOnWbXjkRftYZXfYDg30",
+      "name": "IndianOil",
+      "address": "Block No 303, Ambli - Bopal Road, Ahmedabad",
+      "lat": 23.0293065,
+      "lng": 72.4749805,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJv1VO9wubXjkRf8nA3MEyO4w",
+      "name": "Vasuki Group-Logistics Company/Petroleum/Cement/Best Coal Supplier in Ahmedabad",
+      "address": "20th, Privilon, nr. Iskcon Cross Road, A - 2007, Ambli - Bopal Road, Ahmedabad",
+      "lat": 23.027857,
+      "lng": 72.5055187,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJa_1lKrmbXjkRpPFMOrjhe_A",
+      "name": "ZS Motors",
+      "address": "Surya Nagar, Satellite, Ahmedabad",
+      "lat": 23.0317977,
+      "lng": 72.5117344,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJpWn4tOubXjkRNmOp7B1P1iI",
+      "name": "Nayara Petrol Pump - Yashkalgi Petroleum",
+      "address": "opp. Shilp Epitome, behind Rajpath Rangoli Road, Ahmedabad",
+      "lat": 23.0359446,
+      "lng": 72.5036908,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvc1wb4abXjkR27Iw1ft1yO8",
+      "name": "JP ENERGY",
+      "address": "Plot No 46, 5, Billionaire Street, Bodakdev, Ahmedabad",
+      "lat": 23.0370964,
+      "lng": 72.4947801,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbXUujmmbXjkRKvnwqpBw6og",
+      "name": "NAYARA",
+      "address": "2FPV+VWM, Chhanalal Joshi Marg, PRL Colony, Thaltej, Ahmedabad",
+      "lat": 23.0372203,
+      "lng": 72.4948086,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ7U4ilrqbXjkRpWecCI01kgw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Scheme 4, Town Planning, Plot No 192, Jodhpur Village, Ahmedabad",
+      "lat": 23.0177947,
+      "lng": 72.51875629999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCxHFVgCbXjkR9S1MQrJZOvQ",
+      "name": "Bharat Petroleum - Shree Jahu Petroleum",
+      "address": "2FVX+26M, Taste temple Hebatpur, Sindhu Bhavan Marg, PRL Colony, Thaltej, Ahmedabad",
+      "lat": 23.0425509,
+      "lng": 72.4980507,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx_zLOoObXjkRY630zwYGn1k",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sarkhej - Gandhinagar Highway, Bodakdev, Ahmedabad",
+      "lat": 23.04129069999999,
+      "lng": 72.5125992,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpSwEYQCbXjkRpFQ8xvOg3-M",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "TP No 204, FP No 367, Vejalpur, Ahmedabad",
+      "lat": 23.0149893,
+      "lng": 72.4792334,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJze9ONgCbXjkRqjKN_PI5mms",
+      "name": "SHREE VISAT PETROLEUM",
+      "address": "2F7H+WJ3, SOBO Center Road, South Bopal, Bopal, Ahmedabad",
+      "lat": 23.0147514,
+      "lng": 72.479055,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJrd2W97WFXjkRJNH5519h_iE",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Sachin Tower, 100 Feet Anand Nagar Road, Vejalpur, Ahmedabad",
+      "lat": 23.01302699999999,
+      "lng": 72.523872,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM-olFwubXjkRExo3wOZFPE4",
+      "name": "Avani Group-Committed to Quality , Service & Solutions",
+      "address": "Amrapali Axiom Office no 34, 2nd Floor Bopal, Junction, Sardar Patel Ring Road, Ambli, Ahmedabad",
+      "lat": 23.0270008,
+      "lng": 72.4770748,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXbYlMQubXjkRDV1yCw2I4NA",
+      "name": "Eptech Petroleum Pvt Ltd",
+      "address": "160/2, Sardar Patel Ring Road, Naroda, Ahmedabad",
+      "lat": 23.0282663,
+      "lng": 72.4771631,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJlwQCd3SbXjkRsrr-g27Wr6k",
+      "name": "IndianOil",
+      "address": "near Bopal, SP Ring Road, near Bopal, Junction, Ambli, Ahmedabad",
+      "lat": 23.032814,
+      "lng": 72.479004,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtwP7b_GFXjkRfDE3SXSikmc",
+      "name": "Bharat Petroleum Petrol Pump , GANESH PETROLEUM",
+      "address": "NEAR, Jodhpur Char Rasta, TEKRA, Ahmedabad",
+      "lat": 23.0266496,
+      "lng": 72.526073,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJheppT8qEXjkRm-v6Kzm-WUI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "TPS No 1, Plot No 42/3, Vastrapur, Ahmedabad",
+      "lat": 23.0320082,
+      "lng": 72.5244362,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJteKCO7ubXjkRK2-XtJpnCIA",
+      "name": "UMA FUEL SPOT",
+      "address": "Near, Vakil Saheb Bridge, Ahmedabad",
+      "lat": 23.0327242,
+      "lng": 72.47868919999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvzX3HQCbXjkRg5---x8cnxI",
+      "name": "Bharat nagar Bhavnagar",
+      "address": "9, Axiom-2, near ISCON PLATINUM, Sardar Patel Ring Road, Bopal",
+      "lat": 23.031368,
+      "lng": 72.47755200000002,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJXdgqNUSEXjkRg95o1zj2pHM",
+      "name": "Adani Gas CNG Station",
+      "address": "2HJM+WM5, Mirzapur Road, Mirzapur, Bhadra, Ahmedabad",
+      "lat": 23.0322562,
+      "lng": 72.58422709999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ53aK4DaEXjkRd4zlUZnONug",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, nr. Zakariya Street, near Masjid Road, Ahmedabad",
+      "lat": 23.02745699999999,
+      "lng": 72.595914,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM2vaX12EXjkRmin18sV0jvM",
+      "name": "Bharat Petroleum Petrol Pump , VATSAL PETROLEUM",
+      "address": "Shahpur, Ahmedabad",
+      "lat": 23.0401564,
+      "lng": 72.5781921,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkdfFXySEXjkREYguK0wqckc",
+      "name": "Bharat Petrol Pump",
+      "address": "2JP4+CGX, Nutan Mill Road, Asarwa, Saraspur, Ahmedabad",
+      "lat": 23.0361194,
+      "lng": 72.606369,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJnZw73k6EXjkRRB7me99SNvQ",
+      "name": "HP PETROL PUMP NEW RELIEF SERVICE STATION",
+      "address": "H P, Petrol Pump, Relief Road, Patthar Kuva, Ahmedabad",
+      "lat": 23.026258,
+      "lng": 72.5841453,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMZjrykWEXjkRPyz65NrAZSY",
+      "name": "Bharat Petroleum - Auto Services",
+      "address": "2HJM+WM5, nr rani rupmati masque nr, Mirzapur Road, Mirzapur, Bhadra, Ahmedabad",
+      "lat": 23.0322277,
+      "lng": 72.5842059,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJky1TkkKEXjkRtoMmVLtYg1g",
+      "name": "J Rasiklal And Company",
+      "address": "2HQJ+QM6, Outside Shapur Gate, Ahmedabad",
+      "lat": 23.03940660000001,
+      "lng": 72.58164169999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvQbSQEKEXjkRrS8YOdtBQAk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "FP No 109 to 112, opposite Halimkhadki, Plot No 3, Shahpur, Ahmedabad",
+      "lat": 23.036466,
+      "lng": 72.586816,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM-jSTECEXjkRpwtaxEjD5sc",
+      "name": "Bharat Petroleum",
+      "address": "near Delhi Gate, Shahibaug Road, Hatisingwadi, Bardolpura, Madhupura, Ahmedabad",
+      "lat": 23.039451,
+      "lng": 72.5885105,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCyM2gGqEXjkRuqVaNjosASg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Shahibaug Road, Ahmedabad",
+      "lat": 23.0414769,
+      "lng": 72.5887274,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_7TpkS-EXjkRdJmN2USRgXw",
+      "name": "IndianOil",
+      "address": "FP No 81, Tps No 16 Shaherkotda, Saraspur, Ahmedabad",
+      "lat": 23.031097,
+      "lng": 72.605255,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFUsKXG2EXjkRmrASBwKAncg",
+      "name": "Bharat Petroleum",
+      "address": "Near Shahibuag Underbridge, Doctor Ambedkar Road, Dudheshwar, Ahmedabad",
+      "lat": 23.0526861,
+      "lng": 72.5903415,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVfCJMCiEXjkRBOTjh4bpYo4",
+      "name": "IndianOil",
+      "address": "Near, Milan Everest Cinema Road, Krishna Nagar, Saraspur, Ahmedabad",
+      "lat": 23.0305456,
+      "lng": 72.61418929999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDeM6CiGEXjkRYDtxNb9fWdA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Naroda Road, Ahmedabad",
+      "lat": 23.0409101,
+      "lng": 72.6109101,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9YGxSIKGXjkRIlA379xD4ME",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Hindihigh School, Bapunagar, Ahmedabad",
+      "lat": 23.0290243,
+      "lng": 72.61710649999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ1Hlg4CGXjkRA-KL9oc5jB4",
+      "name": "IndianOil",
+      "address": "Ground Floor, Rakhial Road, Gomtipur, Ahmedabad",
+      "lat": 23.022032,
+      "lng": 72.618484,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq6qq6o-GXjkRK_MMgxZOBw0",
+      "name": "Ambica Pumps",
+      "address": "42/43, Kamdar Industrial Estate, Bapu Nagar, Opposite Stadium;nr Panna Estate, Bapu Nagar, Ahmedabad",
+      "lat": 23.0329223,
+      "lng": 72.6284105,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJRytTzaOGXjkR76FamKcBIdI",
+      "name": "Shell",
+      "address": "Naroda Road, D Colony, Ahmedabad",
+      "lat": 23.04803099999999,
+      "lng": 72.6218,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3_Y525CGXjkRKR3T52wun8o",
+      "name": "Omkar Motors Vipulbhai",
+      "address": "Swaminarayan Temple India colony, Bapunagar, Ahmedabad",
+      "lat": 23.0392792,
+      "lng": 72.6292074,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZxIXPsaGXjkRftnRsK26_wA",
+      "name": "Adani Gas CNG Station",
+      "address": "11, Sardar Road, Krishnanagar, Ahmedabad",
+      "lat": 23.0579494,
+      "lng": 72.64321919999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgVpWgOqGXjkRL-WNviZwulw",
+      "name": "Har Siddhi Service Station",
+      "address": "2JWR+VMJ, Thakkarbapanagar, Ahmedabad",
+      "lat": 23.0472085,
+      "lng": 72.64162639999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJS3xbtbuGXjkRWSSiNDxP1QE",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Anand sugical hospitalc, Naroda Road, Memco, Ahmedabad",
+      "lat": 23.0545781,
+      "lng": 72.6313323,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMYzMmKOGXjkRacjod2EXmHQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, opposite Vijay Mills, Naroda, Ahmedabad",
+      "lat": 23.049978,
+      "lng": 72.6235927,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJO2Kij8yGXjkRWrgQvf2Ihsc",
+      "name": "IndianOil",
+      "address": "Ground Floor, Naroda - Dehgam Road, Saijpur Bogha, Bilasiya",
+      "lat": 23.0686123,
+      "lng": 72.6455063,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJyRPR5cyGXjkRWpH3mZGcWHI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Naroda Road, Saijpur Bogha, Ahmedabad",
+      "lat": 23.0691901,
+      "lng": 72.64702009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9YMjrtaAXjkRc5EbqyG6hoM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "P, FP No 75/1, Survey No, 516/2, Naroda - Dehgam Road, Naroda, Ahmedabad",
+      "lat": 23.0798301,
+      "lng": 72.6678501,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJG0FrXD6EXjkRL-pHSOVPu6o",
+      "name": "IndianOil",
+      "address": "opposite Dariyapur Gate, Idgah Chowk, Bardolpura, Dariyapur, Ahmedabad",
+      "lat": 23.0396929,
+      "lng": 72.5956001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGeYSW86FXjkRvrakFcWpIp0",
+      "name": "Bharat Petroleum",
+      "address": "2J62+RCJ, Sher Kotda Road, Kankaria, Sherkotda, Ahmedabad",
+      "lat": 23.0120972,
+      "lng": 72.6010072,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJD1aP5YqGXjkR40jAHtOpdF8",
+      "name": "Maruti Automobile & Service Station",
+      "address": "India",
+      "lat": 23.0259793,
+      "lng": 72.6367838,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJjTKnpQWHXjkR2Qs1PS4lCNY",
+      "name": "Distv",
+      "address": "C2, Virat Nagar, Odhav, Ahmedabad",
+      "lat": 23.0269321,
+      "lng": 72.645422,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJR_numHaHXjkRCXl-n4elAOM",
+      "name": "Indian Gas",
+      "address": "Viratnagar Road, Virat Nagar, Odhav, Ahmedabad",
+      "lat": 23.0261696,
+      "lng": 72.636389,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJbxvc9FmGXjkRIRrnE1XoxQ8",
+      "name": "Radhe Gas Agency",
+      "address": "2J9X+VM4, Rabari Vasahat, Rabari Colony, Odhav, Ahmedabad",
+      "lat": 23.0196335,
+      "lng": 72.64919019999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDWMEY-SHXjkR6Td_IMkm4HQ",
+      "name": "Bharat Petroleum, Petrol Pump - Neelu Motors",
+      "address": "VIRATNAGAR, AHMEDABAD",
+      "lat": 23.0303204,
+      "lng": 72.639459,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAV2Ekv6GXjkR907uS_gm1yc",
+      "name": "Patel Auto Gas",
+      "address": "8, Virat Nagar Road, Virat Nagar, Ahmedabad",
+      "lat": 23.0305049,
+      "lng": 72.63939230000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ____vwCHXjkRNQUwtNzhR5A",
+      "name": "Auto Pump Mfg. Co.",
+      "address": "L-448, G I D C Industrial Estate, Near State Bank Of India, Odhav, G I D C Industrial Estate, Ahmedabad",
+      "lat": 23.0214285,
+      "lng": 72.65083539999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ69OLSPOGXjkR_bQXF-CbaUM",
+      "name": "Yogiraj Petroleum",
+      "address": "Jay Shree Estate, Near Narayan Nagar,National Highway.8,Odhav, Rehmat Nagar, Ahmedabad",
+      "lat": 23.0311025,
+      "lng": 72.639438,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLQqE3SSDXjkRyLUc-V5Lb9A",
+      "name": "IndianOil",
+      "address": "Ground Floor, Gota, Ahmedabad",
+      "lat": 23.094398,
+      "lng": 72.535843,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwelBibOCXjkRN6X6pPvIiig",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 185, opposite green wood, 2/200, Sardar Patel Ring Road, Ahmedabad",
+      "lat": 23.1323101,
+      "lng": 72.524475,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1Uo3jAWDXjkRcZv4IjK69RA",
+      "name": "Adani Gas CNG Station",
+      "address": "a 302, Chenpur Road, New Ranip, Ranip",
+      "lat": 23.0961429,
+      "lng": 72.56011649999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmTOWOOuDXjkRyhPCrH8FHZQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Octroi Naka, Sabarmati, Ahmedabad",
+      "lat": 23.0802532,
+      "lng": 72.57647949999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTyrRDeecXjkRI5xFZZYF_6M",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 23.0918306,
+      "lng": 72.4949941,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJIWSCTNGdXjkR7I0y2zpg7pE",
+      "name": "Radhey Petroleum",
+      "address": "opp. babyloan club, near bhadaj, circal, Ahmedabad",
+      "lat": 23.0918216,
+      "lng": 72.49473669999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJj_sH1-ecXjkRbU9cPrP7HtU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Circle, near Science City, FP No 398 200 Ft, Sardar Patel Ring Road, Bhadaj",
+      "lat": 23.088501,
+      "lng": 72.4944601,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ75pLYtKdXjkRaguHNGlXN0s",
+      "name": "M-Keshav Projects llp( Nayara Petrol Pump)",
+      "address": "opposite Sahjanand Crystal, Sub Plot- 122/1/2 , TP-41(sola-Hebatpur, opposite Sahjanand Crystal, Science City, Sola, Ahmedabad",
+      "lat": 23.0815288,
+      "lng": 72.5032137,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJSRSkDn2dXjkRCk69nxo1oYc",
+      "name": "Shell Petrol Pump",
+      "address": "Science City Rd, Situated A, Taluka, Ghatlodia, Ahmedabad",
+      "lat": 23.0794568,
+      "lng": 72.50059329999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHReLPLKdXjkRn2JmV1s0Rbg",
+      "name": "IndianOil",
+      "address": "Ghatlodia, Bhadaj",
+      "lat": 23.0876984,
+      "lng": 72.48732079999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMY9R3pKdXjkRcQZxgX_PIAU",
+      "name": "NAYARA PETROL PUMP - SADHI PETROLEUM",
+      "address": "Survey No.:1266, F.P No.:567, near Gopi Farm, Sardar Patel Ring Road, Circle, Ognaj, Bhadaj",
+      "lat": 23.1113811,
+      "lng": 72.5026133,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOdfe8wKdXjkRPd3ufBty46Y",
+      "name": "IndianOil",
+      "address": "Rakanpur Char rasta Ta kalol Dist",
+      "lat": 23.1003707,
+      "lng": 72.4822648,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7X8yW8GdXjkRsUDok22LopA",
+      "name": "Adani Gas CNG Station",
+      "address": "4G73+GPH, NH147, Ognaj, Ahmedabad",
+      "lat": 23.1138029,
+      "lng": 72.504346,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjWnZodmdXjkRs9iqAGaQlZE",
+      "name": "Bharat Petroleum Petrol Pump , ALKA AUTOMOBILES (OGNAJ)",
+      "address": "4G73+GPH, nr. Bharat Petroleum Pump, NH147, Ognaj, Ahmedabad",
+      "lat": 23.1138476,
+      "lng": 72.5042101,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJd-X45ICdXjkR-PBgJVWmCX0",
+      "name": "Maruti Petroleum (Nayara Petrol Pump)",
+      "address": "SB No- 01, FP-273, TP-151, Super City Road, Rakanpur",
+      "lat": 23.0937865,
+      "lng": 72.4756012,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJjX32HOqDXjkR-NwoaH_-9fI",
+      "name": "IndianOil",
+      "address": "Survery No 1451/1 SP Ring Road, Ognaj, Gota, Near, Ognaj Circle, Ahmedabad",
+      "lat": 23.1167894,
+      "lng": 72.5054511,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOSoISxODXjkRDiTV1_emUlM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "RS No 698/2, opposite Vasantnagar, Ognaj - Vadsar Road, Gota, Ahmedabad",
+      "lat": 23.107045,
+      "lng": 72.523493,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJye77GtaCXjkRddv2o86bcaA",
+      "name": "SHREE AMBICA FABRICATION ASD AUTOMATION",
+      "address": "India",
+      "lat": 23.1041334,
+      "lng": 72.5272956,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJq6qqqt2CXjkRZdjqzSCD224",
+      "name": "IndianOil",
+      "address": "SG Highway, Daskori, Ognaj - Gota Road, Ahmedabad",
+      "lat": 23.095,
+      "lng": 72.53009999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVSNGc9aCXjkRcewuu05b8aw",
+      "name": "ગાયત્રી ઓટોસેન્ટર",
+      "address": "4G4G+2P5, Gota Housing Road, Vasant Nagar, Ognaj, Ahmedabad",
+      "lat": 23.105003,
+      "lng": 72.52684459999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJydWhLQCDXjkRGHgSFUKqmqE",
+      "name": "Shri Ram PUC center",
+      "address": "3GGF+PR3, Sola, Ahmedabad",
+      "lat": 23.0766742,
+      "lng": 72.5246338,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJP-pqtkuDXjkRvE5SlOd8rcA",
+      "name": "Kargil Petrol Pump SG Highway",
+      "address": "Sarkhej - Gandhinagar Highway, Sola, Ahmedabad",
+      "lat": 23.0768656,
+      "lng": 72.5248666,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ85E9hTuDXjkRqWf9982GtMc",
+      "name": "Shell Petrol Pump",
+      "address": "Taluka- Ghatlodia, Ognaj - Gota Road, Ahmedabad",
+      "lat": 23.101682,
+      "lng": 72.528817,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWYFtOC-DXjkR8cgtAKCLbQ0",
+      "name": "Adani Gas CNG Station",
+      "address": "3GXJ+293, Sarkhej - Gandhinagar Highway, Vasant Nagar, Ognaj, Ahmedabad",
+      "lat": 23.0975221,
+      "lng": 72.5309101,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQ-ok0SSDXjkRfXP0_anxL5E",
+      "name": "GP Petroleum",
+      "address": "opposite Satyamev Vista, Gota, Ahmedabad",
+      "lat": 23.1011079,
+      "lng": 72.53416250000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkdzpEyKdXjkRzv7f5pOuvkw",
+      "name": "KHODIYAR PETROLEUM",
+      "address": "OGNAJ CIRCLE, Sardar Patel Ring Road, Ognaj, Ahmedabad",
+      "lat": 23.1229351,
+      "lng": 72.50983219999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEezYPwCDXjkRG_S1bhvuv-E",
+      "name": "Nayara Petrol Pump",
+      "address": "near Western Glory Lane, Opp Satyamev Vista, Gota Main Road, near Western Glory Lane, opp. Satyamev Vista, Sarkhej - Gandhinagar Highway, Gota, Ahmedabad",
+      "lat": 23.1000744,
+      "lng": 72.53478799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQfPUXaidXjkRRnpJtFI67b4",
+      "name": "Gayatrikrupa Petro BPCL",
+      "address": "devam industrial estate, Santej",
+      "lat": 23.1070344,
+      "lng": 72.4704752,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJiYQZfDiDXjkRTI_6mBe-SpM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Chandlodiya Road, Chanakyapuri, Ahmedabad",
+      "lat": 23.0818,
+      "lng": 72.5349,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrdY2KDYjWjkRzD_s6c7wUBI",
+      "name": "Reliance Petroleum",
+      "address": "SURVEY NO.186/1, CHO, GHANSHYAM PETROLEUM, SH- 03, Santej - Khatraj Road, KHATREJ, AHMEDABAD",
+      "lat": 23.108868,
+      "lng": 72.4693972,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY6crEQCDXjkRkN6kzPjlhng",
+      "name": "Bharat Petroleum - Samrudh Petroleum",
+      "address": "3GXQ+MG4, Water Tank Road, Gota, Ahmedabad",
+      "lat": 23.09913569999999,
+      "lng": 72.5388261,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_34aS9qCXjkR-bXHyLcs1rQ",
+      "name": "Shell Petrol Pump",
+      "address": "Jagatpur Road, Ahmedabad",
+      "lat": 23.111855,
+      "lng": 72.53522,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrwnT2qyDXjkRmUwLU0l-rDE",
+      "name": "HP Petrol Pump - Millennium Gota",
+      "address": "Devnagar Gam Road, Gota, Ahmedabad",
+      "lat": 23.1037897,
+      "lng": 72.53994999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4V5uF_uDXjkRb_7AlUzvaQg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "S No 32, FP No 165, Ghatlodiya, Gota, Ahmedabad",
+      "lat": 23.103911,
+      "lng": 72.539991,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJURD_oX6DXjkR6ajw4Gb9sEk",
+      "name": "Shell",
+      "address": "Jagatpur Road, Jagatpur Village, Gota, Ahmedabad",
+      "lat": 23.114502,
+      "lng": 72.537683,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJywnQVH-DXjkRL9wFUXgErtw",
+      "name": "AMI PETROLEUM",
+      "address": "near D MART, NAYARA PETROL PUMP, near D MART, opposite Kotak Bank, NR Vandematram Cross Road, Ahmedabad",
+      "lat": 23.0924302,
+      "lng": 72.5452985,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEemeuxGDXjkRBFriY-nm2-c",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Sattadhar Cross Road, Sola Road, Char Rasta, Ghatlodiya, Ahmedabad",
+      "lat": 23.0631194,
+      "lng": 72.53171979999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgxVE1rGcXjkRSJsUFRNmR5U",
+      "name": "Modi Service Petroleum",
+      "address": "Bpcl Petrol Pump, Thaltej, Near Manthan Apatment Opposite Sun N Step Club, Ahmedabad",
+      "lat": 23.06901,
+      "lng": 72.539261,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJz_oTwxuDXjkRviRNBaXN4yE",
+      "name": "Nayara Petrol pump",
+      "address": "Momay Nagar, Gayatri Nagar, Chandlodiya, Ahmedabad",
+      "lat": 23.0858054,
+      "lng": 72.5481276,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP9G4jHKdXjkREI2iFCR_ofU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "opposite Umiya Mataji Mandir, Survey No 581/A, FP No 2, TP 405 Shilaj Rancharda, opposite Umiya Mataji Mandir, Road, Shilaj",
+      "lat": 23.0537342,
+      "lng": 72.4774249,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs4fT8BODXjkRaFJGomvjZRs",
+      "name": "શ્રી ઓઇલ ડેન",
+      "address": "India",
+      "lat": 23.0880573,
+      "lng": 72.5504938,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJfbvrvVyDXjkRo_vZfuio5rk",
+      "name": "Navin Gas Service",
+      "address": "Shivam Complex, G-12, Bhuyangdev Cross Road, Char Rasta, Ghatlodiya, Ahmedabad",
+      "lat": 23.0599731,
+      "lng": 72.53651599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJv_FPkr-DXjkRXRy8LbcDs_4",
+      "name": "Agarwal Automobiles Bharat Petroleum",
+      "address": "Opposite, Sona Cross Road, Ram Nagar, Sabarmati, Ahmedabad",
+      "lat": 23.0893556,
+      "lng": 72.5904515,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJU2JpSbiDXjkRBbAr42baAZ4",
+      "name": "Gujarat Gas CNG Station",
+      "address": "3HWQ+WJR, Parvati Nagar, Acher, Ahmedabad",
+      "lat": 23.0973565,
+      "lng": 72.5890096,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJT0QA8L-DXjkR7k154m1BzMc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, State Highway, Sabarmati, Ahmedabad",
+      "lat": 23.0884501,
+      "lng": 72.5907301,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg79O3dGDXjkRpW10OFbZlSM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Sabarmati, near Kiran Motors, Motera, Ahmedabad",
+      "lat": 23.1088511,
+      "lng": 72.6051401,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9752N26BXjkR4cNidBF0iKE",
+      "name": "IndianOil",
+      "address": "near Raj Farm, Ground Floor Bhat, Gandhinagar, Chandkheda near, near Raj Farm, Bhat, Ahmedabad",
+      "lat": 23.1024969,
+      "lng": 72.6305627,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe4gsv3GBXjkRxo285iJLfQA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 53/B, Airport Road, Bhat, Gandhinagar",
+      "lat": 23.105391,
+      "lng": 72.63102099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlS8kxHyDXjkReErTRG7VORM",
+      "name": "Adani Gas CNG Station",
+      "address": "Pragati Nagar garden Naranpura, 132 Feet Ring Road, वासना टेलीफोन एक्सचेंज, Pragatinagar, Naranpura, Ahmedabad",
+      "lat": 23.0648085,
+      "lng": 72.5570293,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9V21NlaDXjkRfhy81jBBcRE",
+      "name": "IndianOil",
+      "address": "Chenpur Road, Chainpur, Ahmedabad",
+      "lat": 23.0962,
+      "lng": 72.56009999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe1arnMODXjkR3sj13m0FwqE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Final Plot No 100, Town Planning Scheme 19, Kali Road, Chandkheda, Ahmedabad",
+      "lat": 23.1040198,
+      "lng": 72.57597659999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm67PG_uDXjkRCY7uTxxuLQ8",
+      "name": "HP Petrol Pump",
+      "address": "3 4, ONGC Colony, Chandkheda, Ahmedabad",
+      "lat": 23.104056,
+      "lng": 72.5761198,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJkYBmtw2DXjkRUSvQ4_BgUa4",
+      "name": "Shiv Gas Service",
+      "address": "ARYA VILLA, 56, Society, New Ranip, Ahmedabad",
+      "lat": 23.088211,
+      "lng": 72.55834,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJU2JpSbiDXjkRPngf4Dz6OYk",
+      "name": "IndianOil",
+      "address": "Ground Floor, Parvati Nagar, Motera, Ahmedabad",
+      "lat": 23.097347,
+      "lng": 72.589058,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJR4STL5WDXjkRZ5I5ZyhXVYw",
+      "name": "Sabarmati Tubewell Station",
+      "address": "3HPR+692, Ambica Nagar, Sabarmati, Ahmedabad",
+      "lat": 23.0855125,
+      "lng": 72.590884,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJzSsjn9SDXjkRflV2hhAXGVw",
+      "name": "IndianOil",
+      "address": "Survey No 113/1, Chenpur Road, Jagatpur, Ahmedabad",
+      "lat": 23.1049484,
+      "lng": 72.5545513,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8SoF3cCDXjkRXrUwcbF1wrw",
+      "name": "CNG Station",
+      "address": "3HVV+2G8, visat petrol pump, Ahmedabad",
+      "lat": 23.0925373,
+      "lng": 72.5938185,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJmbogLZqDXjkR4ycqT3Eb-C4",
+      "name": "Tyre repair shop",
+      "address": "Chintamani society, Abu Street Society, Sabarmati, Ahmedabad",
+      "lat": 23.083893,
+      "lng": 72.5923729,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJixvOcACDXjkRj0MaAvRuueU",
+      "name": "Alka Petrol Pump",
+      "address": "22, Nirnay Nagar Road, Nirnay Nagar Sector I, Nava Vadaj, Ahmedabad",
+      "lat": 23.07268,
+      "lng": 72.558874,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJFS_rfXqDXjkR29ZthxUecwE",
+      "name": "Alka Automobiles Nirnay Nagar",
+      "address": "62, Nirnay Nagar Sector I, Nirnay Nagar, Ahmedabad",
+      "lat": 23.072166,
+      "lng": 72.559011,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx7JgKeGAXjkRA7Pxqcc7CZA",
+      "name": "IndianOil",
+      "address": "Ground Floor Naroda, NH 8, GIDC, Nana Chiloda, Ahmedabad",
+      "lat": 23.0995128,
+      "lng": 72.66799139999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHc7dvtyAXjkRTSWx2tpOFGY",
+      "name": "Reliance Petrol Pump",
+      "address": "Naroda GIDC Road, GIDC Naroda, Ahmedabad",
+      "lat": 23.0924587,
+      "lng": 72.6730984,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJe_0uooWBXjkR478N_1kz8i8",
+      "name": "BPCL Ravi Petroleum (CNG)",
+      "address": "Airport Road, Hansol, Ahmedabad",
+      "lat": 23.0861965,
+      "lng": 72.63464929999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAQAAACyHXjkRn7NAdz11XSY",
+      "name": "IndianOil",
+      "address": "Ground Floor, Naroda, Ahmedabad",
+      "lat": 23.08288,
+      "lng": 72.65673799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJO1C3MUiBXjkRB0vLeT7HtoM",
+      "name": "Div Cross Road",
+      "address": "3MH3+8CF, Narol - Naroda Road, GIDC Naroda, Ahmedabad",
+      "lat": 23.0783182,
+      "lng": 72.6535364,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJSUgKbbCBXjkR4khAyuKF1yE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "1/P, Plot No CM, Naroda GIDC Road, Naroda, Ahmedabad",
+      "lat": 23.081951,
+      "lng": 72.657761,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJf5b4ki2BXjkR_R-Eh4Uc3vk",
+      "name": "IndianOil",
+      "address": "8, Plot, No 41, Tps No 1 NH, Naroda, Ahmedabad",
+      "lat": 23.0755013,
+      "lng": 72.6519922,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvcU463aBXjkRGvUcSmWX2as",
+      "name": "Sabarmati Gas CNG Station",
+      "address": "Bhat, Ahmedabad",
+      "lat": 23.1112461,
+      "lng": 72.6312583,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEbRj63aBXjkR4mL1M2MVh9U",
+      "name": "NAYARA ENERGY",
+      "address": "Ahmedabad - Gandhinagar Road, Bhat, Ahmedabad",
+      "lat": 23.1113701,
+      "lng": 72.6312561,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJIaYgaU6BXjkR0puxm2zrz1Y",
+      "name": "NA & Sons petrol pump",
+      "address": "3JCX+VMX, Makarpura, GIDC Naroda, Ahmedabad",
+      "lat": 23.0722383,
+      "lng": 72.6492425,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJYVkK49eAXjkRz-Y8hwp0ByQ",
+      "name": "Ishwar Oil and Company",
+      "address": "3MM7+93F, GIDC Naroda, Ahmedabad",
+      "lat": 23.0834293,
+      "lng": 72.66268509999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJL6coEQCBXjkRvxWBdDV-O9o",
+      "name": "Jio",
+      "address": "3MP8+RGG, GIDC Naroda, Ahmedabad",
+      "lat": 23.0870509,
+      "lng": 72.6663346,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJj9X7pNmAXjkRHyDF-hoDnfs",
+      "name": "Naroda Rjil Ag3",
+      "address": "3MP8+RGG, GIDC Naroda, Ahmedabad",
+      "lat": 23.0870509,
+      "lng": 72.6663346,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ27olAwGHXjkRN01j5vaffmI",
+      "name": "Ashapuri PUC Centre",
+      "address": "near Naroda Patiya, 1 Opp. National Handloom Chiloda, near Naroda Patiya, Road, Ahmedabad",
+      "lat": 23.06926439999999,
+      "lng": 72.6470756,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZ7apng6HXjkR-P1z6XktMMc",
+      "name": "Wadiya Petroleum (NAYARA)",
+      "address": "nr. National Handloom Street, Naroda Patiya Circle, Naroda, Ahmedabad",
+      "lat": 23.0688084,
+      "lng": 72.6458533,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGYRSawN_XjkRL5zasSXYn-g",
+      "name": "IndianOil",
+      "address": "near Honest Weigh Bridge, Ground Floor, Zak Vahelal Road, near Honest Weigh Bridge, Naroda - Dehgam Road, Gandhinagar, Bilasiya",
+      "lat": 23.0721581,
+      "lng": 72.6556885,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy1qxUneBXjkRUYWz8TXL2WI",
+      "name": "Nayara Petrol Pump - nageshwar petroleum",
+      "address": "Koteshwar, Ahmedabad",
+      "lat": 23.1048365,
+      "lng": 72.6168577,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM6E6qq-HXjkRZjZizhIk_G8",
+      "name": "Somnath Petroleum",
+      "address": "Naroda Patiya, Ahmedabad",
+      "lat": 23.0669365,
+      "lng": 72.6450399,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOx46gLSGXjkRBO3AVg4vbf4",
+      "name": "Khodal Gas Service",
+      "address": "17, Saijpur Bogha, Ahmedabad",
+      "lat": 23.066697,
+      "lng": 72.632926,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFRvXqtaAXjkRSwY6d49f70I",
+      "name": "HP Petrol Pump Opposite Amardeep Enclave",
+      "address": "25, Naroda - Dehgam Road, Vasant Vihar 2, GIDC Naroda, Ahmedabad",
+      "lat": 23.0797292,
+      "lng": 72.6679288,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJU-HzQQCBXjkRQ0LIIOtOrk8",
+      "name": "Jai Khodiyar",
+      "address": "3MJC+665, Dehgam Road, GIDC Naroda, Ahmedabad",
+      "lat": 23.0805248,
+      "lng": 72.67060359999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJmdwDysmGXjkRN0XS3oaVXoU",
+      "name": "Avani Gas Agency",
+      "address": "B R T S, Janta Chambers, Bus Stand, Saijpur Bogha, Ahmedabad",
+      "lat": 23.0619764,
+      "lng": 72.6401601,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ41L6LvyAXjkRh3OPFJ92Hw8",
+      "name": "IndianOil",
+      "address": "opposite Hyundai Godown, Ground Floor, Ring Road Ranasan, Koba, opposite Hyundai Godown, Nana Chiloda, Bilasiya",
+      "lat": 23.1132268,
+      "lng": 72.6657457,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM751TqKBXjkRKy7LJNWdYuk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 124/1, near Sardar Patel Ring Road, NH 8, Nana Chiloda, Ahmedabad",
+      "lat": 23.1081932,
+      "lng": 72.6712235,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQ1HA1OSAXjkR47uwdlVO-3M",
+      "name": "HPCL CNG Mother Station 1",
+      "address": "3, GIDC Naroda, Ahmedabad",
+      "lat": 23.1081984,
+      "lng": 72.67122719999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH2gALquGXjkRXhzc8NsPQ8Q",
+      "name": "IOC, Aviation Fuel Station",
+      "address": "3J89+XGV, Ahmedabad Cantonment, Ahmedabad",
+      "lat": 23.0674886,
+      "lng": 72.6188045,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJy3fcEACBXjkR53myb6Hlq-k",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Sardar Patel Ring Road, Valad",
+      "lat": 23.1125767,
+      "lng": 72.6705741,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAWRbjgCBXjkRI7PqQKNtnvk",
+      "name": "SIDDHESHWARI PETROLEUM",
+      "address": "Sardar Patel Ring Road, Ahmedabad",
+      "lat": 23.11236049999999,
+      "lng": 72.6716158,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJR8QW0y2BXjkRj09_W0cV0C4",
+      "name": "Mahalaxmi Gas Agency",
+      "address": "No 8, near Galaxy Cinema, National Highway, Naroda, Ahmedabad",
+      "lat": 23.058265,
+      "lng": 72.6427096,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ6domZQCDXjkRfqLobG_ufhc",
+      "name": "PUC centre",
+      "address": "4J53+FXH, Motera Stadium Road, Motera, Ahmedabad",
+      "lat": 23.1086888,
+      "lng": 72.6049747,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJX53fNwCDXjkROG5_0oscLYk",
+      "name": "Hindustan petrol pump",
+      "address": "FP87/2, Nigam Nagar, Chandkheda, Ahmedabad",
+      "lat": 23.1195721,
+      "lng": 72.6124681,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJC6atkOWDXjkRIwFj6qFuYXE",
+      "name": "Sadhi petroleum Bharat petroleum pump station",
+      "address": "4J96+RXG, Tapovan Circle, GIDC Bhat, Bhat, Ahmedabad",
+      "lat": 23.1195735,
+      "lng": 72.6124662,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvSJhU0yDXjkRypXCYu92wnI",
+      "name": "Indian oil Narnarayan fuel point",
+      "address": "near dwarkesh business hub, Ahmedabad",
+      "lat": 23.1098651,
+      "lng": 72.6039566,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm8OpIACDXjkRQBmhV3PD-5s",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Sabarmati, Motera, Ahmedabad",
+      "lat": 23.103139,
+      "lng": 72.600056,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJA7hz68eAXjkRWNKvoh0ylrA",
+      "name": "Indian Oil",
+      "address": "India",
+      "lat": 23.0881116,
+      "lng": 72.6848859,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJyaL-jxqBXjkRGaaOBznHVl0",
+      "name": "BHARAT PETROLEUM ( SHIV YOGINI PETROLEUM)",
+      "address": "4M2P+532, Ahmedabad",
+      "lat": 23.1003935,
+      "lng": 72.6851278,
+      "open_now": true
+    }
+  ]
+}

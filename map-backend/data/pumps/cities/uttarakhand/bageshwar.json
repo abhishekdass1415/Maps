@@ -1,0 +1,43 @@
+{
+  "city": "Bageshwar",
+  "state": "Uttarakhand",
+  "count": 4,
+  "center": {
+    "lat": 29.5833,
+    "lng": 79.9833
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJGV5G4krFoDkRUxW9ycKArXc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 309B, Pithoragarh - Almora Road, Danya",
+      "lat": 29.569298,
+      "lng": 79.918937,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJz69RR07PoDkRFbUKMZmX8K8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Almora Pithoragarh Road Gairar, Garur, Bhanoli",
+      "lat": 29.59644799999999,
+      "lng": 79.83707900000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_cF0f5TWoDkRHI-hSUKjcrg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Berinag Pithoragarh Road, Khati Gaon",
+      "lat": 29.6440668,
+      "lng": 80.041845,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJh4A5_yPNoDkRsDUIh8fTJTM",
+      "name": "Swargiya Roop Singh Bisht Pump",
+      "address": "Swargiya Roop Singh Bisht Pump Lingurata State Highway 3 (Barechhina Seraghat Berinag, Dharchula road, Lingurata",
+      "lat": 29.7052196,
+      "lng": 79.8892726,
+      "open_now": null
+    }
+  ]
+}

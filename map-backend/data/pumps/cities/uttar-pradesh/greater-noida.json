@@ -1,0 +1,1427 @@
+{
+  "city": "Greater Noida",
+  "state": "Uttar Pradesh",
+  "count": 177,
+  "center": {
+    "lat": 28.4744,
+    "lng": 77.504
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJgUixCdnCDDkRFC7Uj0XRZAw",
+      "name": "IndianOil",
+      "address": "Ground Floor Nacholi, Road, Kheri",
+      "lat": 28.414481,
+      "lng": 77.3926721,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJV3QIwrnBDDkR6n5H1mOvoKI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Yamuna Expressway, Sadar, Chuharpur Khadar",
+      "lat": 28.4406183,
+      "lng": 77.5026254,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJb96DLQbDDDkR_C4xoIahRAs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 18/2, Kila, Khewat No 266, Khatoni No 424 Rect No 40, Nacholi",
+      "lat": 28.412889,
+      "lng": 77.399472,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqQkJearGDDkRrjVNoioQ-P0",
+      "name": "IndianOil",
+      "address": "Ground Floor, Road, Ballabgarh, Manjhawali",
+      "lat": 28.36609099999999,
+      "lng": 77.46811459999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnx1HjqrGDDkR0ccknyq3pao",
+      "name": "IndianOil",
+      "address": "Ground Floor, Manjhawali",
+      "lat": 28.36378759999999,
+      "lng": 77.4661673,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS1B2-znFDDkRDMdFojKb_V8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "GROUND FLOOR, near Vidyasagar School, Jafarpur Majra Gharora",
+      "lat": 28.3531105,
+      "lng": 77.4417646,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9QkV4W7FDDkR2dBLucU4-xE",
+      "name": "CNG PUMP GHARODA",
+      "address": "9C3W+852, Gharora",
+      "lat": 28.3532607,
+      "lng": 77.4454047,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJYUeaZFzFDDkRuigEMBAi4X0",
+      "name": "Petrol Pump",
+      "address": "9C3W+868, Manjhawali Road, Gharora",
+      "lat": 28.35327839999999,
+      "lng": 77.4455888,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJlfsWWiLFDDkRufmPQscvdYw",
+      "name": "B L Indane LPG Godown",
+      "address": "9C3X+9H7, Manjhawali Road, Gharora",
+      "lat": 28.3534156,
+      "lng": 77.4489181,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ0X62yl7BDDkRbUmqz82usbw",
+      "name": "Satsav Filling Station",
+      "address": "CFVH+7VR, Shafipur Road, Sector 152, Noida",
+      "lat": 28.4432389,
+      "lng": 77.4796284,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfQDMKwDDDDkRP_IYOY8cuRA",
+      "name": "Maa shehzadi Filling Station",
+      "address": "997Q+RFQ, Tigaon Road, Sadupura Village, Sector 109, Sadupura",
+      "lat": 28.3645833,
+      "lng": 77.38871999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJG8cOlcfcDDkR1PA3aipQbH0",
+      "name": "HP Gas",
+      "address": "Shop 15, Bhataula Village, Faridabad, NCR, Region",
+      "lat": 28.38610880000001,
+      "lng": 77.3652432,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJE0Fic-jFDDkR-696wtdeizw",
+      "name": "Maa sahazadi Filling station",
+      "address": "Tigaon Road, Faridabad",
+      "lat": 28.3459012,
+      "lng": 77.4049151,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJu7bajM_FDDkRNLiyOI5MtFU",
+      "name": "JP Nagar Road",
+      "address": "992R+WR2, near Indian oil petrol pump, Tigaon",
+      "lat": 28.3522567,
+      "lng": 77.39201229999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJF4z8wrrEDDkR2Ou6WVceP_M",
+      "name": "IndianOil",
+      "address": "Km Stone 1/0, Ground Floor, Faridabad, Tigaon Road, Tigaon",
+      "lat": 28.35160239999999,
+      "lng": 77.3916358,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCSwgE8fcDDkRN-Fn02YZjUA",
+      "name": "Nayara PETROL PUMP",
+      "address": "Chandela Chowk, Sector 78, Faridabad",
+      "lat": 28.3861271,
+      "lng": 77.36311859999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgw12yNrdDDkRuJ7Rp0b5mjo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Sector 77, Faridabad",
+      "lat": 28.3662814,
+      "lng": 77.37324559999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJO9RBTyPdDDkRmN6ctAqMDNI",
+      "name": "Bharat Petroleum Petrol Pump , NARWAT FILLING STATION",
+      "address": "ON KHERI MAJHAWALI ROADVILLAGE, Kheri Kalan, Faridabad",
+      "lat": 28.41805,
+      "lng": 77.360011,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ67-RzLPEDDkRL3esPPib1Fg",
+      "name": "Nayara Petrol Pump",
+      "address": "89XM+G7V, Tigaon Road, Sector 72, Faridabad",
+      "lat": 28.3488707,
+      "lng": 77.3831859,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfehSG9fBDDkRiocsWoyAHg4",
+      "name": "Bharat Petroleum Fuel Station",
+      "address": "EXPRESS WAY, 6th Lane, Sigma III, Greater Noida",
+      "lat": 28.4628079,
+      "lng": 77.5065831,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbwSw_XnADDkRoUN91N96JNQ",
+      "name": "IndianOil",
+      "address": "Plot No P/01, Ecotech 1 Extension, Noida",
+      "lat": 28.436734,
+      "lng": 77.55662400000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvTB6QGvADDkReedBGepIdA0",
+      "name": "Indraprastha Gas Limited -KASNA",
+      "address": "near Honda Power Products Ltd, Khadar Ke Marhiya, Greater Noida",
+      "lat": 28.4461472,
+      "lng": 77.5434248,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4fovbwLBDDkRvmSj1NF-LRs",
+      "name": "IGL IT CITY",
+      "address": "NIIT Technologies, Village - Murshidapur, Near, Yamuna Expressway, Greater Noida",
+      "lat": 28.3950352,
+      "lng": 77.524987,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqyYyniPBDDkR6-B_ZFaOSME",
+      "name": "CNG FILLING STATION",
+      "address": "Greater Noida",
+      "lat": 28.39492439999999,
+      "lng": 77.5250264,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuWTsj9zADDkRQmlWV3Dv0jA",
+      "name": "RAPRASTHA GAS LIMITED",
+      "address": "India",
+      "lat": 28.3947495,
+      "lng": 77.5253195,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJPyIla4vBDDkRbh3o8MA8ISE",
+      "name": "Bharat petroleum",
+      "address": "CGG7+V2J, Cassia Fistula Estate, Chi IV, Greater Noida",
+      "lat": 28.4272041,
+      "lng": 77.5125267,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4RKrYgDBDDkR_6ty6b5r9JM",
+      "name": "Global Oorja Fuel Station",
+      "address": "CGMR+72V, G.Noida-Kasna-Surajpur Road, Block C, Block B, Phi III, Greater Noida",
+      "lat": 28.433238,
+      "lng": 77.5400461,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSSSVpPfBDDkRd2tt8T8c-kw",
+      "name": "Pooja Gas Agency - Oxygen",
+      "address": "86, Block G, Block A, Surajpur Site V, Greater Noida",
+      "lat": 28.432244,
+      "lng": 77.55163,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWaFCcgDBDDkRJ1pNZ2xO_yM",
+      "name": "Global Oorja Fuel Station",
+      "address": "1377, Block C, Phi III, Greater Noida",
+      "lat": 28.4514975,
+      "lng": 77.5248876,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJQ8hFBgDBDDkRTTW5wk1cCPo",
+      "name": "Indian Oil",
+      "address": "FG2G+J3V, Kasna Road, Block B, Phi III, Greater Noida",
+      "lat": 28.4516092,
+      "lng": 77.52515679999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ1oP0hDBDDkRknN0C_tHgNg",
+      "name": "CNG and Petrol pump",
+      "address": "Venice Mall, Block C, Industrial Area, Surajpur Site 4, Greater Noida",
+      "lat": 28.4512458,
+      "lng": 77.5264716,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJecssNTfADDkRiwEcTm3O5Sg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No A1 Site, 4, Industrial Area, Noida",
+      "lat": 28.451719,
+      "lng": 77.526039,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJh8U-QGvADDkRIQ73Jg4Z6nc",
+      "name": "capten Ncr Group",
+      "address": "CGWV+99V, near Honda Power Products Ltd, Khadar Ke Marhiya, Greater Noida",
+      "lat": 28.4459973,
+      "lng": 77.5434214,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnXBhCDLADDkR33sDynjqo9c",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Block-B, Gol Chakkar, near Golf Course, PHI 3, Noida",
+      "lat": 28.45670709999999,
+      "lng": 77.521103,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJSY5M-37BDDkRpjmpFl6ijHA",
+      "name": "GAIL CGS KASNA",
+      "address": "CHP4+Q5J, Greater Noida",
+      "lat": 28.4369586,
+      "lng": 77.5553781,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ76AHvkbBDDkRWn4EQZLqWPI",
+      "name": "Chimkandi",
+      "address": "Pari Chowk, 27 A, Pari Chowk, Greater Noida",
+      "lat": 28.4603459,
+      "lng": 77.5045213,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJbR7ey37HDDkRpy4bkFL865U",
+      "name": "Path India limited. Ilex projects Pvt Ltd",
+      "address": "8GW8+F34, Eastern Peripheral Expressway, Bela Khurd",
+      "lat": 28.347028,
+      "lng": 77.51593299999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ0UJDETjHDDkRZTDdKQfCH7Q",
+      "name": "Reliance Petroleum",
+      "address": "Indian Oil Petrol Pump, Khasra No 513, 526, 525 & 420, On chainage 95-575 to 95-62, Aurangapur",
+      "lat": 28.346069,
+      "lng": 77.513667,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2Qc68dfBDDkRWgmeRn8oj0Q",
+      "name": "BHARAT PETROLEUM FUEL And CNG STATION",
+      "address": "FG3R+6RG, Sector 41, Greater Noida",
+      "lat": 28.4530557,
+      "lng": 77.5420745,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8VgVZ7zHDDkRHm7gC6UivY4",
+      "name": "IndianOil",
+      "address": "Ground Floor, Aura, near KM Stone, 95/6, Eastern Peripheral Expressway, Dankaur",
+      "lat": 28.3458257,
+      "lng": 77.5139511,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJZLYw77HDDkRAdKMkoWfOwI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "EPE, 2, Aurangpur",
+      "lat": 28.3451355,
+      "lng": 77.5143925,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpYMpLQDHDDkRG09htlgyWIQ",
+      "name": "Kmp petrol pump",
+      "address": "8GV7+WM7, Bela Khurd",
+      "lat": 28.344915,
+      "lng": 77.5141833,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJzfKBpdfBDDkRQge_IaqjSSY",
+      "name": "Siddh Laxmi Hp Gas",
+      "address": "1, Tugalpur, Greator Noida",
+      "lat": 28.4645997,
+      "lng": 77.5067405,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ3UflFJXBDDkRiYCfVUHZ_Sk",
+      "name": "AASHIK PHOTOGRAPHY",
+      "address": "Tugalpur Main Market Road, Tugalpur, Greater Noida",
+      "lat": 28.4652364,
+      "lng": 77.50362679999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJW655-dfBDDkRzmISUvnsooE",
+      "name": "Sai Vinay Bharat Gas",
+      "address": "NCR Region, 3, Tugalpur Market, Park, Greater Noida",
+      "lat": 28.4664346,
+      "lng": 77.5046764,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4bzGGYjBDDkR_BuX6hWBytU",
+      "name": "IndianOil",
+      "address": "near ITBP Society, Plot No PP 01, Eldeco Green Meadows, Greater Noida",
+      "lat": 28.4660809,
+      "lng": 77.533472,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNVsc2UTHDDkRSJ2mGQalVtc",
+      "name": "IndianOil",
+      "address": "Ground Floor, Near Formula One Racing Track, Dankaur",
+      "lat": 28.3535463,
+      "lng": 77.5565262,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoRvPNkPHDDkR50ONcNVHhzM",
+      "name": "CP Fuels - Diesel Delivery",
+      "address": "Indian oil petrol pump, Indian oil petrol pump, CP Fuels, Behind CP sons Petrol Pump, Bus Stand, near Chandraprakash and sons, Dankaur",
+      "lat": 28.3536243,
+      "lng": 77.5566601,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB7r6dSG5DDkR3EZ9xIPuZWI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Sikandrabad Road, Dankaur",
+      "lat": 28.3603532,
+      "lng": 77.5677631,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhzYC-IzHDDkRwvfUFcg0LMk",
+      "name": "IndianOil",
+      "address": "Rabupura Road, Dankaur",
+      "lat": 28.3453658,
+      "lng": 77.5498514,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKdwc5Cq5DDkRz_nMu2A2_sU",
+      "name": "Nayara Petrol Pump",
+      "address": "9JM6+33X",
+      "lat": 28.3827468,
+      "lng": 77.61024619999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtUg-qaW_DDkRkDGFiSzMwgQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Kasna Sikandrabad Road, Ladpura",
+      "lat": 28.429085,
+      "lng": 77.593111,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaTlzfqe_DDkRWADtH_tZRPA",
+      "name": "Ms Sakshi HP Petrol Pump",
+      "address": "CHHV+M76, Greater Noida",
+      "lat": 28.4291655,
+      "lng": 77.5931468,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJRXPvSqu_DDkRiogVQTeeRZM",
+      "name": "M/s DOLLY MOTORS - ADHOC",
+      "address": "CHPM+JFX, Eastern Peripheral Expressway - RHS - Indian Oil Petrol Pump, Sirsa, Service Lane, Greater Noida",
+      "lat": 28.43660179999999,
+      "lng": 77.58372059999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZUMwcwG_DDkRi-Gkpo8tXvg",
+      "name": "IndianOil",
+      "address": "near Police Station, Surajpur, Kasna Sikandarabad Road, Ghanghola",
+      "lat": 28.4252387,
+      "lng": 77.6045852,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ522dSgC_DDkRC4fMCBCoBzU",
+      "name": "Reliance Jio Petrol Pump",
+      "address": "CHPQ+VQF, Greater Noida",
+      "lat": 28.4371807,
+      "lng": 77.58942259999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFXdmVB-_DDkRLmzkenvrvXA",
+      "name": "IndianOil",
+      "address": "Khasra No 1383, Bilaspur",
+      "lat": 28.3953061,
+      "lng": 77.62757669999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCVEkI564DDkR2dc-nK5PJpA",
+      "name": "Ch Dalgir Petrol Pump",
+      "address": "9H37+44J",
+      "lat": 28.3528255,
+      "lng": 77.562767,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7xYP1L6-DDkRECE-yxZnBYE",
+      "name": "HP PETROL PUMP - MAA VAISHNU DEVI HP FUELS",
+      "address": "CJ3M+PH6, Village Kherli Kasna Sikandrabad Road Near Kherli Nahar, Patla Khera",
+      "lat": 28.404278,
+      "lng": 77.633895,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJree3OW_BDDkRnOquF80RnQQ",
+      "name": "Bharat Petroleum Fuel Station",
+      "address": "270, Block C, Sigma II, Greater Noida",
+      "lat": 28.4610029,
+      "lng": 77.5555483,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ92gQu0HHDDkRTaL8o6yuThA",
+      "name": "Gyani Madan Indian Oil petrol pump",
+      "address": "8HV4+3RW, Dankaur",
+      "lat": 28.34291559999999,
+      "lng": 77.5572327,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-2f2BOvHDDkRb2vNvqfM1ZY",
+      "name": "IndianOil",
+      "address": "Rabupura Road, Dankaur",
+      "lat": 28.3426265,
+      "lng": 77.55556419999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSZgRoQXBDDkRvip-wqZj1FE",
+      "name": "Bharat Petroleum Fuel Station",
+      "address": "FH92+G35, Greater Noida West Link Road, Ekanki Enclave, Block G, Pi I & II, Greater Noida",
+      "lat": 28.4687564,
+      "lng": 77.5502208,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaxoNKgDBDDkRIKfqId490tA",
+      "name": "Cng pump near dankor",
+      "address": "FH92+G35, Greater Noida West Link Road, Ekanki Enclave, Block G, Pi I & II, Greater Noida",
+      "lat": 28.4687341,
+      "lng": 77.5498183,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJy-gaNp6-DDkR2lQJ7L95Vbc",
+      "name": "Shyam Nagar Mandi Petrol Pump",
+      "address": "near Dankour railway station, Shyam Nagar Mandi",
+      "lat": 28.414635,
+      "lng": 77.6522852,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ79trftTrDDkRXIIooki714c",
+      "name": "IndianOil",
+      "address": "DSC Road, Surajpur, Noida",
+      "lat": 28.512979,
+      "lng": 77.475674,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuXeyTWTpDDkRZck2rigzX9I",
+      "name": "Bharat Petroleum",
+      "address": "GFF6+HQR, Lakhnawali, Greater Noida",
+      "lat": 28.5239996,
+      "lng": 77.4618822,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5-RZ7GnpDDkRpaGU2s1DKTI",
+      "name": "Bharat Petroleum",
+      "address": "Udyog Kendra, Suthiyana, Dadari Road, Sector - 106, surajpur, Noida",
+      "lat": 28.5293179,
+      "lng": 77.45433729999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ44C_5rroDDkRGwJTnvYJ8b8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near IGL Station, Bhangel Road, Noida",
+      "lat": 28.5341445,
+      "lng": 77.3914508,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuUorAwHlDDkRbXCmadOZXiI",
+      "name": "Indraprastha Gas Limited CNG Station",
+      "address": "Near Advant Building, Sector 142, Noida",
+      "lat": 28.4996109,
+      "lng": 77.41211299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8be-nLvpDDkRzMzZvN9lzhg",
+      "name": "HMEL Petrol Pump - Sector 137",
+      "address": "PP-01, Paras Tierea, Sector 137, Noida",
+      "lat": 28.5040109,
+      "lng": 77.4108397,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1zAv0-rrDDkRVYqQcigiaGA",
+      "name": "Blue Planet Integrated Waste Management Facility",
+      "address": "FFGJ+97H, Knowledge Park III, Greater Noida",
+      "lat": 28.475929,
+      "lng": 77.4807469,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLwdJDADrDDkRVendmY1-T9E",
+      "name": "IGL CNG STATION -KNOWLEDGE PARK 3",
+      "address": "FFGJ+MW2 DRONACHARYA GROUP OF INSTITUTIONS, Knowledge Park III, Greater Noida, Uttar Pradesh 201310 GRETER, Noida",
+      "lat": 28.4765156,
+      "lng": 77.48240980000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrV46QV_rDDkRhLsgBKpMDVI",
+      "name": "IndianOil",
+      "address": "opposite Moser Baer, Plot No 41, Surajpur Kasna Road, Udyog Vihar, Noida",
+      "lat": 28.4963987,
+      "lng": 77.4865794,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpy-zQgDpDDkRdA5eVQ5UE20",
+      "name": "PUC",
+      "address": "On the way, Noida",
+      "lat": 28.5034396,
+      "lng": 77.385583,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJa6E9e9_rDDkRjJI95Ku6zOk",
+      "name": "Shifa Health Care Clinic&Medical store",
+      "address": "Greater Noida, Petrol pump, ke samne State Bank, near Madina Masjid, wali gali, Tahsil, Village surajpur, Noida",
+      "lat": 28.5116201,
+      "lng": 77.47528679999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKzPKdNbrDDkRaKOmAtLAY4o",
+      "name": "ALI AUTO GAS",
+      "address": "Gautam Buddh Nagar, 1, Surajpur Greater Noida, NCR, Region",
+      "lat": 28.5156216,
+      "lng": 77.4716501,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJU_qjymXpDDkRbyN3aY72lw4",
+      "name": "Indraprastha Gas Limited CNG Station",
+      "address": "CRPF Camp, Grrater, Noida",
+      "lat": 28.5246919,
+      "lng": 77.461434,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJW3EZJcXpDDkR9mfVwmmE8nE",
+      "name": "IndianOil",
+      "address": "near Narayan Chowk, Dadri, near Narayan Chowk, Ecotech III, Habibpur",
+      "lat": 28.5292953,
+      "lng": 77.4544208,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJu16nMwDpDDkR1JddTSyiL0o",
+      "name": "IGL CNG PUMP",
+      "address": "GFH3+MWM, Suthiyana, Noida",
+      "lat": 28.529204,
+      "lng": 77.454797,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZb2qlWnpDDkROSsyNCuXdg4",
+      "name": "Ch.Keshram Shyamo Auto Fuels",
+      "address": "Suthiyana, Noida",
+      "lat": 28.5293298,
+      "lng": 77.45438539999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJyfUyHVTnDDkRDMNgpqakaGA",
+      "name": "IndianOil",
+      "address": "J Jaypee, Wish Town Klassic, No C1, Sector 133, Noida",
+      "lat": 28.5041953,
+      "lng": 77.377276,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy6gIJm3nDDkRS5JIUf53Wxw",
+      "name": "CNG and Petrol pump",
+      "address": "G93H+P4, Sector 133, Noida",
+      "lat": 28.5043275,
+      "lng": 77.3769587,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpY2FyC_pDDkRvb9_DyP-tO8",
+      "name": "IndianOil",
+      "address": "near Holland Tractor, Dsc Sector-40-41 Road, Udyog Vihar, Noida",
+      "lat": 28.53056,
+      "lng": 77.45342,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_wVW5rAlDTkReehSuWKrt5A",
+      "name": "IndianOil",
+      "address": "Opposite Holland Tractor Factory, Dadri Main Road, Udyog Kendra 1",
+      "lat": 28.530442,
+      "lng": 77.4541026,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbcHZCI_pDDkRJkgKduwyQ6c",
+      "name": "Bharat Petroleum, Petrol Pump -Subash Automobiles",
+      "address": "OPP. LAXMAN SYLVENIA,GREAT, GAUTAM BUDH NAGAR",
+      "lat": 28.532188,
+      "lng": 77.44844549999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2XymfYjpDDkRSnKSbjjcLLQ",
+      "name": "D S Enterprises",
+      "address": "HDFC bank wali, Ds Enterprises Plot No 25 Road, gali bhari road, UPSIDC Site A, Surajpur, Greater Noida",
+      "lat": 28.5251429,
+      "lng": 77.46876309999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJwZJmhXrpDDkREl-TFSI-9RU",
+      "name": "IGL CNG STATION -SECTOR 88",
+      "address": "Dadri Main Road, Block A, Sector 88, Noida",
+      "lat": 28.5346283,
+      "lng": 77.4271875,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoY6qDLPpDDkRIXnxKntrM4Y",
+      "name": "Ishwar Filling Station",
+      "address": "Plot No.1, HF-1, Ecotech III, Greater Noida",
+      "lat": 28.532582,
+      "lng": 77.453915,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_WepTUHpDDkRinCUfsZdg34",
+      "name": "Vansh Gas Repaire Centre",
+      "address": "NCR Region, 6, Habipur, Road, Chauganpur, Ecotech III, Greater Noida",
+      "lat": 28.5363113,
+      "lng": 77.4521156,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJs5I0-UvqDDkRVmaKIFWicAo",
+      "name": "Dr Pandian Ehno Oil",
+      "address": "GF4X+PC5, Block A, UPSIDC Site B, Surajpur, Greater Noida",
+      "lat": 28.506757,
+      "lng": 77.4986234,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJK4c3_sboDDkRwio-QS8zjl8",
+      "name": "IndianOil",
+      "address": "Green Belt, P2, DSC Road, Hosiery Complex, Block B, Phase-2, Noida",
+      "lat": 28.5348657,
+      "lng": 77.4043162,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH6kNYPDnDDkR4X1JiMOxdB8",
+      "name": "Bharat Petroleum",
+      "address": "Wish Town Klassic, Jaypee, Near, Jaypee Hospital Road, Asgerpur, Sector 133, Noida",
+      "lat": 28.5058035,
+      "lng": 77.3654048,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxcmaYwDpDDkRUGLkdX_f-fs",
+      "name": "CNG pump",
+      "address": "Bhangel Road, Sector 82, Noida",
+      "lat": 28.5344683,
+      "lng": 77.3912945,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ0SlveQDpDDkRrPZmA8Zw8oo",
+      "name": "BP -GNA Sector 20",
+      "address": "G9PR+6C2, Noida",
+      "lat": 28.5355161,
+      "lng": 77.3910265,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJbSueoIXqDDkR9qr3savfXZc",
+      "name": "IndianOil",
+      "address": "Sector Delta 1, Metro Station-Knowledge Park 2, No PP 1, near Aqual Line, Greater Noida",
+      "lat": 28.47835739999999,
+      "lng": 77.5247303,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJw7cGgYrqDDkRyhyBY8L1Fug",
+      "name": "Indraprastha Gas Limited CNG Station",
+      "address": "Plot - 1, Beta 2, G B, Nagarbeta 2, Greater Noida",
+      "lat": 28.4881855,
+      "lng": 77.51622739999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJR7VFPNTrDDkRNp0MVNF3BSM",
+      "name": "Beta 2 cng pump",
+      "address": "FGQ8+7G2, Unnamed Road, Block I, Beta II, Greater Noida",
+      "lat": 28.48814329999999,
+      "lng": 77.5162699,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJp_66aADrDDkRjmtFS2GKLSU",
+      "name": "Puc canter",
+      "address": "SLC-7, Block A, Delta I, Greater Noida",
+      "lat": 28.4782397,
+      "lng": 77.52461029999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQQQTagDrDDkRRD_Ef4fyiLA",
+      "name": "Puc canter",
+      "address": "FGHF+7X4, Block A, Delta I, Greater Noida",
+      "lat": 28.4781296,
+      "lng": 77.5249683,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJSQdBm2nrDDkRkSuj8W0lsxA",
+      "name": "IndianOil",
+      "address": "PP 1 Sector, Delta 1, Greater Noida",
+      "lat": 28.47836899999999,
+      "lng": 77.525576,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx7wI7ADrDDkR-O_vQYabk-w",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "&, No PP/1, Eta II, Rasoolpur Rai",
+      "lat": 28.4930597,
+      "lng": 77.5362344,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9ajOBwDrDDkRdvcKRoRjnT0",
+      "name": "CNG",
+      "address": "FGVP+CJR, Eta II, Rasoolpur Rai",
+      "lat": 28.4941898,
+      "lng": 77.5363836,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJb0yKY53rDDkR7WHwuo48_yU",
+      "name": "MAAPETROLPUM0 SERVICE",
+      "address": "Gulmohar Estate, 1, Pi I & II, Greater Noida",
+      "lat": 28.47416789999999,
+      "lng": 77.5440027,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJWfo4UO_rDDkRIPN4CFPJGdQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, PP No 1, Maicha, Sector, Theta II, Greater Noida",
+      "lat": 28.488215,
+      "lng": 77.54226899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlZJZ27jrDDkRqfDs-zXw2kE",
+      "name": "Deepak Kumar Saxena",
+      "address": "Shop No 90, Surajpur, Greater Noida",
+      "lat": 28.5168734,
+      "lng": 77.51241639999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJaYEYvmHrDDkRaJ5tAJ4z5rg",
+      "name": "BPCL Company Operated Petrol Pump",
+      "address": "GG6J+3M4, Zeta II, Greater Noida",
+      "lat": 28.5101336,
+      "lng": 77.53168939999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1Qr0NvTrDDkRqdfHreSKnJ4",
+      "name": "IndianOil",
+      "address": "DSC Road, Tilpata Karanwas",
+      "lat": 28.523287,
+      "lng": 77.514427,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ57PiW1TrDDkRldYDiQPwLyY",
+      "name": "Petrol pump",
+      "address": "GGH3+W7W, Greater Noida West Link Road, Greater Noida",
+      "lat": 28.5298621,
+      "lng": 77.503207,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJXwGcJQDrDDkR9T1l2_69LvE",
+      "name": "IGL CNG &LCNG FILLING STATION",
+      "address": "GGJJ+WJH, Tilpata Karanwas",
+      "lat": 28.5323154,
+      "lng": 77.53161469999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJab3LRqSVDDkRxNpRyWRmMt4",
+      "name": "Malik Fuel Centre CNG Pump",
+      "address": "G. T. Road, Dadri",
+      "lat": 28.5075,
+      "lng": 77.61520000000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYeLhjt2UDDkRkd-zsBt1XrE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor GT Road, Sikandrabad, Road, Dadri",
+      "lat": 28.5280364,
+      "lng": 77.5845327,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_WVf5B2VDDkREh6tTVvqxIo",
+      "name": "IGL CNG STATION",
+      "address": "NH34",
+      "lat": 28.5165559,
+      "lng": 77.6030474,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0473VNaVDDkRB1mV1-mD3wc",
+      "name": "Bharat Petrol pump",
+      "address": "GJ48+WFC, Dadri",
+      "lat": 28.5073174,
+      "lng": 77.61613419999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJkTogI7uVDDkRDWQUXSSaT9k",
+      "name": "DNIVRA urea pump",
+      "address": "GJ48+JQ, Dadri",
+      "lat": 28.506608,
+      "lng": 77.6168733,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGa3rQQCVDDkR4c1hib_lnAg",
+      "name": "Tata urea point",
+      "address": "GJ48+JQ, Dadri",
+      "lat": 28.5065625,
+      "lng": 77.61693749999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM3LE37mVDDkRdsiT3ZRZLUE",
+      "name": "IGL CNG Pump",
+      "address": "Kot",
+      "lat": 28.5075127,
+      "lng": 77.61645089999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvxB0S4yVDDkRT63JZBYjL2Y",
+      "name": "Dilip poddar cng pump",
+      "address": "GJ58+3PX, GT Road, Luharli 139 Basantpur Bangar",
+      "lat": 28.5077381,
+      "lng": 77.6168726,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS_tbFeGUDDkR1FIQI7pfHQI",
+      "name": "Nayara Oil Petrol Pump",
+      "address": "National Highway 34, Megapolis, Bairangpur Urf Naibasti",
+      "lat": 28.5248323,
+      "lng": 77.5891738,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFeljPQOVDDkRV6Tkv-BGovQ",
+      "name": "IndianOil",
+      "address": "Km Stone 43 to 47, NH 91, Luharli, Noida",
+      "lat": 28.49784,
+      "lng": 77.62843,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPeGXet2UDDkRUgH_2zxBtek",
+      "name": "SINGH IGL FILLING STATION (CNG)",
+      "address": "GHHM+MM4, NH-334C, Bairangpur Urf Naibasti",
+      "lat": 28.529131,
+      "lng": 77.58420129999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJN8CeYq2VDDkRCntWoS4OS2E",
+      "name": "Bharat Petroleum, Petrol Pump -Kiran Filling Station",
+      "address": "GAUTAM BUDH NAGAR, LOHARLI",
+      "lat": 28.4950786,
+      "lng": 77.6336421,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmQ7fumy-DDkRAAAA0AXsj20",
+      "name": "Cab",
+      "address": "FJ4P+2VX, Unnamed Road, Mandpa",
+      "lat": 28.4551136,
+      "lng": 77.6372224,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0ZGUjMWUDDkRm4hE7NmWqkQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Dadri, NH 91, GT Road, Chithara",
+      "lat": 28.535001,
+      "lng": 77.573601,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWX3PYmiVDDkReowXRFXJQJk",
+      "name": "Pollution under control centre",
+      "address": "GHMF+XPC, Chithara",
+      "lat": 28.5352728,
+      "lng": 77.5739402,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJi-vRzx6VDDkRCsqk6Kd9wnM",
+      "name": "Saddam Khan Tyer Punchar",
+      "address": "NH-334C, Road, Dadri",
+      "lat": 28.5352274,
+      "lng": 77.579315,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJj0mxGLWUDDkRl8AzvCryqJU",
+      "name": "IndianOil",
+      "address": "Chithara",
+      "lat": 28.5436782,
+      "lng": 77.563518,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-8kNSQC9DDkR2sktxp_XTZw",
+      "name": "Ch_ Balraj bhati",
+      "address": "FM74+W29, Sherpur",
+      "lat": 28.4647851,
+      "lng": 77.6551025,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ8aSg-7LuDDkRgegGn9fFvuY",
+      "name": "Indraprastha Gas Limited CNG Station",
+      "address": "KP-5, Ajit Singh Baisla Road, Knowledge Park V, Greater Noida",
+      "lat": 28.5560227,
+      "lng": 77.456201,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkYd-FLTuDDkRG5ta0gSPXpk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Gautam Buddha Balak Inter College, Aimnabad, Greater Noida",
+      "lat": 28.55806389999999,
+      "lng": 77.4520254,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRZURgf7lDDkR9UKnvWHx7bo",
+      "name": "Planners Koncept",
+      "address": "D-285, Block, 285-D, Sector 47, Noida",
+      "lat": 28.5477966,
+      "lng": 77.3652401,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJE3kH1urvDDkRRwG3ogpbNsg",
+      "name": "Bharat Petroleum, Petrol Pump",
+      "address": "Sector 71, Noida",
+      "lat": 28.5917657,
+      "lng": 77.3794234,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeQNIgunlDDkR22qSKh8wt_A",
+      "name": "IndianOil",
+      "address": "Dsc Sector-40-41 Road, Sector 41, Noida",
+      "lat": 28.5617697,
+      "lng": 77.3582541,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy5-CAhnmDDkRdcCZoHfKqV4",
+      "name": "Indraprastha Gas Limited CNG Station",
+      "address": "G9GC+C4F, Service Lane, Noida Gr, Noida-Greater Noida Expressway, Sector 105, Noida",
+      "lat": 28.5260608,
+      "lng": 77.3703037,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxfEyVnTvDDkRgRHFhPEPiLw",
+      "name": "IndianOil",
+      "address": "Bisrakh Jalalpur, Greater Noida",
+      "lat": 28.5632826,
+      "lng": 77.4341311,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJezljVQDvDDkRp6BrwWFceKY",
+      "name": "adhiraj",
+      "address": "HF52+5W2, Ace City Noida Extension, Sector 1, Aimnabad, Bisrakh Jalalpur, Greater Noida",
+      "lat": 28.5578881,
+      "lng": 77.45226679999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJVdQjVNPvDDkRl9VcMEQKuFE",
+      "name": "IGL CNG STATION -KP5",
+      "address": "Knowledge Park V, Greater Noida",
+      "lat": 28.5559985,
+      "lng": 77.456259,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbU_2SwDvDDkRP0FqRHEgDBQ",
+      "name": "IGL Gas Limited",
+      "address": "KP-5, Ajit Singh Baisla Road, Chauganpur, Knowledge Park V, Greater Noida",
+      "lat": 28.5559916,
+      "lng": 77.4564953,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ8RsmBBzpDDkRhri-LxaQYGk",
+      "name": "BP Knowledge park 2 bpcl Petrol Pump",
+      "address": "Tusiana Village, Knowledge Park V, Greater Noida",
+      "lat": 28.5453803,
+      "lng": 77.4656064,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlxKTW33vDDkRBWYXspHOivM",
+      "name": "IndianOil",
+      "address": "No PP01, Agriculture Green, near Sports City, Bisrakh Jalalpur, Noida",
+      "lat": 28.5770058,
+      "lng": 77.426598,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx0NxKe7lDDkRFLppq9Vxcsg",
+      "name": "New Indian Diesel Service",
+      "address": "near Amar Singh Palace, Dadri Main Road, Bhengal, Phase 2, Noida",
+      "lat": 28.5379964,
+      "lng": 77.3894512,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgSBfLQDpDDkR84FFIY1S_OU",
+      "name": "Urea pump",
+      "address": "G9WQ+78C, Salarpur, Noida",
+      "lat": 28.5456897,
+      "lng": 77.3882686,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJwcz2-jvtDDkRpnEIfdoFdKY",
+      "name": "BPCL petrol pump & CNG",
+      "address": "130 Metre, opposite Kherpur Village, Vaidpura, Greater Noida",
+      "lat": 28.5704299,
+      "lng": 77.4724622,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_4UMWgDtDDkRgepw8GjalAk",
+      "name": "IGL CNG",
+      "address": "HF6J+67, Greater Noida",
+      "lat": 28.5605362,
+      "lng": 77.4807344,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ8-WlypLtDDkR4ChH6e44LTY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "PP 01, Sector 12, Noida",
+      "lat": 28.5602148,
+      "lng": 77.480892,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUSzxmtHrDDkRYbXpJIMpPi4",
+      "name": "BP GNA KP 1 COCO OUTLET",
+      "address": "GFXQ+37F, Greater Noida West Link Road, Tusiana Village, Knowledge Park V, Greater Noida",
+      "lat": 28.54768989999999,
+      "lng": 77.4881571,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJYZf8vBrvDDkRdfi08v1sxN4",
+      "name": "IndianOil",
+      "address": "No PP01, Techzone 07 130, Mtr Road, Milak Lachchhi, Noida",
+      "lat": 28.5899308,
+      "lng": 77.461193,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDy7VcADlDDkRXTTFJYvoA-w",
+      "name": "Bharat Petrolium",
+      "address": "park, Sector 48 Road, Block A, Sector 47, Noida",
+      "lat": 28.5520132,
+      "lng": 77.3758537,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe9NFRgDvDDkR-dTX1DJTVes",
+      "name": "Indian Oil",
+      "address": "14, Sector 50 Block D Road, Noida",
+      "lat": 28.5692934,
+      "lng": 77.3784893,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ_WRbH-vxjQgRZ4oKvQ1V_-Y",
+      "name": "ASSURE FUEL PRIVATE LIMITED",
+      "address": "Tower A, Spectrum metro mall, 1422, Sector 75, Noida",
+      "lat": 28.57399509999999,
+      "lng": 77.37925179999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJV-98lWbnDDkRPTJ4skySn2Y",
+      "name": "Petrol Pump HMEL 108",
+      "address": "PP-01, Sector 108, Noida",
+      "lat": 28.5237653,
+      "lng": 77.3731821,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOxoS4dPvDDkR-PUb7gmuXi4",
+      "name": "Bharat Petrol pump and CNG pump",
+      "address": "JF23+959, Greater Noida West Link Road, Roza Yakubpur, Greater Noida",
+      "lat": 28.6009023,
+      "lng": 77.4529739,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYcddrBDmDDkR7H4D_wxBP6s",
+      "name": "IndianOil",
+      "address": "G9M8+565, No PP/1, Noida-Greater Noida Expressway, Sector 105, Noida",
+      "lat": 28.5284837,
+      "lng": 77.3662725,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJd6ee4PPnDDkRKvj6ZVOUdQ4",
+      "name": "Paras Fuels",
+      "address": "Plot Flat No. PP-1, Block A, Sector 105, Noida",
+      "lat": 28.5329683,
+      "lng": 77.3642715,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJj25rrkzvDDkRMklSDUm8eOc",
+      "name": "IndianOil",
+      "address": "No PP 01 & GH 01, Noida Extension, Sector 4, Greater Noida",
+      "lat": 28.606502,
+      "lng": 77.426627,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJR_4tfQDvDDkRN6H7gmFUt_k",
+      "name": "Pollution centre",
+      "address": "JC4X+888, Sector 16B Road, Bhangel, Greater Noida",
+      "lat": 28.6057823,
+      "lng": 77.4483355,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJL92MAAXvDDkR-ozg3WBcxa0",
+      "name": "Shri Goverdhan - Petrol Pump",
+      "address": "PP-01, Vishwakarma Road, Sector 72, Noida",
+      "lat": 28.58271,
+      "lng": 77.3769453,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEY14SS_vDDkRKtpJKlDBOHc",
+      "name": "Bharat Petroleum",
+      "address": "JC4F+VRP, Service Road, Yusufpur, Nai Basti Dundahera, Ghaziabad",
+      "lat": 28.6072121,
+      "lng": 77.42456969999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJPyqgUwDvDDkRotRRJxjbAGc",
+      "name": "BP AGRICULTURE FARM-1",
+      "address": "JC4F+VRW, Yusufpur, Nai Basti Dundahera, Ghaziabad",
+      "lat": 28.6072256,
+      "lng": 77.42457499999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJGxOWflvuDDkRa-0pYI9EZK4",
+      "name": "IndianOil",
+      "address": "Plot No PP 01, Sector 16B, Noida",
+      "lat": 28.6076122,
+      "lng": 77.4412396,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJN48w6Y3vDDkReo5pDtr-U-g",
+      "name": "Indraprastha Gas Limited CNG Station",
+      "address": "SUPERTECH ECO VILLAGE-2, Drop, Bhangel, Ghaziabad",
+      "lat": 28.607682,
+      "lng": 77.4411767,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7yCsH4flDDkR2CasRIj5b_E",
+      "name": "Indraprastha Gas Limited CNG Station",
+      "address": "Sector 50, Block A Road, Block E, Sector 51, Noida",
+      "lat": 28.5850169,
+      "lng": 77.3754747,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuQXA9EPrDDkRLmI9TZ3oQuw",
+      "name": "IndianOil",
+      "address": "near Railway Phatak, DSC Road, Dadri",
+      "lat": 28.54651,
+      "lng": 77.54442999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_RnQHZbsDDkRmzn-6YuKAlw",
+      "name": "Rawal Bharatgas Gramin Vitrak",
+      "address": "U.P, Dadri bypass Dhoom manikpur, Greater Noida",
+      "lat": 28.5779756,
+      "lng": 77.5387037,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJ975uU7nrDDkRBDfPKXM_R1o",
+      "name": "petrol pamp ki gali",
+      "address": "GGWW+M6J, Railway Road, Dadri",
+      "lat": 28.546704,
+      "lng": 77.5455138,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJmwclYJfsDDkRniWMxZD7Hyo",
+      "name": "IndianOil",
+      "address": "Dhoon Dadri, GT Road, Noida",
+      "lat": 28.57289,
+      "lng": 77.53493999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQ8vM4qDsDDkRrnTYxiBF1J8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, GT Road, Dadri",
+      "lat": 28.5646974,
+      "lng": 77.5428578,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJb80c5VjrDDkRfFPv1u-m9_g",
+      "name": "नवीन मण्डी स्थल",
+      "address": "HG6W+3PJ, Old NH 91, Dadri",
+      "lat": 28.5602222,
+      "lng": 77.54676119999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJewAT9ezrDDkRmwrUNwKo2kk",
+      "name": "Dwarkadheesh energy hub",
+      "address": "Dadri ,Opps, Naveen Mandi",
+      "lat": 28.5610026,
+      "lng": 77.5473317,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ-QKGEWmVDDkRCLvPn6jxu7Y",
+      "name": "IndianOil",
+      "address": "Khasra No- 678, 1302 Jarcha, opposite Haji Farm, Noida",
+      "lat": 28.5559584,
+      "lng": 77.5541501,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfU2CO03sDDkRi9WPi8kMlCk",
+      "name": "IndianOil",
+      "address": "near Patwari Ka Bagh, NH 91 Dadri, near Patwari Ka Bagh, Achheja, Noida",
+      "lat": 28.6033871,
+      "lng": 77.50257730000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWymTuS2VDDkRTEn53zU8I5M",
+      "name": "Aqib Cng Pump",
+      "address": "125, Ramnager Road, Nodia, Dadri",
+      "lat": 28.553524,
+      "lng": 77.57340239999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJjRD7AZaVDDkRS1pMjvsTzwI",
+      "name": "GAGAN",
+      "address": "125, Delhi Delhi Roasd, Dadri",
+      "lat": 28.553524,
+      "lng": 77.57340239999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJpV4bVLGVDDkRjV2xza9rN_4",
+      "name": "CNG PUMP DELHI",
+      "address": "near by Meerut, 124, Delhi Road, Dadri",
+      "lat": 28.553524,
+      "lng": 77.57340239999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJFfuPCb_tDDkRl5jrDDxO6nA",
+      "name": "Bharat Petroleum Corporation Limited BP EPE2",
+      "address": "BP EPE2 , milak, Eastern Peripheral Expressway, murad nagar, chakarpur, Ghaziabad",
+      "lat": 28.5921077,
+      "lng": 77.5527704,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7bgLSgCTDDkR3aJ8FsdOplY",
+      "name": "Sharma Filling Centre Bisahda",
+      "address": "HHJC+64P, Bisahda",
+      "lat": 28.580593,
+      "lng": 77.5703326,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJAbygiB-VDDkRk8mzbvrfNg4",
+      "name": "Ramaya Fuel Station",
+      "address": "opp. Haji Farm, Dadri-Jarcha Road, Jarcha, Dadri",
+      "lat": 28.5670097,
+      "lng": 77.64679699999999,
+      "open_now": true
+    }
+  ]
+}

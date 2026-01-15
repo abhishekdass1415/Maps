@@ -1,0 +1,707 @@
+{
+  "city": "Tirupati",
+  "state": "Andhra Pradesh",
+  "count": 87,
+  "center": {
+    "lat": 13.6288,
+    "lng": 79.4192
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJ5-jSaO2zsjsRejQ2dJAcFx4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Chandragiri",
+      "lat": 13.5788416,
+      "lng": 79.311173,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJaRAMIqzsjsRQMPjrHW0Bc8",
+      "name": "Petrol Pump",
+      "address": "Chandragiri",
+      "lat": 13.5887554,
+      "lng": 79.3175744,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-cZRhe2zsjsR7l7gEHPRjcA",
+      "name": "IndianOil",
+      "address": "No 12016/56, SH 61, Chandragiri Fort Road",
+      "lat": 13.5785085,
+      "lng": 79.3087491,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM65qQr60sjsRJS0uQt3tf2g",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near Cherlopalli - Alipiri Road, Sy No 135/2 Tirupati, near Cherlopalli - Alipiri Road, Chandragiri Road, Pudipatla",
+      "lat": 13.611536,
+      "lng": 79.35977299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgRc20sC0sjsRk51S2StjIkc",
+      "name": "Bharat Petrol Bunk",
+      "address": "J997+774, Alipiri Bypass Road, Saibaba Colony, Thatithopu, Cherlopalli",
+      "lat": 13.6181347,
+      "lng": 79.3632123,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ_2jqkRy1sjsR0GHTfHmHh8k",
+      "name": "IndianOil",
+      "address": "Survey No 27/C2 Chandragiri, Thondavada, Perumallapalle",
+      "lat": 13.5926001,
+      "lng": 79.3333,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2ZY91vi1sjsRlv9gJb1cLRY",
+      "name": "Nayara Petrol pump",
+      "address": "11/2A, State Highway 61, Akkarampalle, Chandragiri",
+      "lat": 13.5943644,
+      "lng": 79.33709499999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ6Xr8CwCzsjsRrG1DTswqfSA",
+      "name": "Chandragiri sir bypas",
+      "address": "H8Q8+693, Chandragiri",
+      "lat": 13.5880077,
+      "lng": 79.3159343,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJF7O82uGzsjsRySqudXzyiRo",
+      "name": "SMR The Best, BPCL dear/PETROL/DIESEL /CNG/120 KV EV/Adblue PumpStation",
+      "address": "NH 140 Tirupati, to, Bangalore Road, Chandragiri",
+      "lat": 13.5787835,
+      "lng": 79.30132189999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUXnI_eBNTToRkiK0G1CNaqY",
+      "name": "Bharat Petroleum Petrol Pump , ROOPADEVI FILLING STATION",
+      "address": "SY.NO.126, C. RAMAPURAM VILLAGE,TIRUPATI - PATCHIKAPULAM ROAD",
+      "lat": 13.5547198,
+      "lng": 79.40130979999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIefIpyVNTToRR025sRt_dAo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "S No 112/4C, RC Road, Ramachandrapuram, Tirupati",
+      "lat": 13.5507326,
+      "lng": 79.400987,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJi9CpJXC1sjsRrwMfbfiV6iA",
+      "name": "SLV FUEL STATION-2",
+      "address": "SLV FUEL STATION COMPLEX, Srinivasa Mangapuram Road, Pudipatla",
+      "lat": 13.610252,
+      "lng": 79.3399069,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ1VJplia1sjsRVpDs9aBrUoQ",
+      "name": "Nayara Petrol Bunk",
+      "address": "J86R+62C, Pudipatla",
+      "lat": 13.6105622,
+      "lng": 79.3400032,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL11St9O1sjsRvsM1BMlgoPk",
+      "name": "Bharat Petroleum Petrol and CNG station",
+      "address": "J86P+63H, Chennai - Anantapur Highway, Kaluru",
+      "lat": 13.610557,
+      "lng": 79.3352215,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJXbmp_EBNTToRkKeMqW0ewpM",
+      "name": "KRR FILLING STATION",
+      "address": "76/1, Ramachandra, puranam, C Ramapuram",
+      "lat": 13.5661133,
+      "lng": 79.4049752,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHeK0V7-0sjsRqrCGTTwBdWA",
+      "name": "IndianOil",
+      "address": "Lock No 141, Alipiri Bypass Road, Tirupati",
+      "lat": 13.615481,
+      "lng": 79.363226,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXVTA1TVNTToRpJBBlgGUV8w",
+      "name": "IndianOil",
+      "address": "Lock No 11, Survey No 153, A P H, B Colony, Chiguruwada South Khandriga",
+      "lat": 13.584224,
+      "lng": 79.4081559,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPxrMLQC1sjsRGccr4epag1g",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near Tirupati, Survey No 441, Mittapalem NH 71, Chandragiri, near Tirupati, Madanapalle Road, Narasinga Puram",
+      "lat": 13.615718,
+      "lng": 79.311269,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCyL68jRLTToR5YeYgRLup7c",
+      "name": "IndianOil",
+      "address": "Lock No 3, AG collg, SV Agricultural College, 2/57, chandragiri road, Vidya Nagar Colony, Tirupati",
+      "lat": 13.6207936,
+      "lng": 79.3827158,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCeYJSlJLTToRESe8entID0w",
+      "name": "Bharat Petroleum Petrol Pump , SARAVANABAVA FILLING STATION",
+      "address": "SY.NO.571, Chandragiri - Nagaiahgaripalli Road, Chittoor",
+      "lat": 13.621891,
+      "lng": 79.383768,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdf5G_kuxsjsRm4BbCfjeUJ0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near Naidupeta, Ground Floor NH, Chandragiri, near Naidupeta, Puthalpat Road, Ithepalli",
+      "lat": 13.5790847,
+      "lng": 79.2786382,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPyRq3ZlLTToRxzC7Uw8wpyo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 1/10, Tiruchanoor Road, Srinivasapuram, Srinivasapuram, Padmavati Nagar, Tirupati",
+      "lat": 13.6147149,
+      "lng": 79.4359656,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_Xh9CgxLTToRCVSBk09u6BM",
+      "name": "IndianOil",
+      "address": "Survey No 228, DN Choultry, 1, Air Bypass Road, Padmavathi Nagar, Tirupati",
+      "lat": 13.622774,
+      "lng": 79.419681,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0cEMaaFLTToRXYwsh9RkTDo",
+      "name": "Bharat Petroleum Petrol Pump",
+      "address": "JCFJ+427, Old Tiruchanoor Road, Ashok Nagar, Tirupati",
+      "lat": 13.622798,
+      "lng": 79.4300426,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpTdEHqRLTToRA-k8YXP6C9Y",
+      "name": "IndianOil",
+      "address": "Lock No 108, DN Choultry, Chittoor, Ramanuja Circle, Tirupati",
+      "lat": 13.6255142,
+      "lng": 79.4313872,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVVTdEwhLTToRhJX0YOpHkxw",
+      "name": "HP Petrol Bunk",
+      "address": "19-9-41/B, Old Tiruchanoor Road, Kennedy Nagar, Ashok Nagar, Tirupati",
+      "lat": 13.6259396,
+      "lng": 79.43063149999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXwAj-aRLTToRnt5t4IOJ4AA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "1/A2/B7, Renigunta Road, Tirupati",
+      "lat": 13.6262655,
+      "lng": 79.4333005,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJa1OmJABNTToRaz4Wj2OuT3A",
+      "name": "Nayara Petrol Bunk",
+      "address": "HCMQ+V64, TT Road - Challavaripalli Road, Kuntrapakam",
+      "lat": 13.5846382,
+      "lng": 79.43808990000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJa8Cy4rtLTToReaI02iU_uC4",
+      "name": "Nayara Petrol bunk",
+      "address": "JC39+V6M, Tirupati Bypass Road, Ambedhkar Colony, Vedantha Puram",
+      "lat": 13.6037897,
+      "lng": 79.4189822,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1-CtgExLTToRoX_F5htvM9k",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Park, near Avilala, RC Road, Avilali",
+      "lat": 13.609791,
+      "lng": 79.41330099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjzsp_u1LTToRkLMP9iME40Y",
+      "name": "VKRR FUEL STATION",
+      "address": "JC67+55J, Tirupathi Kothapallimitta Road, Ambedhkar Colony, Avilali",
+      "lat": 13.6104689,
+      "lng": 79.4129001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJe1d1PF5LTToR2ctCVR55M8Y",
+      "name": "IndianOil",
+      "address": "Survey No 93, 393/493/5, Avilala, Avilali",
+      "lat": 13.6109436,
+      "lng": 79.4132776,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJh_jJZQZLTToRXHWVLZahi7M",
+      "name": "IndianOil",
+      "address": "Sy No 236A, Lock No 143 Padi, Tiruchanur",
+      "lat": 13.599108,
+      "lng": 79.457937,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVfgVb05LTToRTtK_sAi7hsE",
+      "name": "Bharat Petroleum, Petrol Pump -K.G.N Company",
+      "address": "Tiruchanoor Road, Tirupati",
+      "lat": 13.6118979,
+      "lng": 79.44153349999999,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJ0SA_5G9LTToRsCbziHacJ3I",
+      "name": "KGN COMPANY BPCL",
+      "address": "JC6R+QMC, Tiruchanur, Alivelu Mangapuram",
+      "lat": 13.6119334,
+      "lng": 79.44163209999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJCYITyitLTToRddCNR0Rl4_o",
+      "name": "Diesel Doorstep Delivery in Tirupati",
+      "address": "Tiruchanoor Road, Tirupati",
+      "lat": 13.6128091,
+      "lng": 79.4484525,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ9ccgT6ZNTToRQ0CANue305c",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Sy No 150/B, Pudi Road, Padipeta",
+      "lat": 13.5959497,
+      "lng": 79.4691888,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ66oN6EJLTToRV8xxan3Q4YM",
+      "name": "Ponnu MNM Petro Station Indian Oil",
+      "address": "Tiruchanur, Konkachennaiahgunta",
+      "lat": 13.6129363,
+      "lng": 79.4520635,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAZFu0Z1LTToRDeUYiX0LdEM",
+      "name": "Hindustan petrolium",
+      "address": "JCFC+3Q8, beside eega wines, Air Bypass Road, Bairagi patteda, Tirupati",
+      "lat": 13.6225624,
+      "lng": 79.4220332,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJg3QrJN1LTToRfoMe6AvV4vM",
+      "name": "Naga Sesha Sai Quality Fuels, Bharat Petroleum",
+      "address": "Air Bypass Road, STV Nagar, Tirupati",
+      "lat": 13.6225737,
+      "lng": 79.42382049999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7TzTF-VLTToRHW1Qjpt1W94",
+      "name": "Bharat Petroleum, Petrol Pump -Seven Roads Filling Station",
+      "address": "TIRUPATHI 7 RD JN., CHITTOOR",
+      "lat": 13.6239864,
+      "lng": 79.435358,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJobV6kUNLTToRhkM0IjLybRM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 19, near Ramanuja Circle, 3/16/A, Tiruchanoor Road, Tirupati",
+      "lat": 13.6259023,
+      "lng": 79.430775,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6YwP4GRLTToRY3YfZwKJGDw",
+      "name": "IndianOil",
+      "address": "Survey No 326/1A2/1, Tiruchanur, Padi",
+      "lat": 13.6210869,
+      "lng": 79.4527069,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRcnOEwhLTToRDWLu7XhSZ5Q",
+      "name": "Pasuparthy Petroleum Company (Bharat Petroleum)",
+      "address": "near Gandhi Circle, 200, Tirupati Road, T P Area, Tirupati",
+      "lat": 13.6289617,
+      "lng": 79.424258,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJCfJM839LTToRwXWHj6JPLx4",
+      "name": "IndianOil",
+      "address": "Lock No 269, D N Choultry, Tirupati",
+      "lat": 13.629416,
+      "lng": 79.424308,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy6ZJYtZOTToR1Aqyh8i7Xdc",
+      "name": "IndianOil",
+      "address": "Lock No 9 Athur,Gajulamandyam, Near RTD 172 Km, Tirupati",
+      "lat": 13.5926698,
+      "lng": 79.5127756,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_2n79blPTToR0qAbPm0SIf8",
+      "name": "IndianOil",
+      "address": "Lock No 21 SV Puram, Vadamalapet, Appalayagunta",
+      "lat": 13.537288,
+      "lng": 79.527821,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIbIBLtpLTToRLTwu5-Feeqk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Tirupati Bypass, Renigunta, Thukivakam Rural",
+      "lat": 13.6172817,
+      "lng": 79.4927235,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6c0g7ytPTToRIhgavTNztJw",
+      "name": "IndianOil",
+      "address": "Survey No 92/1A, Kayam, Vadamalapeta, Desireddigaripalle",
+      "lat": 13.563287,
+      "lng": 79.495143,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdwvmRStPTToRmaesiBR6tMg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 716, Tirupati - Nagari Road, Vadamalapet",
+      "lat": 13.5631944,
+      "lng": 79.51655559999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ89AQwThPTToRErQciKP8cQI",
+      "name": "Bharat Petrol Bunk",
+      "address": "HG39+X93, Unnamed Road, Ammavaripatteda",
+      "lat": 13.5548863,
+      "lng": 79.518408,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJu1ydNgpPTToRaESHNw6m3BQ",
+      "name": "Nayara Petrol filling station",
+      "address": "HG2P+XCW, National Highway 716, Srinivasapuram",
+      "lat": 13.5524799,
+      "lng": 79.5360934,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSf-FfQBJTToRLQ7ityhSgyg",
+      "name": "CNG",
+      "address": "JF8P+F93, Tukivakam",
+      "lat": 13.6161818,
+      "lng": 79.4858138,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJyWzm5BpLTToRH9B-8fYUi9c",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 935/1, opposite Mahathi Auditorium, 293, Kola Street, Balaji Colony, Tirupati",
+      "lat": 13.631832,
+      "lng": 79.412084,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8YweJAFLTToR2KYOH6DbL_0",
+      "name": "IndianOil",
+      "address": "Lock No 184, Chittoor,DN Choultry, Tirupati",
+      "lat": 13.636444,
+      "lng": 79.422246,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJV9L4Kmq1sjsRRVwW7mxwN7w",
+      "name": "IndianOil",
+      "address": "D N Choultry, Lock No 12022/56 Tirumala Hills, Tirupati Urban",
+      "lat": 13.6755637,
+      "lng": 79.3506938,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJv21Q2YO1sjsRyKH0606aGVg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, beside New D Type Quarters, Outer, Tirumala Outer Ring Road, Chittoor",
+      "lat": 13.677364,
+      "lng": 79.35376699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJk5-Z9VlLTToR5oiCCKCAzAA",
+      "name": "IndianOil",
+      "address": "Survey No 893, The Superintendent of Police DN Choultry, Tirupati",
+      "lat": 13.6330422,
+      "lng": 79.4136056,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm34AVudLTToRYPcYQUXZuVQ",
+      "name": "SRI VIJAYALAKSHMI ENTERPRISES",
+      "address": "JCM8+68P, Bazar Street, Varadaraja Nagar, Tirupati",
+      "lat": 13.6330755,
+      "lng": 79.4158272,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJdwPK0fZLTToRW_4UzH9RSqw",
+      "name": "IndianOil",
+      "address": "Lock No 114, KT Road, A P Housing Board Colony, Tirupati",
+      "lat": 13.6428801,
+      "lng": 79.4187042,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe_FRsX1LTToRPORjTudWdI8",
+      "name": "IndianOil",
+      "address": "Door No 4042, Lock No 146, D N Choultry, Old, Mahaveer Road, Tirupati",
+      "lat": 13.633599,
+      "lng": 79.421046,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ05buLQFLTToR85YOGDEuIsA",
+      "name": "Petrol Pumps",
+      "address": "575, 1 A, Tilak Road, Mallaiah Gunta Katta, Tata Nagar, Tirupati",
+      "lat": 13.6364835,
+      "lng": 79.4222619,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJWUQfS_hKTToRZP-mGOzUOw0",
+      "name": "IndianOil",
+      "address": "D N Choultry, Lock 31 K T Rd, Bypass, Rd, Tirumala, Tirupati",
+      "lat": 13.6506582,
+      "lng": 79.4231239,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvWne1vlKTToRwnccrpo-xRU",
+      "name": "IndianOil",
+      "address": "Lock No 183, Rtc Bus Stand, KT Road, DN Choultry, Tirupati",
+      "lat": 13.6519575,
+      "lng": 79.4225806,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ327Zrk1KTToRD9GQlLquQ4M",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Karakambadi Road, Akkarampalle, Tirupati",
+      "lat": 13.6450818,
+      "lng": 79.4387615,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3cpkDUxKTToRWkIqvQDiQjY",
+      "name": "IndianOil",
+      "address": "L No 194, D N Choultry, Road, Mangalam, Tirupati",
+      "lat": 13.646297,
+      "lng": 79.441394,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfQXsEQVJTToRnluttze5WGQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Ranigunta, Tirupati Road Industrial Estate, Chettypalli, Renigunta",
+      "lat": 13.6330739,
+      "lng": 79.4846678,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY6JvO1VKTToR1_-mU6GbWwM",
+      "name": "IndianOil",
+      "address": "Lock No 187, DN Choultry, No 13/6/600/44/99, 211, Peddakapu Colony, Chittor",
+      "lat": 13.6424612,
+      "lng": 79.4272806,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsRGmV6xLTToR_PCAStJZ3Zo",
+      "name": "Venkat Residency",
+      "address": "Kadapa - Tirupati Road, Akkarampalle, Tirupati",
+      "lat": 13.644224,
+      "lng": 79.43800619999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ09VRznRLTToRHhkmT13Iqd4",
+      "name": "P VIJAYA KUMAR",
+      "address": "Shop No.2, Road, Mangalam, Tirupati",
+      "lat": 13.645185,
+      "lng": 79.43845429999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJYVsfgh9LTToR1zPE0busEzc",
+      "name": "Essar Petrol Pump",
+      "address": "JCWV+P99, Mangalam, Tirupati",
+      "lat": 13.646788,
+      "lng": 79.4434801,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJb-KWSjJLTToRI6ykjgsuAwo",
+      "name": "Shell petrol station",
+      "address": "Karakambadi Road, Tirupati",
+      "lat": 13.648151,
+      "lng": 79.445594,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5yDXK19LTToRsL5EH3lv55E",
+      "name": "Bharat petroleum",
+      "address": "JCXX+J79, near D mart, Karakambadi Road, Tirupati",
+      "lat": 13.6490418,
+      "lng": 79.4482328,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJl5XDA8VLTToRZnTAlKe8Yvc",
+      "name": "S. Saleem Basha Diesel & Petrol Works",
+      "address": "India",
+      "lat": 13.6286648,
+      "lng": 79.4567361,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJrfXssGJJTToRWti0UgamD7Q",
+      "name": "P Madhusudan Bharat Petroleum",
+      "address": "Chadalawada nagar, Chittoor, NH-205, Renigunta - Tirupathi Road, Renigunta",
+      "lat": 13.6314241,
+      "lng": 79.47127189999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKRzwyxJJTToResBWuKXbBKw",
+      "name": "Bharat Petroleum, Petrol Pump -Pasuparthypetroleum Company Renigun",
+      "address": "RENIGUNTA( PPS -TIRUPATI R, CHITTOOR",
+      "lat": 13.6330292,
+      "lng": 79.4818167,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJc6nBUABJTToRZzu1DkWBXFU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, TP Area, Renigunta",
+      "lat": 13.6427957,
+      "lng": 79.5129726,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJh41J1F5ITToRmqLIZlSqaik",
+      "name": "IndianOil",
+      "address": "near Renigunta, L No 29 30, G Palli, Guruvarajapalli, Chittoor,Athur, near Renigunta, Srikalahasti - Tirupati Road, Tirupati",
+      "lat": 13.649119,
+      "lng": 79.5324852,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2QKMsNZJTToRoIelgVmNIHY",
+      "name": "IndianOil",
+      "address": "Lock No 103, Renigunta Kodur Road, Karakambadi, Athur",
+      "lat": 13.6854087,
+      "lng": 79.5088327,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfU0s8Q5JTToRSWbzWlSqxkg",
+      "name": "IndianOil",
+      "address": "Lock 189 Renigunta, Athur",
+      "lat": 13.6362576,
+      "lng": 79.5004549,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJh7IrlQFJTToRheTKSizb-24",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 13.6403589,
+      "lng": 79.51380999999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJU3wRlQFJTToRbztU18gP9es",
+      "name": "Sravani Filling Station",
+      "address": "441/4c, Banglore-Kadappa, highway, Renigunta",
+      "lat": 13.6406675,
+      "lng": 79.5139095,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNbxZGcdJTToRyJwtQxaCA_c",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Karakambadi Road, Chittoor",
+      "lat": 13.661478,
+      "lng": 79.486753,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfaim6jFJTToRQWN_3vVAZT0",
+      "name": "IndianOil",
+      "address": "Lock No 113, RCR Avenue, Karakambadi, Attur",
+      "lat": 13.6678004,
+      "lng": 79.50548839999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1wVA3rRJTToRsrXAb0fS1rU",
+      "name": "IndianOil",
+      "address": "Lock No 129, Karakambadi Road, Athur, Tirupati",
+      "lat": 13.664892,
+      "lng": 79.513762,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8a7DTalITToRtM-RbJ2jAXA",
+      "name": "IndianOil",
+      "address": "Ground Floor, Papanaidupet - Gudimallam Road, Chellur, Vikruthamala",
+      "lat": 13.607721,
+      "lng": 79.555083,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIdi4oXBITToRtj6CKb_Vh9Q",
+      "name": "IndianOil",
+      "address": "Lock No 190 Mallavaram, Renigunta, Athur",
+      "lat": 13.6583,
+      "lng": 79.5534,
+      "open_now": true
+    }
+  ]
+}

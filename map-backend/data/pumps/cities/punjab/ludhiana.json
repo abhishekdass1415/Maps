@@ -1,0 +1,1995 @@
+{
+  "city": "Ludhiana",
+  "state": "Punjab",
+  "count": 248,
+  "center": {
+    "lat": 30.9009,
+    "lng": 75.8573
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJw_qL311_EDkR5MJWPgsPbDU",
+      "name": "IndianOil",
+      "address": "Ground Floor Pakhowal Road, Lalton Kalan, Dad",
+      "lat": 30.832726,
+      "lng": 75.785347,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcxeNnYqBGjkRiPovv8xUSQ4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Pakhowal Road, Lalton Kalan, Dad",
+      "lat": 30.865221,
+      "lng": 75.80672100000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2QMBoUt-EDkRcrERIEGCAcA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, opposite Rishab Spinning Mills, Pakhowal Road, Jodhan",
+      "lat": 30.7864474,
+      "lng": 75.7423542,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5b9Su394EDkRRa7coSrGZqo",
+      "name": "Teri Oat Fuel Station",
+      "address": "Bye-pass, l, Gill Road, Gill",
+      "lat": 30.8444229,
+      "lng": 75.8555686,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJI2wPtkWCGjkRiM-y30eRH6E",
+      "name": "IndianOil",
+      "address": "Phase 1, Dugri Road, Ludhiana",
+      "lat": 30.87542899999999,
+      "lng": 75.83743299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCXVLUDSCGjkRBnLYr1ZkL3o",
+      "name": "IndianOil",
+      "address": "Southern Bypass, Pakhowal Road, Ludhiana",
+      "lat": 30.884592,
+      "lng": 75.82661399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXQBTm1yCGjkRuGTCrCL-iPA",
+      "name": "Bharat Petroleum, Petrol Pump -Auto Power",
+      "address": "VRCV+VJ2, Phase 1 Road, Phase 1, Duggri, Urban Estate Dugri, Ludhiana",
+      "lat": 30.87266189999999,
+      "lng": 75.84400190000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl_FAxraDGjkR4JNDcBjObog",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Pakhowal Road, Jagjit Nagar, Ludhiana",
+      "lat": 30.889301,
+      "lng": 75.827151,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXe6lzYiCGjkRAFhl3AGMQYw",
+      "name": "IndianOil GILL ROAD SERVICE STATION",
+      "address": "opp. G.N.E. College, Gill Road, Ludhiana",
+      "lat": 30.859774,
+      "lng": 75.85918400000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhZeDmUuCGjkRhE72F5SX3gA",
+      "name": "IndianOil",
+      "address": "Jabaddi Road, Kundan Nagar, Model Town, Ludhiana",
+      "lat": 30.885748,
+      "lng": 75.834785,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJebHK6ViCGjkROA4KmVDReig",
+      "name": "IndianOil",
+      "address": "near Railway Street, Gill Road, near Railway Street, Road, Danamandi Road, Duggri, Ludhiana",
+      "lat": 30.87530490000001,
+      "lng": 75.851601,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJW0NsCGSBGjkRc4dDht8p_oQ",
+      "name": "PAU Petrol Pump",
+      "address": "Punjab Agricultural University, Ludhiana",
+      "lat": 30.9012322,
+      "lng": 75.800991,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsYZYeLGBGjkR0mrB36hCmaI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Lalton Kalan",
+      "lat": 30.84674239999999,
+      "lng": 75.7716308,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC0ljEAt_EDkRZBFe-F-hU9Y",
+      "name": "Indian oil petrol pump dolon kalan",
+      "address": "RQ5W+M4, Dolon Kalan",
+      "lat": 30.8091286,
+      "lng": 75.7953385,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJW8efLLF4EDkRCJ6zMNIJ1QY",
+      "name": "IndianOil",
+      "address": "New Courts, Ground Floor Dugri Kheri Jhameri, Road, Ludhiana",
+      "lat": 30.824986,
+      "lng": 75.815435,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUbc_S_GBGjkR21a4A7JgYhw",
+      "name": "IndianOil",
+      "address": "Ground Floor, Pakhowal Road, Model Gram, Dad",
+      "lat": 30.85568099999999,
+      "lng": 75.801024,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg63mc6d_EDkRZRQhQ-XHGCY",
+      "name": "IndianOil",
+      "address": "Ground Floor Mansooran, Shaheed Bhagat Singh Nagar, Andlu",
+      "lat": 30.804912,
+      "lng": 75.759295,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo0a12a-BGjkRgS5u68efY78",
+      "name": "IndianOil",
+      "address": "Ground Floor, Rajguru Nagar, Tharike",
+      "lat": 30.8689896,
+      "lng": 75.7745097,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZynbTtN5EDkR1bUEAhRJihM",
+      "name": "Nikka Hi Fi Dj",
+      "address": "86, Chupki - Jassowal Road, Ludhiana",
+      "lat": 30.803109,
+      "lng": 75.8237784,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJx3gtuheCGjkRq_E3mFDN5Uk",
+      "name": "Bharat Gas Godam",
+      "address": "Anand Vihar, Phullanwal, Ludhiana",
+      "lat": 30.86302099999999,
+      "lng": 75.82054000000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJWzmuQVaBGjkRuolLH2MoSbk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Jhande Road, Baddowal",
+      "lat": 30.86606769999999,
+      "lng": 75.7576806,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXQ0Kxs6DGjkRxME4gkTULNw",
+      "name": "IndianOil",
+      "address": "near Grand City Plaza, BRS Bypass, Phullanwal, Ludhiana",
+      "lat": 30.8716422,
+      "lng": 75.8112216,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3V2JfBSDGjkRltSAWfBTiCM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Pakhowal Road, Ludhiana",
+      "lat": 30.8724107,
+      "lng": 75.8143031,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL5e_joF_EDkRUMAMutGZq-I",
+      "name": "IndianOil",
+      "address": "Ground Floor Jodhan, Pakhowal Road, Andlu",
+      "lat": 30.7913048,
+      "lng": 75.7473942,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_4ydsG-CGjkRHW6hmlNcQUI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Dugri-Dhandra Road, Dhandra, Ludhiana",
+      "lat": 30.8587395,
+      "lng": 75.84019839999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL63MTqqDGjkR_kZnFDuYXLE",
+      "name": "AVIRAJ FILLING STATION",
+      "address": "VR2W+XPP, 200 FOOT GLADA BYPASS ROAD BACK SIDE BABA BALAKNATH MANDIR, Shaheed Bhagat Singh Nagar, SBS Nagar, Ludhiana",
+      "lat": 30.85266699999999,
+      "lng": 75.84896549999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlZmegG-DGjkRNOoFTfYpEKY",
+      "name": "Raja Jung Filling Station",
+      "address": "Shop No 66, Near Kabrawala Pull, Grand Trunk Road, Ludhiana",
+      "lat": 30.8710303,
+      "lng": 75.8358708,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJLcYDWHeBGjkR2Q4wXed2jiU",
+      "name": "Bharat Petroleum",
+      "address": "VQQW+P5W, A Block, Aggar Nagar, Ludhiana",
+      "lat": 30.8893674,
+      "lng": 75.79544899999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJD1QMGAB5EDkRgByUNoIhEQI",
+      "name": "Alamgir auto fuels",
+      "address": "RVR5+C39, Ludhiana - Malerkotla Road, Gill",
+      "lat": 30.8410263,
+      "lng": 75.8577294,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJS10rA3yBGjkRFNDKNsTMAvg",
+      "name": "IndianOil",
+      "address": "Ground Floor, opposite Verka Plant, Ferozepur Road, Ludhiana",
+      "lat": 30.89107409999999,
+      "lng": 75.8019291,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlTadIQCDGjkRP8I8AQDWIR8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Sidhwan Canal, Pakhowal Road, Ludhiana",
+      "lat": 30.8850288,
+      "lng": 75.823036,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq4ZFNruDGjkROBpX8rWxRBA",
+      "name": "Tyre Puncture",
+      "address": "next to LIC office, Ludhiana",
+      "lat": 30.8756851,
+      "lng": 75.8377541,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJQYj-vF2CGjkRHeTqZSjJU48",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Guru Nanak Dev Engineering College Road, Urban Estate Dugri, Ludhiana",
+      "lat": 30.869322,
+      "lng": 75.84560479999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJz3owx-N5EDkRKUUyW2mqTBw",
+      "name": "Sachin",
+      "address": "Shop 18, Burger King, Road, Gill",
+      "lat": 30.8237377,
+      "lng": 75.86047599999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJeZs9xTaBGjkRKyU6HS7GN58",
+      "name": "CNG pump gahaur",
+      "address": "VP69+GR8, National Highway 95, Dakha",
+      "lat": 30.8613884,
+      "lng": 75.71981509999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfVQcwYOCGjkRLkHJ3FXixOk",
+      "name": "HP PETROL PUMP - HP SERVICE CENTRE",
+      "address": "Ground Floor, Ludhiana - Malerkotla Road, Gill",
+      "lat": 30.850744,
+      "lng": 75.86084009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJyDP9ZV5EDkRPDSnNgUIYes",
+      "name": "Indian Oil Pump",
+      "address": "RVM8+44M, Brahman Majra",
+      "lat": 30.8328406,
+      "lng": 75.86530259999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJw98hyR95EDkRHgyIwnZAWo8",
+      "name": "IndianOil",
+      "address": "Ground Floor, Malerkotla Road Alamgir, State Highway 11, Jaspal Banger, Ludhiana",
+      "lat": 30.824623,
+      "lng": 75.865721,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9-TVGnaAGjkR441bIS-lUfo",
+      "name": "Reliance Petroleum",
+      "address": "Ground Floor, near Mullanpur, Nh 5, Ferozepur - Ludhiana Road, Ludhiana",
+      "lat": 30.85953409999999,
+      "lng": 75.7144392,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWYiCZUN4EDkRkmHYm7gYFZs",
+      "name": "Reliance Petroleum",
+      "address": "Ground Floor, Sh 11, Ludhiana - Malerkotla Road, Rania",
+      "lat": 30.82012969999999,
+      "lng": 75.86723599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgQhYM1eCGjkRhLNRlC5Pmww",
+      "name": "Reliance Petroleum",
+      "address": "208/3, Dugri Road, Sant Fateh Singh Nagar, D-Block, Atam Nagar, Model Town, Ludhiana",
+      "lat": 30.88063039999999,
+      "lng": 75.84749049999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq6p6CZ-CGjkRWPSmC86lkRo",
+      "name": "IndianOil",
+      "address": "Ground Floor, Abadi Isher Nagar, Patiala",
+      "lat": 30.851404,
+      "lng": 75.87477899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy4ZZ-PmCGjkRDtReqssHKag",
+      "name": "HP PETROL PUMP - BHAVIKA HP CENTRE",
+      "address": "Near Ludhiana, Gill Road, Janta Nagar, Chandigarh",
+      "lat": 30.880896,
+      "lng": 75.859079,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJn-bFNrSCGjkRNCdLDqS5q68",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sua Road, Giaspura, Ludhiana",
+      "lat": 30.870159,
+      "lng": 75.895279,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJu7MEpPyCGjkR3nQK9UUkXME",
+      "name": "IndianOil",
+      "address": "21/11358, Plot No B, Street Number 7, Near Sangeet Cinema, Ludhiana",
+      "lat": 30.887146,
+      "lng": 75.864098,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfZ3eAZ55EDkRlff96J_50cs",
+      "name": "IndianOil",
+      "address": "Ground Floor SH 11, Malerkotla, Road, A P Basti, Kaind",
+      "lat": 30.773289,
+      "lng": 75.85329899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFzLwlv-CGjkRtKplBlOAsLE",
+      "name": "Bharat Petroleum, Petrol Pump -Link Road Service Station",
+      "address": "GILL CHOWK, Ludhiana",
+      "lat": 30.8893364,
+      "lng": 75.8571604,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_b5urlSCGjkRx-b9bVbCzSA",
+      "name": "IndianOil",
+      "address": "No 1, 1, Link Road, Model Town, Ludhiana",
+      "lat": 30.889861,
+      "lng": 75.848297,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVXRpRs2CGjkRz9JbjAau7ZQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Focal Point Road, Sherpur Kalan, Focal Point, Ludhiana",
+      "lat": 30.883421,
+      "lng": 75.899051,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOQjObNKCGjkRBRuVTbX1LXY",
+      "name": "IndianOil",
+      "address": "Sherpur Road, Focal Point, Ludhiana",
+      "lat": 30.8853193,
+      "lng": 75.8956184,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMdQtYwaDGjkRHqEtwlffXP4",
+      "name": "IndianOil",
+      "address": "GT Rd, Miller Ganj, Ludhiana",
+      "lat": 30.8997977,
+      "lng": 75.8589841,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGfGkVCl5EDkRTF5LQVo1Ljc",
+      "name": "IndianOil",
+      "address": "Ground Floor, Ludhiana Malerkotla Road, State Highway 11, Alamgir",
+      "lat": 30.8076865,
+      "lng": 75.8680814,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuUQZxmF5EDkRbEtcwy8aef0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Ludhiana - Sangrur Road, Sarinh",
+      "lat": 30.80009099999999,
+      "lng": 75.87005099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9YY6Pg6DGjkR9GCeewKJtDA",
+      "name": "Sharma Enterprises",
+      "address": "2032, Guru Baba Math Rd, Lakha, Ishar Nagar, Preet Nagar Road, Shimlapuri, Ludhiana",
+      "lat": 30.8608914,
+      "lng": 75.8753626,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJlRbyRkuDGjkRnBfJJ6lT0lk",
+      "name": "Har Oil Trading",
+      "address": "Lohara Road, Gurmail Nagar, Ludhiana",
+      "lat": 30.85412629999999,
+      "lng": 75.8904561,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwxkLuJZ3EDkR_PF66FI8Mpo",
+      "name": "IndianOil",
+      "address": "Sangowal",
+      "lat": 30.8256169,
+      "lng": 75.9039481,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOerclCd3EDkRlBagCinkErE",
+      "name": "Indian gas godown",
+      "address": "RWW2+HFM, Giaspura, Ludhiana",
+      "lat": 30.8464594,
+      "lng": 75.9011862,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBY3QEfSCGjkR0_zR848tSQc",
+      "name": "IndianOil",
+      "address": "VVF5+JC, Gill Road, Ggrain Market, Ludhiana",
+      "lat": 30.87409099999999,
+      "lng": 75.858749,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5RORSKR5EDkRGdou6VWOdHY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Malerkotla Road, Sarinh, Kaind",
+      "lat": 30.787111,
+      "lng": 75.860911,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWd1b1wiDGjkR53Fm3bLD1-0",
+      "name": "Gupta Suvidha Center",
+      "address": "Shop 64 /A Dana Mandi , Celebration Palace, Near Arora Palace, Ludhiana",
+      "lat": 30.8748965,
+      "lng": 75.85896989999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJd517MeyCGjkR47y8yt6-ces",
+      "name": "Lucky Auto fuel",
+      "address": "Shimlapuri, Ludhiana",
+      "lat": 30.8748388,
+      "lng": 75.8684188,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-9q_7RSDGjkRNSHwOiMmgBM",
+      "name": "Bharat Petroleum, Petrol Pump -Bhagya Fuels",
+      "address": "LUDHIANA CITY LUDHIANA, Ludhiana",
+      "lat": 30.8774796,
+      "lng": 75.8590865,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYxfxSJ95EDkRWTKgcq01FyY",
+      "name": "BUTTA SINGH",
+      "address": "QVM5+9VX, Kaind",
+      "lat": 30.7834991,
+      "lng": 75.85972570000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJMSAYP6F5EDkRpIKdey3_1bQ",
+      "name": "Nayara Petrol Pump",
+      "address": "QVM5+929, Kaind",
+      "lat": 30.78341840000001,
+      "lng": 75.8576161,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUTGIaymDGjkRafBrH27mRRo",
+      "name": "Bharat Petroleum, Petrol Pump -Alamgir Auto Fuel",
+      "address": "LUDHIANA LUDHIANA, Ludhiana",
+      "lat": 30.8756965,
+      "lng": 75.8794941,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ19ceIFR3EDkRrArL1xedxUE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Doraha Southern Bypass, Ludhiana",
+      "lat": 30.8182367,
+      "lng": 75.91231499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy_lNpJp3EDkRmduQnezsX4Q",
+      "name": "CNG HP Petrol Pump Jeet Singh Randhawa Filling Station",
+      "address": "",
+      "lat": 30.8182769,
+      "lng": 75.9124106,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1YZ5OZWDGjkR_MVIi9Z_YP8",
+      "name": "RAMA KANT NETWORKINK",
+      "address": "SHOP NO 1, Dugri Road, Model Town, Ludhiana",
+      "lat": 30.8800396,
+      "lng": 75.8489807,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-946EXGDGjkRDyA79NbXss4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Gill Road, Janta Nagar, Ludhiana",
+      "lat": 30.8808963,
+      "lng": 75.85907929999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHxpzOuSDGjkR4jVLaHix61k",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Quality Dharam Kanda, Main, Daba Road, Ludhiana",
+      "lat": 30.8746447,
+      "lng": 75.8873373,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnT8HK1eCGjkR-s8y3LzJZmM",
+      "name": "HP Petrol Pump - Gill Petrol Pump",
+      "address": "Ground Floor, Main, Dugri Road, Model Town Extension, Ludhiana",
+      "lat": 30.8816199,
+      "lng": 75.84753599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSza40FGdGjkRqrfFSQYCM9g",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Sua Road, Dhandari Kalan, Ludhiana",
+      "lat": 30.862921,
+      "lng": 75.908096,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7-h5PcqCGjkRFqQITGt3IYM",
+      "name": "Essar Diamond Petro",
+      "address": "Sua Road, Giaspura, Ludhiana",
+      "lat": 30.8745238,
+      "lng": 75.8949488,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOY4MJACdGjkRm5fPGzCt5ak",
+      "name": "Galaxy petro BPCL Pump",
+      "address": "VW56+RHR, Sua Road, Industrial Area C, Dhandari Kalan, Ludhiana",
+      "lat": 30.85962019999999,
+      "lng": 75.9113253,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJW8h8rv6CGjkR6IWmD0px3rw",
+      "name": "Dgn Petro",
+      "address": "21, Gill Road, Parbhat Nagar, Sahibjada Ajit singh Nagar, Sahnewal",
+      "lat": 30.886315,
+      "lng": 75.85864409999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJO0VlupadGjkRZPUCuimHwJc",
+      "name": "Petrol Pump",
+      "address": "Friends Colony, Ramgarh, Ludhiana",
+      "lat": 30.8755589,
+      "lng": 75.9627367,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJvzEThZedGjkR5ukBclx6t9w",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Ajit Mills, Chandigarh Road, Octroi Post, Mangli Nichhi",
+      "lat": 30.87790099999999,
+      "lng": 75.958541,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJh8kn6Q-dGjkRsQuZrs3QJ5g",
+      "name": "HINDUSTAN PETROLEUM",
+      "address": "1B-1, opp. FORTIS HOSPITAL, Street, Chandigarh Road, Ludhiana",
+      "lat": 30.8822511,
+      "lng": 75.9507541,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxXSWQBmdGjkRDbxW6_sc5cE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Chandigarh Road, Mundian Kalan, Ludhiana",
+      "lat": 30.892401,
+      "lng": 75.927521,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJO8jIlDR3EDkRC56T5KyNL0g",
+      "name": "IndianOil",
+      "address": "Kanganwal Road, Jugiana, Ludhiana",
+      "lat": 30.85244909999999,
+      "lng": 75.9285353,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo0ZpTgh3EDkRr3T5Yhns0Ag",
+      "name": "IndianOil",
+      "address": "Ground Floor, Southern Bypass, Model Town, Jassar",
+      "lat": 30.8078844,
+      "lng": 75.9321657,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJD4h5CF-dGjkR9tP_UJC3M0U",
+      "name": "Golden Filling Station",
+      "address": "VW4C+52F, Industrial Area C, Dhandari Kalan, Ludhiana",
+      "lat": 30.8554432,
+      "lng": 75.9200496,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJFzJ3A32dGjkRI8c21sKsbhA",
+      "name": "IndianOil",
+      "address": "No 1, National Highway, Jugiana, Ludhiana",
+      "lat": 30.857597,
+      "lng": 75.936852,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxVm0keV3EDkR0FzC-XKuigc",
+      "name": "Bharat Petroleum, Petrol Pump -Punjab Oil Carrier",
+      "address": "VILLAGE TIBBA LUDHIANA, Ludhiana",
+      "lat": 30.8155494,
+      "lng": 75.9551917,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeZ68HlZ2EDkRkAjdh4uEXHQ",
+      "name": "punjab oil carrier,dealer Bharat petroleum cng and EV CHARGING",
+      "address": "Tibba",
+      "lat": 30.8124776,
+      "lng": 75.95317550000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0fp54TGdGjkRnEO7Er3JyKk",
+      "name": "Apex Petroleum",
+      "address": "VW5P+Q94, Grand Trunk Road, Focal Point Phase 6, Jugiana, Ludhiana",
+      "lat": 30.8593768,
+      "lng": 75.9359449,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcydaUQedGjkRYo9bruylfpA",
+      "name": "Reliance petroleum",
+      "address": "VW5P+R6F, Jammu - Delhi Road, Focal Point Phase 6, Focal Point, Ludhiana",
+      "lat": 30.8595531,
+      "lng": 75.93555669999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJoeNvE2OdGjkRw5k281n81wA",
+      "name": "IndianOil",
+      "address": "Focal Point Road, Gobindgarh",
+      "lat": 30.859554,
+      "lng": 75.940315,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJD-e1vs93EDkRKPUsoGjDlKE",
+      "name": "IndianOil",
+      "address": "near Sahnewal, Ground Floor Vpo Tibba, near Sahnewal, Bilga",
+      "lat": 30.807525,
+      "lng": 75.950716,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP34gawB3EDkRCxOobZWklWM",
+      "name": "Gursehaj Fuel Point Indian Oil Petrol Pump",
+      "address": "RW2Q+87, Paddi",
+      "lat": 30.80081209999999,
+      "lng": 75.93823090000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSRurkDt2EDkR4BjqEO2mgpE",
+      "name": "Friends Filling Station (BPCL)",
+      "address": "RXV7+833, Sahnewal",
+      "lat": 30.8432741,
+      "lng": 75.96266109999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ38wiLYmdGjkRX1EiJouUlLI",
+      "name": "Bharat Petroleum, Petrol Pump - Shri Balaji Power Point",
+      "address": "NH1 LUDHIANA",
+      "lat": 30.864998,
+      "lng": 75.9267766,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGSLZxr93EDkRBjNyVQxRbrc",
+      "name": "IndianOil",
+      "address": "Ground Floor NH 1, Sanewal, Bilga",
+      "lat": 30.83920010000001,
+      "lng": 75.968001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPTmq-WKdGjkR8-c0I_zQqpE",
+      "name": "Abhishek Patel Karyana Store",
+      "address": "Shop No 1, near Railway Line, Durga Colony Road, Ishver Colony, Dhandari Khurd, Dhandari Kalan, Ludhiana",
+      "lat": 30.8688377,
+      "lng": 75.9267497,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJvYTjy-R2EDkRMaygz8NELt8",
+      "name": "IndianOil",
+      "address": "Ground Floor, VPO, Dugri, Southern Bypass, Bilga",
+      "lat": 30.8003907,
+      "lng": 75.9537982,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeXeRJAx3EDkRk7gXBVCH_BE",
+      "name": "Sunny Tution Center",
+      "address": "000, Ludhiana",
+      "lat": 30.7954387,
+      "lng": 75.9460938,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJMXR2LYp3EDkRsUEooFV0WGk",
+      "name": "IndianOil",
+      "address": "Ground Floor Sahnewal, Bilga",
+      "lat": 30.8306817,
+      "lng": 75.9806037,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3y2-IAB3EDkRfy0Qr8twDNk",
+      "name": "Patrol Pump",
+      "address": "VX5H+24V, Unnamed Road, Sahnewal",
+      "lat": 30.8575955,
+      "lng": 75.9778685,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJy6OISRidGjkRnquuzvvoMfk",
+      "name": "Awal petrol pump",
+      "address": "Phase-VIII, Focal Point, Ludhiana",
+      "lat": 30.8824645,
+      "lng": 75.9262657,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJI4zbMwB3EDkRMtRzC24S56A",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Kohara Road, Sahnewal",
+      "lat": 30.84927769999999,
+      "lng": 75.9838969,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNZ-J1l13EDkRrrJ-xDaNoLQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Sahnewal Dehlon Road, Ghawaddi",
+      "lat": 30.7820313,
+      "lng": 75.9059469,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlQz1F9J3EDkRYXTOhEVfzLg",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 44, Grand Trunk Road, Sahnewal",
+      "lat": 30.82606019999999,
+      "lng": 75.9892164,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYQG0SgyDGjkR7ovMDCkZqGA",
+      "name": "IndianOil",
+      "address": "near Giyaspura Chowk, NH 1, Grand Trunk Road, Ludhiana",
+      "lat": 30.87901339999999,
+      "lng": 75.8998836,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJI3LzW22dGjkRU859fIZfDdE",
+      "name": "Surjit Power Point",
+      "address": "Chandigarh Road, Mangli (Uchi), Ludhiana",
+      "lat": 30.8728292,
+      "lng": 75.96768589999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ__8dKBV2EDkRp43O729nqDE",
+      "name": "INDIAN OIL PETROL PUMP - ( Sai Filling Station )",
+      "address": "G. T ROAD, N-H -1, Sahnewal khurd, Village sahni, Ludhiana",
+      "lat": 30.823457,
+      "lng": 75.993647,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC1Wlzc2CGjkR99le0uUnLDk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Grand Trunk Road, Sherpur, Ludhiana",
+      "lat": 30.881601,
+      "lng": 75.89490099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8awLJACDGjkR4ZaRFwVBoGs",
+      "name": "Guru ji service station",
+      "address": "VVJV+MQM, Grand Trunk Road, Sherpur, Delhi",
+      "lat": 30.8817088,
+      "lng": 75.894413,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJS_MHBOJ5EDkRVgTpgnyaWIo",
+      "name": "IndianOil",
+      "address": "Ground Floor, Dehlon-Sahnewal Road, Ghawaddi",
+      "lat": 30.77767139999999,
+      "lng": 75.8994355,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB9lnbm6DGjkRjrs7CPR-rzs",
+      "name": "IndianOil",
+      "address": "Sherpur, Sahnewal",
+      "lat": 30.881932,
+      "lng": 75.893785,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjUJ01s6dGjkREwR_v7RIu_A",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Jeevan Nagar Road, Mundian Kalan, Ludhiana",
+      "lat": 30.8889439,
+      "lng": 75.9160507,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXazTbc-CGjkR54i5kkUrGyU",
+      "name": "Bharat Petrolium Petrol Pump",
+      "address": "Street Number 1, Backside PNB ATM, Dhandari Kalan, Daba Road, Guru Gobind Singh Nagar, Ludhiana",
+      "lat": 30.8800289,
+      "lng": 75.8893731,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJPR2h2aCDGjkREKE3hblz8CI",
+      "name": "IndianOil",
+      "address": "Metro Road Junction GT Road, Sherpur Road, Ludhiana",
+      "lat": 30.8842393,
+      "lng": 75.89725589999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjwZczAB2EDkRMsBF_F3Rwj0",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kohara Sahnewal Road, Basant Avenue, Jandiali, Ludhiana",
+      "lat": 30.8558118,
+      "lng": 75.990876,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJId5nWEWBGjkR3_eATJWq4nI",
+      "name": "IndianOil",
+      "address": "opp. Haibowal Dairy Complex, Main Hambran Road, Ludhiana",
+      "lat": 30.9180914,
+      "lng": 75.79440579999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl1sGhe-DGjkRZOUkV43YkCk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "ground, Haibowal Main Road, Ludhiana",
+      "lat": 30.918449,
+      "lng": 75.819212,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlRGYCwKEGjkRGzsN2F1kONA",
+      "name": "Essar Petrol Pump",
+      "address": "WRQ4+2VM, Chander Nagar, Haibowal Kalan, Ludhiana",
+      "lat": 30.9375924,
+      "lng": 75.8071839,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYagGz6SDGjkRdbkdQLAyYvk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Ferozepur Road, Ludhiana",
+      "lat": 30.9046594,
+      "lng": 75.84236109999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDfYZUpaDGjkRuOTigJHYL14",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Sukhdev Market, behind Kailash Cinema Road, Civil Road, Civil Lines, Ludhiana",
+      "lat": 30.91952099999999,
+      "lng": 75.841351,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUdA3x3OEGjkR8ONhUPEV5Do",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near KM Stone 321, NH 1, Thapar Nagar, Ludhiana",
+      "lat": 30.941381,
+      "lng": 75.83464099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ03rdfYiDGjkR5VSrhyZTy10",
+      "name": "Bharat Petrol Pump",
+      "address": "Bharat Petrol Pump, NH 1, GT Rd, Karabara Basti, Ludhiana",
+      "lat": 30.9318323,
+      "lng": 75.8414087,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPaYaTqCDGjkRuF4D1TmRjxo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, CT Road, Ludhiana",
+      "lat": 30.911101,
+      "lng": 75.850971,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcVJ9IXSEGjkRn4vZ1sEA_Vg",
+      "name": "IndianOil",
+      "address": "Jalandhar Bypass, GT Rd, West, Ludhiana",
+      "lat": 30.9380181,
+      "lng": 75.835673,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy9sBV5uDGjkR-2oqn1KKgRU",
+      "name": "Fill & Fly - Bharat Petroleum",
+      "address": "1701/3, Clock Tower Road, opp. Gandhi Market, Old, Grand Trunk Road, Fatehgarh Mohalla, Gandhi Nagar, Chhawani Mohalla, Ludhiana",
+      "lat": 30.92333679999999,
+      "lng": 75.8472316,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL2K0m4SDGjkRt-yNaeSicUU",
+      "name": "IndianOil",
+      "address": "Ground Floor, Mahal Bhagat, near Chand Cinema, Ludhiana",
+      "lat": 30.925804,
+      "lng": 75.846802,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ540KXiEGjkRBrKsPyyJF_o",
+      "name": "IndianOil",
+      "address": "Ground Floor, New Grain Mkt, Jalandhar Bypass Chownk, Salem Tabri, Ludhiana",
+      "lat": 30.9369855,
+      "lng": 75.8422738,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJD8A7BRWBGjkRD2086itbh7U",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, South City Road, Ayali Khurd, Ludhiana",
+      "lat": 30.903141,
+      "lng": 75.781461,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJd03i1mBGjkRVGit6mR_aDk",
+      "name": "Bharat Petroleum, Petrol Pump -Rishi Service Station",
+      "address": "OPP PINK FLAT LUDHIANA, Ludhiana",
+      "lat": 30.917586,
+      "lng": 75.80125439999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZeE_KSGBGjkRJyIa78NuBac",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sidhwan Canal, near New Courts, South City Road, Ayali Khurd, Ludhiana",
+      "lat": 30.9084501,
+      "lng": 75.7636307,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm2FWD4aBGjkRbrt9vI_74j4",
+      "name": "Cng pump ludhiana - Suvidha Fuels",
+      "address": "Near F2 Raceway, Canal Road, South City Road, Ludhiana",
+      "lat": 30.9086306,
+      "lng": 75.7634614,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8ciUMkiBGjkRpeG3PWEnPjU",
+      "name": "CNG Pump Sardar Bachan Singh Marg, Balloke, Ludhiana",
+      "address": "Haibowal Dairy Complex, on Sardar Bachan On Hambran Road _, to, Ladhowal Sardar bachan Singh Marg, Bank Colony, Haibowal Kalan, Ludhiana",
+      "lat": 30.9270499,
+      "lng": 75.79240589999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbQ2Z4kyBGjkRwr_jfoMvfGI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Ladhowal Bypass Road, S, Bachan Singh Marg, Balloke",
+      "lat": 30.92712930000001,
+      "lng": 75.7922145,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNQyU_-ODGjkRypZjKKJkh5Q",
+      "name": "Indian oil CNG/CBG",
+      "address": "opp. kitchlu Nagar, Main Hambran Road, Kitchlu Nagar, Ludhiana",
+      "lat": 30.9164273,
+      "lng": 75.81421209999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSz8rcMODGjkRYZb31tN18XM",
+      "name": "Bharat Petroleum",
+      "address": "DMC Road, New Prem Nagar, Ludhiana",
+      "lat": 30.90501969999999,
+      "lng": 75.820742,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvQlljkODGjkRe2Wlm8MGSFc",
+      "name": "Bharat Petroleum Petrol Pump , GURU FILLING STATION",
+      "address": "Prem Nagar, Ludhiana",
+      "lat": 30.922668,
+      "lng": 75.810476,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVxY1T1aDGjkRCc1YWpFb4dU",
+      "name": "IndianOil",
+      "address": "Opp. Silver Arc Mall, Ferozepur Road, Ludhiana",
+      "lat": 30.90069099999999,
+      "lng": 75.82721699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKU7L7MeDGjkRryRKcDP30hE",
+      "name": "ESS BEE SERVICE STATION",
+      "address": "India",
+      "lat": 30.9009155,
+      "lng": 75.82917479999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJfZMQg-yDGjkR3-EE7uQ3ONI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, opposite KVM School, Rajpur Road, Ludhiana",
+      "lat": 30.9164802,
+      "lng": 75.8278619,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJc0ucPBqDGjkRP71qFH15tsg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Faulji Chowk, 4455, Jassian Village Road, New Atam Nagar, Naveen Nagar, Haibowal Kalan, Ludhiana",
+      "lat": 30.93013100000001,
+      "lng": 75.81663499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4xfnhbSDGjkRBIVkvwok4Ps",
+      "name": "Shamsons Enterprises",
+      "address": "B34/4966, Zineth colony, Ludhiana",
+      "lat": 30.91508400000001,
+      "lng": 75.8306881,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJlavtFnmFGjkRUeeS7mMAf10",
+      "name": "Paramhans Filling Station",
+      "address": "Paramhans Filling Station, Churpur Road, Jassian, Ludhiana",
+      "lat": 30.93777189999999,
+      "lng": 75.8070152,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJxalCTwCDGjkRe__rdB8kg5M",
+      "name": "Malhi Feelings Station",
+      "address": "WRCH+HR5, near Budha Nalla, Chander Nagar, Civil Lines, Ludhiana",
+      "lat": 30.9213928,
+      "lng": 75.829612,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJNdL7FtyDGjkRIqQ5RtF6gh4",
+      "name": "Jio-bp pulse",
+      "address": "Police Lines, Ground Floor NH 95, Civil Lines, Ludhiana",
+      "lat": 30.90355100000001,
+      "lng": 75.83625099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSzLYxFWDGjkR2nn2d9UTGgY",
+      "name": "Bharat Petroleum Petrol Pump",
+      "address": "907/1, Chander Nagar, Civil Lines, Ludhiana",
+      "lat": 30.9217443,
+      "lng": 75.83112799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdfkaukyHGjkRWq0vtqweFVo",
+      "name": "Bharat Petroleum -Yuvraj Petroleum",
+      "address": "Churpur, Ludhiana",
+      "lat": 30.94233539999999,
+      "lng": 75.80089079999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbbbVbEKDGjkRTtDrdjVD2qE",
+      "name": "Bharat Petroleum, Petrol Pump -Dilbagh Singh & Sons",
+      "address": "Unnamed Road, Jila Kacheri Area, Model Gram, Ludhiana",
+      "lat": 30.9033677,
+      "lng": 75.8385533,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJV3Qlc2KDGjkRNlvRy1-wY9w",
+      "name": "Bharat Petroleum, Petrol Pump -Azad Fuel Centre",
+      "address": "CIVIL LINES LUDHIANA, Ludhiana",
+      "lat": 30.9139315,
+      "lng": 75.838589,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJa8jZXgCFGjkRA_zL2ey6smg",
+      "name": "Perns pule",
+      "address": "B34/5/26214, Sunil Nagar, Jai Singh Nagar, Haibowal Kalan, Ludhiana",
+      "lat": 30.93654249999999,
+      "lng": 75.82242049999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJNwHoN4yDGjkR5S-PFwEIMwA",
+      "name": "IndianOil",
+      "address": "Railway Bridge, Pirubanda, Chander Nagar Road, Ludhiana",
+      "lat": 30.926033,
+      "lng": 75.834611,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmQNR9yaDGjkRwtHFog80VII",
+      "name": "Jai Santoshi bharatgas",
+      "address": "VRWW+QJF, near Shan E Punjab Dhaba",
+      "lat": 30.89694009999999,
+      "lng": 75.8465389,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJE_lMHzmDGjkRlY6-Z7CYCKI",
+      "name": "Indian Oil Petrol",
+      "address": "WV8F+GPG, Sabji Mandi Road, Shiv Mandir, Samrala Road, Ludhiana",
+      "lat": 30.9163246,
+      "lng": 75.8743251,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJu96UEiODGjkRIMuXqxfr4lw",
+      "name": "IndianOil",
+      "address": "Transport Nagar, Industrial Area- A, Ludhiana",
+      "lat": 30.9032362,
+      "lng": 75.8808992,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwWJaIjyDGjkRDxv-qE1B0H0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Samrala Chowk, Chandigarh Road, Ludhiana",
+      "lat": 30.910301,
+      "lng": 75.881301,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH82MeT2DGjkRRWj4qD-spZg",
+      "name": "Petrol Pump Shri Salasar Power Point",
+      "address": "National Highway 95, Shivajinagar, Ludhiana",
+      "lat": 30.907294,
+      "lng": 75.87729139999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4eoLbRiDGjkRthEfSPiK5sA",
+      "name": "Jain S Petro Mart(Bharat Petroleum)",
+      "address": "B23, near Transport Nagar, 2595/96, Link Road, Industrial Area- A, Ludhiana",
+      "lat": 30.9032043,
+      "lng": 75.8759202,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8Tg7ihSDGjkR9vKnJYRB0qM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Samrala Road, Ludhiana",
+      "lat": 30.912775,
+      "lng": 75.872108,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7y5G0GqDGjkRYTDUw5EaOK4",
+      "name": "IndianOil",
+      "address": "Gaushala Tajpura Chowk Road, Kashmir Nagar, Ludhiana",
+      "lat": 30.916342,
+      "lng": 75.87441299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3Tb-LTqDGjkRNlV6raHtZtQ",
+      "name": "Bharat Petroleum, Petrol Pump -Baron Fuels",
+      "address": "LUDHIANA CITY LUDHIANA, Ludhiana",
+      "lat": 30.9114533,
+      "lng": 75.8828001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMUpukiCdGjkRr299PpsopHQ",
+      "name": "IndianOil",
+      "address": "Jamalpur Awana, Chandigarh Road, Ludhiana",
+      "lat": 30.9075641,
+      "lng": 75.8884952,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJF3IwkGaDGjkRskV8yjGcPlE",
+      "name": "IndianOil",
+      "address": "Main Road, Basti Jodhewal, Ludhiana",
+      "lat": 30.9291218,
+      "lng": 75.86720009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIcParn2DGjkRW3Vy1_p2rog",
+      "name": "BHARAT PETROLEUM",
+      "address": "WVM7+M2V, Gagandeep Colony, Ludhiana",
+      "lat": 30.9342344,
+      "lng": 75.8625374,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ7z-EwGKDGjkRCYSuppI19Zw",
+      "name": "Nayara Oil Petrol Pump",
+      "address": "Kailash Nagar Road, New Kuldeep Nagar, Jodhewal, Ludhiana",
+      "lat": 30.93625419999999,
+      "lng": 75.8661005,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJU_svgF-DGjkRSXgZdBJTOkU",
+      "name": "IndianOil",
+      "address": "Ground Floor, Rahon Road, Ludhiana",
+      "lat": 30.9355473,
+      "lng": 75.87529219999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJb-CYZY2EGjkRZdtYdXTO7HY",
+      "name": "Bharat Petroleum, Petrol Pump -Noorwala Hitech",
+      "address": "NOORWALA LUDHIANA, Ludhiana",
+      "lat": 30.9572131,
+      "lng": 75.864059,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY-xVIgCDGjkRV7zm-KEThog",
+      "name": "Badi haibowl bharat petrol pump",
+      "address": "WV24+9WJ, Ludhiana",
+      "lat": 30.900965,
+      "lng": 75.8572758,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ92iXcheDGjkRrB8LEg7uiJQ",
+      "name": "Petrol Pump",
+      "address": "236, Prem Nagar, Field Gunj, Amarpura",
+      "lat": 30.904357,
+      "lng": 75.8567712,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJrcqo8bqDGjkR4JQ4VtCZiQ4",
+      "name": "Dhillon Filling Station",
+      "address": "Kamal Chowk, Augwar Loopan, Jagraon",
+      "lat": 30.9038433,
+      "lng": 75.8545075,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJe2zKcuGDGjkRZHDgrQsiX1E",
+      "name": "Sanmati Filling Station",
+      "address": "Pump No 02 Kahnewala, Rori Road, Kahnewala, Ludhiana",
+      "lat": 30.9056274,
+      "lng": 75.8595003,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJb4BhAxqDGjkRmZIyFGBESws",
+      "name": "Bharat Petroleum Petrol Pump , PRATHAM ENTERPRISES",
+      "address": "Jail Road, Ludhiana",
+      "lat": 30.90601899999999,
+      "lng": 75.861994,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtw0sfACDGjkRcMom0DBJTg4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Suffian Bagh Chowk, Sufian Chowk, Ludhiana",
+      "lat": 30.90033260000001,
+      "lng": 75.86587159999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl8zKDZqDGjkR3Ss5i9HFZcY",
+      "name": "Bharat Petroleum, Petrol Pump -Jain S Petromart",
+      "address": "LINK ROAD LUDHIANA, Ludhiana",
+      "lat": 30.90899829999999,
+      "lng": 75.85132829999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1UPrDv6CGjkRliq_9ZNg-ww",
+      "name": "Batra",
+      "address": "India",
+      "lat": 30.891245,
+      "lng": 75.8587376,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ13EccCqDGjkRrmaxDYE5r3Y",
+      "name": "Bharat Petroleum, Petrol Pump -Gahaur Filling Stn.",
+      "address": "NH95 GAHAUR LUDHIANA, Ludhiana",
+      "lat": 30.9062018,
+      "lng": 75.8467878,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJh9PNnB2DGjkR1YrQPDAjIgM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Link Road, Dholewal Chowk, Ludhiana",
+      "lat": 30.8933401,
+      "lng": 75.8682501,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtZVpgB2DGjkRFNCH7l4zx1M",
+      "name": "Ludhiana Petroleum",
+      "address": "13223, Near Dholewal, Link Road, Bhagwan Nagar, Industrial Area- A, Ludhiana",
+      "lat": 30.89285210000001,
+      "lng": 75.86847650000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbZUFgA2DGjkRA9sdM2vbv_I",
+      "name": "Bharat Petroleum, Petrol Pump -Royal Fuels",
+      "address": "NEAR CMC HOSPITAL LUDHIANA, 400, Naulakha Garden Colony, Ludhiana",
+      "lat": 30.912001,
+      "lng": 75.8647908,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_4TCrRODGjkR-PvohiOkJQY",
+      "name": "H P",
+      "address": "WV69+M79, Hargobind Marg Main Road, Ram Nagar, Ludhiana",
+      "lat": 30.9116705,
+      "lng": 75.868228,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJSR0-jvabGjkRHQ58vdU2QGg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, to, Kariyana Road, Koom Kalan, Tajpur",
+      "lat": 30.9529783,
+      "lng": 75.97635,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ7DbHuKcGjkRg8s34dq689g",
+      "name": "Veena Petroleum Essar Oil",
+      "address": "WW2H+6MG, Guru Teg Bahadur Nagar, Ludhiana",
+      "lat": 30.9005576,
+      "lng": 75.9292083,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ-ZG7bgCdGjkRsAfQ66TUJPU",
+      "name": "IndianOil",
+      "address": "Chandigarh Road, Jamalpur, Ludhiana",
+      "lat": 30.897028,
+      "lng": 75.919197,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-5ZX2hudGjkRPtrsjnk65ms",
+      "name": "IndianOil",
+      "address": "NH 95, Chandigarh Road, Kalal, Mundian, Ludhiana",
+      "lat": 30.8919854,
+      "lng": 75.9291152,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAY9aJQCdGjkRimxp3AaAy0A",
+      "name": "LITT FUELS",
+      "address": "WW45+MFV, Onkar Viha, Sukhdev Nagar, Jamalpur, Ludhiana",
+      "lat": 30.906725,
+      "lng": 75.908333,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJFdXHiKSdGjkRSWPC190pnvw",
+      "name": "Bharat Petroleum, Petrol Pump -Sardar Kesar Singh Grewal Fuel Stn.",
+      "address": "Tajpur Main Road, Bhamia Kalan, Ludhiana",
+      "lat": 30.92164630000001,
+      "lng": 75.9355054,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhZgUtiyDGjkRMjdZ_kqwFMw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Chandigarh Road, Jamalpur Awana Bhamian Road, Sector 39, Ludhiana",
+      "lat": 30.9029201,
+      "lng": 75.8994201,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJz55hAMqcGjkRklO6f3w-zTY",
+      "name": "IndianOil",
+      "address": "Ground Floor, Tajpur Road, Ludhiana",
+      "lat": 30.919357,
+      "lng": 75.90568499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY6hFrUaDGjkROtMIytyP6nM",
+      "name": "Bharat Petroleum, Petrol Pump -Mothu Ram Prem Chand, A/C Ludhiana",
+      "address": "FOCAL POINT LUD CITY LUDHI, Ludhiana",
+      "lat": 30.89198219999999,
+      "lng": 75.8890595,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJadyyh5CDGjkRoZMwvf80yKY",
+      "name": "Arvind Kumar",
+      "address": "House No 406, Shop Number 5, No 2, Runjit Nagar Street, Sherpur, Ludhiana",
+      "lat": 30.8853967,
+      "lng": 75.8915202,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ29_zrLSDGjkRjeZK6x90uRM",
+      "name": "Bharat Petroleum, Petrol Pump -Mrpc Petro Company",
+      "address": "KAILASH NAGAR LUDHIANA, Ludhiana",
+      "lat": 30.8903412,
+      "lng": 75.88699079999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkT2e5diCGjkRLBuzqarRefw",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Mohan Dai Oswal Hospital, Sherpur Chowk, Ludhiana",
+      "lat": 30.89219769999999,
+      "lng": 75.8843424,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAceIPUKcGjkRxyr7xScTenY",
+      "name": "IndianOil",
+      "address": "Ground Floor Khassi, Road, Karyana, Tajpur",
+      "lat": 30.924137,
+      "lng": 75.962845,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcxL-AQuDGjkRQHze2xjIOFY",
+      "name": "Eggs Shop",
+      "address": "No 2, Tajpur Road, Guru Arjan Dev Nagar, Ludhiana",
+      "lat": 30.9126831,
+      "lng": 75.8846018,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJf0Shul-DGjkRpl7YhnO9hdM",
+      "name": "H P gass agency tibba road gopal nagar chowk",
+      "address": "199, Tibba Road, Kishan Vihar, Gopal Nagar, Subhash Nagar, Ludhiana",
+      "lat": 30.9243587,
+      "lng": 75.8916553,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJGQ256U6DGjkRAAAA0JODMQo",
+      "name": "RP FILING STATION",
+      "address": "1703/5/1259/C/1 Street, No. - 2, Tibba Road, Ludhiana",
+      "lat": 30.9248736,
+      "lng": 75.8921216,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL1_tBZKDGjkRVzyCAMKYVUs",
+      "name": "PATWARI FILLING STATION, PETROL PUMP, JALALABADH EAST, MOGA",
+      "address": "JALALABADH, EAST, MOGA JALANDHAR, HIGHWAY, Grand Trunk Road, JALALABADH, EAST, MOGA",
+      "lat": 30.88606059999999,
+      "lng": 75.8852541,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbePHjjuDGjkR_SRZ_AR3vnM",
+      "name": "Gopi Chand Roshan Lal- BP Petrol Pump",
+      "address": "5, Ludhiana - Chandigarh National Highway, Karam Colony, Beantpura, Sector 39-A, Ludhiana",
+      "lat": 30.90924679999999,
+      "lng": 75.8828517,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6_fgTiODGjkRfYPV7RbNiAI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Jalandhar Bypass, Moti Nagar, Ludhiana",
+      "lat": 30.905051,
+      "lng": 75.881411,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ677G7zyDGjkRwjaH_GuWVEk",
+      "name": "IndianOil",
+      "address": "Ground Floor, Transport Nagar, Ludhiana",
+      "lat": 30.907144,
+      "lng": 75.880353,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS3To7RaGGjkRCBHgM5Zk-Xk",
+      "name": "Bharat Petroleum",
+      "address": "Jagatpura, Phillaur, NH-1, G T Road, Jalandhar",
+      "lat": 31.0032564,
+      "lng": 75.7873103,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeQ28WR-GGjkRsm2da_EzEIk",
+      "name": "IndianOil",
+      "address": "Ground Floor, Grand Trunk Road, Phillaur, Khalsa, Haripur",
+      "lat": 31.01330009999999,
+      "lng": 75.784001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqRoDxiGGGjkRIPJYnt3KIAo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 1, Ludhiana Jalandhar Road, Ramgarh, Phillaur",
+      "lat": 31.014467,
+      "lng": 75.782731,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMWUb0qyIGjkRgUR9TzIKIoo",
+      "name": "HP PETROL PUMP - RAJ PETRO HP",
+      "address": "Vallage Burj Pukhta Tehsil Phillaur, Phillaur Nawanshahr Road, Jalandhar",
+      "lat": 31.02836499999999,
+      "lng": 75.80657,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJO9K4dYuHGjkRu1Fkdi0nR4g",
+      "name": "Sobti HP Gas Gramin Vitrak",
+      "address": "XQGR+QGW",
+      "lat": 30.9769947,
+      "lng": 75.79134049999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJOdZOhGOGGjkRkCiof2cRuDY",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 1, Jalandhar Rd, Ladhowal",
+      "lat": 30.9787537,
+      "lng": 75.7916791,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-5SnhWOGGjkR7tX_ABb0Qng",
+      "name": "THINK Gas CNG Station",
+      "address": "filling Station, Ladhowal",
+      "lat": 30.97945429999999,
+      "lng": 75.7916008,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_-cEAQCHGjkRX-BMkUskRKo",
+      "name": "Tanky Full Bharat Petroleum Corp Ltd",
+      "address": "Grand Trunk Road, VPO, Ladhowal",
+      "lat": 30.9794678,
+      "lng": 75.7916015,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJefEGXmSGGjkRbR8DEnQk4pM",
+      "name": "BP Petrol Pump",
+      "address": "Ludhiana",
+      "lat": 30.9810798,
+      "lng": 75.79206959999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzwpzUVqHGjkRFPclLnQNdPI",
+      "name": "KARTAR PETRO",
+      "address": "Main Road, Civil Lines, Ladian Kalan",
+      "lat": 30.9565413,
+      "lng": 75.7931268,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYVaqCUSHGjkR8KeR8D2tLUg",
+      "name": "IndianOil",
+      "address": "Ground Floor, Hambran Ladhowal Road Qutbewal Gujjran, Bagga Khurd",
+      "lat": 30.96279449999999,
+      "lng": 75.76765209999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaSrNyOKGGjkRXZuZnonwWu8",
+      "name": "Kailash Fuel station",
+      "address": "XQ56+HV5, Ludhiana",
+      "lat": 30.9588896,
+      "lng": 75.7622217,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP-AOaZmHGjkR7TIKNuyzI70",
+      "name": "IndianOil",
+      "address": "Ground Floor, Ladowal Hambran Road Baggakalan, Baggakhurd, Ludhiana",
+      "lat": 30.958858,
+      "lng": 75.75457,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmZjfNRuHGjkRp3cymfyjfxU",
+      "name": "Petrol pump",
+      "address": "XQ53+66M, Hambran Road, Ludhiana",
+      "lat": 30.95809669999999,
+      "lng": 75.7530381,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQU5NawCHGjkRTx5EBsmowRk",
+      "name": "Ram fuel petrol pump",
+      "address": "2Q3P+7XF, Punjab Police Academy Campus, Phillaur",
+      "lat": 31.0031843,
+      "lng": 75.7874341,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZ6tcCWeFGjkRq0DZ9hRHKpM",
+      "name": "Sukhraj Filling Station",
+      "address": "Qutbewal Araian",
+      "lat": 30.9714168,
+      "lng": 75.8292079,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWXpLPBiGGjkRXUv6th3KKiE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Jalandhar Ludhiana Road, NH 1, Panj Dhera",
+      "lat": 31.007915,
+      "lng": 75.78540799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYY13nROEGjkRLlGwkTl_wqo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 1, Jalandhar Road, Bhattian, Ludhiana",
+      "lat": 30.949001,
+      "lng": 75.827201,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl_RzJ3mHGjkRuQzTMzsRmjU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Ladhowal New Byepass, NH 5, Jainpur",
+      "lat": 30.9401688,
+      "lng": 75.7491474,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe73WPKWHGjkRn3zMnoWSFZU",
+      "name": "Patrol pump",
+      "address": "2Q9J+6WM, Grand Trunk Road, Ramgarh, Phillaur",
+      "lat": 31.018094,
+      "lng": 75.7823033,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJX6L2w7KFGjkRuEV02ioOj-w",
+      "name": "IndianOil",
+      "address": "Ground Floor Bahadarke, Bagga Khurd",
+      "lat": 30.95922329999999,
+      "lng": 75.84271509999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTU1bk0GHGjkRRYznxcQsUqY",
+      "name": "Bharat Petroleum, Petrol Pump -Noorpur Petromart",
+      "address": "NOORPUR BET LUDHIANA, Ludhiana",
+      "lat": 30.95729909999999,
+      "lng": 75.7320938,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAfG5raGIGjkRWpkc02qLdws",
+      "name": "BP Petrol Pump",
+      "address": "Satluj Sports Club, Old GT Road, Abad Pura, Phillaur",
+      "lat": 31.0213558,
+      "lng": 75.7859295,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo1CUqNGFGjkRPqNQx5IbuKw",
+      "name": "IndianOil",
+      "address": "Taraf Karabara, Bahadur Ka Road, Ludhiana",
+      "lat": 30.950092,
+      "lng": 75.846344,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlRfxlneEGjkRgvWNXZsDj2c",
+      "name": "IndianOil",
+      "address": "NH 1, Ludhiana Bypass Road, Jawaddi Taksal, Ludhiana",
+      "lat": 30.936167,
+      "lng": 75.84060699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJj36MZ6yIGjkRj_PDn5b_2yo",
+      "name": "Bharat Petroleum, Petrol Pump -Jindal Filling Station",
+      "address": "VILLAGE GARHA PHILLAUR TO, JALANDHAR",
+      "lat": 31.027264,
+      "lng": 75.8034562,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgUtqslOJGjkR3UMbtjJekUE",
+      "name": "IndianOil",
+      "address": "Ground Floor, Phillaur Talwan Road Ganna, Phillaur",
+      "lat": 31.0267004,
+      "lng": 75.7571971,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCdJnwfGDGjkRK-IFSSkIj8U",
+      "name": "Bharat Petroleum, Petrol Pump -Gurditsingh Shamsher Singh",
+      "address": "Sabzi Mandi Road, Dal Bazar, Ludhiana",
+      "lat": 30.929613,
+      "lng": 75.8430853,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJU-ThcfqEGjkRWowWYMTQzeo",
+      "name": "BS NANGLA",
+      "address": "India",
+      "lat": 30.9711866,
+      "lng": 75.86106830000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJy7Ws5n-DGjkRuogARu6RwfI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Jalandhar Bypass Road, New Shiv Puri, Jalandhar",
+      "lat": 30.935591,
+      "lng": 75.854541,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJN79VfYCDGjkR_kt79E8X1a8",
+      "name": "IndianOil",
+      "address": "Shivpuri Chowk Basti Jodhewal Chowk, Chowk, to, Karabara Basti, Ludhiana",
+      "lat": 30.9355421,
+      "lng": 75.85740500000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJv5IV0xOFGjkRX_5kLuJrQ70",
+      "name": "Nayara Petrol Pump",
+      "address": "Kakowal Road, Vishal Colony, Kakowal Village, Ludhiana",
+      "lat": 30.95007380000001,
+      "lng": 75.86860109999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJYTKqHgCFGjkRKhyO7jcVXtg",
+      "name": "Surjit filling station",
+      "address": "XV3J+GJ, Bajrah, Ludhiana",
+      "lat": 30.953502,
+      "lng": 75.88189799999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJd8sF4aaEGjkRFa2If_pNXIA",
+      "name": "Nayara Petrol Pump",
+      "address": "WVRM+WJX, Rahon Road, Naginder Nagar, Vardhman Nagar, Jodhewal, Ludhiana",
+      "lat": 30.9423505,
+      "lng": 75.8841106,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ2RiW6TeDGjkRvTwEsJqSwh0",
+      "name": "IndianOil",
+      "address": "Rahon Road, Ghelewal, Ludhiana",
+      "lat": 30.9387916,
+      "lng": 75.8796402,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJE27K21-DGjkRZeGiC0mlNDI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Rahon Road, Indra Colony, Jalandhar",
+      "lat": 30.936401,
+      "lng": 75.87700099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0RrjpruDGjkRU3UXmzxPZ7g",
+      "name": "Bharat Petroleum, Petrol Pump -Sardar Filling Station",
+      "address": "GT ROAD LUDHIANA, Ludhiana",
+      "lat": 30.931752,
+      "lng": 75.8696953,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJyVkTkGaDGjkR2uShPPVLyfI",
+      "name": "IndianOil",
+      "address": "Ground Floor, Jodhewal, Ludhiana",
+      "lat": 30.930405,
+      "lng": 75.871788,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbfCBGtqDGjkRhlfRI2MQuII",
+      "name": "SUBA SINGH FILLING STATION",
+      "address": "WVH4+8CH, near dua accessories oppsite suba singh filling statiom, Basant Nagar, Shivpuri, Ludhiana",
+      "lat": 30.928316,
+      "lng": 75.85610299999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJr_zpnyntGjkRCh8W4KR-SJg",
+      "name": "GAS Bains",
+      "address": "1 V, P.O, Makhsoospur",
+      "lat": 30.9302638,
+      "lng": 75.8752241,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJeUxJ3x6DGjkRTKEb8Ur2iwM",
+      "name": "Reliance Petrol Pump",
+      "address": "WVHC+8Q2, Kuldeep Nagar, Sunder Nagar, Ludhiana",
+      "lat": 30.928255,
+      "lng": 75.8718991,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJD8patv-DGjkRfwMrdolbfks",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Longia Steel, Basti Jodhewal Chowk Flyover, Ludhiana",
+      "lat": 30.927038,
+      "lng": 75.87318119999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNXFyO8eDGjkRiGyh3p8iaVE",
+      "name": "Simran Gas Electrical",
+      "address": "0, New Subhash Nagar, Ludhiana",
+      "lat": 30.92782379999999,
+      "lng": 75.879683,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJRcU2viWbGjkRvtOGICkdjz4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Khwajke Chuharwal, Road, Mangat",
+      "lat": 30.9802778,
+      "lng": 75.91305559999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe_FOv0WbGjkRI3UPpuxhoO4",
+      "name": "IndianOil",
+      "address": "Ground Floor, Rahon Road, Pathreri Jattan, Khwajke",
+      "lat": 30.95853099999999,
+      "lng": 75.91436399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNTVtsbuDGjkRF7uh4ioPcus",
+      "name": "Shri.Jain.oil",
+      "address": "Shop.3, Newmadopuri, Ludhiana",
+      "lat": 30.9215069,
+      "lng": 75.8698426,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJS6UYJGqDGjkRi_pBJjPlzis",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Samrala Chowk, Jalandhar Bypass Road, Daulat Colony, Ludhiana",
+      "lat": 30.9210601,
+      "lng": 75.8747301,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIWou43KDGjkR1P_TJqvvVZ0",
+      "name": "Inder Oil Co",
+      "address": "Sangeet Engg. Work, Chaura Bazar, Old Madhopuri, Ludhiana",
+      "lat": 30.91652,
+      "lng": 75.86233,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJHZcioFKbGjkRjmttiOei650",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Ludhiana Nawanshahr Road, Gaunsgarh",
+      "lat": 30.97049900000001,
+      "lng": 75.940895,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzx96yoCbGjkRKZWBUSz4Obc",
+      "name": "Bharat Petroleum Petrol Pump , SHREE DUDHADHARI FILLING STATION",
+      "address": "VILLAGE MANGLI TANDA, Ludhiana",
+      "lat": 30.97526899999999,
+      "lng": 75.951375,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWeVVcECDGjkRLyFoCMQsSFA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No B, House No, 2213/1, Tajpur Road, Chowk, Tajpur",
+      "lat": 30.916781,
+      "lng": 75.87865099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJD0cLQ8qDGjkRWnUvXa1TarE",
+      "name": "Shree Balaji Petro",
+      "address": "WV8F+7C7, Kashmir Nagar Road, Harcharan Nagar, Ludhiana",
+      "lat": 30.915655,
+      "lng": 75.8735568,
+      "open_now": null
+    }
+  ]
+}

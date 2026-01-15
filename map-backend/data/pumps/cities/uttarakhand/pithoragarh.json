@@ -1,0 +1,91 @@
+{
+  "city": "Pithoragarh",
+  "state": "Uttarakhand",
+  "count": 10,
+  "center": {
+    "lat": 29.5839,
+    "lng": 80.209
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJvdxRTTQkoTkR8UaRTAEI0aA",
+      "name": "BPCL Petrol Pump- shahid kishan singh service station",
+      "address": "near Aincholi, National Highway 9, Pithoragarh",
+      "lat": 29.5618715,
+      "lng": 80.2070044,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ71cXRbkloTkRNKGICt-Jc7E",
+      "name": "IndianOil",
+      "address": "Ground Floor, Tanakpur Road, Bans, Pithoragarh",
+      "lat": 29.58240009999999,
+      "lng": 80.21440009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC7Eqe7sloTkR8TcDkfJogjA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Bin, APS Road, Pithoragarh",
+      "lat": 29.580605,
+      "lng": 80.231315,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZzKbm-IloTkRIkLagCnLL2I",
+      "name": "Bharat Petroleum, Petrol Pump -Jai Ambay Oils",
+      "address": "ALMORA BAGESHWAR ROAD, BAG, BAGESHWAR",
+      "lat": 29.5707368,
+      "lng": 80.210141,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJKeeFWLkloTkRLC0dv4s7lgo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Tanakpur Rd, Kumor, Meherkhas, Pithoragarh",
+      "lat": 29.579672,
+      "lng": 80.212893,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8cKhJbkloTkR9O5owRuN9Ys",
+      "name": "BPCL Petrol Station",
+      "address": "Bans Maitoli",
+      "lat": 29.5823641,
+      "lng": 80.2131179,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJm34xZ7sloTkRCAw2HTNm1XI",
+      "name": "IndianOil",
+      "address": "Ground Floor, Dhaurara, Kheri, Isanagar, Badoli",
+      "lat": 29.58492,
+      "lng": 80.19729,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJj30vxlMloTkR0c241IvmXEc",
+      "name": "Bharat Petroleum, Petrol Pump -Harbans Motor Works A/C Pithoragarh",
+      "address": "KUMOD,PITHORAGARH, Pithoragarh",
+      "lat": 29.58827400000001,
+      "lng": 80.2098645,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXSCbEoIloTkRLTYsmyMHX6U",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sujai,Bans, Pithoragarh",
+      "lat": 29.606144,
+      "lng": 80.231107,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEyTDerMloTkRXqos_lCsrEI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Pithoragarh Dharchula Road, Gaithana",
+      "lat": 29.610533,
+      "lng": 80.234464,
+      "open_now": true
+    }
+  ]
+}

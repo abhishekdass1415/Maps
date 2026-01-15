@@ -1,0 +1,163 @@
+{
+  "city": "Kupwara",
+  "state": "Jammu and Kashmir",
+  "count": 19,
+  "center": {
+    "lat": 34.5833,
+    "lng": 74.25
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJDSOBoATh4DgRUP9S6zcI8n4",
+      "name": "A-1 Filling Station Bharat Petroleum",
+      "address": "Hayan",
+      "lat": 34.5226395,
+      "lng": 74.18737,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRUyzOKjh4DgRbv_HUqpAa0g",
+      "name": "IndianOil",
+      "address": "Kupwara-Kralpora Road, Batergam",
+      "lat": 34.52843219999999,
+      "lng": 74.2134746,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYfY5xyvh4DgR2pptWEMKzUs",
+      "name": "EVERGREEN FILLING STATION KRALPORA",
+      "address": "Kralpora",
+      "lat": 34.4798483,
+      "lng": 74.16404849999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJhxULuvgf4TgRlT2cWgB9ZgU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Kupwara Chowkibal Road, Kupwara",
+      "lat": 34.5307356,
+      "lng": 74.2245521,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJd0EUvpzn4DgR6T1nznBC3nw",
+      "name": "IndianOil",
+      "address": "Hafthrada",
+      "lat": 34.4974375,
+      "lng": 74.12293749999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq-bJ7eTh4DgR6AJ8lG3YkTI",
+      "name": "Dolipora petrol",
+      "address": "Villgam",
+      "lat": 34.4646875,
+      "lng": 74.1671875,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo0NzeAfh4DgRXWm30wd_8h0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Handwara Road, Villgam",
+      "lat": 34.460301,
+      "lng": 74.163201,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7yoZD36DGjkRUCtqA-I5TwY",
+      "name": "Bhat Construction",
+      "address": "97 High Way, Kupwara",
+      "lat": 34.52618,
+      "lng": 74.254616,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJGeNlxtkf4TgRTTh6hJ2q3aQ",
+      "name": "Al Khaliq Joo Filling Station",
+      "address": "Cheerkote Lolab",
+      "lat": 34.5281496,
+      "lng": 74.2577076,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdf5lTswf4TgRwQj90GGWRJE",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bumhama",
+      "lat": 34.5136201,
+      "lng": 74.26021820000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBxXONPcf4TgRWS8t3oh8SLM",
+      "name": "IndianOil",
+      "address": "G7G3+FRF, near Acd complex, Kupwara",
+      "lat": 34.5208125,
+      "lng": 74.2600625,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjd24xv3n4DgRShXepHbDfzw",
+      "name": "SANA FILLING STATION DAREL TARATHPORA",
+      "address": "Darel tarathpora Ramhall, road, Handwara",
+      "lat": 34.4621301,
+      "lng": 74.1211658,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL_BqO1gf4TgRbsH3vvlTBOI",
+      "name": "IndianOil",
+      "address": "Forest Block",
+      "lat": 34.5397358,
+      "lng": 74.29925469999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP0hSK94f4TgRgtMFltNcTjs",
+      "name": "Aabshar Fuels (IOCL)",
+      "address": "Drugmulla",
+      "lat": 34.4903247,
+      "lng": 74.2795788,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2w43UZ4f4TgRK2Be3PIGWSA",
+      "name": "Neelipora magam",
+      "address": "F725+43G, Handwara",
+      "lat": 34.4503188,
+      "lng": 74.2576888,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJo220NKYZ4TgRgXW-Q3kxRIc",
+      "name": "AL KHALIQ FILLING STATION",
+      "address": "road, Sogam",
+      "lat": 34.5426382,
+      "lng": 74.3369105,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJia2FMaQZ4TgRAfhiJaYIjHE",
+      "name": "Anwar shah filling station",
+      "address": "G9Q2+RC7, Lolab- Tekipora Rd, Khurhama",
+      "lat": 34.53953860000001,
+      "lng": 74.3510314,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ6_-JZPYZ4TgRgmOsIDAqvR4",
+      "name": "Sana Filling Station",
+      "address": "G9HJ+CXH, Wavoora",
+      "lat": 34.5285736,
+      "lng": 74.3824944,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAQf6qYgZ4TgRUsy_2CnMQ0E",
+      "name": "Faisal Muneer",
+      "address": "1208",
+      "lat": 34.528628,
+      "lng": 74.382485,
+      "open_now": null
+    }
+  ]
+}

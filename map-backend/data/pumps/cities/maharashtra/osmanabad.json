@@ -1,0 +1,355 @@
+{
+  "city": "Osmanabad",
+  "state": "Maharashtra",
+  "count": 43,
+  "center": {
+    "lat": 18.1667,
+    "lng": 76.0833
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJ3YVOlia7xTsRaRaKRFU6poM",
+      "name": "Petrol Pump",
+      "address": "road,Tel, Barshi - Tuljapur Road, Vairag",
+      "lat": 18.0816927,
+      "lng": 75.9511977,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIeCWIQCjxTsRqSqEnI2cwpY",
+      "name": "Shivaji suryawanshi highway services",
+      "address": "437G+V3, Wadgoan",
+      "lat": 18.1147317,
+      "lng": 76.0752133,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJEfnaaQCjxTsRzMq-FgErR3Q",
+      "name": "Baba petrol pump indian oil",
+      "address": "435G+WPR, Tuljapur road, Dharashiv",
+      "lat": 18.1098553,
+      "lng": 76.0767546,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ59NbbZijxTsRaWLU9iBN1Ok",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 18.158687,
+      "lng": 76.01523019999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ9w5t0Va9xTsRQqHUxnjKNAo",
+      "name": "IndianOil",
+      "address": "Ground Floor, Wadgaon, Alani, Osmanabad",
+      "lat": 18.0984646,
+      "lng": 76.07986939999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ65qXWpKixTsR7AIoH_fhWyg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gat No 158, National Highway 52, Shekhapur, Dharashiv",
+      "lat": 18.138521,
+      "lng": 76.065781,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM2QF05O9xTsRSI7-19HutrA",
+      "name": "TULJAI PETROLEUM",
+      "address": "Near, Bavi",
+      "lat": 18.0849481,
+      "lng": 76.08535309999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJj_r4O4i9xTsRuXrdMUYNUBk",
+      "name": "Bharat Petroleum,Anjali Petroleum",
+      "address": "Aurangabad - Solapur Highway, Dharashiv",
+      "lat": 18.0475205,
+      "lng": 76.0845451,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuQtjCAC9xTsRTeHhuPDlhV4",
+      "name": "Tuljabhavani CNG pump",
+      "address": "23QJ+R5, Bavi",
+      "lat": 18.0394386,
+      "lng": 76.08064449999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJKTmhUQCXxTsRVjx0AluouPc",
+      "name": "Pelhar",
+      "address": "358G+6G, Wadibamani",
+      "lat": 18.065571,
+      "lng": 76.17625199999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJt5e2OTyaxTsRssUaMLeN-eE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gut No 43, Bembli",
+      "lat": 18.1488286,
+      "lng": 76.1901216,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy5YjjDKixTsRgLDsF9-DnwM",
+      "name": "Petrol Pump",
+      "address": "52MR+HQR, S.R.T.Colony, Dharashiv",
+      "lat": 18.1839887,
+      "lng": 76.0418912,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAUveaE-ixTsRXS6_vMUd0ZE",
+      "name": "IndianOil",
+      "address": "Gat No 361/14, Alani, Dharashiv",
+      "lat": 18.166809,
+      "lng": 76.049925,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqSd2SAIEnTkRogfQdoO6Yes",
+      "name": "IndianOil",
+      "address": "Four Bungalows, Sadasukh, Sanja Road, Alani, Dharashiv",
+      "lat": 18.1878272,
+      "lng": 76.0509636,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjwgeup2hxTsRm9_3T4RF5Z4",
+      "name": "IndianOil",
+      "address": "Ground Floor, Road, M.I.D.C., Alni",
+      "lat": 18.2121837,
+      "lng": 76.041034,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3WgNVNSjxTsRzyaaJDtog7c",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near Barshi Naka, CTS No 8493 Barshi Road, near Barshi Naka, Barshi Naka, Tambari Vibhag, Dharashiv",
+      "lat": 18.1859501,
+      "lng": 76.02927489999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqYofhoujxTsR9La_qrQ39fM",
+      "name": "Aditya Petroleum p 1",
+      "address": "Aditya Petroleum, Barshi Road, Dharashiv",
+      "lat": 18.18893,
+      "lng": 76.0292782,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJbTn-IkqixTsRCTfXpmuS4js",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gat No 354, near Deshpande Stand, 1, Aurangabad - Solapur Highway, Dharashiv",
+      "lat": 18.177398,
+      "lng": 76.0435952,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-9ZwnsejxTsRpy8p53DN53s",
+      "name": "Jyotirling Footwear",
+      "address": "Rd Tuljapur, Dharashiv",
+      "lat": 18.1865707,
+      "lng": 76.04078679999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ-eZ_SgCjxTsRd-QQlW7665I",
+      "name": "Baba petrol pump",
+      "address": "52PR+4QP, Dharashiv",
+      "lat": 18.185332,
+      "lng": 76.0419642,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJUeuWJgSjxTsR4hGu2EHd0co",
+      "name": "Bharat Petroleum Petrol Pump , GAJALAKSHMI PETROLEUM",
+      "address": "TO, Barshi - Osmanabad Road, Samta Colony, Dharashiv",
+      "lat": 18.1945006,
+      "lng": 76.0358516,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1doMSiSjxTsRiTfdJQPXP5A",
+      "name": "IndianOil",
+      "address": "S No 219/3 Sanja Road, SH 67, Alani, Dharashiv",
+      "lat": 18.185992,
+      "lng": 76.044896,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJ8vikzCjxTsR3tmdWftwnIE",
+      "name": "Bharat Petroleum Petrol Pump , SHRI RENUKA TRANSPORT CO.",
+      "address": "SURVEY NO.219/4SANJA ROAD",
+      "lat": 18.186405,
+      "lng": 76.047651,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ2a2tPgChxTsRYoLw1hgQKH8",
+      "name": "Bharat Petrol Pump",
+      "address": "Basweshar Chowk, Beed - Solapur Road, Kusumtai Patil Nagar, Police Line, Dharashiv",
+      "lat": 18.1981673,
+      "lng": 76.04178859999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ-cjm9C-ixTsR7KwferfrisY",
+      "name": "Rajlaxmi Petroleum & CNG Pump",
+      "address": "Rajlaxmi petroleum, Sanja Road, Dharashiv",
+      "lat": 18.1878585,
+      "lng": 76.0510091,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoyXtk4GhxTsRDL5wzZQI31I",
+      "name": "IndianOil",
+      "address": "Office, Survey No 120 Yedshi, near DIC Road, Road, Alni",
+      "lat": 18.2017003,
+      "lng": 76.04095,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ940vMuanxTsR76rSj-vMajs",
+      "name": "Shivaji Suryavanshi Fuels Kaudgaon",
+      "address": "Near, Kaudgaon Road, Dharashiv",
+      "lat": 18.1915822,
+      "lng": 75.9670783,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJAXE4hEahxTsRB7A2YnpALHo",
+      "name": "Bharat Petroleum,CNG Pump -Shri Ram Highway Services",
+      "address": "nr. VARUDA CHOWK, Osmanabad Bypass Road, Dharashiv",
+      "lat": 18.2055956,
+      "lng": 76.05171480000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZUwm9o-hxTsRBzxt_tSaRbo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "GUT No 187/3, NH 211, Osmanabad Bypass Road, Tuljai Nagar, Dharashiv",
+      "lat": 18.2063194,
+      "lng": 76.0515909,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJX9AdvkihxTsREdivoer0mR4",
+      "name": "IndianOil",
+      "address": "Gat No 168/2, NH 211, Alni",
+      "lat": 18.2152569,
+      "lng": 76.044439,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8bTn9h6ixTsR2dq2m_0pTRY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gut No 1038, Ausa Road, Dharashiv",
+      "lat": 18.1955633,
+      "lng": 76.0662016,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJG_2g6gmhxTsRaAwAvRIvrRs",
+      "name": "Bharat Petroleum, Petrol Pump -Samruddhi Petroleum",
+      "address": "MIDC,OSMANABAD, Dharashiv",
+      "lat": 18.227063,
+      "lng": 76.03783270000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4e-BRwChxTsRVuvluVg7S0I",
+      "name": "tulja bhavani petrol pump",
+      "address": "63P8+RF9, Upla",
+      "lat": 18.235968,
+      "lng": 76.066295,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJr-8A66mexTsRaStMfqyCcXQ",
+      "name": "IndianOil",
+      "address": "Gat No 546, Chikhali",
+      "lat": 18.2138968,
+      "lng": 76.1771277,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWdsnRfChxTsR7414J-q4jis",
+      "name": "IndianOil",
+      "address": "Gat No 367(P, Shingoli",
+      "lat": 18.247979,
+      "lng": 76.0327966,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_YQSrFWhxTsRP3JnwijbJ7g",
+      "name": "Shivratna CNG Station Shingoli",
+      "address": "solapur - Chhatrapati Sambhajinagar road, NH - 51, Shingoli",
+      "lat": 18.2359968,
+      "lng": 76.0387209,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ50WYMcihxTsRcg1iiDYkpbk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gat No 340, NH 52, Solapur Aurangabad Road, Shingoli",
+      "lat": 18.2629648,
+      "lng": 76.0257644,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJixbE-yahxTsRFMH0mEzmqCc",
+      "name": "IndianOil",
+      "address": "Gat No 252, Alni",
+      "lat": 18.2751101,
+      "lng": 76.0133201,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJI3ThGMmhxTsRCOS-i1bZRrE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gat No 252, Alni",
+      "lat": 18.27543099999999,
+      "lng": 76.012798,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRW6V7kMKxTsRlw_v0d66Bjs",
+      "name": "Petol Pump N k kisan seva kendra Hajgude",
+      "address": "Gat No 494, Alni",
+      "lat": 18.2816715,
+      "lng": 76.01009119999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJc7L7kjehxTsROytHQDukPzo",
+      "name": "BPCL Chintamani Highway Services",
+      "address": "Gat No 237 at post, Tq, Dist, Alni",
+      "lat": 18.2851035,
+      "lng": 76.0068683,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJW24PkykLxTsRTxeXL3ZnamE",
+      "name": "MAI PETROLEUM Jio BP Mobility station",
+      "address": "Alni",
+      "lat": 18.2896696,
+      "lng": 76.0045695,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtc6SMtadxTsRvIdExJbuP2k",
+      "name": "NEW GOROBAKAKA PETROCARE",
+      "address": "Sy No 136 NEW GOROBAKAKA PETROCARE Kamegaon Osmanabad To Ausa Road Kamegaon Maharashtra 413582, Kamegaon",
+      "lat": 18.2182126,
+      "lng": 76.2074828,
+      "open_now": null
+    }
+  ]
+}

@@ -1,0 +1,635 @@
+{
+  "city": "Dhule",
+  "state": "Maharashtra",
+  "count": 78,
+  "center": {
+    "lat": 20.9,
+    "lng": 74.7833
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJld_TrbHH3jsR20ODAPDE1qI",
+      "name": "Bharat Petroleum",
+      "address": "Dhule - Malegaon Road, Dhule",
+      "lat": 20.8226207,
+      "lng": 74.7479219,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJR_x24DLH3jsRSDoQyWYFmT8",
+      "name": "IndianOil",
+      "address": "Laling",
+      "lat": 20.8227394,
+      "lng": 74.7487075,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJN9ZQOp3H3jsRqAZIQpaCUVs",
+      "name": "IndianOil",
+      "address": "Gut No 131/1 NH 3, Dhule Chaini, Road, Laling",
+      "lat": 20.8226801,
+      "lng": 74.749276,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeVwTCwDH3jsR4FIr0BUKoiA",
+      "name": "petrol pump hp",
+      "address": "RQG2+98P, Dhule",
+      "lat": 20.8259588,
+      "lng": 74.75083409999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJcY8umOLH3jsReTUFALL68Ns",
+      "name": "RR petrolium sarwad",
+      "address": "RQM4+V4R, Agra - Mumbai Highway, MIDC Avdhan, Dhule",
+      "lat": 20.83486,
+      "lng": 74.75494669999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJgc0wVM3H3jsR6bpuWFVHlEM",
+      "name": "SHRI BALAJI TRUCK TERMENUS PVT.LTD",
+      "address": "MIDC Avdhan, Tikhi",
+      "lat": 20.8481648,
+      "lng": 74.7525299,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJQ9czOwDH3jsRmyzyQ2KBonA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gat No, MIDC, TT/01, Laling",
+      "lat": 20.8482622,
+      "lng": 74.752816,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIwFJOBjH3jsRFyohIqSR4yI",
+      "name": "IndianOil",
+      "address": "Ground Floor, Mumbai Agra Highway NH 3, MIDC Avdhan, Borvihir",
+      "lat": 20.838271,
+      "lng": 74.756497,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZybnfNzH3jsRUyA493tpV3A",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 3, Agra - Mumbai Highway, Laling",
+      "lat": 20.8423624,
+      "lng": 74.7598546,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsxPnjm3P3jsRF79tvtANysU",
+      "name": "Dhruv Auto Services",
+      "address": "NH 3, Agra - Mumbai Highway, MIDC Avdhan, Dhule",
+      "lat": 20.8529151,
+      "lng": 74.7641696,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJnR-BpD3G3jsRZ4awJFrvUTs",
+      "name": "IndianOil",
+      "address": "Ground Floor, Agra - Mumbai Highway, Borvihir, Awadhan",
+      "lat": 20.853765,
+      "lng": 74.765434,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnaIlnT3G3jsRITFwD8jANOg",
+      "name": "Bharat Petroleum, Petrol Pump -Bp-Avdhan (Dhule)",
+      "address": "AWDHAN COCO, NH3, Dhule",
+      "lat": 20.85506329999999,
+      "lng": 74.7658529,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvYz5sBfG3jsRsll0ApErhE0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 3, Agra - Mumbai Highway, MIDC Avdhan, Dhule",
+      "lat": 20.857861,
+      "lng": 74.766481,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6Z2c8YbH3jsRz7geyoWnOwc",
+      "name": "IndianOil",
+      "address": "Gut No 26, Tikhi",
+      "lat": 20.814513,
+      "lng": 74.7779905,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdRW-k6TF3jsReJ1bNxjTwpk",
+      "name": "IndianOil",
+      "address": "Survey No 35, 3/A, Chaini Road, Chitod, Dhule",
+      "lat": 20.883994,
+      "lng": 74.753385,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNT56OTPF3jsRJj49WF8-6Jk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gat No 75/2A/1 NH 53, Surat - Kolkata Highway, Dhule",
+      "lat": 20.896404,
+      "lng": 74.7418216,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfW2UMvHF3jsRzTzix0tL-qA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 3288/A, Sabir Nagar, near Shivaji Statue, 635, 1st Lane, Dhule",
+      "lat": 20.8951305,
+      "lng": 74.7745322,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAznLmo7I3jsR6VyXcJWZ0SI",
+      "name": "IndianOil & Aditya Auto Service",
+      "address": "Gad-Utar, Dhule, NH-211, Solapur Dhule Road, Dhule, Dhule",
+      "lat": 20.84344,
+      "lng": 74.79744699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbX04bSrJ3jsRRzr75Y5hyHs",
+      "name": "Bharat Petroleum",
+      "address": "29/2/2, Dhule - Chalisgaon Road, Highway, Pimpri",
+      "lat": 20.8596852,
+      "lng": 74.78751,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwRVENirJ3jsRXDGDgsw0s7I",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Plot No 21 & 22, No 24/1, 26 to 28 & 39, NH 52, Agra - Mumbai Highway, Mohadi Upnagar, Dhule",
+      "lat": 20.8754524,
+      "lng": 74.78173749999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJU1G0V5TJ3jsR6WjUj2qLk7U",
+      "name": "IndianOil",
+      "address": "Gut No 35, Plot No, 13 & 14, Mohadi Road, Arvi",
+      "lat": 20.876893,
+      "lng": 74.782394,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3QGnIyvJ3jsRDGUwPheL9dc",
+      "name": "IndianOil",
+      "address": "Gut No 51, 1 Saindane, Saunda, Dhule",
+      "lat": 20.8628924,
+      "lng": 74.82026119999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm7lkYq3H3jsRmyTWNwlDaZU",
+      "name": "Deepaarti, Bharat Petroleum",
+      "address": "Mohadi Road, Agrawal Nagar, Dhule",
+      "lat": 20.87723189999999,
+      "lng": 74.7735953,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJN5nColLP3jsRjn6YLI_zTwE",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH no, 3, Vadjai Rd Crossing, Parola Road, Dhule",
+      "lat": 20.8826912,
+      "lng": 74.7914472,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJE5UKaf3F3jsRYkx8Q3aQ7ig",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Chalisgaon Road, Dhule",
+      "lat": 20.8891301,
+      "lng": 74.77833199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB9DwNWrP3jsR_6ezkyRecDw",
+      "name": "CBS Energy",
+      "address": "VQQW+953, opp of DDRC Hotel, National Highway-3, Dhule",
+      "lat": 20.8883924,
+      "lng": 74.7954348,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2bCFiPXF3jsRP1mhBBhZN2E",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 371, Plot No 82/1 & 2, 80 Feet Road, Ansar Nagar, Dhule",
+      "lat": 20.8921247,
+      "lng": 74.7772471,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4VjnWADF3jsRETVBcIPldtE",
+      "name": "Indian Oil Jai Balaji Petroleum",
+      "address": "VQV6+F39, Sambhappa Colony, Dhule",
+      "lat": 20.8935232,
+      "lng": 74.7604029,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJe7KEB1vF3jsRvTyOVhGiNdw",
+      "name": "Bharat Petroleum",
+      "address": "SHIVTIRTH, NR SHIVAJI CHO, Dhule",
+      "lat": 20.8966527,
+      "lng": 74.7744161,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ12EEC_jP3jsRrf96D4J-bOQ",
+      "name": "BALAJI LPG Auto Gas (AEGIS)",
+      "address": "Agra - Mumbai Highway, Dhule",
+      "lat": 20.8961529,
+      "lng": 74.7985502,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJCWhdH0vP3jsR42jwfExjwzo",
+      "name": "B P petrol pump",
+      "address": "VQXP+JCQ, Pawan Nagar, Dhule",
+      "lat": 20.8990927,
+      "lng": 74.78611579999999,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJccYhmu3F3jsR8oZn3d7xrzI",
+      "name": "Bharat Petroleum",
+      "address": "VQX9+G49, Navnath Nager, Dhule",
+      "lat": 20.8987935,
+      "lng": 74.7678526,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQ9aJPvfF3jsRJ1MwBJ4W3a8",
+      "name": "IndianOil",
+      "address": "santoshimata chauk, Near Gulmohor government rest House, Dhule",
+      "lat": 20.900405,
+      "lng": 74.7686626,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB2con1XJ3jsRPoIC2MzLQT8",
+      "name": "Bharat Petroleum",
+      "address": "Fagune, NH-6, Dhule Nagpur Kolkata Highway, Mumbai Highway, Dhule",
+      "lat": 20.885494,
+      "lng": 74.872816,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOVLBl1TJ3jsRbcL4nzZfoT0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 3, Ajang",
+      "lat": 20.8867457,
+      "lng": 74.86907099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJW_sPpHifnzkRBfCVrwEZi_U",
+      "name": "IndianOil",
+      "address": "Gut No 100 NH 6, Kalkheda, Highway, Jalgaon",
+      "lat": 20.888049,
+      "lng": 74.85965879999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRVPoVzrL3jsRSm-hIXdNQqE",
+      "name": "NEW BAFNA AUTO SERVICE",
+      "address": "NH6, Ajang",
+      "lat": 20.8861909,
+      "lng": 74.87412069999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMyfSpP3P3jsRPsJeHWHtgI8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "GAT No 153/2, SUR No 83, NH 6, Dhule Nagpur Road, Fagane",
+      "lat": 20.889699,
+      "lng": 74.8421824,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJye97QNLO3jsRJD8x8fovmTs",
+      "name": "Petrol pump",
+      "address": "VRQQ+PJ7, Babhulwadi Road, Fagane",
+      "lat": 20.8898581,
+      "lng": 74.83739729999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJq0_Grs3O3jsRC6omJRtiC1E",
+      "name": "HP PETROL PUMP - K M CHHAJED DHULE",
+      "address": "Fagne NH-6, Mumbai - Nagpur Highway",
+      "lat": 20.8904264,
+      "lng": 74.8355212,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqw1HLADL3jsRCu-fU74vio8",
+      "name": "Yuria pamp adblu",
+      "address": "VVJX+7C3, Ajang",
+      "lat": 20.8806267,
+      "lng": 74.8985319,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJn5_fMkW33jsRQtwAFNWVxNA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 52, Junwane",
+      "lat": 20.764999,
+      "lng": 74.83885500000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlQbRUdbO3jsRi67X1VHjiHY",
+      "name": "IndianOil",
+      "address": "Ground Floor, Balapur",
+      "lat": 20.8930097,
+      "lng": 74.829655,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJYhhVmbXwjsR1sLCfJQwHzk",
+      "name": "IndianOil",
+      "address": "Survey No 37, Plot No 6, Road, Kshire Colony, Bhokar",
+      "lat": 20.9180666,
+      "lng": 74.76836829999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJveVKS4nF3jsRkNUPHHUuDSM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Deopur, Dhule",
+      "lat": 20.910058,
+      "lng": 74.7746576,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJA0y1ikTF3jsRY5x3NpfwPKk",
+      "name": "IndianOil",
+      "address": "NH 6, Morane, Dhule",
+      "lat": 20.9021339,
+      "lng": 74.7201951,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJyfYcZnbE3jsRvgeZ0iUY8Aw",
+      "name": "IndianOil",
+      "address": "Ground Floor, Ashtane, Kundane",
+      "lat": 20.9022234,
+      "lng": 74.6890839,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJk4rpezHL3jsRXp-f_TNd-yo",
+      "name": "IndianOil",
+      "address": "Gut No 165/3 NH 6, near Stone 528, to, 533 Km, Ajang",
+      "lat": 20.9012957,
+      "lng": 74.6865923,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM5zEAbfF3jsRRiWYVba9sRQ",
+      "name": "Bharat Petroleum (BPCL)",
+      "address": "WP3V+82, 6, National Highway, Vidhya Vihar Colony, Mahindale",
+      "lat": 20.9033125,
+      "lng": 74.74256249999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJW57GpnvF3jsRnqaub2kmtZI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "GAT NO 36/2, Gondur Airport Road, Bhokar",
+      "lat": 20.9333438,
+      "lng": 74.7453946,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-THJkoTF3jsRdVM_2A8N7Og",
+      "name": "Riya Bharat Petroleum",
+      "address": "WQ56+WJQ, Jai Santoshi Mata Colony, Dhule",
+      "lat": 20.9098263,
+      "lng": 74.7616199,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs9cOFx3P3jsRrTdQ3DiBzCI",
+      "name": "IndianOil",
+      "address": "Gut No 575/2B, Nimdal, Vidya Nagari",
+      "lat": 20.9465315,
+      "lng": 74.7076098,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-b8o1p_F3jsR5YDKxxDJKBs",
+      "name": "IndianOil",
+      "address": "Survey No 137, 5/6/7, Babhulvadi, Walwadi",
+      "lat": 20.92501799999999,
+      "lng": 74.759613,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNUyjx7LF3jsRuf50PmeNros",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 30/4/1, Survey, Gondur Airport Road, Deopur, Walwadi",
+      "lat": 20.925891,
+      "lng": 74.7679161,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl5r4KArD3jsRZZej8_pEBMY",
+      "name": "BHARADWAJ PETROLEUM ( Bharat Petroleum Corp.Ltd.) & CNG Station",
+      "address": "National Highway 53, Aanandkhede, Surat",
+      "lat": 20.90849159999999,
+      "lng": 74.65221009999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJtykZAbDF3jsRrr8GymryWfI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "B/1, Plot no, Gat No 27/2/A, 1 ,27/2, 2, Deopur, Dhule",
+      "lat": 20.916189,
+      "lng": 74.7765103,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKa5QO4vF3jsRz8GK7ilxY7U",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Plot No 37 & 38, Deopur, Dhule",
+      "lat": 20.913361,
+      "lng": 74.78054100000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJb0-D-R3F3jsRYNpG6m46zE4",
+      "name": "A one servo petroleum",
+      "address": "12, Shrirang Colony, Deopur, Dhule",
+      "lat": 20.92779449999999,
+      "lng": 74.77641559999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJk54nXADF3jsRa4itcShhcOA",
+      "name": "Go Gas Auto LPG Pump Deopur",
+      "address": "Nafees Mansion, Agra Road, Sharda Nagar, Bhoi Society, Dhule",
+      "lat": 20.9277992,
+      "lng": 74.7768482,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4V_p9vrP3jsR8nPKEPLYohM",
+      "name": "IndianOil",
+      "address": "Survey No 4665, Plot No 2/3, Chaini Road, Dhule",
+      "lat": 20.902745,
+      "lng": 74.78392199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0xCjThDD3jsRDya1Hw5O0Wg",
+      "name": "JIO bp petrol pump (Reliance)",
+      "address": "&, Gut no 244, at post - Anand Khede, Tal, Dist, Anand",
+      "lat": 20.9111675,
+      "lng": 74.64078889999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMaaZh17P3jsRhT4iuptdaQI",
+      "name": "Zyada Gas Auto LPG Pump",
+      "address": "Dongre Maharaj Nagar, Parola Road, Dhule",
+      "lat": 20.9024498,
+      "lng": 74.7883317,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB_ew5TrP3jsRUNhKOhWsamY",
+      "name": "Bharat Petroleum",
+      "address": "BALAPUR, 3KM FROM NH3 ON, Dhule",
+      "lat": 20.897453,
+      "lng": 74.8140209,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAbx6WNjP3jsRbxLt_M59O5A",
+      "name": "Badgujar Petroleum HP",
+      "address": "opposite Datta Factory, Plot no. 18/3 1 & 2, opposite Datta Factory, near cotton market, Parola Road, Dhule",
+      "lat": 20.9016373,
+      "lng": 74.7922092,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYRVlJrXP3jsRJMNq5tyLtrM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Drivershan Road, Deopur, Dhule",
+      "lat": 20.9308285,
+      "lng": 74.7852869,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVQb7ZY7F3jsR6YdooR61euk",
+      "name": "Ashish Petroleum",
+      "address": "NH 03, Nagaon",
+      "lat": 20.9561183,
+      "lng": 74.779918,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsSzcsVjF3jsRYDJ5WJVVNdQ",
+      "name": "IndianOil",
+      "address": "Gut No 312/B Dhule, Chaini Road, Nagaon",
+      "lat": 20.956352,
+      "lng": 74.779736,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJN8UNiP7P3jsRePD_8GYj2NE",
+      "name": "HP Petrol Pump",
+      "address": "Nagaon Hpcl Outlet NH-3, Aurangabad",
+      "lat": 20.9683894,
+      "lng": 74.7848374,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH63OemTN3jsRDnJ9vUfsEJw",
+      "name": "Bharat Petroleum Petrol Pump , SUPREME PETRO SERVICES",
+      "address": "AT POST NAVALNAGARDHULE, Amalner Road, Dhule",
+      "lat": 20.93791,
+      "lng": 74.896143,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJj7DVntTL3jsRslRngQhtSxg",
+      "name": "NAYARA SHRIRAM FILLING CENTRE",
+      "address": "NATIONAL HIGHWAY, NO 06, Nandale Road, فاٹ, Kasvihir",
+      "lat": 20.8758126,
+      "lng": 74.9152206,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_5Zzap_d3jsReuE-s1aRukQ",
+      "name": "Ramdoot petroleum",
+      "address": "Taluk sakri, NH-6, bod ki khadi, Dhule",
+      "lat": 20.9858385,
+      "lng": 74.66346399999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJD__36wbQ3jsRWtXZUt25NRU",
+      "name": "Bharat Petroleum & Rohit Automobile and CNG Pump",
+      "address": "420/1A, NH3, Mumbai agra national highway,, Nagaon, Dhule",
+      "lat": 20.9812048,
+      "lng": 74.78441939999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS0gfjgbQ3jsRS9eiU6joqLo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gat No 8, 1/2 Old NH 3, Agra - Mumbai Highway, Nagaon",
+      "lat": 20.9815389,
+      "lng": 74.7853294,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJfymRXTQ3jsRGdmmc06A7mM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gat No 302, 1 & 2, Agra - Mumbai Highway, Deobhane",
+      "lat": 21.0006926,
+      "lng": 74.7840776,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx5iLo1nR3jsRRIgVGESWuIs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gat No 191/1/A, NH 3, Agra - Mumbai Highway, Deobhane",
+      "lat": 21.0129819,
+      "lng": 74.7840025,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsYGpf9nR3jsRj-4r8WWbDhg",
+      "name": "IndianOil",
+      "address": "Dhule",
+      "lat": 20.9845281,
+      "lng": 74.8420996,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8dbNznfR3jsRg37R6JGOz0E",
+      "name": "Shree Shyam Petroleum (Nayara Energy)",
+      "address": "Road, Deobhane",
+      "lat": 21.0276308,
+      "lng": 74.7927636,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQWu_yUTR3jsRwnrf8puHTng",
+      "name": "Bharat Petroleum, Petrol Pump -R.R.Petroleum",
+      "address": "Sarwad",
+      "lat": 21.036068,
+      "lng": 74.785223,
+      "open_now": true
+    }
+  ]
+}

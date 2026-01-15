@@ -1,0 +1,1675 @@
+{
+  "city": "Bhiwandi",
+  "state": "Maharashtra",
+  "count": 208,
+  "center": {
+    "lat": 19.3,
+    "lng": 73.0667
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJt8asOiu_5zsRQzJ4FHt1nIQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "opposite Green Word, Plot No 130, Digha Naka, TTC MIDC, Vitawa, Navi Mumbai",
+      "lat": 19.184651,
+      "lng": 72.99402100000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeeE7n6O75zsRQivXfhl3cV0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Hypercity Mall, Ghodbunder Road, Kasarvadavali, Naka, Thane",
+      "lat": 19.2692101,
+      "lng": 72.9651701,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS7IssB255zsR5nNKyNTtl74",
+      "name": "Bharat Petroleum",
+      "address": "Nandanvan Industrial Estate, D/11, Lal Bahadur Shastri Marg, Louis Wadi, Thane West, Thane",
+      "lat": 19.1875579,
+      "lng": 72.9616995,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJt-dPxwW55zsR3OYlDioCwZY",
+      "name": "AIKI AUTO Cng Pump",
+      "address": "B-27, SG Barve Road, Neheru Nagar, Wagle Industrial Estate, Thane West, Thane",
+      "lat": 19.1939447,
+      "lng": 72.95338989999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJw-Hy4we75zsRKS99u4f7mkc",
+      "name": "Mahanagar Gas CNG Station",
+      "address": "1, Ghodbunder Road, Owale, Thane West, Thane",
+      "lat": 19.2776442,
+      "lng": 72.9579041,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC2yhzD255zsRM3py_dGmMQI",
+      "name": "Mahanagar Gas CNG Station",
+      "address": "Khopat Road, Khopat, Thane West, Thane",
+      "lat": 19.2023766,
+      "lng": 72.9726207,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2SFGaNOZ5zsRDz6vEiHC3KU",
+      "name": "IndianOil Petrol Pump (Dandekarwadi)",
+      "address": "Kuksa, Borivali, NH 3, Bhiwandi Road, Dandekarwadi, Thane",
+      "lat": 19.2209371,
+      "lng": 72.98806710000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP41bb0-55zsRWR4psp-xgDM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Fire Station, next to Balkum, Agra - Mumbai Highway, Majiwada, Thane",
+      "lat": 19.217651,
+      "lng": 72.98239099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl4Zsl-S75zsRsqWJBRNGJuk",
+      "name": "GULF LUBRICANTS",
+      "address": "6XQH+PWR, Mahatma Phule Marg, Chitalsar, Thane West, Thane",
+      "lat": 19.23935549999999,
+      "lng": 72.9797597,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJjV-FGVu55zsR__d24YX3uNs",
+      "name": "BLUE STAR",
+      "address": "India",
+      "lat": 19.2228836,
+      "lng": 72.9779358,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJXy4S3k275zsRBy7Vs1g8zwc",
+      "name": "Laxmi automobile",
+      "address": "ODEDRA BLDG, Amin Sheth Chal, behind Petrol Pump, Manpada, Thane West, Thane",
+      "lat": 19.235159,
+      "lng": 72.977176,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM6z_dAC75zsRl2afbI5sn1g",
+      "name": "Bharat Petroleum",
+      "address": "Shop No 3, Station Road, Ghorei Nagar, Kalwa East, Mumbai",
+      "lat": 19.2352146,
+      "lng": 72.97654109999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJgcApdVu55zsRgncSE7XqDIk",
+      "name": "IndianOil Petrol Pump (Thane West)",
+      "address": "Lock No 21008, Chitalsarmanpada, Ghodbunder Road, Kasarvadavali, Thane",
+      "lat": 19.2234297,
+      "lng": 72.9768862,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjyc740S55zsRtVhHXfzXDE4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, opposite Kapurbawdi, Ghodbunder Road, Juntion, Thane West, Thane",
+      "lat": 19.219771,
+      "lng": 72.978141,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ02tuJQC_5zsRrCqap8hxhbk",
+      "name": "Nayra Petrol Pump",
+      "address": "008, Kalwa, Mumbai",
+      "lat": 19.2088479,
+      "lng": 73.0012593,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRzX4UAC_5zsRmN2-v_tqIKY",
+      "name": "Nayara petrol pump",
+      "address": "6252+FFQ, Kharegaon Bypass Road, Kharegaon, Kalwa, Thane",
+      "lat": 19.20872379999999,
+      "lng": 73.0012251,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHztOqz685zsR27_cOrw3pfY",
+      "name": "IndianOil Petrol Pump (Purna)",
+      "address": "Bus Stand, near Koper, Bhiwandi Road, Rehnalpurna, Dandekarwadi, Kalher, Thane",
+      "lat": 19.241096,
+      "lng": 73.016612,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpY05mUa55zsRhTP4x0YiUSg",
+      "name": "BPCL Fuel Pump and CNG Pump Majiwada",
+      "address": "Old, Agra - Mumbai Highway, Majiwada, Thane",
+      "lat": 19.2149174,
+      "lng": 72.97727850000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZX3CTAC_5zsRO7LndfHF7Ig",
+      "name": "Mahanagar CNG Gas Pump",
+      "address": "6256+8GX, Parsik Nagar, Kalwa, Thane",
+      "lat": 19.2083587,
+      "lng": 73.01136819999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9wE2f4S-5zsR3j5LRJn0Ll0",
+      "name": "Vansh Automobiles",
+      "address": "Anjurdive, Bhiwandi",
+      "lat": 19.2319281,
+      "lng": 73.03201720000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo8EogAG55zsRRKe8Zziupxs",
+      "name": "Bharat Petroleum Corporation ltd",
+      "address": "Bpcl PETROL pump, opposite manorpada, Lal Bahadur Shastri Marg, Uthalsar, Thane West, Thane",
+      "lat": 19.2028694,
+      "lng": 72.97594099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlXIAqzm85zsRXUXq6QKxZR4",
+      "name": "J K Petrol Pump",
+      "address": "Saikrupa, Purna, Bhiwandi",
+      "lat": 19.2571577,
+      "lng": 73.0259598,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2zkBGji85zsRAfRkgSnwxVA",
+      "name": "IndianOil Petrol Pump (Purna)",
+      "address": "Purna, Bhiwandi Road, Dandekarwadi, Rahanal, Thane",
+      "lat": 19.259355,
+      "lng": 73.027942,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJ9lhQQC_5zsRDCX72qL96R8",
+      "name": "Anil Yadav",
+      "address": "62HR+3XF, Mankoli - Anjur Road, Anjur, Bhiwandi",
+      "lat": 19.2276858,
+      "lng": 73.04240949999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJw4f4oOa55zsR3UzvHIHqX3s",
+      "name": "Namdev Nipurt",
+      "address": "Shop 04, Teen Perto Pump 26, Thane",
+      "lat": 19.1939618,
+      "lng": 72.9704826,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJs42dGwC95zsR4VIJtHLhOOg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 7, Mankoli - Anjurphata Road, Thane",
+      "lat": 19.242111,
+      "lng": 73.041534,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxQKJciK55zsRLcN42xzBjn8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 356, Agra - Mumbai Highway, Naupada, Thane",
+      "lat": 19.193261,
+      "lng": 72.970421,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJed5KkCG55zsRMaLYhxviwLw",
+      "name": "BEST TYRE SERVICE",
+      "address": "oppojit teen petrol pump, Tulasi Chambers, B/H, Lal Bahadur Shastri Marg, Thane West, Thane",
+      "lat": 19.1933681,
+      "lng": 72.97023229999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpdcq3dS95zsR4IyrRSgkA6w",
+      "name": "IndianOil Petrol Pump (Dapode)",
+      "address": "Lock No, 11012 Raver, Dapode, Bhiwandi",
+      "lat": 19.2425131,
+      "lng": 73.04182899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEV-YDiK55zsRrZZDlaq7G18",
+      "name": "Radhakishan Lalchand HP Petrol Pump",
+      "address": "Teen Petrol Pump, Naupada, Thane",
+      "lat": 19.1928872,
+      "lng": 72.9702849,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbTiVQce55zsRcEqLQfSEEYk",
+      "name": "Shell",
+      "address": "Service Road, Thane",
+      "lat": 19.195491,
+      "lng": 72.963081,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJw_X6fNC95zsR0pYgamuwmaA",
+      "name": "Bharat Petroleum - Mayashree Automobiles",
+      "address": "Dapode, Bhiwandi",
+      "lat": 19.2511504,
+      "lng": 73.04104319999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJEzmGEEm85zsRL0FM5b6lycY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 9, Hissa No 3, near Mahanagar Gas, Old, Agra - Mumbai Highway, Purna, Thane",
+      "lat": 19.2636328,
+      "lng": 73.0320122,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYwHKntq95zsRG2DAFBmGJAM",
+      "name": "Anjur Service Centre",
+      "address": "3, Agra - Mumbai Highway, Thane West, Bhiwandi",
+      "lat": 19.1957353,
+      "lng": 72.96187189999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJaZVLP9S95zsRsiiCx1gPZuw",
+      "name": "Anjur Petrol Pump",
+      "address": "SURVEY NO 102, VILLAGE DAPODA, Mumbai - Nashik Expressway, Mankoli, Bhiwandi",
+      "lat": 19.2427932,
+      "lng": 73.0451396,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVzuVC_295zsRp5Uw5mxPm7U",
+      "name": "Mahanagar Gas CNG Station",
+      "address": "Indian Oil/Owali, Gaon, Mankoli, Bhiwandi",
+      "lat": 19.24308109999999,
+      "lng": 73.04538130000002,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJc53Jg2e95zsRGKz7_YIZ0u0",
+      "name": "Montgomerry Petroleum BP",
+      "address": "Holy Mary School, Purna, Bhiwandi",
+      "lat": 19.2643295,
+      "lng": 73.0319287,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJw1MSrEe_5zsRKyXs-rB6MpU",
+      "name": "RABIYA SEVERICE N REPAIRING SHOP",
+      "address": "Shop No. 02, Famous Bldg, Thane West, Thane",
+      "lat": 19.1886162,
+      "lng": 73.0221004,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJW4_jBUm85zsRqToV0i8ZlW4",
+      "name": "Jay Hind Cng Station",
+      "address": "727J+HXP, Val, Bhiwandi",
+      "lat": 19.2639522,
+      "lng": 73.03245059999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ403R34y95zsRcn9D_53D6UA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Purna, near Bus Stop, Old, Agra - Mumbai Highway, Rahanal, Thane",
+      "lat": 19.264681,
+      "lng": 73.03239099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcZBDGwC55zsRVTHMi2Y-m28",
+      "name": "Mahanagar Gas CNG",
+      "address": "near Sanjay Gandhi Market, No 33 Ambewadi, near Sanjay Gandhi Market, Road Number 33, Indira Nagar, Wagle Industrial Estate, Thane West, Thane",
+      "lat": 19.204586,
+      "lng": 72.95193309999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcRWbUAC55zsRRy551Z2JKz4",
+      "name": "MGL Wagle Estate , Modern",
+      "address": "6X32+VMC, Road Number 33, Karvalo Nagar, Thane West, Thane",
+      "lat": 19.2046996,
+      "lng": 72.9516515,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJE1PLFAC95zsRo8mT6SEm90w",
+      "name": "Montgomerry Automobile Bharat Petroleum Petrol Pump",
+      "address": "728M+4H2, Thane Road, Rahanal, Bhiwandi",
+      "lat": 19.2652625,
+      "lng": 73.03387940000002,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJmd2nHQC55zsRYtniEjcyCgM",
+      "name": "KOWTHALAM ADONI ROAD",
+      "address": "5XW4+WJV, Ambica Nagar, Wagle Industrial Estate, Estat, Thane",
+      "lat": 19.1973555,
+      "lng": 72.95653779999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJs8AfzuS55zsRcLZmOG8L_PA",
+      "name": "IndianOil Petrol Pump (Thane West)",
+      "address": "Lock No 22005, Plot No 122a, Lal Bahadur Shastri Marg, Naupada, Thane",
+      "lat": 19.1895,
+      "lng": 72.96530000000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNREgSLK95zsREKU0S0bJH2Y",
+      "name": "IndianOil",
+      "address": "Survey No 89 Bhiwandi Road, Anjur, Val, Dapode, Thane",
+      "lat": 19.2551776,
+      "lng": 73.0439043,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP6psCQC95zsRRXstzydk8J4",
+      "name": "Sakshi Mahanagar CNG pump",
+      "address": "Dapuda Road, Val, Bhiwandi",
+      "lat": 19.2589545,
+      "lng": 73.042735,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS0uwC0y85zsRnwxDQRyvqxg",
+      "name": "IndianOil Petrol Pump (Dapode)",
+      "address": "Ground Floor, Rahanal, Bhiwandi",
+      "lat": 19.2669771,
+      "lng": 73.0358333,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ16p8XuS95zsRTTLyy0UmPRw",
+      "name": "Soheb kjan",
+      "address": "724V+CX3, Dapode, Bhiwandi",
+      "lat": 19.2560157,
+      "lng": 73.04491329999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJe8zbEPS_5zsRJ-GeCjcRcZE",
+      "name": "IndianOil Petrol Pump (Thane West)",
+      "address": "No A/93, COCO MIDC, Road Number 16, Wagle Industrial Estate, Thane",
+      "lat": 19.1939396,
+      "lng": 72.9535659,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJp8G03WW95zsRpNbaze69hrM",
+      "name": "Kaushalyaa Swami Enterprises",
+      "address": "Reliance pump, Val, Bhiwandi",
+      "lat": 19.2636142,
+      "lng": 73.0422844,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJz73kTDC_5zsRsILWnli_XeY",
+      "name": "Mahanagar Gas CNG Station",
+      "address": "near Palampur Company, Plot No General 55, MIDC Road, Digha Naka, Subhash Nagar, Dighe, Navi Mumbai",
+      "lat": 19.1754882,
+      "lng": 73.0023684,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVfi1ntq95zsRa8QLNdNtXgs",
+      "name": "Shivai Petroleum",
+      "address": "3, Mumbai - Nashik Expressway, Thane West, Bhiwandi",
+      "lat": 19.2495319,
+      "lng": 73.05268199999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ9eOLbfG55zsRDyhkcytnD28",
+      "name": "Sandeep Gavelkar Pump",
+      "address": "02 22, Shop 02, Kisan Nagar Road, Thane",
+      "lat": 19.1938754,
+      "lng": 72.9503014,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJpSE3SNq95zsRzWup3MFGuLk",
+      "name": "Hp Gas",
+      "address": "India",
+      "lat": 19.2471886,
+      "lng": 73.05469649999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJy3mDw7655zsRe12JnUVl62E",
+      "name": "MAHANAGAR CNG WAGLE ESTATE",
+      "address": "Road Number 22, Neheru Nagar, Shree Nagar, Thane West, Thane",
+      "lat": 19.19348,
+      "lng": 72.94956239999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe6t67Nq95zsR8VF5YXJbJN8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 3, Mumbai - Nashik Expressway, Ovali, Bhiwandi",
+      "lat": 19.2495307,
+      "lng": 73.054091,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJ4f8pI6_5zsRKuR6DiXT6oU",
+      "name": "Aal EkVeera Enterprises",
+      "address": "Diva Manpada Road, Samartha Nagar, Sabe Gaon, Thane",
+      "lat": 19.185357,
+      "lng": 73.0421817,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ-a4M1P-45zsR34ODJmECqn0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, BR Road Junction, near Santoshi Mata Mandir, Lal Bahadur Shastri Marg, Mulund West, Mumbai",
+      "lat": 19.183467,
+      "lng": 72.94873299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJp3Hnz5285zsRdC5JtxP-_nk",
+      "name": "Petrol Pump (Bharat Petroleum) at Kharbav",
+      "address": "7XXW+F26, Chinchoti Anjur Phata Road, Kharbao",
+      "lat": 19.2968472,
+      "lng": 72.9955995,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0SOXL5mV5zsRDlS7uB7yAG0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 123/2, Plot No 8 & 9, Kalyan - Shilphata Road, Dombivli East, Goveli",
+      "lat": 19.205291,
+      "lng": 73.10801099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJicgnMx6W5zsR9KVRoVUTkVo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 22, near Nisharg Hotel, Ranjnoli",
+      "lat": 19.2632786,
+      "lng": 73.0886803,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvxkncnmV5zsR-31VOf9xj-U",
+      "name": "Rameshwar CNG Substation",
+      "address": "Plot No f-20, Midc Phase 2, kalyan shilroad,, Sagaon, Dombivli East, Dombivli",
+      "lat": 19.1931262,
+      "lng": 73.0959862,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPRTFBtGV5zsRiku7kOomKLA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "S No 270, opposite D Mart, CS No 18/19, Kalyan-Murbad Road, Thane",
+      "lat": 19.2383009,
+      "lng": 73.1266205,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe9MaXrKV5zsR7bxuOWFuKl8",
+      "name": "Essar Petrol Pump (Sri Sadguru Automobiles)",
+      "address": "647J+MP6, 100 Feet Road, Kalyan East, Chinchpada Gaon, Kalyan",
+      "lat": 19.2141718,
+      "lng": 73.1317691,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJbQnxOzSW5zsREH9hxno2N0s",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "9 & 10, S No 7, H No 2, 3, 5 to 7, Bhiwandi Bypass Rd, Sonale, Bhiwandi",
+      "lat": 19.2853676,
+      "lng": 73.10761900000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgad7wwm_5zsRKcKwK7vVQQU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near Bhagshala Maidan, Plot No 19, Survey No 327A/1, Vishnu Ngr Subhash Cross, near Bhagshala Maidan, Karve Road, Dombivli West, Thane",
+      "lat": 19.223164,
+      "lng": 73.087373,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ24xx5ZeV5zsRdp42aTNg2dU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 4, Hissa No 3, Shivaji Ngr, near Ragai Mandir, Chinchpada, Dombivli West, Thane",
+      "lat": 19.2293848,
+      "lng": 73.08977039999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgcFf1wSW5zsRulvoXV5mjV8",
+      "name": "Mahanagar Gas CNG Station Kanhaiya",
+      "address": "124/4, NEAR RITU HYUNDAI,GOVE, VILLAGE, Bhiwandi",
+      "lat": 19.2546685,
+      "lng": 73.09634299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJK3bf8jCX5zsRChJ8fgHhVR8",
+      "name": "IndianOil Petrol Pump (Saravali)",
+      "address": "Lock 11031, Kalyan - Bhiwandi Road, Saravali, Kalyan",
+      "lat": 19.253204,
+      "lng": 73.098078,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJr_nAdhyW5zsRBSo0mpnhIdg",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 19.2588479,
+      "lng": 73.0933975,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSTgEhh6W5zsRJrJdE-JQ3Ak",
+      "name": "MNGL CNG Pump",
+      "address": "736R+GCF, Sapna Industrial Estate, Saravali, Gove",
+      "lat": 19.2613195,
+      "lng": 73.0910406,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJRzhy1QiW5zsRfCm1hCVlcCw",
+      "name": "Reliance Petrol Pump",
+      "address": "7422+2XX, NH 222, Kongaon",
+      "lat": 19.25,
+      "lng": 73.102475,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrWGStgO_5zsR5x30b7I3wx8",
+      "name": "Cng pump",
+      "address": "Desale pada, Nandivali Road, Dombivli East, Dombivli",
+      "lat": 19.1952081,
+      "lng": 73.086283,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkWLWzMSV5zsRVA4Kr2iljIk",
+      "name": "MAHAKAL TRADING",
+      "address": "OM SAI PLAZA, near ARIHANT AUTO WORLD, 102/1, Manpada Road, Sanjay Nagar, Dombivli East, Thane",
+      "lat": 19.2016968,
+      "lng": 73.0957944,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJgXFNKaq_5zsRkLDN6L54CeM",
+      "name": "Mahanagar Gas CNG Station",
+      "address": "Bhopar Road, Bhadra Nagar, Dombivli East, Dombivli",
+      "lat": 19.1947788,
+      "lng": 73.08617869999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY95s95SV5zsRmSJKKZcs65E",
+      "name": "Mahanagar Gas CNG Station",
+      "address": "6494+JX7, Khambalpada Road, khambalpada, Dombivli East, Dombivli",
+      "lat": 19.2190412,
+      "lng": 73.10740899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0RNW9JSV5zsRn5eyKWZyLFI",
+      "name": "Quality CNG station",
+      "address": "6494+JX3, Tata Power Company Limited, Dombivli East, Dombivli",
+      "lat": 19.2190114,
+      "lng": 73.10740969999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJX4rlUoC95zsRcAbOFqYIh9c",
+      "name": "Mahanagar Gas CNG Station",
+      "address": "CNG pump, Mumbai - Nashik Expressway",
+      "lat": 19.2682593,
+      "lng": 73.0838302,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJyUsoBou95zsRLRdYcXuQHao",
+      "name": "IndianOil Petrol Pump (Saravali)",
+      "address": "Ranjnoli Kalyan Road, Dandekarwadi, Bhiwandi",
+      "lat": 19.268331,
+      "lng": 73.083985,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGyjmrFOX5zsRWy5l0Jx-dts",
+      "name": "Jayshree Enterprise",
+      "address": "7442+3W8, Thane",
+      "lat": 19.2551699,
+      "lng": 73.10233579999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJo3QmB2y_5zsRL03iWOIYPSM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 45, 5 & 45/6, Diva Manpada Road, Betwade Gaon, Thane",
+      "lat": 19.1862643,
+      "lng": 73.0699478,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJR2AlhJeV5zsRhODZTJLTpwo",
+      "name": "इंडियन ऑयल",
+      "address": "India",
+      "lat": 19.2109209,
+      "lng": 73.108912,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJPYYYhJeV5zsR3iIdW8tG-1E",
+      "name": "Usma Petrol Pump",
+      "address": "Tata Power Company Limited, Dombivli East, Dombivli",
+      "lat": 19.2108696,
+      "lng": 73.1089027,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGQiEcXmV5zsR5pubFedWw9Q",
+      "name": "Mahanagar Gas CNG Station",
+      "address": "53VW+7C6, Sagaon, Dombivli East, Dombivli",
+      "lat": 19.1931513,
+      "lng": 73.0960278,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZdsSNr2V5zsR87oOBXsYXsI",
+      "name": "IndianOil Petrol Pump (Dombivli East)",
+      "address": "No B/44/2, Midc, Kalyan - Shilphata Road, Golavli, Phase 1, Dombivli East, Thane",
+      "lat": 19.2112075,
+      "lng": 73.1130019,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJscaCGQCV5zsR8wcf-CvL1Q0",
+      "name": "Indian Oil - Sairaj Petroleums",
+      "address": "opp. APMC Cattle Mandi, near Sarvodaya Residency, Eidgah Road, Bhoiwada, Kalyan",
+      "lat": 19.2377211,
+      "lng": 73.1183096,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJN4hNxnyV5zsRwQ7V5jvmFao",
+      "name": "Bharat Petroleum, Petrol Pump -Samant Auto",
+      "address": "Kalyan shilphata highway, near premiere compound, Sonar Pada, 1, MIDC, Dombivli East",
+      "lat": 19.1866074,
+      "lng": 73.0920977,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWYKUFQC_5zsRRi_ZUjaeZ70",
+      "name": "Om Shivam fiber mannequins",
+      "address": "53J9+2RR, Usarghar Gaon, Thane",
+      "lat": 19.1801225,
+      "lng": 73.0695289,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJyTZS9GSV5zsRetOirMF1rrQ",
+      "name": "Bharat Petroleum, Petrol Pump -Shree Samarth Krupa Automobiles",
+      "address": "GOLVALI (KALYAN MARTYR SI, Thane",
+      "lat": 19.2172724,
+      "lng": 73.1189638,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ7UiVLaX5zsRl5Ng6LoPWAc",
+      "name": "SGR Group ONLINE CNG Station",
+      "address": "Annabhau Sathe Nagar, Khadakpada, Kalyan",
+      "lat": 19.2490429,
+      "lng": 73.1189167,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFy7qyOCX5zsRLm4qELDyyeE",
+      "name": "CNG pump",
+      "address": "64X9+HJJ, Annabhau Sathe Nagar, Khadakpada, Kalyan",
+      "lat": 19.2489728,
+      "lng": 73.11901320000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ8wChqFO_5zsRoAclZpV_nNc",
+      "name": "Shell Petrol Pump Station",
+      "address": "Kalyan - Shilphata Road, Dombivli",
+      "lat": 19.17805,
+      "lng": 73.08706699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJW-PVSKi95zsR8J4tC6hWXqQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "opposite Police Station, No 131/1 & 161/1, Old Mumbai Agra Road, Narpoli, Bhiwandi",
+      "lat": 19.2836662,
+      "lng": 73.0499495,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg1KNCgCX5zsRR-YdTilZzMc",
+      "name": "CNG JIO PUMP",
+      "address": "79, Saravali, Bhiwandi",
+      "lat": 19.2781613,
+      "lng": 73.0983372,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJXcKDqnGU5zsRBL1138a9UCQ",
+      "name": "Reliance JIO British Petroleum",
+      "address": "659F+R9P, Kalyan - Badlapur Road, Vadol Gaon, Waldhuni, Ambernath",
+      "lat": 19.2195803,
+      "lng": 73.1734585,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC7_nzWCU5zsRqVEu9S_fRr4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "C, Ground, 690, Ambernath Road, Ulhasnagar",
+      "lat": 19.209291,
+      "lng": 73.160611,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJE-fYuUOU5zsRTNrU92aMY_I",
+      "name": "Mahanagar Gas - Green Gas CNG Pump, Ulhasnagar",
+      "address": "Vitthalwadi, Ulhasnagar",
+      "lat": 19.2188474,
+      "lng": 73.15498199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqdoGxIOT5zsR5IA622XxW3g",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Police Station, Survey No 206/101 Police Welfare, near Ambernath, Kohaj, Khuntavali",
+      "lat": 19.2105212,
+      "lng": 73.1890619,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXRMOJm-T5zsR-vZAZ0Q-3rY",
+      "name": "Mahanagar Gas CNG Station",
+      "address": "Mahalaxmi Nagar, Ambernath",
+      "lat": 19.1908676,
+      "lng": 73.1965261,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzcwrATaU5zsREjNOxWZ4JQs",
+      "name": "Manisha Gas Godown",
+      "address": "64GR+5CV, Hanuman Nagar Road, Katemanivali, Hanuman Nagar, Kalyan",
+      "lat": 19.2254762,
+      "lng": 73.1410581,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJC2vTSuOT5zsRU90TgAmhzak",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, opposite Royal Garden, NH 222, Kalyan-Murbad Road, Kamba, Kalyan",
+      "lat": 19.2395772,
+      "lng": 73.1401546,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl_HQtdGV5zsRZ8K7TeOYylw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Rani Mansion, near State Bank of India, A Wing, Murbad Road, Thane",
+      "lat": 19.236791,
+      "lng": 73.12646099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIT1zy1iV5zsR2hnfdqSm5pA",
+      "name": "CNG PUMP ( MGL MSRTC VITTHALWADI )",
+      "address": "64HX+2MQ, Vitthalwadi, Ulhasnagar",
+      "lat": 19.22758379999999,
+      "lng": 73.1492478,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx7blPhOV5zsRpTfBuluqJqY",
+      "name": "Reliance Petroleum",
+      "address": "Plot No 3, Opposite Ramgirdhar Ind Est, Vitthalwadi Station Road, Vitthalwadi, Ulhasnagar",
+      "lat": 19.232773,
+      "lng": 73.1500552,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrXWR0L6V5zsRg07xfbLPDCg",
+      "name": "Nayara Energy Ltd RO Mayur Automobiles",
+      "address": "65P2+662, beside Mahanagar Gas Station, Ulhasnagar",
+      "lat": 19.2354482,
+      "lng": 73.15052779999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLXSbPD-U5zsRFVDEqOmvHSc",
+      "name": "Kajal Petrol Pump",
+      "address": "Vitthalwadi, Ulhasnagar",
+      "lat": 19.2282983,
+      "lng": 73.1537962,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhwR6uCWU5zsRaDEJsi6uoOg",
+      "name": "Roshan Petrol Pump",
+      "address": "64RX+MGP, Syndicate, Kalyan",
+      "lat": 19.2417027,
+      "lng": 73.1488348,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJK2FH6z6U5zsRSBFt_1TJYM8",
+      "name": "Hira Gas Co.",
+      "address": "India",
+      "lat": 19.23057859999999,
+      "lng": 73.1544154,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJk_dhnD6U5zsR6pUepX8hpl0",
+      "name": "Mahalaxmi Gases",
+      "address": "65J3+Pvg, Vitthalwadi, Ulhasnagar",
+      "lat": 19.2318125,
+      "lng": 73.1546875,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx51DfyaU5zsRvo_esml7W_g",
+      "name": "IndianOil Petrol Pump (Purnima)",
+      "address": "Lock No 11026, chickanghar Kalyan Murbad Road, Amane, Kalyan West, Kalyan",
+      "lat": 19.243206,
+      "lng": 73.14942099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ041dOqGV5zsRxzSnsfmivNQ",
+      "name": "Bharat Petroleum, Petrol Pump -Shree Samarth Krupa Auto Adhoc",
+      "address": "Bhiwandi - Kalyan Road, Thane",
+      "lat": 19.2457233,
+      "lng": 73.1267577,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ30FUWtiV5zsRaO96HjCgMkA",
+      "name": "Bharat Petroleum, Petrol Pump -Shanta Service Station",
+      "address": "Opp- Hotel Surya International, Ulhasnagar 4",
+      "lat": 19.2222939,
+      "lng": 73.1546774,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIwnHda2V5zsRJyU3_tLFuKg",
+      "name": "IndianOil Petrol Pump (Nandivali Gaon)",
+      "address": "Survey No 26, Hissa No 4A, 4E/P, Adivali Dhokli, Ganeshwadi, Ambernath",
+      "lat": 19.211396,
+      "lng": 73.132122,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2RUhvT2U5zsRf7r42CVrMs8",
+      "name": "मोहन टायर सर्व्हिस",
+      "address": "65M4+QQ2, Gol Maiden Road, Sidhi Vinayak Nagar, Ulhasnagar",
+      "lat": 19.2343954,
+      "lng": 73.1568995,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJAQFK8D-U5zsRmK0nkCXPjsU",
+      "name": "IndianOil Petrol Pump (Ramayan Nagar)",
+      "address": "Hira Ghat, opposite Shiv Mandir, Sector 17, Ulhasnagar",
+      "lat": 19.227252,
+      "lng": 73.157665,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx1RE0T-U5zsRvhl8K3UEMiA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Sector 17, near Derby Hotel, Ulhasnagar",
+      "lat": 19.229121,
+      "lng": 73.158061,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8WnZviOU5zsRybievJKWnh8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Murbad Road, Shahad, Thane",
+      "lat": 19.24197879999999,
+      "lng": 73.15448219999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2_Ff4zuV5zsRjI4LdS6V8Ps",
+      "name": "रमेश केणे चौक",
+      "address": "6594+G6G, Ramesh Karkar Lane, chowk, mahadev nagar, Ulhasnagar",
+      "lat": 19.2188034,
+      "lng": 73.1555832,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJPYoxzwaV5zsRh8ZQ26RzpOU",
+      "name": "CNG Pump Laxmijyot",
+      "address": "6556+XP6, Padmashree Mohammad Rafi Marg, Baba Namandas Nagar, Kailash Colony, Ulhasnagar",
+      "lat": 19.2102919,
+      "lng": 73.1614623,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRd7H-4qU5zsR3LUmr-45T_8",
+      "name": "IndianOil Petrol Pump (Kailash Colony)",
+      "address": "Lock No 22006 Vakil Marg, Ulhasnagar 5, Near, Nijdham Ashram Marg, Thane",
+      "lat": 19.201532,
+      "lng": 73.161103,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4cZ4BouU5zsR7J6JTcGH-JQ",
+      "name": "IndianOil Petrol Pump (Kailash Colony)",
+      "address": "Opposite Rationing Office, Plot No 30 & 31, 5, Ulhasnagar",
+      "lat": 19.2005584,
+      "lng": 73.1611078,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8w9SawCX5zsRfe35wJMNO2k",
+      "name": "Kalyan Energy",
+      "address": "Durga Mata Chowk, near Seth Hirachand Mutha School, 90Feet Ring Road, Kalyan",
+      "lat": 19.2676826,
+      "lng": 73.131654,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvUO4SgCX5zsRpWPyKX2aXow",
+      "name": "Indian Oil Petrol Pump",
+      "address": "Kolivali, Khadakpada, Kalyan",
+      "lat": 19.2677527,
+      "lng": 73.1317746,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcemovbmV5zsR3PM4lKrSYNs",
+      "name": "Nayara Fuel Station",
+      "address": "55J2+Q8M, Katai Pipeline Road",
+      "lat": 19.1819608,
+      "lng": 73.15080189999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQfdoRg6X5zsRSWHCLG49VDo",
+      "name": "Bharat Petroleum Petrol Pump , BARDI PETROLEUMS",
+      "address": "SURVEY NO. 50HISSA NO. 1, Thane",
+      "lat": 19.279766,
+      "lng": 73.144363,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWYUEIwCV5zsRN7vyq5YMSVM",
+      "name": "Shell Fuel Pump",
+      "address": "54HC+F9J, Khoni - Taloja Road",
+      "lat": 19.1787213,
+      "lng": 73.1208858,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJe-9yLACV5zsRQbbzCh7zaKo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 115, near Maharaja Chai, Badlapur - Katai Road, Khoni Pagadyacha Pada",
+      "lat": 19.1766031,
+      "lng": 73.1147694,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPz_PO2u95zsRruihQGFNXpw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "opposite Bhiwandi Scan Centre, S No 66 & 82/P, Old Mumbai-Agra Road, Nizampur, Thane",
+      "lat": 19.305351,
+      "lng": 73.065191,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVbY4Zmu95zsRC31e4l4y9ZI",
+      "name": "IndianOil Petrol Pump (Babu Ganj Groups)",
+      "address": "St Depot, near Bhiwandi, Old, Agra Road, Nizampur, Thane",
+      "lat": 19.3047011,
+      "lng": 73.06580749999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoY5oOUe95zsRMa2S0u1_Sig",
+      "name": "IndianOil Petrol Pump (Shelar)",
+      "address": "next to Shivkri Dye Company, Bhiwandi Wada Road, next to Shivkri Dye Company, Dandekarwadi, Shelar, Thane",
+      "lat": 19.3167403,
+      "lng": 73.0661427,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoZVUhfO65zsR3oTVA1E-uO0",
+      "name": "IndianOil Petrol Pump (Versova)",
+      "address": "Survey No 81/1, Chene, Mira",
+      "lat": 19.2800749,
+      "lng": 72.92609829999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPZRVHEa75zsR0YWnqt6GsT4",
+      "name": "IndianOil Petrol Pump (Dandekarwadi)",
+      "address": "Survey No 134/9, Hissa No 9, Dandekarwadi, P Bhiwandi, Kharbao",
+      "lat": 19.3126079,
+      "lng": 72.9745638,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWY7vQQC75zsRIJ-5fSQCLrY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 29/1, Bhiwandi Kaman Road, Paye Gaon",
+      "lat": 19.321954,
+      "lng": 72.964525,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUcd_axu95zsRDrCNccUpG3A",
+      "name": "Nayara Bhiwandi Automobiles Petrol Pump",
+      "address": "Kariwali Road, New Islamabad, Kariwali, Bhiwandi",
+      "lat": 19.2986009,
+      "lng": 73.0477296,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWcQL4uK75zsRo-Wpbekrwlk",
+      "name": "Jai Hind Puc Center",
+      "address": "Bhayandarpada, Thane West, Thane",
+      "lat": 19.2845132,
+      "lng": 72.9481801,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJQy5-vYu75zsRYHxq-5Wkcp0",
+      "name": "IndianOil Petrol Pump (Thane West)",
+      "address": "No 52/1B & 52, Gut, 5, Ghodbunder Road, Bhayanderpada, Thane",
+      "lat": 19.28389899999999,
+      "lng": 72.947113,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJF2Bq_fy65zsRKmhPQJk5aUo",
+      "name": "IndianOil Petrol Pump (Thane West)",
+      "address": "Survey No 56, 2A56, 2B&55/1C, Bhayandarpada, Kasarvadavali, Thane",
+      "lat": 19.2845391,
+      "lng": 72.94361030000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl2mTxDu75zsRyzAV2HHkBSc",
+      "name": "Dhanlaxmi CNG pump",
+      "address": "Gaimukh Gaon, Thane West, Thane",
+      "lat": 19.2845578,
+      "lng": 72.94277240000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJQU26fwC75zsRr7knd41CjlI",
+      "name": "Chintamani Bharat Petroleum",
+      "address": "7WMV+R4F, Gaimukh, Ghodbunder Road, Bhayandarpada, Thane West, Thane",
+      "lat": 19.2845163,
+      "lng": 72.9426443,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ64xne1a75zsRr3UAgQCxiaM",
+      "name": "Shell Petrol Pump",
+      "address": "Ghodbunder Road, Thane West, Thane",
+      "lat": 19.2850189,
+      "lng": 72.9407185,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPXCzQA295zsRLVIRW0Lalw0",
+      "name": "Sunder Beni Petrol Pump",
+      "address": "73W7+P6W, Kalyana Naka,Agra, Road, Bhiwandi",
+      "lat": 19.2968592,
+      "lng": 73.06308020000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-eJ-1uO95zsRP1tMFKaqyxA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "CTS No 4578 & 4579, Hissa, 62, 3/P, Old Mumbai-Agra Road, Thane",
+      "lat": 19.306041,
+      "lng": 73.065091,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJ5FGHqe95zsRNg4vMqQ-_Ec",
+      "name": "Afzal Coal Shop",
+      "address": "Shop No 06, Vp Naka, opp. Reshma Sizing, Bhiwandi",
+      "lat": 19.3089765,
+      "lng": 73.0648602,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJJzz3RdOZ5zsRvbpizbliuJ0",
+      "name": "Bharat Petroleum, Petrol Pump -Sunderlal Beni Pd.",
+      "address": "AGRA RD BHIWANDI, Thane",
+      "lat": 19.3076885,
+      "lng": 73.06527919999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJr83LTKa95zsRN4Pop54B2hk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "H No 3/P, V.P.Naka, S No 62, opposite Real Sweets, CS No 4578 & 4579, Old Mumbai-Agra Road, Thane",
+      "lat": 19.3069367,
+      "lng": 73.0654232,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1wuIw9e95zsRUP87h5r__8Q",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "H No 3/P, V.P.Naka, S No 62, opposite Real Sweets, CS No 4578 & 4579, Old Mumbai-Agra Road, Thane",
+      "lat": 19.306921,
+      "lng": 73.065451,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ75-6VQC95zsR89VQBzQ2G5g",
+      "name": "Mahanagar Gas",
+      "address": "W, Sana Apartment, Javvad Hotel 4th, Nizampur, Quresh Nagar, Gokul Nagar, Bhiwandi",
+      "lat": 19.3031613,
+      "lng": 73.06584459999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJiRjaFUe95zsRaSyioi9AEok",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "S No 144, near Nasreen Tanveer Fard,Lal Bangla,Nadi Naka, Plot No 1 SH 35, Bhiwandi - Wada Road, Shelar, Thane",
+      "lat": 19.317341,
+      "lng": 73.066051,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJw853PUe95zsRlcWjIkk4gZA",
+      "name": "Mahanagar Gas CNG Station",
+      "address": "SHELAR village, Near Nadi Naka, Bhiwandi Wada road, Bhiwandi",
+      "lat": 19.31724449999999,
+      "lng": 73.0662182,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJk9yjmGO95zsRPj_lgMPTn9Y",
+      "name": "Satyam Automobiles",
+      "address": "Shop No.14, Gaibi Nagar Bhiwandi, Bhiwandi",
+      "lat": 19.2925078,
+      "lng": 73.0705921,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ17FhB0y95zsRJZRAsaFmRtg",
+      "name": "Zishan Enterprises",
+      "address": "Ground Floor, Ahbab Hotel, HN.1777, Bhiwandi",
+      "lat": 19.2923683,
+      "lng": 73.07086869999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJg4BICEO95zsRe1wl6RYqfTI",
+      "name": "Mahanagar Gas CNG Station",
+      "address": "658, Nashik Road, Millat Nagar, Avachit Pada, Bhiwandi",
+      "lat": 19.3144741,
+      "lng": 73.0730938,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJG8aZUeyX5zsRRQmOr5Emfac",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "S No 16/2/A, 3/A & 17/1/A, near Shawaya Dhaba, NH 3, Mumbai - Nashik Expressway, Yewai",
+      "lat": 19.3252084,
+      "lng": 73.1089983,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3_Q8VFu95zsRcpEFTKTeezc",
+      "name": "IndianOil - SWAGAT",
+      "address": "Mumbai Nashik Highway NH 3, Bhiwandi, Dandekarwadi, Vadape",
+      "lat": 19.3375534,
+      "lng": 73.11243859999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGfskZgC95zsRaXEAfW5b1e4",
+      "name": "Am wholesaler",
+      "address": "01, Fatima Nagar, Gulzar Nagar, Bhiwandi",
+      "lat": 19.3040546,
+      "lng": 73.0761996,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ40jjkEm95zsRPnVSbH2haTY",
+      "name": "Nagpuri Ajmeri",
+      "address": "01, 60fit Road, Fatima Nagar, Gulzar Nagar, Bhiwandi",
+      "lat": 19.3053048,
+      "lng": 73.0770538,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJCcyvCUO95zsRof9Pb_O1yBA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Chavindra Road, Chavindra, Bhiwandi",
+      "lat": 19.3145452,
+      "lng": 73.073137,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4W8Fd1y95zsRyIFJB7eGohA",
+      "name": "IndianOil Petrol Pump (Chavindra)",
+      "address": "Old NH 3, Chavindra Mumbai Agra Road, Bhiwandi, Dandekarwadi, Thane",
+      "lat": 19.317013,
+      "lng": 73.076216,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH6gNEYK95zsRBgcaFIEGJNE",
+      "name": "Cng pump bhivndi",
+      "address": "488, Nashik Road, Chavindra, Bhiwandi",
+      "lat": 19.3168997,
+      "lng": 73.0770335,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJG_kAxqm95zsRByLsUOxL1mw",
+      "name": "Bharat Petroleum, Petrol Pump -C.R.Contractor",
+      "address": "NH3, VADAPE, THANA",
+      "lat": 19.31815,
+      "lng": 73.07793,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJadraZq295zsRkFEm-F6YmsM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Greenland Hotel, Old Mumbai Agra Road, Chavindra, Thane",
+      "lat": 19.318301,
+      "lng": 73.077793,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ325sa1u95zsRVgPE0aO_boc",
+      "name": "HP PETROL PUMP - V T HIGHWAY SERVICE CENTRE",
+      "address": "HPC Dealers Chavindra Village Thane, Vashi",
+      "lat": 19.3183583,
+      "lng": 73.0777438,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrfokkCyW5zsRBOWyTdBta0M",
+      "name": "Sai Krupa Mini Bharat Gas Services",
+      "address": "Shop No 1, Silent Complex Lonavale, Bhadwad Gaon, Mumbai",
+      "lat": 19.28761579999999,
+      "lng": 73.0945127,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq80GR-e95zsRw1xc_D328QM",
+      "name": "Nayara petrol pump an cng",
+      "address": "83J8+XFG, National Highway 848, Bhiwandi",
+      "lat": 19.332439,
+      "lng": 73.0662086,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ83DI34u95zsR3cjywPdFB5A",
+      "name": "Sadanand Petrolpump",
+      "address": "Bhiwandi - Wada Road, Borpada",
+      "lat": 19.3326094,
+      "lng": 73.0665751,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJvQ7Z6qO95zsR5FV72BiShs8",
+      "name": "Sadanand Petroleum",
+      "address": "83M8+3H9, National Highway 848, Bhiwandi",
+      "lat": 19.332663,
+      "lng": 73.06648310000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJj6ZZXyWW5zsR74DmB_ry0rM",
+      "name": "Reliance Petroleum",
+      "address": "Survey No 79, 86/171 Bypass, NH 3, Sonale, Bhiwandi",
+      "lat": 19.2783569,
+      "lng": 73.0981372,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzWR_ohaX5zsRnRL2zQvRGi8",
+      "name": "Valshind NTI",
+      "address": "Taluka, भिवंडी",
+      "lat": 19.303777,
+      "lng": 73.109079,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJafLjtXCX5zsR_PzBuIG2VeY",
+      "name": "IndianOil Petrol Pump (Sonale Village)",
+      "address": "Lock No 21011, Mumbai Nashik Highway NH 3, Dandekarwadi, Valshind",
+      "lat": 19.2974241,
+      "lng": 73.1097496,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTdD0LN6X5zsR2zR1UbajzfA",
+      "name": "Velvex AdBlue (DEF) Filling Station",
+      "address": "84F5+36Q, Yewai Road, Bhiwandi",
+      "lat": 19.3227246,
+      "lng": 73.1081162,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJP6kiopCj5zsRjR07bhD7xu4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 145, opposite Narayan Farm, 1 & 163/3/2/P, Bhiwandi - Wada Road, Kawad (Kh.)",
+      "lat": 19.3513419,
+      "lng": 73.0723628,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJG2EF-Lyi5zsRMw79Smj9jAY",
+      "name": "IndianOil Petrol Pump (Dandekarwadi)",
+      "address": "Kawad Khurd SH 35, Bhiwandi - Wada Road, Dandekarwadi",
+      "lat": 19.353322,
+      "lng": 73.072793,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkaJArMOZ5zsR4NCxhyQYo8A",
+      "name": "IndianOil Petrol Pump (Dandekarwadi)",
+      "address": "Lock No 21007, Padga, Bhiwadi NH 3, Mumbai - Nashik Expressway, Dandekarwadi, Thane",
+      "lat": 19.3563182,
+      "lng": 73.1555415,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeYJGDQCX5zsRtH9w5poZlHg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near Haware Properties, Survey No 31 & 32 Kalyan Sape Rd, Savad, Muthaval, near Haware Properties, Bhiwandi",
+      "lat": 19.2923012,
+      "lng": 73.15082799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvV3vPQCX5zsReGS157Pxjuc",
+      "name": "IndianOil Petrol Pump (Aamane)",
+      "address": "Ground Floor SH 46, Bhiwandi, Kalyan-Sape Road, Aamane, Padgha",
+      "lat": 19.3194645,
+      "lng": 73.15969679999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJnzy4UV2X5zsRS-YYQ86Q5PE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "S No 58/16, Road Sape Padgha Road, Padgha",
+      "lat": 19.3308659,
+      "lng": 73.15917689999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq2APvQWX5zsR2b2qC6bkGMg",
+      "name": "Tci Company",
+      "address": "Bashir - 7038678800, *Adress* - TCI company behind stelar company, near antariksh office, opp. HP petrol pump, vashere. Kalyan, Padgha",
+      "lat": 19.3334997,
+      "lng": 73.1615127,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ-aEzmYqX5zsR7P0RjU3dTR4",
+      "name": "Gavra Auto",
+      "address": "84P7+V6G, Agra - Mumbai Highway",
+      "lat": 19.337177,
+      "lng": 73.11307900000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJBZnRNgCZ5zsR3UlkaaWRKSs",
+      "name": "IndianOil Petrol Pump (Dandekarwadi, Vadape)",
+      "address": "NH 3, Mumbai - Nashik Expressway, Dandekarwadi, Bhiwandi",
+      "lat": 19.3375534,
+      "lng": 73.11243859999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRaOmIUOZ5zsR92eJrGj8v0U",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 15, Mumbai - Nashik Expressway, Bhoirgaon",
+      "lat": 19.344946,
+      "lng": 73.13288899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWzOBMDyZ5zsRvGpN7JdKTPI",
+      "name": "Bharat Petroleum, Petrol Pump -Chandan Ser. Stn.",
+      "address": "AGRA RD,BHIWANDI, THANA",
+      "lat": 19.3423154,
+      "lng": 73.119807,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHYlPHkKZ5zsR3cDTLuj5r3c",
+      "name": "MIM Logistics Vadape",
+      "address": "84VG+PJ7, Vadape",
+      "lat": 19.3442772,
+      "lng": 73.12654189999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ0YPkxFOZ5zsRguYEN6dVodA",
+      "name": "Bharat Petroleum, Petrol Pump -Dasmesh Enterprise",
+      "address": "BORIVALI(KUKSE) ON NH3, NH3, THANA",
+      "lat": 19.3453516,
+      "lng": 73.1365666,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx8DENimY5zsRSc5iSto4XCI",
+      "name": "C. R. Contractor & Sons- Bharat Petroleum RO",
+      "address": "House no. 144, Gangaram Pada, near SHANGRILA RESORT AND WATERPARK, off Samruddhi Mahamarg exit, S No. 52/1, Mumbai - Nashik Expressway, Vadape",
+      "lat": 19.3445338,
+      "lng": 73.12725379999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGWCI0MOZ5zsRAvTTovvEHMU",
+      "name": "IndianOil Petrol Pump (Vadpa)",
+      "address": "Lock No 11016, Agra - Mumbai Highway, Bhiwandi",
+      "lat": 19.3441455,
+      "lng": 73.1248173,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEYcYtbuZ5zsRBB4f4amAC8o",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 3, Agra - Mumbai Highway, Bhoirpada, Thane",
+      "lat": 19.3490962,
+      "lng": 73.1439674,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoTuYmNGZ5zsRUyGhpAK741I",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 3, Mumbai - Nashik Expressway, Bhoirgaon",
+      "lat": 19.349329,
+      "lng": 73.141967,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTVShYXGZ5zsRGOtwkLXCAbM",
+      "name": "Bharat Petroleum, Petrol Pump -Montgomery Automobiles",
+      "address": "REHNALDI, Thane",
+      "lat": 19.3503146,
+      "lng": 73.1447234,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMR_SLYaZ5zsRsznqShRcDIk",
+      "name": "Jaimalsingh Automobilies Corporation",
+      "address": "plot 57/11,stop bhoirpada,village vahuli,mumbai nashik highway,padgha, Bhiwandi",
+      "lat": 19.351574,
+      "lng": 73.146208,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjZUmWwCZ5zsRCQjaAHm8eQs",
+      "name": "Bharat Petroleum",
+      "address": "2/13/A, Taloli - Padgha Road, Borivali Tarf Rahur",
+      "lat": 19.3484249,
+      "lng": 73.15888199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7eW4JACZ5zsR0Ugn_MKTIUg",
+      "name": "Dhirendra Mehta",
+      "address": "84V4+XP6, Bhiwandi",
+      "lat": 19.3449008,
+      "lng": 73.1067637,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJCzxkZ7qZ5zsRbr49IT3GJ1k",
+      "name": "Shell Petrol Pump Padgha",
+      "address": "Mumbai - Agra National Highway Vahuli, Bhiwandi",
+      "lat": 19.35471,
+      "lng": 73.152687,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZTHUrMOZ5zsRGw9G7QUyzy4",
+      "name": "Bharat petrol pump",
+      "address": "Agra - Mumbai Highway, Talavali Tarf Sonale",
+      "lat": 19.3569054,
+      "lng": 73.1565297,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRVKHOPqj5zsRmyEgdeGt7wE",
+      "name": "Vijay Petroleum",
+      "address": "near Daya Gym, Road, Kaman",
+      "lat": 19.3559246,
+      "lng": 73.06413959999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJee0e82ej5zsRtoguVP6lAgo",
+      "name": "Bharat Petroleum Petrol Pump , SINGH FUEL SERVICE CENTRE",
+      "address": "GUT NO 62 1 VILL VADAVALION, Bhiwandi - Wada Road, Thane",
+      "lat": 19.4153253,
+      "lng": 73.0880066,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXT0JIACh5zsR7lrvFA9VZw4",
+      "name": "Cng pump dugad fata",
+      "address": "C3HQ+J7J, National Highway 848, Dugad Fata",
+      "lat": 19.429943,
+      "lng": 73.087147,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJeT1i0f-h5zsRbkPCe5tZvwc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 31/2B, SH 35, Bhiwandi - Wada Road, Manivali, Dugad Fata",
+      "lat": 19.4298483,
+      "lng": 73.087519,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJV7y2W-mZ5zsRlsSgo_yTda0",
+      "name": "Maruti Automobiles Indian Oil Petrol Pump",
+      "address": "Arjunali",
+      "lat": 19.3590632,
+      "lng": 73.16355089999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCbRVG3uZ5zsR-vikaINC2mE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 3, Bhiwandi, Padgha",
+      "lat": 19.362833,
+      "lng": 73.16703199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxd2UqsaZ5zsRlRXccHEcuQs",
+      "name": "Varshman Auto Service",
+      "address": "Arjunali",
+      "lat": 19.3628125,
+      "lng": 73.1670625,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJh6Yo46aZ5zsRLxuSf8uA35I",
+      "name": "Food Mi",
+      "address": "Borivali Road, Padgha",
+      "lat": 19.37397,
+      "lng": 73.1753412,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ98-2vR2b5zsRHgdxfMnZivc",
+      "name": "Gujarat Gas Limited - CNG station",
+      "address": "95CM+G9, Padgha",
+      "lat": 19.3715445,
+      "lng": 73.1836924,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxSVH9gGb5zsRVtNsDtXbZ4A",
+      "name": "Bharat Petroleum, Petrol Pump -BP-Padga",
+      "address": "N H 3 PADGAH, THANA",
+      "lat": 19.3690133,
+      "lng": 73.184463,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGx56miGa5zsR-28uETcK8dg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "S No 53, near MSEB Power House, NH 3, Mumbai - Nashik Expressway, Padgha",
+      "lat": 19.3698402,
+      "lng": 73.1873039,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtRH6UyKa5zsRldXBeKXnHa8",
+      "name": "Shell",
+      "address": "95CR+56X, Agra - Mumbai Highway, Vahuli",
+      "lat": 19.37048459999999,
+      "lng": 73.1906161,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJUTblFACb5zsRHdcF_xr3d9c",
+      "name": "SHRADDHA PETROLEUM DOHALE NH-3",
+      "address": "Bhiwandi",
+      "lat": 19.37723489999999,
+      "lng": 73.2061117,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKU5KXUaa5zsRnfcx4TOsPHc",
+      "name": "IndianOil Petrol Pump (Padgha)",
+      "address": "Lock No 11015, NH 3, Agra - Mumbai Highway, Dohalebhiwandi, Padgha",
+      "lat": 19.379167,
+      "lng": 73.21017739999999,
+      "open_now": true
+    }
+  ]
+}

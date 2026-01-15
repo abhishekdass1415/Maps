@@ -1,0 +1,563 @@
+{
+  "city": "Sagar",
+  "state": "Madhya Pradesh",
+  "count": 69,
+  "center": {
+    "lat": 23.8667,
+    "lng": 78.75
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJL5WrRnTWeDkRT6zT8fgdNy0",
+      "name": "Bharat Petroleum, Satyapal singh thakur & Co",
+      "address": "Lahdara, Sagar, NH-86, Sagar Rahatgarh Road, Sagar, Sagar",
+      "lat": 23.8247,
+      "lng": 78.6835,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS-LQf73WeDkR95LDlcYxu2c",
+      "name": "IndianOil",
+      "address": "Ground Floor Bhopal Road, Near Rtkm 32 Kms, NH 86, Baheriya Sahni",
+      "lat": 23.838332,
+      "lng": 78.724974,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGZ2TY_TTeDkR6fY1nUNjOzc",
+      "name": "Diamond HP Petrol Pump",
+      "address": "RQ42+6W4, Tilli, Sagar",
+      "lat": 23.805522,
+      "lng": 78.752326,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDXvxPHTWeDkRACOs5kcZOvQ",
+      "name": "IndianOil",
+      "address": "Ground Floor Lahdara, Baheriya Sahni",
+      "lat": 23.8258795,
+      "lng": 78.68544779999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJn-QLvYnWeDkRNsixrrl-uWw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gr Floor, Bhopal Bina, Jhansi Bypass Rd, Bamhori Renguwan",
+      "lat": 23.8382361,
+      "lng": 78.7042362,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ43WBX77VeDkRYFlsmpJ1Ers",
+      "name": "Shivaditya Petroleum",
+      "address": "Sagar",
+      "lat": 23.8167376,
+      "lng": 78.7339497,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJO5HSzzzVeDkRLro5g3EHSXk",
+      "name": "Bharat Petroleum Petrol Pump , SHARDAJI PETROLEUM",
+      "address": "WARD NO. 47, BAGHRAJ WARDKANERA DEV, Sagar",
+      "lat": 23.812786,
+      "lng": 78.740748,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZVFBxPXWeDkRXHR_DEv0RH4",
+      "name": "Balaji Petroleum",
+      "address": "VP23+6MC, near Jyotishi Automobiles, Amaoni",
+      "lat": 23.8505551,
+      "lng": 78.704149,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_7Pjd73WeDkRE-gHtIxvE_c",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Bhopal Road, Sagar",
+      "lat": 23.8384953,
+      "lng": 78.7256165,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtzjaYA_UeDkRc09Z7ytaHfg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Kanera Dev, near Somnath Puram, Sagar",
+      "lat": 23.810164,
+      "lng": 78.74328799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1RFZPHLXeDkRGgWzF0i6z-M",
+      "name": "SilverLeaf Petrol Pump",
+      "address": "Kali Tigadda, Purviyau Tori, Kakaganj, Sagar",
+      "lat": 23.83221,
+      "lng": 78.736699,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJYHAv_fWeDkRcal9VWVj13M",
+      "name": "Jyotishi Automobiles",
+      "address": "Khurai Rd, Near New Galla Mandi, Jyotishi Petrol Pump Square",
+      "lat": 23.8558475,
+      "lng": 78.70377239999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLa0OPHjTeDkRCoiOlMAwakQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Rajghat Road, Tilli, Sagar",
+      "lat": 23.804801,
+      "lng": 78.75190099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8QU5YADXeDkRdVn5LW_6deg",
+      "name": "Bharat Petroleum",
+      "address": "VP54+HR, Gadoli Khurd",
+      "lat": 23.85901819999999,
+      "lng": 78.70664579999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ_RDaAADTeDkRD0VcrwaF8Iw",
+      "name": "Sagar Megha CNG",
+      "address": "RQF3+93W, Sagar",
+      "lat": 23.8234918,
+      "lng": 78.7526908,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZTd0QkvXeDkRZ5haLFulRpU",
+      "name": "Bharat Petroleum, Petrol Pump -Rudraksha Petroleum",
+      "address": "Infront of District hospital, Tili Road, Sagar",
+      "lat": 23.8233455,
+      "lng": 78.7528214,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvak_e_7TeDkROT4hn8SdMgc",
+      "name": "Indian Petrol Pump",
+      "address": "RQF3+84W, Tili Road, Balak Complex, Sagar",
+      "lat": 23.823359,
+      "lng": 78.752827,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJi1aFpE3ReDkRzOyw6k3Zex0",
+      "name": "servashrestha gas seva sagar bharat gas",
+      "address": "Sagar Road, Gopal Ganj, Sagar",
+      "lat": 23.8404261,
+      "lng": 78.7510582,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJWYL4-UTReDkR4l6kb7X3n1I",
+      "name": "IndianOil",
+      "address": "Ground Floor 5, South Civil Lines, Bagauta",
+      "lat": 23.840908,
+      "lng": 78.762489,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcywMRXXReDkRCamm1_i_O48",
+      "name": "Bharat Petroleum",
+      "address": "Padmakar Nagar, NH-86, Sagar",
+      "lat": 23.8513295,
+      "lng": 78.7920513,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJccimRXXReDkRE52OHTXPV8c",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Makronia Road, Sagar",
+      "lat": 23.851901,
+      "lng": 78.791901,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-eGx4xPTeDkRn88p8JTtQ4g",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Khasra No 1/9, Road, Menpani, Tilli, Patheriya Jat",
+      "lat": 23.7943382,
+      "lng": 78.7600708,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXfUyRPDTeDkRTJTbK6LkE-E",
+      "name": "Aagam Petrol Pump, LPG Gas",
+      "address": "near Shivalaya Co, Ground Floor Tilli, near Shivalaya Co, Tigada Road, Shivaji Ward, Sagar",
+      "lat": 23.8123846,
+      "lng": 78.757199,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxWUNNMXReDkRkTvotBYIxDw",
+      "name": "IndianOil",
+      "address": "Khasra No 459 Phase No 65, Khas ,Baheriya Sahani, Sagar",
+      "lat": 23.8338907,
+      "lng": 78.7650894,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJiz8D3yXReDkRigg4QW8ut7g",
+      "name": "GOPI Prajapati",
+      "address": "Sagar Road, Gopal Ganj, Sagar",
+      "lat": 23.8374797,
+      "lng": 78.7563156,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ2QTni0rSeDkROvP6FBj8EjM",
+      "name": "HP PETROL PUMP - PANDIT MOTILAL PETROL PUMP",
+      "address": "Patheriya Jat",
+      "lat": 23.80432,
+      "lng": 78.79551099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7YS0R0PTeDkRd8mIfLRtaIA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Patheriya Jat",
+      "lat": 23.804455,
+      "lng": 78.795792,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOauWk_HXeDkRjW3yAVF3aKY",
+      "name": "Indian Oil",
+      "address": "Dayanand Ward, Sanichari Hills, Sagar",
+      "lat": 23.840333,
+      "lng": 78.7436941,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJr0IEDbTWeDkR8zd3FNSzUFE",
+      "name": "Shakti Agencies",
+      "address": "Lacchu Chauraha, Varni Colony Road, Sagar",
+      "lat": 23.8432483,
+      "lng": 78.7432208,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWYbn97bWeDkRKJKYPW_nJEs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Radha Krishna Talkies, Tilak Ganj, Sagar",
+      "lat": 23.8453473,
+      "lng": 78.7399093,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJO7Pc0oVnDjkRybQz6x2klO8",
+      "name": "IndianOil",
+      "address": "Kh No 119, Station road, Tilak Ganj, Sagar",
+      "lat": 23.8468196,
+      "lng": 78.7461175,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJK1sJI8jXeDkRAF1rTge-MYc",
+      "name": "Shubham Bawariya",
+      "address": "RPXV+366, Bhagwan Ganj, Sagar",
+      "lat": 23.8476541,
+      "lng": 78.74300099999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJWVaeNLbWeDkRz7yLeRa47ng",
+      "name": "Panchsheel Traders Petrol Pump",
+      "address": "Bhagwan Ganj, Sagar",
+      "lat": 23.8471718,
+      "lng": 78.7391437,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJExz27OLReDkRM-7Hgz1VMl0",
+      "name": "Bharat Petroleum, Petrol Pump -Dimple Petroleum",
+      "address": "TILAK MARG SAGAR, Sagar",
+      "lat": 23.8484322,
+      "lng": 78.7485485,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJk6gH12nTeDkRrbquZKXtRmc",
+      "name": "Aaditya Petroleum, Bharat Petrol Pump",
+      "address": "RR92+6Q2, Sironja",
+      "lat": 23.8180022,
+      "lng": 78.8018763,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJiTRO2y_SeDkRr8TiY14vNqQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, Narsinghpur Rd, Sironja",
+      "lat": 23.8183216,
+      "lng": 78.80228389999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7UOCJsjWeDkRiXZuHT9U_NM",
+      "name": "BPCL Petrol Pump - Agarwal Automobiles",
+      "address": "Ambedkar Chowk, Bhagwan Ganj, Sagar",
+      "lat": 23.848552,
+      "lng": 78.738233,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtbMKAwDXeDkRZKHS5AvREgo",
+      "name": "Tarun Petrol Pump",
+      "address": "VP2Q+6W4, Bhagwan Ganj, Sagar",
+      "lat": 23.850507,
+      "lng": 78.7398272,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJFTVxJK5VezkRAGQbMCXIqxk",
+      "name": "Reliance Petroleum",
+      "address": "C/O RADHA ROADWAYS, BUS STAND, SAGAR 470002 DHANA, JABALPUR",
+      "lat": 23.8530362,
+      "lng": 78.7396279,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJE110-_HSeDkRbmgCVpnd404",
+      "name": "IndianOil",
+      "address": "Khasra No 279, 4 & 279/5, Bamhori Bika",
+      "lat": 23.771678,
+      "lng": 78.80930400000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZQBEn_rReDkRyyJ5IunO818",
+      "name": "Police Welfare Petrol Pump",
+      "address": "RQRX+V5C, Sagar",
+      "lat": 23.8421779,
+      "lng": 78.79790489999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZwUPPgDReDkRyJsO6BoqF-I",
+      "name": "Jio BP Fuel Station",
+      "address": "VQ3J+RGC, Makronia Road, Makroniya",
+      "lat": 23.8545527,
+      "lng": 78.78157929999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJW7-8aADReDkRqlhC_y92XGY",
+      "name": "Jiobp RS Petroleum Makroniya Sagar",
+      "address": "in front of DMA, Rajakhedi Road, Makroniya",
+      "lat": 23.8545299,
+      "lng": 78.78169319999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ11QhkPbTeDkRZILRDpQcN24",
+      "name": "IndianOil",
+      "address": "Khasra No 561 Bernawad, Bamhori Bika",
+      "lat": 23.7640962,
+      "lng": 78.8314465,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJK8w4g6nReDkRFb3bjKGmwsY",
+      "name": "Anjali Petrol Pump Station",
+      "address": "RRVJ+WX, Lidhorahat",
+      "lat": 23.8447722,
+      "lng": 78.83246419999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJHatI4lrNeDkR4GqkQvgR6eI",
+      "name": "Bharat Petroleum",
+      "address": "QR3X+83W, Madhya Pradesh State Highway 15A, Dhana",
+      "lat": 23.7533647,
+      "lng": 78.8477095,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJs1WeCM7NeDkRN_dp2SvfTuw",
+      "name": "Jio-bp",
+      "address": "Ground Floor, Sajapur Sarangpur Rd, Old, Nh 3, Sarangpur, Gopalura, Rajgarh",
+      "lat": 23.7447301,
+      "lng": 78.8637201,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJR3D0cCMtfzkRv4fqifEijaA",
+      "name": "Suresh Fuel Service",
+      "address": "Shop No.05, near Chitora Toll Plaza, Sagar",
+      "lat": 23.7283828,
+      "lng": 78.80850199999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJV82pjv7XeDkRnbb4Zo6rFkU",
+      "name": "Mahaveer Company Limited",
+      "address": "Khurai Road, Gadoli Khurd",
+      "lat": 23.8714773,
+      "lng": 78.70846970000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJbT6FHNTXeDkRrimJqsGoTT8",
+      "name": "IndianOil",
+      "address": "Ground Floor Bhainsa, Bada Bazar, Sagar",
+      "lat": 23.86408399999999,
+      "lng": 78.721085,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYSBRkO-9gjkRKT_XpcZ78yc",
+      "name": "IndianOil",
+      "address": "Nh 26 LHS, Kurari, Sagar, Gadpera",
+      "lat": 23.9082287,
+      "lng": 78.7203238,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrYZJ4HjXeDkRauPh-bvww4w",
+      "name": "A.T Fuels Nayara Energy L.T.D",
+      "address": "near Garpehra Mandir, Sagar",
+      "lat": 23.9082118,
+      "lng": 78.72038069999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1ZczJQDZeDkRJrMD8HenUoo",
+      "name": "Manish agrawal and sons filling station",
+      "address": "WPC4+RG5, North - South Corridor, Gadpahra Muhal",
+      "lat": 23.9220056,
+      "lng": 78.7063648,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJsaRrdRTZeDkRrgekAWvNsT4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near Angadh Devi, NH 44, near Angadh Devi, Sagar Bypass, Gadpahra Raiyatwari",
+      "lat": 23.918771,
+      "lng": 78.72198499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTQxxwDbQeDkRAqccDvUpF5g",
+      "name": "IndianOil",
+      "address": "Ground Floor, Tigadda, Baheriya Sahani, Sagar",
+      "lat": 23.8851973,
+      "lng": 78.8197932,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL9lVMgDReDkRqcOxaXunoYQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 328, 2/2, Bararu",
+      "lat": 23.8792732,
+      "lng": 78.7795912,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJz9po01fReDkRsDXBKgELCNE",
+      "name": "Bharat Petroleum Shriram Highway Petroleum",
+      "address": "VQMQ+MX, Jinda",
+      "lat": 23.88420679999999,
+      "lng": 78.7899522,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4wxp6MXReDkRpnsQdNXjfL8",
+      "name": "Velvex Adblue (DEF) Filling Station",
+      "address": "VQJX+P47, Jinda",
+      "lat": 23.8816463,
+      "lng": 78.7976602,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuYcobTvXeDkRcPh_Og8UpZM",
+      "name": "Shardaji Automobiles - BPCL Petrol pump",
+      "address": "National Highway 44, Richoda",
+      "lat": 23.91425139999999,
+      "lng": 78.74607429999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ12I0r8rReDkRuRnZtZko7Wo",
+      "name": "Bharat Petroleum Petrol Pump , DEEPALI AUTOMOBILES",
+      "address": "near HOTEL DEEPALI, Chhatarpur Road, Sagar",
+      "lat": 23.874465,
+      "lng": 78.807356,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbXXf2LPReDkRVvU2-rF4XO8",
+      "name": "IndianOil",
+      "address": "opposite Dipali Hotel, Ground Floor, NH 86, Bamora Sagar Chhattarpur to Bhopal Rd,Baheriya Sahani, opposite Dipali Hotel, Sagar",
+      "lat": 23.871019,
+      "lng": 78.80798899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6RFxwDbQeDkRZuLAPIpLr8E",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Tigadda, Bhedia, Sagar",
+      "lat": 23.8838728,
+      "lng": 78.8188122,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ80SXWNTReDkR77RBh--LJZs",
+      "name": "Nayara Energy Petrol Pump - Paras Fuels",
+      "address": "National Highway 44, Baheria Gadgad",
+      "lat": 23.8858191,
+      "lng": 78.8279586,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSR9zGQDPeDkRDne32xI0Rss",
+      "name": "Meghagas CNG Stations",
+      "address": "VVQ4+M6, Bamhori Dhunder",
+      "lat": 23.8891215,
+      "lng": 78.8562859,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZcadKADPeDkRHpbgwXN0bXQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Khasra No 748, 2/1 SH 14, Sagar Damoh Road, Sanodha",
+      "lat": 23.881868,
+      "lng": 78.882179,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq0XVMV3PeDkRuG4ofDAVgbo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 934, Sagar Chhatarpur Road, Kerbana",
+      "lat": 23.921611,
+      "lng": 78.85774099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7b2KG2HFeDkRkjYaysBidRE",
+      "name": "Maa sharda petrol pump",
+      "address": "Sagar",
+      "lat": 23.9317631,
+      "lng": 78.86410049999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY3MLY33FeDkRwH69z7fMp_g",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Karrapur",
+      "lat": 23.9287687,
+      "lng": 78.8739717,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJA9d-ZADFeDkRi0PvmWXD9HE",
+      "name": "Petrol pump",
+      "address": "XV3R+P9M, National Highway 934, Alampur Bheda",
+      "lat": 23.9543393,
+      "lng": 78.8909202,
+      "open_now": null
+    }
+  ]
+}

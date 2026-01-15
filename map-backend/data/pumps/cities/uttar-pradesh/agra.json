@@ -1,0 +1,1499 @@
+{
+  "city": "Agra",
+  "state": "Uttar Pradesh",
+  "count": 186,
+  "center": {
+    "lat": 27.1767,
+    "lng": 78.0081
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJU4Hn5QOKczkR2c-ocvfoUv0",
+      "name": "IndianOil",
+      "address": "Ground Floor, Tantpur Road, Agra",
+      "lat": 27.11411910000001,
+      "lng": 77.9223465,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwyE8WVl0dDkRrfKUiin_PVY",
+      "name": "Bharat Petrol Pump and CNG",
+      "address": "Agra",
+      "lat": 27.0823412,
+      "lng": 77.9890921,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJv_ax4uR2dDkR0NxOQ4fheJI",
+      "name": "Modern Service Station",
+      "address": "5X7P+6XQ, Saraikhwaja, Arjun Nagar, Agra",
+      "lat": 27.1630784,
+      "lng": 77.987471,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlxvjsjx1dDkRBHFICgcWuvc",
+      "name": "Indian ges service",
+      "address": "4X32+57F, Unnamed Road, Jarua Katra",
+      "lat": 27.102934,
+      "lng": 77.950679,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ44UA_8Z1dDkR9ifOMBMVJ4Q",
+      "name": "IndianOil",
+      "address": "Ground Floor Siroli, Patholi, Ring Road, Bamrauli, Rohta",
+      "lat": 27.1144784,
+      "lng": 77.9498124,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJubz38Ep1dDkRK0j2BCKJxqw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Malpura, Bypass Road, Siroli",
+      "lat": 27.118596,
+      "lng": 77.944626,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbXQvUxGKczkR70A-dwSnZ3E",
+      "name": "Bharat Petroleum",
+      "address": "4W26+QC4, State Highway 39, Lalau",
+      "lat": 27.1018994,
+      "lng": 77.9110721,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJIb2d3x11dDkRO_A738X66Ok",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Sadar, Malpura, Bypass Road, Bain Khera",
+      "lat": 27.109038,
+      "lng": 77.968341,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY87vuMh1dDkRf6kzYAPjyh4",
+      "name": "Shri Ram",
+      "address": "Mundhera",
+      "lat": 27.0798955,
+      "lng": 77.946725,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLS_1SAB1dDkRjlcG7LqBPRQ",
+      "name": "IndianOil",
+      "address": "Ground Floor Jakhoda, 509 Command, Kakua",
+      "lat": 27.105752,
+      "lng": 77.98064,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJW6uLoFx0dDkRn0sF8CIkE58",
+      "name": "सोनी ऑटो गैस",
+      "address": "India",
+      "lat": 27.0896782,
+      "lng": 77.99107169999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJO5BNfEF0dDkRIJ-_adMZJq0",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 3, Gwalior Road, Rohta",
+      "lat": 27.0969371,
+      "lng": 77.993532,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJb9GEtFx0dDkRM0ylNkrz6s0",
+      "name": "IndianOil",
+      "address": "Ground Floor Agra Gwalior Rd, NH 3, 509 Command, Rohta",
+      "lat": 27.091125,
+      "lng": 77.992081,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwRnZMAB1dDkRSQ3rMBQi8yA",
+      "name": "Pushpendra Singh jaat",
+      "address": "3XFJ+FFW, Kakua",
+      "lat": 27.0737348,
+      "lng": 77.9811971,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJwcX23813dDkRS3B8jGnsyhI",
+      "name": "Bharat Petroleum Petrol Pump , T.R. FILLING STATION",
+      "address": "NARIPURA - JAGNER ROAD NEAR GYAN INTER COLLEGE",
+      "lat": 27.14771399999999,
+      "lng": 77.977206,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoyRKhC52dDkRLa-GbTjJNwY",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 11, Fatehpur Sikri Road, Arhera, Pathauli Village, Agra",
+      "lat": 27.161015,
+      "lng": 77.936302,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy-sp0Qd1dDkRr5DlHfFrALw",
+      "name": "Bharat Petroleum, Petrol Pump -Hukamchand Fakirchand(Kakua)",
+      "address": "KAKUA, Agra",
+      "lat": 27.0723474,
+      "lng": 77.985421,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJj_0BEuZ3dDkRdcJrL59o9V0",
+      "name": "Khandari",
+      "address": "5XRC+5C3, near Petrol Pump, Bodla Road, Kishorpura, Bodla, Lohamandi, Agra",
+      "lat": 27.1578518,
+      "lng": 77.914648,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJTw_YzPp0dDkRey8ZNS2nE6s",
+      "name": "IndianOil",
+      "address": "Ground Floor Gwalior Road, 509, Command, Kakua",
+      "lat": 27.067078,
+      "lng": 77.98322999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJe5QNQB1dDkRbJ-UPmo5v5s",
+      "name": "Pradushan janch Kendra",
+      "address": "Rampura",
+      "lat": 27.0871484,
+      "lng": 77.9981155,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZxQ-Yo2JczkRNRDeS4tsh9s",
+      "name": "Bharat petroleum",
+      "address": "5W44+96W, Unnamed Road",
+      "lat": 27.155984,
+      "lng": 77.9055655,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJRfwTPkiJczkRRxd0WfwP940",
+      "name": "IndianOil",
+      "address": "Khasra No 169 Agra Jaipur Highway, NH11, Sahara Gaon, Agra",
+      "lat": 27.1550819,
+      "lng": 77.89622039999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpdDsnh10dDkRQBfKG0v6bY4",
+      "name": "Deep Automobiles",
+      "address": "Sewla Jat Gwalior Road, NH 44 (Old NH 3, National Highway 3, Agra",
+      "lat": 27.1258723,
+      "lng": 78.00505489999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlzIJ86N1dDkRlCXSUZSsv5c",
+      "name": "IndianOil",
+      "address": "NH 3 Sewla, Gwalior Road, Agra",
+      "lat": 27.126715,
+      "lng": 78.005363,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJanPBs2LczkRPcSJDvudN0Q",
+      "name": "NRO NAGLA SIKARWAR",
+      "address": "3VW9+G2, Jitora",
+      "lat": 27.0963,
+      "lng": 77.8676,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJb2Ig-r6LczkRi5BYRgfzd2M",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH AB, Kiraoli, Jitora",
+      "lat": 27.097397,
+      "lng": 77.867277,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-y8PFqZ2dDkR0g1WxH_CAYo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 3, Agra - Mumbai Highway, Sewla Jat, Agra",
+      "lat": 27.131501,
+      "lng": 78.00710099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-8C4rhWJczkRyxdRBVGRFrI",
+      "name": "Essar MG filling Station",
+      "address": "Nehar Road Bichpuri, Agra",
+      "lat": 27.168077,
+      "lng": 77.90944999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIw1uPuh3dDkRa-P6a3RdEJE",
+      "name": "IndianOil",
+      "address": "Tata Gate Kheria, opposite Air Force Station, Agra",
+      "lat": 27.169511,
+      "lng": 77.965103,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPzGQX5qLczkRiE6S7wwf3M4",
+      "name": "Mohan Adtiya Filling Station",
+      "address": "Nagla Sikarwar, NH AB, Byepass, New Dakshini",
+      "lat": 27.1003962,
+      "lng": 77.8623587,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKxCkX2KLczkRTgeubRJzGK8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH AB Bypass, Nagla Sikarwar",
+      "lat": 27.100563,
+      "lng": 77.86223799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCR8nsQOLczkROvu3i1CO92Q",
+      "name": "IndianOil",
+      "address": "Ground Floor Tantpur Road, Barara, Akola",
+      "lat": 27.062087,
+      "lng": 77.879367,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo_NHKNB3dDkRbJCTmZN-kSk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Vayu Vihar Road, Kalwari, Agra",
+      "lat": 27.1768459,
+      "lng": 77.93950679999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBWD9fEFxdDkRHNIxVLt6cek",
+      "name": "IndianOil",
+      "address": "Rajpur, Chungi, Agra Shamshabad Raja Kherah Marg, Agra",
+      "lat": 27.147229,
+      "lng": 78.0386697,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq9NwfdB2dDkRebD8KcNEjS0",
+      "name": "IndianOil",
+      "address": "Mahatma Gandhi Road, Awantibai Crossing, Agra",
+      "lat": 27.1647817,
+      "lng": 78.0088576,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQYtortB2dDkRMFJ7M85NgL4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, opposite Lauries Hotel, Mahatma Gandhi Road, Pratap Pura, Agra",
+      "lat": 27.168364,
+      "lng": 78.00919200000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJa9zcqz1xdDkRP9EPXLU5OI4",
+      "name": "IndianOil",
+      "address": "Ground Floor, beside Taj View Hotel, Fatehabad Road, Agra",
+      "lat": 27.161686,
+      "lng": 78.039811,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJiRO3k9d2dDkR6RZA5DG1xeQ",
+      "name": "Bharat Petroleum",
+      "address": "46, Mahatma Gandhi Road, Pratap Pura, Rakabganj, Agra",
+      "lat": 27.17179639999999,
+      "lng": 78.0092232,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSe_c5wtxdDkR10umtX798wM",
+      "name": "Petrol Pump",
+      "address": "5356+X8V, Taj East Gate Road, Basai Khurd, Tajganj, Agra",
+      "lat": 27.15997699999999,
+      "lng": 78.0608104,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_9zA-IxzdDkRyJ9cXuB8qxI",
+      "name": "Petrol Pump Gas Station",
+      "address": "423H+533, Devri Road, Pachgain Khera",
+      "lat": 27.1028767,
+      "lng": 78.027672,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJD258q41zdDkRtcjZEjPZmbg",
+      "name": "Nayara Shree Ram Energy Center",
+      "address": "422H+X7X, Pachgain Khera",
+      "lat": 27.1024841,
+      "lng": 78.02824939999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-VZAfzhzdDkRDRpv64MOI54",
+      "name": "IndianOil",
+      "address": "Ground Floor Agra Rd, Barauli Ahir, Devri, Iradat Nagar, Agra",
+      "lat": 27.078601,
+      "lng": 78.034601,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBWCH_09xdDkRPBiLSqy9X9w",
+      "name": "Hindustan petroleum petrol pump",
+      "address": "Partap Pura, MG Road, Near Lawrise, Agra",
+      "lat": 27.14087,
+      "lng": 78.030954,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJR7ZDJ7h2dDkRD1BApNj42TE",
+      "name": "Saiyan Filling Station",
+      "address": "3, Gwalior Road, Idgah Colony, Agra",
+      "lat": 27.1484431,
+      "lng": 78.00806120000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJJd9lUMFxdDkRzqeuKbNgtys",
+      "name": "NAYARA SHREE JI FILLING STATION",
+      "address": "Shree Ji Filling Station, Road, Maruti City Road, Shamsabad, Agra",
+      "lat": 27.1338789,
+      "lng": 78.0460013,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOTW4fhoTdDkRwlYqOY3a0fI",
+      "name": "IndianOil",
+      "address": "Ground Floor, Agra Shamsabad, Road, Baroli Ahir, Agra",
+      "lat": 27.1435626,
+      "lng": 78.04300429999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQamtxD1xdDkRxMgnqcslSjQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Agra Shamshabad Raja Kherah Marg, Rajpur Chungi, Agra",
+      "lat": 27.147301,
+      "lng": 78.038401,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsS_yit1zdDkRvW8GEEnbAlY",
+      "name": "Ramnager Petrol Pump",
+      "address": "4368+C86, Ram Nagar",
+      "lat": 27.1110499,
+      "lng": 78.06577349999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJARv1OjVydDkR3UctXkwkwvs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, MDR 113W, Gutila",
+      "lat": 27.1108437,
+      "lng": 78.0661224,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOdbnztxxdDkRzZxAUWZbiwk",
+      "name": "Jai shree raam",
+      "address": "Parsvnath Panchvati, Kaveri Vihar Phase II, Tajganj, Basai",
+      "lat": 27.1479533,
+      "lng": 78.0510572,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ8a8QNiF3dDkRBf2rN1eS1Qw",
+      "name": "Kumar Services",
+      "address": "D1, Lekha Nagar, Agra",
+      "lat": 27.1623532,
+      "lng": 77.997742,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJnWtPggFzdDkRsd2npDGhakA",
+      "name": "Ramnager Petrol Pump",
+      "address": "33WC+9FF, MDR 113W, Siktara",
+      "lat": 27.0959434,
+      "lng": 78.0711584,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJpyfhztN2dDkR3WAd7LnoFOA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "4/52, Baluganj, Agra",
+      "lat": 27.166201,
+      "lng": 78.01520099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3eyns9B2dDkRgNXbT7JNyrI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Property No 33, 99, Mahatma Gandhi Road, Pratap Pura, Rakabganj, Agra",
+      "lat": 27.1670347,
+      "lng": 78.00856139999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ28WIZ1BydDkR6Ymm9cVYjo8",
+      "name": "IndianOil",
+      "address": "Ground Floor Agra Shamsabad Rd, Lodhai, 509 Command, Agra",
+      "lat": 27.0958821,
+      "lng": 78.0752078,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs8gxyCBxdDkRvMMyIcS19sg",
+      "name": "Jai Bhole Baba Auto Repairing Centre",
+      "address": "526R+4X4, Fatehabad Road, Nawamil, Agra",
+      "lat": 27.16025469999999,
+      "lng": 78.0424634,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ_QcfmLlxdDkR5EY1AnNIL9s",
+      "name": "Rajkumar Sweet Shop",
+      "address": "Billochpura, Tajganj, Agra",
+      "lat": 27.1620848,
+      "lng": 78.0396213,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJDVQRTG1xdDkRWKNzlWZ7w-A",
+      "name": "Agra Cng",
+      "address": "5333+M6H, Unnamed Road, Tajganj, Basai",
+      "lat": 27.15418249999999,
+      "lng": 78.0531071,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJY77s4zxxdDkRaR0VeB20orw",
+      "name": "Ashok Haus",
+      "address": "527Q+3MQ, Fatehabad Road, Nai basti, Rakabganj, Agra",
+      "lat": 27.1627041,
+      "lng": 78.0392207,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJR4zAHd13dDkRSQF0HCh5ZSM",
+      "name": "Vinod Filling Station",
+      "address": "52F4+7RF, Agra",
+      "lat": 27.17318969999999,
+      "lng": 78.0070321,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJCbPm_KNxdDkRySeeA-YY01Q",
+      "name": "IndianOil",
+      "address": "near TDI Mall, Fatehabad Road, Basai",
+      "lat": 27.1583435,
+      "lng": 78.0562167,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKRJ5NgB3dDkRsK8bBhT0jhY",
+      "name": "Mahi trader's",
+      "address": "Bramon chipitola, muradnagor, cumilla, ramchandrapur",
+      "lat": 27.175984,
+      "lng": 78.01169,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ83o_EgB3dDkRu1hX3Klb5aE",
+      "name": "Mahalxmi petrol pump",
+      "address": "52G5+M68, Bikaner - Agra Road, dayarampura",
+      "lat": 27.1766701,
+      "lng": 78.00807449999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJQ406agB3dDkRjbEcY0n6YhU",
+      "name": "BPCL- GAYATRI FILLING STATION",
+      "address": "NH 19, agra delhi road, ajijpur kosikalan, mathura",
+      "lat": 27.1766701,
+      "lng": 78.00807449999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ7R74AgBxdDkRKhQ69P8H7fU",
+      "name": "MADHU HIGHWAYS",
+      "address": "147, Tora",
+      "lat": 27.1539204,
+      "lng": 78.0666195,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJwbrANEpzdDkRPlRZGRX0hPw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 219, Devri Road, Hari Nagar, Karaudhna",
+      "lat": 27.0417732,
+      "lng": 78.0395855,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUXbj0UR1dDkR0NuVKcoLi6Y",
+      "name": "Maa Pitambara filling Station ( Bharat Petroleum Corporation Ltd)",
+      "address": "2XPR+XC, Garhi Usara",
+      "lat": 27.03744589999999,
+      "lng": 77.9910616,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9QmDSZlxdDkRAd2aZ_H2V98",
+      "name": "Madhu Highways Petrol Pump",
+      "address": "147, Fatehabad Road, Tora",
+      "lat": 27.1512589,
+      "lng": 78.07128879999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5a4zt9d0dDkRCr6BaPKcHNw",
+      "name": "Jio-bp",
+      "address": "Ground Floor Mubarakpur, Kakua, Nh 3, 44 Near Chainage 15/957, Agra",
+      "lat": 27.0409101,
+      "lng": 77.975363,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe7pT6I1xdDkR6IeRnCAbqZk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Fatehabad Road, Agra",
+      "lat": 27.1437777,
+      "lng": 78.0831844,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTTWS7QZydDkRIqkhi3lSaT8",
+      "name": "G K Filling Station",
+      "address": "Fatehabad Road, Bamrauli Katara",
+      "lat": 27.1277602,
+      "lng": 78.1068178,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJh4LQNItxdDkRrujIf_HglRQ",
+      "name": "IndianOil",
+      "address": "near D Marques Marriage Hall, Khasra 31MI 32MI, near D Marques Marriage Hall, Kalal Kheria, Fatehabad",
+      "lat": 27.1484438,
+      "lng": 78.0773152,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIXelidpxdDkRES2UW4rRXv4",
+      "name": "Bharat Petroleum, Petrol Pump -Touraids (I) Travel Service",
+      "address": "BASAI,VIP ROAD, Agra",
+      "lat": 27.1500398,
+      "lng": 78.0738437,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJQ3HAcxALwTsR33xhMJUzv8I",
+      "name": "IndianOil",
+      "address": "Ground Floor, SH 62, Fatehabad Road, Nagla Garhu, Agra",
+      "lat": 27.1175612,
+      "lng": 78.12734669999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9fP5euxtdDkRlGUujXcQZmo",
+      "name": "Metro Filling Station(CNG,Petrol Pump)",
+      "address": "Fatehabad Road, Navameal, Nagla Garey, State Highway 62, Agra",
+      "lat": 27.1176219,
+      "lng": 78.1273594,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6-D4BDNtdDkRxJMdh03s-gk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, behind Bhudevi Cold Storage, Fatehabad Road, Kundol",
+      "lat": 27.107244,
+      "lng": 78.147948,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC4ZJLwBtdDkRqf7LqLMb8Ng",
+      "name": "R R filling station",
+      "address": "445X+25P, Fatehabad Road, Kundol",
+      "lat": 27.1075769,
+      "lng": 78.1479477,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ69dgBUhzdDkRl9VqkYlENk4",
+      "name": "Jio BP Reliance Petrol Pump, Ram Mobility Station",
+      "address": "Khasra No.- 860, Shamshabad Road, Nawadakhera, Hirner Newadakhera",
+      "lat": 27.0495309,
+      "lng": 78.10677059999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWYfMx1ptdDkRH_k6wNSqPyI",
+      "name": "Petrol pump",
+      "address": "444X+HCC, Kundol",
+      "lat": 27.1064458,
+      "lng": 78.1485197,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH20ZNWJtdDkRUIlMa0THWFc",
+      "name": "essar petrol pump",
+      "address": "444X+HC9, Kundol",
+      "lat": 27.10742999999999,
+      "lng": 78.149137,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ78TTs6pydDkRqho4RcYlr4U",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 27.0435042,
+      "lng": 78.10991779999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJyV092hx4dDkRIEFX6esXVHs",
+      "name": "Vyom Premium Fuels",
+      "address": "435/5 Chennai-Delhi Highway Road, Near, Mariam Tomb, Sikandra, Bahistabad",
+      "lat": 27.2170927,
+      "lng": 77.9400565,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeUS8xnl3dDkRj8bOeNJLptk",
+      "name": "CNG Filling Station",
+      "address": "6X4H+H4W, Transport Colony, Agra",
+      "lat": 27.2064772,
+      "lng": 77.97782149999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJE5EWDL13dDkR7uSu3ETN3hs",
+      "name": "Bharat Petroleum",
+      "address": "5XR6+727, Sikandra-Bodla Road, Sector 1, Bodla, Lohamandi, Agra",
+      "lat": 27.1906539,
+      "lng": 77.9600432,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJN3hpNaZ3dDkRng88__lYGN4",
+      "name": "Nayara Oil Shri Bankey Bihari Filling Station",
+      "address": "5XMC+7C6, Maruti Estate Road, Manas Nagar, Badla Ki Sarai, Shahganj, Agra",
+      "lat": 27.1831602,
+      "lng": 77.9710243,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS8Wr_6B3dDkRhTDSMxavN24",
+      "name": "IndianOil",
+      "address": "Bodla Road, Sulahkul Nagar, Lohamandi, Agra",
+      "lat": 27.1904183,
+      "lng": 77.97117399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjxxZKYJ3dDkRgnlFXquLpcc",
+      "name": "CAPT SUNIL FILLING STATION",
+      "address": "Plot No. T2, T3, T4, Opp Amar Ujala Press, National Highway 2, Transport Nagar, Agra",
+      "lat": 27.210562,
+      "lng": 77.971379,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5WBQDjOEczkRGCCJtiTIGGU",
+      "name": "Pratap Filling Station Bharat Petroleum",
+      "address": "Keetham, Agra, NH-19, Delhi, Road, Kitham",
+      "lat": 27.2098228,
+      "lng": 77.980892,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgawtiEB3dDkRICJ0AnwqjTA",
+      "name": "Bharat Petrol Pump",
+      "address": "Delhi Gate, Professors Colony, Civil Lines, Agra",
+      "lat": 27.1968255,
+      "lng": 77.99959299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKeTdnGB3dDkRC12YudKKAJg",
+      "name": "Bharat Petroleum",
+      "address": "5WJM+CJW, Manghatai, Agra",
+      "lat": 27.1811076,
+      "lng": 77.9340871,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFXbMTNh3dDkRHi1rz54aWUk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Bodla, Bichpuri Road, Mangtai, Bichpuri",
+      "lat": 27.180416,
+      "lng": 77.93108699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkQpn1OF3dDkR1YjNB5RMbck",
+      "name": "IndianOil",
+      "address": "Khasra No 271MI, Bichpuri Road, Bodla, Shastripuram, Dehtora",
+      "lat": 27.187493,
+      "lng": 77.940291,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpZye3Z93dDkRZUHDiMThA24",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sadar, Bhogipura, Kalwari, Agra",
+      "lat": 27.185345,
+      "lng": 77.951359,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJN2Ei3xiIczkRg9RBJ3ygMxk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Sunari",
+      "lat": 27.1919936,
+      "lng": 77.9213729,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUUYXy5V3dDkRrGdAFSZUTVQ",
+      "name": "IndianOil",
+      "address": "Sikandra-Bodla Road, Bodla, Agra",
+      "lat": 27.194845,
+      "lng": 77.955338,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ54tb3-13dDkRBBpFg2K_Dio",
+      "name": "Bharat Petroleum",
+      "address": "6X33+CH4, Suruchipuram Colony, Lohamandi, Agra",
+      "lat": 27.2035234,
+      "lng": 77.9539576,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJk-Kzw4mJczkRCxPAlRdqe8w",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 2 - NH 11 Bypass Road, Lakhanpur, Agra",
+      "lat": 27.203638,
+      "lng": 77.91847899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVVWV4KF3dDkRw_E39PSZ5zs",
+      "name": "Kamla Dubey Filling Station",
+      "address": "4, Bodla Road, Sector 4, Manas Nagar, Avas Vikas Colony, Agra",
+      "lat": 27.1930578,
+      "lng": 77.96949289999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ9TU1cQB3dDkRtqM5yuCIC1U",
+      "name": "Agra",
+      "address": "5B/53, Krishna Nagar, Manas Nagar, Badla Ki Sarai, Shahganj, Agra",
+      "lat": 27.18144,
+      "lng": 77.9745183,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJnfS_Lk53dDkRSTWEFUg6HaI",
+      "name": "IndianOil",
+      "address": "Khasra No 1544mi, Avantibai Chowraha to UP, Bainpur Mustkil",
+      "lat": 27.2114599,
+      "lng": 77.93716719999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGwI2PAR3dDkRZYzGEjKxT6c",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Plot No 6/155, Bodla Road, Prakash Nagar, Shahganj, Agra",
+      "lat": 27.1781817,
+      "lng": 77.980694,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJp5Cn-dR3dDkRs-8w1j5gSjM",
+      "name": "CNG Station",
+      "address": "Bajrang Nagar, Agra",
+      "lat": 27.21161949999999,
+      "lng": 77.95999979999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ51R0UYR5dDkR7jwDiAfTZZU",
+      "name": "Green Gas Limited CNG Station",
+      "address": "Sikandra, Agra",
+      "lat": 27.2172044,
+      "lng": 77.9397347,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJG4B7SRx4dDkR6bbOQYahzYI",
+      "name": "Vyam Petrol And CNG Pump",
+      "address": "Near, Chennai - Delhi Highway, Kailash Mode, Agra",
+      "lat": 27.21753859999999,
+      "lng": 77.94596829999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-QYTpoJ3dDkRT5Mcyr3Zykw",
+      "name": "IndianOil",
+      "address": "NH 2, Old Katra, Agra",
+      "lat": 27.2058128,
+      "lng": 77.9734081,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlSBEYmd3dDkR82DviEUY8Po",
+      "name": "PUC check point",
+      "address": "Gurudwara, Delhi Rd,Highway Rd, Guru Ka Taal Flyover, Transport Nagar, Agra",
+      "lat": 27.210383,
+      "lng": 77.96841839999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ87qpwYd3dDkRgZRVb_WGIz0",
+      "name": "VEDANSH BIO FUELS",
+      "address": "India",
+      "lat": 27.2143646,
+      "lng": 77.9636625,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ2Uvq1qd5dDkRbjhM9rfD3tU",
+      "name": "CNG Pump 1",
+      "address": "6WCM+75W, Sikandra, Agra",
+      "lat": 27.22073619999999,
+      "lng": 77.9329599,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJYdSzKnZ3dDkRze7mJGijjnI",
+      "name": "Sarla Filling Station",
+      "address": "kailashpuri, 7/5, Mathura Road, Bagichi, Agra",
+      "lat": 27.204335,
+      "lng": 77.9775487,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2YxzbHd3dDkRVMzzwQVZ1wI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Khasra No, House No, 7/5, Mental Hospital Road, Agra",
+      "lat": 27.20434299999999,
+      "lng": 77.977773,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuUsDy2h3dDkRfiLzWvQmYp0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, opposite Amar Ujala, NH 2, Maharishi Puram Colony, Agra",
+      "lat": 27.210562,
+      "lng": 77.9713793,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJV-papfB5dDkRx3cEccC6qbc",
+      "name": "HP SHAKTI FILLING STATION",
+      "address": "Dawar Khanuwa Road",
+      "lat": 27.2215574,
+      "lng": 77.9296973,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJk_uURo13dDkR43gaeuzLhl0",
+      "name": "IndianOil",
+      "address": "Amba Prasad Road, Gajanan Nagar, Shahganj, Agra",
+      "lat": 27.183496,
+      "lng": 77.988945,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJozMR5nl3dDkR41lzuZIihY0",
+      "name": "IndianOil",
+      "address": "Ground Floor, opposite GGL Station, Transport Nagar, Agra",
+      "lat": 27.206224,
+      "lng": 77.978386,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC9IKKfZ5dDkRebO8N1UqgX8",
+      "name": "IndianOil",
+      "address": "Artoni Near Km, LHS In, Ground Floor, 187 to 192, H R Highway, Mohammadpur",
+      "lat": 27.2229985,
+      "lng": 77.92884590000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZYxd47WJczkRaTS_Y9VZNGQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, Atoos, Kirawali,BV Bichpuri, Bichpuri",
+      "lat": 27.190382,
+      "lng": 77.884112,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJt8aG6J6JczkRu8mAmWvIfTE",
+      "name": "Totaram Kishan Seva Kendra",
+      "address": "5VRM+79, Atus",
+      "lat": 27.1906954,
+      "lng": 77.8834651,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJydOCAXt3dDkRi-CvupmLCcU",
+      "name": "Laxman Mistry",
+      "address": "First Floor, Raman Tower, 14, Sanjay Place, Agra",
+      "lat": 27.2091246,
+      "lng": 77.9827437,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ091OHXt3dDkRQyFTAfMov5k",
+      "name": "एण्ड वर्कशॉप",
+      "address": "India",
+      "lat": 27.2090533,
+      "lng": 77.983176,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJBQRtQod3dDkRbIYBGX2UJL0",
+      "name": "Nayara Petrol Pump",
+      "address": "5XJW+7C9, Ashok Nagar, Shahganj, Agra",
+      "lat": 27.1806562,
+      "lng": 77.9960997,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQYS-iGt3dDkRaeXnEt32COo",
+      "name": "Brij Autos Madiya Katra Petrol Pump",
+      "address": "Billochpura, Lohamandi, Agra",
+      "lat": 27.1988939,
+      "lng": 77.9916061,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDzNPEQB3dDkRPhwKLKHLkv4",
+      "name": "Jio",
+      "address": "A, 1, 1/142, Beni Madhav Sarkar Road, Professors Colony, Pushpavihaar Colony, Agra",
+      "lat": 27.1980064,
+      "lng": 77.9983361,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJLXkFlj53dDkRM82jBxVTZNs",
+      "name": "Hukamchand Fakirchand (Petrol Pumps-Bharat Petroleum)",
+      "address": "52R2+G9G, Mahatma Gandhi Road, Agra",
+      "lat": 27.19131,
+      "lng": 78.00094299999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJvbRcmsF3dDkR_c6Yf5o1kHo",
+      "name": "SS construction",
+      "address": "44, Lajpat Kunj, Civil Lines, Agra",
+      "lat": 27.20187,
+      "lng": 77.998114,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJvdrL0SR3dDkR347tOgTMrug",
+      "name": "Farid General Store",
+      "address": "Nai ki Mandi, Mantola, Agra",
+      "lat": 27.1842631,
+      "lng": 78.0046292,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJQ2FSTz2JczkRgtrN-SA1Iq8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Bichpuri, Raibha Road, Anguthi",
+      "lat": 27.171431,
+      "lng": 77.86997099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2eqnj3hxdDkRGx0Jhia_vLc",
+      "name": "Bharat Petroleum, Petrol Pump -Jainab Filling Station",
+      "address": "Jeoni Mandi Post Office Street, Civil Lines, Agra",
+      "lat": 27.1983262,
+      "lng": 78.0255213,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP4EcRb5wdDkRFkeZaIUUMLg",
+      "name": "IndianOil",
+      "address": "Ground Floor, Rambagh Crossing, Agra",
+      "lat": 27.2029048,
+      "lng": 78.0410157,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJn0T1YqxwdDkR1FbTRHjiqzI",
+      "name": "IndianOil",
+      "address": "E 765, Kamla Nagar, Agra",
+      "lat": 27.2203913,
+      "lng": 78.02307359999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP42QHJhwdDkROukVl8xS-B8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground, Hathras Road, Agra",
+      "lat": 27.21160099999999,
+      "lng": 78.04320100000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvTQcpYBwdDkRxksZKhOjANI",
+      "name": "Nayara Oil Petrol Pump",
+      "address": "63C7+2Q2, Tedi Bagiya Road, Nagla Rambal, Kalindi Vihar, Agra",
+      "lat": 27.2200002,
+      "lng": 78.06438279999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQ_K1r3ZxdDkR2MhiLPrQLSo",
+      "name": "Bharat Petroleum, Petrol Pump -Punjab Auto Service",
+      "address": "BELANGANJ,AGRA, Agra",
+      "lat": 27.1795221,
+      "lng": 78.02417299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7XIwe81wdDkRNYrcVLjXNdg",
+      "name": "NIGAHE GAREEB NAWAZ OIL COMPANY",
+      "address": "India",
+      "lat": 27.1867523,
+      "lng": 78.02172139999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJJfqTCiNxdDkRK2LhmkGr_Fg",
+      "name": "Police Station Gudri Mansoor Khan",
+      "address": "28, 84, Chhata Road, Kachori Ghat, Mantola, Agra",
+      "lat": 27.1885369,
+      "lng": 78.02198109999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJdcARAs1wdDkRYzk7k4BAXFo",
+      "name": "RATHORE OIL COMPANY",
+      "address": "52QC+MQ5, Chhata Road, Kachori Ghat, Mantola, Agra",
+      "lat": 27.1891276,
+      "lng": 78.02197509999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ6cRGkEl3dDkRq0ZudpuuZ7E",
+      "name": "IndianOil",
+      "address": "No 58, Sanjay Place, Civil Lines, Agra",
+      "lat": 27.197085,
+      "lng": 78.004865,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJu_U8zWh3dDkRwa0PgJ5wj9M",
+      "name": "GAIL Gas Limited TTZ Agra",
+      "address": "Padamdeep Tower, G-10/8, Office No. 4C, 3rd Floor, Sanjay Palace, Sanjay Place, Madhu Nagar, Agra",
+      "lat": 27.197673,
+      "lng": 78.0062875,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH13xHMxwdDkR15FxdasRUrg",
+      "name": "Belanganj Petrol Pump",
+      "address": "6/312-A, Barolly Building, 6/312-A, Agra Bikaner Road, Belanganj, Civil Lines, Agra",
+      "lat": 27.191458,
+      "lng": 78.0250038,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJNwWvpDpxdDkRCcBDchxoDAs",
+      "name": "Badharinath Mandir",
+      "address": "52RG+R7J, Belanganj, Civil Lines, Agra",
+      "lat": 27.1920806,
+      "lng": 78.0256319,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJufhYBwB3dDkRIplUGbJE2ZE",
+      "name": "Vyas consultant",
+      "address": "Shop no. 7, block no. 10 cloth market, Sanjay Place, Agra",
+      "lat": 27.19865699999999,
+      "lng": 78.00598099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJT2bKTWJxdDkRce_Deu-1-mE",
+      "name": "Shyamkamal Bharat petroleum filing station",
+      "address": "8/205, Freeganj Road, Ashok Nagar, Free Ganj, Agra",
+      "lat": 27.1959586,
+      "lng": 78.0219838,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJRZPEIthxdDkRYtQsaiZhkMs",
+      "name": "Bharat Petroleum, Petrol Pump -A C Fuels",
+      "address": "near ITMADU, YAMUNA KINARA, near ITMADU, Agra",
+      "lat": 27.1904011,
+      "lng": 78.0313066,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2bnFyJVxdDkRX6sXYtMdBxU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Jeoni Mandi, Agra",
+      "lat": 27.2016956,
+      "lng": 78.0272354,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVVtE-bZwdDkRyo5vLMqQdzk",
+      "name": "IndianOil",
+      "address": "Ground, Jeevani Mandi, Agra",
+      "lat": 27.2016099,
+      "lng": 78.0277684,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm8KK0UVxdDkRA8o46RhR8TE",
+      "name": "Green Gas Limited CNG Station",
+      "address": "Ground Floor, 21/263, Jeoni Mandi, Civil Lines, Agra",
+      "lat": 27.2016158,
+      "lng": 78.027767,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ--eIMk53dDkRwz9iTc8jF2I",
+      "name": "IndianOil",
+      "address": "Ground Floor, Gandhi Nagar, Naya Bans, Agra",
+      "lat": 27.207594,
+      "lng": 78.011337,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJc5wvuFN3dDkRI4a7VkEyfzA",
+      "name": "BHARAT PETROLEUM L.p filling station",
+      "address": "plot no 66, 67, Gandhi Nagar Road, Sultan Ganj, Gandhi Nagar, Civil Lines, Agra",
+      "lat": 27.20838719999999,
+      "lng": 78.013695,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJi6u84Ut3dDkRt-c4Lp90bJM",
+      "name": "IndianOil",
+      "address": "NH 11, Jaipur Road, Madhapur, Agra",
+      "lat": 27.2099299,
+      "lng": 78.00417929999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAWktYTx3dDkRBgNhtKO8sNc",
+      "name": "Keshav Gas Service & Electric",
+      "address": "Keshav plaza, opp. Bhagwan talkies, Mahatma Gandhi Road, Agra",
+      "lat": 27.210302,
+      "lng": 78.0043372,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHa1dwKd3dDkRR7vwlwwH8ao",
+      "name": "Green Gas Limited CNG Station",
+      "address": "6263+C5X, near Tulsi Cinema, Bypass Road, Kripal Colony, Sanjay Nagar, Pashupati Colony, Khandari, Agra",
+      "lat": 27.211103,
+      "lng": 78.0029754,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ7Tj2hFt3dDkR5ofio7CZWfE",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Tulsi Cinema, Pashupati Colony, Agra",
+      "lat": 27.2111594,
+      "lng": 78.0030089,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuZtmcQ1wdDkR6CysgFe8UGQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor NH 2, Kanpur Rd, Chhalesar, Agra",
+      "lat": 27.2163927,
+      "lng": 78.09042149999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBeWfo9uldDkRkRQOsFj6wTk",
+      "name": "Reliance Petroleum",
+      "address": "khata no 37, khasra no 149, m/s horizon fuel centre, Industrial Estate, Sarsol",
+      "lat": 27.1977076,
+      "lng": 78.0461357,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ85JOBWNwdDkRvOmRtBGh3tQ",
+      "name": "IndianOil",
+      "address": "Firozabad Road, Sahadra, Agra",
+      "lat": 27.211382,
+      "lng": 78.068497,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSwre-KBxdDkRf3zaQkWwmeU",
+      "name": "Kuberpur mandir",
+      "address": "635W+FMX, mandir Road, Kuberpur",
+      "lat": 27.208737,
+      "lng": 78.096723,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJfzmsJ1RxdDkR9DgrGFmtS8w",
+      "name": "Bharat Petroleum, Petrol Pump -R A Nariman & Co ( P) Ltd",
+      "address": "SHAHADRA CHUNGI, NH 2 Agra Bypass, Agra",
+      "lat": 27.2121104,
+      "lng": 78.06763769999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEZ-bxGJwdDkR_Fdip6kMkLU",
+      "name": "IndianOil",
+      "address": "NH 2, Agra Firozabad Road, Shahdara, Agra",
+      "lat": 27.2122042,
+      "lng": 78.0672313,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWzkPCQBxdDkRBPgeG-71LD8",
+      "name": "CNG point",
+      "address": "2, National Highway 2, Kuberpur",
+      "lat": 27.2182593,
+      "lng": 78.0994559,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJdSMx1nNvdDkRTQtqDogM6fs",
+      "name": "Bharat Petroleum, Petrol Pump -Narendra Filling Station",
+      "address": "KUBERPUR, Agra",
+      "lat": 27.2183352,
+      "lng": 78.0993408,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvyw1hQ9wdDkR5s-orO4o_wU",
+      "name": "NRL Mahindra Aamir Cng Petrol Pump",
+      "address": "2, National Highway 2, Kuberpur",
+      "lat": 27.218352,
+      "lng": 78.09936379999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9dfR905xdDkR93gh4FnfF1Q",
+      "name": "Bhatia Highways - Bharat Petroleum, Petrol Pump",
+      "address": "Foundry Nagar, Agra",
+      "lat": 27.2119589,
+      "lng": 78.04271659999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJr4rr0wNwdDkRqnGr91AIfMw",
+      "name": "Reliance Petrol Pump",
+      "address": "NH-2 Kuberpur, Agra",
+      "lat": 27.2231024,
+      "lng": 78.11011189999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs1On1XV6dDkR89FL0I_1pm8",
+      "name": "IndianOil",
+      "address": "62GX+C5X, Hathras Road, Near Arora Petrol Pump, Foundry Nagar, Agra",
+      "lat": 27.2259103,
+      "lng": 78.0480077,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjZf2IwB7dDkRfyQOdebexhk",
+      "name": "Kalpana Kunj rambagh road agra Tedi Bagiya Agra",
+      "address": "62GX+G97, Tedi Baghia, Agra",
+      "lat": 27.2262918,
+      "lng": 78.0484086,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ_b27zi97dDkR238FjWkx9Zg",
+      "name": "Mithlesh Telecom",
+      "address": "1 Om Market, Jalesar Road, Tedi Baghia, Agra",
+      "lat": 27.23071,
+      "lng": 78.04907,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJCzxRiKxwdDkRNWf4SrnLX1E",
+      "name": "E-Block Petrol Pump",
+      "address": "E709, E Block, Block E, Ghatwasan, Kamla Nagar, Agra",
+      "lat": 27.214334,
+      "lng": 78.0222366,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJMTE7ZvdvdDkRu69lGqqMpYU",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 2, Kuberpur",
+      "lat": 27.2254826,
+      "lng": 78.1228924,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJyzEqI0aGczkR8GtmP7K01MI",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 2, Runkata",
+      "lat": 27.2343682,
+      "lng": 77.87102279999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl8ytBl6HczkRJS1ncwSgE7o",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 2, Mathura Road, Kiravali, Agra",
+      "lat": 27.232331,
+      "lng": 77.886611,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfbibT7WHczkRsUnBpcHROwI",
+      "name": "THAKUR JI WHEELS",
+      "address": "18, Silver Estate Colony, Runkata, Agra",
+      "lat": 27.2328052,
+      "lng": 77.88378469999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJpRDkIkaGczkRaFwh1VTu4MQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 19, Mathura Road, Agra",
+      "lat": 27.2352597,
+      "lng": 77.8704727,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJodqahk2HczkRy44LxNKt3pE",
+      "name": "IndianOil",
+      "address": "Ground Floor, 7th Km Stone, Bypass, Rohta",
+      "lat": 27.224786,
+      "lng": 77.86919929999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRwATTTqGczkRZN-294lGuzM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Ronakta, Road, Kirawli, Loh Karera",
+      "lat": 27.2229787,
+      "lng": 77.8682934,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJh80mmEF6dDkRIIvw7YuWmqI",
+      "name": "Bharat Petroleum, Petrol Pump -Kusum Autos",
+      "address": "Nagla, Agra",
+      "lat": 27.2489536,
+      "lng": 78.0462953,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJW3--FxF7dDkRDdqBYjulRmY",
+      "name": "IndianOil",
+      "address": "Gata 628 NaraichMustkil, Khandauli Nh 509, Nandlalpur, Rambagh",
+      "lat": 27.2440463,
+      "lng": 78.0479301,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKW9drG96dDkR9vX0qFcgA-c",
+      "name": "HP PETROL PUMP -Yadav petrol pump",
+      "address": "63H2+C38, Mauza Naraych Mustaqil Agra Jalesar Road, near Tehri Bagiya, Tedi Baghia, Agra",
+      "lat": 27.237565,
+      "lng": 78.051144,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ-oIzTF7dDkRSaH1d7dxZtM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Tehri Bagiya, Agra - Jalesar Road, Naraich, Agra",
+      "lat": 27.23756509999999,
+      "lng": 78.0511449,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGdKAEcJ7dDkR9ie7Yx80iu4",
+      "name": "IndianOil",
+      "address": "Ground Floor, Agra Aligarh Road NH 93B, Ujrai, Khandauli, Bamrauli Katara",
+      "lat": 27.290694,
+      "lng": 78.035505,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe_4uwnd7dDkRNDHO7K5-q7E",
+      "name": "Megh singh filling station Nayara pump",
+      "address": "Agra Jalesar road mudi, chauraha, Agra",
+      "lat": 27.2840115,
+      "lng": 78.0842837,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ9Z8207V7dDkR0tetd2yAiTw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Agra - Jalesar Road, Etmadpur Road, Mundi Jahangirpur",
+      "lat": 27.284308,
+      "lng": 78.083863,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsfEi8h57dDkR1rjxpFKKi04",
+      "name": "Shree Shree Ramdas Ji Filling Station",
+      "address": "Agra - Jalesar Road, Mundi Jahangirpur",
+      "lat": 27.2851175,
+      "lng": 78.08505020000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ45VNh8B7dDkR3G9y5FmlCYg",
+      "name": "IndianOil",
+      "address": "Khasra No 76, Etmadpur Road, Mundi Jahangirpur",
+      "lat": 27.2858154,
+      "lng": 78.0777694,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1bS0hohvdDkRaoI4CMEPvsM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bhagupura, Firozabad Rd, Dheera, Etmadpur",
+      "lat": 27.228533,
+      "lng": 78.144561,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl5FoJodvdDkRlYLzqe63AEw",
+      "name": "Agra Fuels Essar Oil Petrol Pump",
+      "address": "NH-2, AH 1, Rahan Khurd, Agra, Etmadpur",
+      "lat": 27.22944439999999,
+      "lng": 78.15,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_-VGxrhvdDkRMPdB06eLZf4",
+      "name": "Reliance Petrol Pump",
+      "address": "Nawalpur",
+      "lat": 27.2292165,
+      "lng": 78.1535846,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHQc4csF7dDkRmdZtoyEaqoc",
+      "name": "IndianOil",
+      "address": "near Agra, Ground Floor Khandauli Etmadpur Road, near Agra, University, Ramnagar, Agra",
+      "lat": 27.309901,
+      "lng": 78.040401,
+      "open_now": true
+    }
+  ]
+}

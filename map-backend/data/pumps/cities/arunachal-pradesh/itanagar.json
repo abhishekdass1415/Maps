@@ -1,0 +1,427 @@
+{
+  "city": "Itanagar",
+  "state": "Arunachal Pradesh",
+  "count": 52,
+  "center": {
+    "lat": 27.0844,
+    "lng": 93.6053
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJjWoMna0LRDcRAgYGYyblyQs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Jote",
+      "lat": 27.0412472,
+      "lng": 93.4765041,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2WZObgALRDcRr88wb2K5aMI",
+      "name": "Kaka fuel station",
+      "address": "",
+      "lat": 27.0401533,
+      "lng": 93.4742201,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJk9MbLUYGRDcRMvRFpHIzoOE",
+      "name": "IndianOil",
+      "address": "Ground Floor Hollongi, Chimpu",
+      "lat": 26.9712024,
+      "lng": 93.5974088,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDzqcb78FRDcRl7qQcSvce7A",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 415, Hollongi Chariali",
+      "lat": 26.9810897,
+      "lng": 93.60484389999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY6rUnikFRDcR-_ZA4o_jq_I",
+      "name": "MS ND ENTERPRISE",
+      "address": "Hollongi Chariali",
+      "lat": 26.9793639,
+      "lng": 93.6051018,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJu9yk8mIFRDcR8BeSUqvGg5k",
+      "name": "G M S FILLING STATION",
+      "address": "National Highway 415, Itanagar",
+      "lat": 26.9792232,
+      "lng": 93.6052534,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJJbBXEssHRDcR_ElMI79ER1w",
+      "name": "IndianOil",
+      "address": "Ground Floor, Near Secretariat, Itanagar",
+      "lat": 27.082876,
+      "lng": 93.597999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy_NOKV0GRDcR-IBzIvRau-I",
+      "name": "Bharat Petroleum",
+      "address": "3J56+PQX, National Highway 415",
+      "lat": 27.0593581,
+      "lng": 93.6119916,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ7XM-VZ4FRDcR8wNNYpP1ffY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Power House, Hollongi Chariali",
+      "lat": 26.9655556,
+      "lng": 93.595001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkc4fsEcFRDcRp6zNb8eaDUY",
+      "name": "IndianOil",
+      "address": "Ground Floor, near RK MIssion, Chimpu",
+      "lat": 27.06795829999999,
+      "lng": 93.6042475,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtcRu1hIFRDcR1-0Z3OUYGic",
+      "name": "Petrol pump",
+      "address": "XH5R+W4F, Hollongi Chariali",
+      "lat": 26.95981249999999,
+      "lng": 93.5903125,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJ21Hc0JIFRDcR93Pc6YHHoYg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Chariali, NH 415, Rajgarh",
+      "lat": 26.9567662,
+      "lng": 93.5909788,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcWReucMHRDcR4_6j3T_GF_0",
+      "name": "MS RAYTMMR FUEL STATION",
+      "address": "Zoo Road, Itanagar",
+      "lat": 27.0764174,
+      "lng": 93.5858731,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJzWhdcmgHRDcRQ0GUYISX5gs",
+      "name": "Bharat petroleum petrol station",
+      "address": "NH415 Jully Basti Road",
+      "lat": 27.0777367,
+      "lng": 93.61830669999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJuwe8dvUHRDcRgyiajfG8S8I",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Jully Basti Road, Itanagar",
+      "lat": 27.0768905,
+      "lng": 93.6431721,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgyu5bpkDRDcRUCoaPA8elTE",
+      "name": "Sonajuli petrol pump",
+      "address": "Chessa Road, Sonajuli",
+      "lat": 27.0278648,
+      "lng": 93.74046880000002,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJA-miUNEARDcRMXx3uU2J8SI",
+      "name": "Bharat Petroleum",
+      "address": "Jully Basti Road, Papu Nalah",
+      "lat": 27.0854023,
+      "lng": 93.66778359999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJz4AkDq8HRDcRtPffKl1CJdc",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Ganga, Itanagar",
+      "lat": 27.089985,
+      "lng": 93.61501,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJV-zmEa8HRDcRRfMomulpPKA",
+      "name": "Assam Oil",
+      "address": "",
+      "lat": 27.0900371,
+      "lng": 93.6148415,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ00gLfgkHRDcRVFAw-1pqGk0",
+      "name": "IndianOil",
+      "address": "Ground Floor, Main Road, Itanagar",
+      "lat": 27.097516,
+      "lng": 93.62441799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuafw18kARDcRcG-R61uhYgQ",
+      "name": "Indian Oil Petrol Pump",
+      "address": "National Highway, Papu Nalah",
+      "lat": 27.1022466,
+      "lng": 93.6693183,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJByPWEa8HRDcRGEuekeOgfKo",
+      "name": "Memo Refilling & Service Station",
+      "address": "NH415",
+      "lat": 27.0913342,
+      "lng": 93.61611599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ--KiTr4HRDcRsafZ_3KX60k",
+      "name": "M.TANIA REFILLING STATION",
+      "address": "Itanagar",
+      "lat": 27.09598579999999,
+      "lng": 93.6207079,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJnYvOSj4HRDcRXoKy1ZMnwM0",
+      "name": "Ms /Khan Beanies",
+      "address": "Nh 415, Chatrangraza Bari",
+      "lat": 27.1013505,
+      "lng": 93.6212244,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ5UKWxAsHRDcRBzTiKJK6uxU",
+      "name": "Capital Auto Agency, C-sector Petrol pump",
+      "address": "3JXF+HGJ, NH 52A, Itanagar",
+      "lat": 27.0983924,
+      "lng": 93.6252093,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJQ20Jqc4BRDcRpXAl8yvA6NU",
+      "name": "BPCL - Ba Enterprise Petrol Pump",
+      "address": "4M2F+H7, Papu Nalah",
+      "lat": 27.1014923,
+      "lng": 93.673125,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ8_op7scARDcR6D06PoSy0vk",
+      "name": "Bharat Petroleum",
+      "address": "",
+      "lat": 27.1014531,
+      "lng": 93.6732791,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJz9qKfyUBRDcRwsORHNAyUX8",
+      "name": "Arsang Bharatgas Agency",
+      "address": "3MXG+5WH, Joram - Palin - Sangram, Koloraing Rd, Papu Nalah",
+      "lat": 27.0979393,
+      "lng": 93.6773664,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ0ew4UMAARDcRpVzid_9oNG8",
+      "name": "Petrol Pump NRL",
+      "address": "3MXJ+V7J NH 52A, Papu Nalah to E/Gate",
+      "lat": 27.0997035,
+      "lng": 93.68062669999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJh-BvBGIARDcR57MusGw_UlE",
+      "name": "AppleCommunity.Solution",
+      "address": "near Honda Scotty Dealer, Naharlagun",
+      "lat": 27.1073043,
+      "lng": 93.7077205,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJG0P55aMBRDcR4chYp7TXTgg",
+      "name": "IndianOil",
+      "address": "Ground Floor, Naharlagun",
+      "lat": 27.10763,
+      "lng": 93.703296,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8c9BChEBRDcR_wU2f6jtNlw",
+      "name": "Rajdhani Auto Agency",
+      "address": "Ground Floor",
+      "lat": 27.1077637,
+      "lng": 93.70342289999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJyzxU7XAARDcRQHu6G720vpk",
+      "name": "Nayara Depot",
+      "address": "4P87+JPG, Naharlagun",
+      "lat": 27.116552,
+      "lng": 93.7143354,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJofXT4g7_QzcR6n8-lTZV_xo",
+      "name": "IndianOil",
+      "address": "LPC DC, ICC/12013, 527/2018, Borum",
+      "lat": 27.1265717,
+      "lng": 93.70440289999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJU3SbXgABRDcR5eycOnFA2jo",
+      "name": "HP naharlagun",
+      "address": "4PC8+6Q8, Naharlagun",
+      "lat": 27.1205416,
+      "lng": 93.7169583,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJIVBAD4gBRDcRRwOxrwNjLEM",
+      "name": "Jaamc Associates",
+      "address": "4PC8+QF4, Lekhi Village",
+      "lat": 27.120828,
+      "lng": 93.716916,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJIR--_RsBRDcRQIljwi-Xv78",
+      "name": "SHREE RANI SATI SERVICE STATION",
+      "address": "LEKHI, Naharlagun",
+      "lat": 27.1215324,
+      "lng": 93.7228579,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ56n8UyYBRDcRWGFUhLc6fzg",
+      "name": "IndianOil",
+      "address": "Ground Floor, Lekhi",
+      "lat": 27.124304,
+      "lng": 93.72604799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_QYDqPf_QzcRw4KFZTzWtk0",
+      "name": "IndianOil",
+      "address": "Ground Floor, Nirjuli",
+      "lat": 27.127149,
+      "lng": 93.731411,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYwijmTn_QzcRr2LcHt2Ybco",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH-52A, Nirjuli",
+      "lat": 27.1293894,
+      "lng": 93.7341096,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1R5yxaJVQTcRwxb1TgqkXcA",
+      "name": "IndianOil",
+      "address": "Ground Floor, Amba",
+      "lat": 27.1293486,
+      "lng": 93.7352466,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvwYspfT_QzcRlxgvL2ZniDA",
+      "name": "Raytmmr Fuel Station",
+      "address": "Kola Camp, Doimukh",
+      "lat": 27.1465863,
+      "lng": 93.735456,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJOWaaiWKrRjcR0fRLHtu3GyM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Nirjuli",
+      "lat": 27.1327461,
+      "lng": 93.7376762,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAXTDbYf_QzcRgd2alXa61og",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Soro, Sagalee",
+      "lat": 27.2161889,
+      "lng": 93.6865706,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmdWWLgBVQTcRhzFlbHMlQwg",
+      "name": "BAMN FUEL STATION",
+      "address": "Nirjuli Village",
+      "lat": 27.135701,
+      "lng": 93.74400899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-yN7EwBVQTcRGL4CvEOZQ9w",
+      "name": "M/s Relum Filling Station",
+      "address": "4PPX+96X, Nirjuli Village",
+      "lat": 27.1359884,
+      "lng": 93.7480994,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo3X445JVQTcRHTygSpwG4HE",
+      "name": "Flamingo",
+      "address": "HP Petrol Pump, Doimukh Road, Doimukh",
+      "lat": 27.1405196,
+      "lng": 93.74992689999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZxoZV0lVQTcRPX5yWzhTjbc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Northeast Frontier Railway, Doimukh",
+      "lat": 27.1403457,
+      "lng": 93.7501556,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgdZVHoZVQTcR_2DA_exKZ_c",
+      "name": "Tacho Fuel station",
+      "address": "Doimukh",
+      "lat": 27.1392993,
+      "lng": 93.7512483,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJte0zM45VQTcRQn1szHxlKLo",
+      "name": "IndianOil",
+      "address": "Ground Floor, Midpu -I",
+      "lat": 27.1633654,
+      "lng": 93.75247780000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7xgIqjBVQTcRk9A5UoFS2g0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 415, Nirjuli",
+      "lat": 27.1296214,
+      "lng": 93.7480082,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ62O0FQBVQTcRvj1kNT7ItWc",
+      "name": "N K C petrol pump",
+      "address": "5Q73+743, Khula Camp",
+      "lat": 27.1630856,
+      "lng": 93.75278689999999,
+      "open_now": null
+    }
+  ]
+}

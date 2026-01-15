@@ -1,0 +1,667 @@
+{
+  "city": "Hospet",
+  "state": "Karnataka",
+  "count": 82,
+  "center": {
+    "lat": 15.2833,
+    "lng": 76.3833
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJbY3xFeLTuTsRBfTQAEC8K3Q",
+      "name": "IndianOil",
+      "address": "Lock No 317, near Abheraj Baldota Road, NH 50, Ballari - Hubballi Road",
+      "lat": 15.267182,
+      "lng": 76.347533,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx6VuDsXTuTsRfykq_2LLtrI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 50, Munirabad",
+      "lat": 15.278385,
+      "lng": 76.33106099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOeiOVfjZuTsRwBj7y50TgWM",
+      "name": "BPCL Petrol Pump",
+      "address": "Danapuram",
+      "lat": 15.1668605,
+      "lng": 76.3663819,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJb-1uypbRuTsRkKSpyaExlfc",
+      "name": "P BALASUBBA SETTY AGENCIES",
+      "address": "DOOR NO, 226, Hospet - Harihar Road, Hosapete",
+      "lat": 15.2449118,
+      "lng": 76.3612157,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ08cecCPRuTsR1MQ4GWI-xvg",
+      "name": "petrol bunk",
+      "address": "7926+33V, National Highway 50, Hosapete",
+      "lat": 15.2502295,
+      "lng": 76.36016459999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ8ZkbGmDRuTsRFUZzFhLclDg",
+      "name": "SRI AYYAPPA PETROLEUMS",
+      "address": "NH 50 LHS TOWARDS, TO, Chitradurga - Hospet Road, Hosapete",
+      "lat": 15.2587175,
+      "lng": 76.3515094,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ03qOnrHRuTsRwEwkkaJtlxs",
+      "name": "SADDHARMA CNG GAS STATION",
+      "address": "National Highway 50, Hosapete",
+      "lat": 15.2507726,
+      "lng": 76.36089609999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-e_9LQDZuTsRkbkI6OSMuoY",
+      "name": "SRI KANAKA PETROLEUMS",
+      "address": "3, Shimoga - Harihar - Hospet Road, Mariyammanahalli",
+      "lat": 15.169158,
+      "lng": 76.366107,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJCxkKaADZuTsRnsyorLEdRuo",
+      "name": "CNG",
+      "address": "5988+PGF, Danapuram",
+      "lat": 15.1668146,
+      "lng": 76.3663071,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJI9rhPrHWuTsRwjJ4REj82fY",
+      "name": "IndianOil",
+      "address": "Lock No 313, Veerupakshanayaka Circle, Sy No 129/A, opposite New Traffic Police Station, NCC, Hosapete",
+      "lat": 15.2616629,
+      "lng": 76.3725474,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvaCFymLWuTsRIPLMjbt5CS0",
+      "name": "IndianOil",
+      "address": "Survey no.124/10, Sanklapur, Ananthashayanagudi, opposite Karnataka Oil Factory, Hosapete",
+      "lat": 15.2581347,
+      "lng": 76.4115106,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLeyXqZ3WuTsRi_M8-mHJlJY",
+      "name": "IndianOil",
+      "address": "Lock No 319, Bellary Road, Hosapete",
+      "lat": 15.2665309,
+      "lng": 76.3954519,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpdDGCKDWuTsRJtMozheu2wE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Hosapete Bypass Road, near Galemma Temple, Abheraj Baldota Road, Hosapete",
+      "lat": 15.2679551,
+      "lng": 76.3860401,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWYgJgwLUuTsRMAbUiG-vHW4",
+      "name": "Total Gas Filling Station",
+      "address": "Rajeev Nagar, Arvind Nagar, Patel Nagar, Hosapete",
+      "lat": 15.2676608,
+      "lng": 76.3729,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPQl5Bv_XuTsRGd_vhBsk3tw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 67, Chitradurga - Hospet Road, Hosapete",
+      "lat": 15.2474844,
+      "lng": 76.384269,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM7I2uL_WuTsRi_DDSYLA79U",
+      "name": "IndianOil",
+      "address": "Lock No 322, Ananthashayanagudi, No, 61/C, Sandur Road, Jambunathahalli, Hosapete",
+      "lat": 15.2474854,
+      "lng": 76.3854119,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJT-PbbZTWuTsRb7ei6A19-XY",
+      "name": "IndianOil",
+      "address": "Ground Floor, Jambunath, Halli, Ananthashayanagudi, Chitradurga - Hospet Road, Hosapete",
+      "lat": 15.2491258,
+      "lng": 76.38899289999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ8RFvUrXuTsRGpYFVGlYJCY",
+      "name": "Ganga Agencies",
+      "address": "near Jambunathanahall, Hosapete",
+      "lat": 15.2494859,
+      "lng": 76.3917996,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLwCK7K_WuTsROXGG_qSpoMM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Harihar Road, Hosapete",
+      "lat": 15.257281,
+      "lng": 76.374391,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_Uo_3EnXuTsRciF1fLSGd0A",
+      "name": "Bharat Petroleum, Petrol Pump -Sneha Petroleum",
+      "address": "HOSPET, BELLARY",
+      "lat": 15.2607758,
+      "lng": 76.3789311,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCyXC9VHXuTsRakg5yBo9tGQ",
+      "name": "Go gas auto lgp station,hosapete",
+      "address": "796F+6H, Hosapete",
+      "lat": 15.2607764,
+      "lng": 76.3743008,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJeYKoIF_XuTsRGOHqXlRq85g",
+      "name": "Reliance Petroleum",
+      "address": "S No 215/E/1, 216/A4, Dam Road, Hosapete",
+      "lat": 15.2614453,
+      "lng": 76.37976549999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfYPcGP3XuTsRHVgIcJ_HvOU",
+      "name": "Bharat Petroleum, Petrol Pump -Venkateshwara Petroleum",
+      "address": "HOSPET (TB DAM ROAD), BELLARY",
+      "lat": 15.261314,
+      "lng": 76.3739988,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM7I6OWfXuTsR79-4GtK9q3A",
+      "name": "Vijaykumar T",
+      "address": "13C/1A T S S E PETROLIUM, P K Halli Ballari Hospet Road Hospet Vijayanagar District, Hosapete",
+      "lat": 15.2633186,
+      "lng": 76.3828875,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ8VKDk6vXuTsR__g_2x9PhJQ",
+      "name": "IndianOil",
+      "address": "Lock No, opposite Pdit Engg College, 309, NCC, Rajiv Nagar, Bellari, Hosapete",
+      "lat": 15.2642761,
+      "lng": 76.37307109999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFW7EQ0TXuTsRVr8KZGuJWS8",
+      "name": "Aradhya Enterprises",
+      "address": "No 50 Hubble, Canara Bank, National Highway, near Indian Oil Pump, Chitradurga - Hospet Road, Hosahalli",
+      "lat": 15.2655224,
+      "lng": 76.3943925,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJO5rfGMLXuTsRL7X2gQsLLpU",
+      "name": "Thirumal Auto Service",
+      "address": "near Hospet Odakaraya Temple, Main Bazar Road, Hosapete",
+      "lat": 15.2668751,
+      "lng": 76.39114699999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJQ-3YrgzXuTsRYOJ-NSHTM68",
+      "name": "Bharat petroleum & C N G GAS STATION Srinivasa agencies",
+      "address": "798V+JWX, MVS Area, JP Nagar, Hosapete",
+      "lat": 15.2665746,
+      "lng": 76.3950476,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBR8u45rVuTsRLUC1HMQplk8",
+      "name": "Maruthi Auto Service",
+      "address": "near Tha Schol, 100, Bed Road, Hosapete",
+      "lat": 15.2683581,
+      "lng": 76.3842186,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJp1MlfhHVuTsR2Pid8jPGyGg",
+      "name": "Guru Diesels",
+      "address": "100 Bed Hospital Road, Hosapete",
+      "lat": 15.268753,
+      "lng": 76.3802087,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJD3PsNNjVuTsRTs3jb6RwO8k",
+      "name": "M Veerabhadrappa And Sons BPCL",
+      "address": "near Mariyammana Halli, Bangalore Hospet Haiway, near Mariyammana Halli, Dist, N H 51, Vijayanagar, Danapura",
+      "lat": 15.2703857,
+      "lng": 76.38760549999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJo2fnqWrWuTsRADJGz9MRKnc",
+      "name": "HP PETROL PUMP - SHARANABASAVESHWARA FUEL STAT",
+      "address": "HPC Dealers 181 A (part) NH 63, Kariganur Villagae, Kariganur",
+      "lat": 15.24824,
+      "lng": 76.43272,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqYtShi3XuTsRtggn6YLL-oI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Chitradurga - Hospet Road, Kariganuru",
+      "lat": 15.2482953,
+      "lng": 76.4327508,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJObdU2SbUuTsRxyUTDBQ2e0A",
+      "name": "GASPLUS",
+      "address": "79CV+QF9, Jambunath Feeder Road, MVS Area, Hosapete",
+      "lat": 15.271923,
+      "lng": 76.39374939999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJw8LQ0TDVuTsR5BbAUn7kvi4",
+      "name": "IndianOil",
+      "address": "Survey No 94, B Talkies Road, Meeralam, Hosapete",
+      "lat": 15.2722449,
+      "lng": 76.39350759999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLTSHtgjVuTsRf7CxTgZWwR0",
+      "name": "IndianOil",
+      "address": "L No 292, Bus Stand Road, Hosapete",
+      "lat": 15.2724019,
+      "lng": 76.3724885,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCTxYN-fVuTsRDbF23fklrAg",
+      "name": "Pavan Auto Service",
+      "address": "Near Sharaswthi Takis Hospet, Bellary Road, Hosapete",
+      "lat": 15.2729331,
+      "lng": 76.3908352,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJFWSaWyHUuTsRonjOSQYd-hs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Hampi Road, Vijayanagara, Hosapete",
+      "lat": 15.27382,
+      "lng": 76.39164000000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXaQeP9zVuTsREZTw87RoYzg",
+      "name": "Veeresh Auto Service",
+      "address": "near Hospet, Bellary Road, Hosapete",
+      "lat": 15.270617,
+      "lng": 76.40519309999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJtTIEuzjVuTsRPOGBR-7Uw14",
+      "name": "Bheemesh Sudugadeppa",
+      "address": "near M P Nagar, Hosapete - Ballari Road, MVS Area, Siddah Lingappa Chowki, Hosapete",
+      "lat": 15.2711596,
+      "lng": 76.4053253,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJO5Arsm_VuTsRm2yGCdjJ3aY",
+      "name": "Mahameed Ismail Auto Service",
+      "address": "near S V K Bustend, Rani Pet Road, Hosapete",
+      "lat": 15.2748517,
+      "lng": 76.3909264,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJm1jMplrVuTsRlPHSPUMQ5EE",
+      "name": "SNEHA PETROLEUM",
+      "address": "Malgi Enterprise, beside pallavi Lodge, College Road, Hosapete",
+      "lat": 15.2756008,
+      "lng": 76.3873065,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJTRzFYTvWuTsRxONp7rYwZ70",
+      "name": "IndianOil",
+      "address": "Lock No 304 Hospet Bellary Road, NH 63, NCC, Hosapete",
+      "lat": 15.2431135,
+      "lng": 76.44296829999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq5aeGlnXuTsRmcGUIjVRLWg",
+      "name": "Basha Panchra Shop",
+      "address": "G G Campa, Bellary Road, near G G Camp, Chitradurga - Hospet Road, Hosapete",
+      "lat": 15.2404173,
+      "lng": 76.4465571,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJQw1hoC7VuTsR38UH8n_nC5U",
+      "name": "Sneha Petroleum",
+      "address": "P M, C Market Yard, Sy No 216/A2 216/A3 Harihar Road A, Vijayanagar, Hosapete",
+      "lat": 15.2809384,
+      "lng": 76.375896,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJoRm6ZADbuTsRY3cXsAxXJok",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Door No 788/789, National Highway 50, Vijayanagara, Mariyammanahalli",
+      "lat": 15.1480701,
+      "lng": 76.35968009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJax-byUjVuTsRP42GAt2p3z8",
+      "name": "Bharat Petroleum, Petrol Pump -Sree Balaji Agency",
+      "address": "KAMALAPURA, BELLARY",
+      "lat": 15.2825942,
+      "lng": 76.372507,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJfySHEJzHDDkRz_Cl4cKZQzI",
+      "name": "IndianOil",
+      "address": "Sy No 19/B2B & 20, L No 311, Vaddarhalli Hospet Bellary Rd, National Highway 67, Hosapete",
+      "lat": 15.238044,
+      "lng": 76.4733936,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJz8SrnTB9tzsR5oKm50iB5B0",
+      "name": "IndianOil",
+      "address": "Sy No 136/C, No 325, Papinayakanahalli Hospet Bellary Road, National Highway 67, Byluvadigeri",
+      "lat": 15.238805,
+      "lng": 76.47648219999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJE13rNq19tzsRSMnlS393VcQ",
+      "name": "JIO BP Petrol Pump",
+      "address": "6FRH+2GG, Papinayakanahall",
+      "lat": 15.2400729,
+      "lng": 76.4788293,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJHwCFIr59tzsRBA2OLYES_9k",
+      "name": "Bharat Petroleum Petrol Pump CNG , TSSE PETROLEUM",
+      "address": "SY NO 13C1A, KHATA NO 29HOSPET, TO, Ballari - Hubballi Road",
+      "lat": 15.240865,
+      "lng": 76.4956291,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqfjxP199tzsRCKcff_IWE6w",
+      "name": "Vijayakumar T",
+      "address": "Shop No 05, near PK Halli Main Road, NH 63, PH Halli, Ballari",
+      "lat": 15.241064,
+      "lng": 76.4956033,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJd1qjYavTuTsRRtjXBdAOSWw",
+      "name": "IndianOil",
+      "address": "Bhairapura Survey No 175/5, Sholapur Chitradurga Road, Hosahalli",
+      "lat": 15.3044143,
+      "lng": 76.3190013,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUQW5MwDTuTsRz5xOZ7GvM3Q",
+      "name": "VIJAYASHREE PETROLEUM",
+      "address": "Sy.No, NH-50, 175/5, Hospet Road, Hosahalli",
+      "lat": 15.3043955,
+      "lng": 76.3191398,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJK2OsylTSuTsRmzVLOwyyNVk",
+      "name": "Reliance",
+      "address": "8848+6X6, State Highway 130, Hosahalli",
+      "lat": 15.3055384,
+      "lng": 76.3174019,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZSvs1aLTuTsRyUtu8kGKEZw",
+      "name": "Aradhya Enterprises I Blue Fuel Station",
+      "address": "Shop no 1 , N H 50 Hiway, near Reliance petrol Bunk, I R B, Police sarvees road, Hosahalli",
+      "lat": 15.3061036,
+      "lng": 76.3174761,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQ_mqSrvTuTsRZOun_vtF8sU",
+      "name": "Bharat Petroleum Petrol Pump , H R S PETROLEUM",
+      "address": "SY NO 188/2, HOSAHALLIAT POST, Hosahalli",
+      "lat": 15.308268,
+      "lng": 76.31539699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJISAhlv_SuTsRYnggZW9Oo6s",
+      "name": "IndianOil",
+      "address": "Ground Floor NH15, Cross, Hitnal",
+      "lat": 15.3110282,
+      "lng": 76.31539240000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjyt2QADTuTsRL5bS_LpBtRc",
+      "name": "ಯಲಮಂಚಿರಿ ಪೆಟ್ರೋಲ ಪಂಪ ಮುನಿರಬಾದ",
+      "address": "882Q+X3V, Munirabad Rural",
+      "lat": 15.3024752,
+      "lng": 76.33767859999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJKdxmzYLTuTsRH2R7cioRI88",
+      "name": "SANVI PETROL PUMP",
+      "address": "Hanumanahalli - Kotturu - Joladakudligi Road, Huligi",
+      "lat": 15.304434,
+      "lng": 76.3372933,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuSebHHZbpTsR97SoYQ0UL7k",
+      "name": "IndianOil",
+      "address": "Survey No 233/3, Mudlapur, Huligi - Gangavathi Road, Agalkera",
+      "lat": 15.3056211,
+      "lng": 76.3416441,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe3f2okLTuTsRgkSakEMCR1k",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 50, Hitnal",
+      "lat": 15.3201179,
+      "lng": 76.31090879999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJv5bjl1jNuTsR_QNBLv_MlJ8",
+      "name": "IndianOil",
+      "address": "Survey No 15, 678 & 9, National Highway 67, Kanakapur",
+      "lat": 15.3370538,
+      "lng": 76.2702434,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtTOeq3DTuTsRho3fGbvgacY",
+      "name": "IndianOil",
+      "address": "Survey No 312, Chikkajogihalli, Bannikal",
+      "lat": 15.345258,
+      "lng": 76.34732,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNdhC-ZzNuTsRBvJPGFpBl-E",
+      "name": "Bharat Petroleum, Petrol Pump -Sri Mahima Agencies",
+      "address": "GINIGERA,NH - 63,KOPPAL, Koppal",
+      "lat": 15.339257,
+      "lng": 76.2673768,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBQhhfvfVuTsRuSDPos-ZTwk",
+      "name": "IndianOil",
+      "address": "4 & 42/5, Survey No 42, Kondanayakanahalli, Ananthashayanagudi, Hosapete",
+      "lat": 15.2812951,
+      "lng": 76.4180136,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL8n-vm_VuTsRaWLrLLEkK4s",
+      "name": "Sri Hanuman petroleums IndianOil",
+      "address": "State Highway 49, Hosapete",
+      "lat": 15.2811681,
+      "lng": 76.4192681,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwVV1mprVuTsRK5285LIE6AM",
+      "name": "Hussena Concrete",
+      "address": "Hampi Road, Malapnagudi, Hosapete",
+      "lat": 15.2860745,
+      "lng": 76.4303559,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJb9xaaDd-tzsRTmpWxo-2tcs",
+      "name": "Bharat Petroleum",
+      "address": "HOSPET-KAMPLI, ROAD, Kamalapur",
+      "lat": 15.3089219,
+      "lng": 76.475246,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhV-WwLB_tzsRLkaLeYqc-qY",
+      "name": "Sri Balaji Agencies",
+      "address": "Kampli Road, Kamalapur",
+      "lat": 15.3088833,
+      "lng": 76.4752219,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJi8Y4tCctuDsR2OJAyB7tnss",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "S No 39 & 42, National Highway 50, Karehalli, Ginigera",
+      "lat": 15.3685751,
+      "lng": 76.3146606,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkR31PhstuDsRJn0rSjX-3_M",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Gangavathi Road, Budugumpa",
+      "lat": 15.3884183,
+      "lng": 76.30970169999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5fZ77gUtuDsRMXd_WF1yOm4",
+      "name": "IndianOil",
+      "address": "Ground Floor, Budugumpa Cross",
+      "lat": 15.3939617,
+      "lng": 76.30649389999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJN45belrNuTsRtkVReRct-80",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 67, Kanakapur",
+      "lat": 15.3402683,
+      "lng": 76.2630032,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJD9egfknNuTsRW5sBkKQPWiU",
+      "name": "IndianOil",
+      "address": "opposite Kalyani Steels Ltd, Ground Floor Ginigera, NH 63, opposite Kalyani Steels Ltd, Budugumpa",
+      "lat": 15.3442978,
+      "lng": 76.25575769999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJ6rmWSYtuDsRGwkrihL4Vls",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 50, Kerihalli",
+      "lat": 15.3719978,
+      "lng": 76.3127588,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEcwh9vMtuDsRBtBhfPFmGbs",
+      "name": "Nayara Energy Nagoji Filling Station",
+      "address": "Gingera Road, Guldahalli",
+      "lat": 15.3605727,
+      "lng": 76.2739137,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ03LwJ6oyuDsR6jevhTZLbXI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Ginigera",
+      "lat": 15.358392,
+      "lng": 76.268512,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYX4Bg1kzuDsRDgdryVL0NjE",
+      "name": "Bharat Petroleum, Petrol Pump -Sapthagiri Petroleums",
+      "address": "GINIGERA BUDIGUMPA, KOPPAL, Koppal",
+      "lat": 15.3569572,
+      "lng": 76.2661188,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx39ZhzjNuTsRinSGQ9LsX5U",
+      "name": "GANGA PETROLEUMS",
+      "address": "BAGANAL ROAD TQ, DIST, Ginigera",
+      "lat": 15.3443152,
+      "lng": 76.2462798,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbbgKM4V_tzsRAwsX523HQO0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Anegundi",
+      "lat": 15.355658,
+      "lng": 76.492736,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_9OPJg6BtzsRSjnfz9FWSOM",
+      "name": "Kalyan Petroleums (Bharat Petroleum)",
+      "address": "Door No 887, Sangapur Village, Sangapur, Tq, Gangavathi",
+      "lat": 15.3897326,
+      "lng": 76.5168556,
+      "open_now": true
+    }
+  ]
+}

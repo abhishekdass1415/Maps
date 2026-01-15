@@ -1,0 +1,2443 @@
+{
+  "city": "Jaipur",
+  "state": "Rajasthan",
+  "count": 304,
+  "center": {
+    "lat": 26.9124,
+    "lng": 75.7873
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJdWouoiNLbDkR7UNW6X8zsjQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 48, Bagru, Jaipur - Jodhpur National Highway, Bhakrota, Jaipur",
+      "lat": 26.8726606,
+      "lng": 75.7016634,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJa7lDcpvKbTkR06TPcdhMuCk",
+      "name": "IndianOil",
+      "address": "Mandi, Brahman Ki Thadi Road, Sukhia, Muhana",
+      "lat": 26.814573,
+      "lng": 75.746468,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKTqu57jKbTkRf54kfsdb3QQ",
+      "name": "Shiva Filling Station",
+      "address": "Guru Maharaj ke samne, Near by main Bus Stand Muhana, Jaipur",
+      "lat": 26.7990966,
+      "lng": 75.72968879999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBShrRI-1bTkRU--ouAkwLps",
+      "name": "IndianOil",
+      "address": "RIICO Industrial Area, Mansarovar, Jaipur",
+      "lat": 26.830901,
+      "lng": 75.773201,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSVNkqvLKbTkRZ1PIZhUFyMM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Muhana Road, Keshyawala",
+      "lat": 26.7982782,
+      "lng": 75.7488152,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbxRqcle0bTkRXB3PKkI67qs",
+      "name": "IBP Petrol Pump",
+      "address": "NH 8, Bypass Rd, Shanthi Nagar, Mansarovar, Jaipur",
+      "lat": 26.8797397,
+      "lng": 75.7639599,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_YAm2761bTkR9MtpBvAir6M",
+      "name": "IndianOil",
+      "address": "No 4243, near Maharani Farm, Prithviraj Nagar, Durgapura, Jaipur",
+      "lat": 26.85269899999999,
+      "lng": 75.780098,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJd8ah40y0bTkRROz7pr4N-kg",
+      "name": "IndianOil",
+      "address": "Gopalpura Bypass Road, Mansarovar, Jaipur",
+      "lat": 26.872401,
+      "lng": 75.77510099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ96_ZNf9scjkRdY8G4d2OjQM",
+      "name": "Devashree Collection",
+      "address": "Elements Mall, Shop No.219, Second, Ajmer Road, Near, DCM, Jaipur",
+      "lat": 26.8953752,
+      "lng": 75.7483757,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhZZoMrW1bTkR5ZUKBFOT8gE",
+      "name": "IndianOil",
+      "address": "Ground Floor, Gopalpura Bypass Road, Jaipur",
+      "lat": 26.871001,
+      "lng": 75.781601,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzwWih0lKbDkRLJKs1Kek-bM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Jaipur Ajmer Road NH 48, Bagru, Ramchandpura",
+      "lat": 26.8523868,
+      "lng": 75.6461622,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6X_MWZw1bDkR2lwF11SD9es",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Khasra No 515/2, C/2, Sanganer, Neota",
+      "lat": 26.7985309,
+      "lng": 75.6640931,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUfL1Z_C1bTkRbUK-AII_ZoQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Tonk Road, Taru Chhaya Nagar, Jaipur",
+      "lat": 26.835971,
+      "lng": 75.79327099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-2_NVoS0bTkRe7ggrNhURnk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near Durga Marg, 7 & 8, Gandhi Path Road, Guru Jambeshwar Nagar, Jaipur",
+      "lat": 26.9061701,
+      "lng": 75.7520401,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-a7yVgC1bTkRc0zCD78AZ-I",
+      "name": "Banskhuwa filling station (Indian Oil Petroleum)",
+      "address": "VP5G+339, Narayan Vihar, Jaipur",
+      "lat": 26.8570165,
+      "lng": 75.7254422,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJI654LQC1bTkRHuchUSPFQzE",
+      "name": "SHREE SANWARIYA FILLING STATION INDIAN OIL",
+      "address": "200 ft road, Vande Mataram Marg, Manyawas, Jaipur",
+      "lat": 26.852793,
+      "lng": 75.7380392,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJG4ktTAC1bTkRVIoaNptjVqM",
+      "name": "Nayara Petrol Pump",
+      "address": "VP4P+H5M, Narayan Vihar, Jaipur",
+      "lat": 26.8568535,
+      "lng": 75.73508439999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4QDI5F5LbDkRIX2vLbd4aGw",
+      "name": "IndianOil",
+      "address": "Sanganer, Peepla Bharatsingh",
+      "lat": 26.8271874,
+      "lng": 75.6978015,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsZuGdfS1bTkRhTCE5rhhvP0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Plot No 1, Patrakar Col Marg, Goliyawas, Anand Vihar B, Sanganer, Mansarovar, Jaipur",
+      "lat": 26.8438315,
+      "lng": 75.7485873,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg1Lep0K1bTkRRz1mFVqQ1vo",
+      "name": "Sanjay Bairwa HP",
+      "address": "Shop No 2, Mansarovar, Jaipur",
+      "lat": 26.8441498,
+      "lng": 75.7486078,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZdotHAC1bTkRDbQE5256Kqg",
+      "name": "Ganga Filling Station",
+      "address": "opposite Rajat path, G, Mangyawas Road, opposite Rajat path, Monika Vihar 2 Road, Mansarovar, Jaipur",
+      "lat": 26.8633395,
+      "lng": 75.7436745,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_WWvdQC1bTkRgxY4NJFWDr4",
+      "name": "NAYARA PETRO PUMP",
+      "address": "87, SC Road, Govind Nagar, Manyawas, Jaipur",
+      "lat": 26.8714618,
+      "lng": 75.7318866,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcTuMXJO1bTkRuurVCvC-C5E",
+      "name": "Torrent CNG Station",
+      "address": "RQX2+9XR, Patrakar Colony Road, Mansarovar, Jaipur",
+      "lat": 26.8484815,
+      "lng": 75.7523886,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJf9YjatK0bTkRhjASrPzSpeo",
+      "name": "BABA RAMDEV OIL COMPANY",
+      "address": "India",
+      "lat": 26.87490949999999,
+      "lng": 75.71791,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJJbzHSgC1bTkRE7aIpeD1u2Q",
+      "name": "Bharat gas petrol",
+      "address": "VPFH+V7Q, Narayan Vihar, Jaipur",
+      "lat": 26.87470759999999,
+      "lng": 75.7282421,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJk-TpAAC1bTkRxqGCKPBYNcA",
+      "name": "Bharat Petroleum Pump",
+      "address": "VP9R+V6Q, Manyawas, Jaipur",
+      "lat": 26.8697005,
+      "lng": 75.74060460000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ0fEpKAC1bTkRN9soF7_shxM",
+      "name": "Ratan",
+      "address": "136, Iskcon Road, Ganesh Nagar, Radha kunj, Dholai, Jaipur",
+      "lat": 26.8365052,
+      "lng": 75.7553238,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJg13O6Xu1bTkRMqreFlS-2qY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Plot No 60 & 61, Iskcon Road, Sanganer, Jaipur",
+      "lat": 26.8294023,
+      "lng": 75.75376039999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJi0x6MqFLbDkR45f4lm9Lc2g",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 48, Bhakrota, Jaipur",
+      "lat": 26.868644,
+      "lng": 75.691024,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzyeymCpLbDkRDcIZYW0FgE4",
+      "name": "Krishna Indian oil petrol pump",
+      "address": "Village-Mahapura, On, Jaipur Ring Road, Jaipur",
+      "lat": 26.8478753,
+      "lng": 75.67763819999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNc61iSFLbDkRYr0KgHV50cM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Ring Rd, Bhambhoria, Mahapura",
+      "lat": 26.8479371,
+      "lng": 75.6773384,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe_wtxILKbTkRPNBQdlkDmhI",
+      "name": "KESAR NAGAR Bharat Petroleum PETROL STATION",
+      "address": "RP9X+VX8, Kankha Ki Dhani, Barhmohanpura",
+      "lat": 26.8200828,
+      "lng": 75.74983329999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJpwKTYABLbDkRsx9zDEwBr7o",
+      "name": "Rupbas",
+      "address": "VM7M+VR7, Bhakrota, Jaipur",
+      "lat": 26.8646639,
+      "lng": 75.6845355,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJE45nfwC1bTkRobFRNTzW_V0",
+      "name": "Traffic police van",
+      "address": "27, Shakti Nagar Road, Gajsinghpur, Jaipur",
+      "lat": 26.87855889999999,
+      "lng": 75.7261779,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJvXDhHxxLbDkRLFw_Uog4ROQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Powere Grid, NH 8, Ajmer Road, Bhakrota, Jaipur",
+      "lat": 26.8657558,
+      "lng": 75.684753,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ90zw_2RLbDkRnGJbq6OOff8",
+      "name": "Shree Raghunath CNG filling station",
+      "address": "Ajmer Road ,Bhankrota , Jaipur Ajmer, highway, Jaipur",
+      "lat": 26.8671255,
+      "lng": 75.6856644,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKYKFAG61bTkR4M1BfpN8zfE",
+      "name": "IndianOil",
+      "address": "Heera Path, New, New Sanganer Road, Mansarovar Sector 6, Jaipur",
+      "lat": 26.860001,
+      "lng": 75.755898,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJr4djY9u1bTkRFJQzf2uTIP4",
+      "name": "Mahboob Khan",
+      "address": "Ansalm School, Shop no.40 heera path shopping center new sanganer road mansarover jaipur, Heera Path, h St, Mansarovar, Jaipur",
+      "lat": 26.8598371,
+      "lng": 75.7561736,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ0f_cH-lLbDkRIWtCQYmZ0xQ",
+      "name": "Nayara Petrol Pump",
+      "address": "VM8J+8RG, National Highway 48, Bhakrota, Jaipur",
+      "lat": 26.8655208,
+      "lng": 75.681863,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2yAyUHBLbDkR5Rqf01bI9Bw",
+      "name": "IndianOil",
+      "address": "Pintu filling center, near bhankrota, NH-48, Ajmer Road, choraha",
+      "lat": 26.8646568,
+      "lng": 75.6811594,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWQp71z5LbDkRadn0E3E0PrA",
+      "name": "Bharat Petroleum",
+      "address": "VM5H+R35, Unnamed Road",
+      "lat": 26.859506,
+      "lng": 75.67774419999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC_QjQ6e1bTkRU5QcMQAF5RU",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 26.8531015,
+      "lng": 75.76120209999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJSY7bXgm1bTkR_O5y2MJrxbA",
+      "name": "Shri Dadu Dayal Filling Station BPCL",
+      "address": "VQ36+6G6, New Sanganer Road, Ward 27, Sunder Nagar, Jaipur",
+      "lat": 26.8530397,
+      "lng": 75.7612567,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNxoVJwC1bTkRJXO7OnlC_E8",
+      "name": "HP petrol pump",
+      "address": "RQW7+MHG, New sanganer road, Vijay Path, model town, Mansarovar, Jaipur",
+      "lat": 26.8466976,
+      "lng": 75.76396609999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJoyt3e521bTkR3TpME8gK7fA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "4, 5, 27, Plot No 3, New Sanganer Road, Jaipur",
+      "lat": 26.8467806,
+      "lng": 75.76418699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJr6_4sgG1bTkRaNoEDKijeto",
+      "name": "सिद्धी विनायक कम्यूनिकेशन",
+      "address": "G D Towers, 67, Madhyam Marg, Kiran Path, Mansarovar, Jaipur",
+      "lat": 26.8667551,
+      "lng": 75.7573196,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ4UlL_Sg2bDkRzojx55umeRw",
+      "name": "IndianOil",
+      "address": "Ground Floor, Mahapura Road, Chirota, Kalwara, Bhamod",
+      "lat": 26.84564009999999,
+      "lng": 75.6678137,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ01Q-uCm1bTkRBaZROVszz20",
+      "name": "IndianOil",
+      "address": "VT Road, Mansarovar, Jaipur",
+      "lat": 26.861401,
+      "lng": 75.764603,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzyy1Yme1bTkRwgdu0C5TghY",
+      "name": "Torrent Gas CNG Station",
+      "address": "6-56, Sector 2, Hans Vihar, Mansarovar Sector 6, Mansarovar, Jaipur",
+      "lat": 26.8358827,
+      "lng": 75.7689602,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJa8XW1Na1bTkRMJAs5WxAlqg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, New Sanganer Road, Mansarovar, Jaipur",
+      "lat": 26.8357018,
+      "lng": 75.7692146,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl2B7uoa1bTkRNtj_R3tNGlE",
+      "name": "IndianOil",
+      "address": "A1A2, Plot No, Badarwas, Vardhman Nagar, Jaipur",
+      "lat": 26.8872431,
+      "lng": 75.73492209999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOZbOcgBLbDkRmj1EkHPb1_8",
+      "name": "Bharat Petroleum भारत पेट्रोलियम",
+      "address": "VM6F+F44, Kalwar Rd, Gopal Pura Mode, Jaipur",
+      "lat": 26.8610546,
+      "lng": 75.6679636,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9_eQy6pLbDkR1j48_S2vLu0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 48, near Pink Pearl Water Park, Bagru, Jaipur - Kishangarh Expressway, Narsinghpura, Jaipur",
+      "lat": 26.85971229999999,
+      "lng": 75.6662351,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_VsFYz7LbTkR8v54PkhaLt8",
+      "name": "Bharat Petroleum, Petrol Pump -Sameer Commission Agency",
+      "address": "MUHANA JAIPUR, Jaipur",
+      "lat": 26.7986141,
+      "lng": 75.7422149,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAfyWlWXLbTkRYF8mZvz4vdc",
+      "name": "Shree Shyam Indian Oil",
+      "address": "near Nevta Road, Ring road, puliya, Sanganer, Muhana",
+      "lat": 26.7928958,
+      "lng": 75.7142267,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2bymoN21bTkR3HdScZhu9vI",
+      "name": "Sunder Indian Oil (Riico Kanta)",
+      "address": "G-1/120, RIICO Industrial Area, Mansarovar, Jaipur",
+      "lat": 26.8310019,
+      "lng": 75.7734102,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8UNSmFK1bTkR5th6rcJP684",
+      "name": "Petrol Pump",
+      "address": "502, New Sanganer Road, RIICO Industrial Area, Sanganer, Jaipur",
+      "lat": 26.8297876,
+      "lng": 75.77361739999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJV2dXTAC1bTkROuD6vLfpkZs",
+      "name": "Petrol pump",
+      "address": "VQJ4+FCJ, Pandit TN Mishra Marg, Shiv Shakti Nagar, Brijlalpura, Jaipur",
+      "lat": 26.8811627,
+      "lng": 75.7559773,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJLZezIwC1bTkR2iSD-rRhKkQ",
+      "name": "गंगा जमुना पेट्रोल पंप",
+      "address": "VQH5+X65, Mansarovar, Jaipur",
+      "lat": 26.8798858,
+      "lng": 75.7581048,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ1T-ppBm1bTkR_IjduTp0hkQ",
+      "name": "IndianOil",
+      "address": "Ganga Jamuna Chauraha, New Atish Martket, Brijalpura, Gopal Pura Mode, Jaipur",
+      "lat": 26.879999,
+      "lng": 75.758102,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfeHDIQi2bTkR5QTEqUVTWdM",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Jawahar Circle, Malviya Nagar, Jaipur",
+      "lat": 26.840901,
+      "lng": 75.807098,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXVzllNG1bTkRy58i5GxdMJk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Kamal & Co, Tonk Road, Jaipur",
+      "lat": 26.8658301,
+      "lng": 75.7969201,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgXXqFma0bTkRqRcKPxHBapY",
+      "name": "Bharat Petroleum, Petrol Pump -Sharma Brothers",
+      "address": "opp. GLASS FCTRY, Jaipur",
+      "lat": 26.868792,
+      "lng": 75.7966091,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9XFns3e2bTkR_h3QkfhF3YI",
+      "name": "Ajit Service Station",
+      "address": "Near Power House, Calgiri Marg, Naya Bass, Jhalana Gram, Malviya Nagar, Jaipur",
+      "lat": 26.859699,
+      "lng": 75.808756,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJefovQJq3bTkRBdnq6OIMCVE",
+      "name": "Reliance Petroleum",
+      "address": "Ground Floor, Nabard Tiraha, Chakdhula, Sanganer, Jaipur",
+      "lat": 26.8501891,
+      "lng": 75.8258962,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIdM4ZHPKbTkR0np-YENcYQs",
+      "name": "IndianOil",
+      "address": "Sanganer chaudreya petrol pump, Sanganer, Jaipur",
+      "lat": 26.8094431,
+      "lng": 75.80608029999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpXTyzNK1bTkR-Zi56cP6FKc",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Railway Over Bridge, Tonk Road, Jaipur",
+      "lat": 26.8800052,
+      "lng": 75.789131,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ880irIvJbTkRgdmMd9BnkD0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Sanganer, Sector 8, Pratap Nagar, Jaipur",
+      "lat": 26.801641,
+      "lng": 75.81060099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGzW-viK1bTkRbBionJeYNIo",
+      "name": "Bharat Petrol and CNG Pump - SARAF BROTHERS",
+      "address": "Tonk Road, Lalkothi, Jaipur",
+      "lat": 26.8892163,
+      "lng": 75.80434199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4Vucxh_KbTkRPwFU9TzbWHs",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bheru Circle, Sector 18, Pratap Nagar, Jaipur",
+      "lat": 26.8022088,
+      "lng": 75.8262451,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWwMQmZ-2bTkR0lkDnV3wxuQ",
+      "name": "IndianOil",
+      "address": "Rambagh Road, Tonk Road, Jaipur",
+      "lat": 26.897401,
+      "lng": 75.811096,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqxgRRhO0bTkRxCbAjfpJIpM",
+      "name": "IndianOil",
+      "address": "Plot.No. 2 & 3, Geejgarh Vihar Main Road, Hawa Sadak Road, Bais Godam, Jaipur",
+      "lat": 26.9014749,
+      "lng": 75.784436,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx73cm2W0bTkRnbYSsp3zl_A",
+      "name": "IndianOil",
+      "address": "Sodala, Jaipur",
+      "lat": 26.9013939,
+      "lng": 75.7708961,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJD4rV2JS2bTkRnDoZoIwJ_lE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Govind Marg, Adarsh Nagar, Jaipur",
+      "lat": 26.8960801,
+      "lng": 75.8290801,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlcR4TOm2bTkRUym6mT2fDPM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Commercial Centre, Jawahar Nagar, Jaipur",
+      "lat": 26.8944401,
+      "lng": 75.83702009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2_CynAy0bTkRgV9aKZ2kSSg",
+      "name": "MS HSD Auto Care Center Ajmer Road",
+      "address": "Barwala House Ajmer Road Jaipur, Jaipur",
+      "lat": 26.911508,
+      "lng": 75.7862626,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2StN2XXJbTkRQJhm30sYSyA",
+      "name": "BP Sanganer COCO CNG pump",
+      "address": "2, Tonk Rd, Shatabdi Nagar, Govardhan Nagar, Jpr, Sanganer, Bambala, Jaipur",
+      "lat": 26.781549,
+      "lng": 75.8246719,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtdRhrKe1bTkR-sF1Yahx3P0",
+      "name": "CNG Filling Station",
+      "address": "1,2,3, near SBI bank, 4, Tonk Road, Durgapura, Jaipur",
+      "lat": 26.8459444,
+      "lng": 75.79346269999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHdlS5he1bTkRh79bwOTVKnY",
+      "name": "IndianOil",
+      "address": "Infront of Sector 11, Mansarovar, Sector 14, Durgapura, Jaipur",
+      "lat": 26.845651,
+      "lng": 75.77731299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZRxCLwC1bTkRnbSOFKegnS8",
+      "name": "KOMAL INDIAN OIL",
+      "address": "Gudha Katla, Bandikui Road, tehsil, Baswa",
+      "lat": 26.855786,
+      "lng": 75.785922,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJh41pOky1bTkRAXP-G9GELBA",
+      "name": "INDIAN OIL AND GAS",
+      "address": "near Indian Oil Jaipur, Mahavir Nagar, Durgapura, Jaipur",
+      "lat": 26.8573416,
+      "lng": 75.78656769999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJCQnVPyC1bTkRew9Ifr9lugk",
+      "name": "Jakar Petrol Pump",
+      "address": "Mahavir Nagar Durgapura Jaipur Rajasthan 302018 Mahavir Nagar Durgapura Jaipur Raj 302018, Jaipur",
+      "lat": 26.8573416,
+      "lng": 75.78656769999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ_RQbRMG1bTkRUEroeDHMqE4",
+      "name": "Reliance Petrol Pump",
+      "address": "Over Had Tank, Mahaveer Nagar, Durgapura, Jaipur",
+      "lat": 26.8573418,
+      "lng": 75.78656769999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ4cjtQgq2bTkRxX-jWsT9auE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Sector 9, Malviya Nagar, Jaipur",
+      "lat": 26.84720099999999,
+      "lng": 75.808471,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-8X9HgC1bTkRp5zt3bLgo6M",
+      "name": "COCC Land Tonk Road",
+      "address": "A10, Tonk Road, Muktanand Nagar, Durgapura, Jaipur",
+      "lat": 26.862009,
+      "lng": 75.7956202,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ0yA83GHLbTkRRRnZEFgwLnY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Sanganer Airport, Sanganer, Jaipur",
+      "lat": 26.8184101,
+      "lng": 75.797901,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOSmIqgXKbTkR6yNmvwyXtT0",
+      "name": "Gogia Petrol Pump",
+      "address": "RQ9X+83Q, Shiv Nagar, Jaipur",
+      "lat": 26.8183345,
+      "lng": 75.7977382,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQa6okYS3bTkRycVuyxpZEwk",
+      "name": "Agarwal Tiles & Sanitarywares",
+      "address": "Sawai Gator, Jagatpura, Jaipur",
+      "lat": 26.8337259,
+      "lng": 75.8152284,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJV_KwdM61bTkR91Xi_x4mdlU",
+      "name": "Atharv Bharatgas",
+      "address": "23, Van Vihar, Tonk Phatak, Jaipur",
+      "lat": 26.870626,
+      "lng": 75.78858,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ14_nxsq1bTkRAAAA0L78kVY",
+      "name": "T C Company Ltd",
+      "address": "77, Gopalpura Road, Gopal Pura Mode, Jaipur",
+      "lat": 26.8706368,
+      "lng": 75.7853312,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJldmDAKG1bTkRQfuYN-RqbvA",
+      "name": "IndianOil",
+      "address": "Sh Shyam Ratan Maheshwari, Jawahar Lal Nehru Marg, Malviya Nagar, Jaipur",
+      "lat": 26.865201,
+      "lng": 75.80670099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEYcUXBvKbTkRKoy9UBqCq70",
+      "name": "Indian Oil Petrol Pump",
+      "address": "31-32, Tonk Road, Tulsi Nagar, Sanganer, Shiv Nagar, Jaipur",
+      "lat": 26.8143922,
+      "lng": 75.80065300000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ8_egSTe1bTkROubTLwhkf_w",
+      "name": "Dev Jayaswal Gatta",
+      "address": "64B, Sawai Mansingh Road, Hari Marg, Mansingh Pura, Tonk Phatak, Jaipur",
+      "lat": 26.8721335,
+      "lng": 75.797198,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJV29UHhm1bTkR7eCUf2K8m1Y",
+      "name": "Gangotri BPCL Bharat Petroleum",
+      "address": "Surya Nagar, Gopal Pura Mode, Jaipur",
+      "lat": 26.87263119999999,
+      "lng": 75.7786787,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUcZbydK1bTkRSzO7qvAEF0U",
+      "name": "मगन लाल एण्ड सन्स",
+      "address": "India",
+      "lat": 26.8724324,
+      "lng": 75.7970402,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJq-pwDCm3bTkRrmsQMSt0_5s",
+      "name": "Gas and gas stove Service centre",
+      "address": "RR73+H9Q, near 7no junction, Jagatpura, Jaipur",
+      "lat": 26.8139745,
+      "lng": 75.8034921,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmwwVcQC1bTkRMgO5O9rPMqc",
+      "name": "प्रदुशन जाँच केंद्र",
+      "address": "Ridhi Sidhi Circle, Surya Nagar, Gopal Pura Mode, Jaipur",
+      "lat": 26.8736687,
+      "lng": 75.7765434,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJO6Qb0E3IbTkRftMrLedIsyE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Central spine, opposite Akshaya Patra Temple, Jagatpura, Jaipur",
+      "lat": 26.80066159999999,
+      "lng": 75.85867499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvwgWbuDHbTkRvgUrR-M1eOM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Goner Road, Dantli",
+      "lat": 26.815061,
+      "lng": 75.90177100000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNyvdaRm3bTkRG9dtgWMCB10",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, 2/5 Mile, Agra Road, Ghat Ki Guni, Jaipur",
+      "lat": 26.897638,
+      "lng": 75.86056680000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTffJdtu2bTkRz9aAsobXoWE",
+      "name": "Bharat Petroleum Corporation Ltd.",
+      "address": "A-7, Transport Nagar, Jaipur",
+      "lat": 26.9016793,
+      "lng": 75.8437525,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIT9aZVq_bTkRX7BMU0ovxC0",
+      "name": "IndianOil",
+      "address": "Meena, Ground Floor Agra Road, National Highway 11, Boorthal, Jaipur",
+      "lat": 26.881732,
+      "lng": 75.908801,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJN1ueet22bTkRTw93tq2BOOc",
+      "name": "Bharat Petroleum, Petrol Pump -Satyam Filling Station",
+      "address": "near Transport Nagar, 248, National Highway, Jawahar Nagar, RSRTC",
+      "lat": 26.9014088,
+      "lng": 75.84399309999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJw-8F8grJbTkRc_TvTMsfqFQ",
+      "name": "oppo",
+      "address": "QRJJ+XW9, Sitapura Industrial Area, Sitapura, Jaipur",
+      "lat": 26.7824113,
+      "lng": 75.8323587,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTaMl0-q2bTkRF76_JEDV9OA",
+      "name": "IndianOil",
+      "address": "6/C, Govind Marg, Adarsh Nagar, Jaipur",
+      "lat": 26.904601,
+      "lng": 75.838501,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnV95p9y2bTkRbgdXAGauaUU",
+      "name": "IndianOil",
+      "address": "Agra Road, Transport Nagar, Jaipur",
+      "lat": 26.906099,
+      "lng": 75.842598,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg7TZjtu2bTkRyUzuKBBFnCI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Truck Stand, Agra-Jaipur Road, Jaipur",
+      "lat": 26.907001,
+      "lng": 75.845601,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkb7NLCu2bTkRxWtf0dfbpvg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Kh No 411/115 & 413/107, Todiraj, Sanganer, Jagatpura, Jaipur",
+      "lat": 26.835893,
+      "lng": 75.85340699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVWFXHwDJbTkRqoEh19aD974",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Chak Karol, Jagatpura, Jaipur",
+      "lat": 26.823561,
+      "lng": 75.876575,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmVPCm6TJbTkRWe44K0Klolw",
+      "name": "Bharat Petroleum, Petrol Pump -G Lal Petro Point",
+      "address": "RAMNAGARIA, JAIPUR CITY, Jaipur",
+      "lat": 26.8172874,
+      "lng": 75.8632947,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbXfIlna3bTkROB8Gf1mHJPo",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Apex Circle, Malviya Nagar, Jaipur",
+      "lat": 26.8528598,
+      "lng": 75.8242958,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJp0-Nroi3bTkRVH1iiZvQrwE",
+      "name": "IndianOil",
+      "address": "Goner Road, Luniyawas, Jaipur",
+      "lat": 26.871201,
+      "lng": 75.88559699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJh6_cV0e3bTkRjUEUe7bNMOw",
+      "name": "ges meena padli",
+      "address": "Shree Ram Nagar Colony, near the Oberoi Raj Vilas hotel, 56-57, Goner Road, Kareem Nagar Vistar, Jaipur",
+      "lat": 26.8730217,
+      "lng": 75.883465,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJt_cDTeHJbTkRLA5h_baP6cI",
+      "name": "Bharat petroleum pump coco",
+      "address": "B-C-43 Central Spine, Jagatpura, Jaipur",
+      "lat": 26.8033116,
+      "lng": 75.8597625,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJUE4PgDJbTkRNEJF-sOd388",
+      "name": "Ashoka Fuel Station (Indian Oil)",
+      "address": "RV7P+6RC, Seesyawas",
+      "lat": 26.8130711,
+      "lng": 75.8870084,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy2y2pb7JbTkRNwN5WQWKokg",
+      "name": "IndianOil",
+      "address": "Shri Ram Vihar Mahal, Rana Sanga Marg, Sanganer, Jaipur",
+      "lat": 26.80162299999999,
+      "lng": 75.850111,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdTNaIwDJbTkRGhfPwIZFTus",
+      "name": "Vgu Kotha",
+      "address": "RV6R+R8R, V I T Campus, Karolan Ka Barh, Jaipur",
+      "lat": 26.81210309999999,
+      "lng": 75.89075679999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ3XKJ_GK2bTkRetWDqdZqWAQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Doordarshan, Jhalana Doongri, Jaipur",
+      "lat": 26.872701,
+      "lng": 75.820801,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDRzhr3HIbTkRNycubx6dG7M",
+      "name": "IndianOil",
+      "address": "Khasra No 1148, 12, Jagatpura, Murlipur, Sanganer, Jaipur",
+      "lat": 26.805248,
+      "lng": 75.88975909999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIYdJFwC3bTkRTdpoJ5NbHsE",
+      "name": "Petrol pump",
+      "address": "VVGV+9Q5, Paldi Meena, Jaipur",
+      "lat": 26.875888,
+      "lng": 75.8944963,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJg1Ta4VHJbTkRyjNpwzaiojA",
+      "name": "Bharat Petroleum",
+      "address": "RR59+2GM, H-33, Haldighati Marg, Pratap Nagar, Sanganer, Pratap Nagar, Jaipur",
+      "lat": 26.8069218,
+      "lng": 75.81897219999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTUK_qA23bTkRLNKGXZrwQPk",
+      "name": "PATEL POWER STATION",
+      "address": "India",
+      "lat": 26.8898768,
+      "lng": 75.8734388,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJARpMThm3bTkRbyRFvQ8sumA",
+      "name": "an Petroleum",
+      "address": "GajatPura Baaipaas, Jaipur NH-11, Agra Road, Jaipur",
+      "lat": 26.8908902,
+      "lng": 75.8709263,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ8ZueU0W3bTkR8sddOB3XsS4",
+      "name": "Cng station",
+      "address": "near Choolgari Mandir, 2, Agra Road, Chetak Vihar Colony, New Khandelwal Nagar, Jaipur",
+      "lat": 26.8925818,
+      "lng": 75.86710339999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJWTowOBC3bTkRic9HSwsIODM",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 26.8927837,
+      "lng": 75.8671444,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJxdSOOXLJbTkRDoP9UxmoVyE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near Nilay Kunj Garden, No NC16 & NC17, near Nilay Kunj Garden, Karolan Ka Barh, Jaipur",
+      "lat": 26.8059548,
+      "lng": 75.8997129,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ12Kt4NjHbTkRRa4H4qcdTrA",
+      "name": "IndianOil",
+      "address": "Goner Road, Tejaji Nagar, Jaipur",
+      "lat": 26.807199,
+      "lng": 75.902199,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1YIPTJu3bTkRMWtZCihF-4o",
+      "name": "iron metal",
+      "address": "tila no 2, Jawahar Nagar, Jaipur",
+      "lat": 26.8943768,
+      "lng": 75.8434401,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ8-8Bdl_IbTkR94R6a_5nSUI",
+      "name": "M V FUEL POINT",
+      "address": "Jeerota",
+      "lat": 26.7895838,
+      "lng": 75.8726143,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJc9kcAgDJbTkReNl7mp2SSXM",
+      "name": "kamal & company indian oil filling station",
+      "address": "67/41, Pratap Nagar, Sanganer, Sector 6, Pratap Nagar, Jaipur",
+      "lat": 26.8072446,
+      "lng": 75.8105587,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ1dvBIwC3bTkRovnzJ1dZA7g",
+      "name": "Lpg Gas jaipur",
+      "address": "VVMW+HRR, Jaipur",
+      "lat": 26.8839959,
+      "lng": 75.8970312,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJo8mVp1PJbTkRnLDJjebq48c",
+      "name": "IndianOil",
+      "address": "No C10/11, Ridhi Sidhi Enclave, Sanganer, Jeerota",
+      "lat": 26.789448,
+      "lng": 75.87246329999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJF9WZP2DIbTkRR4d7tvrrHuk",
+      "name": "MK Industries",
+      "address": "QVRH+37H, jai shing pura baas, Jirota",
+      "lat": 26.7901847,
+      "lng": 75.8782222,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJn1cuG3nHbTkRgDmOmLy4Ne8",
+      "name": "IndianOil",
+      "address": "Ground Floor Bassi, Boorthal, Jaipur",
+      "lat": 26.82438359999999,
+      "lng": 75.9166841,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpyKDAS24bTkRVZaRpuHed1w",
+      "name": "Bairwa Farming Centre",
+      "address": "Agra Road, Paldi Meena, Jaipur",
+      "lat": 26.8835077,
+      "lng": 75.9012375,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ377ue1uzbTkRB5ip7gIP3Zc",
+      "name": "Bharat Petroleum Pump",
+      "address": "Officers Campus Extension, Hanuman Nagar Extension, Anand Nagar, Jaipur",
+      "lat": 26.92106270000001,
+      "lng": 75.73087989999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJa_BeRCWzbTkR-3rBB0XvdTk",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kalwar Road, Surjeet Nagar, Khora Bisal",
+      "lat": 26.9473131,
+      "lng": 75.72650999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe_NC_BGzbTkRjA9TAi4njLc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Kalwar Road, Jhotwara, Jaipur",
+      "lat": 26.943124,
+      "lng": 75.748621,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4TKkFSezbTkRzqGaHsB_xTI",
+      "name": "Bharat Petroleum, Petrol Pump -Shyam Filling Station",
+      "address": "Ved Square, Niwaru Road, Ganesh Nagar Vistar, Harnathapura, Jhotwara, Jaipur",
+      "lat": 26.9669274,
+      "lng": 75.7212254,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm5WxCAdNbDkRH0SFnc9M2fQ",
+      "name": "Shri nathji Filling Station",
+      "address": "XM69+8XQ, Hatoj - Kalwar - Jaipur Road, Hari Om Nagar, Hathod",
+      "lat": 26.9602226,
+      "lng": 75.6694856,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtRqSVviybTkRZ3EmYn0_yz4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Topkhana GHSL, near Rameshwar Dham Colony, Murlipura Scheme, Jaipur",
+      "lat": 26.9698855,
+      "lng": 75.75793399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJzrhXouzbTkReafnfOnzYXk",
+      "name": "Balaji Petroleum Bani Park",
+      "address": "A27/12, Sawai Jai Singh Highway, Bani Park, Jaipur",
+      "lat": 26.9235272,
+      "lng": 75.7938905,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAzBZKemzbTkREti4dwPOI5g",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, opposite Space Cinema, Jhotwara Road, Shastri Nagar, Jaipur",
+      "lat": 26.93594,
+      "lng": 75.7920597,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYwTHrUa1bTkR1BJ3wxmNags",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Gandhi Path Road, Maa Hinglaj Nagar, Lalarpura, Jaipur",
+      "lat": 26.9045837,
+      "lng": 75.718704,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeeFFcye1bTkR4JYEdSbFzVc",
+      "name": "IndianOil",
+      "address": "Plot No 910 & 11, Maa Karni Nagar, Block A, Vaishali Nagar, Jaipur",
+      "lat": 26.911265,
+      "lng": 75.728751,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWd9s1V6zbTkR5sGg67ryrMA",
+      "name": "Petrol Pump -Daata Filling Station",
+      "address": "Vaishali Marg, Nemi Nagar Extension, Vaishali Nagar, Jaipur",
+      "lat": 26.9152539,
+      "lng": 75.7318852,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFRurctazbTkRL9wTKI6FzNs",
+      "name": "Indian Gas Agency",
+      "address": "Officers Campus, Jaswant Nagar, Jaipur",
+      "lat": 26.9206945,
+      "lng": 75.7346365,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJi8DAAgBNbDkRKKuEJhgulWw",
+      "name": "JIO PETROL PUMP",
+      "address": "near Balaji Hospital, 13, Sirsi Road, Roshan Nagar, B, Kanakpura, Jaipur",
+      "lat": 26.92456839999999,
+      "lng": 75.7003424,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJV-B8MZq1bTkR871QB2osICI",
+      "name": "Bhart Petroleum",
+      "address": "Man Highway, Gandhi Path Road, Acharya Vinoba Bhave Nagar, B Block, Vaishali Nagar, Jaipur",
+      "lat": 26.9067587,
+      "lng": 75.7383171,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJTY_9ju6zbTkRJMKQy5mfDIw",
+      "name": "MANJIT MOBILE POLLUTION VAN",
+      "address": "Amar Nagar C, Hanuman Nagar Extension, Jaipur",
+      "lat": 26.9293458,
+      "lng": 75.7309928,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJyR0KkhVNbDkR0aP5qdAm5Ik",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "1, 2 & 21, Plot No, Sirsi Road, Dhaka Nagar, Jaipur",
+      "lat": 26.924437,
+      "lng": 75.69802899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJj8OWA2KzbTkRl3KposnkjUU",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Amarpali Circle, Vaishali Nagar, Jaipur",
+      "lat": 26.9139436,
+      "lng": 75.7434514,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8wsmE_SzbTkR2VSpvVeYfrU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "P No 190 & 191, Sirsi Road, Officers Campus, Jaipur",
+      "lat": 26.921465,
+      "lng": 75.7418421,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkcY87pVNbDkRA4GeGm3nYYE",
+      "name": "Mama Filling Station",
+      "address": "Sirsi Road, Jaipur",
+      "lat": 26.9240149,
+      "lng": 75.692458,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJR93UFrKzbTkR1649lXUtFTs",
+      "name": "Bharat Petroleum, Petrol Pump -Vasundhara Fuels",
+      "address": "Sirsi Road, Jaipur",
+      "lat": 26.9218867,
+      "lng": 75.7499624,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJIV5VDgCzbTkRyu5jhOhHO7k",
+      "name": "CNG Station",
+      "address": "WQC2+Q2G, Parivahan Nagar, Khatipura, Jaipur",
+      "lat": 26.9219492,
+      "lng": 75.7500633,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJS9SLMTe1bTkRnvVW1n9kS5w",
+      "name": "IndianOil",
+      "address": "Ground Floor Parshavnath Colony, Ajmer Road, Jaipur",
+      "lat": 26.891689,
+      "lng": 75.743495,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ59YtdoK0bTkRmNRfQwOJBN0",
+      "name": "Jharkhand Mahadev Petrol Pump",
+      "address": "353, Vaishali Marg, D - Block, Hanuman Nagar, Jaipur",
+      "lat": 26.9141032,
+      "lng": 75.75287949999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJD9NrdIK0bTkR1G8Ipm22ys8",
+      "name": "Bharat Petroleum",
+      "address": "WQ73+M52, Queens Road, Vaishali Nagar, Jaipur",
+      "lat": 26.9141256,
+      "lng": 75.75288669999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJe_-xBwCzbTkRg1DgY60tf-c",
+      "name": "New saini vegetables & fruits",
+      "address": "WQC2+MJ2, Khatipura, Jaipur",
+      "lat": 26.9216379,
+      "lng": 75.75152969999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJOz_2n3uzbTkR4M-Lk60HUOM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Khatipura Scheme, Khatipura Road, Jaipur",
+      "lat": 26.92154009999999,
+      "lng": 75.75178009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJN6efmmRNbDkRJw2EeGU5lnc",
+      "name": "GANGA DEVI FILLING STATION ( INDIAN OIL )",
+      "address": "Sirsi Bindayaka Road, Jaipur",
+      "lat": 26.9217255,
+      "lng": 75.6823407,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY3DpH3KzbTkRFZKebsRkY-w",
+      "name": "GS Caltex",
+      "address": "WQJ2+H3R, K5C Scheme Road, Chand Bihari Nagar, Jaswant Nagar, Jaipur",
+      "lat": 26.931477,
+      "lng": 75.7501541,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ4wmWoY60bTkRHJLXDgPrC-U",
+      "name": "Bharat Petroleum, Petrol Pump -Hira Service Station",
+      "address": "VPRX+FP6, AJMER RD RHS JAIPUR, DCM, Jaipur",
+      "lat": 26.8972974,
+      "lng": 75.7532429,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVVVVFY60bTkR7jAsCb4CNJs",
+      "name": "Heera Service Station",
+      "address": "4/7, Ajmer Road, Vidyut Nagar, Vidyut Nagar, Jaipur",
+      "lat": 26.8972694,
+      "lng": 75.75328209999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzQdg6ZOzbTkRyNIGsuEBNSQ",
+      "name": "Jio-bp",
+      "address": "Ground Floor, Kalwar Road, near 200 Feet Bypass Road, Delhi Road, Jhotwara, Jaipur",
+      "lat": 26.9467384,
+      "lng": 75.7301019,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJO4WKVX2zbTkR5h9rzAC8o60",
+      "name": "INDIAN OIL AND ENGINES (KIRLOSKAR)",
+      "address": "opp. Police Choki, shop no. 4 main 200ft Bypass, opp. Police Choki, Kalwar Road, Jaipur",
+      "lat": 26.9468774,
+      "lng": 75.7318118,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJfYwHT6yzbTkR16ZtheHRo1Y",
+      "name": "Fram",
+      "address": "WPXG+9WW, Harnathapura, Jhotwara, Jaipur",
+      "lat": 26.9484776,
+      "lng": 75.7273271,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJfRcVNUqzbTkRiG6YDkAu9ZI",
+      "name": "High Tension Line",
+      "address": "WPXJ+869, Harnathapura, Jhotwara, Jaipur",
+      "lat": 26.9482779,
+      "lng": 75.7306038,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZbjbdNRMbDkRFwKRyonqmTc",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 26.9504968,
+      "lng": 75.7095868,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJb87KdNRMbDkRgneXv_1F1b4",
+      "name": "Kardhani Petrol Pump",
+      "address": "F-38, Kalwar Road, Govindpura, Jaipur",
+      "lat": 26.9506092,
+      "lng": 75.7095489,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnYvLJwyzbTkRIzRa4XpALP0",
+      "name": "Vakrangee BPCL Petrol Pump",
+      "address": "7-8-9,Ambey nagar, Kalwar Road, Jhotwara, Jaipur",
+      "lat": 26.9448773,
+      "lng": 75.741632,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP-lOJPJMbDkR2wVvh2kp8Bs",
+      "name": "SHRI KALYAN FILLING STATION",
+      "address": "Siri-Hatoj Link Road, Jaipur",
+      "lat": 26.9347634,
+      "lng": 75.6771874,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJv5bg-dizbTkR7jp-WTpnoOA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Jhotwara Flyover, Jhotwara, Jaipur",
+      "lat": 26.9386469,
+      "lng": 75.7587681,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJD94bCbazbTkRg0YOEFqN0Xs",
+      "name": "HP Petrol Pump, Khatipura Road",
+      "address": "246, Khatipura Road, Shilp Colony, Jhotwara, Jaipur",
+      "lat": 26.9388171,
+      "lng": 75.7590476,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJu85R8MG1bTkReKCvQSeEFAA",
+      "name": "Jio-bp pulse",
+      "address": "Ground Floor, Ajmer Road, Shayam Nagar, Sodala, Jaipur",
+      "lat": 26.8995495,
+      "lng": 75.76847409999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJA-5Bs2W0bTkRkRZcRfaNIwc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Ajmer Road, Sodala, Jaipur",
+      "lat": 26.9005183,
+      "lng": 75.7690016,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJE7hfwK22bTkRIqQKlqPMq6g",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Ajmeri Gate, Mirza Ismail Road, Jaipur",
+      "lat": 26.917024,
+      "lng": 75.81607799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlQQiswG0bTkRLjjqc5hC-kY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Mirza Ismail Road, Jaipur",
+      "lat": 26.916701,
+      "lng": 75.8048901,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ06d61AG0bTkRldKUGm3HKnI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, opposite Lakshmi Tower, Mirza Ismail Road, Jaipur",
+      "lat": 26.917001,
+      "lng": 75.8063301,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9aFIMba2bTkRTe4sqwadKKw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Agra Road, Sanganeri Gate, Jaipur",
+      "lat": 26.914137,
+      "lng": 75.829139,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrXpzYe-zbTkR2bOOygDVI_I",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Pital Factory, Jhotwara Road, Jaipur",
+      "lat": 26.9340834,
+      "lng": 75.7954005,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzbcsvK22bTkRvXu-KDBsCIk",
+      "name": "Bharat Petrol Pump",
+      "address": "near Ajmeri Gate, 381, Mirza Ismail Road, Pink City, Jaipur",
+      "lat": 26.9169762,
+      "lng": 75.81698639999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1cQ-6si2bTkRp2W8x2EGH6k",
+      "name": "Bharat Petroleum",
+      "address": "Agra Road, Ghat Gate, Amratpuri, Jaipur",
+      "lat": 26.9130162,
+      "lng": 75.8344408,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ88dLS8i2bTkRVD5vvr6cQQw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Ghat Gate, Agra Road, Jaipur",
+      "lat": 26.91404009999999,
+      "lng": 75.8318501,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ66QtsjexbTkR80B1DjHOFHQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Amber Road, Subhash Chowk, Jaipur",
+      "lat": 26.9314701,
+      "lng": 75.8321601,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVxw6rjexbTkROJ8Hp7MkVew",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Jorawar Singh Gate, Amer Road, Jaipur",
+      "lat": 26.9354701,
+      "lng": 75.8338201,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo9GscBqxbTkRbSwyKPjNPbE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, opposite Jalmahal, Kala Hanuman Road, Jaipur",
+      "lat": 26.9544701,
+      "lng": 75.8421401,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBcA33oC1bTkR0DRXD0aU-JE",
+      "name": "Petrol pump",
+      "address": "Jaipur",
+      "lat": 26.91228379999999,
+      "lng": 75.7875476,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJY8gn6u1bTkRCuJBj6TkeZE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Ajmer Road, C Scheme, Jaipur",
+      "lat": 26.9117382,
+      "lng": 75.7859014,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy_qaogy0bTkRFOaT--8PQQo",
+      "name": "Bpcl",
+      "address": "WQ6P+G2P, Ajmer Road, Hasanpura, Jaipur",
+      "lat": 26.9113465,
+      "lng": 75.7850756,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJKXwKvq22bTkRlneHEWyssKk",
+      "name": "Sohan Service Station",
+      "address": "Near Hotel, JAI MAHAL PALACE, Ajmer Road, Civil Lines, Jaipur",
+      "lat": 26.9114533,
+      "lng": 75.7848377,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlR_87w20bTkR6Lc_XUENxB0",
+      "name": "Shri Satchidanand Petroleums Pvt Ltd",
+      "address": "51, Civil Lines Road, Suraj Nagar East, Suraj Nagar, Civil Lines, Jaipur",
+      "lat": 26.9072878,
+      "lng": 75.7887219,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ9z8n9WG1bTkRssPe-MJ0g9g",
+      "name": "एचपी पेट्रोल पम्प - सरोगिस",
+      "address": "WQ8W+297, Government Hospital Crossing, opposite Police Commisionerate, Ajmer Road, Gopalbari, Jaipur",
+      "lat": 26.9150389,
+      "lng": 75.79593109999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJiZVAApSzbTkR9pjFwjfI2bk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Khasra No 1098, 1077, Gopalbari, Jaipur",
+      "lat": 26.920616,
+      "lng": 75.787103,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcbAzBZW1bTkRLPOfy4sXxBM",
+      "name": "R K SALES CORPORATION",
+      "address": "5, Ajmer Road, Panch Batti, Patel Colony, Hathroi, Jaipur",
+      "lat": 26.9151226,
+      "lng": 75.79705520000002,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJX58LgBe1bTkRYeMLAFtHGyU",
+      "name": "IndianOil",
+      "address": "No 60, 22, Godown Circle, Hawa Sadak, Keshav Nagar, Sodala, Kota",
+      "lat": 26.901601,
+      "lng": 75.782799,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTxsALge0bTkRfLeFP8TMrjQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, opposite Government Hostel, Gopalbari, Jaipur",
+      "lat": 26.9171401,
+      "lng": 75.8007301,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB1JvIRe0bTkRqfBfLsV78us",
+      "name": "BP COCO Petrol Pump",
+      "address": "Sahakar Marg, Bais Godam, Jaipur",
+      "lat": 26.8998955,
+      "lng": 75.7925573,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1X3_S260bTkRvr1bzln2Pl8",
+      "name": "LIBERTY",
+      "address": "India",
+      "lat": 26.9034025,
+      "lng": 75.7753709,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJCbTcl5G1bTkRBqktvv5gKeI",
+      "name": "Bharat gas Distribution",
+      "address": "WQ5C+7RQ, Janta Nagar, rakdi, Jamuna Nagar, Sodala, Jaipur",
+      "lat": 26.9082249,
+      "lng": 75.772116,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJvRsswu-1bTkRFINUc5oE14g",
+      "name": "IndianOil",
+      "address": "Ground Floor, opposite Motor Garage, Jyothi Nagar, Jaipur",
+      "lat": 26.898702,
+      "lng": 75.793803,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDdU-NQK0bTkR4-USXCqI3fY",
+      "name": "Energy Efficiency Service Limited",
+      "address": "D-3, Malviya Marg, Panch Batti, C Scheme, Ashok Nagar, Jaipur",
+      "lat": 26.91254199999999,
+      "lng": 75.8040709,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJo1brXf-zbTkRewf6g1YdL8U",
+      "name": "Rajasthan Diesel Pumps",
+      "address": "Royal World, G 22, Citi Centre, Opposite, Sansar Chandra Road, Jaipur",
+      "lat": 26.919931,
+      "lng": 75.80247829999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJm2YyKSa1bTkRqUfKuIKwbpk",
+      "name": "EESL DC EVCI (EVCI0002)",
+      "address": "WR33+Q6R, C Scheme, Ashok Nagar, Jaipur",
+      "lat": 26.9044894,
+      "lng": 75.80302739999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJX_J7NAC1bTkRo-B0Bv_Tcls",
+      "name": "JAIPUR",
+      "address": "VQWR+934, Sudarshanpura, Bais Godam, Jaipur",
+      "lat": 26.8958956,
+      "lng": 75.79019819999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJLWzIuzy0bTkR2NtuAOvMCSU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Tel Bhavan Vistar, Sahakar Marg, Jyothi Nagar, Lalkothi, Jaipur",
+      "lat": 26.8947201,
+      "lng": 75.7933487,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJx4K5Yla3bTkRuIHW9F4GQHY",
+      "name": "NAHATA PETROL PUMP JAIPUR",
+      "address": "WR5X+J4M, Transport Nagar, Jaipur",
+      "lat": 26.9090947,
+      "lng": 75.84778860000002,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ0-sApxi3bTkRkoeEbCk6j4s",
+      "name": "IndianOil",
+      "address": "Tejaji Temple Road, TPT Nagar, Jaipur",
+      "lat": 26.909201,
+      "lng": 75.84770100000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCU0s-tq2bTkR3g4yJNAavsU",
+      "name": "Go Gas",
+      "address": "G, 4, Transport Nagar, Jaipur",
+      "lat": 26.9097397,
+      "lng": 75.8440787,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ0bRil9y2bTkRYRKV9AHZsiE",
+      "name": "Auto LPG Station, Jaipur",
+      "address": "2, Agra Road, Transport Nagar, Jaipur",
+      "lat": 26.9056441,
+      "lng": 75.8434547,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJRVJZ69y2bTkRzrfhZljCkuY",
+      "name": "Gas Fuel Pump",
+      "address": "WR3V+WCW, Transport Nagar Flyover, Transport Nagar, Jaipur",
+      "lat": 26.9048736,
+      "lng": 75.84357039999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ4cLUp9i3bTkRq_xZBHfh4Io",
+      "name": "Meena Petrol Pump cng",
+      "address": "Meena petrol pump, गलता मार्ग, जयपुर",
+      "lat": 26.923234,
+      "lng": 75.84657380000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuc1crdy2bTkRdKlG4yKAm_o",
+      "name": "श्री सिद्धि विनायक पेट्रोलियम",
+      "address": "India",
+      "lat": 26.9055297,
+      "lng": 75.8418512,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJt5c_IMqxbTkRT98mUZCYc74",
+      "name": "Bharat Petroleum, Petrol Pump -Nogia Brothers",
+      "address": "JAIPUR, Jobner",
+      "lat": 26.9241073,
+      "lng": 75.84525359999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJfWDWHAC3bTkRd_EcrkZj1aM",
+      "name": "Transport Nagar circle",
+      "address": "NH 21, Burmese Colony, Jaipur",
+      "lat": 26.9006091,
+      "lng": 75.8434644,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJh40nAvu3bTkRCeB1HFp4t7g",
+      "name": "United filling station Dealer-BPCL & CNG Torrent gas pvt Ltd Agra road ghat gate Opp. Cantral jail Jaipur Raj.",
+      "address": "Agra Road, Ghat Gate, Jaipur",
+      "lat": 26.9109449,
+      "lng": 75.8363357,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJb_qOUPa3bTkRIcNuc2CO-A8",
+      "name": "kazi ka kana",
+      "address": "WR8M+PVC, Ghat Gate Bazar, Jaipur",
+      "lat": 26.9168168,
+      "lng": 75.8346336,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJFT4FQFKxbTkRvt4TpGKn4E4",
+      "name": "Shiv Gas Lights",
+      "address": "Ghoda Niwas, near National Hospital, Ghoda Nikas, Ramganj Bazar, Jaipur",
+      "lat": 26.9238303,
+      "lng": 75.8355282,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ_w7If8-3bTkRM3rtba41vsg",
+      "name": "IndianOil",
+      "address": "Aashayein, Ghat Gate, Central Jail, Jaipur",
+      "lat": 26.913661,
+      "lng": 75.83112299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJ61hQba2bTkRinNtAKC5PyY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Agra Road, Jaipur",
+      "lat": 26.91477009999999,
+      "lng": 75.8283701,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHZKZQ1u3bTkR_IV0TT9jD5A",
+      "name": "Naman Fuel Centre",
+      "address": "722, Tiwari Ji Ka Bagh, Ashok Chowk, Adarsh Nagar, Jaipur",
+      "lat": 26.9039772,
+      "lng": 75.8288192,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJXb6Ai7a2bTkReS0xG5bCr3Y",
+      "name": "Manmohan Filling Station Bharat Petroleum",
+      "address": "11, Agra Road, Adarsh Nagar, Jaipur",
+      "lat": 26.9149657,
+      "lng": 75.8268897,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJGWffaLK3bTkR4dpAo9gSmlE",
+      "name": "Hp Petrol Pump",
+      "address": "32, Adarsh Nagar Rd, Palwas Road, Shastri Market, Sikar",
+      "lat": 26.9013595,
+      "lng": 75.8288192,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJjfbFVMy3bTkRN7Bv_XNeG8g",
+      "name": "Kumar Enterprises",
+      "address": "Bikaner - Agra Road, Jaipur",
+      "lat": 26.9013367,
+      "lng": 75.82881929999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJr6Vo7KG3bTkRdTFHQdMy3Wc",
+      "name": "Shree Ram Feeling Station",
+      "address": "32, Adarsh Nagar Road, Shastri Market, Gurunanak Pura, Bees Dukan, Adarsh Nagar, Jaipur",
+      "lat": 26.9013365,
+      "lng": 75.8288192,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJDdbMLnK3bTkR4KBUpganDO0",
+      "name": "Hindustan Petroleum",
+      "address": "32, Adarsh Nagar Road, Shastri Market, Gurunanak Pura, Bees Dukan, Adarsh Nagar, Jaipur",
+      "lat": 26.9013365,
+      "lng": 75.8288192,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJU1WvDC-3bTkR5Clpvfeu8nA",
+      "name": "Maa Kali Automobiles",
+      "address": "Star Place, 52, Dhudh Mandi Road, Jaipur",
+      "lat": 26.9013365,
+      "lng": 75.8288192,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJbZ4Aq2C3bTkRiVt4xqKbJL4",
+      "name": "Jio Petroleum Ltd",
+      "address": "302 No Shope Bag Singh Road 32, Adarsh Nagar Rd, Shastri Market, Gurunanak Pura, Bees Dukan, Adarsh 32, Adarsh Nagar Road, Shastri Market, Gurunanak Pura, Bees Dukan, Adarsh Nagar, Jaipur",
+      "lat": 26.9014301,
+      "lng": 75.8287505,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJLTtrTqS3bTkRFaJEWaN3Lug",
+      "name": "Balaji Petrol Pump",
+      "address": "32, Adarsh Nagar Road, Shastri Market, Gurunanak Pura, Bees Dukan, Adarsh Nagar, Jaipur",
+      "lat": 26.8984568,
+      "lng": 75.82942729999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ5dLY_sm3bTkRMYbla_UwmK8",
+      "name": "GD Pentrol Pump",
+      "address": "Frontier Colony, Adarsh Nagar, Jaipur",
+      "lat": 26.8984568,
+      "lng": 75.82942729999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJd03gWYSybTkRxMGYCB3tH5o",
+      "name": "Bharat Petroleum, Petrol Pump -Sanchit Petroleum",
+      "address": "New Loha Mandi Road, Macheda, Harmada, Jaipur",
+      "lat": 26.9985287,
+      "lng": 75.751989,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaVeZ9mWybTkRFSvsn5RU0mw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "opposite VKI, Ground Floor NH 11, Sikar Road, opposite VKI, Road Number 12, Jaipur",
+      "lat": 26.9921601,
+      "lng": 75.7715601,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe-PVznmybTkRz1bA2xd27oM",
+      "name": "Bharat Petroleum",
+      "address": "2Q4C+3CC, Sikar Road, Harmada, Jaipur",
+      "lat": 27.0050188,
+      "lng": 75.7709643,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-UDDcWqybTkRbRaOON8hOp0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 9, Vki Road, Kanwar Ka Bas, Vishwakarma Industrial Area, Jaipur",
+      "lat": 26.986589,
+      "lng": 75.78312799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXdFMp0ZNbDkREjZbJACUIg8",
+      "name": "IndianOil",
+      "address": "Ground Floor, Niwaru Road, Mansa Rampura",
+      "lat": 26.983945,
+      "lng": 75.697169,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVYMMGypNbDkR6MnRXSIRrNw",
+      "name": "Sachin",
+      "address": "B350 Nagaur Rd, And, Bikaner Barmer Rd, Jaipur",
+      "lat": 26.9712826,
+      "lng": 75.6979365,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJebBeV1atbTkRP5RFJmnEpEo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Benad Road, Amber, Boytawala",
+      "lat": 27.0017416,
+      "lng": 75.7296628,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBf9H_6BNbDkR4SWPlpKNRZs",
+      "name": "SHREE KALYAN MATOSHREE FILLING STATION",
+      "address": "XMWW+84Q, Baori",
+      "lat": 26.99583419999999,
+      "lng": 75.695352,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJexvFWC1NbDkRSa7SlcaNuCE",
+      "name": "Petrol pump",
+      "address": "XMWW+C4R, RIICO Industrial Area, Sarna, Mansa Rampura",
+      "lat": 26.9961042,
+      "lng": 75.695259,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM1oulBKzbTkRoYsdjNlnu1I",
+      "name": "IndianOil",
+      "address": "Nirmal Vihar, Jhotwara, Jaipur",
+      "lat": 26.97730079999999,
+      "lng": 75.74736759999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFabd2LuzbTkRS5o4OiVDj_4",
+      "name": "BRex Foods",
+      "address": "131, Benad Road, Ganesh Nagar 4, Sitawali Ka Fatak, Jaipur",
+      "lat": 26.985425,
+      "lng": 75.7478038,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJtfP3qKezbTkRe-lVRtK5XMw",
+      "name": "Indians gas agency",
+      "address": "XP4Q+RVQ, Niwaru Road, Parmanand Nagar, Shanti Path, Jhotwara, Jaipur",
+      "lat": 26.95709279999999,
+      "lng": 75.7397256,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJDZIAlZqzbTkR4CUG8Hqo9MI",
+      "name": "Champa Lal Tiwari",
+      "address": "36, Charan Nadi, Macheda, Shankar Vihar Extension, Jamna Puri, Jaipur",
+      "lat": 26.9810195,
+      "lng": 75.75400909999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqyUk0xuzbTkRWt73YBYshFQ",
+      "name": "24 Hour Store",
+      "address": "New Loha Mandi Road, Macheda, Jaipur",
+      "lat": 26.9986942,
+      "lng": 75.7519394,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJg2Gi-8KzbTkRJ6IfdbPz9FE",
+      "name": "SHREE KANJI FILLING STATION",
+      "address": "Nand bhojae, Niwaru Road, Jhotwara, Jaipur",
+      "lat": 26.9559212,
+      "lng": 75.7429461,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAZjXsB9NbDkRlSoFbwtnfPw",
+      "name": "Bharatgas",
+      "address": "27, Phool Nagar Opp. Hotel Palak Paradise, Jothwara, Jaipur",
+      "lat": 26.9556924,
+      "lng": 75.68826969999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJYSHcc9ezbTkRqE6DWyuR2i0",
+      "name": "Rajat Plastic",
+      "address": "Road Number 5, Dadhichi Nagar, Murlipura, Jaipur",
+      "lat": 26.9851507,
+      "lng": 75.7643624,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2x-D0bizbTkRkRLP7TeK3SU",
+      "name": "Manish Pumps",
+      "address": "58-4F, Gold Spot Colony, Dahar Ka Balaji, Kishore Nagar, Murlipura, Jaipur",
+      "lat": 26.9636907,
+      "lng": 75.76064430000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJjwoEbAazbTkRW14qDuUlxgw",
+      "name": "IndianOil",
+      "address": "Niwaru Road, Jhotwara Industrial Area, Jhotwara, Jaipur",
+      "lat": 26.951211,
+      "lng": 75.755611,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5dpsUAZNbDkRtuNuVapjlmE",
+      "name": "Narayana City C-Block",
+      "address": "XM6C+GCF, Narayana City C-Block, Kalwar Road, Jaipur, Hatoj - Kalwar - Jaipur Road, Hari Om Nagar, Hathod",
+      "lat": 26.9613163,
+      "lng": 75.671054,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJIVAueAlNbDkRvQcIPHfkup0",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kalwar Road, Khora Bisal",
+      "lat": 26.962911,
+      "lng": 75.66739100000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHRxZEKhNbDkR51NO6GvyStU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, SH 90, Kalwar Road, Hathod",
+      "lat": 26.9623707,
+      "lng": 75.666782,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEXYeDACzbTkROF_FFvw4GvY",
+      "name": "Torrento cng pump",
+      "address": "3(C, Kamani Road, Jhotwara Industrial Area, Jhotwara, Jaipur",
+      "lat": 26.9516844,
+      "lng": 75.761087,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJiWx3UvqzbTkRWj3lIk4O1bA",
+      "name": "Online CNG - BPS Automotives - Bharat Petroleum",
+      "address": "3(C, Kamani Road, Jhotwara Industrial Area, Jhotwara, Jaipur",
+      "lat": 26.9517769,
+      "lng": 75.7612603,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWeo2oUSybTkRvndRV1ek0cw",
+      "name": "Super Petro India",
+      "address": "27, Shiv Vihar Colony, Road No-5, V.K.I.Area, Sikar Road, Murlipura, Jaipur",
+      "lat": 26.979605,
+      "lng": 75.773152,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJP0oSnP2zbTkRhE7dN_0qPH0",
+      "name": "go gas LPG pump",
+      "address": "XQGF+C49, Sikar Road, Vishwakarma Industrial Area, Murlipura, Jaipur",
+      "lat": 26.9759964,
+      "lng": 75.77283729999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHww7F0OybTkRzzeMRa_-OCw",
+      "name": "ARABIAN PETROLEUM LTD",
+      "address": "Shree Niwas Nagar, Brahmakumaris Road, Vishwakarma Industrial Area, Murlipura, Jaipur",
+      "lat": 26.9819587,
+      "lng": 75.7737884,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJX3a34VGybTkRddoxMMjjtm8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, opposite VKI Road, Sikar Road, No 9, Jaipur",
+      "lat": 26.969461,
+      "lng": 75.772071,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJawc3OHqybTkRX3EA1_HmuzM",
+      "name": "Vishal Diesel",
+      "address": "2Q2C+F26, Opp.Tejaji Temple, Jodala Power House, Sikar Road, Jaipur",
+      "lat": 27.0011737,
+      "lng": 75.77002200000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJd34ROqizbTkRhq8d9Wa-kCE",
+      "name": "Murari Diseal Work Shop",
+      "address": "2Q3C+Q42, Shri Nath Kunj Ashram Colony, Harmada, Jaipur",
+      "lat": 27.0043875,
+      "lng": 75.7702656,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJz5veVyWzbTkRgrvp5TfKtmY",
+      "name": "IndianOil",
+      "address": "Plot No 128A Puliya, Kamani Road, Jhotwara, Jaipur",
+      "lat": 26.94865219999999,
+      "lng": 75.7626698,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq6qq2ji0bTkRS8inw-K0uj0",
+      "name": "Shree Hari Gases Private Limited",
+      "address": "E 106, Road Number 7, Vishwakarma Industrial Area, Jaipur",
+      "lat": 26.9830167,
+      "lng": 75.7763916,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVVVVVRKybTkRL3CC6ukw5tU",
+      "name": "Ravi Roadlines Bharat Petroleum Corporation Limited",
+      "address": "8, Road Number 8, Vishwakarma Industrial Area, Murlipura, Jaipur",
+      "lat": 26.9854876,
+      "lng": 75.7767082,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJr85sD0KybTkRQGE4s1he44Y",
+      "name": "Bharat Petroleum, Petrol Pump -Ravi Roadlines",
+      "address": "8, Road Number 8, Vishwakarma Industrial Area, Murlipura, Jaipur",
+      "lat": 26.9855128,
+      "lng": 75.7770743,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNT82xqWzbTkRHt-X4mH9AWc",
+      "name": "Star Petroleum (BPCL)",
+      "address": "G-454 B, Road Number 12, Vishwakarma Industrial Area, Jaipur",
+      "lat": 26.9925776,
+      "lng": 75.77780969999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM5UG3G6zbTkRfcpPEsFZYqc",
+      "name": "Bharat Petroleum",
+      "address": "XQVH+248, Road Number 12, Vishwakarma Industrial Area, Jaipur",
+      "lat": 26.9925271,
+      "lng": 75.7778326,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaePx50-ybTkRlCcp3t7pKF0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Road Number 1, Vishwakarma Industrial Area, Jaipur",
+      "lat": 26.971501,
+      "lng": 75.778121,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP4wNkkyybTkRnBNrMsH2TFA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Plot No R/4, Vidhyadhar Nagar Road, Sector 6, Jaipur",
+      "lat": 26.965001,
+      "lng": 75.776601,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm94sgIatbTkRRGk75rR9Hrc",
+      "name": "Hari Om Diesel Garage",
+      "address": "2Q79+HHP, Sikar Road, Harmada, Jaipur",
+      "lat": 27.01395579999999,
+      "lng": 75.7689493,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJn0wZe2uybTkRs0wLp2VG8B0",
+      "name": "IndianOil",
+      "address": "Road Number 12, Vishwakarma Industrial Area, Jaipur",
+      "lat": 26.9919153,
+      "lng": 75.7813693,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlU3SfgCtbTkRggCnGtn00Zk",
+      "name": "जौहरी पेट्रोलियम पम्प",
+      "address": "2PQJ+X2, Benarwith Daulatpura",
+      "lat": 27.0393876,
+      "lng": 75.7307275,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJVVVVVRKybTkRtvWLC_EqeVg",
+      "name": "Shiv Dayal Service Station",
+      "address": "Karni Complex, Vishwakarma Colony, Vishwakarma Industrial Area, Jaipur",
+      "lat": 26.99557590000001,
+      "lng": 75.7864323,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJz8jFeACzbTkRWfb3BCe5h28",
+      "name": "Bpcl petrol pump",
+      "address": "XQWQ+W99, Vishwakarma Industrial Area, Jaipur",
+      "lat": 26.9972866,
+      "lng": 75.788484,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJeQfq50-ybTkR6DfjxR6ell8",
+      "name": "IndianOil",
+      "address": "Ground Floor, VISHWAKARMA INDUSTRIAL AREA, Jaipur",
+      "lat": 26.9671252,
+      "lng": 75.7883373,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJT0nVNQCzbTkRTjUGRP2ZHzc",
+      "name": "Brijeshpura",
+      "address": "BHARAT PETROLEUM CORPORATION, Vishwakarma Industrial Area, Jaipur",
+      "lat": 27.0006003,
+      "lng": 75.7858387,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ820chs2zbTkRVxo0NhqN71M",
+      "name": "Bharat Petroleum Petrol Pump , PRATAP FILLING STATION",
+      "address": "PLOT NO. A, 5, Hari Nagar, Jaipur",
+      "lat": 26.9514556,
+      "lng": 75.7950469,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2dojsd6zbTkRixm2bxzyhfo",
+      "name": "IndianOil",
+      "address": "Ground Floor, Shastri Nagar, Jaipur",
+      "lat": 26.9438352,
+      "lng": 75.799438,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1Sf0dpWzbTkR9eXWXEChNc4",
+      "name": "IndianOil",
+      "address": "Ambabadi, Jhotwara Road, Jaipur",
+      "lat": 26.939301,
+      "lng": 75.78089899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq6pBA-CzbTkRV7Xx937ztVE",
+      "name": "Kaifco Petroleum Corporation",
+      "address": "103, Pratap Nagar, Shastri Nagar, Jaipur",
+      "lat": 26.94231289999999,
+      "lng": 75.80662439999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJw5O6suezbTkRuudjLpVXTug",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Science Park, Subash Nagar, Jaipur",
+      "lat": 26.9392262,
+      "lng": 75.7973121,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVVVVFe6zbTkR2gQfocxF5vM",
+      "name": "Bharat Petroleum, Petrol Pump -M.K. Filling Station",
+      "address": "BANI PARK, SCHEME E, Jaipur",
+      "lat": 26.937749,
+      "lng": 75.78539700000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDc-gwYatbTkRgVjXFE5_qGE",
+      "name": "Ravi Pollution Van",
+      "address": "Todi Petrol Punp, Sikar Road, Harmada, Jaipur",
+      "lat": 27.027922,
+      "lng": 75.7693429,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJS98FG5mtbTkRRqCsB8VjSag",
+      "name": "IndianOil",
+      "address": "opposite Apno Rajasthan, Ground Floor Sikar Road, Rajawas, Nindar, opposite Apno Rajasthan, Akhepura",
+      "lat": 27.02793,
+      "lng": 75.76830269999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJu1kw2wezbTkRCU4UvU7_Bio",
+      "name": "Motor Aids (CNG online pump)",
+      "address": "near pittal factory, Jhotwara Road, Jaipur",
+      "lat": 26.9341011,
+      "lng": 75.795403,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPXDipOWzbTkRO_7Qn89RgQ4",
+      "name": "Mohan Lal Satyanarain",
+      "address": "India",
+      "lat": 26.9339558,
+      "lng": 75.7972794,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJiQ77AwCtbTkR1punJRO0L-s",
+      "name": "Dalip singh",
+      "address": "2QH8+HWX, Harmara, Nindar",
+      "lat": 27.028417,
+      "lng": 75.7674911,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJhUu3kGG6bTkRZP7XQ0M7pW4",
+      "name": "IndianOil",
+      "address": "Ground Floor, Jamwa Ramgarh Road, Mod, Bandha, Saipura",
+      "lat": 26.975443,
+      "lng": 75.918326,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCye_LT6wbTkRdsOrw3Z9pRw",
+      "name": "R.S.Filling Station, Bharat Petroleum",
+      "address": "Kunda, Amer, Jaipur",
+      "lat": 26.9992791,
+      "lng": 75.87613879999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPWc5Bj6wbTkRFj626FxPy00",
+      "name": "Highway service station Hindustan Petroleum",
+      "address": "Amer, Jaipur, NH-11C, Delhi Road, Jaipur, Jaipur",
+      "lat": 27.0015955,
+      "lng": 75.8761184,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ59fM9jaxbTkRCCD-w0XbOBg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Amer, Jaipur",
+      "lat": 27.001701,
+      "lng": 75.876001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZUx8aRiwbTkRvbw-Le9E-RY",
+      "name": "Jaipur Golden Transport CO. (P) Indian Oil Petrol Pump",
+      "address": "2V5H+V45, Delhi - Jaipur Road, National Highway 11C, Amer, Jaipur",
+      "lat": 27.0096352,
+      "lng": 75.8778476,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJW5BfTQCxbTkRl_7X-00muCA",
+      "name": "Chungi",
+      "address": "WVW2+C2Q, near Guru Dwara, New Ramgarh Road, Karbala, Jaipur",
+      "lat": 26.9460274,
+      "lng": 75.85018970000002,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ66FV4uyxbTkREMbyFXyrBus",
+      "name": "IndianOil",
+      "address": "Plot No A10 & A11, Krishna Colony, S3, Ramgarh, Mod, Jaipur",
+      "lat": 26.94593739999999,
+      "lng": 75.84735359999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJofDySgCxbTkR3ob_mfkRZNo",
+      "name": "Opp petrol pump",
+      "address": "WRWW+C4F, New Ramgarh Road, Karbala, Jaipur",
+      "lat": 26.9460614,
+      "lng": 75.8453074,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJn71rRwC7bTkRZOX6UKTkHAc",
+      "name": "Puc canter",
+      "address": "XWQ6+7HQ, Kunda, Amer, Jaipur",
+      "lat": 26.9882064,
+      "lng": 75.911483,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJa5SFeDexbTkR381z-77aTBw",
+      "name": "Triveni Traders Petrol Pump",
+      "address": "WRMM+97W, Amer Road, Main Market, Jaipur",
+      "lat": 26.93349899999999,
+      "lng": 75.8331943,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJlaRpdjexbTkRcjVF34wiLGI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Jorawar Singh Gate, Amer Road, Jaipur",
+      "lat": 26.9331401,
+      "lng": 75.83318009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdSMZhsmxbTkR1VcO-ZxXXl0",
+      "name": "Bharat Petroleum, Petrol Pump -Nawal Kishore & Co",
+      "address": "SUBHASH CHK JAIPUR, Jaipur",
+      "lat": 26.932076,
+      "lng": 75.83246299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ47CO_pm7bTkRPbnKWlPonXA",
+      "name": "Raj Petrol Pump",
+      "address": "Sumel, Mathura Das Pura",
+      "lat": 26.9524319,
+      "lng": 75.9110833,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJtc-3iwavbTkRSccW0SwHZoI",
+      "name": "CNG pump 2 Amer",
+      "address": "2VMQ+MM8, Industrial Area, R2CO, Kukas",
+      "lat": 27.0341528,
+      "lng": 75.88919010000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJUzQGdCWvbTkRJoUQIcJNJCU",
+      "name": "CNG GAS STATION KUKAS",
+      "address": "2VPQ+3V7, Unnamed Road, Kukas",
+      "lat": 27.035175,
+      "lng": 75.8896729,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0_Q_rravbTkR7hnU6_6M_Eg",
+      "name": "Bharat Petroleum, Petrol Pump -Baba Services",
+      "address": "KUKAS JAIPUR",
+      "lat": 27.04062,
+      "lng": 75.8937616,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM-U2JoazbTkRCAhB3tRaUZI",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Chand Pol Road, Jhotwara Road, Jaipur",
+      "lat": 26.927513,
+      "lng": 75.80689799999999,
+      "open_now": true
+    }
+  ]
+}

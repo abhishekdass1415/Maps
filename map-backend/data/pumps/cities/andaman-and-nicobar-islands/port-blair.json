@@ -1,0 +1,115 @@
+{
+  "city": "Port Blair",
+  "state": "Andaman and Nicobar Islands",
+  "count": 13,
+  "center": {
+    "lat": 11.6234,
+    "lng": 92.7265
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJX5DDuo2XiDARUrbj6UDfeY8",
+      "name": "IndianOil",
+      "address": "S No 45/1 Bimblitan,Beodnabad, Sri Vijaya Puram",
+      "lat": 11.604053,
+      "lng": 92.694109,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJieEV43WXiDARZ1ZJjRtHn0c",
+      "name": "IndianOil",
+      "address": "Ground Floor, Tamaloo, B Site,Carnicobar",
+      "lat": 11.6211001,
+      "lng": 92.669,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwdAguBSUiDARzLYE4126zfI",
+      "name": "IndianOil",
+      "address": "Ground Floor, Beodnabad, Bhathu Basti, Sri Vijaya Puram",
+      "lat": 11.6214727,
+      "lng": 92.71759139999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeWtDtBSViDARUpmqIApyEX0",
+      "name": "Mummavishu14",
+      "address": "opp. Petrol pump, Bhathu Basti, Sri Vijaya Puram",
+      "lat": 11.6230219,
+      "lng": 92.71081459999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ-QvB1OUiDAR6-JoNfOF2aA",
+      "name": "IndianOil",
+      "address": "JPWJ+882, Plot No 52/4, Main Road, Ograbanj, Lamba Line, Sri Vijaya Puram",
+      "lat": 11.645724,
+      "lng": 92.731051,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgdLpKCqViDARaaf2gjKsISo",
+      "name": "Carbin Chowk Petrol Pump",
+      "address": "JPPP+X3J, Nayagaon, Sri Vijaya Puram",
+      "lat": 11.6375393,
+      "lng": 92.7353811,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs34BgpKViDARpLT9wqg4YDY",
+      "name": "Manoj Marketing",
+      "address": "JPWJ+7CM, Lamba Line, Sri Vijaya Puram",
+      "lat": 11.6457031,
+      "lng": 92.7310524,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaxWP0qWViDARCSUD9PzfuEU",
+      "name": "IndianOil",
+      "address": "Ground Floor, Ograbanj, Junglighat, Sri Vijaya Puram",
+      "lat": 11.6625001,
+      "lng": 92.73260010000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhwuYOL2ViDARiK7sRhwGg_w",
+      "name": "IndianOil",
+      "address": "Ground Floor, Haddo, Delanipur",
+      "lat": 11.6697815,
+      "lng": 92.72749859999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJp5G0iAqViDARbttd8oHcy24",
+      "name": "IndianOil",
+      "address": "Ground Floor, Aberdeen Bazar, Sri Vijaya Puram",
+      "lat": 11.6685001,
+      "lng": 92.7387001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZS4NIqCViDAR1XvApM5GD_U",
+      "name": "Petrol Pump APWD",
+      "address": "MPCP+5WP, Phoenix Bay, Sri Vijaya Puram",
+      "lat": 11.6704731,
+      "lng": 92.7373293,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJv7gvs7a9iDAR09L3YFciUTE",
+      "name": "Petrol Pump Ferrargunj",
+      "address": "PM83+QPJ, Great Andaman Trunk Road, Ferrargunj",
+      "lat": 11.7169716,
+      "lng": 92.6542537,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJOYIAZzS_iDARaEPIt1mq36k",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bombooflat",
+      "lat": 11.7172828,
+      "lng": 92.71527789999999,
+      "open_now": true
+    }
+  ]
+}

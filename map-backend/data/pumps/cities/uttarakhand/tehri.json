@@ -1,0 +1,155 @@
+{
+  "city": "Tehri",
+  "state": "Uttarakhand",
+  "count": 18,
+  "center": {
+    "lat": 30.376,
+    "lng": 78.433
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJ-WrS8vYeCTkRPLBfQnWrjZg",
+      "name": "IndianOil",
+      "address": "Ground Floor, New, Nagani Sera",
+      "lat": 30.3244106,
+      "lng": 78.35429479999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm2TPANAdCTkRCqvED2s8SOk",
+      "name": "Bharat Petroleum, Petrol Pump -Ashirwad Filling Station",
+      "address": "CHAMBA,TEHRI GARHWAL, TEHRI GARHWAL",
+      "lat": 30.3427707,
+      "lng": 78.39529399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcxXH8vYeCTkR6wdaI4VgGQo",
+      "name": "Indian Oil",
+      "address": "India",
+      "lat": 30.3243817,
+      "lng": 78.3542943,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJXXGPt88dCTkRolFJiSw2S_g",
+      "name": "Surkanda Fuels",
+      "address": "Rishikesh - Chamba - Tehri Road, Dikhol Gaon",
+      "lat": 30.340995,
+      "lng": 78.39709289999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJI-iRlLEdCTkRTT7tGoFPg1I",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Tehri Road, Chamba",
+      "lat": 30.3446404,
+      "lng": 78.3985288,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvZzjmMUdCTkRDArIU9iHz-s",
+      "name": "OHANOLA FILLING STATION",
+      "address": "India",
+      "lat": 30.3444738,
+      "lng": 78.39891879999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJp2iHgiwdCTkRAcx6Y4dKf3k",
+      "name": "Garhwal out Let development service pvt Ltd",
+      "address": "near Dhanola filling station, Chamba",
+      "lat": 30.34467479999999,
+      "lng": 78.39914859999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJL2R_oCMECTkRKNFgmVksd2w",
+      "name": "बिष्ट कम्यूनिकेशन",
+      "address": "India",
+      "lat": 30.2735724,
+      "lng": 78.5575696,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJhyutlFgdCTkRswg9oo2NEdk",
+      "name": "IndianOil",
+      "address": "Ground Floor New Tehri, Bhagirathi, New Tehri",
+      "lat": 30.3782334,
+      "lng": 78.4379804,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpxY2HoPiCDkR-B46x54Vlk8",
+      "name": "IndianOil",
+      "address": "Ground Floor Nelda, New, New Tehri",
+      "lat": 30.3839347,
+      "lng": 78.4393583,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH0NxihLjCDkR7iLzU18zyGU",
+      "name": "IndianOil",
+      "address": "Ground Floor, Purani Tehri Marg Jakh, Pargana, Rishikesh - Chamba - Tehri Road, Chamba",
+      "lat": 30.39947690000001,
+      "lng": 78.4404225,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0QRgh6YdCTkRwmQ2rTYxTL0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Khasra No 9521, 22, 23, 24, near Devprayag, 25 & 26, Tehri Dam Road, Tehri",
+      "lat": 30.3815387,
+      "lng": 78.4707499,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrWTTCvUBCTkRzi0k7-z6ixU",
+      "name": "HP PETROL PUMP - PANWAR FIILING STATION",
+      "address": "Ground Floor, Tehri, Gadoliya, Pipaldali, Ghansali Road, Gaujiyana",
+      "lat": 30.3722528,
+      "lng": 78.567513,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8XabV4wBCTkRRFNUSJN-X_0",
+      "name": "राणा कम्यूनिकेशन",
+      "address": "India",
+      "lat": 30.3671353,
+      "lng": 78.5739469,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJKb7pjMbmCDkRuaVhWCwgR_s",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Km Stone 145, National Highway 34, Kandisaur, Ratwari",
+      "lat": 30.47964499999999,
+      "lng": 78.3580109,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB7BTYE7nCDkRyfEeYdyh7no",
+      "name": "Gas station",
+      "address": "G94H+Q4R, Bandra Koti",
+      "lat": 30.5069753,
+      "lng": 78.3777758,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJd7lYdRb7CDkRw9DNfKmjYmc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Pratapnagar Road, Pratapnagar, Lambgaon",
+      "lat": 30.505637,
+      "lng": 78.499453,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlxVsVSL7CDkRuFPBivFFTKE",
+      "name": "HP PETROL PUMP - HAMARA PUMP AISHWARYA FLNG STN HP",
+      "address": "HP Petrol Pump Village Baunsar Lambgaon Pratapnagar RD Tehsil Pratapnagar, Dehradun",
+      "lat": 30.513812,
+      "lng": 78.4952,
+      "open_now": true
+    }
+  ]
+}

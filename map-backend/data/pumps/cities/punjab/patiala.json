@@ -1,0 +1,995 @@
+{
+  "city": "Patiala",
+  "state": "Punjab",
+  "count": 123,
+  "center": {
+    "lat": 30.375,
+    "lng": 76.3875
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJV3nr4PwuEDkRN7TLUMLBGqo",
+      "name": "IndianOil",
+      "address": "Sangrur Road, Passiana, Patiala",
+      "lat": 30.307802,
+      "lng": 76.327446,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvb_YROgoEDkRhT1M4_coCeI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Fateh Colony, Patiala",
+      "lat": 30.3306901,
+      "lng": 76.3886801,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ_4zZVQvEDkRu9-saWKG4Xk",
+      "name": "Reliance Petroleum",
+      "address": "TEHSIL, Samana, DISTT, Malkana",
+      "lat": 30.3098101,
+      "lng": 76.317414,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ67RKGWwzEDkRz9_uIPxEx5U",
+      "name": "Bharat Petroleum, Petrol Pump -Malik Singh Damodar Singh",
+      "address": "ON SAMANA ROAD, Pasiana",
+      "lat": 30.2965747,
+      "lng": 76.3268377,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg-X8_E4uEDkRWf4uH0WOQuc",
+      "name": "HP PETROL PUMP - ADHOC HAMARA PUMP MAIN",
+      "address": "Patiala Road( Village Wazidpur, National Highway 64, Chandigarh",
+      "lat": 30.29992,
+      "lng": 76.302357,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9d_jAk8uEDkRi_bB9pMu-yQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 64, Patiala Sangrur Road, Wazidpur",
+      "lat": 30.2998295,
+      "lng": 76.3021837,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsWOUT2ovEDkRfI56ACcTIJw",
+      "name": "Mast Service Station",
+      "address": "Sangrur Road, Rajgarh",
+      "lat": 30.2999243,
+      "lng": 76.30055709999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJqQ3b1C0vEDkR3MPt9dvOn3w",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 64, Rajgarh",
+      "lat": 30.299466,
+      "lng": 76.3004059,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB5yqPNE3EDkRWAI80znkBac",
+      "name": "Reliance JIOBP - D Goyal Filling Station",
+      "address": "opp. Royal Castle Resort, Sangrur Rd, Patiala",
+      "lat": 30.2961338,
+      "lng": 76.2837251,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAU4NgGAvEDkRlADU2NIC4HI",
+      "name": "IndianOil",
+      "address": "NH7, Patiala Bypass, Patiala",
+      "lat": 30.28923679999999,
+      "lng": 76.3482677,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwf76gR0vEDkROHBNizUAOeQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, Patiala - Samana Road, Kakrala Bhaika",
+      "lat": 30.2726756,
+      "lng": 76.3067159,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_9SGu6EuEDkRs4kyhwdJ2lY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Main",
+      "lat": 30.27110099999999,
+      "lng": 76.342541,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0RZvdnsvEDkRq1Y5Wwd5u28",
+      "name": "Santosh Filling Station",
+      "address": "88XG+PFH, near THE GRAND JD, Nabha-Patiala Road, Rauni",
+      "lat": 30.34932419999999,
+      "lng": 76.32622719999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJc_KBPD8pEDkRipej2c2JqTM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Inderpura",
+      "lat": 30.3107945,
+      "lng": 76.3706721,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMXMAvGcvEDkRhYYoU5kP8j4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Rauni Nabha Road, Patiala",
+      "lat": 30.347771,
+      "lng": 76.338871,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvVEqAAAlEDkRa_FBm-9ezd4",
+      "name": "Shanti Filling Station",
+      "address": "9849+6MQ, Inderpura",
+      "lat": 30.3555881,
+      "lng": 76.3192234,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIwlQ5rIxEDkRR-nIoJmZdr0",
+      "name": "Baba deep singh fuel point",
+      "address": "77Q6+G6, Fatehpur",
+      "lat": 30.2888125,
+      "lng": 76.26056249999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzyLfYgApEDkR-dXd7j4329Y",
+      "name": "Paradise gas agency wale",
+      "address": "89JC+J46, Jai Jawan Colony, Patiala",
+      "lat": 30.33178199999999,
+      "lng": 76.370046,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJSQ5L3SMpEDkRkQbZPPcs3S4",
+      "name": "Nayara Petrol Pump",
+      "address": "Rose Avenue, New Officers Colony, Patiala",
+      "lat": 30.3105135,
+      "lng": 76.3825848,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhVQxcQ0xEDkR8d54fK_nvdk",
+      "name": "Suresh Petroleum",
+      "address": "Shop No 33, Oppo Jio, BP Bhawanigath Rd, Patiala",
+      "lat": 30.3053541,
+      "lng": 76.25057720000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJvZktuPcxEDkRE_mZDNuTiDM",
+      "name": "B K Petroleum's",
+      "address": "Shop No 75, Nabha Rd, Sauja",
+      "lat": 30.3054256,
+      "lng": 76.250553,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJzxZJmdUxEDkRoplmGAqWfC8",
+      "name": "Shree Ram Petrol Pump",
+      "address": "Shop No 42, Oppo Jio, near Dominos, BP Patiala Rd, Patiala",
+      "lat": 30.304992,
+      "lng": 76.25051549999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJf_PtMWUxEDkR3oz5S9sGKF4",
+      "name": "Bagri Petrol Pump",
+      "address": "Shop No 31, Oppo Havel I Restaurant, National Higheay, Patiala",
+      "lat": 30.30536339999999,
+      "lng": 76.2504498,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ6WmIBBExEDkRYnYZmYvhxnA",
+      "name": "Talewar Filling Station",
+      "address": "near New Outlet, Shop No 97 Main Rd, near New Outlet, National Highway, Patiala",
+      "lat": 30.3038703,
+      "lng": 76.24950799999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJoR0uPaAxEDkRBHwvjJONxBg",
+      "name": "Singh Filling Staton",
+      "address": "Shop No 53, Main Marlet, near Domino, National Highway, Patiala",
+      "lat": 30.3021816,
+      "lng": 76.2491093,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJcev0P20xEDkR7Ohmq2DfMkY",
+      "name": "Reliance Petroleum",
+      "address": "opposite Royal Castle, Ground Floor Chuharpur Marasian, Bhedpur, opposite Royal Castle, Patiala",
+      "lat": 30.284283,
+      "lng": 76.249392,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJk6InGQwrEDkR0gl65RRqoZ8",
+      "name": "Bharat Petroleum, Petrol Pump -Sheetal Filling Station",
+      "address": "KHERI JATTAN ON DAKALA ROA, Patiala",
+      "lat": 30.26273699999999,
+      "lng": 76.3723421,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqZYU6fIpEDkRX6iHALWm7Bs",
+      "name": "IndianOil",
+      "address": "22 Phatak, Leela Bhawan, Patiala",
+      "lat": 30.33731270000001,
+      "lng": 76.3824274,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJc2IDQugoEDkRn9dFwh6QGd0",
+      "name": "Indian Oil Petrol Pump",
+      "address": "Fateh Colony, Patiala",
+      "lat": 30.33011460000001,
+      "lng": 76.3887106,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7eKCyRMpEDkRZn6vHi3vmZQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, Polo Ground Market, Near, Modi College Road, Patiala",
+      "lat": 30.3215197,
+      "lng": 76.3924291,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJN-qETugoEDkRp0XBLthJI60",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Mall Road, Patiala",
+      "lat": 30.3312301,
+      "lng": 76.388801,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJucHDrx0pEDkRUBWBeHmeNLM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Lower Mall, Patiala",
+      "lat": 30.315781,
+      "lng": 76.39490099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJi7JDIrIpEDkRmGDat9jXdjo",
+      "name": "IndianOil",
+      "address": "Ground Floor, Govt Thapar Chowk, Nabha Road, Patiala",
+      "lat": 30.3526006,
+      "lng": 76.3763641,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZXeBb-0oEDkRRzVaiGXkFIA",
+      "name": "Indian Oil",
+      "address": "89QX+H3P, Mall Road, Baradari, Patiala",
+      "lat": 30.338968,
+      "lng": 76.39771069999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvWtj7lQoEDkRfQU0RD5Hlk4",
+      "name": "Loomba service station",
+      "address": "Rangesha Colony, Tej Bagh Colony, Patiala",
+      "lat": 30.3219752,
+      "lng": 76.4139529,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXUUlTKwpEDkR10f5jXihpws",
+      "name": "IndianOil",
+      "address": "Ground Floor, Devigarh Road, Patiala",
+      "lat": 30.3166001,
+      "lng": 76.418398,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_RXgkFcoEDkR2gHLmO0UP9U",
+      "name": "IndianOil",
+      "address": "Ground Floor, Saifabadi Gate, Patiala",
+      "lat": 30.330204,
+      "lng": 76.41257499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3atnNmwoEDkRpF7SY29s2IY",
+      "name": "IndianOil",
+      "address": "near Urban Estate, Bypass, Phase 2, Sirhind",
+      "lat": 30.352406,
+      "lng": 76.429024,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJc9HXWCsmEDkRdoMld5Bxbrw",
+      "name": "Nayara petrol pump Angad motors",
+      "address": "Essar Petrol Pump Sirhind Road, Bypass, Patiala",
+      "lat": 30.3702099,
+      "lng": 76.4089774,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYf7BPkUoEDkR_BLV3oQIkIU",
+      "name": "IndianOil",
+      "address": "near Truck Union, NH 64, Rajpura Road, Mathura Colony, Patiala",
+      "lat": 30.334206,
+      "lng": 76.42285199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC4WHvgEpEDkRXo4NrBEQXqM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Ghalori",
+      "lat": 30.317431,
+      "lng": 76.40587099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY0cnHQApEDkRUpV8vmE7X58",
+      "name": "Patwari office",
+      "address": "8C84+WH5, Sanour, Sheesh Mahal Enclave, Patiala",
+      "lat": 30.31735599999999,
+      "lng": 76.406308,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ4aLC0OQoEDkRY1BN9_mSwUc",
+      "name": "Lalit Gas",
+      "address": "65, Scooter Market Road, Nabha Gate, Patiala",
+      "lat": 30.326362,
+      "lng": 76.39786099999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJfVY2s9UpEDkRjcPXaYisn3A",
+      "name": "Prem Filling Station",
+      "address": "Sanauri Adda, Patiala",
+      "lat": 30.3207971,
+      "lng": 76.4074684,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJcKmKPsoEDkRAAAAMJpxYUo",
+      "name": "Girdhari Lal Tarsem Chand",
+      "address": "89GX+V32, Adalat Bazar, Patiala",
+      "lat": 30.3271331,
+      "lng": 76.39765299999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJJWQ5Mf8oEDkRb_IvF46z4gU",
+      "name": "Bharat Petroleum - Prem Filling Station",
+      "address": "Patiala",
+      "lat": 30.3245625,
+      "lng": 76.4081875,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJU0Umxk4pEDkRtwsmFeC03bU",
+      "name": "Avtar Singh Suyach Godown",
+      "address": "Raymajra",
+      "lat": 30.3100765,
+      "lng": 76.41996639999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-d_kP64pEDkR1NMmLkSbHaU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Patiala - Devigarh Road, Ghalori",
+      "lat": 30.3135682,
+      "lng": 76.4202036,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdQ18hgzcDzkRu00qKzHLwTs",
+      "name": "Paul Service Stn",
+      "address": "4, Rajpura Road, Rajpura Road, Patiyala",
+      "lat": 30.3325833,
+      "lng": 76.4073372,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJIQuooIspEDkRIU-I4naIf8Q",
+      "name": "Jio-bp pulse",
+      "address": "Ground Floor, opposite Kali Devi Temple, Mall Road, Baradari, Patiala",
+      "lat": 30.337261,
+      "lng": 76.394841,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJf8JShL0pEDkRah4n8iavwe4",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kaithal Road, Bahera Road, Patiala",
+      "lat": 30.2990989,
+      "lng": 76.4251412,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrQ-vhgopEDkR5CtsSIbAfwI",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Bus Stand, Rajpura Road, Patiala",
+      "lat": 30.33149319999999,
+      "lng": 76.41039239999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8zSmgG0pEDkRed_yDMWQoAs",
+      "name": "IndianOil",
+      "address": "Ground Floor, Saifabadi Gate, Patiala",
+      "lat": 30.330204,
+      "lng": 76.41257499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJE1bhK5ApEDkR5TCnkWYpTS0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Patiala Balbera Road, Sanaur, Saniar Heri",
+      "lat": 30.2872537,
+      "lng": 76.42434779999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7wCIv_IoEDkRmJET9FBBYqI",
+      "name": "Bhagwan Dass & Sons Petrol Pump",
+      "address": "The Mall, PLOT NO 4 RAJINDRA DEVA YATIM KHANNA TRUST RAILWAY ROAD THE MALL, Sheran Wala Gate, Patiala",
+      "lat": 30.3399646,
+      "lng": 76.3998407,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNU0OLhcpEDkRo15MFSJWTfY",
+      "name": "Billu computer kanda",
+      "address": "Saniar Heri",
+      "lat": 30.2802362,
+      "lng": 76.4215164,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRUWcvpMoEDkRhp6-ayrha7A",
+      "name": "Dhamot filling station - petrol pump",
+      "address": "Rajbaha Road, Patiala",
+      "lat": 30.3444715,
+      "lng": 76.39435399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJb-AeqJEoEDkRKrqfreAl3Hg",
+      "name": "Kabir Dash Petrol Pump",
+      "address": "38, Sirhind-Patiala Road (SH-8), Guru Ram Dass Nagar, Patiala",
+      "lat": 30.348551,
+      "lng": 76.39557700000002,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJnfQEPQApEDkRoHMuB90QxdE",
+      "name": "Jio BP Petrol Pump",
+      "address": "7CMJ+9R, Patiala",
+      "lat": 30.2833848,
+      "lng": 76.4321057,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJWcQBd8YpEDkR-Q3Cpj2u3GQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Sanaur Road, Patiala",
+      "lat": 30.309302,
+      "lng": 76.43856699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-SqkGZMpEDkR6BlN60eL9x8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Pat to Sngrur Road, NH 7, Patiala Bypass, Patiala",
+      "lat": 30.317871,
+      "lng": 76.436882,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVVVVZWAoEDkRj8imoH80xgU",
+      "name": "IndianOil",
+      "address": "Main Market, Gurbax Colony, Patiala",
+      "lat": 30.344446,
+      "lng": 76.41163150000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhSKeeUQoEDkRDDBIYCXmaMs",
+      "name": "BHATIA MOTOR",
+      "address": "India",
+      "lat": 30.33786649999999,
+      "lng": 76.4250363,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJTRu1bUQoEDkRMk62XfpR3a4",
+      "name": "Shree Ganesh Oil Company",
+      "address": "India",
+      "lat": 30.33734,
+      "lng": 76.4256765,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJW_QNXsQpEDkRxihkbepMEZE",
+      "name": "Sant Filling Station pat",
+      "address": "Sant Filling Station, Sanaur",
+      "lat": 30.3073176,
+      "lng": 76.44148290000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUwFbJpYpEDkRtFmSnZvjIkg",
+      "name": "Daljit Petros",
+      "address": "Daljit Petros Sant hazara singh, nagar, Sanaur Road, Patiala",
+      "lat": 30.3025095,
+      "lng": 76.4417086,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZXGYNEEoEDkRGUVf04hSNAI",
+      "name": "Jain Petrol Pump",
+      "address": "8CQH+CMG, Friend Colony, Patiala",
+      "lat": 30.338516,
+      "lng": 76.4292887,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrUP0ip4pEDkRW4b4YGLrwls",
+      "name": "Ramoji Filling Station",
+      "address": "Ramoji Filling Station, NH-7, Sangrur Road, Patiala",
+      "lat": 30.3222047,
+      "lng": 76.4409946,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJtzIY2corEDkRUA5GI5h3bGU",
+      "name": "Grewal Filing Station (ਗਰੇਵਾਲ ਫਿਿਲੰਗ ਸਟੇਸ਼ਨ) ਸਫੇੜਾ ਅੱਡਾ",
+      "address": "7C35+MJM, Adda, Saferra",
+      "lat": 30.2542172,
+      "lng": 76.4090434,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC5Ue3MorEDkR6MAedcKvLBs",
+      "name": "IndianOil",
+      "address": "Ground Floor, Saphera, Cheeka Road, New Lal Bagh Colony, Patiala",
+      "lat": 30.254026,
+      "lng": 76.40875199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKQKXT6goEDkRxsTHJSUx7b0",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bhadson Road, Patiala",
+      "lat": 30.358826,
+      "lng": 76.372925,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgfDBt4MoEDkRdNEWt8Rt8cA",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sirhind Road, Patiala",
+      "lat": 30.36069699999999,
+      "lng": 76.40289299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ06hfVNgpEDkRQDoIha08Js0",
+      "name": "Bharat Petroleum, Petrol Pump -Sardar Sarup Singh Filling Station",
+      "address": "SANOUR NEAR BUS STAND, Patiala",
+      "lat": 30.31022160000001,
+      "lng": 76.4535521,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJA5LSoWIpEDkRzjcqNa0J5uI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Urban Estate Phase II, Urban Estate, Patiala",
+      "lat": 30.3481529,
+      "lng": 76.4319343,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJa-G2-xUoEDkRNBJ8h1IFjNs",
+      "name": "IndianOil",
+      "address": "NH 64, Rajpura Road, Patiala",
+      "lat": 30.345604,
+      "lng": 76.43811099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHa8lkuknEDkRHMAcvME-Oxg",
+      "name": "Hp paradise gas service",
+      "address": "Street Number 15, Tripuri, Patiala",
+      "lat": 30.3666177,
+      "lng": 76.3778493,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJaSzIDh0oEDkRovqZR3dm0W8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Punjabi University, Patiala, Rajpura Road, Karheri, Oppst, Patiala",
+      "lat": 30.355781,
+      "lng": 76.45440099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeeVCKwbXDzkRK6zIJ8vggjg",
+      "name": "IndianOil",
+      "address": "Ground Floor, Urban Estate, Jogipur",
+      "lat": 30.34063,
+      "lng": 76.505577,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ07CKuSTUDzkRV43WZx8hdnI",
+      "name": "IndianOil",
+      "address": "Ground Floor Patiala Sannaur, Nanaula Road, Bhankhar",
+      "lat": 30.275248,
+      "lng": 76.518791,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq8e5qozXDzkRXSWjeherYzs",
+      "name": "GURJINDER GAS SERVICE GHANAUR",
+      "address": "9F8H+HQ9, Ghanaur Patiala Road, Bahadurgarh, Rurki Kasba",
+      "lat": 30.3664177,
+      "lng": 76.4794936,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWxb4YvbXDzkRAkkniukraAQ",
+      "name": "Guru Teg Bahadur Filling Station",
+      "address": "9F9F+F4R, Seel Road, Ghanaur Patiala Road, Bahadurgarh, Patiala",
+      "lat": 30.3687491,
+      "lng": 76.4727616,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ7VL7pabWDzkR6G9HsFqy95I",
+      "name": "BATTA FILLING STATION",
+      "address": "Village Batta, Sanaur",
+      "lat": 30.2924173,
+      "lng": 76.5322833,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbSMZKBLXDzkRaKteRwoOL5k",
+      "name": "IndianOil",
+      "address": "Ground Floor, Ghanaur, Rajpura, Seel",
+      "lat": 30.347908,
+      "lng": 76.516487,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfSej1H0qEDkRsdUcNwKMZOY",
+      "name": "Bharat Petroleum, Petrol Pump -S R Filling Station",
+      "address": "PANJETA ON DEVIGARH ROAD, Patiala",
+      "lat": 30.2359948,
+      "lng": 76.45021129999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRXNbST3XDzkRTwtAhbHZr_I",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Bahadurgarh Ghanaur Road, Chappar",
+      "lat": 30.3432575,
+      "lng": 76.5259255,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJh83aVgclEDkR1xf8fr-yYJ0",
+      "name": "IndianOil",
+      "address": "Bahera Road, Bhadson Road, Bakshiwala, Patiala",
+      "lat": 30.3937956,
+      "lng": 76.3171385,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcVufaL8lEDkRnyZVkb10BtU",
+      "name": "IndianOil",
+      "address": "Ground Floor, Patiala Bhadson Road Sidhuwal, Urban Estate, Patiala",
+      "lat": 30.383706,
+      "lng": 76.33981399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJv8zsOQAlEDkRh4a6U0luPsc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Bhadson Road, Bakshiwala, Patiala",
+      "lat": 30.39930099999999,
+      "lng": 76.311993,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlYwyU_0lEDkR7XjlRziP9Xw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Bhadson Road, Jassowal",
+      "lat": 30.3708943,
+      "lng": 76.3635716,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9UCeWJM7EDkRuZs7_HpwfOQ",
+      "name": "Manju's BPCL Petrol Pump ( AFS) , Rakhra, Patiala",
+      "address": "On, Nabha-Patiala Road, Rakhra",
+      "lat": 30.3663257,
+      "lng": 76.2686116,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ78BAyAYmEDkRUl_b0mfOoQc",
+      "name": "Dhindsa Petrol Pump",
+      "address": "Ranjit Nagar, Patiala",
+      "lat": 30.3668686,
+      "lng": 76.3681601,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnQVhOgAnEDkRP47BGO9YF7A",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Deep Nagar Road, Jhill, Patiala",
+      "lat": 30.37638739999999,
+      "lng": 76.39084129999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ65g5zek7EDkRYzHBpXm-1YU",
+      "name": "Rakhra Filling Station ( CNG and EV charge also available)",
+      "address": "Nabha-Patiala Road, Rakhra",
+      "lat": 30.373765,
+      "lng": 76.2439305,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy-42ge4jEDkR-0CSGwrkc7E",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Allowal",
+      "lat": 30.44355,
+      "lng": 76.29444,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ821VBmAjEDkRd1hJUv4749U",
+      "name": "HP PETROL PUMP - LALKA H P CENTRE",
+      "address": "Ground Floor, Allowal",
+      "lat": 30.4435501,
+      "lng": 76.2944401,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_fISvaskEDkRVvOxohquKF8",
+      "name": "IndianOil",
+      "address": "Allowal, road, Kansuha Kalan",
+      "lat": 30.436657,
+      "lng": 76.27462799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuSCy_i4mEDkRaK2MPpmE0uM",
+      "name": "IndianOil",
+      "address": "Ground Floor Sirhind Road, Road, Bahera",
+      "lat": 30.372066,
+      "lng": 76.401625,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJp9SnwIAnEDkR8yVvvtU4YE0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Sirhind - Patiala Road, Hassanpur, Patiala",
+      "lat": 30.380521,
+      "lng": 76.401701,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnflieQAnEDkRM6V9A7Jwf-4",
+      "name": "SIDHU PETRO STATION",
+      "address": "Arsh Nagar, Alipur, Patiala",
+      "lat": 30.3708903,
+      "lng": 76.4044538,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJs3re_N4nEDkRwUVQP5hWR_k",
+      "name": "Nayara Gas Station",
+      "address": "Patiala",
+      "lat": 30.39387609999999,
+      "lng": 76.4033729,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJR55KtEAnEDkR4aQ-TQ-jrZo",
+      "name": "Bharat Petroleum, Petrol Pump -Ajit Fuels",
+      "address": "BARAN ON PATIAL ROAD, Patiala",
+      "lat": 30.40512589999999,
+      "lng": 76.40450500000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-wP59_4mEDkRf5i0MxpMJPw",
+      "name": "IndianOil",
+      "address": "Ground Floor SH 31, Sirhind Road,Bahera, Road, Patiala",
+      "lat": 30.413418,
+      "lng": 76.407341,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJR9x2SuImEDkRhzawMTRvi58",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, opposite Tricone City, Sirhind - Patiala Road, Kasiana",
+      "lat": 30.426593,
+      "lng": 76.407005,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJu_QiFAAnEDkRIEk0FQofROs",
+      "name": "Durga Petro Mart",
+      "address": "Kasiana",
+      "lat": 30.433882,
+      "lng": 76.4072688,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9fnf6h4nEDkRDHcl-fqXF3c",
+      "name": "ARJAN ENERGY STATION",
+      "address": "Sirhind - Patiala Road, Kasiana",
+      "lat": 30.43713579999999,
+      "lng": 76.4065443,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJuWI21lTZDzkRsWm-4tb0vDc",
+      "name": "DHINDSA PETRO POINT",
+      "address": "9FR9+68R, Daun Kalan",
+      "lat": 30.39061769999999,
+      "lng": 76.4682766,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJI6_qFDDYDzkRUdGgZYoD8iA",
+      "name": "B.P. PETROL PUMP",
+      "address": "9FPR+CVV, National Highway 64",
+      "lat": 30.3861123,
+      "lng": 76.4921839,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJgfiVGwHZDzkRYLbRpV_2QIY",
+      "name": "Jio-bp pulse",
+      "address": "Ground Floor, NH 7, Rajpura Road, Muradpur",
+      "lat": 30.4006276,
+      "lng": 76.5085527,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYRS-hrbZDzkRqFfF9rhPkAE",
+      "name": "IndianOil",
+      "address": "Ground Floor Rajpura Rd, NH 64, Rajpura - Patiala Road, Muradpur",
+      "lat": 30.400995,
+      "lng": 76.50855299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJp4bqq6fZDzkRjOqqIxw8atM",
+      "name": "Bharat Petroleum, Petrol Pump -Guru Nanak Petro Mall",
+      "address": "CHAMARHERI ON NH64, Patiala",
+      "lat": 30.4089784,
+      "lng": 76.51307700000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJZCRuqTZDzkRksJg0h59bHU",
+      "name": "IndianOil",
+      "address": "Ground Floor Old NH 64, Bir Kauli, Bir Kauly, near 31, to, 41 kms, Patiala",
+      "lat": 30.410885,
+      "lng": 76.5187924,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8-_5UEEjEDkROdBAoEhQwfQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, Patiala Bhadson Road Dittupur,Bhari, Patiala",
+      "lat": 30.475191,
+      "lng": 76.298912,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkePrp1IhEDkRnFOtPk8LZEU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Road, Fagan Majra",
+      "lat": 30.4523711,
+      "lng": 76.3752337,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgbv41x4hEDkR2GJ0QwKOlEM",
+      "name": "IndianOil",
+      "address": "Ground Floor, SH 31, Sirhind - Patiala Road, ਜਖਵਾਲੀ",
+      "lat": 30.4802438,
+      "lng": 76.4053303,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJd44-vgMhEDkRxKtMq0h_KvM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Sirhind - Patiala Road, ਜਖਵਾਲੀ",
+      "lat": 30.49277099999999,
+      "lng": 76.40569099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJt5FOZwAhEDkRRXDzxzTc2dk",
+      "name": "Powerzone Filling Station",
+      "address": "FC94+3CF, Malaheri",
+      "lat": 30.4676959,
+      "lng": 76.4060447,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ8Ymc3lAhEDkRXFfRjs4w9bY",
+      "name": "Cheema Filling Station (Bharat Petroleum) (CNG & EV Charging Station)",
+      "address": "Cheema Filling Station (Bharat Petroleum), Patiala-Sirhind Road MDR-31, Village Gunia Majra Teh, Village, Gunia Majra",
+      "lat": 30.4724443,
+      "lng": 76.4050134,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm52feHggEDkReUqpJ3Za2us",
+      "name": "IndianOil",
+      "address": "Ground Floor, RR, Amargarh, Basantpura - Jakhwali Link Road, Sirhind",
+      "lat": 30.51534999999999,
+      "lng": 76.457809,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvf-2-OTZDzkRnR6JA7KbtiA",
+      "name": "IndianOil",
+      "address": "Ground Floor Kauli, Road, Akar, Baran",
+      "lat": 30.44640009999999,
+      "lng": 76.4737001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJv7dm9rHfDzkR_Dydf9k_pKE",
+      "name": "IndianOil",
+      "address": "Ground Floor Rajpura Sehra, Road, Tehalpura, Basantpura",
+      "lat": 30.4704001,
+      "lng": 76.4700101,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJw1HNA47fDzkRpXKnWs8yTaE",
+      "name": "Bharat Petroleum, Petrol Pump -Satkar Filling Centre",
+      "address": "SEHRA ON RAJPURA ROAD, Patiala",
+      "lat": 30.4688854,
+      "lng": 76.47737459999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFV06NQDfDzkRCT11Y0EUhcM",
+      "name": "Petrol pump , Pabri",
+      "address": "FG9M+CF4, Pabri, Rajpura Rd, Damanheri",
+      "lat": 30.46851520000001,
+      "lng": 76.5336269,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ430oqGLZDzkRSIpEVW6Q3tQ",
+      "name": "Dhindsa petrol pump",
+      "address": "CGGP+H9V, Dhindsa",
+      "lat": 30.427324,
+      "lng": 76.53661699999999,
+      "open_now": null
+    }
+  ]
+}

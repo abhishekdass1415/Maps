@@ -1,0 +1,1611 @@
+{
+  "city": "Amritsar",
+  "state": "Punjab",
+  "count": 200,
+  "center": {
+    "lat": 31.634,
+    "lng": 74.8723
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJ3eniYzF6GTkRxFA3-e6xxv4",
+      "name": "Nayara Petrol Pump",
+      "address": "GRX9+8V5, Amritsar",
+      "lat": 31.5482567,
+      "lng": 74.8197199,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJf8492ul5GTkR0YZWb1By-GM",
+      "name": "IndianOil",
+      "address": "Jhabal Mannan",
+      "lat": 31.5076798,
+      "lng": 74.79597799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJa6rjTkhlGTkRBOWjKQ8gfqk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Grand Trunk Road, Chheharta, Amritsar",
+      "lat": 31.628301,
+      "lng": 74.80200099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJk0m1UGZ7GTkRebHEIKjeoY0",
+      "name": "IndianOil",
+      "address": "Ground Floor, Grain Market, Bhagtanwala, Mule Chak",
+      "lat": 31.6015333,
+      "lng": 74.8650799,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ95LQFjdlGTkRqt035tHhRaA",
+      "name": "Bharat Petroleum Petrol Pump",
+      "address": "JRH5+Q5H, G.T. Rd, Near Khandwala, Modren Colony, Chheharta, Amritsar",
+      "lat": 31.62942799999999,
+      "lng": 74.8079829,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJERjLBlR7GTkR31HWS9jUxjs",
+      "name": "Bharat Petroleum Petrol Pump , RANDHHWA FILLING STATION",
+      "address": "BOHRUBOHRU, Amritsar",
+      "lat": 31.55756899999999,
+      "lng": 74.826149,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIbmi7617GTkRa_IAApV_8HM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Ibban Kalan",
+      "lat": 31.568144,
+      "lng": 74.8321174,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFyVIHHdwGTkR7uxxkvbpAQY",
+      "name": "IndianOil",
+      "address": "Ground Floor, Chehratta Baba Budha Road, Chheherta, Basarke, Amritsar",
+      "lat": 31.58548699999999,
+      "lng": 74.776787,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLS8vRwB7GTkRXXsoGsd8ksw",
+      "name": "Dr Parminder Singh Dhillon",
+      "address": "HQWW+VPQ, Khapar Kheri",
+      "lat": 31.596971,
+      "lng": 74.796796,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ06wk7mlxGTkRYcbXJklPLsI",
+      "name": "IndianOil",
+      "address": "GF, Chheharta Baba Budha Ji Sahib Road, Chheherta, Dhand",
+      "lat": 31.549366,
+      "lng": 74.758934,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIy-7YeBxGTkRO5x2NwuNhX4",
+      "name": "Raju Kisan Sewa Kandar",
+      "address": "Asr, Dhand",
+      "lat": 31.546888,
+      "lng": 74.7589548,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJP4Cb96V6GTkRDtSlPGB0Qzc",
+      "name": "IndianOil",
+      "address": "Ground Floor Basarke Chirata, Chabal Road, Chheharta, Amritsar",
+      "lat": 31.606417,
+      "lng": 74.787453,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsUReYxR7GTkRt-xniK13d9k",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bus Stand, Chabbal Rd, Bharariwal, Amritsar",
+      "lat": 31.597883,
+      "lng": 74.847602,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVbQV9hR7GTkRrHjigR9PwKk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, SH 21, Amritsar - Khem Karan Road, Mule Chak",
+      "lat": 31.59904279999999,
+      "lng": 74.8477801,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9V0PfrN6GTkR6BNlG2r8QEQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near Gurudwara, Ground Floor Chheharta, near Gurudwara, Guru Ki Wadali, Amritsar",
+      "lat": 31.6165027,
+      "lng": 74.7980231,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM6-HY616GTkRp7MT_US8MdI",
+      "name": "HP Computer",
+      "address": "India",
+      "lat": 31.616338,
+      "lng": 74.7918637,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJzQ5koE53GTkR7nNFNzso8W8",
+      "name": "IndianOil",
+      "address": "GQC7+2PJ, Chettaha Road, Mianpur",
+      "lat": 31.520087,
+      "lng": 74.7642704,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJt4pLPT97GTkRbOf3CKORh7w",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Dam Gunj, Bharariwal, Amritsar",
+      "lat": 31.6070312,
+      "lng": 74.84871179999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAT2Uvkt7GTkR8D8v1Xl9jlY",
+      "name": "JAMMU FUELS ,New Essar Petrol Pump",
+      "address": "Road, Hakima Gate, Bharariwal, Amritsar",
+      "lat": 31.6061309,
+      "lng": 74.8572192,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH2dolpp7GTkRBEM0DuA8Jw0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Khasra No 631Min, Chabal Road, Khazana Wala Gate, Amritsar",
+      "lat": 31.6124467,
+      "lng": 74.851317,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6UwuJgB7GTkRFcO4I9u0qbg",
+      "name": "S.R Filling Station",
+      "address": "JV72+4GC, Chabbal Road, Indra Colony, Amritsar",
+      "lat": 31.6128112,
+      "lng": 74.8512774,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJV3luV957GTkRNmMjKYZaOEg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Dhapai Road, Dhapai, Amritsar",
+      "lat": 31.6144799,
+      "lng": 74.8493202,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJf1rqpfhvGTkR5CCtFuzB7ZA",
+      "name": "Nayara Energy - VJ Filling Station",
+      "address": "near Krishna Mandir, Grand Trunk Road, Naraingarh, Chheharta, Amritsar",
+      "lat": 31.6270239,
+      "lng": 74.78538759999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJd3lAxFdlGTkRjx2UJOYEhAA",
+      "name": "IndianOil",
+      "address": "143105, Shri Guru Amar Dass Nagar, Chheharta, Amritsar",
+      "lat": 31.6262652,
+      "lng": 74.7815166,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnTKbFjdlGTkR8keErESOlLM",
+      "name": "Shri Guru Hargobind FILLING STATION",
+      "address": "India",
+      "lat": 31.6295543,
+      "lng": 74.8080789,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJP_9lHRFlGTkRdMnJLbPe9Ko",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Kot Khalsa Road, Amritsar",
+      "lat": 31.625796,
+      "lng": 74.8294204,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWX5Xnl55GTkR9AUPB2Gd8VA",
+      "name": "IndianOil",
+      "address": "Aim, Ground Floor Amritsar, Road, A Kalan, Chabal Kalan",
+      "lat": 31.498634,
+      "lng": 74.790858,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJI8VdDG9lGTkRb4he4d3Vu1g",
+      "name": "IndianOil",
+      "address": "Ground Floor, opposite OCM Mills, Khandwala, Amritsar",
+      "lat": 31.62989249999999,
+      "lng": 74.81170039999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ19QqegBlGTkRKOfPknM_-w8",
+      "name": "Petrol Pump",
+      "address": "shri guru hargobind filling station, gt road, chowk, Khandwala, Amritsar",
+      "lat": 31.63005369999999,
+      "lng": 74.816075,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJayKS2i9lGTkRrJaYYAD0gvw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Rayon & Silk Mill, near Maya Cinema, Grand Trunk Road, Amritsar",
+      "lat": 31.630291,
+      "lng": 74.816221,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvSPzfCplGTkR_k5as6LWt8U",
+      "name": "IndianOil",
+      "address": "Sher Shah Suri Road, Ghanupur, Khara",
+      "lat": 31.6322362,
+      "lng": 74.8032234,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJn-pC72BlGTkRm8a8AeTwMJE",
+      "name": "Petrol Pump",
+      "address": "Model Town, Amritsar",
+      "lat": 31.6304553,
+      "lng": 74.824163,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJrehtEk97GTkR7OOxW2t1e0w",
+      "name": "IndianOil",
+      "address": "Ground Floor, Chabal Road, Amritsar",
+      "lat": 31.616663,
+      "lng": 74.85876499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZxF_Ek97GTkRNeSY94tIeOA",
+      "name": "Bedi service station",
+      "address": "Bedi Service Station, Chabal Road, Khazana Gate, Dharamkanda, Amritsar",
+      "lat": 31.6167574,
+      "lng": 74.858747,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ-eDh5pp8GTkR5a9KvraBFCU",
+      "name": "IndianOil",
+      "address": "opp. ent hospital, Ground Floor Tarn Taran Road, opp. ent hospital, Majitha road, Amritsar",
+      "lat": 31.5974968,
+      "lng": 74.88331649999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHQPaMC98GTkRvqgGVwb3NsE",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Khalsa College, Varpal",
+      "lat": 31.54976,
+      "lng": 74.911093,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMRdR4ph8GTkRbYQOE1QFo7Y",
+      "name": "IndianOil",
+      "address": "Ground Floor, Amritsar-Tarn Taran Road, Amritsar",
+      "lat": 31.604599,
+      "lng": 74.881546,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy_u9QOp8GTkRkEFfZaMz8y8",
+      "name": "Bharat Petroleum Corporation Limited-Sharda Power Point",
+      "address": "Near Canal, Main Sultanwind Rd, Kapoor Nagar, Amritsar",
+      "lat": 31.607571,
+      "lng": 74.901811,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFcrQpL58GTkRXTIr8PRCgng",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sultanwind Road, Amritsar",
+      "lat": 31.612801,
+      "lng": 74.892303,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLQDBSbh8GTkRJnmSd6K4WCw",
+      "name": "IndianOil",
+      "address": "Ground Floor, 100 Feet Road, Amritsar",
+      "lat": 31.618019,
+      "lng": 74.895021,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM_8-1lN7GTkRK2yoUd9os94",
+      "name": "Petrol bebra",
+      "address": "JVC8+M87, Khai Mohalla, Amritsar",
+      "lat": 31.6216738,
+      "lng": 74.8658019,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCUAPW7B8GTkR4fCl19-flZ0",
+      "name": "Bharat Petroleum - Sharma Filling Station",
+      "address": "JVCQ+67J, Chamrang Road, Guru Ravi Dass Marg, East Mohan Nagar, Ajit Nagar, Katra Ahluwalia, Amritsar",
+      "lat": 31.62059,
+      "lng": 74.8881459,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzWfFkPZkGTkRjLgJ1iJRfXc",
+      "name": "IndianOil",
+      "address": "Ground Floor, Airport Road, Amritsar",
+      "lat": 31.6229337,
+      "lng": 74.8788227,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuUe9A658GTkRdEEO25SUpTE",
+      "name": "Bharat Petroleum",
+      "address": "Ghee Mandi, Guru Ram Das Market, Baghramanand, Amritsar",
+      "lat": 31.6235072,
+      "lng": 74.8855872,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ9fp67cV8GTkRWZ7JMwlRFtc",
+      "name": "A H Padam Petroleum",
+      "address": "Grand Trunk Road, Rajinder Nagar, Maqbool Pura, Amritsar",
+      "lat": 31.619154,
+      "lng": 74.906611,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ54iNmMh8GTkRqXdk8Jj8tTk",
+      "name": "Bharat Petroleum Energy Station Mela Ram and Sons GT Road",
+      "address": "Grand Trunk Road, Sant Avenue, Pratap Nagar, Amritsar",
+      "lat": 31.620851,
+      "lng": 74.901861,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdXIlMdt8GTkR1DNBiBgGK7M",
+      "name": "IndianOil",
+      "address": "near Olivia International School, Grand Trunk Road, Sultanwind, Amritsar",
+      "lat": 31.618294,
+      "lng": 74.90946199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeW_G8d98GTkRNIFH4buS8fE",
+      "name": "IndianOil",
+      "address": "Ground Floor, Grand Trunk Road, INA Colony, Amritsar",
+      "lat": 31.612438,
+      "lng": 74.920478,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzbxWIKpkGTkRzEKx20xR8nU",
+      "name": "Petrol Pump",
+      "address": "Hathi Gate, Katra Ahluwalia, Amritsar",
+      "lat": 31.6333967,
+      "lng": 74.87247789999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJJz-AHKlkGTkRzSWf9C26raA",
+      "name": "Bharat Petroleum Petrol Pump",
+      "address": "Court Road, INA Colony, Amritsar",
+      "lat": 31.6338998,
+      "lng": 74.8718688,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJ135LbZkGTkR4mjn1S9YAEE",
+      "name": "IndianOil",
+      "address": "near Railway Workshop, Cherrata Road, Putligarh, Amritsar",
+      "lat": 31.63318099999999,
+      "lng": 74.851227,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5YytHbFkGTkRkNK4P5MhEZg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, opposite Sadar Police Station, Rani Ka Bagh, Amritsar",
+      "lat": 31.6346147,
+      "lng": 74.8585721,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWwBvKRN8GTkRpa-SqIDaQ1w",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Amritsar-Tarn Taran Road, Chabba",
+      "lat": 31.5625777,
+      "lng": 74.8891995,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYRRaF7V9GTkRNv03WMm6CB8",
+      "name": "ESSAR NAMDHARI PETROLPUMP",
+      "address": "HVFP+GPP, Barnala - Amritsar Bypass Road, Gurwali",
+      "lat": 31.5738436,
+      "lng": 74.88684219999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJk5ew9G98GTkRxHA6zhuEEEg",
+      "name": "NAYARA",
+      "address": "India",
+      "lat": 31.5737435,
+      "lng": 74.8872181,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ3xi2vw99GTkR3fSQDHtUsgg",
+      "name": "IndianOil",
+      "address": "Ground Floor, Amritsar-Tarn Taran Road, Gurwali, Bagrian",
+      "lat": 31.576977,
+      "lng": 74.887344,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQzNNPJB_GTkRHc0X76sJRc0",
+      "name": "Bharat Petroleum, CNG ,Petrol Pump -Shri Guru Arjan Dev Filling Station",
+      "address": "BALACHAK, Tarn Taran Sahib",
+      "lat": 31.5474364,
+      "lng": 74.8906703,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtco4hzF9GTkRvXToviD-Gis",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Amritsar-Tarn Taran Road, Kot Mit Singh, Amritsar",
+      "lat": 31.589327,
+      "lng": 74.8845338,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5Q22tqZ8GTkRBeOeiloNyZc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Inner Circular Road, Cantt, Amritsar",
+      "lat": 31.6122592,
+      "lng": 74.8787447,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbQTv1w99GTkRF91qFaIO5xM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Wind Bypass, Sultanwind, Amritsar",
+      "lat": 31.607633,
+      "lng": 74.90251959999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfZIRKal9GTkRmHPc2G-SLsY",
+      "name": "SAHOTA 2.0",
+      "address": "JW45+G28, pind patti balol di dist, Sultanwind, Amritsar",
+      "lat": 31.6062859,
+      "lng": 74.907572,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJVVVVVcB-GTkRDQVHN0d4nsQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bus Stand, near Amritsar, Nh 54, Old NH 15, Gohalwar",
+      "lat": 31.514736,
+      "lng": 74.89446099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKRX5qzF7GTkRCchs5U8igW0",
+      "name": "Pollution check center",
+      "address": "M8/4266, Gurbax Nagar, Khazana Wala Gate, Amritsar",
+      "lat": 31.617937,
+      "lng": 74.8590109,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ_X5mSsJ-GTkRKyu2ev46AXs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Thathi",
+      "lat": 31.5121584,
+      "lng": 74.89478720000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrf8BF057GTkRSxUglHbHnF4",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bakkar Mandi, near Lahori Gate, Amritsar",
+      "lat": 31.619869,
+      "lng": 74.8614889,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJ8EJNgZ7GTkRfiX0lFKZCnw",
+      "name": "Bharat Petroleum & CNG",
+      "address": "Beri Gate Market, Amritsar",
+      "lat": 31.6217056,
+      "lng": 74.8657116,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJYylQ2LF8GTkRrBqx0uoHUAw",
+      "name": "Goldy Service Station",
+      "address": "Shop No. 246 A, Ghee Mandi, New Kaulsar Market, Katra Ahluwalia, Amritsar",
+      "lat": 31.62207199999999,
+      "lng": 74.8859459,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJyRgXc0x7GTkRmeGAS2zbeXA",
+      "name": "IndianOil",
+      "address": "Jwala Flour Mill, Daimganj, Nawan Kot, Amritsar",
+      "lat": 31.621872,
+      "lng": 74.857033,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJU7tSc9x8GTkRGHUlxzJ8a6I",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Tarn Taran, Grand Trunk Road, Wala, Amritsar",
+      "lat": 31.61587099999999,
+      "lng": 74.91366599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtWsRF6B9GTkR5UcSAnzWZRg",
+      "name": "IndianOil",
+      "address": "near SSSS School, Vallah Road, near SSSS School, Chowk, Maqbool Pura, Amritsar",
+      "lat": 31.6215899,
+      "lng": 74.9032094,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXT3qlZN9GTkR6nbS1cVwrvg",
+      "name": "Bharat Petroleum",
+      "address": "Grand Trunk Road, Transport Nagar, Golden Avenue, Amritsar",
+      "lat": 31.6248766,
+      "lng": 74.8942972,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJx7gMIq18GTkR0P6zsy3xf_o",
+      "name": "IndianOil",
+      "address": "Ground Floor, Outside, Mahan Singh Gate Road, City Centre, Amritsar",
+      "lat": 31.6280606,
+      "lng": 74.8830971,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJv4_KobN8GTkR3pc_AABl0fY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Grand Trunk Road, Ram Talai, Amritsar",
+      "lat": 31.6271268,
+      "lng": 74.8901214,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSyDX7L59GTkRMAASWWQDvFI",
+      "name": "Mitul Mehra",
+      "address": "A-84-A, New, New Amritsar Colony, Amritsar Cantt.",
+      "lat": 31.6134458,
+      "lng": 74.92273300000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJgSSTBmJ9GTkRwpCi5yCGd-M",
+      "name": "Nayara Petrol Pump-Narayan Filling Station",
+      "address": "opp. Ram Mandir, Grand Trunk Road, Ram Talai, Amritsar",
+      "lat": 31.6277776,
+      "lng": 74.89031969999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJ_93bbN8GTkRRqJ3x9OK1sw",
+      "name": "mata lal devi fillibg station",
+      "address": "15/15, Ram Talai, Sharifpura, Amritsar",
+      "lat": 31.6280887,
+      "lng": 74.8903656,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqdGTf7F9GTkRJIqVJ-2i3uc",
+      "name": "Yugraj Singh 1999",
+      "address": "Yugraj Singh 1999, Batala",
+      "lat": 31.6289891,
+      "lng": 74.8917872,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJoU8_b6xkGTkRrrB5kjqu9Ls",
+      "name": "HP PETROL PUMP - RAJKUMAR AND COMPANY",
+      "address": "Ground Floor, Fort Road, Goal Bagh, Amritsar",
+      "lat": 31.63094189999999,
+      "lng": 74.8671978,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL3LQM6VjGTkRVdwPtZXOYRk",
+      "name": "Bharat Petroleum, Petrol Pump -Mela Ram & Sons, A/C G T Road",
+      "address": "GT ROAD ASR CITY,AMRITSAR, Amritsar",
+      "lat": 31.631935,
+      "lng": 74.8814627,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJf1Zkj3RjGTkRkPlP39k3fVE",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kot Atma Singh, Amritsar",
+      "lat": 31.6323512,
+      "lng": 74.8803501,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmUVkHhJ9GTkR_vPSYCthXZ0",
+      "name": "IndianOil",
+      "address": "Ground Floor, Grand Trunk Road, Amritsar",
+      "lat": 31.603496,
+      "lng": 74.93843,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFzE9cEl9GTkR29m5mzk9iCA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Amritsar Mehta Road, Vallah, Amritsar",
+      "lat": 31.6311073,
+      "lng": 74.9501662,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJj5zYWCB9GTkRzhcDZlEJjSs",
+      "name": "IndianOil",
+      "address": "Ground Floor Daburjee, NH 1, Grand Trunk Road, Meharbanpur",
+      "lat": 31.59682800000001,
+      "lng": 74.95204199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeZMujHN9GTkRzR1gNRAJR8E",
+      "name": "IndianOil",
+      "address": "Ground Floor GT Road, Daburji Road, Meharbanpur",
+      "lat": 31.598588,
+      "lng": 74.948444,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhVWKu2TVGzkROUaqWRjfQh4",
+      "name": "IndianOil",
+      "address": "Ground Floor, National Highway 54, Valtoha, Bandala",
+      "lat": 31.5489997,
+      "lng": 74.98036789999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbQScUkXVGzkRPxs-8ChHLI0",
+      "name": "gurdial chohla sahib filling station bundala NH54",
+      "address": "GXXJ+C2, Sukhewala",
+      "lat": 31.5485029,
+      "lng": 74.98009449999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJfSyudYTXGzkRH1pPKBGRF0k",
+      "name": "IndianOil",
+      "address": "Ground Floor, Manawala, Grand Trunk Road, Meharbanpur",
+      "lat": 31.58630010000001,
+      "lng": 74.9754001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGxP7mbrVGzkRbMyxlyGbvFE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 54, Bathinda - Amritsar Highway, Bandala",
+      "lat": 31.545101,
+      "lng": 74.979362,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS9rWWl3VGzkRK_p8wj8kviw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor NH 54, Manawala Tarn Taran, Road, Bandala",
+      "lat": 31.5389718,
+      "lng": 74.9753795,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXczYHxJ9GTkRgnrZqus9s4M",
+      "name": "Gurdas Filling Station",
+      "address": "JW3Q+G93, g t road near police line, Daburji",
+      "lat": 31.6037682,
+      "lng": 74.9384211,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAyXXqu_XGzkR1on-yJGwHZc",
+      "name": "IndianOil",
+      "address": "Asian Highway 1, Meharbanpur",
+      "lat": 31.5814105,
+      "lng": 74.98883820000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-Qx0NwDVGzkRREtdHLzj_tE",
+      "name": "Jio bp",
+      "address": "GXF9+R8W, Amritsar 1",
+      "lat": 31.5246178,
+      "lng": 74.96833310000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJkatqUOvVGzkRO16iOF14b-U",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Jandiala - Tarn Taran Road, Bandala",
+      "lat": 31.530721,
+      "lng": 74.985861,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjVKMENDVGzkRrJnRUxozqlk",
+      "name": "IndianOil",
+      "address": "Ground Floor Bundala, Amritsar",
+      "lat": 31.544151,
+      "lng": 75.00357,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAais57fXGzkREXzIEY45qGg",
+      "name": "IndianOil",
+      "address": "opposite COCA-COLA FACTORY, near TOLL-PLAZA, Jandiala Guru",
+      "lat": 31.57286329999999,
+      "lng": 75.0100245,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLVXBtdR_GTkRVd-sq6ocsO8",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bus Stand, near Amritsar, Jandiala - Tarn Taran Road, Khabedogra, Amritsar",
+      "lat": 31.504906,
+      "lng": 74.963043,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcZ37rYnWGzkRAClCk_ZGadc",
+      "name": "ESSAR",
+      "address": "India",
+      "lat": 31.5703621,
+      "lng": 75.0165829,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJweiE1XDVGzkRKsRJ_XGhZIU",
+      "name": "HUNDAL FILLING STATION. Bharat Petroleum Petrol Pump ,",
+      "address": "JANDIAL GURU, Amritsar-Tarn Taran Road, Amritsar",
+      "lat": 31.5532163,
+      "lng": 75.01596599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnzCor7N9GTkRAN98JccvWvA",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Sriguru Ramdass Medical Instt, Amritsar Hargobindpur Road, Vallah, Nawan Pind",
+      "lat": 31.633773,
+      "lng": 74.962595,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtTMsabtkGTkRtFUQozPriPU",
+      "name": "IndianOil",
+      "address": "1A, Court Road, Kennedy Avenue, Amritsar",
+      "lat": 31.642405,
+      "lng": 74.860359,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-2DZAkxkGTkRsg7OuMoNmso",
+      "name": "KPS petro centre",
+      "address": "MRMM+G58, Raja Sansi Road, Heir, Bal Schander, Amritsar",
+      "lat": 31.68378799999999,
+      "lng": 74.832962,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJweGgRp1kGTkR0jeortjbOJU",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Rattan Singh Chowk, Fatehgarh Churian Road, Amritsar",
+      "lat": 31.6605026,
+      "lng": 74.8726523,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSfiNDGJjGTkRI3cRfSDNCJg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Circular Road, Amritsar",
+      "lat": 31.65725819999999,
+      "lng": 74.87454249999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2z52kiVlGTkRTOWSK1Bw6tU",
+      "name": "Bharat petroleum",
+      "address": "3, National Highway, Pind Kale, Amritsar",
+      "lat": 31.6400068,
+      "lng": 74.7921715,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJe0OZD_plGTkRtcZz56hi3K4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Ghanupur Kale Road, Amritsar",
+      "lat": 31.6454198,
+      "lng": 74.8072292,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJh6UUknBlGTkRgSEW7lNjXp0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Ram Tirath Road, Mahal Sub Urban",
+      "lat": 31.649043,
+      "lng": 74.8156151,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2-y2IdFkGTkRZB-Kyr5FUNs",
+      "name": "IndianOil",
+      "address": "Ground Floor, opposite Khalsa College Road, Attari Road, Amritsar",
+      "lat": 31.63166199999999,
+      "lng": 74.834473,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAeKysKNpGTkRCfoEvzOplKk",
+      "name": "Reliance Petroleum",
+      "address": "&, Post office, NH1, at MS445.5 , Village, Manawala Road, Amritsar",
+      "lat": 31.63313179999999,
+      "lng": 74.8380124,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJK6y1d39lGTkRz7thX6Lr9fQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, Ram Tirath Road, Wadala, Bhittewad",
+      "lat": 31.6612683,
+      "lng": 74.7833508,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbx5weMZkGTkRJ6tRrJdyikI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "348, Ram Tirath Road, Putligarh, Amritsar",
+      "lat": 31.638001,
+      "lng": 74.844911,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNfWTistkGTkRDhJ5gBrg2T0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near JK Dharam Anda, Krishna Nagar, Islamabad",
+      "lat": 31.628741,
+      "lng": 74.844901,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0d85znllGTkRB3wNR5igs8k",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Gumtala Link Road, Defense Enclave, Amritsar",
+      "lat": 31.65970799999999,
+      "lng": 74.84159009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUbZxz2tlGTkRzsNjLoBtuC8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Ramdas, Fatehgarh Churian Road, Defense Enclave, Amritsar",
+      "lat": 31.659708,
+      "lng": 74.841591,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzcI3AXpvGTkRBcCsFFpEgV0",
+      "name": "IndianOil",
+      "address": "Ground Floor, Baoli Sahib, Chawinda, Chowgawan Road, Amritsar",
+      "lat": 31.6657932,
+      "lng": 74.769107,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTZaw4cNlGTkR66d4pVM12jc",
+      "name": "IndianOil",
+      "address": "Ground Floor, Grand Trunk Road, Sadar, Amritsar",
+      "lat": 31.634136,
+      "lng": 74.855644,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbbByuINlGTkRHfoGfdjdon0",
+      "name": "Dala Prime Fuels - Indian Oil",
+      "address": "Rani Ka Bagh, Canal Colony, Amritsar",
+      "lat": 31.63828689999999,
+      "lng": 74.8557768,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJcHYkTt9GTkRR690A7LCzeU",
+      "name": "IndianOil",
+      "address": "Ground Floor, Golbagh, Amritsar",
+      "lat": 31.6429467,
+      "lng": 74.8564323,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJU6iKkPZkGTkRdz0r0yXHsdk",
+      "name": "Gupta Petrol Pump",
+      "address": "State Highway 25, Guru Amardas Avenue, Amritsar",
+      "lat": 31.66541309999999,
+      "lng": 74.84398750000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ--dJ4NxlGTkRQr9-KR38HHM",
+      "name": "Bharat Petroleum, Petrol Pump -Armaan Filling Station",
+      "address": "Raja Sansi Road, Defence Colony,D-Block, Ranjit Avenue, Amritsar",
+      "lat": 31.6649574,
+      "lng": 74.8446792,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS8kh4qJlGTkRnTREAQMvik0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Suburban, near Airport Road, Sahibzada Jujhar Singh Avenue, Gumtala, Amritsar",
+      "lat": 31.6696206,
+      "lng": 74.84193280000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx3FMfVhkGTkREVRsxJby0m0",
+      "name": "HP",
+      "address": "India",
+      "lat": 31.6698278,
+      "lng": 74.8417003,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJe-mHBbtkGTkRZH5fY7A9a-o",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Circle, Shivaji Park Road, Amritsar",
+      "lat": 31.641134,
+      "lng": 74.859985,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQxRBzrFkGTkRME7uW8dBQo4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Grand Trunk Road, Model Town, Amritsar",
+      "lat": 31.6345701,
+      "lng": 74.86164339999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNVV8-1lkGTkRQP9FLjraO1k",
+      "name": "IndianOil",
+      "address": "Airport Road, Urban Estate, Amritsar",
+      "lat": 31.6736072,
+      "lng": 74.8392652,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbcScefVlGTkRpEZdY8sgxdI",
+      "name": "Marwaha Petro",
+      "address": "41, Kennedy Avenue, Amritsar",
+      "lat": 31.6419167,
+      "lng": 74.8617766,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJw6AE8ztjGTkRkyc1EC0hVuw",
+      "name": "IndianOil",
+      "address": "Ground Floor, Batala Road, Amritsar",
+      "lat": 31.648191,
+      "lng": 74.904549,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJt1UYNgtjGTkRbDfifMATRyM",
+      "name": "HP - Khazan Filling Station",
+      "address": "Majitha-Verka By Pass, Nashera Village, Amritsar",
+      "lat": 31.671462,
+      "lng": 74.8979389,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAwh8JiBjGTkRgV2HFt91wuU",
+      "name": "IndianOil",
+      "address": "Ground Floor, Batala Road, Near Verka Chowk, Amritsar",
+      "lat": 31.65543119999999,
+      "lng": 74.9188052,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBzjk0hpjGTkR76q0zW97S1o",
+      "name": "IndianOil",
+      "address": "near Escort Hospital, NH 1, Batala - Amritsar Road, Amritsar",
+      "lat": 31.666071,
+      "lng": 74.911431,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ25ts859jGTkR1h33lH_HcQM",
+      "name": "Hardas Fuel Point Bharat Petroleum",
+      "address": "MVGW+PR7, Majitha Road, Dashmesh Avenue, Guru Teg Bahadur Nagar, Amritsar",
+      "lat": 31.676779,
+      "lng": 74.897043,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH1Tk83LYGzkRJF2RW1i649Q",
+      "name": "IndianOil",
+      "address": "Ground Floor, Batala Road, Amritsar",
+      "lat": 31.669783,
+      "lng": 74.939499,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVXOeVqpkGTkRmtRfzFJ-sTQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Court Road, Amritsar",
+      "lat": 31.6348411,
+      "lng": 74.87129519999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs8khYn9lGTkRxEimyBUifDI",
+      "name": "Raju Automobile",
+      "address": "JVMC+P5W, Grand Trunk Rd, near Delhi Motors, Taylor Road, INA Colony, Amritsar",
+      "lat": 31.6343503,
+      "lng": 74.8704404,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ495fAANlGTkRjbkqUfPNb9k",
+      "name": "Mela Ram & sons",
+      "address": "JVM9+VQF, Grand Trunk Road, INA Colony, Amritsar",
+      "lat": 31.6346767,
+      "lng": 74.8694261,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJNUQWp1FlGTkRrtWB0ShLSDg",
+      "name": "IndianOil",
+      "address": "67, Taylor Road, Amritsar",
+      "lat": 31.63713849999999,
+      "lng": 74.87063719999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpWseSlZjGTkRhzO4syIDbDw",
+      "name": "IndianOil",
+      "address": "Ground Floor, M.M Malviya Road, Company Bagh, Amritsar",
+      "lat": 31.63670899999999,
+      "lng": 74.875343,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCxjXFABlGTkRz74tzrJFyaI",
+      "name": "Harsha Automobiles CNG , PETROL & Diesel Pump",
+      "address": "M.M Malviya Road, Crystal Chowk, INA Colony, Amritsar",
+      "lat": 31.6368213,
+      "lng": 74.87550639999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJO_j8WFBjGTkRxN9mkJBGFyI",
+      "name": "HP PETROL PUMP - SITE BARKATRAM AMRITLAL",
+      "address": "JVQM+C63, Hpcl Retail Outlet Near Dental College Hukum Singh Road",
+      "lat": 31.63851,
+      "lng": 74.883044,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCToPG99jGTkR9MNB-AMfyzY",
+      "name": "Charanpreet 2000",
+      "address": "Charanpreet 2000, Lawrence Road, Amritsar",
+      "lat": 31.6484039,
+      "lng": 74.8796022,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJUz1-zqZjGTkRJe_LKac3tgg",
+      "name": "IndianOil",
+      "address": "Ground Floor, Majitha Road, Bhawani Nagar, Amritsar",
+      "lat": 31.646032,
+      "lng": 74.884804,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy4kJLyVlGTkRr6QGypuQVps",
+      "name": "JAGDAMBE FUEL POINT",
+      "address": "Shop No 5, Sur Singh District Tarntarn, Main Bazaar",
+      "lat": 31.649813,
+      "lng": 74.86434899999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJA9RVAoHXGzkRgQGnNC4vUfQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, Amritsar Mehta Rd, mehta road, Nawan Pind",
+      "lat": 31.641543,
+      "lng": 75.010403,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJt17x48NjGTkRbfDvRyxcBUA",
+      "name": "Jai Hind",
+      "address": "JWV4+6WM, New Rajesh Nagar, Amritsar",
+      "lat": 31.6430827,
+      "lng": 74.9073027,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJSTa0GYzXGzkR0VcRF_o_D24",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Amritsar Mehta Road, Chhapa Ram Singh",
+      "lat": 31.6368159,
+      "lng": 74.9791262,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY_gzR3BjGTkRr_8sxTVu1lU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Verka, Amritsar",
+      "lat": 31.6693485,
+      "lng": 74.9399435,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL56XdDljGTkRxVPFDepCjjY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Batala Road, Khanna Nagar, Amritsar",
+      "lat": 31.64576100000001,
+      "lng": 74.90198099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhUdNh0djGTkRRLGgXc4rdNc",
+      "name": "IndianOil",
+      "address": "Tungpai, Batala Road, Amritsar",
+      "lat": 31.643771,
+      "lng": 74.897202,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-Ze4mPZjGTkRBZjK4wmck_4",
+      "name": "Bharat Petroleum",
+      "address": "MXH3+25J, Batala - Amritsar Road, Mudhal",
+      "lat": 31.6775819,
+      "lng": 74.9529003,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJA2hbg4hiGTkRR_WGQ7BcuDc",
+      "name": "IndianOil",
+      "address": "Ground Floor, Batala - Amritsar Road, Vallah, Mudhal",
+      "lat": 31.6793852,
+      "lng": 74.95513179999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXUqdvnDYGzkRXEp5VFGvjr8",
+      "name": "IndianOil",
+      "address": "Fatehgarh Shukarchak",
+      "lat": 31.6726507,
+      "lng": 74.9747124,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJldYYGGdjGTkRx2fM8Ld7C4E",
+      "name": "IndianOil",
+      "address": "Ground Floor, Khalsa College, Pandori Waraich, Amritsar",
+      "lat": 31.680234,
+      "lng": 74.916721,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJA2ARQf5jGTkRruwG0XmBbPo",
+      "name": "Raja Kisan sewa kendar",
+      "address": "MWH8+W68, Unnamed Road",
+      "lat": 31.679784,
+      "lng": 74.915583,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5TC-khdjGTkRnTzZMjKoBvE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Amritsar Bypass Road, Rakshikargarh, Diamond Avenue, Amritsar",
+      "lat": 31.671701,
+      "lng": 74.898001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXeg00HNjGTkRlskHMQgRRk0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Raksi Karhah, near Green Field, Majitha Road, Amritsar",
+      "lat": 31.6671001,
+      "lng": 74.8923001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGR1-1oBoGTkRvT70VXQuiJA",
+      "name": "Essar Filling Station",
+      "address": "PQWG+V27, Harse Chhina",
+      "lat": 31.7471595,
+      "lng": 74.7750537,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ78nXnjllGTkRE_dh5scsU7I",
+      "name": "Indian Oil Corporation Limited",
+      "address": "PR55+H4W, Unnamed Road, Raja Sansi",
+      "lat": 31.7089778,
+      "lng": 74.8078169,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJX98SUcZnGTkR67yT5QCPRfY",
+      "name": "Reliance Aviation",
+      "address": "PR55+V7R, Raja Sansi",
+      "lat": 31.7097319,
+      "lng": 74.80812569999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJx6hCt3ZmGTkR1llwLYYLOUg",
+      "name": "IndianOil",
+      "address": "Ground Floor, Ajnala Road, Raja Sansi",
+      "lat": 31.71466,
+      "lng": 74.811041,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDczJXn1nGTkRjme3itdID68",
+      "name": "IndianOil",
+      "address": "Ground Floor, Raja Sansi Road, Raja Sansi",
+      "lat": 31.7010894,
+      "lng": 74.8212682,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfwaBixRmGTkR-Rudyu71WNc",
+      "name": "IndianOil",
+      "address": "Bus Stand, Ground Floor Rajasansi, near Amritsar, Road, Ajnala",
+      "lat": 31.726294,
+      "lng": 74.80155200000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHbjrzxVlGTkRw-ODJv4Yjo0",
+      "name": "IndianOil",
+      "address": "Ground Floor Kamboj, Ajnala Road, Kot Atma Ram, Amritsar",
+      "lat": 31.683923,
+      "lng": 74.83353,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJu9VD6t9nGTkRYa5Lcm8FwA4",
+      "name": "IndianOil",
+      "address": "Jawala Flour Mills, Ground Floor, Ajnala, Amritsar Road, Kukran Wala, Amritsar",
+      "lat": 31.74993499999999,
+      "lng": 74.787437,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJN_SKAYBoGTkRmw26vF6THYc",
+      "name": "IndianOil",
+      "address": "Ground Floor Harsha Chinna, Ajnala, Bagga Kalan",
+      "lat": 31.7499875,
+      "lng": 74.7804299,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpx4QCQBpGTkRg3rJyyP4oCM",
+      "name": "Filling Station",
+      "address": "QQ2J+354, Chogawan Road, Kukran Wala, Harse Chhina",
+      "lat": 31.7501326,
+      "lng": 74.78045100000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJK60UsxxlGTkRpZpJFfiNRDs",
+      "name": "IndianOil",
+      "address": "Ground Floor Loharka, Bagga Kalan",
+      "lat": 31.713507,
+      "lng": 74.86241900000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx2PiZNZnGTkRzMKddaSkwbE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Ajnala Road, Harse Chhina",
+      "lat": 31.7569692,
+      "lng": 74.7830523,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrXNAvblmGTkRZa0Fp6iVfv0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Sandhu Filling Station, Loharka Road, Amritsar",
+      "lat": 31.733793,
+      "lng": 74.860246,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpTbPDntkGTkRUca-pFFbp6k",
+      "name": "Bharat Petroleum",
+      "address": "MVH7+JX4, Loharka Road, Ranjit Vihar, Amritsar",
+      "lat": 31.6790061,
+      "lng": 74.8649482,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNQ9ihr1nGTkRMAnqyepRtMY",
+      "name": "IndianOil",
+      "address": "Indian Petrol Pump, Sensra",
+      "lat": 31.76527089999999,
+      "lng": 74.8105069,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMU20xkllGTkRJlc5tZnD4wM",
+      "name": "Gujarat Gas CNG Station",
+      "address": "MV86+223, Gumtala Sub Urban, Gumtala",
+      "lat": 31.6650141,
+      "lng": 74.86005519999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJdXxUUI9kGTkRCPfKvTrjMzk",
+      "name": "MS/HSD DHILLON HP AUTO FUELS",
+      "address": "Ground Floor, opposite Ranjeet Avenue, NH 1, Bypass Road, Gumtala, Amritsar",
+      "lat": 31.66523269999999,
+      "lng": 74.8618618,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEcp2cipjGTkRJLG8IrxIOSI",
+      "name": "Pal Energy Solutions, BPCL Petrol Pump",
+      "address": "Murad Pura, Naushehra",
+      "lat": 31.6875898,
+      "lng": 74.8832541,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqevk3oFjGTkRMo0IpzkIyrA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Springdale School, Fatehgarh Churian Road, Amritsar",
+      "lat": 31.6734326,
+      "lng": 74.8782554,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjYbmtRFhGTkRTPZn_vuHmng",
+      "name": "Essar Petrol Pump",
+      "address": "QW35+97V, Amritsar - Sangatpura - Fathegarh Churian Road, Shanewali",
+      "lat": 31.7534879,
+      "lng": 74.9081565,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJQS9tgO5jGTkR2REtONlCNiw",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bus Stand, near Amritsar, Chfurian Road, Murad Pura, Amritsar",
+      "lat": 31.700413,
+      "lng": 74.889275,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJr4WjPWFhGTkRI5ykXyKGy_U",
+      "name": "IndianOil",
+      "address": "Jawala Flour Mills, Ground Floor, Churian Amritsar Road Bal Kalan, Amritsar",
+      "lat": 31.724874,
+      "lng": 74.90158199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuUkkOGpjGTkRza8oqXs8xjg",
+      "name": "Uppal Filling Station",
+      "address": "MWQ5+WC5, Majitha Road, Pandori Waraich, Amritsar",
+      "lat": 31.68975249999999,
+      "lng": 74.90860660000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVwdqWVtjGTkRF20D_wipWJ4",
+      "name": "IndianOil",
+      "address": "Ground Floor, Majitha Road, Amritsar",
+      "lat": 31.668268,
+      "lng": 74.892395,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx8JMagBhGTkRrmi5PaIVebU",
+      "name": "Randhawa petroleum",
+      "address": "PWR4+RPC, Sohian Kalan",
+      "lat": 31.74207329999999,
+      "lng": 74.906764,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJUx46TgtlGTkRKeiOBqZPBVM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near Coca Cola Godown, Ground Floor Old Jail Road, near Coca Cola Godown, Circular Road, Amritsar",
+      "lat": 31.6551826,
+      "lng": 74.8694873,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq_-GGG1hGTkRZK_KSFV89NQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, near B R Dhab, Sohian Kalan",
+      "lat": 31.74328,
+      "lng": 74.906723,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo2916oBhGTkRp1ahaDT6ZUU",
+      "name": "CHANDI FILLING STATION",
+      "address": "Amritsar - Sangatpura, Fatehgarh Churian Road, Sahnewal",
+      "lat": 31.7494398,
+      "lng": 74.9074918,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFdWlGQBjGTkRfD_1I6XzJrk",
+      "name": "Gourav&house",
+      "address": "Bhagat Kabir Mar, Amritsar",
+      "lat": 31.719802,
+      "lng": 74.934871,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJK5ijKz1jGTkRpoB51Jemfco",
+      "name": "Bharat Petroleum, Petrol Pump -Jagmeet Filling Station",
+      "address": "NAGKALAN, AMRITSAR, Amritsar",
+      "lat": 31.7205522,
+      "lng": 74.93625469999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJASf3VABhGTkRLmP5_xbw0U8",
+      "name": "Randhawa petroleum",
+      "address": "QW28+227, Sohian Kalan",
+      "lat": 31.75003969999999,
+      "lng": 74.9150313,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ595wecRhGTkR2DXseJTLR0w",
+      "name": "IndianOil",
+      "address": "Ground Floor, Majitha Road, Wadala Viram",
+      "lat": 31.75436200000001,
+      "lng": 74.952289,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJByUZ6-fYGzkRhAWjLx48fVg",
+      "name": "IndianOil",
+      "address": "near Km Stone 93, Ground Floor Asr Batala Rd, Gopalpura, Waryam Nangal, near Km Stone 93, Amritsar",
+      "lat": 31.70935699999999,
+      "lng": 75.00368999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJR7iUvSbZGzkRkb17xu4_3Ek",
+      "name": "Tung Power Point",
+      "address": "MXRF+7H7, Batala - Amritsar Road, Sohian Khurd",
+      "lat": 31.6906526,
+      "lng": 74.9739266,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ2yXtF__ZGzkRkl91EgPdM3A",
+      "name": "IndianOil",
+      "address": "Ground Floor NH 54, Sohian Khurd, Waryam Nangal",
+      "lat": 31.6907136,
+      "lng": 74.97554819999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcYayEY9hGTkR4pUcM_5gHAo",
+      "name": "IndianOil",
+      "address": "Ground Floor, Amritsar Bypass, Majitha Road, Nangal Panua, Wadala Viram, Amritsar",
+      "lat": 31.73835800000001,
+      "lng": 74.943466,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKz5PrY1hGTkRKBY6_paah7A",
+      "name": "IndianOil",
+      "address": "Ground Floor, Panuwa, Nangal, Majitha",
+      "lat": 31.7416005,
+      "lng": 74.9449905,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKXdxdWNhGTkRe2mr3L74TBI",
+      "name": "IndianOil",
+      "address": "Ground Floor, Majitha Road, Wadala Viram",
+      "lat": 31.7495066,
+      "lng": 74.94907189999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5aYPBH1hGTkRZDIOfxe4FEc",
+      "name": "Guru kirpa energy solutions",
+      "address": "opposite Dana mandi, Majitha",
+      "lat": 31.75107809999999,
+      "lng": 74.9499326,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJ2fefgDfGzkRs37uOTzJqJc",
+      "name": "Bharat petroleum",
+      "address": "PXQQ+QG8, kathunagal, road, Majitha",
+      "lat": 31.73936,
+      "lng": 74.9887514,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ_yeNcypgGTkRXIzhzBy1rNE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Majitha Road, Amritsar",
+      "lat": 31.7598724,
+      "lng": 74.9565568,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgZoT_sRhGTkRZ8UAo28tZJI",
+      "name": "HP PETROL PUMP - RAVI FILLING STATION",
+      "address": "Majitha Town, Majitha, Jalandhar",
+      "lat": 31.7599043,
+      "lng": 74.9565662,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBcLmFd_YGzkRSKV04JbilKg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor NH 15, near Amritsar Pathankot Road, Kotla Saidan, Kathu Nangal",
+      "lat": 31.7160158,
+      "lng": 75.0126529,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4ejMo2HZGzkRYHuxJMvGyl8",
+      "name": "SACHAR KSK ( Indian Oil)",
+      "address": "Majitha road Village Ajaibwali, Kathu Nangal",
+      "lat": 31.7243275,
+      "lng": 75.01270079999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOzxCwwJhGTkRjpsowHytKIs",
+      "name": "IndianOil",
+      "address": "Ground Floor Majitha Hamza Road, Majitha, Wadala Viram",
+      "lat": 31.7690271,
+      "lng": 74.9644005,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ050jry_ZGzkRxtO1UHcpTVA",
+      "name": "IndianOil",
+      "address": "Bus Stand, Ground Floor NH 54, near Amritsar, Kathu Nangal",
+      "lat": 31.72596369999999,
+      "lng": 75.02167519999999,
+      "open_now": true
+    }
+  ]
+}

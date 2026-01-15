@@ -1,0 +1,915 @@
+{
+  "city": "Faizabad",
+  "state": "Uttar Pradesh",
+  "count": 113,
+  "center": {
+    "lat": 26.7732,
+    "lng": 82.1458
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJuaaqiBwPmjkRuG9t7u75KE0",
+      "name": "Shivala Petro Mart(Indian Oil)",
+      "address": "SUCHITAGANJ, TO, MASAUDA ROAD, Sariyawan",
+      "lat": 26.72600199999999,
+      "lng": 82.07552,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJG8MChhwPmjkRhvRiDXbiA6k",
+      "name": "IndianOil",
+      "address": "Ground Floor Sohawal, Near Mau Shiwala, Acharya Nagar, Mau Yaduvansh Pur",
+      "lat": 26.723083,
+      "lng": 82.09758699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLyT4730PmjkRvvXiVJxkugc",
+      "name": "Petrol Pump (BPCL) 24x7 Fuel Point",
+      "address": "Petrol Pump, BPCL, Near Faizabad Public School, NH-27 (NH-28) , Near UPSIDC Industrial Area Lucknow - Faizabad Road, Left Hand side when going towards Lucknow, NH -27 (Old NH-28, Singhpur / Hajipur (near:, Mumtaj Nagar, Darabgunj",
+      "lat": 26.7636665,
+      "lng": 82.090479,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAfJ_IwAPmjkRLlE1pzskZlk",
+      "name": "NATIONAL FILLING STATION",
+      "address": "NH330A, Madkada Ka Purva, Mokal Pur",
+      "lat": 26.7029427,
+      "lng": 82.0637009,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJka58rlUOmjkRoT40DlTMdXU",
+      "name": "IndianOil",
+      "address": "Faizabad",
+      "lat": 26.7135985,
+      "lng": 82.0819487,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9zgLTW4PmjkR6ETWg1H8GvA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Sohawal, Ayodhya, Shahganj Road, Sakupara, Faizabad",
+      "lat": 26.710271,
+      "lng": 82.087105,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdWMDYWgOmjkRQ4J-gosnU7I",
+      "name": "IndianOil",
+      "address": "Kadipur",
+      "lat": 26.690426,
+      "lng": 82.0722273,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzQaIRg8PmjkRjgoxOzHPSKM",
+      "name": "Deva Filling Station",
+      "address": "Road Bhabha Chauraha, Sahaganj, Sodhiyawan",
+      "lat": 26.7118237,
+      "lng": 82.0879569,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_wKiaBwPmjkRkPIWVXXqg1c",
+      "name": "BPCL. pump, Gauhaniya",
+      "address": "Unnamed Road, Moiya Kapoor Pur",
+      "lat": 26.716689,
+      "lng": 82.05606100000001,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJYSgHJ3EPmjkRf4jNzVhNtdc",
+      "name": "SA Brothers Filling Station (BPCL)",
+      "address": "Nauwa Kuwan, Ayodhya",
+      "lat": 26.6921045,
+      "lng": 82.0490495,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJF_yvOgAPmjkRcvP5tabYllM",
+      "name": "शुभम यूरिया पम्प",
+      "address": "P4J4+2M6, Mau Shivala Road, Hausila Nagar Colony, Nayar Colony, Faizabad",
+      "lat": 26.7300399,
+      "lng": 82.10665279999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ217c6D8RmjkRNAcLFva02DI",
+      "name": "Petrol pump",
+      "address": "P22H+H67, Sohawal Barun Bazar Road, Mohiuddin Pur",
+      "lat": 26.7014214,
+      "lng": 82.0280416,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJFW_lf6ARmjkR4uRDztXOoTA",
+      "name": "G B S FILLING STATION",
+      "address": "Barun Bazar",
+      "lat": 26.7127928,
+      "lng": 82.02007139999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJwUJOki8JmjkR_PdafVSydY8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Haveli Oudh, Sohawal, Plot No 683, Faizabad - Sultanpur Road, Khanpur Masodha",
+      "lat": 26.710201,
+      "lng": 82.137901,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwRjePQAJmjkRgMkaNfTC8A4",
+      "name": "Uriya pump[यूरिया पंप]",
+      "address": "P46Q+M6W, Faizabad - Sultanpur Road, Dhabha Semar, Faizabad",
+      "lat": 26.711747,
+      "lng": 82.1380732,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ63B2DwAPmjkRMu9el3VySAI",
+      "name": "PITAMBARA DEVI FILLING STATION (INDIAN OIL)",
+      "address": "Q35C+X7Q, Kotsarai",
+      "lat": 26.7599597,
+      "lng": 82.07073799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6fC2Ei8PmjkRFlV7NCOOoqo",
+      "name": "Jio-bp pulse",
+      "address": "Faizabad, Ground Floor Magalsi, Kotsarai, Sohawal",
+      "lat": 26.75986799999999,
+      "lng": 82.069171,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpw5G6IQJmjkRz10rxzFHPbk",
+      "name": "IndianOil",
+      "address": "Ground Floor, Khanpur Masodha",
+      "lat": 26.7167494,
+      "lng": 82.1378638,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJc8mpmBQRmjkRO06iacz4_tI",
+      "name": "IndianOil",
+      "address": "Ground Floor, Opposite Tirimurti Hotel, Ghatam Pur",
+      "lat": 26.76039,
+      "lng": 82.0677808,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6ZOzWlgPmjkRBF--NGNSkoc",
+      "name": "Bharat Petroleum, Petrol Pump -Warsi Service Station",
+      "address": "KOTSARAY,FAIZABAD, Faizabad",
+      "lat": 26.7593837,
+      "lng": 82.0586177,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPVI3NfwLmjkRbKYQfW7hb5U",
+      "name": "IndianOil",
+      "address": "Ground Floor, Nai Bazar, Faizabad - Sultanpur Road, Naipura",
+      "lat": 26.6695884,
+      "lng": 82.1343472,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0SofBeoNmjkRSnd2CbUFjLw",
+      "name": "Diesel Ki Dukaan(Oil Station)",
+      "address": "J2VX+H48, Halle Dwarikapur",
+      "lat": 26.643907,
+      "lng": 82.04782,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ7_WQnacamjkRVgVkf427Ln4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Sohawal, NH 27, Salarpur",
+      "lat": 26.7602778,
+      "lng": 82.0386111,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtYUA3hlxmjkRYDV8iNG1Sj0",
+      "name": "Kaushal fuel point",
+      "address": "Chandipur nagahra, shahganj",
+      "lat": 26.638003,
+      "lng": 82.0622891,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaTevJKULmjkRxdalDglGqu0",
+      "name": "MAA Vaishno gas service godown",
+      "address": "M46M+8F9, State Highway 9, Dostpur",
+      "lat": 26.6607975,
+      "lng": 82.133729,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJK-DhSD4FmjkRW8NaQ1xmO1Q",
+      "name": "Bharat Petroleum Petrol Pump , RAJENDRA PRASAD SERVICE ST(AD HOC)",
+      "address": "Civil Line, Faizabad",
+      "lat": 26.76702,
+      "lng": 82.100326,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJU2v_AwARmjkR9rCG0z5a-Is",
+      "name": "Urea pump",
+      "address": "Q26P+8G3, Firozpur",
+      "lat": 26.7607683,
+      "lng": 82.0362914,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJcSd_E80NmjkR31cUIgopf-s",
+      "name": "भारत पेट्रोल पंप",
+      "address": "चांदीपुर नगारा कुचेरा जलालपुर, Civil Line Road, Bikapur",
+      "lat": 26.6365625,
+      "lng": 82.0621875,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJWb7RRVIRmjkRof4rtRHNJDE",
+      "name": "Raj Filling Station",
+      "address": "Q26P+7GP, Katrauli",
+      "lat": 26.7611314,
+      "lng": 82.0357942,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJd488RtkFmjkR74naBUbFOBk",
+      "name": "IndianOil",
+      "address": "Ground Floor, Basti - Lucknow Road, Acharya Nagar, Sahadatganj, Faizabad",
+      "lat": 26.7669508,
+      "lng": 82.1030078,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRYkjELYPmjkRCHtlgTUHJzQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, Gaddopur Maushivala Road Acharya Nagar, Gaddopur Path, Faizabad",
+      "lat": 26.758168,
+      "lng": 82.12132299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFabL0vQFmjkRatUC-0cEbx8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Sahadatganj, Faizabad",
+      "lat": 26.768201,
+      "lng": 82.102901,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTWsrI6EPmjkR2CfCVsOZOOg",
+      "name": "Bharat Petroleum, Petrol Pump -Dr. S.D Yadav Filling Station",
+      "address": "Transport Nagar, Faizabad",
+      "lat": 26.7582728,
+      "lng": 82.1268504,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQVu7gHkJmjkRvejd8nWt5Pk",
+      "name": "IndianOil",
+      "address": "Ground Floor, Palia Risali, Sohawal",
+      "lat": 26.683962,
+      "lng": 82.16591199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWRedI64ImjkROUCbE6QkNn0",
+      "name": "Bharat Petrol Pump",
+      "address": "State Highway 15, Manas Nagar, Faizabad",
+      "lat": 26.75571219999999,
+      "lng": 82.13495669999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJX8U837oImjkR3Pa1mvaOt0c",
+      "name": "IndianOil",
+      "address": "Ground Floor, Acharya Nagar, Faizabad",
+      "lat": 26.7540013,
+      "lng": 82.141098,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJF_h-xpsImjkRHzAsKMrcUAc",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 28, Janaura Road, Kuber Nagar, Acharya Nagar, Faizabad",
+      "lat": 26.761073,
+      "lng": 82.15596599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJj3DEnwIKmjkR6g65GC18ewU",
+      "name": "IndianOil",
+      "address": "Karma",
+      "lat": 26.6770982,
+      "lng": 82.2054845,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_zlQPRCokDkRmM4w52Wn8Gc",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Shivoy Kisan Sewa Kendra, Sadar,Alwalpur, Baisingh",
+      "lat": 26.715529,
+      "lng": 82.221246,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJK4zrmSoGmjkReX6GW2ajLEE",
+      "name": "IndianOil",
+      "address": "Ground Floor Deokali, Naka, Acharya Nagar, Faizabad",
+      "lat": 26.769596,
+      "lng": 82.169693,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJD4Cis3oJmjkRIxspW5dTDqE",
+      "name": "Paliya Risali",
+      "address": "Darshan Nagar - Bharat Kund Marg, Malik Pur",
+      "lat": 26.6853306,
+      "lng": 82.1606869,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJoRsDE2wJmjkR7palpD6ls9k",
+      "name": "Jks Ray Sahab Fuels Station",
+      "address": "M5MJ+66M, Mohtashimpur",
+      "lat": 26.6830826,
+      "lng": 82.180549,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJW9rf9_0JmjkRyZL_h-kPQ_U",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Darshan Nagar - Bharat Kund Marg, Sarethi",
+      "lat": 26.734461,
+      "lng": 82.19475299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ--qckILmjkRFGew2NBfJb8",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sadar, Kachhauli",
+      "lat": 26.6630044,
+      "lng": 82.18908239999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg9QkJoQJmjkRARPNkuk7m-k",
+      "name": "Bharat Petroleum, Petrol Pump -Singh Automobiles",
+      "address": "Naka, Faizabad",
+      "lat": 26.7598764,
+      "lng": 82.141707,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmXgQxM0LmjkRSgyTr3kxrAs",
+      "name": "Bharat Petroleum, Petrol Pump -Maa Vaishno Filling Station",
+      "address": "NANDIGRAM, DIST, Faizabad",
+      "lat": 26.6455396,
+      "lng": 82.1340764,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1aJk_hIJmjkRQfxI3QZTbZk",
+      "name": "Bharat Petroleum, Petrol Pump, KDI Fuels",
+      "address": "Q48Q+6CG, Ram Nagar, Faizabad",
+      "lat": 26.76557,
+      "lng": 82.1385909,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8ZRp170JmjkRq3fWwdR-AHE",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sadar, Kushmaha",
+      "lat": 26.74419499999999,
+      "lng": 82.2004889,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJn4B2o_sHmjkRsaCS9Xg7G4w",
+      "name": "Dishant Fuels(Bharat Petroleum)",
+      "address": "Dishant Tractors Deokali, Fatehganj - Chowk Road, Wazeerganj, Faizabad",
+      "lat": 26.771416,
+      "lng": 82.1563364,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7d-pWwAHmjkRIy2kwqyDmPY",
+      "name": "Gandhi churaha",
+      "address": "Near, Gandhi chowk churaha, फैजाबाद",
+      "lat": 26.7729751,
+      "lng": 82.1457934,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ00qc9X8ImjkRjrq6PVDS6vM",
+      "name": "IndianOil",
+      "address": "Ground Floor Deokali, Road, Acharya Nagar, Faizabad",
+      "lat": 26.768771,
+      "lng": 82.172592,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4wRV9PkJmjkR5mKfiMtnmcs",
+      "name": "N B AUTO FUELS",
+      "address": "Q57Q+2JF, Darshan Nagar, Faizabad",
+      "lat": 26.7625581,
+      "lng": 82.189037,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZyZa_iUGmjkRXclSIcM74SY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 7/3/10, Fatehganj Devkali Road, Gayatri Puram, Faizabad",
+      "lat": 26.7735144,
+      "lng": 82.1609249,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ54b_IfWnkDkR_c5DTNuS2xI",
+      "name": "Petrol pump N B AUTO FUELS",
+      "address": "bypass road, Darshan Nagar, Ayodhya",
+      "lat": 26.7494637,
+      "lng": 82.2172386,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe3lxes6mkDkRRGRwvtEKrso",
+      "name": "Petrol pump",
+      "address": "Nara",
+      "lat": 26.6870279,
+      "lng": 82.2712603,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJUcax7g0ImjkR9BjgVWwtgaA",
+      "name": "IndianOil",
+      "address": "Ground Floor Kusfar, Faizabad, Darshan Nagar, Barabanki",
+      "lat": 26.759834,
+      "lng": 82.197617,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJR9I-KgCnkDkReRlz1IanV88",
+      "name": "INDIAN OIL",
+      "address": "NH 135A, सिरिसंदा",
+      "lat": 26.71117139999999,
+      "lng": 82.25504800000002,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ_dy3n9OhkDkRKtJNtN2OyCk",
+      "name": "MJ Energy",
+      "address": "Rasulabad-Darshan Nagar Road, chauraha, Gangauli",
+      "lat": 26.67125699999999,
+      "lng": 82.238385,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUYMuY8ynkDkRUFsYsWizbOQ",
+      "name": "Bharat Petroleum Petrol Pump , MAYANK KUKAN SINGH FILLING STATION",
+      "address": "VILLAGE, Pura Bazar, Rajepur Uparhar",
+      "lat": 26.710513,
+      "lng": 82.258372,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_22wD-KmkDkRLOZgQhrfGTY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Faizabad Ambedkar Nagar Rd, Pura Bazar, Rajepur Uparhar",
+      "lat": 26.7091916,
+      "lng": 82.2608233,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJz8jiy8KmkDkRSbXy6TXXGVY",
+      "name": "IndianOil",
+      "address": "Ground Floor, State Highway 30, Pura Bazar, Deogarh",
+      "lat": 26.698959,
+      "lng": 82.273392,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoxRkMgAJmjkRAOPW8rRNDwM",
+      "name": "Bairagal",
+      "address": "Q644+2JH, Darshan Nagar",
+      "lat": 26.754839,
+      "lng": 82.206729,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJcUZnDQynkDkRGeqOzHQ5Q0E",
+      "name": "Petrol pump",
+      "address": "M7VH+QV, Jalaluddin Nagar Uparh",
+      "lat": 26.6944675,
+      "lng": 82.27963790000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJs-eYFr-hkDkRwS8WJoKFfzI",
+      "name": "Bajrang Filling Station",
+      "address": "224172, Rasulabad",
+      "lat": 26.64980989999999,
+      "lng": 82.2422577,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNeevZAChkDkRXIa2_Ud3YSY",
+      "name": "Bharat Petrol pump",
+      "address": "J6XR+RWQ, Rasulabad-Darshan Nagar Road, Rasulabad",
+      "lat": 26.6497991,
+      "lng": 82.2422589,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJEcwDpKGhkDkR_0ts20C0KyA",
+      "name": "IndianOil",
+      "address": "Ground Floor Rasoolabad, Sadar, Anjana",
+      "lat": 26.649887,
+      "lng": 82.242548,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJce_K4rOmkDkRyDePyWiJhls",
+      "name": "Akhilesh Yadav Takku",
+      "address": "SH 30- ashapur, takpura chauraha, Darshan Nagar, Faizabad",
+      "lat": 26.6872567,
+      "lng": 82.2861707,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzywclQoImjkRSq-JU1s_yxQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 28, Acharya Nagar, Faizabad",
+      "lat": 26.768885,
+      "lng": 82.194756,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIeAGRJAHmjkRcLIIKLYm1mA",
+      "name": "Jio-bp pulse",
+      "address": "Ground Floor, Ayodhya - Darshan Nagar Road, Shahnewaz Pur Uparhar",
+      "lat": 26.773588,
+      "lng": 82.214461,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlZ6h8fQFmjkRu8x5HCHkxlk",
+      "name": "IndianOil",
+      "address": "near Collectorate Office, Ground Floor Ayodhya, near Collectorate Office, Faizabad Road, Acharya Nagar, Faizabad",
+      "lat": 26.769205,
+      "lng": 82.108318,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbYug2wUGmjkRBY9yT1tvHIk",
+      "name": "Bharat Petroleum, Petrol Pump -Majestic Automobiles",
+      "address": "CIVIL LINE , FAIZABAD,FAIZ, Faizabad",
+      "lat": 26.7767396,
+      "lng": 82.1338882,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrxPCeAAHmjkRUbn0cMm6t2Y",
+      "name": "Running Rode",
+      "address": "R42J+VFQ, Firozabad",
+      "lat": 26.8022143,
+      "lng": 82.1312329,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJzzqjm0YbmjkRPpSZ6u0JcOs",
+      "name": "Mahi Tayar Service",
+      "address": "Q2J5 GPG, Barayi Khurd",
+      "lat": 26.7823595,
+      "lng": 82.00954709999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ06kTrxYGmjkRGVkfz0Qnan0",
+      "name": "Tarang Petrol Pump",
+      "address": "Niyawan Chowk Road, Hasnu Katra, Faizabad",
+      "lat": 26.7844978,
+      "lng": 82.1447486,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9aV9OwAHmjkRLigzHhUifaY",
+      "name": "RAJE FILLING STATION",
+      "address": "Q4MV+VX4, Naharbagh, Shakti Vihar Colony, Faizabad",
+      "lat": 26.7846409,
+      "lng": 82.1449409,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJVbCUBG4HmjkR9lkl3KeP-xY",
+      "name": "Amit Petrol Pumps",
+      "address": "Shakti Vihar Colony, Faizabad",
+      "lat": 26.7819273,
+      "lng": 82.1481173,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJSyJjk1gHmjkRYozIkG47pT4",
+      "name": "ARCHANA PETROL PUMP",
+      "address": "CHOWK ROAD, CHOWK, Faizabad",
+      "lat": 26.7789054,
+      "lng": 82.1538188,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZ9n8iY0HmjkRZns66A5QEmk",
+      "name": "Bharat Petroleum",
+      "address": "Tulsi Nagar, Faizabad, SH-9, Fizabad Gonda Road, Ayodhya",
+      "lat": 26.7980964,
+      "lng": 82.20403139999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDxvm5SOokDkRg4GYx7NJeok",
+      "name": "Bharat Petroleum Diesel only",
+      "address": "Q6XC+W9X, Karsewakpuram, Ayodhya",
+      "lat": 26.7997872,
+      "lng": 82.22054469999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ4c6VaR0HmjkRCoXtQuh5tHQ",
+      "name": "Shri petrol pump Bharat petroleum",
+      "address": "41, Deokali, Faizabad",
+      "lat": 26.7743713,
+      "lng": 82.177317,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS0_ecQMHmjkRndPYbrSJW0M",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Jalpa, Beniganj, Faizabad",
+      "lat": 26.782267,
+      "lng": 82.17780100000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJp5QTjGMHmjkRgBjRnFg9hhM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sardar Road, Ayodhya",
+      "lat": 26.785826,
+      "lng": 82.189537,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0waXHAAHmjkR3YY8c_O42A0",
+      "name": "CNG Ayodhya Mandir",
+      "address": "Q5PQ+8R3, Police Line, Ayodhya",
+      "lat": 26.78571119999999,
+      "lng": 82.1897183,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJBWGOVgAHmjkRG_wYovVxgE0",
+      "name": "Indian Oil. (Shri Ram Filling station)",
+      "address": "Q6G2+4F7, Jiyan Pur, Ayodhya",
+      "lat": 26.7752787,
+      "lng": 82.2011608,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJj6O6AwAHmjkRjJAS9pngdCw",
+      "name": "श्रीराम फिलिंग स्टेशन",
+      "address": "Q5RX+VW7, दशरथकुंड, Ayodhya",
+      "lat": 26.7921605,
+      "lng": 82.1997954,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJj3iPAo8HmjkRDpYYFk3Ijq8",
+      "name": "Indian Gas Agency",
+      "address": "R644+RW7, Theri Bazar, Ayodhya",
+      "lat": 26.8070328,
+      "lng": 82.2072866,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWTTRlK0HmjkRN6lJu4BKeTc",
+      "name": "Bharat Petroleum, Petrol Pump -Saket Auto Station",
+      "address": "Ayodhya - Faizabad Road, Faizabad",
+      "lat": 26.807985,
+      "lng": 82.20930659999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8-bjKhGokDkRxaCMEl_feic",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Barhata Manjha",
+      "lat": 26.789391,
+      "lng": 82.228569,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZctskgepkDkRuaTtmnpdME4",
+      "name": "Bharat petroleum",
+      "address": "R6F9+283, Kaptanganj - Faizabad Road, Wazirabad",
+      "lat": 26.8223997,
+      "lng": 82.217647,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ1Xf3rk4BmjkR2AdE_KW3sM8",
+      "name": "J.D&Co.(Petrol pump) Bharat Petroleum",
+      "address": "SH-30, Katra - Gonda Road, Chaudhry Purwa, Nawabganj",
+      "lat": 26.8674,
+      "lng": 82.1437,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ05wWrooDmjkR87ujIX6RmPo",
+      "name": "IndianOil",
+      "address": "Ground Floor Raghunathpur, Ashokpur",
+      "lat": 26.85960099999999,
+      "lng": 82.105801,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRfLDbQADmjkRBxjw8UhcKUw",
+      "name": "IndianOil",
+      "address": "Gonda, Ground Floor Ballipur, Wazeerganj, Tarabganj",
+      "lat": 26.8774373,
+      "lng": 82.1059956,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmXn1smYBmjkRIAP3100zUlM",
+      "name": "Torrent Gas CNG",
+      "address": "V4GM+WC6, Louwabirpur",
+      "lat": 26.8772891,
+      "lng": 82.1335122,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJv7J-OAABmjkRV5CB0Ny5HFI",
+      "name": "Uriya pump Nawabganj",
+      "address": "V4HM+28V, Louwabirpur",
+      "lat": 26.87804,
+      "lng": 82.13321669999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMVyNeIUDmjkRqZulHd9hbiU",
+      "name": "IndianOil",
+      "address": "Ground Floor, Nawabganj Road Belsar, Durjanpur, Pipari",
+      "lat": 26.9018684,
+      "lng": 82.05326629999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7wSXphEBmjkRXGwSWCX9fEU",
+      "name": "IndianOil",
+      "address": "No 99/101, SH 30, Ayodhya Rd, I Estate, hobhapur, Sandila",
+      "lat": 26.8787038,
+      "lng": 82.1334123,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlWbCEwAbmjkRqUgPs6NaFw8",
+      "name": "INDIAN OIL PETROL PUMP ( AKVK FILLING STATION )",
+      "address": "R2C6+268, Dhemwaghat marg, Duttnagar",
+      "lat": 26.8200452,
+      "lng": 82.0105895,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ6-drYwAdmjkRiy9UP_K31z0",
+      "name": "Sanit kumar",
+      "address": "V2PF+V5F, Kindhura",
+      "lat": 26.8871806,
+      "lng": 82.02292000000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJM9l4PkoBmjkRiBvrUKqzdKc",
+      "name": "IndianOil",
+      "address": "Ground Floor, SH 30, Faizabad Road, Nawabganj",
+      "lat": 26.866029,
+      "lng": 82.148122,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlWrjewABmjkRXZ4nd0qamuQ",
+      "name": "KS electrician Nawabganj",
+      "address": "V48X+7R7, Nawabganj",
+      "lat": 26.8656602,
+      "lng": 82.1495494,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJgwcwQcAHmjkRQ0DpyFK4pic",
+      "name": "IndianOil",
+      "address": "Ground Floor, SH 30, Faizabad Road, Khadawan, Katra Shivadayalganj",
+      "lat": 26.84922299999999,
+      "lng": 82.19264299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ53IZEEQHmjkR5mbBfg5QBWQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Shiv Dayal Ganj, Gonda",
+      "lat": 26.847301,
+      "lng": 82.19930099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo7pfQOoHmjkR2ZYuR1QutWg",
+      "name": "IndianOil",
+      "address": "Ground Floor, Shiv Dayalganj, NH 28, Khadauwan, Katra Shivadayalganj",
+      "lat": 26.845982,
+      "lng": 82.206389,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJc2PsqQIHmjkR0u7zWcquja4",
+      "name": "R.k.maruti garage",
+      "address": "R6W4+HM5, State Highway 30, Katra Shivadayalganj",
+      "lat": 26.8463883,
+      "lng": 82.2067268,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ_VpkbAABmjkRVC-X1bs5pKw",
+      "name": "Vidhyadhar Filling Station",
+      "address": "Parsapur",
+      "lat": 26.8990625,
+      "lng": 82.1286875,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJ90WLasBmjkR8qtZGVvoDDw",
+      "name": "IndianOil",
+      "address": "SH 9, Km Stone No 54, Ground Floor, Tikait Nagar - Mankapur Road, Nawabganj",
+      "lat": 26.9045434,
+      "lng": 82.1680421,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_a6CAHOpkDkRcwWXDKdgfp4",
+      "name": "IndianOil",
+      "address": "Ground Floor, Ismailpur, Mustahkam, Nawabganj, Tarabganj,Khadauwan",
+      "lat": 26.8491786,
+      "lng": 82.2249241,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuYtf00epkDkR3JZ7Up58wFA",
+      "name": "H P Petrol Pump",
+      "address": "Macha",
+      "lat": 26.8373703,
+      "lng": 82.2534625,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJFyaZue6pkDkR8oPWVOPt_9A",
+      "name": "IOCL",
+      "address": "R7P3+RFX, Macha",
+      "lat": 26.83711659999999,
+      "lng": 82.2537387,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJwdyQRyaqkDkRwYaWvCJ8Xsw",
+      "name": "IndianOil",
+      "address": "Village & Post Sikandarpur Bazaar, Sikandarpur Khas",
+      "lat": 26.8704872,
+      "lng": 82.2459847,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMUyTJC-qkDkRp9d21vaL474",
+      "name": "P P and Motors",
+      "address": "P P AND MOTORS, Basti",
+      "lat": 26.8764143,
+      "lng": 82.24949219999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJFWnmdQCpkDkR09G10W4EgRw",
+      "name": "Jio Bp",
+      "address": "R7JF+CQP, Ram Nagar",
+      "lat": 26.8310996,
+      "lng": 82.2744438,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJO8TxJzKrkDkRYHak5F4LBKY",
+      "name": "IndianOil",
+      "address": "Nand Nagar",
+      "lat": 26.9005569,
+      "lng": 82.25909089999999,
+      "open_now": true
+    }
+  ]
+}

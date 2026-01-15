@@ -1,0 +1,163 @@
+{
+  "city": "Hassan",
+  "state": "Karnataka",
+  "count": 19,
+  "center": {
+    "lat": 13.9167,
+    "lng": 76.3833
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJkU5gHwCHujsRBqSx--jHsz8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near Basappana Hatti Cross, Ground Floor, Hiriyur, near Basappana Hatti Cross, Road SH 24, Kasaba Hobli, Hosadurga",
+      "lat": 13.809835,
+      "lng": 76.294763,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJF11p5pyFujsRbTJmGfqYGmg",
+      "name": "Bharat Petroleum, Petrol Pump -Vijaya Bharat Fuel & Services",
+      "address": "Hosadurga",
+      "lat": 13.8006576,
+      "lng": 76.286316,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRcsYquOFujsRu3-HfgC6MvY",
+      "name": "IndianOil",
+      "address": "Q7XP+C27, Lock No 162, Survey No 54 SH 24, Hiriyur, Road, Madderu, Hosadurga",
+      "lat": 13.8009412,
+      "lng": 76.2855676,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhXJ4CLuFujsRSpiPx8h0r6o",
+      "name": "Madadakere",
+      "address": "Q7XP+C4F, Hiruyur Road, Hosadurga",
+      "lat": 13.798558,
+      "lng": 76.2852913,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJl1VRLN2FujsRruaoA0IiLwY",
+      "name": "IndianOil",
+      "address": "L No 167, Huliyar Road, Hosadurga",
+      "lat": 13.7935924,
+      "lng": 76.2965073,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx0Ube5-PujsRR6FlX6TrS0U",
+      "name": "Petrol station",
+      "address": "Lock No 171, Ajjampura Road, Hosadurga",
+      "lat": 13.7978334,
+      "lng": 76.2841443,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoxYHdMOFujsRnrcGy4t-xVI",
+      "name": "BharatPetrol bunk, CNG Station",
+      "address": "Q7RX+CHF, huliyar road, Hosadurga",
+      "lat": 13.7910688,
+      "lng": 76.2989267,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB5UInOSBujsRN0lUI-205gA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 4/5, Hosadurga SH 24, Madadhakere",
+      "lat": 13.8702469,
+      "lng": 76.3678214,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJA5PyeFaPujsRBKwkxSbwyTc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Sangam Nagar, Holalakere Road, Hosadurga",
+      "lat": 13.799401,
+      "lng": 76.270591,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQyvi8N6FujsRe-ApNUVmGqs",
+      "name": "IndianOil",
+      "address": "Survey No 40, 7, Huliyar Rd, Goravigondanhalli, Aralihalli",
+      "lat": 13.7843764,
+      "lng": 76.3020922,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJiX-sy8-PujsRKVTgomKmucc",
+      "name": "Karnataka & Co Nayara Energy Fuels",
+      "address": "R737+4G8, yalakappanahatty, Hosadurga",
+      "lat": 13.8027804,
+      "lng": 76.263832,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJk0hXnq6JujsRusKXPJHsQdA",
+      "name": "ESSAR PETROL STATION",
+      "address": "R746+J3H, Yalakappana Hatti (South)",
+      "lat": 13.80647,
+      "lng": 76.26019219999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4Z5FpnV9ujsRyYfjkQ9JmvE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Hosadurga, Janakal",
+      "lat": 13.916144,
+      "lng": 76.31482799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhX_UKi6JujsRROyGqqTkse8",
+      "name": "Bharath Gas Godown - Akshay Gas Agency - Hosadurga",
+      "address": "R6CV+JJF, Hosadurga",
+      "lat": 13.8215627,
+      "lng": 76.24406239999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJeyYp8peAujsRQGtQP2Hbo0M",
+      "name": "Bharat Petroleum",
+      "address": "Madadhakere, Chitradurga, SH-24, Tarikere Hosadurga VV Pura Hiriyur Road, Chitradurga, Chitradurga",
+      "lat": 13.8888408,
+      "lng": 76.38797819999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwfL3zwh_sDsReGOnbx96sG4",
+      "name": "IndianOil",
+      "address": "Survey No 6, 2 & 6/3, Vanivilasapura",
+      "lat": 13.898579,
+      "lng": 76.491799,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJObevSqt7ujsRhU3YlN8i7hM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 40, IP 2, H D Pura",
+      "lat": 14.034874,
+      "lng": 76.324935,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJr1wEKnt7ujsRW6d3UPulVZ0",
+      "name": "SIMHADRI AGENCY",
+      "address": "28R9+RQF, Mathigatta",
+      "lat": 14.0420683,
+      "lng": 76.3194285,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ5bjiXUF7ujsRJpDvuWC7eS0",
+      "name": "Bharat petroleum",
+      "address": "Ajay Store Bharath Petroleum, Chitradurga",
+      "lat": 14.0455634,
+      "lng": 76.3192481,
+      "open_now": null
+    }
+  ]
+}

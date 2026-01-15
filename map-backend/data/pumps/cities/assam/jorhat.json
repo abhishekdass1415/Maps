@@ -1,0 +1,475 @@
+{
+  "city": "Jorhat",
+  "state": "Assam",
+  "count": 58,
+  "center": {
+    "lat": 26.7575,
+    "lng": 94.2066
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJ9aSJU7HqRjcRfHWxk74nD1U",
+      "name": "Nayara Energy Station",
+      "address": "Assam Trunk Road, Rowmarikhuti",
+      "lat": 26.7210612,
+      "lng": 94.0749836,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJteOa4YHCRjcRDHasMu6vKaE",
+      "name": "IndianOil",
+      "address": "Ground Floor, opposite Nabagraha Temple, Jail Road, Kamarbandha Ali, Barbheta, Jorhat",
+      "lat": 26.7351,
+      "lng": 94.1966,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx3TLmJnpRjcR-R60u-8_woQ",
+      "name": "IndianOil",
+      "address": "Ground Floor Chutiakari, Gaon, Gatanga, Charaibahi Gaon",
+      "lat": 26.698088,
+      "lng": 94.167874,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJld89LQTrRjcRXWMgC4plsnA",
+      "name": "Reliance Petroleum",
+      "address": "Ground Floor Khangia, Charingia Gaon, Jorhat",
+      "lat": 26.7274357,
+      "lng": 94.1408668,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwTKwy5jpRjcRUV7eUFrnt4M",
+      "name": "ROWRIAH Fuel Station",
+      "address": "Chotikari Rangai Habi, Jorhat",
+      "lat": 26.7110198,
+      "lng": 94.1737248,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwZoJciHpRjcRzag5ZqGD-Y0",
+      "name": "BARUAH PETROL PUMP",
+      "address": "Out Post, near Rowriah Police, Kamarbandha Road, Rowriah, Jorhat",
+      "lat": 26.7118225,
+      "lng": 94.17377839999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJqz30owHqRjcRbCB3nf8M6io",
+      "name": "Bharat Petroleum Petol Pump, Dhapkata",
+      "address": "Assam Trunk Road, Dhapkota, Sarucharai Chah Bagisha",
+      "lat": 26.7322609,
+      "lng": 94.14920029999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJmywBRQDpRjcRB_l-L0vNBMQ",
+      "name": "INDIAN OIL PETROL PUMP Dhekiajuli KSK",
+      "address": "Na Ali, Choudang Gaon No.2",
+      "lat": 26.6818017,
+      "lng": 94.202055,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl9aOAvroRjcRCIC9WjWXXM0",
+      "name": "Petrol Pump Maj Gaon Tiniali",
+      "address": "Choudang Gaon No.2",
+      "lat": 26.6818125,
+      "lng": 94.2020625,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9ar6IkvDRjcRzhudwy1ACw0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Urban Water Filtration Plant, Sonari Gaon, Charaibahi",
+      "lat": 26.7366667,
+      "lng": 94.1916667,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJE2UznSLoRjcRcZPCebzRk9s",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "P6F7+W8H, Ground Floor Cinnamara, Barbheta, near Na Ali, Chapori, Lichubari, Jorhat",
+      "lat": 26.7247167,
+      "lng": 94.2126833,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-6VbJAboRjcRTGfPOXgNsvg",
+      "name": "IndianOil",
+      "address": "Ground Floor, Cinnamara, Jorhat",
+      "lat": 26.722698,
+      "lng": 94.22999700000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwxwT1LvCRjcReQbzc2LNAg8",
+      "name": "IndianOil",
+      "address": "Box No 72, Bhogdaimukh, Jorhat",
+      "lat": 26.7515665,
+      "lng": 94.220342,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6ezTdIrCRjcRl4fZRBSuFAs",
+      "name": "Nayara Oil Pump - Kalita Filling Station",
+      "address": "Q53V+M2R, Assam Trunk Road, Tarajan, Jorhat",
+      "lat": 26.7542364,
+      "lng": 94.1925062,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJMZTaLhPnRjcRBSwatJge1xM",
+      "name": "Petrol Pump",
+      "address": "Gar Ali Karanga",
+      "lat": 26.6884355,
+      "lng": 94.23648639999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3amiMp3pRjcRjHmxtE5ZnbM",
+      "name": "DEBANISHA SERVICE STATION",
+      "address": "Tiniali Essar Oil, Tiniali, Cinnamara, Jorhat",
+      "lat": 26.7077199,
+      "lng": 94.233009,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEet_z4nnRjcRLi2hVnTP9u8",
+      "name": "IndianOil",
+      "address": "Ground Floor, Cinnamora Titabor Rd, Moran 1, Titabor",
+      "lat": 26.65758709999999,
+      "lng": 94.22978309999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP2NzLAzpRjcRKzD1HCEARes",
+      "name": "M/S Bordoloi Service",
+      "address": "near Carmel School, Gar Ali Road, Sadar, Maz Gaon, Jorhat",
+      "lat": 26.7234419,
+      "lng": 94.229641,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJLU1t1uTnRjcRJGLkV_aU17s",
+      "name": "Cinamora fuel station",
+      "address": "M7X5+JWM, Gar Ali Road, Cinnamara, Jorhat CD Block Part",
+      "lat": 26.6990904,
+      "lng": 94.2597971,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJt40pFrrnRjcRdpGQmqqZ8ys",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 26.69922339999999,
+      "lng": 94.2597972,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJsb1WdDbDRjcRFDTy4ZeeA8w",
+      "name": "IndianOil",
+      "address": "near Bangal pukhuri, Ground Floor Bhogdaimukh, Bhogdaimukh, near Bangal pukhuri, Jorhat",
+      "lat": 26.7414039,
+      "lng": 94.2132141,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgzOnxcXDRjcRMERh1UG93EQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, Rajabari, Jorhat",
+      "lat": 26.7428572,
+      "lng": 94.2246914,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHYh-B5jCRjcR0se-v-Cnfug",
+      "name": "Baruah Petrol Pump",
+      "address": "P6W7+94W, Barbheta, Jorhat",
+      "lat": 26.7459805,
+      "lng": 94.2128331,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJEYiNnYLnRjcR1bLfn--vcBQ",
+      "name": "IndianOil",
+      "address": "Ground Floor Kathkatia, Mariani",
+      "lat": 26.688846,
+      "lng": 94.27583100000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-0UJPwDDRjcR8UiYLKTWSow",
+      "name": "Isbt petrol pump",
+      "address": "Q623+9F7, Jorhat",
+      "lat": 26.75092069999999,
+      "lng": 94.2036696,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJPw0Et83DRjcRowYnRjf2OlM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Jail Road, Kamarbandha Road, Jorhat",
+      "lat": 26.751481,
+      "lng": 94.203846,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlZVXZbnCRjcRY8h4N-OnfGs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Gar Ali Road, Jorhat",
+      "lat": 26.7525831,
+      "lng": 94.21968,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_7NUqgjDRjcR5KuA_oSs1W0",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bhogdaimukh, Tarajan, Jorhat",
+      "lat": 26.751203,
+      "lng": 94.183883,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJYgfuWXCRjcRx25iD104MYA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, AT Road, Jorhat",
+      "lat": 26.7517017,
+      "lng": 94.1846771,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZT51aYDDRjcRINRC-c0085Q",
+      "name": "Bharat Petroleum Petrol Pump, NES JORHAT ASTC",
+      "address": "ASTC JORHATASTC, Jorhat",
+      "lat": 26.7526971,
+      "lng": 94.1879823,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcykGvcbDRjcRMFzDzg6VXIA",
+      "name": "Baikuntha Filling Station",
+      "address": "1, AT Road, Sonari Gaon, Tarajan, Jorhat",
+      "lat": 26.7520322,
+      "lng": 94.18520529999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJn0CZK2HdRjcR23YMyxCKozI",
+      "name": "ETERNAL FUEL AGENCIES",
+      "address": "JEC Road, Garmur, Jorhat",
+      "lat": 26.7488126,
+      "lng": 94.2435271,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCWKSQbPdRjcRyXVKtu0rAq8",
+      "name": "IndianOil",
+      "address": "Patta No 1168, Dag No 2149 & 2150, Garmur, Jorhat",
+      "lat": 26.7488267,
+      "lng": 94.2437922,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvU2Cv3HDRjcRe9grekrUi2w",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bhogdaimukh, near Bypass, Tarajan, Jorhat",
+      "lat": 26.755488,
+      "lng": 94.183038,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ988het7mRjcR3eXof8wdSbk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Pukhuriagaon, Mariani",
+      "lat": 26.6793786,
+      "lng": 94.2968961,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJyd2JGW_hRjcRsQulgLoqL3s",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sukapha Gaon, Mariani",
+      "lat": 26.6422885,
+      "lng": 94.29718880000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzwalE0zhRjcR6nKVSAdotwA",
+      "name": "IndianOil",
+      "address": "Ground Floor, Mariani",
+      "lat": 26.65385999999999,
+      "lng": 94.319552,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJv-uMHuvCRjcRv2Zqh0PFbqA",
+      "name": "Assam Oil Petrol Pump",
+      "address": "Q656+W2G, Babupatty, Jorhat",
+      "lat": 26.7598154,
+      "lng": 94.21008549999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJozgQCgDBRjcRvuLnzqT6c2o",
+      "name": "Nyara Petrol Pump",
+      "address": "Q46G+2J, Malow Khat",
+      "lat": 26.7600109,
+      "lng": 94.126598,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJU9dyuT_BRjcRBlwihD6-nVI",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 26.8092345,
+      "lng": 94.1291791,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJe0p888DBRjcRTTOpOE9fHC4",
+      "name": "Alengmora Petrol Pump",
+      "address": "R45H+QFP, Deka Satra Bhakei",
+      "lat": 26.8094528,
+      "lng": 94.12870989999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnfOvn_jCRjcRkFRWZH4fLio",
+      "name": "NRL Petrol Pump jorhat",
+      "address": "Q5FR+QVG, By Pass Road, Dhekorgorah, Jorhat",
+      "lat": 26.774438,
+      "lng": 94.1922149,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg3yn8gjDRjcRE49yJ2hp1ec",
+      "name": "Bharat Petroleum, Petrol Pump -Nes Jorhat Bypass",
+      "address": "Jorhat MG Road, Gar-Ali, Jorhat",
+      "lat": 26.776095,
+      "lng": 94.19531339999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJb_UfFfHCRjcRsVzz1TIa6Kg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Malow Ali, Jorhat",
+      "lat": 26.7661414,
+      "lng": 94.1987674,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQWlgsOLCRjcRAZ-n7QXR6lc",
+      "name": "IndianOil",
+      "address": "Ground Floor, AT Road, Bypass, Jorhat",
+      "lat": 26.781169,
+      "lng": 94.2032804,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuXZtSirDRjcRkuaIDBZk5g0",
+      "name": "Shasidhar Behera",
+      "address": "RBC SAGARMALL SONS, AT Road, Jorhat",
+      "lat": 26.759822,
+      "lng": 94.21008309999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJdWK7Ay7dRjcRapUtsedC1HQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bhogdaimukh, Kenduguri",
+      "lat": 26.769171,
+      "lng": 94.23867,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ40RZJtHcRjcRoo5o7o_H91s",
+      "name": "IndianOil",
+      "address": "Ground Floor, Charigaon, Bahona",
+      "lat": 26.787407,
+      "lng": 94.240916,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5w2rl57dRjcRSYKxyBSU4eE",
+      "name": "PRAGATI FILLING STATION",
+      "address": "near Seuj Nagar Namghar, Shop No 1, AT Road, Kotohaboria Gaon, Podumoni Bypass, near Seuj Nagar Namghar, AT Road, Jorhat",
+      "lat": 26.77126149999999,
+      "lng": 94.2607168,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJtTJp0qbdRjcRMXuhhm7pDoQ",
+      "name": "Petrol Pump - Essar Oil",
+      "address": "Q7G5+9W8, Jorhat",
+      "lat": 26.77590279999999,
+      "lng": 94.25981910000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_7q3EjjdRjcR5RVtWFWHl9Q",
+      "name": "Jyoti Bora",
+      "address": "Charigaon Na Bora Road, Baghmoria Gaon",
+      "lat": 26.794343,
+      "lng": 94.25033490000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ3e80GJzeRjcRmuXbRejPDio",
+      "name": "IndianOil",
+      "address": "Ground Floor, Lahoty Bhawan, Bhogdaimukh, Lahdoigarh",
+      "lat": 26.795308,
+      "lng": 94.319423,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJz1nJF-vCRjcRKUpyDZQ8H-8",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bhogdaimukh, Jorhat",
+      "lat": 26.7841959,
+      "lng": 94.28569379999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJw3fOPWfdRjcRVrTiowY_r7w",
+      "name": "Kohinoor Energy Station",
+      "address": "Shop1, T Rd, Kopadhara A, Meleng Hudamua Gaon",
+      "lat": 26.7868018,
+      "lng": 94.2945033,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJh36PEILdRjcRcWDCmBm3NcM",
+      "name": "Reliance Petroleum",
+      "address": "Ground Floor, near Jorhat Science College, Nh 37, Melegh Kopardhara, Hatigarh",
+      "lat": 26.789711,
+      "lng": 94.300012,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJI6uxvqzdRjcRwyNp9VSiYNw",
+      "name": "Kohinoor Energy Station",
+      "address": "Shop 2 Meleng, At Road, Kopora Dhora Gaon",
+      "lat": 26.7902957,
+      "lng": 94.30212639999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJhexcFADfRjcRYE4rcXesiPs",
+      "name": "Bharat Petroleum, Deha",
+      "address": "Q9M2+C54, Lahdoigarh Road, Badulipukhuri Maja Gaon",
+      "lat": 26.7841254,
+      "lng": 94.3499449,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJQ4LvyubfRjcRcDZU2FOrqjE",
+      "name": "Bonpithaguri Filling Station",
+      "address": "Bonpithaguri Filling Station, Lahdoigarh",
+      "lat": 26.7842143,
+      "lng": 94.3500596,
+      "open_now": null
+    }
+  ]
+}

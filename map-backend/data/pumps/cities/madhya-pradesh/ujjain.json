@@ -1,0 +1,843 @@
+{
+  "city": "Ujjain",
+  "state": "Madhya Pradesh",
+  "count": 104,
+  "center": {
+    "lat": 23.1833,
+    "lng": 75.7667
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJmUacATueYzkRjWR7UmP7mYo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Toll Plaza, Badnagar Road, Chandukhedi",
+      "lat": 23.1670809,
+      "lng": 75.7008115,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJa_FdbyOgYzkRAm6jhVJNSNw",
+      "name": "IndianOil",
+      "address": "Ground Floor, Talod",
+      "lat": 23.094284,
+      "lng": 75.685509,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQ9aWsXl1YzkR8S5P8hioslk",
+      "name": "Bharat Petroleum Petrol Pump , KRISHNA PETROLEUM",
+      "address": "M.P, Chintaman Road, JHAVASIACHINTAMAN JHAVASIA, Ujjain",
+      "lat": 23.13570499999999,
+      "lng": 75.727608,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4WKVRACfYzkRJv6Tuoh3LVc",
+      "name": "Vinayak PUC Senter",
+      "address": "5M4M+GW7, Chandukhedi",
+      "lat": 23.1562981,
+      "lng": 75.6848074,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJGSQ-9XoLYzkRBi5CA8OTp1U",
+      "name": "IndianOil",
+      "address": "Ground Floor, Lekoda",
+      "lat": 23.0729469,
+      "lng": 75.7180015,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJde9uxlaeYzkRdGhd2Bhv6VI",
+      "name": "IndianOil",
+      "address": "near Ujjain Factory, Ground Floor Chandukhedi, near Ujjain Factory, Ujjain",
+      "lat": 23.157066,
+      "lng": 75.672336,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6T0yPIELYzkR2Vj53WDcug8",
+      "name": "Bharat Petroleum Petrol Pump , LEKODA FILLING STATION",
+      "address": "M.P, LEKODA, Ujjain Road, Ujjain",
+      "lat": 23.0670789,
+      "lng": 75.7159764,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJazUV2UmfYzkRHyz3-Q84EpM",
+      "name": "Gas",
+      "address": "5P82+R9, Chandukhedi",
+      "lat": 23.1670625,
+      "lng": 75.7009375,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ88C_HgB1YzkRVJJgsyg0J4A",
+      "name": "IndianOil",
+      "address": "Ground Floor, Chintaman Road, Chintaman Jawasiya",
+      "lat": 23.1501587,
+      "lng": 75.7407563,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJV8e8n_qeYzkRmUj05tbvCxc",
+      "name": "Prashant Filling Center Dealer ( BPCL )",
+      "address": "Madhya Pradesh State Highway 18, Nalwa",
+      "lat": 23.159446,
+      "lng": 75.65728299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlVp6dKV1YzkRtAK8bMLTv6k",
+      "name": "IndianOil",
+      "address": "Ground Floor, Mohanpura, badnagar, Ujjain",
+      "lat": 23.1743936,
+      "lng": 75.7179711,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAalGM2hzYzkRBQ2ccZv5xhE",
+      "name": "IndianOil",
+      "address": "Lock No 13008, Dewas Road, Lalpur, Desai Nagar, Ujjain",
+      "lat": 23.1404912,
+      "lng": 75.82180269999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNbqEkXt0YzkRXqzcD4X3cQo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No B, 5, Dewas Road, Rishi Nagar, Ujjain",
+      "lat": 23.1677962,
+      "lng": 75.7993236,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQZH5R2l0YzkRwvsvleSKOYE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Ujjain Dewas Road, Ujjain",
+      "lat": 23.176051,
+      "lng": 75.788791,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9eBDIkALYzkRXRzoFFSAzkI",
+      "name": "IndianOil",
+      "address": "Ground Floor, Factory, Pipliya Ragho, Ujjain",
+      "lat": 23.1032856,
+      "lng": 75.78280260000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJny7GbdB1YzkRItvCyUzi0eE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, opposite Meghdoot Resort, SH 27, Ujjain - Indore Road, Ujjain",
+      "lat": 23.119036,
+      "lng": 75.799072,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ36abOax0YzkRFyAIZrpejQY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, opposite Meghdoot Resort, SH 27, Ujjain - Indore Road, Ujjain",
+      "lat": 23.119036,
+      "lng": 75.799072,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM2aolxZ1YzkR4Sk7NX0Xqc4",
+      "name": "IndianOil",
+      "address": "Ground Floor, Goyla Khurd, Ujjain",
+      "lat": 23.1421555,
+      "lng": 75.7905324,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ-ulLFYLYzkRYggUieyfWR0",
+      "name": "IndianOil",
+      "address": "Ground Floor, near tapobhumi Jain mandir, Sanwer Road, Nava kheda, Karadiya",
+      "lat": 23.105851,
+      "lng": 75.80633399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJ2tWq4sNYzkRGp4p3RZk8fQ",
+      "name": "Sachin Fules & Petrol Pump",
+      "address": "near nahar petrol pump, 1, Sanwer Road, Pawapuri Colony, Ujjain",
+      "lat": 23.10443459999999,
+      "lng": 75.80752679999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJJ4Yibq11YzkRVgbixmCk67A",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sanwra Khedi, Desai Nagar, Ujjain",
+      "lat": 23.15739,
+      "lng": 75.7697828,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5_ZR96MMYzkR7H069tvir_k",
+      "name": "Bharat Petroleum, Petrol Pump -Nahar Petroleum",
+      "address": "Karadiya, Indore Rd, Ujjain",
+      "lat": 23.0978669,
+      "lng": 75.813453,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJz2-czIt0YzkRmJtjlf0BxQM",
+      "name": "BPCL & CNG Baghel Dealer Nanakheda",
+      "address": "5-A, Sanwer Road, Mahakal Vanijya Kendra, Mahakal Vanijya, Ujjain",
+      "lat": 23.1569444,
+      "lng": 75.7877778,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJW5TA5loNYzkRkeD2Wk3Waf0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, SH 27, Ujjain - Indore Road, Ninora",
+      "lat": 23.093531,
+      "lng": 75.816126,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy7XuOnJ1YzkRK3YItLYdE9Y",
+      "name": "Shubham Pump",
+      "address": "Road, Vikram University, Ujjain",
+      "lat": 23.1555424,
+      "lng": 75.80603789999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJi3OsWmF0YzkR83sEnYD215k",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Nanakheda, Ujjain",
+      "lat": 23.1651028,
+      "lng": 75.78876170000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2zre51p0YzkRyadT5lTfNAo",
+      "name": "IndianOil",
+      "address": "Ujjain Bypass road, Haripatak Railway Over Bridge, Ujjain",
+      "lat": 23.16892589999999,
+      "lng": 75.7743151,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlQnk63xzYzkRKBB0Tat5FS8",
+      "name": "IndianOil",
+      "address": "Lock No 1709, 32, Dewas Road, Desai Nagar, Ujjain",
+      "lat": 23.1522011,
+      "lng": 75.8108749,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJa51iZQBzYzkRCugAiWFzWzQ",
+      "name": "CNG pump Avantika gas limited",
+      "address": "Ujjain",
+      "lat": 23.1470759,
+      "lng": 75.8164338,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ51nJnO5zYzkRAA4UZbhZZ3U",
+      "name": "Bharat Petroleum, Petrol Pump -Saify Auto Service",
+      "address": "DEWAS RD, LALPUR, Ujjain",
+      "lat": 23.1425156,
+      "lng": 75.8201389,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP-96fgBzYzkRd8uO8b-RmBY",
+      "name": "Indian oil petrol pump at police line",
+      "address": "5R45+5XM, Kothi Road, Vikram University, Ujjain",
+      "lat": 23.1554243,
+      "lng": 75.8088794,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJy0k4ytFzYzkR_cynOdEiI3Q",
+      "name": "Indian Oil, Umiya Petroleum",
+      "address": "near Kia Showroom, opp. Patel Garden, Ujjain Dewas Road, Abhilasha Colony, Ujjain",
+      "lat": 23.1293353,
+      "lng": 75.8322865,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJH2Elmm90YzkReYznpkMMtts",
+      "name": "IndianOil",
+      "address": "Ground Floor, University Road, Ashok Nagar, Desai Nagar, Ujjain",
+      "lat": 23.1729875,
+      "lng": 75.79260459999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJF8wXkUh0YzkRNfOZgDtP4zc",
+      "name": "Aman Oil And Chemical",
+      "address": "India",
+      "lat": 23.1777962,
+      "lng": 75.771069,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJaeK0JkF0YzkRRshLPddmJ5k",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Railway Station, Mal Godown Road, Desai Nagar, Ujjain",
+      "lat": 23.179215,
+      "lng": 75.77903200000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJT8ug7mt0YzkRoAOnnr6xiRU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Freeganj, Ujjain",
+      "lat": 23.1785601,
+      "lng": 75.78845009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKdUE2jV1YzkR-cAk0gz4tc4",
+      "name": "Preeti Kisan Seva Kendra",
+      "address": "Preeti Kisan Seva Kendra, Sironj Road, Aron, Ujjain",
+      "lat": 23.1808411,
+      "lng": 75.7816924,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJTfM_qfV1YzkR46ZNT2FaQRE",
+      "name": "Dilip Jatwa",
+      "address": "Dudh Talai, Anaj Mandi, K Piche, Ujjain",
+      "lat": 23.181654,
+      "lng": 75.7791685,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJEYEOpmp0YzkRj7qdeC2F_bA",
+      "name": "Govindram hanuman prasad, petrol pump",
+      "address": "near Railway Bridge, Chamunda Mata Chouraha, Ujjain",
+      "lat": 23.1819743,
+      "lng": 75.7841358,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ86RHr7F1YzkRArI-GfERXe8",
+      "name": "GHP Lohia Petrol Pump",
+      "address": "Freegunj Bridge, near Chamunda Mata Chouraha, Ujjain",
+      "lat": 23.1831839,
+      "lng": 75.7828155,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJTQGDAQALYzkR5oATzr_RZU0",
+      "name": "Sisodiya fules",
+      "address": "3QJP+6X2, Chhayan",
+      "lat": 23.0805072,
+      "lng": 75.7873895,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ82O3MSgNYzkRvINhvF6YFXc",
+      "name": "Indian Oil - Monarch Oil",
+      "address": "Ujjain Dewas Road, Chandesara",
+      "lat": 23.1162367,
+      "lng": 75.8514149,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVwXjddUMYzkRBuikERxh-qQ",
+      "name": "Mangalnath Fuels nayara pump",
+      "address": "4V82+JW3, Ujjain Dewas Road, Chandesari",
+      "lat": 23.116506,
+      "lng": 75.8523115,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJC0b22koNYzkRJf5weGbdTLo",
+      "name": "Balaji fuel station",
+      "address": "4V74+FC4, Ujjain Dewas Road, Chandesari",
+      "lat": 23.11363620000001,
+      "lng": 75.856073,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJS_q-jk0NYzkRBr54HHDU2bw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Datana",
+      "lat": 23.100294,
+      "lng": 75.872091,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRc-BDQANYzkRjRD6pMkZC6w",
+      "name": "Jio BP Petrol Pump Fuel",
+      "address": "3VWH+PCP, Datana",
+      "lat": 23.0968448,
+      "lng": 75.8785762,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5aQfUQANYzkRANFZJFMaa8Q",
+      "name": "Nayara petrol pump",
+      "address": "3VRM+V9, Datana",
+      "lat": 23.092163,
+      "lng": 75.883426,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNx9brj8NYzkRhhx7cNHPUuA",
+      "name": "Essar petrol station",
+      "address": "3R5F+CW6, Ujjain - Indore Road, Nayakhedi",
+      "lat": 23.0585422,
+      "lng": 75.82476969999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ7RFCcgkNYzkReGguv3qyEFM",
+      "name": "Bharat Petroleum Trimurti filling station",
+      "address": "Village panthpiplai, Ujjain - Indore Road, Ujjain",
+      "lat": 23.0472737,
+      "lng": 75.829594,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM7h6VQBtYzkRJt1IAia1Xbo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "PH No 51, Survey No 243, 2/1/1/1/1/2, Dudarsi",
+      "lat": 23.144213,
+      "lng": 75.904012,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwZXTRPGdYzkRSBHQwhL8UcM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Naikhedi, Ghatia, Dhabla Hardu, Naikhedi",
+      "lat": 23.2050844,
+      "lng": 75.6793028,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaZbPBu11YzkRG5PmGxh-h1w",
+      "name": "IndianOil",
+      "address": "Lock No 13007, near Ujjain Factory, Badnagar Road, Mohanpura, Ujjain",
+      "lat": 23.1804,
+      "lng": 75.72800000000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUfWJGwCfYzkRkaKzcHu2DbY",
+      "name": "Shri Gayatri petrol pump (CNG available )",
+      "address": "5J7P+7WC, Khadotiya",
+      "lat": 23.1631751,
+      "lng": 75.63727,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJNarkO86eYzkRlS9ywI_ALrk",
+      "name": "Shri Kirshna Essar",
+      "address": "5J5H+59X, Chhankhedi",
+      "lat": 23.157982,
+      "lng": 75.62849299999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJMax4_9Z3YzkREP3uQokFePE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Vardhan Cold Store, Unhel Road, Ujjain",
+      "lat": 23.2377238,
+      "lng": 75.7449622,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdQsI1gN0YzkR2Ms8Ep1HvZk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Kanipura Road, Ujjain",
+      "lat": 23.2045794,
+      "lng": 75.8011155,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGb_oTjx0YzkRsRVx7lR29AI",
+      "name": "Star",
+      "address": "India",
+      "lat": 23.1903016,
+      "lng": 75.780258,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJnVdYod11YzkR7fzvpbmGyL8",
+      "name": "IndianOil",
+      "address": "near Ujjain Charitable Trust Hospital, Plot no 56, Ankpat Marg, Ujjain",
+      "lat": 23.1953591,
+      "lng": 75.7770891,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3f5590F0YzkRJuSQbIkZtP0",
+      "name": "IndianOil",
+      "address": "Ground Floor, Agar Road, Koyla Phatak, Desai Nagar, Ujjain",
+      "lat": 23.1889871,
+      "lng": 75.7843997,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaVDJZwB1YzkRB1zQjaVQS64",
+      "name": "UMC",
+      "address": "5QRP+83W, Koyal Phatak Chauraha, Arihant Parisar, Sirsagar, Ujjain",
+      "lat": 23.1908683,
+      "lng": 75.7851917,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJWSz-ju3BZjkRYh9MoqiXUzk",
+      "name": "IndianOil",
+      "address": "Ground Floor, Ujjain - Agar Road, Ujjain",
+      "lat": 23.191841,
+      "lng": 75.7855438,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXSKj0Bl0YzkRiSAaeztyXgE",
+      "name": "FUEL CENTER BPCL PETROL PUMP",
+      "address": "Ujjain - Agar Road, Ujjain",
+      "lat": 23.1955259,
+      "lng": 75.7875105,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3f5590F0YzkRAkUVeeFZrPg",
+      "name": "Gas Center",
+      "address": "near MPEB Office, 16/3, Maksi Road, Ujjain",
+      "lat": 23.1822103,
+      "lng": 75.7914782,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJicyAQ8l1YzkRT6cg3F4WUSo",
+      "name": "Patrol pamp",
+      "address": "5QXV+Q62, Rajendra Nagar, Ujjain",
+      "lat": 23.1993787,
+      "lng": 75.7930047,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJjVj2AE51YzkR3qxDDHgsEzY",
+      "name": "Gurunanak Fuels",
+      "address": "near nageshwar dham, Gurunanak Fuels, near nageshwar dham, Kanipura Road, Ujjain",
+      "lat": 23.1993679,
+      "lng": 75.7933204,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJeiGmyJ1YzkRTOqtCCohU7M",
+      "name": "Rukmani Filling Station Bharat Petrol ONLINE CNG Pump",
+      "address": "Ujjain Ring Road, Dhancha Bhavan Colony, Bapna Park Colony, Ujjain",
+      "lat": 23.1974983,
+      "lng": 75.79458989999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_3_22C11YzkRtWF1czHnohU",
+      "name": "Bharat Petroleum, Petrol Pump -Subham Petroleum",
+      "address": "FREEGANJ,NEAR RAILWAY BRID, Ujjain",
+      "lat": 23.2051297,
+      "lng": 75.78928069999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzUwO4x10YzkRsjttTX6r30A",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Ashok Mandi Marg, Agar Road, Ujjain",
+      "lat": 23.205808,
+      "lng": 75.789672,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvc90J7B1YzkRRYYY7E0KtuA",
+      "name": "IndianOil",
+      "address": "Ground Floor, Inner Ring Road Badnagar Kasba, Nagar, Maksi Road, Amodiya",
+      "lat": 23.1949697,
+      "lng": 75.8009795,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkZd8O6d2YzkRVxWnyNud4yc",
+      "name": "IndianOil",
+      "address": "Survey No 90/2/1, near Ujjain Factory, Plot 61/1, Ashok Mandi Chouraha, Khilachipur, Ujjain",
+      "lat": 23.2089167,
+      "lng": 75.7904643,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL8GNrIR1YzkRdvIcmUA0VVQ",
+      "name": "Krishna Fuels",
+      "address": "MR- 5 Inner Ring Road , Agar Maksi Bypass, Ujjain",
+      "lat": 23.1943079,
+      "lng": 75.8016884,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDaC62oxzYzkRQzD54OpvMY4",
+      "name": "IndianOil",
+      "address": "Lock No 23009, Maksi Road, Desai Nagar, Ujjain",
+      "lat": 23.1849917,
+      "lng": 75.8150909,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJI-YgJrB2YzkR51RoxJed95A",
+      "name": "IndianOil",
+      "address": "Lock 13015 Agar Road, Khilchipur, Desai Nagar, Ujjain",
+      "lat": 23.219341,
+      "lng": 75.797445,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy6EIjvN2YzkRvUkQPIFZgJA",
+      "name": "IndianOil",
+      "address": "Ground Floor, Ujjain Bherugarh, Unhel Road, Ghatiya, Ujjain",
+      "lat": 23.23186059999999,
+      "lng": 75.76698449999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZZ2GkZdzYzkRLXC61HyC2j8",
+      "name": "Bharat Petroleum Petrol Pump , MAHAKAL FILLING STATION",
+      "address": "PAWASAPANWASA, Ujjain - Maksi Road, Ujjain",
+      "lat": 23.1898354,
+      "lng": 75.8206194,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJF56F_J93YzkRmtniGizApb0",
+      "name": "Bharat Petroleum Petrol Pump , RAJNARAYAN PETROLEUM",
+      "address": "BHAIROGADH UJJAIN, M.P",
+      "lat": 23.2357998,
+      "lng": 75.7606144,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ69TxpVN3YzkRatdtCnXe9x8",
+      "name": "Bharat Petroleum, Petrol Pump -Itc Chopal , Ujjain",
+      "address": "KAMED,SH 27,UJJAIN, Ujjain",
+      "lat": 23.2254285,
+      "lng": 75.8015392,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8Uuh4OtzYzkRtknJoRkFijM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Ujjain - Maksi Road, Pawasa, Ujjain",
+      "lat": 23.1921541,
+      "lng": 75.82569529999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8d2CfMh3YzkR5doeqTVstE4",
+      "name": "नायरा पैट्रोलियम",
+      "address": "6PQX+C95, Sodang",
+      "lat": 23.2385113,
+      "lng": 75.74848349999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPzWbaK53YzkR605nkYVYa5o",
+      "name": "Vardhan Petroleum",
+      "address": "6PQX+G75, Sodang",
+      "lat": 23.2388335,
+      "lng": 75.7482581,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDcbhskJ3YzkRbRZrpg-RnUc",
+      "name": "Shri Awantika Jalpaan Grah",
+      "address": "Force Shorum Ke Samne, Medical College, Ujjain - Agar Road, Ujjain",
+      "lat": 23.2304622,
+      "lng": 75.8036809,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJhdOl4elzYzkRNJa0YywUerk",
+      "name": "IndianOil",
+      "address": "Survey No 168/3/1, Ph, 40, Maxi Road, Amodiya",
+      "lat": 23.1941428,
+      "lng": 75.8299086,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTUa56W53YzkRnTQhMrFzgCE",
+      "name": "Bharat Petroleum, Petrol Pump -Khushi Fuel Station",
+      "address": "Surasa",
+      "lat": 23.2315495,
+      "lng": 75.8038485,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkZFwXzNxYzkR1jcTFCJDJHM",
+      "name": "ESSAR MAA ARBUNDA PETROLEUM",
+      "address": "6RQ5+27C, Surasa",
+      "lat": 23.2375741,
+      "lng": 75.80814880000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJkyGbAC9zYzkRvO9xY-R3wPM",
+      "name": "IndianOil",
+      "address": "Survey No 39/1, near Sanchi Dugdh Sangh, Ph No 51, Shankarpur, Desai Nagar, Ujjain",
+      "lat": 23.1947623,
+      "lng": 75.8479937,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfV1YD39zYzkRWCfxcdCycC4",
+      "name": "Sudarshan Petroleum",
+      "address": "Ground Floor, Pushpanjali Nagar",
+      "lat": 23.2013614,
+      "lng": 75.87731690000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJccHElltYzkReCE-Wc37bPc",
+      "name": "IndianOil",
+      "address": "Ground Floor, Tajpur",
+      "lat": 23.2050502,
+      "lng": 75.9050547,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq8XYMMptYzkRkRx03wP5Xr0",
+      "name": "SHRI RAMARDHAN KSK Indian oil",
+      "address": "near patidar international school, Ujjain - Maksi Road, Tajpur",
+      "lat": 23.2050328,
+      "lng": 75.9051569,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJczzbpC5xYzkRKRM0Ycnvun4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Ujjain - Agar Road, Dhabla Rehwari",
+      "lat": 23.2486801,
+      "lng": 75.8133142,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSyzcXshtYzkRa8L5MeQha7A",
+      "name": "Bharat Petroleum Petrol Pump , ANAND PETROLEU",
+      "address": "TAJPUR CHOPATIMAXI ROAD UJJAIN, M.P",
+      "lat": 23.206924,
+      "lng": 75.909482,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJj75vkGWdYzkRC8k9I-STG4Y",
+      "name": "Baba Nakoda Fuels (Petrol Pump)",
+      "address": "Chakrawada",
+      "lat": 23.2606625,
+      "lng": 75.7031135,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJI2G2WdydYzkR6okUlAvP_aY",
+      "name": "BPCL ANAND FUEL POINT KHEDLA",
+      "address": "7M9J+HMW, Nagda Road, Khedla",
+      "lat": 23.2689928,
+      "lng": 75.6817115,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJkexIEQB3YzkR1wiAdN8JMyQ",
+      "name": "Mali krishi seva KendraJio BP fuel pump",
+      "address": "7P3F+J7, Chakrawada",
+      "lat": 23.2540031,
+      "lng": 75.7231922,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJBeNM29edYzkRBFziiHQ6TTw",
+      "name": "ARYA FUEL STATION CNG PUMP",
+      "address": "Nagda Road, Ruie",
+      "lat": 23.2860349,
+      "lng": 75.6502009,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ5iJawd7YzkRvNR1x_BXfXk",
+      "name": "IndianOil",
+      "address": "Ground Floor, Rui, SH 17, Ghatiya,Dhabla, Hardu, Ujjain",
+      "lat": 23.28605959999999,
+      "lng": 75.6501854,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXai8QKmDYzkRExYoy-dgdmE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Ujjain Jaora Road, Ruie",
+      "lat": 23.288497,
+      "lng": 75.645214,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY5NQJLxwYzkRfZoh3lyb6lk",
+      "name": "Bharat Petroleum, CNG Petrol Pump -Jay Nakoda Petroleum",
+      "address": "JAITHALTECH ,UJJAIN KOTA R, Ujjain",
+      "lat": 23.28639,
+      "lng": 75.8261407,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzxLAGvdxYzkRCCw3-_ZzEOw",
+      "name": "Atharva Petroleum",
+      "address": "ujjain agar, national highway, jhalawad",
+      "lat": 23.2590625,
+      "lng": 75.8174441,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg9FXqYRxYzkRRSBQfr9Gkwk",
+      "name": "Bharat Pump",
+      "address": "1 Gram Jethal Tek",
+      "lat": 23.2824257,
+      "lng": 75.8214371,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJUYzofgBxYzkRAV03_GpeO9w",
+      "name": "Hotel Nandi Resort",
+      "address": "7RPG+94J, Ujjain - Agar Road, Jaithal",
+      "lat": 23.2859692,
+      "lng": 75.82527809999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJg-QXlr5wYzkRDF07nhImdUU",
+      "name": "IndianOil",
+      "address": "Ph No 42, Survey No 296, 4 300, Dhabla Hardu, Jaithal",
+      "lat": 23.2848874,
+      "lng": 75.8259964,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEy3_ss55YzkRKn7Gh1Vy7KM",
+      "name": "IndianOil",
+      "address": "Ph No 14, Survey No, 2986/5, Dhabla Hardu, Ghatia, Panbihar",
+      "lat": 23.314103,
+      "lng": 75.785507,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuzYLMgBxYzkRZX-Qj0KTu44",
+      "name": "New petrol pump Sagar fuel station",
+      "address": "Dewan Khedi, Amodiya",
+      "lat": 23.2558624,
+      "lng": 75.8707026,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ94tWxyNxYzkRxbiyWZbaUj4",
+      "name": "IndianOil",
+      "address": "Ground Floor, Gunaikhalsa",
+      "lat": 23.275783,
+      "lng": 75.8952266,
+      "open_now": true
+    }
+  ]
+}

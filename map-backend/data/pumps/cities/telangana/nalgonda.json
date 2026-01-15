@@ -1,0 +1,635 @@
+{
+  "city": "Nalgonda",
+  "state": "Telangana",
+  "count": 78,
+  "center": {
+    "lat": 17.0667,
+    "lng": 79.2667
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJYaNdKQDXyjsRcHxvXnlK6N8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, SH 18, Parvathagiri",
+      "lat": 16.98629799999999,
+      "lng": 79.20906699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPzPB4qfXyjsRHXkLu0cHVHc",
+      "name": "Bharat Petroleum Petrol Pump , SAI RENUKA FILLING STATION",
+      "address": "MANDALNEAR TEMPLE, DARVESHPURAM VIL, KANAGAL, Nalgonda",
+      "lat": 16.998518,
+      "lng": 79.215999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ88FHbvvXyjsRGDFd_xatPxU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No, 629 & 631, Kanagal",
+      "lat": 16.950821,
+      "lng": 79.20055099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJa-FOKwApyzsRB0r5juks7lM",
+      "name": "IndianOil",
+      "address": "Sy No 358, KHA Appajipet, Nalgonda",
+      "lat": 17.0131936,
+      "lng": 79.24565969999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ09DAbGfZyjsR6Vuv5znJQjQ",
+      "name": "Essar Petrol Bunk",
+      "address": "W5VV+P7G, Budamarpally",
+      "lat": 16.9443154,
+      "lng": 79.1931888,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJdTdyJQDZyjsRS0VzNZNDIu4",
+      "name": "G Yadavelly",
+      "address": "X4CP+FQQ, Chandur Main Road, Gaddamvari Yadavelly",
+      "lat": 16.9712005,
+      "lng": 79.136972,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJf0JbPAApyzsRsgATd1zbNiA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Sagar Road, Nalgonda",
+      "lat": 17.0362179,
+      "lng": 79.2506926,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ04AIjfkoyzsRXmYL-1M8D7Q",
+      "name": "Essar Petrol Bunk",
+      "address": "Munugodu -- Nalgonda, Nalgonda",
+      "lat": 17.0555502,
+      "lng": 79.2354088,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWVQ5NUUpyzsRgME8awX73GU",
+      "name": "Praveen",
+      "address": "01, Munugodu Road, Nalgonda",
+      "lat": 17.0556567,
+      "lng": 79.2354849,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJVSBgoc0pyzsRKjPgXXsAd8U",
+      "name": "Bharat Petroleum, Petrol Pump -Chennakeshava Filling Station",
+      "address": "NALGONDA TOWN (ON DVK ROAD, Nalgonda",
+      "lat": 17.03888,
+      "lng": 79.2572668,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUbVWPbspyzsRyiISVvhPhBo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Devarakonda Road, Chaitanyapuri Colony, Nalgonda",
+      "lat": 17.038411,
+      "lng": 79.260652,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUR2F26IpyzsR3nFAsCjKUGo",
+      "name": "IndianOil",
+      "address": "Ground Floor, DVK Road, Nalgonda",
+      "lat": 17.041608,
+      "lng": 79.26557199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0xa8kp8pyzsRARFWksIW9Hk",
+      "name": "Bharat Petrol Bunk",
+      "address": "3729+HG3, 53, Prakasham Bazar Road, New Prakasham Bazar, Bottu Guda, Nalgonda",
+      "lat": 17.0505611,
+      "lng": 79.26850189999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM_aDKPwpyzsR4v88YYSLJQo",
+      "name": "S S Cansalttansi Auto Fainaes",
+      "address": "27J9+P54, Mella Duppalapally Road, Abbasia Colony, Chaitanyapuri Colony, Nalgonda",
+      "lat": 17.0317544,
+      "lng": 79.2679538,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJB-2HKgApyzsRDS_kN7--CxE",
+      "name": "AKSHAYA FILLING STATION BPCL RO",
+      "address": "27PF+4HW, Sai Nagar, Nalgonda",
+      "lat": 17.03536919999999,
+      "lng": 79.2739381,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlXmlyqcpyzsRdcIBJFJON-0",
+      "name": "Sri Raghurama Services",
+      "address": "Siddaratha colony, Nalgonda",
+      "lat": 17.0447803,
+      "lng": 79.2676687,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmUJ7XZ8pyzsRkB99hMqVpgI",
+      "name": "IndianOil",
+      "address": "Sy No 115, Jail Premises NLG,Appajipet, Nalgonda",
+      "lat": 17.047775,
+      "lng": 79.268154,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg9KzJzgpyzsRCm7Qx4_ppaY",
+      "name": "IndianOil",
+      "address": "Survey No 461, 462 & 463, Gollagudem,Appajipet",
+      "lat": 17.044115,
+      "lng": 79.2891401,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTXN6PZ0pyzsRxQ0Y2jneLwc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Miryalaguda Road, Bottu Guda, Nalgonda",
+      "lat": 17.050425,
+      "lng": 79.277576,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHUGOEDQpyzsRIJ_wWr05kYs",
+      "name": "Bharat Petroleum, Petrol Pump -J.Laxmaiah & Sons",
+      "address": "NALGONDA TELE EXCHNG, Nalgonda",
+      "lat": 17.051533,
+      "lng": 79.2660274,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUbNhG5QpyzsRbPXT7jEpgcE",
+      "name": "Bharat Petroleum, Petrol Pump -Etihad Petro Plaza",
+      "address": "NALGONDA TOWN, Nalgonda",
+      "lat": 17.0509329,
+      "lng": 79.27719689999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJV6kiNQspyzsRmJ2RUDU97Ck",
+      "name": "HP PETROL BUNK. (Sri Balaji Oil Company)",
+      "address": "Rashtrapati Road, Nalgonda",
+      "lat": 17.056271,
+      "lng": 79.26758,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxcYw2AwpyzsRacCngIGTdMA",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Police Headquarters, Hyderabad Road, Nalgonda",
+      "lat": 17.0604513,
+      "lng": 79.26692369999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKX0in8DWyjsRy0Kxkhs5kPk",
+      "name": "IndianOil",
+      "address": "Ground Floor, Appajipeta, Serilingotam",
+      "lat": 16.931378,
+      "lng": 79.267457,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXRsrMXApyzsRCH6ivWGBgI4",
+      "name": "IndianOil",
+      "address": "D No 6, 1/492, Panagal Road, Srinivasa Colony, Ramgiri, Nalgonda",
+      "lat": 17.063175,
+      "lng": 79.276654,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPfYDRWEqyzsR1Mm8kLU2CHM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "SH 2, Ground Floor, Narketpally Addanki Road, Anishetty Duppalapally",
+      "lat": 17.027183,
+      "lng": 79.33014399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmeWGbm0pyzsR1vae-cDY5Eo",
+      "name": "Essar Petrol Pump",
+      "address": "3779+WRW, N G Colony Road, Nagarjuna Colony, Nalgonda",
+      "lat": 17.0648621,
+      "lng": 79.2695912,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl9HIJgApyzsRSamNRSk8M1A",
+      "name": "Nayara petrol",
+      "address": "3779+XVF, Shivaram Nagar, Nalgonda",
+      "lat": 17.0649277,
+      "lng": 79.2696658,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJtx4zkJoryzsRaF6XlAyzkv4",
+      "name": "IndianOil",
+      "address": "Sy No 28, Golla Guda, Appaji Peta",
+      "lat": 17.059763,
+      "lng": 79.295002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB1SZV2kryzsR761abTOT4yA",
+      "name": "Bharat Petroleum, Petrol Pump -Nalgonda Petro World",
+      "address": "NALGONDA BYE-PASS (DUPPALA, Nalgonda",
+      "lat": 17.0239652,
+      "lng": 79.3383204,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlV0DLpAryzsRzhrBvuMhGgA",
+      "name": "Prime Highway-Facing Commercial Land for Lease",
+      "address": "opposite Gollagudem Village road, Near Anishetty Duppalapally, Hyderabad-Nalgonda-Chennai Highway (Narketpally–Addanki route, opposite Gollagudem Village road, beside KRR Gardens, Nalgonda",
+      "lat": 17.0232375,
+      "lng": 79.3443734,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo0atmwMryzsR7gGvCn7PbkA",
+      "name": "Classic petroleum NAYARA",
+      "address": "Hyderabad Road, Raini Gudem",
+      "lat": 17.022187,
+      "lng": 79.36068999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJf0-ijDoryzsRf_9Avus1iL4",
+      "name": "Bharat Petrol pump and CNG station Tipparthi",
+      "address": "MALLEPALLIVARIGUDEM, Nalgonda",
+      "lat": 17.0211456,
+      "lng": 79.37875559999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbQgFFA_VNDoRq7dzf5H-284",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Jangareddigudem, Tipparthy",
+      "lat": 17.016019,
+      "lng": 79.3854601,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfS_WRV8rNToRhZtVKQqDiN8",
+      "name": "IndianOil",
+      "address": "Sy No 1118, Kannekal",
+      "lat": 16.9455048,
+      "lng": 79.3817682,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxfEqeywpyzsRe49vJB9Qwug",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 30, Hyderabad Road, Marriguda",
+      "lat": 17.0944234,
+      "lng": 79.2514605,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL-ILeywpyzsRltIx1S_-YS0",
+      "name": "Durga Devi Filling Station Hindustan Petroleum",
+      "address": "Marriguda, Nalgonda SH-2, Guntur, Hyderabad Road, Marriguda",
+      "lat": 17.0907834,
+      "lng": 79.25060669999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzYKgTJkpyzsRsd71zYb1SaU",
+      "name": "Aramco Fuel Plaza",
+      "address": "Bus Stop, Marriguda, SH 21, Industrial Area, Nalgonda",
+      "lat": 17.0903461,
+      "lng": 79.25376279999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4WkUyi8pyzsRDflr5Kysf6s",
+      "name": "Essar",
+      "address": "India",
+      "lat": 17.0889614,
+      "lng": 79.2550536,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJBbNlUDwpyzsROYVS9iuQLpw",
+      "name": "IndianOil",
+      "address": "Sy No 1513, Hyderabad Road Arjalabavi, Appajipet, Old Venkateshwara Colony, Nalgonda",
+      "lat": 17.0785203,
+      "lng": 79.25982119999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTSSI-hEvyzsRDH8COu_V9OE",
+      "name": "Essar Petrol Bunk",
+      "address": "469J+FXM, Nalgonda",
+      "lat": 17.1187163,
+      "lng": 79.2324366,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJxThv42kpyzsRmM5DUE2f4C4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 1498, New Venkateshwara Colony, Nalgonda",
+      "lat": 17.072388,
+      "lng": 79.26217100000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-3m5d4EpyzsRQywqhKsb2Rs",
+      "name": "Rk Shop",
+      "address": "1, Nalgonda",
+      "lat": 17.0692512,
+      "lng": 79.2635143,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJmQbciRMpyzsRxXANADUX6r4",
+      "name": "Venkateshwara oil company Bharat Petroleum",
+      "address": "Nalgonda, SH-2, Guntur Hyderabad Road, Nalgonda, Nalgonda",
+      "lat": 17.0694235,
+      "lng": 79.2638597,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJXSOwIw4nyzsRD2ARqqL4aEI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 339E, Domalpalli",
+      "lat": 17.07690819999999,
+      "lng": 79.12980519999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQzcC9e8vyzsRDQotGubeJ6k",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near 12th Batallion TSSP, SH 2, Narkatpally Addanki Hwy, Aneparti",
+      "lat": 17.130825,
+      "lng": 79.228839,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaSvwH2EpyzsR_Ito0IakPdg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Addanki Narketpalli Bypass Road, Panagal, Nalgonda",
+      "lat": 17.073374,
+      "lng": 79.2860182,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS76XMmEpyzsRxVePTPDJipI",
+      "name": "S R SERVICE STATION, Bharat Petroleum",
+      "address": "India",
+      "lat": 17.0725624,
+      "lng": 79.2846715,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJd1REj-YpyzsRDUIzw3S5UR8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Hyundai Showroom, SH 2, Ammaguda",
+      "lat": 17.086844,
+      "lng": 79.27210099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJO2aqh18pyzsR56lO721W9R0",
+      "name": "IndianOil",
+      "address": "Sy No 139, Panagal",
+      "lat": 17.078369,
+      "lng": 79.289644,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJETKMIDctyzsRkmMVGKOVI2s",
+      "name": "ESSAR Petrol Diesel Bunk",
+      "address": "49HC+3C2, Suraram",
+      "lat": 17.127641,
+      "lng": 79.3710132,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJW51DKJ8vyzsRAeIMboR9wJE",
+      "name": "IndianOil",
+      "address": "Ground Floor, Yellareddy Gudem,Akkinepally, Yellareddy Guda",
+      "lat": 17.1477378,
+      "lng": 79.2200135,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0U0vDPMvyzsR983OY_bPgW4",
+      "name": "Sri Parvathi Jadala Ramalingeshwara Swamy filling station",
+      "address": "Yellareddy Guda",
+      "lat": 17.1721214,
+      "lng": 79.2058824,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQ9TYfQ8wyzsRJYJI_DSTyPM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 9, Narketpalle",
+      "lat": 17.2005102,
+      "lng": 79.20809419999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNYrB-Lw6yzsRI0chKAojvLE",
+      "name": "Bharat Petroleum: Sai Filling Station",
+      "address": "NH-9, Vijayavada Hydrabad Road, Narkatpally Main Road, Nalgonda, Narkatpally",
+      "lat": 17.2075,
+      "lng": 79.18599999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB5IalfIvyzsR0ak9OIaLvE8",
+      "name": "వర్షిణి జ్యూయలర్స్",
+      "address": "India",
+      "lat": 17.1671191,
+      "lng": 79.20999069999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJh3ov8fMvyzsR65QrD9XxwrE",
+      "name": "NAYARA",
+      "address": "56C4+3CC, Hyderabad Road, Yellareddigudem",
+      "lat": 17.1701942,
+      "lng": 79.20603009999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJBbMQvnovyzsR41NoAt5kB3M",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 216/1, Narketpalle",
+      "lat": 17.1734183,
+      "lng": 79.2047319,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfyQfagAvyzsRFb9CZeDc8Cc",
+      "name": "SRI VENKATESHWARA Filling station",
+      "address": "56J2+V8H, Cherughat",
+      "lat": 17.1833024,
+      "lng": 79.201337,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0TqhzzovyzsRfB8avnIpczU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Sy No 749E2 & 3 SH 2, Addanki, Narketpalle",
+      "lat": 17.186473,
+      "lng": 79.200396,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3UBwNGclyzsRSnGAFhj5b-Q",
+      "name": "IndianOil",
+      "address": "Sy No 90/A, Aipur, Brahmana Vellemla",
+      "lat": 17.1686498,
+      "lng": 79.1432627,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYXJP65QkyzsRh4aYynKnuQE",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 17.1569068,
+      "lng": 79.1305678,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ7SCceac6yzsR1JebrRxEccM",
+      "name": "IndianOil",
+      "address": "Survey No 220, Varkatpally, Akkinepally",
+      "lat": 17.2030668,
+      "lng": 79.1994438,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJk4uMOaU7yzsRHRxeDQZSJaE",
+      "name": "Bharat Petroleum, Petrol Pump -Sai Fillig Station",
+      "address": "HIGHWAY ROAD NARKETPALLY, Shapally",
+      "lat": 17.20440809999999,
+      "lng": 79.1977225,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJebwjRAAvyzsRzXFSiQumcaE",
+      "name": "Shiva sai filling station",
+      "address": "57M3+888, Akkinepallivari Lingotam",
+      "lat": 17.183297,
+      "lng": 79.25331349999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJX1DPBqUtyzsRfNWr0tzewQU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "RS No 126, A2 NH 9, Katangur",
+      "lat": 17.1625118,
+      "lng": 79.32647349999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJK0cQX1ItyzsREI_0WqJCd-Y",
+      "name": "VENU GOPALA FILLING STATION",
+      "address": "Nalgonda Road, Ramnagar",
+      "lat": 17.1392865,
+      "lng": 79.3089758,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJf5mn1DouyzsR801tRH1Uuro",
+      "name": "IndianOil",
+      "address": "Sy No 28 & 32 Pamanagundla, Kattangur, Aiti Pamula",
+      "lat": 17.179601,
+      "lng": 79.25870599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0atK-zYsyzsRk3Iin5VPnLM",
+      "name": "IndianOil",
+      "address": "Survey No 423/Aa2, Katangur",
+      "lat": 17.1509228,
+      "lng": 79.3104383,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ548sElItyzsR9aoidm5kyQU",
+      "name": "Essar Petrol Pump",
+      "address": "58C6+923, Eduloor - Kattangur Road, Katangur",
+      "lat": 17.1708804,
+      "lng": 79.3100419,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJF8j7_rstyzsRPl8rZo1Ov6w",
+      "name": "Fuel Station",
+      "address": "Eduloor - Kattangur Rd, Road, Katangur",
+      "lat": 17.1750036,
+      "lng": 79.3087769,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ_TpGWwAvyzsR3Q2SpGbIglM",
+      "name": "Nayara petrol station",
+      "address": "56QX+W9V, Akkinepallivari Lingotam",
+      "lat": 17.1898082,
+      "lng": 79.2483364,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJN2ofdAAvyzsR5P8DrSamik0",
+      "name": "Aegis LPG gas Station",
+      "address": "56QX+W9V, Akkinepallivari Lingotam",
+      "lat": 17.1898625,
+      "lng": 79.2484219,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJDU0EVAotyzsR-QqQ9I6IXRk",
+      "name": "Bharat Petroleum Petrol Pump , GOKUL PETRO AGENCY",
+      "address": "SY NO.116/A,116/AA,116/U/4NH 65, KATTANGUR (V )& ( M",
+      "lat": 17.1631441,
+      "lng": 79.3212032,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJyZWV-KQtyzsRsWZJiec5oUU",
+      "name": "Gokul Petro Agency",
+      "address": "587G+9PR, Nalgonda",
+      "lat": 17.1634773,
+      "lng": 79.3267671,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJVQ2a_qQtyzsRmnjnUqbCI0Q",
+      "name": "Bharth Petroleum",
+      "address": "India",
+      "lat": 17.1634686,
+      "lng": 79.3267985,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJp4Wf-KQtyzsRRAZ7nNmXddo",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 17.1634777,
+      "lng": 79.326831,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJRWeazunSNDoRn-9KDk8eY2I",
+      "name": "Devi Petro Filling Station-Bharat Petroleum",
+      "address": "Nakrekhal Main Road, Nalgonda, NH-9, Vijayavada Hydrabad Road, Nakirekal, Nakirekal",
+      "lat": 17.1674473,
+      "lng": 79.4037953,
+      "open_now": true
+    }
+  ]
+}

@@ -1,0 +1,1211 @@
+{
+  "city": "Warangal",
+  "state": "Telangana",
+  "count": 150,
+  "center": {
+    "lat": 17.9689,
+    "lng": 79.5941
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJIYTbRqdRMzoRcZut0YX4Vss",
+      "name": "IndianOil",
+      "address": "D1, G/6/4, Lock No 209/T3/451, Fatimanagar",
+      "lat": 17.906548,
+      "lng": 79.49953599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9xCnd6lQMzoR1osujfHl_1o",
+      "name": "IndianOil",
+      "address": "Survey No 27/D, Lock No 422/4/D1, G/3, Inolu, Rollakal",
+      "lat": 17.86833799999999,
+      "lng": 79.557361,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJ4JS9_paMzoROqzSCwohpDA",
+      "name": "HP Petrol Pump",
+      "address": "WH9W+VC7, Police Training Center Quarters, Warangal",
+      "lat": 17.9196541,
+      "lng": 79.59605119999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJF8a_V5tRMzoRhSaacjQIVEk",
+      "name": "BHARATH PETROL PUMP( RISHANK FILLING STATION)",
+      "address": "Kunur to Kazipet Road, Vanamala Kanaparti",
+      "lat": 17.8992948,
+      "lng": 79.4968742,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJT0AkKQBRMzoRgBMqlP8pdtc",
+      "name": "Rajesh",
+      "address": "VH93+CVJ, Inavolu",
+      "lat": 17.8685901,
+      "lng": 79.55465459999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJVbtXxJJaMzoRsTCeiFP2a-4",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 17.9234332,
+      "lng": 79.58190420000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJS9z-1vlPMzoRsAKhuRXygwc",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bhattupally",
+      "lat": 17.961488,
+      "lng": 79.5462068,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe-IRbzJOMzoRvc_nODUyWAg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 224 Kazipet, Road, Kadipikonda, Bhattupally",
+      "lat": 17.9646989,
+      "lng": 79.5153689,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHRT69ORPMzoRmZ7a90SmkCE",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 17.9621244,
+      "lng": 79.5465231,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJAz__gPJJMzoR5Z85MFA-jUQ",
+      "name": "IndianOil",
+      "address": "Lock No, 33-4, D2 G, Yellapur Town, Warangal",
+      "lat": 17.9279758,
+      "lng": 79.5884748,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe0eZUwNSMzoRlC0xZgAIriI",
+      "name": "Indian Oil",
+      "address": "India",
+      "lat": 17.9387211,
+      "lng": 79.46518619999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJP_-q8SxTMzoRRR2w1QrObgM",
+      "name": "Bpcl petrol pump",
+      "address": "WFQ8+R7W, Hyderabad - Warangal Highway",
+      "lat": 17.9396163,
+      "lng": 79.4656955,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJE0hHDQJOMzoR-OD-K6OZLus",
+      "name": "Adithya BPCL Filling Station",
+      "address": "beside Eenadu Office, 1-207, National Highway 163, Madikonda, Kazipet",
+      "lat": 17.9515208,
+      "lng": 79.4773561,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQTdbeQBPMzoRAfkrJUPPCPo",
+      "name": "Megha Gas CNG",
+      "address": "beside Eenadu Office, 1-207, NH163, Madikonda, Kazipet",
+      "lat": 17.9516432,
+      "lng": 79.47748519999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJU3EDVANSMzoRqnEOeiy8USc",
+      "name": "dianOil",
+      "address": "India",
+      "lat": 17.9388529,
+      "lng": 79.46508050000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ4cwQZgBTMzoRjXkgaJked-E",
+      "name": "Surya Chandra Fuels",
+      "address": "Rampur industrial, Kazipet",
+      "lat": 17.9389825,
+      "lng": 79.4649247,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrTwWC_1TMzoR34IoLOCuZcs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 333, ABY1/4AA, 333, ABY1/4E, Rampur, Warangal",
+      "lat": 17.939324,
+      "lng": 79.46446399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJN0rfKABbMzoRZ2NCnKNiBHA",
+      "name": "Mamunuru police petrol bunk",
+      "address": "5-9, Khammam - Warangal Highway, Mamnoor",
+      "lat": 17.9163562,
+      "lng": 79.5965138,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJnaXWcmFPMzoR6gkX047NSqE",
+      "name": "IndianOil",
+      "address": "Sy No 110, A 125/A1, Bhattupally",
+      "lat": 17.961981,
+      "lng": 79.558799,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNxub0vpaMzoReDGMqHlhXKw",
+      "name": "Bharat Petrol Pump",
+      "address": "WHCW+RFG, Khammam - Warangal Highway, Warangal",
+      "lat": 17.9220702,
+      "lng": 79.596192,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJjXSDsOVaMzoRS4cWApVtZeU",
+      "name": "IndianOil",
+      "address": "Lock No 130/D1/276, G5/2 Khammam Highway Road, Mamanur, Warangal",
+      "lat": 17.926077,
+      "lng": 79.596245,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgxLiGkhFMzoRnq1hJLD0ujI",
+      "name": "IndianOil",
+      "address": "Lock No 23016/93, Lock No 99/D1E Ursu, Hunter Road, Warangal",
+      "lat": 17.967457,
+      "lng": 79.582397,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMU-nqTZaMzoRmVnnbXY1e9Q",
+      "name": "IndianOil",
+      "address": "Sy No 459/A1, Lock No 92/D2, Sangem",
+      "lat": 17.881939,
+      "lng": 79.599457,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwa-VnX1bMzoR5Jpyxd2U4gw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 88, Police Camp, near TSSP, NH 563, Nemmikal - Warangal Road, Mamnoor",
+      "lat": 17.9202693,
+      "lng": 79.5964619,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ01hdeeZaMzoRcPwPOMWUD9I",
+      "name": "Reliance Petroleum",
+      "address": "Survey No 314, Thimmapur Road, Hanamakonda",
+      "lat": 17.9283165,
+      "lng": 79.59632049999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtce9ozBbMzoRqzsPxYlHMic",
+      "name": "Manjunatha Filling Station",
+      "address": "VJ92+QC9, Warangal",
+      "lat": 17.8694199,
+      "lng": 79.6011025,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJNSRL-BpbMzoRi3M8OZK5hrE",
+      "name": "Yamini Filling Station",
+      "address": "Nakkalapally, Warangal",
+      "lat": 17.9258975,
+      "lng": 79.6144157,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJyYMDlRbMzoR3fV3qjipd7Q",
+      "name": "Sony Sweet House",
+      "address": "Naidu petrol pump, Khammam - Warangal Highway, Warangal",
+      "lat": 17.9340349,
+      "lng": 79.5972713,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJh20xb4BZMzoRHV0g0agrS0g",
+      "name": "IndianOil",
+      "address": "Survey No 37, Lock No 85, Panthani,Gopanpalli, 6/D2, Lohitha",
+      "lat": 17.863079,
+      "lng": 79.60324899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxaf3o91aMzoRlvMWQoc8aAw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Warangal, NH 563, Khammam Bypass Road, Rangashaipet, Warangal",
+      "lat": 17.9358792,
+      "lng": 79.59706709999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0Y4kwp9bMzoRWWHytw2mVbw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 166/1, Nekkonda Road, Warangal",
+      "lat": 17.9056834,
+      "lng": 79.6340235,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLTFifhtZMzoRzpBY75gVYS0",
+      "name": "Sri venkateswara Nayara petrol pump",
+      "address": "VJ63+4FG, Warangal",
+      "lat": 17.8603138,
+      "lng": 79.603709,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJw4cqscRaMzoRlH1FiaBS6h0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey 31, Hunter Road, 32 & 37, Khammam Bypass Road, Rangashaipet, Hanamkonda",
+      "lat": 17.9409345,
+      "lng": 79.5935511,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMXcqNVNbMzoRGqAxHrsgRo0",
+      "name": "Lokesh Enterprise",
+      "address": "19-10-38/4, Sri Sai Nagar, Warangal",
+      "lat": 17.942807,
+      "lng": 79.6011,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJq8LHb_9ZMzoRbcZgfwegDAk",
+      "name": "HP Petrol bunk",
+      "address": "VJ23+3FW, Khammam - Warangal Highway, Panthini",
+      "lat": 17.8502469,
+      "lng": 79.6036915,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ6XEu551ZMzoRdBe28lOlAAY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "4-134/1, Survey, Panthini",
+      "lat": 17.8501949,
+      "lng": 79.6038386,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJyf6LZdRaMzoRAogGN9rCiBc",
+      "name": "IndianOil",
+      "address": "Lock, No 3/D1 & H2, 2, Shambunipet, Warangal",
+      "lat": 17.953921,
+      "lng": 79.600571,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJX4zBZpRFMzoR2Br7fmgDP68",
+      "name": "IndianOil",
+      "address": "Lock No 220, Lock No 1740 /11024/93547, T3/E, Khammam Road, Warangal",
+      "lat": 17.9601569,
+      "lng": 79.6010684,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9cTsOgBZMzoRzHpMz1g_e7Y",
+      "name": "Adblue (यूरीया) Pump",
+      "address": "NH563, Warangal",
+      "lat": 17.8366573,
+      "lng": 79.604396,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJz7A5HElFMzoR3KZ97jb_320",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Khammam - Warangal Highway, Ursugutta, Urus Bodrai, Khila",
+      "lat": 17.9649257,
+      "lng": 79.5789913,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJk_u-3E5FMzoRfwq-6bkZPB8",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 17.9643514,
+      "lng": 79.57607209999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJgYoSmEFFMzoR7IqNWoLWGxQ",
+      "name": "Spoorthhy Filling Station",
+      "address": "Warangal",
+      "lat": 17.9643872,
+      "lng": 79.5760356,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpy1OuF5FMzoR6N4oPZgTmzs",
+      "name": "Bharat Petroleum ,Sai Krupa Filling Station",
+      "address": "XH9X+6F, Warangal",
+      "lat": 17.96815759999999,
+      "lng": 79.5987773,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEV61kbZFMzoRCagGFSMX75A",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 4 Ursu, Kareemabad Road, Warangal",
+      "lat": 17.9689665,
+      "lng": 79.5927853,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJK_89dShdMzoRyx92A-FYb3I",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 618, A/1/1, Konaimakula, Geesugonda",
+      "lat": 17.9511574,
+      "lng": 79.6966803,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJf1xQna1EMzoRqbF59jk45HE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 419/A Geesugonda, Sthambampally",
+      "lat": 17.9626134,
+      "lng": 79.6397212,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJA7XX7qBeMzoRDXJmdG6ZzJ0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 417, G & 417/D, Nekkonda Road, Sangem",
+      "lat": 17.856392,
+      "lng": 79.67419199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdcAtbFpdMzoRhVoXi1vCsBQ",
+      "name": "Bharat Petroleum Petrol Pump , SHRI SHIV SHANKAR FILLING STATION",
+      "address": "SANGEM, Warangal",
+      "lat": 17.889464,
+      "lng": 79.712396,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJf5ew6eldMzoR0J8QSKSraDg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Geesugonda",
+      "lat": 17.9342686,
+      "lng": 79.7097397,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJU9wUqo9dMzoR5W85-AAjLDI",
+      "name": "Jio-bp",
+      "address": "317/D/5, Sy No 317, beside Sai Baba Temple, D/4, Narsampet Road, Geesugonda",
+      "lat": 17.9547278,
+      "lng": 79.6732854,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXYTYvddcMzoRvYvS29vSbsk",
+      "name": "IndianOil",
+      "address": "Sy No 733, Lock No 386/7/D1, G2, Geesugonda",
+      "lat": 17.9524951,
+      "lng": 79.6929912,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_58dcDVdMzoR69J8vcmuRyg",
+      "name": "Yelishala Filling Station BPCL",
+      "address": "Tfghhjjjgggh Tg, Chinthala Pally",
+      "lat": 17.9519466,
+      "lng": 79.6948792,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJiY950tBcMzoRgeNzqBaF8lA",
+      "name": "HP Petrol Pump",
+      "address": "Survey NO 618/A/1/1 Konai Makula Villge Gesukonda Mandal, Warangal",
+      "lat": 17.9512398,
+      "lng": 79.6963196,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEzYK2nRdMzoR-0LJ9zzyWok",
+      "name": "Petrol pump",
+      "address": "near gangadevipally, Geeeugonga mandal, near gangadevipally, Warangal",
+      "lat": 17.9515256,
+      "lng": 79.70365989999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBaJJVUFdMzoRxEf7pLArH5Q",
+      "name": "Bharat petroleum / Mahalakshmi filling station",
+      "address": "Warangal-Narsampet Road, Gangadevi Pally",
+      "lat": 17.9516754,
+      "lng": 79.708427,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ2zglNihfMzoROMSxR0Z24yE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Warangal Nekkonda Road, Theegarajupally",
+      "lat": 17.839824,
+      "lng": 79.69914100000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJf8uQDK9PMzoRIr5iChmAh-I",
+      "name": "IndianOil",
+      "address": "Lock No, 183/D1/E Sy No 753, Bypass, Kazipet, Wadepally, Warangal",
+      "lat": 17.991816,
+      "lng": 79.525131,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5bHCSKNPMzoRMSDHJupB5UI",
+      "name": "IndianOil",
+      "address": "Lock No 96, D1/G2, Kazipet",
+      "lat": 17.989651,
+      "lng": 79.533394,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC1R8lz5OMzoROBZegMWVEpY",
+      "name": "IndianOil",
+      "address": "Lock No 2, opposite Diesel Colony, D1 D/7/6, Bapuji Nagar, Kazipet",
+      "lat": 17.9702843,
+      "lng": 79.496927,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpbKyXAlPMzoRG6hmOly0tuM",
+      "name": "HP PETROL PUMP - SARAYU FUEL POINT HANAMKONDA",
+      "address": "Sy.no.880 Village Church Road, Waddepally, Phase 1, Teachers Colony, Hanamkonda",
+      "lat": 18.0051327,
+      "lng": 79.5317268,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXQ9BjoBPMzoR2-nGX2QQsEE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "H No 1/8/277 Nakkalaguta, Bus Stand Road, Balasamudram, Hanamkonda",
+      "lat": 17.99859379999999,
+      "lng": 79.5592605,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB8qHM2NPMzoREh706j8GZ1E",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No, opposite Hanamkonda, 344 & 345, Old Bus Depot Road, New Abadi, Kazipet",
+      "lat": 18.0054936,
+      "lng": 79.55344149999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsxHUqGVFMzoRmqJt7EnqHss",
+      "name": "IndianOil",
+      "address": "Lock No 11005 & 93296 Lock, 43/D1, Hunter Road, Subedari, Warangal",
+      "lat": 17.987726,
+      "lng": 79.569351,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNQ81fWpFMzoRZGeUY_6qu-Q",
+      "name": "IndianOil",
+      "address": "H No 23, near Flyover Bridge, 6/140/3, Ramannapet, Warangal",
+      "lat": 17.9801317,
+      "lng": 79.5800431,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ01REzUNPMzoRSWkkBs0_-zw",
+      "name": "IndianOil",
+      "address": "Lock No 282/3, D1 & E3, Karimnagar Road, Vidyaranyapuri, Warangal",
+      "lat": 18.027679,
+      "lng": 79.544258,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_yLs1HRFMzoR0o20btFNdoI",
+      "name": "Bharat Petroleum, Petrol Pump -Vijaya Fuel Filling Station",
+      "address": "MULUG, X ROADS, Hanamkonda",
+      "lat": 18.0004361,
+      "lng": 79.5826957,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7yMIJgtFMzoRraOpwalkydc",
+      "name": "Karthik Service Station Indian Oil Petrol Pump",
+      "address": "H.No. 15-1-430, X, Mulugu Road, Vidya Nagar, Warangal",
+      "lat": 18.0001813,
+      "lng": 79.5837298,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJi9xqI5pFMzoRmRYXgxS1_hY",
+      "name": "Bharat Petroleum Bunk",
+      "address": "Reddy Colony, Hanamkonda",
+      "lat": 18.0130637,
+      "lng": 79.57644959999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbapOiM5PMzoR1KJHswsl_xY",
+      "name": "Madugula Rakesh",
+      "address": "XGC3+W9W, Kazipet",
+      "lat": 17.972366,
+      "lng": 79.5034501,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ96Fb5KJPMzoRTt5rCTzBsSI",
+      "name": "IndianOil",
+      "address": "Lock No 120/D1 Main Road, Hanamkonda, Waddepally, Warangal",
+      "lat": 17.99109499999999,
+      "lng": 79.53557599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-1TBCTlOMzoRC0ilKdGm70k",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 1099/1A, NH 163, Hanamkonda- Hyderabad Road, Diesel Colony, Warangal",
+      "lat": 17.97024,
+      "lng": 79.4980492,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx7aiXdVPMzoRC6E-pwuTu8k",
+      "name": "BPCL PETROL PUMP - ARK PETROLEUM SERVICES",
+      "address": "Hanamkonda",
+      "lat": 17.9915676,
+      "lng": 79.53737199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJazQ2-ZtPMzoRVxWQ2-uo-UM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 880, Waddepally, Hanamkonda",
+      "lat": 18.0051372,
+      "lng": 79.5315521,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxxa2D5dPMzoRBdF_TbPeRcU",
+      "name": "Fast Food",
+      "address": "Sadanandam. Chidurala. 30-2-1118/2/1, Road, 6, TNGOS Colony Road, III, Hills Colony, Madikonda, Kazipet",
+      "lat": 17.9685053,
+      "lng": 79.4851989,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJt5eMgH9PMzoRDLVyHYtLsCo",
+      "name": "Bharat Petroleum Petrol Pump , T.MUKUNDA REDDY FUELS",
+      "address": "opposite VANA VIGNAN, ROAD, Shyampet, Hanamkonda",
+      "lat": 17.9919177,
+      "lng": 79.5573432,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJd2bqrqtPMzoRx3wEFPQl92s",
+      "name": "Bharat Petroleum Petrol Pump , UMA FILLING STATION",
+      "address": "KUC, Devannapet - Kazipet Road, ROADWADEPALLY",
+      "lat": 18.007505,
+      "lng": 79.533562,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJW4GgIX1PMzoRJJV4pwyK8sA",
+      "name": "IndianOil",
+      "address": "Lock No 444/45, No 2/6/45/5, D1 & E/6/2, Nakkala Gutta, Hanamkonda",
+      "lat": 17.99745189999999,
+      "lng": 79.55303239999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJiQ_2rcNPMzoRI4hGyNSoTCY",
+      "name": "IndianOil",
+      "address": "2-9-636, Waddepally, Warangal",
+      "lat": 18.0088208,
+      "lng": 79.5344171,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFzk1hSNPMzoR0sCPw2qBhz0",
+      "name": "Bharat Petroleum, Petrol Pump -Sri Prataprudra Automotives",
+      "address": "NAKKALAGUTTA,HNK, Hyderabad - Warangal Highway, NAKKALAG, Nakkala Gutta, Warangal",
+      "lat": 17.9997955,
+      "lng": 79.5555274,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIzPV6YFPMzoRjTdeA8pbZs4",
+      "name": "IndianOil",
+      "address": "opposite Water Tank, Nakkalagutta Hanamkonda, opposite Water Tank, Warangal",
+      "lat": 18.001095,
+      "lng": 79.556054,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4Z2FAnhPMzoRVlMWDjXPviE",
+      "name": "VARSHA SREE FILLING STATION",
+      "address": "Road, Unikicherla",
+      "lat": 18.0107242,
+      "lng": 79.500376,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJibflvq9PMzoR1gBxaxrHqkE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 200, A5/E, Road, Hasanparthy, Unikicherla",
+      "lat": 18.010621,
+      "lng": 79.4986498,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJr-ruAB1PMzoRHw0k-b2yvD4",
+      "name": "Petrol Pump(Bharath petroleum)",
+      "address": "XF9C+GVX, Madikonda Dharmasagaram Road, Dharmasagar",
+      "lat": 17.9688503,
+      "lng": 79.47222599999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJMSiMU0NPMzoR5KcPCkN4v5s",
+      "name": "SREE THIRUMALA FILLING STATION HP",
+      "address": "Survey No 78, Vivek Nagar Colony, Saptagiri Colony, Warangal",
+      "lat": 18.0150165,
+      "lng": 79.5426868,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAWnUPbJPMzoRdEC9MLgM_RA",
+      "name": "Adarsha nagar",
+      "address": "XF9C+PGX, Madikonda Dharmasagaram Road",
+      "lat": 17.969366,
+      "lng": 79.471367,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ0yDaAgBFMzoRmdvNQ7XrX0g",
+      "name": "IndianOil",
+      "address": "No 23/6/194, L No 4518 L No D1/23/24/25, Hanamkonda",
+      "lat": 17.9853135,
+      "lng": 79.5739449,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnydnWatFMzoR0ukbMKgj2jo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 908, near Padmakshi Temple, Padmakshi Temple Road, Hanamkonda",
+      "lat": 17.9962409,
+      "lng": 79.56859709999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzeottrJPMzoRGNazngctE1M",
+      "name": "Bharat Petroleum - Kakatiya Filling Station by TS Police Dept",
+      "address": "2H45+W85, Sai Nagar, Hanamkonda",
+      "lat": 18.0075632,
+      "lng": 79.55815559999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYyinWgBFMzoRvSFbL6I1DqE",
+      "name": "Sree Vaishnavi fuel station hunter road",
+      "address": "XHMG+P6G, Hunter Road, Shyampet, Hanamkonda",
+      "lat": 17.9843078,
+      "lng": 79.5755719,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJL8DdQmlFMzoRydzH2FnEXpc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 125/C, Hunter Road, Hanamkonda",
+      "lat": 17.9841038,
+      "lng": 79.5763541,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWZ15qo1FMzoRQcEiE4YN1ZI",
+      "name": "Charan Reddy Petrol Pumb",
+      "address": "2H46+MP6, mulugu road, honamkonda, Warangal",
+      "lat": 18.0066664,
+      "lng": 79.56177939999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJw_5wzGtFMzoRP_OxG7uM-Rg",
+      "name": "Sri Venkateshwara Sai Lpg Gas Station",
+      "address": "Shyampet, Hanamkonda",
+      "lat": 17.9829171,
+      "lng": 79.5782222,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCzMDKS1FMzoR1c3jO1V5TS8",
+      "name": "Bharat Petroleum Petrol Pump , MARUTHI FILLING STATION",
+      "address": "H.NO.5-1/G, KURELLA, VILLAGEKOHEDA MANDAL, Siddipet",
+      "lat": 17.979525,
+      "lng": 79.579774,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJozBKfWRPMzoRr8pfkwJyvvU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Hanumakonda, Nala, Naim Nagar, Warangal",
+      "lat": 18.013978,
+      "lng": 79.5565475,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOXkuE4dFMzoR9xZjCnUul3g",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Public Garden Road, Hanamkonda",
+      "lat": 18.0102601,
+      "lng": 79.56173009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTVP3ZgBPMzoReJSMgse30bs",
+      "name": "Sammakka Saaralamma filling station",
+      "address": "Suvery no 362, 4/2, Devannapet",
+      "lat": 18.0254433,
+      "lng": 79.509558,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJFebnHD9FMzoRF5h1wc9qtyQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 681 Urus, Hunter Road, Timmapur, Warangal",
+      "lat": 17.9763862,
+      "lng": 79.58541149999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQdyoIUhFMzoRlf-lepRWpKw",
+      "name": "Jio Petrol bunk",
+      "address": "beside lane of Reliance Petrol Bunk, 3-1-378, Raganna Darwaja, New Raipura, Raipura, Hanamkonda",
+      "lat": 18.0045255,
+      "lng": 79.5770062,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJYZgOD-RPMzoRQYzPsEUgHYI",
+      "name": "Hera gas service",
+      "address": "2HC6+736, Hanuman Nagar, Hanamkonda",
+      "lat": 18.0206586,
+      "lng": 79.5601267,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJCwMrWVNFMzoRI8pp3voOF5I",
+      "name": "Bharat Petroleum, Petrol Pump -Venkataramana Filling Station",
+      "address": "UMAINAGAR, Warangal",
+      "lat": 17.982885,
+      "lng": 79.5904805,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJr-QVbBxFMzoRvj7UZwb5LTE",
+      "name": "IndianOil",
+      "address": "Lock No D1/51, Pochamma, C9/5, Warangal",
+      "lat": 17.9887617,
+      "lng": 79.6006537,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtyg0M0ZFMzoR8jNp42KEP-U",
+      "name": "Bharat Petroleum, Petrol Pump -Aukarapu Narasingam Son",
+      "address": "JPN ROAD,WGL NR.SBH, 9-10-20, Jayaprakash Narayan Road, Nandayya Gari Compound, Sherpura, Warangal",
+      "lat": 17.9802227,
+      "lng": 79.5988507,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTR3dOilFMzoRGGVPfOtIv1c",
+      "name": "Bharat Petroleum, Petrol Pump -Navya Fuel Services",
+      "address": "LAXMIPURAM, VENKATRAMA THE, Warangal",
+      "lat": 17.9788167,
+      "lng": 79.6087146,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJD_2OWe5EMzoRMjGyZ_G9GRU",
+      "name": "Bharath Petrol Pump",
+      "address": "Balaji Nagar, Warangal",
+      "lat": 17.9909363,
+      "lng": 79.62033040000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJv7CEbLZEMzoRia9WT9lEZ9I",
+      "name": "IndianOil",
+      "address": "Survey No 395, Lock No 29, Janipeerilu, D1 & E/7/3, Warangal",
+      "lat": 17.965956,
+      "lng": 79.629211,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJj0iZXwBFMzoR97MaJ43Lwxg",
+      "name": "Karunasree filling station",
+      "address": "16-5- 288 & 289, Under Bridge Road, Perukawada, Shanthi Nagar, Warangal",
+      "lat": 17.9714584,
+      "lng": 79.599513,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx-t2GLRFMzoRPpG8gixUaEs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "H No 8/3/13, Medariwada, Old Beet Bazaar, Warangal",
+      "lat": 17.9745614,
+      "lng": 79.5980349,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6TTyUABFMzoRGYwx7qkwQhI",
+      "name": "ABSS FUELS SERVICE STATION - HP BUNK",
+      "address": "beside HP petrolpump, 8-3-12/1, Badrakali Housing Society Colony, Old Beet Bazaar, Warangal",
+      "lat": 17.974516,
+      "lng": 79.59828300000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJKdj6MOVFMzoRVU2OecvLqks",
+      "name": "IndianOil",
+      "address": "Lock No T3/83, Warang, A/1/4, Warangal",
+      "lat": 17.9750561,
+      "lng": 79.5996716,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQYRkMhlFMzoR6Tosy_v4IP4",
+      "name": "Bharat Petroleum",
+      "address": "Jayaprakash Narayan Road, Sherpura, Warangal",
+      "lat": 17.9843328,
+      "lng": 79.5993665,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJtXxnCeBEMzoR0J_g7lCW_iQ",
+      "name": "Shiva Sai Auto care HP petrol Pump",
+      "address": "India",
+      "lat": 17.9815399,
+      "lng": 79.6063114,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJKQYq8UdFMzoRH-eLnYLWPho",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Jayaprakash Narayan Road, Pochamma Maidan, Warangal",
+      "lat": 17.987865,
+      "lng": 79.601236,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs9k46pZFMzoRVvqyPCQiBtg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "RS No 736, GWMC Premises, Tadkamalla, Warangal",
+      "lat": 17.9909904,
+      "lng": 79.5912556,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJb6Dlsw9FMzoRLnnawo7mYB0",
+      "name": "Superintendent Retail Outlet Central Prison Warangal",
+      "address": "Warangal Central Jail, near Nizampura, Sardar Vallabhai Patel Road, Nizampura, Warangal",
+      "lat": 17.9942567,
+      "lng": 79.59155849999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLVgSWA5FMzoR5i62FNupG-4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 625, opposite Warangal Central Jail, SVP Road, Warangal",
+      "lat": 17.9949276,
+      "lng": 79.5903506,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL_hQINpFMzoRJB7qCK07yjU",
+      "name": "IndianOil",
+      "address": "Lock No 167/478, Bhadrakali Super Bazar, D1 E/2/1, No 23022/9346, Warangal",
+      "lat": 17.9953258,
+      "lng": 79.5905207,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnS7U7xFFMzoR5BGjXeYrrHQ",
+      "name": "IndianOil",
+      "address": "Lock No 28/D1, E1/2, Grain Market Road, Enumamula, Warangal",
+      "lat": 17.9892249,
+      "lng": 79.6168459,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnSYJwgdFMzoRLQi-OyEk1FM",
+      "name": "Bharat Petroleum, Petrol Pump -Sri Raja Rajeswari Service Station",
+      "address": "MULUG ROAD, NR GOVT ITI, Warangal",
+      "lat": 18.0035186,
+      "lng": 79.5837083,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVzZPqrZEMzoRUQm34DwmK0Q",
+      "name": "Bharat Petroleum, Petrol Pump -Sainath Service Station",
+      "address": "Gorrekunta Village, Warangal",
+      "lat": 17.9652553,
+      "lng": 79.6331498,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOZ8MFwBFMzoRdT7yqG0cfJE",
+      "name": "Peddamagadda cemetary",
+      "address": "2H4R+WWG, Peddammagadda, Hanamkonda",
+      "lat": 18.0073181,
+      "lng": 79.5923323,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJDdFqBEhFMzoRgQpOpshDn4M",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 625, Hanuman Jn, NH 163, Parkal - Hanmakonda Road, Warangal",
+      "lat": 18.0076796,
+      "lng": 79.5923416,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJX-I7VKtDMzoR_PxHiN__v10",
+      "name": "HP Petrol pump",
+      "address": "XMWF+Q6C, Ooglapur Dharmaram Road",
+      "lat": 17.9969435,
+      "lng": 79.67300879999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxf3YcuRDMzoRuIJxZmhU7oQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 249/1, 250/1 & 250/7A2, Geesugonda, Mogilicherla",
+      "lat": 17.9978637,
+      "lng": 79.6731346,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJryvqO-1EMzoRsB7A9Bt_8UA",
+      "name": "HP PETROL PUMP - SRI TIRUMALA FILLING STATION",
+      "address": "Survey No 102/B Enumamula Mustyalapalle, Road, Mogilicherla",
+      "lat": 17.9967416,
+      "lng": 79.6369019,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH1K2OYNDMzoRxNDnBF5eRU8",
+      "name": "శ్రీలక్ష్మీ జ్యూయలరీ వర్క్",
+      "address": "India",
+      "lat": 18.0117761,
+      "lng": 79.66063969999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJa5thZaFDMzoRf0ilUYNj3VM",
+      "name": "IndianOil",
+      "address": "Lock No T3/141, B8, Sy No 254, A/2, Athmakur, Akkampet, Musthayalapalli",
+      "lat": 18.0137194,
+      "lng": 79.6763154,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ24CKaQBFMzoRLE0YlHH5TKA",
+      "name": "SRI BALAJI SERVO STATION, AREPALLI-WARANGAL",
+      "address": "Parkal - Hanmakonda Road, Warangal",
+      "lat": 18.036088,
+      "lng": 79.6397242,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNTfS7TRPMzoRb5xBJu9T_us",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "S No 164/2 & 165/2, Bheemaram, Hasanparthy",
+      "lat": 18.045551,
+      "lng": 79.534121,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjVEk6B1JMzoRoi4KWrD97ds",
+      "name": "IndianOil",
+      "address": "L No T3/33, C/7/4, Hasanparthy",
+      "lat": 18.076541,
+      "lng": 79.513916,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJU3BTip1JMzoRp-DJb1qrbIE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "S No 364/A SH 7, Hasanparthi, Yellapur",
+      "lat": 18.09197499999999,
+      "lng": 79.485762,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrQOg3x5PMzoRLX0nvXEXP1A",
+      "name": "HP Petrol bunk",
+      "address": "55-1-604 beemaram sreenagar colny, road, Bheemaram, Hanamkonda",
+      "lat": 18.0343481,
+      "lng": 79.5393459,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJR-OeeSpPMzoRlOAvR12i3MM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No, 47 & 36, National Highway 563, Bheemaram, Hasanparthy",
+      "lat": 18.0344547,
+      "lng": 79.53977909999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-6tplPpJMzoRafBif9MMoME",
+      "name": "Bharat Petroleum, Petrol Pump -Hanamkonda Service Station",
+      "address": "HASANPARTHY, WARANGAL-KARI, Warangal",
+      "lat": 18.0571943,
+      "lng": 79.5281028,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVzug5s9IMzoRLJvpUK7Jgpk",
+      "name": "Go Auto LPG Gas",
+      "address": "3G5G+3RV, Warangal",
+      "lat": 18.0577361,
+      "lng": 79.5270584,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLeU_rFdPMzoRbil3EBj9U2g",
+      "name": "Bharat Petroleum",
+      "address": "Unnamed Road",
+      "lat": 18.0339682,
+      "lng": 79.4866294,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJidCFSQBJMzoRZCm83J4OOv0",
+      "name": "Indian Oil Sre Balaji Filling Station",
+      "address": "3FQV+76, Yellapur",
+      "lat": 18.088134,
+      "lng": 79.49304099999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJfYmbixBJMzoR2dSeGEZCp1I",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "S No 364/A SH 7, Hasanparthi, Yellapur",
+      "lat": 18.09197499999999,
+      "lng": 79.485762,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq_eSLrdJMzoRkOHFReBufaU",
+      "name": "IndianOil",
+      "address": "Sy No 744, Aa Ambala, E/2/1/A 743/A/2/1/B &743/A/3, Babapur",
+      "lat": 18.095788,
+      "lng": 79.558461,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo6nb1EpEMzoRrUu6Z4--2MM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 159, near Iskcon Temple, NH 163, Warangal Mulugu Road, Matwada, Warangal",
+      "lat": 18.0249507,
+      "lng": 79.6045303,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY6rTN0hEMzoRtFEDO9EeEzg",
+      "name": "Bharat Petroleum, Petrol Pump -Warangal Petroleum Supply Co.,",
+      "address": "PAIDIPALLY(AREPALLY), MULU, Warangal",
+      "lat": 18.02707789999999,
+      "lng": 79.6143093,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNx2mbupFMzoRG_cvVAs_zOc",
+      "name": "IndianOil",
+      "address": "Survey No 605, Paidipally, Arepally",
+      "lat": 18.032446,
+      "lng": 79.628379,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIcuKZjZFMzoRDfHzXhBNkFU",
+      "name": "IndianOil",
+      "address": "Sy No 283/B/2 Damera, Ladella, Warangal",
+      "lat": 18.043917,
+      "lng": 79.6333301,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJR6ggN49HMzoRAmaKLvWqZyk",
+      "name": "IndianOil",
+      "address": "Sy No 566, 1/1, Hasanparthy, Siddapur",
+      "lat": 18.084703,
+      "lng": 79.60103199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3USu_Q1EMzoR6ySDFLQKGuE",
+      "name": "IndianOil",
+      "address": "Sy No 643/1 Aarepally, Paidipally, Ladella",
+      "lat": 18.0390652,
+      "lng": 79.6437687,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe00JFzxDMzoR_JTJ2gLvIAw",
+      "name": "IndianOil",
+      "address": "Sy No 117/A, 117/Aa, 117/E, Oglapur",
+      "lat": 18.0487879,
+      "lng": 79.6615765,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP7QOsJFBMzoRTnCGsGaAMeg",
+      "name": "IndianOil",
+      "address": "Sy No 818, Lock No 81/D1, Gudeppad,Akkampet, Atmakur",
+      "lat": 18.070814,
+      "lng": 79.70968599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg8GASWBBMzoRrNTwJav6Z-g",
+      "name": "IndianOil",
+      "address": "Lock No, D1/37/C/9/4, NH 202, Beat Bazar, Warangal",
+      "lat": 18.056698,
+      "lng": 79.675097,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQ60cfPRBMzoRSHovxtLVmOI",
+      "name": "ERR Filling Station",
+      "address": "3M9X+2CF, Damera, orugonda village, Warangal",
+      "lat": 18.067564,
+      "lng": 79.69854649999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJt2MCMINBMzoR3sKeAGnAF-I",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 18.0674908,
+      "lng": 79.6986209,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJheh4zZFBMzoR2mwcVW6VJ14",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Atmakur",
+      "lat": 18.069209,
+      "lng": 79.7094882,
+      "open_now": true
+    }
+  ]
+}

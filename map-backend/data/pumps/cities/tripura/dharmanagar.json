@@ -1,0 +1,139 @@
+{
+  "city": "Dharmanagar",
+  "state": "Tripura",
+  "count": 16,
+  "center": {
+    "lat": 24.3667,
+    "lng": 92.1667
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJ3fN6A8XyUTcRUhNCps6r37Q",
+      "name": "Petrol Pump",
+      "address": "Roa",
+      "lat": 24.2854634,
+      "lng": 92.15756789999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMwwMXgCNUTcRTJP8DeDKHBc",
+      "name": "M/s Narendra Petroleum",
+      "address": "Dharmanagar - Kailashahar Road, Rajnagar",
+      "lat": 24.3161875,
+      "lng": 92.1093125,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVcpLEViPUTcRRE-cUJ3JRRY",
+      "name": "M/S Zubeen Da Fuel Station",
+      "address": "Assam - Agartala NH-208, Chinibagan",
+      "lat": 24.3049889,
+      "lng": 92.049289,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ0WiaUhOPUTcRdP5CFJcPuQc",
+      "name": "Rk Petroleum agency",
+      "address": "Chirakuti Trijenction to Kumarghat road, on NH208A, Kailashahar",
+      "lat": 24.3008426,
+      "lng": 92.0225833,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEcAT0J7tUTcRb_0ixowuX1M",
+      "name": "IndianOil",
+      "address": "Ground Floor, Krishnapur, Uptakhali",
+      "lat": 24.335323,
+      "lng": 92.15835799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlQuyxyDzUTcR-nH47pchvMk",
+      "name": "PETROLMAN",
+      "address": "Antiarram Building, near Calvari Hospital, Panisagar",
+      "lat": 24.2875336,
+      "lng": 92.21078399999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJSSCuhPzvUTcRyE6-jn7fC2w",
+      "name": "IndianOil",
+      "address": "Ground Floor Baghbassa, Dhaleswar, Agartala",
+      "lat": 24.357154,
+      "lng": 92.224372,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJf69gZQDvUTcR6UDXMxvXSPQ",
+      "name": "LOOKNATH SOUND (DEF STATION)",
+      "address": "969H+HHJ, Bagbasa",
+      "lat": 24.3681083,
+      "lng": 92.22806539999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS70gcN3sUTcRibCekfhd0fk",
+      "name": "Assam Oil",
+      "address": "India",
+      "lat": 24.3759649,
+      "lng": 92.1639666,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJE2o4de7vUTcR1fOb-xPP3uY",
+      "name": "IndianOil",
+      "address": "Ground Floor, Rajbari Road, Dharmanagar",
+      "lat": 24.3761038,
+      "lng": 92.1640709,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXZKJoubsUTcR6D6LyTC1KP8",
+      "name": "IndianOil",
+      "address": "Ground Floor Rajbari, Dharmanagar, Bagbasa",
+      "lat": 24.37384299999999,
+      "lng": 92.16909299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZbyUB9PvUTcRMhn2Vmt2Y1k",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 44, Sonicherra,Balicherra",
+      "lat": 24.371726,
+      "lng": 92.229485,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcyqYj8zrUTcRgcb4Ounre1w",
+      "name": "L.K. Petro Zone , Bharat Petroleum",
+      "address": "C5HR+5GQ, Bishnupur",
+      "lat": 24.4279552,
+      "lng": 92.1913574,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-6Yhq8nvUTcREceeM1-RVpI",
+      "name": "M/S L.K FUEL MART - BHARAT PETROLEUM",
+      "address": "96VP+M6Q, Chanpur, Churaibari",
+      "lat": 24.3942121,
+      "lng": 92.23560479999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVUSiMrHuUTcRidV8Avpc0nA",
+      "name": "M/s Amrita Petroleum Agency",
+      "address": "National Highway 8, Laxminagar",
+      "lat": 24.4046172,
+      "lng": 92.2383571,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy2uwDy3pUTcR2oVK9LjM6Uk",
+      "name": "IndianOil",
+      "address": "Khadimpara East, Fulbari",
+      "lat": 24.4215381,
+      "lng": 92.2431197,
+      "open_now": true
+    }
+  ]
+}

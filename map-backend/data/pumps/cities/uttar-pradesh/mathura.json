@@ -1,0 +1,1019 @@
+{
+  "city": "Mathura",
+  "state": "Uttar Pradesh",
+  "count": 126,
+  "center": {
+    "lat": 27.4924,
+    "lng": 77.6737
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJ7efIhrh1czkRjRPjTskj3As",
+      "name": "IndianOil",
+      "address": "Ground Floor, Mundeshi, Bharatpur Road, State Highway 33, Barari",
+      "lat": 27.4029467,
+      "lng": 77.6302588,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY0wolFNxczkRdzH-Jk-jW9U",
+      "name": "IndianOil",
+      "address": "Ground Floor, Arya Samaj Road, opposite Jai Gurudev, NH 2, Chaudhary Digamber Singh Marg, Ngr, Mathura",
+      "lat": 27.47075929999999,
+      "lng": 77.6602863,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlWDHCIx0czkRRuyYSHrnrf8",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sonkh Road, Uspar, Mathura",
+      "lat": 27.443491,
+      "lng": 77.60153,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJT279Whx1czkRVxoYixoG1lk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, SH 33, Bharatpur - Mathura Road, Sadar, Mathura",
+      "lat": 27.412709,
+      "lng": 77.637796,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJyWHzDtR0czkRAtmBQGWVQoA",
+      "name": "IndianOil",
+      "address": "Ground Floor, Lalpurmathura, Bachgaon - Sonkh Road, Bachgaon",
+      "lat": 27.417561,
+      "lng": 77.566638,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGW3V3sJ1czkRrNeZj_FefSM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Khasra No 390/1, Bharatpur - Mathura Road, Tarsi",
+      "lat": 27.4268729,
+      "lng": 77.6433112,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJF_TojyV0czkRhZlkDF6YMQc",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bharatpur - Mathura Road, Tarsi",
+      "lat": 27.4315262,
+      "lng": 77.6460161,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuUFJvl91czkRZ30J6oEYVtc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Govardhan, near Bharatpur - Mathura Road, SH 33, Kosi Khurd",
+      "lat": 27.380695,
+      "lng": 77.609917,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvVoOMAB1czkRDhAfKWh3ZTY",
+      "name": "BPCL Jaya Filling Station",
+      "address": "CMP2+M3Q, Bharatpur - Mathura Road, Bad",
+      "lat": 27.4364683,
+      "lng": 77.6497213,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgQqjzx8LczkRW_e3c9WufL8",
+      "name": "Petrol pump",
+      "address": "Road, Sonkh",
+      "lat": 27.4087117,
+      "lng": 77.54644329999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJleJ6AABzczkRkGZRl6SXQmY",
+      "name": "Sitaram Filling Station",
+      "address": "FJCM+F4, Maholi",
+      "lat": 27.4711514,
+      "lng": 77.6327604,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRSGKJ6F3czkRi5pnFW9xniU",
+      "name": "petrol pump",
+      "address": "Bad",
+      "lat": 27.4158168,
+      "lng": 77.6707924,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJyTKOH2GfczkRxpBRwTgqNPg",
+      "name": "Jio-bp",
+      "address": "Khasara No 172, Bharatpur - Mathura Road, Rasulpur",
+      "lat": 27.362566,
+      "lng": 77.579788,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_wc5QpBtczkRPJPCKqUGHVo",
+      "name": "IndianOil",
+      "address": "Ground Floor, Arya Samaj Road, Sonkh Road, Pali Khera",
+      "lat": 27.4786044,
+      "lng": 77.64128360000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9WPWAJlxczkRK9bpeQqB820",
+      "name": "Bharat Petroleum, Petrol Pump -Chaturvedi Automobiles",
+      "address": "JAI GURDEV BYPASS ROAD, MA, Mathura",
+      "lat": 27.4683519,
+      "lng": 77.66013679999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUQAOQlNxczkRAU_LG2UNNgs",
+      "name": "Chaturvedi Auto Mobiles",
+      "address": "Agra Marg Nh2 Near Uma Moters, Delhi",
+      "lat": 27.4683504,
+      "lng": 77.66031079999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0WTHvVdxczkRsFNlb42Tu-U",
+      "name": "एस शुभ ऑयल मिल",
+      "address": "India",
+      "lat": 27.4764493,
+      "lng": 77.65548969999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJTbVhZABxczkRRi_pBl8cIyQ",
+      "name": "Jaigurudev Petrol Pump",
+      "address": "23/89, Dampier Nagar 4, Mathura",
+      "lat": 27.47466039999999,
+      "lng": 77.6583041,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ--iYxVZxczkRrcQLQxKq-HQ",
+      "name": "Indian Oil",
+      "address": "India",
+      "lat": 27.4746382,
+      "lng": 77.6583563,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJIdV51Px2czkR_dV07Wi2hkM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near KM Stone 151, NH 2, Mathura Bypass, Aurangabad, Mathura",
+      "lat": 27.4350667,
+      "lng": 77.6959536,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs20qNR13czkR3WJKTqy4ygA",
+      "name": "IndianOil",
+      "address": "Ground Floor, Adooki,Aurangabad, Near, Gokul Barrage Road, Mathura",
+      "lat": 27.435902,
+      "lng": 77.700829,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFfLxmrZ2czkRWqSLAQd3BNw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Police Station, opposite Narholi, Dhauli Piyao Road, Mathura",
+      "lat": 27.4616233,
+      "lng": 77.67280149999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBSogIil2czkRAt98eBqm5oc",
+      "name": "IndianOil",
+      "address": "Ground Floor, opposite Mathura, Refinery Gate 1, Barari",
+      "lat": 27.381374,
+      "lng": 77.69101599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKYeIxoGdczkRm9sCb1xY0WA",
+      "name": "IndianOil - SWAGAT",
+      "address": "Ground Floor, near Mathura, near, Refinery Gate 9, Barari",
+      "lat": 27.3737556,
+      "lng": 77.698603,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRQimqy5xczkR4auOuleVVy4",
+      "name": "Petrol Pump vijay filling station",
+      "address": "Yodha Circle, NH2, Road, Civil Lines, Mathura Cantonment, Mathura",
+      "lat": 27.4758454,
+      "lng": 77.6934929,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJDw4WK1R2czkRjQq7ZhVNnOI",
+      "name": "Torrent Gas CNG Station",
+      "address": "CMCV+9G3, LIG-49A, National Highway 2, Kadamb Vihar, Ronchi Bangar, Bad",
+      "lat": 27.420928,
+      "lng": 77.69380679999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrxM90iB3czkR7u08kh_Mo8Y",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 2, Azampur, Mathura",
+      "lat": 27.434786,
+      "lng": 77.6955167,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5Wv6LgB3czkRQTGhzKzdzFs",
+      "name": "Hp petrol pump",
+      "address": "CMPW+2FG, C146, Indupuram Colony, Ronchi Bangar, Narsipuram Colony, Mathura",
+      "lat": 27.4352164,
+      "lng": 77.6962586,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJf3vygbF3czkRU6hEBXeohrc",
+      "name": "BP Brij Fuels",
+      "address": "Bad",
+      "lat": 27.4028335,
+      "lng": 77.6943647,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhShtTgp3czkR-fk7dymi0Vc",
+      "name": "Bharat Petrol CNG Pump",
+      "address": "CPM2+WXJ, Gokul Barrage Road, Narsipuram Colony, Mahaban Khadar",
+      "lat": 27.4348263,
+      "lng": 77.70238309999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwcWmOMx3czkRJ4Lf8sW9twk",
+      "name": "CNG pump",
+      "address": "FM6F+M37, Thana highway, Mathura",
+      "lat": 27.461664,
+      "lng": 77.6726686,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJi4npaCt2czkRz5hpaYSRW20",
+      "name": "HPCL MATHURA DEPO RKPL",
+      "address": "Baburi Sharqi",
+      "lat": 27.3827003,
+      "lng": 77.6977272,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJoQUIvSl2czkRu3-SPi0moFc",
+      "name": "BPCL complex/ Petrol & CNG Pump",
+      "address": "NH 2, Baburi Sharqi",
+      "lat": 27.3790817,
+      "lng": 77.6921438,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJMSuUwq6dczkRW4knq4qlgUY",
+      "name": "GAIL Gas CNG Station",
+      "address": "9MGW+M69, Baburi Sharqi",
+      "lat": 27.3766603,
+      "lng": 77.69562479999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ8SWJqxCdczkRdgVHWc_Eeqc",
+      "name": "HPCL PETROL PUMP- HP Auto Care Centre Mathura",
+      "address": "H-9 SITE, B INDUSTRIAL AREA, Baburi Sharqi",
+      "lat": 27.3765153,
+      "lng": 77.69541790000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDSxQ4tGdczkRt-CnnH_GuEA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Site B, opposite Mathura Refinery, UPSIDC Indl Area, Baburi Sharqi",
+      "lat": 27.37645,
+      "lng": 77.6954308,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-ST-qi5xczkRWXaF1S0Jzio",
+      "name": "Bharat Petroleum",
+      "address": "FMGV+8CC, Shankar Road, Civil Lines, Mathura Cantonment, Mathura",
+      "lat": 27.4758178,
+      "lng": 77.6935307,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJoZFZI2R3czkRDoHp9HopDX4",
+      "name": "IndianOil",
+      "address": "Ground Floor, Mahaaban, Hayatpur",
+      "lat": 27.4437418,
+      "lng": 77.735738,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkdD_V7d3czkRdjIHPQ4biqk",
+      "name": "Kardam house (muskan)",
+      "address": "Tiwari petrol pump, University colony, Mahaaban, Mathura",
+      "lat": 27.4440547,
+      "lng": 77.73632409999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJKUCmPXqdczkRx7Y2QtaFJWw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 2, Agra Mathura Road, Barari",
+      "lat": 27.3686901,
+      "lng": 77.70621009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH9Z7rLNxczkRZKnU00LLk1c",
+      "name": "BR Light Traders",
+      "address": "39a, Transport Nagar, Mathura",
+      "lat": 27.4811356,
+      "lng": 77.65376309999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJq6qdWSlxczkRzQPFjFiNe2k",
+      "name": "Vijay Filling Station",
+      "address": "10, Mathura Cantonment, Mathura",
+      "lat": 27.4862156,
+      "lng": 77.6953161,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJT7Be8glxczkRU-FM4GP_Y08",
+      "name": "Madhavan",
+      "address": "FMRF+XF7, Mathura",
+      "lat": 27.4924134,
+      "lng": 77.673673,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJYYMSL3J5czkRGsFOyt51ARk",
+      "name": "Nayara petrol pump",
+      "address": "FR62+J33, Mathura",
+      "lat": 27.46150489999999,
+      "lng": 77.80017409999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrz7RtvB4czkRCynuKwLAQGk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Mathura Sadabad Road, Mahaban, Baldeo",
+      "lat": 27.419737,
+      "lng": 77.797409,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQfUTA8R3czkRYNQQYgtwB4w",
+      "name": "IndianOil",
+      "address": "Goshala, Ground Floor, Arya Samaj Road, Lohvan Rawal Banger Bet, 7/11, Mode, Mathura",
+      "lat": 27.473342,
+      "lng": 77.73360699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7y-zmSd5czkRsLxTglADZcg",
+      "name": "Krishna Filling Station",
+      "address": "Baldev Road, Bandi",
+      "lat": 27.4641419,
+      "lng": 77.79999029999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJoVqd3TadczkRkNKK6RsgZ6w",
+      "name": "Satya Laxmi Enterprises",
+      "address": "Mathura, Agra Mathura Road, NH-2 Baran",
+      "lat": 27.3605941,
+      "lng": 77.7185824,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJX5IwumudczkRizst0ZOFbOE",
+      "name": "Swastik Enterprises Reliance Petroleum",
+      "address": "Baran, Mathura, NH-2, Delhi Agra Road, Baran, Baran",
+      "lat": 27.3604,
+      "lng": 77.7186,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ93BOY555czkRCge9SjP5__E",
+      "name": "Bharat Petroleum, Petrol Pump -Shri Badam Singh Filling Station",
+      "address": "BALDEV, Mathura",
+      "lat": 27.415801,
+      "lng": 77.81976259999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4cVXSztzczkROl8rKJgCD7o",
+      "name": "Bharat Petroleum",
+      "address": "FHWM+377, Mathura - Dinga Marg, Pandupur, Nagla Kasi",
+      "lat": 27.4951666,
+      "lng": 77.5831671,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJUxepVWlxczkRKKj2MtRq2X8",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sonkh Road, Krishna Nagar, Bati",
+      "lat": 27.4967906,
+      "lng": 77.6614031,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm9nRPmJxczkR8kAN7-UBSdg",
+      "name": "जगदीश सर्विस स्टेशन आई०ओ०सी०एल०पेट्रोल पंप",
+      "address": "Goverdhan Chauraha, Rajput Nursery National Highway 2, Krishna Nagar, Mathura",
+      "lat": 27.4976303,
+      "lng": 77.6528462,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIbyCdMMMczkR7A7DU8pNMUg",
+      "name": "IndianOil",
+      "address": "Ground Floor, Mathura - Govardhan Road, Aring, Mathura",
+      "lat": 27.4884937,
+      "lng": 77.5436021,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH5Kz8m5xczkRjcHgyGrwCeI",
+      "name": "Petrol Pump",
+      "address": "FMX9+GP4, Azad Nagar, Mathura",
+      "lat": 27.4987676,
+      "lng": 77.66933259999999,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJPyjSVYpxczkREQHkHT0-IWg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 2, Bypass, Charora, Mathura",
+      "lat": 27.5328805,
+      "lng": 77.6562982,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQbb644pxczkRK8McSs-yzk8",
+      "name": "IndianOil",
+      "address": "near Mathura, Ground Floor, NH 2 Arya Samaj Road, near Mathura, Bypass, Garravkendra, Mathura",
+      "lat": 27.533943,
+      "lng": 77.656013,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvUSitHVxczkRvexFaKk-j-E",
+      "name": "HP Petrol Pump",
+      "address": "Bhuteshwar Road, Ganga Vihar Colony, Chowk Bazar, Mathura",
+      "lat": 27.510877,
+      "lng": 77.6723155,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZaaaM7BzczkRKqacQPxEWR4",
+      "name": "T. N. Gautam CNG Filling Station, Goverdhan Road, Satoha, Mathura",
+      "address": "T. N. Gautam CNG Filling Station Satoha, Goverdhan Road, Mathura",
+      "lat": 27.4982261,
+      "lng": 77.6226769,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKTSEKu9zczkRpU7JkSQc9Nw",
+      "name": "Bharat Petroleum Petrol Pump",
+      "address": "FHVH+P62, Govardhan",
+      "lat": 27.4942602,
+      "lng": 77.57801979999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ46OWOaINczkRme_9sk2gyN8",
+      "name": "Bharat Petroleum, Petrol Pump -Maa Kaila Devi Filling Station",
+      "address": "Mathura - Deeg Marg, Khamini",
+      "lat": 27.489923,
+      "lng": 77.5492411,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ5-kHNrpxczkRWSOBMZVtUAk",
+      "name": "IndianOil",
+      "address": "Ground Floor, Arya Samaj Road, Kankali Road, Bhuteshwar, Mathura",
+      "lat": 27.496532,
+      "lng": 77.670672,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJR9FB_XFxczkRzlwgaXpyJu4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Deeg Gate Road, Mathura",
+      "lat": 27.502665,
+      "lng": 77.670288,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0ScsJABxczkRzsXgXC9Zleo",
+      "name": "HPCL Highway",
+      "address": "GMM4+3G2, Chennai - Delhi Highway, Vrindavan",
+      "lat": 27.532734,
+      "lng": 77.656019,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJo89EAzBxczkRuGxSCSUTwpI",
+      "name": "Bharat Petroleum, Petrol Pump -Auto Aid",
+      "address": "CHHATIKARA ,MATHURA, Mathura",
+      "lat": 27.5316089,
+      "lng": 77.65754489999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC4BGBotxczkR80nN4q45-m4",
+      "name": "Torrent Gas CNG Station",
+      "address": "GMM4+7RJ, Mode, National Highway 2, Jaisinghpura Bangar, Chhatikara",
+      "lat": 27.5332138,
+      "lng": 77.6570129,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJxTpnhpyczkRDfkjghw7HRY",
+      "name": "Barmasel Petrol Pump",
+      "address": "Siva Sakthi Apartment, Daba Gardens, Seethammadara, Visakhapatnam",
+      "lat": 27.5444772,
+      "lng": 77.6424103,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ4f-uJH9xczkR_GBr-uS96z8",
+      "name": "Cng pump mathura",
+      "address": "NH19",
+      "lat": 27.5331535,
+      "lng": 77.6569445,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJsySl3Q9yczkR_fZcH9Hg1Fc",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 2, Arya Samaj Road, Chhatikara",
+      "lat": 27.5466059,
+      "lng": 77.6408594,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVdOO5VtxczkRMwTs6tUm2MM",
+      "name": "Narendra",
+      "address": "sanatani momos Bale Do Palace, Mathura",
+      "lat": 27.5300356,
+      "lng": 77.6613078,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJD-6xLxJxczkRqMADPP1wGF0",
+      "name": "D D PLAZA MATHURA",
+      "address": "DD Plaza, Manoharpura, Mathura",
+      "lat": 27.4946505,
+      "lng": 77.6761829,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJgxOujtdxczkRtXxBvnoVxg4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Masani Road, Mathura",
+      "lat": 27.51204959999999,
+      "lng": 77.6729649,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ089_KhVxczkRqPZCsWAziVw",
+      "name": "Bharat Petroleum ratan chand and sons",
+      "address": "beside DD Plaza, Junction Road, Sonkh, Adda",
+      "lat": 27.4943491,
+      "lng": 77.6767003,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJW3CV0x1xczkRGYi-3vJzztA",
+      "name": "IndianOil",
+      "address": "1123Ab, 1124A & 1125, Plot 162, Hariganj, Arya Samaj Marg, Mathura",
+      "lat": 27.5014943,
+      "lng": 77.6784619,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC304Ih1yczkRdB1oraK8DAY",
+      "name": "SANWARUYA GAS LIMITED",
+      "address": "GMW2+7F4, Vrindavan",
+      "lat": 27.5456316,
+      "lng": 77.65119419999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJlRXtAW9tczkRTGzfCy6FO3w",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Radha Kund Road, Chhatikara",
+      "lat": 27.555801,
+      "lng": 77.568604,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy3Uvfut6czkReBFlsWXTADk",
+      "name": "IndianOil",
+      "address": "Ground Floor, Laxmi Nagar, Jamuna Paar, Mathura",
+      "lat": 27.51012799999999,
+      "lng": 77.70451899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPSamUmJwczkROFsSwwkNgpw",
+      "name": "Hindustan Petroleum",
+      "address": "GPCJ+P35, Raya Road, Shahpur Gausana",
+      "lat": 27.5217508,
+      "lng": 77.7302351,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIQLbU2JwczkRwD0H4IAl4z4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Mat, Shahpur Gausana",
+      "lat": 27.5219401,
+      "lng": 77.7304218,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJf_nrWjFxczkRz-plYv6cEnw",
+      "name": "Biotech Fuel",
+      "address": "Main Road, Arini, Mathura",
+      "lat": 27.4977782,
+      "lng": 77.6903025,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJS0lJnvtxczkRimO8y78Zm5k",
+      "name": "Kapoor autombiles",
+      "address": "Lohban ki bagichi, Sadabad Rd, Mathura",
+      "lat": 27.5076758,
+      "lng": 77.7150388,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHe7eqOJxczkR9WXjiOYRSf4",
+      "name": "Dhangar filling station",
+      "address": "Dhangar filling station baldeo, road, Sukhdevpur, Mathura",
+      "lat": 27.50251399999999,
+      "lng": 77.72219439999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ36Qq0uxwczkRpAMOoRSunRA",
+      "name": "कार्ष्णि गुप्ता कम्यूनिकेशन",
+      "address": "GP3C+FQ4, Major District Road 102W, Raipur Mai Banger",
+      "lat": 27.5036329,
+      "lng": 77.721961,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJA3CsnPJxczkR9BPsO6N581k",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Tiraha Barage Road, Laminagar, Raya",
+      "lat": 27.4968425,
+      "lng": 77.727161,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHap2e_VwczkRw7MliazkxAA",
+      "name": "JioBP Petrol Pump, Mathura",
+      "address": "Mathura - Hathras Road, Amethi, Lohaban",
+      "lat": 27.51802039999999,
+      "lng": 77.720012,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq-ZB5-txczkRSCa6SZfLS8c",
+      "name": "IndianOil",
+      "address": "Gayatri Tapo Bhoomi, Ground Floor Vrindavan, Rd, Masani, Mathura",
+      "lat": 27.5426284,
+      "lng": 77.67204160000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJf3JHF4lxczkRwrMo2yrrF_s",
+      "name": "Bharat Petroleum Shree Vrindavan Fuels",
+      "address": "GMVC+JM3, Bhuteshwar Road, Vatsalya Gram, Vrindavan",
+      "lat": 27.5440187,
+      "lng": 77.6716843,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ80G0MGBwczkRZ1X8Xc_xRCE",
+      "name": "IndianOil",
+      "address": "Ground Floor, Anand Vihar, Raya Road, Mathura",
+      "lat": 27.5198147,
+      "lng": 77.724389,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDUf7N2BwczkRbb6JgdnrK7U",
+      "name": "Torrent Gas CNG Station",
+      "address": "GP9F+XRM, Raya Road, Laxmi Nagar, Mathura",
+      "lat": 27.519963,
+      "lng": 77.7245453,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwZ9ESN1xczkRL_EJuTG2UwY",
+      "name": "Bharat Petroleum, Petrol Pump -Bhagwati Fuels",
+      "address": "LOHAVAN, MATHURA-RAYA ROAD, Mathura",
+      "lat": 27.5196173,
+      "lng": 77.7256761,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH7Qxv916czkRQa8BZkKAVPg",
+      "name": "Bharat Petroleum",
+      "address": "Shivpuri, SH-80, Hathras Mathura Road, Mathura",
+      "lat": 27.549,
+      "lng": 77.7837,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJR1EAawBxczkRIzh0VZrLQ4M",
+      "name": "अंबेडकर पार्क दीवाना खुर्द हनुमान बगीची",
+      "address": "GPQR+GMX, Diwana",
+      "lat": 27.5388518,
+      "lng": 77.74172949999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ8Zy7Uup7czkRNM8epXLJ3qQ",
+      "name": "PREM SINGH KSK",
+      "address": "BAHADURPUR, Karab",
+      "lat": 27.49653229999999,
+      "lng": 77.7959122,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS2sDOap7czkR-YMQTKMyNe8",
+      "name": "Mohankumar",
+      "address": "Mohankumar Karab, A, Vellalapatti",
+      "lat": 27.4821764,
+      "lng": 77.7995572,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJPVtoJgh7czkRKyDLC7xZweQ",
+      "name": "IndianOil",
+      "address": "Mathura - Aligarh Road, village malhe, Raya",
+      "lat": 27.5402796,
+      "lng": 77.77078279999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJzsxfgB7czkRhiEWcV2K3j8",
+      "name": "Malhe cut",
+      "address": "NH 530B, Bhainsara",
+      "lat": 27.5400314,
+      "lng": 77.7725682,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJr2lfc6t7czkRd31vHSxsqWM",
+      "name": "IndianOil - SWAGAT",
+      "address": "GQX4+W35, Ground Floor Arya Samaj Road, Manth, Dhaku Near 107 Km LHS Noida To Agra, Suraj",
+      "lat": 27.549671,
+      "lng": 77.755293,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrcPDPgB7czkROhX2pwT8sAY",
+      "name": "CNG PUMP within Indian Oil",
+      "address": "GQX4+W35, Suraj",
+      "lat": 27.5497567,
+      "lng": 77.7552322,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJMZHewtJ7czkRngm-T0l2CuA",
+      "name": "Vrindavan Cut (Agra Bus)",
+      "address": "Cut, Expressway, Vrindavan",
+      "lat": 27.5510937,
+      "lng": 77.7538524,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJQenCih5wczkRraOirBO6Y_Y",
+      "name": "IndianOil",
+      "address": "Ground Floor, Mant Road, Airakhera, Panigaon Khader",
+      "lat": 27.562717,
+      "lng": 77.726608,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJiTS6CYxtczkRMFz3Qczooz0",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 2, Arya Samaj Road, Chhatikara",
+      "lat": 27.5620914,
+      "lng": 77.62603849999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtX6bhIRtczkR5y7mn3WPb2U",
+      "name": "IndianOil",
+      "address": "Ground Floor, Nh 2, Chhatikara",
+      "lat": 27.5691243,
+      "lng": 77.6206461,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH_7WLwBtczkR6Y3jLtbgkDY",
+      "name": "Shri Keshavdev Fuel Station (IOCL)",
+      "address": "HJ7F+J8, Chhatikara",
+      "lat": 27.564089,
+      "lng": 77.6233529,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqyETu6ZtczkR9Xb0qwwOIX8",
+      "name": "Tanvi Motors",
+      "address": "HJ6F+VW5, Chhatikara",
+      "lat": 27.56214749999999,
+      "lng": 77.624872,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWapgOaVtczkRzogbUYCFn5k",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Khasra No 1217, Sadar, Jait",
+      "lat": 27.5907901,
+      "lng": 77.6006101,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlQgXWwATczkRD46BJdpPlKw",
+      "name": "Neeraj malik",
+      "address": "HH84+WF4, Ral",
+      "lat": 27.5672619,
+      "lng": 77.55621,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJa_6Xi4JvczkR404BkOguVMc",
+      "name": "GAIL Gas Ltd CNG Station",
+      "address": "HM74+XJ3, Opp Omaxe Chhatikara, Road, Vrindavan",
+      "lat": 27.5648873,
+      "lng": 77.65655890000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJr8MTOOZsczkR5DnNzXoDD9U",
+      "name": "Shree Om Filling Station",
+      "address": "Bharthia",
+      "lat": 27.609308,
+      "lng": 77.5886987,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJpStfEgBvczkRQ-7uIX3dnJQ",
+      "name": "Green Gas Limited",
+      "address": "HM85+2P4, Vrindavan",
+      "lat": 27.5650088,
+      "lng": 77.6593394,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJF33lXpZvczkRE5bCRoDthdw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Jaith, Sunrakh Road, Vrindavan",
+      "lat": 27.5798236,
+      "lng": 77.65593969999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2-ICx5htczkRy3s4YzwBwmI",
+      "name": "IndianOil",
+      "address": "Ground Floor Ajhai Kurd, Chaumuhan, near KM Stone, 127 To 490, Chhata",
+      "lat": 27.6119254,
+      "lng": 77.5863505,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJR4kVCTYNczkRBzj0ivkEzO8",
+      "name": "IndianOil",
+      "address": "Ground Floor, Chatikara Road Junhaidi, Badhauta",
+      "lat": 27.54464919999999,
+      "lng": 77.53857289999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvVFT4v9vczkR1qaaYsCLvls",
+      "name": "SHRI SATYAPAL SINGH FILLING STATION (INDIAN OIL PETROL PUMP)",
+      "address": "police chowki, near Keshav Dham Road, to, Vrindavan Flyover Road, Rukmini Vihar, Vrindavan",
+      "lat": 27.564571,
+      "lng": 77.674111,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJI78MKShvczkR9770hZrFKuE",
+      "name": "INDIAN OIL",
+      "address": "HMCR+4F6, opposite Jaipur Temple, Tarash Mandir Colony, Vrindavan",
+      "lat": 27.5704288,
+      "lng": 77.6911172,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrfD47iZ7czkRXWNmUGU7w30",
+      "name": "IndianOil",
+      "address": "Ground Floor Hathras Mathura Road, Airakhera Road, Raya",
+      "lat": 27.5558042,
+      "lng": 77.7946592,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ90scGEl7czkRgYQ-lOxT8KI",
+      "name": "IndianOil",
+      "address": "State Highway 33, Pirsua",
+      "lat": 27.5653494,
+      "lng": 77.81805489999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIc2rKeplczkRooz8p6r4IGg",
+      "name": "ESSAR FILLING PETROL PUMP",
+      "address": "HQFH+Q5M, Narbehansi",
+      "lat": 27.5744609,
+      "lng": 77.77792219999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJh_nrBdR6czkRUc_FwybNp5M",
+      "name": "IOCL Petrol Pump (KP Filling Station)",
+      "address": "HQ8P+573, Raya - Mant Road, Thana Amar Singh",
+      "lat": 27.5653887,
+      "lng": 77.7856842,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJrclcL_p7czkRWsM642LJqEI",
+      "name": "IndianOil",
+      "address": "Ground Floor, Raya Maant Rd Airakhera, Raya - Mant Road, Thana Amar Singh",
+      "lat": 27.56538149999999,
+      "lng": 77.7857289,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMRgMxYJ7czkR-_FZVr5xetI",
+      "name": "J P Filling station",
+      "address": "HQ4Q+GQJ, Rusinga madaim, Raya",
+      "lat": 27.5563367,
+      "lng": 77.7893788,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJFWSL1YFvczkRIJPKdXecqnU",
+      "name": "IndianOil - SWAGAT",
+      "address": "Ground Floor Arya Samaj Road, Manth, Bheem Banger Near 100 Km RHS Noida To, Mathura",
+      "lat": 27.6128555,
+      "lng": 77.7419449,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJv0hnPABvczkRhPti9rDXp3w",
+      "name": "Swagat indian Oli CNG pump",
+      "address": "JP7R+6WP, Arruwa Banger",
+      "lat": 27.6130849,
+      "lng": 77.7423269,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJHzU4gRh7czkRDwF4rtWT_Ws",
+      "name": "Sree Balaji Flling Station ESSAR",
+      "address": "GQXX+8P7, Raya, Sadabad Road, Mathura",
+      "lat": 27.5483,
+      "lng": 77.7993,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsYWvNQBlczkR825QOtQmsAU",
+      "name": "Kavya filling station",
+      "address": "HRX3+8M, Gaiyara",
+      "lat": 27.5982967,
+      "lng": 77.8044967,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJQX2Wem17czkR6LFPhzLnBxg",
+      "name": "IndianOil",
+      "address": "Arya Samaj, Ground Floor Sadabad Road, Road, Raya",
+      "lat": 27.53930099999999,
+      "lng": 77.816001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNe_5oqJvczkRLpaZtodXR14",
+      "name": "IndianOil",
+      "address": "Ground Floor, Math Raja, Mant Road, Raya",
+      "lat": 27.629751,
+      "lng": 77.71942299999999,
+      "open_now": true
+    }
+  ]
+}

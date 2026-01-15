@@ -1,0 +1,435 @@
+{
+  "city": "Beed",
+  "state": "Maharashtra",
+  "count": 53,
+  "center": {
+    "lat": 18.25,
+    "lng": 75.6
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJXd2VuyNRxDsRYO2HWckidyg",
+      "name": "SHRADDHA PETROLEUM",
+      "address": "NH 548C, KURDUWADI BARSHI ROAD, Tal, Ridhore",
+      "lat": 18.1374861,
+      "lng": 75.5502546,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ5y03LjdRxDsRIvaBCztjwfQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 548C, Barshi - Pandharpur Road, Madha, Kurduvadi",
+      "lat": 18.141719,
+      "lng": 75.558261,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJka3RP1hRxDsRfJB1ghPPeqo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 293/2 NH 548C, Barshi Kurduwadi Road, Barshi - Tembhurni Road, Shendri",
+      "lat": 18.144499,
+      "lng": 75.56356699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAYzibgBXxDsRW9_IU35YFxQ",
+      "name": "Harsh petrolium /cng",
+      "address": "6HQ4+MV, Wakadi",
+      "lat": 18.2392064,
+      "lng": 75.5571547,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJI1jBiodRxDsRepGDgcLgEd0",
+      "name": "Nayara Petrol Pump BHORE PETROLEUM",
+      "address": "National Highway 548C, Wangarwadi",
+      "lat": 18.163067,
+      "lng": 75.5966897,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRZRVZrdXxDsRCyeQRIM6Sg8",
+      "name": "Bharat Petroleum Petrol Pump , PARSHURAM PETROLEUM",
+      "address": "WARADWADI PHATA, AT POST- ASUWARADWADI PHATA, AT POST, Asu",
+      "lat": 18.235602,
+      "lng": 75.56830400000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzzLt2FxaxDsRKS6Mceyfy3Y",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gat No 669/A, NH 548, Barshi - Tembhurni Road, Madha, Mhaisgaon",
+      "lat": 18.119511,
+      "lng": 75.49787599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAW78Mk5UxDsRL54f3omyS-M",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gat No 38, 1/1, Kurduwadi Road, Barshi",
+      "lat": 18.2056583,
+      "lng": 75.6551171,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjzsUSUNVxDsRkQy2ItDZe-g",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gut No 152P NH 548C, Barshi Kurduwadi Road, Barshi - Pandharpur Road, Khandavi",
+      "lat": 18.1923249,
+      "lng": 75.63822600000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7QfxiWNXxDsRbzXjPJEhTws",
+      "name": "SAUDAGAR PETROL PUMP",
+      "address": "Shop No 01, Main Road, Barshi - Paranda Road, Uplai Varadvadi, Barshi",
+      "lat": 18.2409804,
+      "lng": 75.5964149,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo20nr_dXxDsRekoBnPjMR4c",
+      "name": "SANJARI NAYARA Petrol Pump (MOHSEEN ALLAN)",
+      "address": "6HQH+76Q, Barshi - Paranda Road, वाकडी",
+      "lat": 18.2383967,
+      "lng": 75.5772565,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJay6U71NUxDsRu90cTiIKpdA",
+      "name": "IndianOil",
+      "address": "Kurdwadi, Gat No 21/ B/2A/P Barshi, Road, K V Nagar, Alipur",
+      "lat": 18.2097989,
+      "lng": 75.66073639999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwa-vFlNUxDsRgp5QbgouQdE",
+      "name": "Bharatgas",
+      "address": "India",
+      "lat": 18.2129396,
+      "lng": 75.6596837,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJa3lkHP5VxDsRaMgFvrt-9Fg",
+      "name": "Shree Mahalaxmi petroleum BPCL PUMP",
+      "address": "near Lakshyavhiwadi, bypass, Barshi - Paranda Road, बार्शी",
+      "lat": 18.23841,
+      "lng": 75.6340359,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmdWosE2rxTsRsPHzEBN8OCI",
+      "name": "IndianOil",
+      "address": "Ground Floor, Soundare",
+      "lat": 18.1865363,
+      "lng": 75.7178563,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYbe_fj1VxDsRpMzbiLKMxSU",
+      "name": "Bharat Petroleum, R T Kadam Petroleum",
+      "address": "735/2, T K ESTATE, Chinch Road, Dhage Mala, Barshi",
+      "lat": 18.231241,
+      "lng": 75.69099489999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJszaLeqBVxDsR5toATpHtlgI",
+      "name": "HP PETROL PUMP & CNG STATION BARSHI",
+      "address": "HP Petrol Pump, Barshi, Barshi - Paranda Road, Sholapur",
+      "lat": 18.2366596,
+      "lng": 75.6654496,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJc9SNEjxVxDsRbpZPFK9CdSc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Sambhaji Nagar, Barshi",
+      "lat": 18.2344196,
+      "lng": 75.6964563,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTef8vDhVxDsRhk_KRBQQw-s",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "S No 2551 Yedeshi, Solapur Road, Barshi",
+      "lat": 18.2399101,
+      "lng": 75.6977501,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8WuxW-tUxDsRG6LVLeM--wI",
+      "name": "ESSAR",
+      "address": "5MVP+Q47, Kasarwadi Road, Kavhe",
+      "lat": 18.1944192,
+      "lng": 75.68529149999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ2SVHPwdVxDsRTWXLpftySlY",
+      "name": "IndianOil",
+      "address": "Gut No, 1524, Solapur Road, Barshi",
+      "lat": 18.206725,
+      "lng": 75.707664,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnT6NJnmrxTsRSsvwy3HChDU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 455, near Yamuna Mangal Karyalay, 5/A, Barshi - Solapur Road, Soundare",
+      "lat": 18.1865732,
+      "lng": 75.7177708,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQRYX6PdVxDsRz_Ko-pYumuI",
+      "name": "Essar petrol pump",
+      "address": "6MHH+MR6, Alipur Road, Chatrapati Colony, Barshi",
+      "lat": 18.2291693,
+      "lng": 75.6795252,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDYrSkUxVxDsREF7I2-63nh4",
+      "name": "M S KOKATE PETROLIUM",
+      "address": "1337, Alipur Road, Chatrapati Colony, Barshi",
+      "lat": 18.2292345,
+      "lng": 75.67945859999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ5YpdtThVxDsR9RtxzXSCffc",
+      "name": "Nayara Petrol Pump R N Dhage Petroleum",
+      "address": "NH 548C,wangarwadi, Barshi",
+      "lat": 18.2307824,
+      "lng": 75.6892183,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqZf7-rZVxDsR8-Fx9hZP91I",
+      "name": "BHAGWAT AND BROS BARSHI",
+      "address": "37136, Station Road, Barshi",
+      "lat": 18.2289413,
+      "lng": 75.6972357,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJo7VjWN5VxDsRB--vTkJvp2k",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gut No 949/2/2, NH 150E, Barshi - Paranda Road, Barshi",
+      "lat": 18.2365276,
+      "lng": 75.6654118,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ75rCMONVxDsRhsh8I8xLTHc",
+      "name": "SHRI YEDESHWARI PETROLEUM",
+      "address": "At, Post, Shelgaon",
+      "lat": 18.2353215,
+      "lng": 75.6963653,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJfy5CyDhVxDsRdHxGlyFklRY",
+      "name": "Bharat Petroleum, Petrol Pump -A.R.Kothari",
+      "address": "6MQW+RXC, near hero show room, Barshi - Latur Highway, Near, Bhosale Chowk, Barshi",
+      "lat": 18.239074,
+      "lng": 75.69716369999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJE5dsgQVVxDsR5Ui1aYJFgS0",
+      "name": "Jai Jagdamba Petroleum",
+      "address": "Madhur Bungalow, Ashok Nagar, Barshi",
+      "lat": 18.2381021,
+      "lng": 75.7023481,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ0eoq_jdVxDsRouxKTuQ2SbE",
+      "name": "SHRI BHAGWANT SAHAKARI PURWATHA MANDALI LTD",
+      "address": "Jamgaon Road, Barshi",
+      "lat": 18.2403252,
+      "lng": 75.6984796,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-9adO2VF3DsRA7R4MOGlXO0",
+      "name": "IndianOil",
+      "address": "Ground Floor, Barshi",
+      "lat": 18.24060039999999,
+      "lng": 75.6987829,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo7TSLhyIxDsROwwEXwSvxLs",
+      "name": "BAGHIRATHI PETROLIUM",
+      "address": "At.post.shelgaon( wangi) ta.karmala, Jeur",
+      "lat": 18.1817108,
+      "lng": 75.7420599,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4fn3O9iqxTsRfI62ENa9SPs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gat No 262, 13, Barshi - Osmanabad Road, Shelgaon",
+      "lat": 18.2200738,
+      "lng": 75.7318921,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6-1Yt4P3xDsRA8pTcfG-6CU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gat No 33, P SH 67, Barshi - Paranda Road, Paranda",
+      "lat": 18.2558136,
+      "lng": 75.4751351,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtyp9DwD3xDsRJFY1ol6OQ_4",
+      "name": "एचपी पेट्रोलपंप आणि सीएनजी स्टेशन परांडा",
+      "address": "7F77+9C5, Paranda",
+      "lat": 18.2633988,
+      "lng": 75.4636031,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJdQwk0Wj3xDsRCWmBRlGtZKw",
+      "name": "Meghraj Petroleum Paranda",
+      "address": "Karmala Road, Paranda",
+      "lat": 18.2633988,
+      "lng": 75.4636031,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDzqgHz_2xDsRxBXWyqrmsZk",
+      "name": "Bharat Petroleum, Petrol Pump -Tirumala Petroleum",
+      "address": "PARANDA, OSMANABAD",
+      "lat": 18.2663133,
+      "lng": 75.4620831,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmXohvhX2xDsRDb9OoqZXCSk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 15, Maharana Pratap Chowk, near Bus Depot, Sonari Rd, Paranda",
+      "lat": 18.2725581,
+      "lng": 75.45918209999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2VGJ-N73xDsRU3f793vXlP0",
+      "name": "IndianOil",
+      "address": "Gat No 113, A SH 210, Paranda",
+      "lat": 18.2626247,
+      "lng": 75.4558783,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJc7hyvpZVxDsRE0H3dFdc6iM",
+      "name": "Mira Petroleum (Nayara)",
+      "address": "Nagobachiwadi",
+      "lat": 18.2535757,
+      "lng": 75.6664742,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ24_9TelVxDsR6em2LhR3dMQ",
+      "name": "M.ali bio diesel pump",
+      "address": "Barshi",
+      "lat": 18.2568157,
+      "lng": 75.6697709,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJiXCuabNVxDsRwWbH2LTVYGU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gat No 1005/P, Gadegaon Road, Barshi",
+      "lat": 18.2567919,
+      "lng": 75.6707265,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo1NZfUlVxDsRbWhyV6CxB0E",
+      "name": "Nayara Petrol Pump",
+      "address": "6PW5+25H, Industrial Estate No. 3, Barshi",
+      "lat": 18.2450749,
+      "lng": 75.7079818,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJgQQmZGBVxDsRshw7VgdhX3U",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gut No 1203/1, near BIT College, Barshi Bypass, Barshi",
+      "lat": 18.260603,
+      "lng": 75.689697,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ-BgsnP_xDsRuoi5H3ZiIbw",
+      "name": "Shivraj Petroleum (Petrol/Diesel/AutoLPG)",
+      "address": "opposite BIT college, Gat no. 1240/3, opposite BIT college, Latur Kurduwadi bypass, Barshi",
+      "lat": 18.2658469,
+      "lng": 75.69713519999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtWU8V66rxTsR7KKfmHpylDA",
+      "name": "Malhar petroleum Gat.No.43 Jamgaon Barshi 413401",
+      "address": "6PX9+RW4, near tourist hotel, Barshi - Latur Highway, Jamagaon, Industrial Estate No. 3, Barshi",
+      "lat": 18.2495007,
+      "lng": 75.7198245,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJy22IMub5xDsRq8l8XWg3dIg",
+      "name": "D. K.PETROLEUM",
+      "address": "SH162, Jawala Ni",
+      "lat": 18.3221927,
+      "lng": 75.598987,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm6Bwr2n3xDsRdPkq4pueUVA",
+      "name": "Gagangiri Petroleum Nayara",
+      "address": "Gat no.231 Sonari, rod, Pimaparkhed",
+      "lat": 18.321794,
+      "lng": 75.4567872,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm1RZS9b_xDsRGs5tJ_0W2Hk",
+      "name": "Bharat Petroleum Petrol Pump , ARYAN PETROLEUM",
+      "address": "SURVEY NO 710, MANKESHWARMANKESHWAR, TAL, Bhoom",
+      "lat": 18.346974,
+      "lng": 75.63880999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgUmz5sX7xDsRlaHCc0SiwM0",
+      "name": "Girija pralhad petroleum",
+      "address": "9JJC+V2C, SH-62, Wangi, Shekhapur",
+      "lat": 18.3821875,
+      "lng": 75.6200156,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJ8QBHZUMBxTsRIHKXrvnJHQw",
+      "name": "अंबिका पेट्रोल पंप इण्डिंन ऑइल",
+      "address": "8P3Q+75, Agalgaon",
+      "lat": 18.3031875,
+      "lng": 75.73793750000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJR1DtDUkAxTsRc_p_9Q504XQ",
+      "name": "NAYARA NMD PETROLEUM",
+      "address": "India",
+      "lat": 18.3060385,
+      "lng": 75.7407353,
+      "open_now": null
+    }
+  ]
+}

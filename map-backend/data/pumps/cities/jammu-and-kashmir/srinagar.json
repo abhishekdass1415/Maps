@@ -1,0 +1,1099 @@
+{
+  "city": "Srinagar",
+  "state": "Jammu and Kashmir",
+  "count": 136,
+  "center": {
+    "lat": 34.0833,
+    "lng": 74.8
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJYzHwDRyQ4TgRdptkkdl_dLo",
+      "name": "United Service Station ( BHARAT PETROLEUM CORPORATION LTD.",
+      "address": "National Highway 1A, Srinagar",
+      "lat": 34.06733000000001,
+      "lng": 74.77535639999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlxEjrgiR4TgRvE9eeQJE4iI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Bodan",
+      "lat": 34.021601,
+      "lng": 74.728301,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ65c7pi2R4TgRhPuzWupWY6I",
+      "name": "Sofi Filling Station Qazibagh",
+      "address": "XPWP+RXC, Unnamed Road, Srinagar",
+      "lat": 33.997068,
+      "lng": 74.7373892,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ6YxrCKuR4TgRyK93ZGjM5h8",
+      "name": "IndianOil",
+      "address": "Ground Floor, Humhama Badgam, Sheikhpora, Wagat, Badgam",
+      "lat": 34.0291226,
+      "lng": 74.7495016,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRyMvUPyR4TgRUq0NEpFZtpI",
+      "name": "IndianOil",
+      "address": "Ground Floor, Arigam",
+      "lat": 33.992813,
+      "lng": 74.742223,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7Ynk7TyR4TgRqoF53iI_UFg",
+      "name": "Bharat Petroleum भारत पेट्रोलियम",
+      "address": "Srinagar-Budgam Road",
+      "lat": 34.029835,
+      "lng": 74.75047099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaydtv_eR4TgRzkjXfkUJoyE",
+      "name": "IndianOil",
+      "address": "Lock No 4918, Mirgund",
+      "lat": 34.03748999999999,
+      "lng": 74.71861899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJU7Y_2ieS4TgR7rgMXhbQMog",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Budgam Chadoora Road, Srinagar",
+      "lat": 33.9896213,
+      "lng": 74.74616470000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJez3pRMOT4TgRnz3L9IhlgQ8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Chadoora Pampora Road, Srinagar",
+      "lat": 33.9827139,
+      "lng": 74.75727499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjx2680KQ4TgRBT6SmgvNLzM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Khomeini Chowk, Srinagar",
+      "lat": 34.0557533,
+      "lng": 74.7478383,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFfQ6OgCX4TgRmwPTHUmpo_g",
+      "name": "SYED MUSA FILLING STATION",
+      "address": "Syed Musa Filling Station, Sholi Pora",
+      "lat": 34.0058318,
+      "lng": 74.6737438,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ15FCZVCX4TgRA6UjOTVLnwk",
+      "name": "proposed site for petrol pump",
+      "address": "",
+      "lat": 34.0359066,
+      "lng": 74.67883549999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJvYgKQwCP4TgROJRJblMiXcc",
+      "name": "Hyderpora bypass chowk",
+      "address": "2QQQ+3WH, Srinagar",
+      "lat": 34.03768539999999,
+      "lng": 74.78992190000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJP_9T3NKP4TgRiLcQjZ0lvyg",
+      "name": "IndianOil",
+      "address": "Bypass New Airport Road, Srinagar",
+      "lat": 34.0384912,
+      "lng": 74.7897789,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJwRpZOFmX4TgROmAxrz7BX5I",
+      "name": "IndianOil",
+      "address": "",
+      "lat": 34.0367176,
+      "lng": 74.6681084,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMfF37KCT4TgRJ2D82QPbDaA",
+      "name": "Petrol Pump",
+      "address": "XP4G+P9R, Nambalhar",
+      "lat": 33.9568125,
+      "lng": 74.7259375,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJy7ly3tKP4TgRbQRoqyCrqHI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, National Highway, Srinagar",
+      "lat": 34.04211109999999,
+      "lng": 74.7896383,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbQo5oMKR4TgRrm_bGkNKYPc",
+      "name": "Dar Estate Housing",
+      "address": "near Sham Lal petrol pump, Nund Reshi Colony, near Sham Lal petrol pump, Sgr, Srinagar",
+      "lat": 34.0687641,
+      "lng": 74.7702472,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJNduPmBaR4TgRs7EkqIR0cHQ",
+      "name": "Shyam lal petrol pump",
+      "address": "Srinagar",
+      "lat": 34.06920709999999,
+      "lng": 74.77034239999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJD4_5Yh6Q4TgRltlU5ffXbQ8",
+      "name": "AFCO FILLING STATION",
+      "address": "Ground Floor, NH Bypass, Srinagar",
+      "lat": 34.0657333,
+      "lng": 74.7777395,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXU2fmBuQ4TgRJdq6Br_vr4s",
+      "name": "IndianOil",
+      "address": "Bemina Bridge, Bypass Main Road Bemina, Srinagar",
+      "lat": 34.068546,
+      "lng": 74.773048,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQTTxUQCX4TgRYgCv5z-lYg4",
+      "name": "Prime fuels",
+      "address": "2MM3+HH4, Poonchgund",
+      "lat": 34.03387620000001,
+      "lng": 74.6539497,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJvS14nUGO4TgRoaKaaKfKjbs",
+      "name": "Abdullah Filling Station",
+      "address": "2RF5+JJ, near Byepass Bridge, Srinagar",
+      "lat": 34.0241767,
+      "lng": 74.8089882,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJX8y38mmP4TgRP1mGUeNJG9A",
+      "name": "IndianOil",
+      "address": "Bypass, Srinagar",
+      "lat": 34.063843,
+      "lng": 74.783441,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhRTVFZiT4TgRn34TtWuPSP4",
+      "name": "Al Khidmat HP Filling Station Bugroo",
+      "address": "Bugroo, Khan Sahib",
+      "lat": 33.9475233,
+      "lng": 74.710261,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9WQCtueR4TgR2EsFFLuXgxQ",
+      "name": "Issar Service Station",
+      "address": "Police Line, Srinagar",
+      "lat": 34.0686766,
+      "lng": 74.7783252,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJx20rN3eO4TgRzY03UD2unZw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Mouchwa",
+      "lat": 34.005301,
+      "lng": 74.813801,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdYDRGcWN4TgRVXpBKPsK_E0",
+      "name": "IndianOil",
+      "address": "Lock No 12006, Chadoora",
+      "lat": 33.9878504,
+      "lng": 74.8134276,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUTQzMHKP4TgRXscaU8NxR0Y",
+      "name": "Bharat Petroleum Petrol Filling Station",
+      "address": "3RFP+7MR, National Highway 1A, Srinagar",
+      "lat": 34.0732485,
+      "lng": 74.836641,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJp55zpneP4TgRj3MDnGEbOL8",
+      "name": "Bharat Petroleum",
+      "address": "3RGH+MX3, Gupkar Road, Srinagar",
+      "lat": 34.076647,
+      "lng": 74.8299165,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJBdovyOuN4TgRv2ehNt3yOnM",
+      "name": "Ahmed fayaz",
+      "address": "Arafat filling station, almdar kralpora, Nagam",
+      "lat": 33.9881776,
+      "lng": 74.813232,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJzWyRj4OO4TgRjpjm8XXlTQg",
+      "name": "Sultan Fuels",
+      "address": "2R4P+J45, Nowgam - Pulwama Road, Srinagar",
+      "lat": 34.0079622,
+      "lng": 74.83529980000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJO3fCkSiP4TgRVp0xz82xcwk",
+      "name": "IndianOil",
+      "address": "Rawalpora, Nowgam - Pulwama Road",
+      "lat": 34.02883899999999,
+      "lng": 74.83142099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXeeSai6P4TgRhlvsLrsRcwQ",
+      "name": "Natipora Srinagar",
+      "address": "2RW7+F2J, Unnamed Road, Srinagar",
+      "lat": 34.0462087,
+      "lng": 74.8125239,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJYcwkmyiP4TgRG5HmXo8HQt0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Dilsoz Colony, Azad Basti Road",
+      "lat": 34.0463302,
+      "lng": 74.8124421,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7cYdfIGP4TgRqdXM-qGLHXY",
+      "name": "Pohru bypass",
+      "address": "2R8W+MGP, Srinagar",
+      "lat": 34.016719,
+      "lng": 74.8463269,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJn84o1lyP4TgR6SlK71tPU80",
+      "name": "Royal Motors",
+      "address": "2, Srinagar",
+      "lat": 34.0525183,
+      "lng": 74.80475179999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJzxeryjuM4TgRcbnWIGGBVfo",
+      "name": "IndianOil",
+      "address": "Sub District Hospital, Nowgam - Pulwama Road, Chattergam, Khanda",
+      "lat": 33.9889493,
+      "lng": 74.8419383,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJa85RhVeP4TgR_G6t_FtpE5A",
+      "name": "BAKSHI GURDASSMAL 4",
+      "address": "BAKSHI GURDASSMAL 4, Airport Road, Srinagar",
+      "lat": 34.0578344,
+      "lng": 74.8028911,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJd4CkTJyP4TgRq-iYBonHzDI",
+      "name": "BAKHSHI GURDASSMAL 1",
+      "address": "BAKHSHI GURDASSMAL 1, Airport Road, Srinagar",
+      "lat": 34.057881,
+      "lng": 74.8028444,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJj0E-SCaP4TgRuLHa4ZzoMk8",
+      "name": "BAKSHI GURDASSMAL 2",
+      "address": "BAKSHI GURDASSMAL 2, Airport Road, Srinagar",
+      "lat": 34.0579252,
+      "lng": 74.8028401,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZ9-C0AeP4TgRGcxMW3n9RGE",
+      "name": "BAKSHI GURDASSMAL 3",
+      "address": "BAKSHI GURDASSMAL 3, Airport Road, Srinagar",
+      "lat": 34.05794350000001,
+      "lng": 74.8028149,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJs89ZRMeP4TgR81t5ppZjae0",
+      "name": "IndianOil",
+      "address": "No L12002 & 11013, Solina Silk Factory Road, Srinagar",
+      "lat": 34.057957,
+      "lng": 74.80281099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVSeqET-M4TgRTXlYL9QEPF0",
+      "name": "Barkat Petrol Filling Station",
+      "address": "Chattergam",
+      "lat": 33.9846192,
+      "lng": 74.84688229999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-_lKNIiP4TgR164g85SUxN0",
+      "name": "HUSSAINI PETROL PUMP",
+      "address": "245, Arigam",
+      "lat": 34.0624341,
+      "lng": 74.80278179999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJXxzSN6GN4TgRHdMFlShDRsw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Road, Charar-i-Sharief",
+      "lat": 33.960301,
+      "lng": 74.809201,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPXTeiMmN4TgRXKQp7TFLjMo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Nowgam Khanda, Road, Chattergam",
+      "lat": 33.9833694,
+      "lng": 74.8552608,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjWoSe_eN4TgRKwk2Xkr8KjU",
+      "name": "IndianOil",
+      "address": "Ground Floor, Srinagar Road Chadoora, Charar i Sharief, Arigam",
+      "lat": 33.95825,
+      "lng": 74.809617,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ6jKGvyN4TgRfrdeE8aNadA",
+      "name": "Chadura Filling Station",
+      "address": "Bul Bul Pora",
+      "lat": 33.954579,
+      "lng": 74.80698919999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgyaUoUCP4TgRDddpxy1m5UI",
+      "name": "IndianOil",
+      "address": "Ground Floor, Srinagar",
+      "lat": 34.0738699,
+      "lng": 74.80062989999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOaIHsnqb4TgR2EeNecrlxdA",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bypass, Srinagar",
+      "lat": 34.0369472,
+      "lng": 74.867471,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMXmb5fGP4TgRKWZ4rLqo5J0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Amira Kadal Bridge, Karan Nagar Road, Srinagar",
+      "lat": 34.07493339999999,
+      "lng": 74.7971429,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEUrM7_GP4TgRpt7lUsor0XU",
+      "name": "Blitz Filling Station",
+      "address": "3QGW+4WC, Srinagar",
+      "lat": 34.0753012,
+      "lng": 74.79728089999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ-do_Es2N4TgRlPU0rEUsH_U",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kaisermullah,Bandipora, Nagam",
+      "lat": 33.95057899999999,
+      "lng": 74.819932,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVTS66yKP4TgRfjUyj9tLXA0",
+      "name": "Abadan Petrol Refilling Station",
+      "address": "Main Road, Srinagar",
+      "lat": 34.0480697,
+      "lng": 74.8665006,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5R3hViCP4TgRH3ZVaNVtN_E",
+      "name": "Bharat Petroleum, Petrol Pump -Srinagar Garage",
+      "address": "SONWAR,BADAMI, Srinagar",
+      "lat": 34.06780080000001,
+      "lng": 74.84416569999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjVMVA52P4TgRFOPzvPCD_n0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Hotel Road, Maulana Azad Road, Srinagar",
+      "lat": 34.075801,
+      "lng": 74.82470099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJT5KnRACN4TgROi6lkSR6Tq8",
+      "name": "Prime Filling Station",
+      "address": "Buchroo",
+      "lat": 33.94745899999999,
+      "lng": 74.80940799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGR6n52OP4TgR2Ag2nwqKV0E",
+      "name": "IndianOil",
+      "address": "Main Market, Srinagar",
+      "lat": 34.0715359,
+      "lng": 74.8390083,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJb4AG5naP4TgRIGvytg64wnU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Durga Nag Temple, Maulana Azad Road, Srinagar",
+      "lat": 34.0753489,
+      "lng": 74.8313946,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZYmee_SP4TgRp-nqjyktjLM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Srinagar",
+      "lat": 34.080849,
+      "lng": 74.800507,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnUltxGiP4TgR9TaKuPgbilM",
+      "name": "BP Petrol Pump",
+      "address": "3QJQ+P7Q, Srinagar",
+      "lat": 34.0818294,
+      "lng": 74.7882224,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJXwTcgTKJ4TgRu-l1lKQqA94",
+      "name": "IndianOil",
+      "address": "Srinagar",
+      "lat": 34.040955,
+      "lng": 74.876808,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlZp2L86J4TgR7jrlZVdOyGE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 44, Rakh Shalina",
+      "lat": 34.021101,
+      "lng": 74.883861,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAy-fozGJ4TgRnw8QoyNv5jU",
+      "name": "ST Motors",
+      "address": "Pantha Chowk Srinagar Jammu and Kashmir",
+      "lat": 34.03922689999999,
+      "lng": 74.8814888,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjyQd5TuJ4TgRLWF_gJOrLAk",
+      "name": "Asian Motors petrol pump Bharat Petroleum corporation Ltd",
+      "address": "Pantha Chowk, Srinagar NH-1A, Srinagar Jammu Highway, Pampore, Srinagar",
+      "lat": 34.0376339,
+      "lng": 74.8907559,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJd4fRFA2J4TgRxNXv5iY6Q5U",
+      "name": "Bharat Petroleum",
+      "address": "2WP6+CC6, Zaffron Colony Road",
+      "lat": 34.0360497,
+      "lng": 74.9110122,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJJdov3h6J4TgR5BnqGLo8Fzc",
+      "name": "Hamara Pump Zewan",
+      "address": "near Police Colony Zewan, Zewan Srinagar Jammu and Kashmir Zewan Khonmoh, Road",
+      "lat": 34.04031090000001,
+      "lng": 74.8879915,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ91y9QT6J4TgRPvXV--BpulY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Pantha Chowk, Srinagar",
+      "lat": 34.036399,
+      "lng": 74.895759,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJISSsVQeL4TgRXC8MGdfbYlE",
+      "name": "Gousia Filling Station, Pampore",
+      "address": "XWW3+HGF, Pampore - Kakapora Road, Chinar Bagh",
+      "lat": 33.996442,
+      "lng": 74.903787,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJR39AQuiL4TgRxtFfT4hOJUQ",
+      "name": "IndianOil",
+      "address": "Chinar Bagh",
+      "lat": 33.9949429,
+      "lng": 74.9032553,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJK4mttQaJ4TgRA-5QCIcuGXg",
+      "name": "Bharat Petroleum - भारत पेट्रोलियम",
+      "address": "opposite ITBP HQ's Aaripora, Srinagar",
+      "lat": 34.0403158,
+      "lng": 74.8945773,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJKwmSUnyJ4TgRrQA7RCizPno",
+      "name": "IndianOil",
+      "address": "Ground Floor Pampore, Anantnag",
+      "lat": 34.015566,
+      "lng": 74.912291,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2clhhFOL4TgRDJS-UXFy7ys",
+      "name": "IndianOil",
+      "address": "Ground Floor Pampore, Anantnag",
+      "lat": 34.00627199999999,
+      "lng": 74.913822,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJW5QD5QKL4TgRdkms0QnuGeQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 44, Pampore",
+      "lat": 33.9931582,
+      "lng": 74.91039769999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ18q8kpmL4TgRuAI7aUPrg-8",
+      "name": "Bharat Petroleum - भारत पेट्रोलियम",
+      "address": "2W28+3C4, National Highway 44, Pampore",
+      "lat": 34.000146,
+      "lng": 74.91608699999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJdacsOg-J4TgR-zBd0C35Tn4",
+      "name": "IndianOil",
+      "address": "Zewan, Zaffron Colony Road, Srinagar",
+      "lat": 34.0370985,
+      "lng": 74.91052359999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcQShaGSJ4TgRAS2u5c86drs",
+      "name": "Wani fuels",
+      "address": "2WP6+VFP, Zaffron Colony Road",
+      "lat": 34.0372185,
+      "lng": 74.91121509999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJo_L_nMyL4TgRvXCzjIS-YQw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 1A, Pampore",
+      "lat": 33.9974023,
+      "lng": 74.9188659,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJd5iNcA6J4TgRKY3KkvvdkEQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Khonmoh Road, Zewan, Pantha CHOWK, Srinagar",
+      "lat": 34.040301,
+      "lng": 74.911301,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXWRHbHCL4TgRO5EPUa42VCo",
+      "name": "Superb Filling Station",
+      "address": "XWH3+RMQ, khadermoh, Kakapora",
+      "lat": 33.9795935,
+      "lng": 74.9042202,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJHZ1OGLJt4TgROc1b1DScRLI",
+      "name": "IndianOil",
+      "address": "Ground Floor, Zeewan, Khunmoh, Srinagar",
+      "lat": 34.04168169999999,
+      "lng": 74.91614369999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPT-KXnqL4TgR4WRVwMN3XkU",
+      "name": "Petrol pump",
+      "address": "Patal Bag",
+      "lat": 33.979062,
+      "lng": 74.92185359999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJW3fJtmmL4TgR4wJn9c7aIJY",
+      "name": "baharat Petroleum petrol pump",
+      "address": "XWCC+426, Samboora",
+      "lat": 33.9702848,
+      "lng": 74.9200181,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJN_R3baON4TgRfRt1pxql-aM",
+      "name": "IndianOil",
+      "address": "XV3C+49, XV3C+5CF Parigam - Srinagar Road, near Dominant Ply wood, Nowgam - Pulwama Road, Pari Gam Khalsa",
+      "lat": 33.9528821,
+      "lng": 74.8710347,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJE3N0lpWL4TgR9M7zpI_1cBI",
+      "name": "Lucky Filling Station",
+      "address": "Samboora",
+      "lat": 33.9656883,
+      "lng": 74.9225234,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJGxRt5YOb4TgRmao-EXge5XA",
+      "name": "IndianOil",
+      "address": "Ground Floor, Khushpora Shaltang Road, Srinagar",
+      "lat": 34.0915145,
+      "lng": 74.7394245,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJR9E9Ljeb4TgRU8HA4tP_Fqk",
+      "name": "Bharat Petroleum, Petrol Pump -United Service Station",
+      "address": "BEMINA LHS ON BYPASS, Srinagar",
+      "lat": 34.0874961,
+      "lng": 74.7602976,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsWhaawCb4TgRuVysNWrmloM",
+      "name": "Petrol pump",
+      "address": "3QV6+J2X, Srinagar",
+      "lat": 34.0941208,
+      "lng": 74.7601071,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJxQegHPia4TgRFx7K4X_rQes",
+      "name": "BPCL - JK Filling Station",
+      "address": "near sfc fair price",
+      "lat": 34.1103641,
+      "lng": 74.7345272,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJgQ-hxa6b4TgRO1aafV7vDrA",
+      "name": "Petrol Pump",
+      "address": "Srinagar",
+      "lat": 34.10914,
+      "lng": 74.74666789999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJyZf2tV2b4TgRzux5KfMQZw8",
+      "name": "IndianOil",
+      "address": "Gulmarg Road, Baramulla",
+      "lat": 34.106266,
+      "lng": 74.753047,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8alal06a4TgRej8oDuv5hzk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Zainakote Opposite Hokersar, Srinagar",
+      "lat": 34.11263569999999,
+      "lng": 74.71793219999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJd3iy2r6a4TgR3HyRgTyVSKQ",
+      "name": "IndianOil",
+      "address": "Fruit Mandi, Srinagar",
+      "lat": 34.099228,
+      "lng": 74.762177,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDZNC-nCb4TgR0V6PumMdfmA",
+      "name": "Parimpora bus adda",
+      "address": "4Q35+PPM, Srinagar",
+      "lat": 34.10433039999999,
+      "lng": 74.75930900000002,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJJw4BYL6b4TgRTa0UzWxNUnI",
+      "name": "Gousia Petro Pump",
+      "address": "Dharmunnah",
+      "lat": 34.07619249999999,
+      "lng": 74.687084,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJA3Yfbv6b4TgRAGpSAMuCK24",
+      "name": "Bharat Petroleum Petrol Pump , SHYAM LALL & CO.",
+      "address": "CHATTABAL, Srinagar",
+      "lat": 34.095996,
+      "lng": 74.773698,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRU68cz2b4TgRyo9A53suHW4",
+      "name": "IndianOil",
+      "address": "Chathabal, Baramulla Road, Srinagar",
+      "lat": 34.091798,
+      "lng": 74.77677369999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP4l5hqqb4TgR8bxzyQIio24",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Srinagar - Sumbal Road, Srinagar",
+      "lat": 34.12311329999999,
+      "lng": 74.73312050000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwUnF8O6a4TgR0GCAxlk16yQ",
+      "name": "Valley View Service Station",
+      "address": "SHALTENG Chowk, Srinagar",
+      "lat": 34.1235169,
+      "lng": 74.7399568,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx9VzQ9CZ4TgRTmDXa_Eo8Ks",
+      "name": "fuel pump",
+      "address": "Wadwan Budgam, Near Panchayat Ghar Post Soibugh, Chatabugh Road, Srinagar",
+      "lat": 34.0758926,
+      "lng": 74.6770875,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJPw1uvQiZ4TgRyLvfGieYq2E",
+      "name": "IndianOil",
+      "address": "4M9P+R2, No L 11002, Narbal",
+      "lat": 34.11971799999999,
+      "lng": 74.685666,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUSeF0vyZ4TgRCP4n61r606Y",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor NH 1A, Baramulla - Srinagar Road, Srinagar",
+      "lat": 34.120701,
+      "lng": 74.683801,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHySXIT-Z4TgRu1XGsXuyetM",
+      "name": "Petrol Station",
+      "address": "Rd, Srinagar",
+      "lat": 34.0760359,
+      "lng": 74.6646181,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJJyrzUbKb4TgRWLaZar6C3wU",
+      "name": "Al Haseena Filling Station Mujgund Srinagar",
+      "address": "Mujgund",
+      "lat": 34.1406875,
+      "lng": 74.7051875,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPcAYBQCF4TgR3mfjS3AdUvU",
+      "name": "Bhat Gas Shop",
+      "address": "Aiwa Kadal bridge, Srinagar",
+      "lat": 34.1227734,
+      "lng": 74.7929233,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJhZ5pLACF4TgR-Uk9yNyCXLQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Khasra No 786, Eidgah, Srinagar",
+      "lat": 34.125622,
+      "lng": 74.795952,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJabFfmreb4TgRrUj2Vyebl_Q",
+      "name": "Bharat Petroleum, Petrol Pump -Jehlum Valley Filling Station",
+      "address": "Bandipora-Srinagar Road",
+      "lat": 34.1489877,
+      "lng": 74.7020928,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJufBKwRmF4TgRiBpPqYF5fV8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 11 Noushera, Srinagar",
+      "lat": 34.1204917,
+      "lng": 74.8078927,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtTS944aP4TgRTg3c1J6T_Cw",
+      "name": "IndianOil",
+      "address": "Bab E Dam, Srinagar",
+      "lat": 34.0852957,
+      "lng": 74.81950669999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJz_5VYHmF4TgRZC6piF5IKeE",
+      "name": "Rainawari Petrol Pump",
+      "address": "3RWC+5FQ, near petrol pump, Shiraz road, Srinagar",
+      "lat": 34.0954562,
+      "lng": 74.82122129999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1S1CCs2F4TgRfOo54l14Ijs",
+      "name": "Bharat Petroleum, Petrol Pump -Pamposh Filling Station",
+      "address": "RAINAWARI ON HAZARATBAL R, Srinagar",
+      "lat": 34.0934432,
+      "lng": 74.825429,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXxb-NhGF4TgRwXwPdugFou0",
+      "name": "IndianOil",
+      "address": "Zoonimar, Srinagar",
+      "lat": 34.133503,
+      "lng": 74.803856,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOymAY9CF4TgRziIRAmDSpPk",
+      "name": "IndianOil",
+      "address": "4RW2+HFW, Ganderbal Road, Srinagar",
+      "lat": 34.145115,
+      "lng": 74.80246700000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ36L2dJSF4TgRzR5_X03mcng",
+      "name": "IndianOil",
+      "address": "Ground Floor, Srinagar",
+      "lat": 34.144417,
+      "lng": 74.837616,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjTsbSyoP4TgROr9Xn0HlivY",
+      "name": "IndianOil",
+      "address": "Ground Floor, Dangerpora",
+      "lat": 34.1652816,
+      "lng": 74.68876130000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5-F4cuCd4TgR_5dMSp7Qcmo",
+      "name": "Jhelum Valley Filling Station",
+      "address": "5M8Q+G9, Wangi Pora",
+      "lat": 34.16625459999999,
+      "lng": 74.6884481,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq0B7lI-d4TgREDNdr8JpE-c",
+      "name": "Ali filling station",
+      "address": "near jehlum valley filling station, Srinagar - Sumbal Road, Dangerpora",
+      "lat": 34.1658696,
+      "lng": 74.68800279999999,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJRwXbgISf4TgRekpJ_1xPR3M",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 1D, Dangerpora Sarai, Srinagar, Bandipora Road, Doda",
+      "lat": 34.169394,
+      "lng": 74.68500499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDcEeof6f4TgRicWBJQb2e7k",
+      "name": "IndianOil",
+      "address": "Ground Floor Narainbagh, Badsari Road, Harran",
+      "lat": 34.1884371,
+      "lng": 74.6838077,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrb1_DWaD4TgRx_hiN9rLPUg",
+      "name": "Taploo Filling station",
+      "address": "5RG5+C6Q, Srinagar - Leh Highway, Srinagar",
+      "lat": 34.1767069,
+      "lng": 74.8077019,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_3CdLwmD4TgRYcNekzlpWfs",
+      "name": "Ahmed’s Filling Stat",
+      "address": "5RH5+42, Srinagar",
+      "lat": 34.17776,
+      "lng": 74.8076181,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6eNj0_eD4TgRRlvxQ_9ncyU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, 90 Feet Road, Srinagar",
+      "lat": 34.1779384,
+      "lng": 74.8075819,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJraqifwCZ4TgRyNWT3OZkctQ",
+      "name": "Indian Oil",
+      "address": "1, Chana Bal, NH44 opposite sriculture,pattan ,BaramullaJammu and Kashmir",
+      "lat": 34.1406769,
+      "lng": 74.6444348,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJb_iSqRWD4TgRN1djyfzatww",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Ganderbal, Srinagar - Ladakh Road, Srinagar",
+      "lat": 34.1979894,
+      "lng": 74.80642530000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGy55N2eE4TgR6bQtHYUmmPM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Hazratbal, Nasim Bagh, Srinagar",
+      "lat": 34.1567224,
+      "lng": 74.8338747,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJz9v5G9OF4TgR5JEzft8YZGw",
+      "name": "Kashmir filling station",
+      "address": "Batpora - Habbak Link Road, Srinagar",
+      "lat": 34.15688370000001,
+      "lng": 74.8416818,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_emnT5WD4TgReedTPjPgI_g",
+      "name": "Bharat Petroleum, Petrol Pump -Bhat Motors",
+      "address": "VILLAGE DARAND",
+      "lat": 34.2054618,
+      "lng": 74.79739119999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKyWWpiWD4TgRV5m8LqS9u58",
+      "name": "IndianOil",
+      "address": "Ground Floor, Soura Road, Ganderbal",
+      "lat": 34.207469,
+      "lng": 74.794185,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbW2XMxyD4TgRav1fJShdMmY",
+      "name": "Shaheed Showket Filling Station",
+      "address": "Srinagar",
+      "lat": 34.2075577,
+      "lng": 74.7938875,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJi3uf5Z-D4TgR-qUH4x9iIZc",
+      "name": "Mughal 1",
+      "address": "135 Road, Ganderbal",
+      "lat": 34.2077438,
+      "lng": 74.7936914,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJy_Eo8iWD4TgR1m6Qe-f3KAo",
+      "name": "IndianOil",
+      "address": "Ground Floor, Ganderbal,Rajbagh, Srinagar",
+      "lat": 34.208764,
+      "lng": 74.79290499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMSBUZEiD4TgRjZZBNdvvNXY",
+      "name": "IndianOil",
+      "address": "Ground Floor, Leh Road, Srinagar",
+      "lat": 34.2102011,
+      "lng": 74.7871055,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL3-QeQCF4TgRr6BU-hT25u0",
+      "name": "Petrol pump",
+      "address": "5VJ9+CMF, Chaterhama Batapora Road, Chatterhama",
+      "lat": 34.1810718,
+      "lng": 74.86915909999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJcwCsc-Gd4TgRtfb-m7XHbYc",
+      "name": "Malashahibagh",
+      "address": "6Q8C+JRJ, Ganderbal",
+      "lat": 34.2165813,
+      "lng": 74.7720083,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJv15rW8aH4TgRqGIKsOswk5M",
+      "name": "GH Hassan gas refilling and repair shop",
+      "address": "5W83+7M, Said Pora Bala",
+      "lat": 34.1656252,
+      "lng": 74.904242,
+      "open_now": null
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "city": "Guna",
+  "state": "Madhya Pradesh",
+  "count": 11,
+  "center": {
+    "lat": 24.6333,
+    "lng": 78.1833
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJRdAxCWiEeTkRbS1bfRw5px0",
+      "name": "IndianOil",
+      "address": "Ground Floor, Mungaoli, Achalgarh, Ashok Nagar, Mungaoli",
+      "lat": 24.544555,
+      "lng": 78.053389,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJa8DKT0iDeTkRV28E3XxC1vA",
+      "name": "K K and Sons Nayara",
+      "address": "G432+RR6, Dhimcholi",
+      "lat": 24.5045351,
+      "lng": 78.10203059999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJSdaf-cWYeTkRfUJQEXqdF8g",
+      "name": "JPC Jakhlaun Pump Canal",
+      "address": "H727+7MF, Bandarguda, Jakhlaun",
+      "lat": 24.5506802,
+      "lng": 78.2641661,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDafg4ziieTkRKEQKEGhE0HI",
+      "name": "IndianOil",
+      "address": "Ground Floor, Jakhlaun",
+      "lat": 24.563957,
+      "lng": 78.32341799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQ-eYRwCjeTkRVdVDkZjldro",
+      "name": "मेहर बाबा फिलिंग स्टेशन (पेट्रोल पंप जाखलौन)",
+      "address": "H82H+7GP, Jakhalon",
+      "lat": 24.5507145,
+      "lng": 78.3288338,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8fsQAkmPeTkRaawQbCOVOaY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Patwari Halka, Chanderi",
+      "lat": 24.700454,
+      "lng": 78.097464,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJESGPG_OReTkRGaTA35Qceho",
+      "name": "IndianOil",
+      "address": "Ground Floor, Chanderi",
+      "lat": 24.7069001,
+      "lng": 78.13180009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOSaik3yTeTkRSa7a12c4bt8",
+      "name": "Bharat Petroleum, Petrol Pump -Pragati Fuel Point",
+      "address": "CHANDERI TOWN, ASHOKNAGAR",
+      "lat": 24.7211148,
+      "lng": 78.1378331,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqUT8p6iVeTkReFJcQhS_JKM",
+      "name": "BPCL , Petrol Pump,Rajghat,Lalitpur,Uttar Pradesh",
+      "address": "Rajghat bypass, Lalitpur",
+      "lat": 24.7663398,
+      "lng": 78.2589106,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfcIZt_iUeTkRDrnT8XV8zBg",
+      "name": "IndianOil",
+      "address": "Ground Floor, Rajghat, Deori",
+      "lat": 24.772017,
+      "lng": 78.2414998,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJc4gmRFeVeTkRhZRAi3EDN7E",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gata No 23, 5 Shivpura, near Rajghat Dam, Lalitpur",
+      "lat": 24.774249,
+      "lng": 78.2426907,
+      "open_now": true
+    }
+  ]
+}

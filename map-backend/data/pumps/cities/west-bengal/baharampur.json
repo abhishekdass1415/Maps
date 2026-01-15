@@ -1,0 +1,547 @@
+{
+  "city": "Baharampur",
+  "state": "West Bengal",
+  "count": 67,
+  "center": {
+    "lat": 24.15,
+    "lng": 88.2833
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJR1_wTtF9-TkRjCl-J7wb7QU",
+      "name": "P L Mukherjee (Bharat Petroleum)",
+      "address": "37V2+8HJ, Gora Bazar, Berhampore",
+      "lat": 24.0933453,
+      "lng": 88.2514039,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsZM4u9p9-TkRjbEkRoCKLfI",
+      "name": "M/S RAM KANAI DHAR",
+      "address": "H.P. Petrol Pump 22, K.N. Road West Bengal, Durgapur",
+      "lat": 24.0986815,
+      "lng": 88.2562773,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH-LtM0p8-TkR0dCCV5v3oA8",
+      "name": "Chuanpur Mayarani Petrol Pump (Bharat Petroleum)",
+      "address": "37J9+M4R, Talbagan, Chuapur, Berhampore",
+      "lat": 24.081731,
+      "lng": 88.26777039999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9VNooUl8-TkRfLZWusOEBOo",
+      "name": "IndianOil",
+      "address": "Lock No 22016/93040, Berhampore",
+      "lat": 24.0788545,
+      "lng": 88.2680068,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcR3-0P59-TkRidW97WwohFk",
+      "name": "IndianOil",
+      "address": "Ground Floor, Daihatta Road, Saidabad, Berhampore",
+      "lat": 24.130335,
+      "lng": 88.250427,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm9maiqt_-TkRlGX12xJT3uM",
+      "name": "HP PETROL PUMP - AGAMANANDA SINHA",
+      "address": "H.P. Petrol Pump 25, K.N. Road DT, Berhampore",
+      "lat": 24.091783,
+      "lng": 88.203617,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkXTESIF_-TkRlSNizeVw3m4",
+      "name": "City Fillling Station (Bharat Petroleum)",
+      "address": "SH11, Khagraghat Station Road, Khagraghat, Berhampore",
+      "lat": 24.1001014,
+      "lng": 88.21504589999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAQDAkZ5_-TkRcv71L2YUJaA",
+      "name": "Tirupati Service Station",
+      "address": "near Bagdogra Airport, Nh31, Rupsing, near Bagdogra Airport, Siliguri",
+      "lat": 24.089448,
+      "lng": 88.1836309,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtQ5VQm5--TkR__cNAcw-Ddg",
+      "name": "Indian Oil",
+      "address": "Lock No 11004, 93692, NH 34, Radarghat B, Sahazadpur, Berhampore",
+      "lat": 24.1023383,
+      "lng": 88.23478879999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ532oOWx--TkRt6NTPB5MRsw",
+      "name": "IndianOil",
+      "address": "Lock 11014/93692, National Highway 12, Radarghat, Murshidabad",
+      "lat": 24.1054126,
+      "lng": 88.23322499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJX6iJ5mx--TkRxj7takTXVKE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near 202 KM Stone, NH 34, Radharghat, Murshidabad",
+      "lat": 24.1080472,
+      "lng": 88.2333949,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtRWDHUjN-zkRZwn2TgaH9Rk",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bairgachhi, Murshidabad",
+      "lat": 24.0489802,
+      "lng": 88.2396636,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkZ8zQOF9-TkRHjwZ-pvcX-A",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "beside Bllro, 22, KN Road, Berhampore",
+      "lat": 24.099161,
+      "lng": 88.255021,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM6iMltx9-TkRlFcvSYx0jgg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "25, KN Road, Berhampore",
+      "lat": 24.0986533,
+      "lng": 88.2562166,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfXpAa4GB-TkRGr_I-UJYlZQ",
+      "name": "Petrol Pump",
+      "address": "35J7+8XG, Jibanti",
+      "lat": 24.0808125,
+      "lng": 88.1649375,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJe-QzQAB_-TkRDVHSgJX5Dvs",
+      "name": "Reliance Jio BP Petrol Pump",
+      "address": "46H7+47R, Mehendipur, Berhampore",
+      "lat": 24.127869,
+      "lng": 88.2131328,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJtwhhkSF--TkRgXiPPwbjZTM",
+      "name": "সাহল বালয়",
+      "address": "India",
+      "lat": 24.1287377,
+      "lng": 88.225111,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJKeDt1TR9-TkRn5wTfXSxZxU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Bishnupur, Berhampore",
+      "lat": 24.1011031,
+      "lng": 88.2647341,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXQy5zv97-TkRNE22RRxXZkE",
+      "name": "IndianOil",
+      "address": "Lock No 13015/93429 NH 34, Mankara, Balarampur",
+      "lat": 24.0361521,
+      "lng": 88.24715479999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdTB_z-x5-TkRZ4bP0_a6OgI",
+      "name": "Shivdurga service station Karnasubarna Bharat petrol pump",
+      "address": "Jadupur, Rangamati Chandpara",
+      "lat": 24.0289207,
+      "lng": 88.1940644,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJB0_5RH19-TkRFiigSptePsg",
+      "name": "IndianOil",
+      "address": "Ground Floor, Panchanantala, Banjetia, Berhampore",
+      "lat": 24.097044,
+      "lng": 88.2724056,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5T0O6sx5-TkR_GjXc7dgzKo",
+      "name": "NIFAJULSK",
+      "address": "Rangamati",
+      "lat": 24.0233674,
+      "lng": 88.1895354,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ73YCNf17-TkR4iLjeRgi2J8",
+      "name": "Jio-bp",
+      "address": "Dag No Rs49/179, Jl No 64 Touzi 16, Mankara, Berhampore, Sargachi, Berhampore",
+      "lat": 24.0271201,
+      "lng": 88.247599,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQe5vBJB9-TkRuXnt9jXB330",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 64/4A, Karbala Road, Berhampore",
+      "lat": 24.110175,
+      "lng": 88.2722501,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZdJWyet9-TkReR6wuMoVy38",
+      "name": "কেদার মাহাতো লেন।",
+      "address": "34/8/J, Mohon Roy Para, Berhampore",
+      "lat": 24.1261288,
+      "lng": 88.258211,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJs6zAfHp9-TkRaGvhFfftqe4",
+      "name": "Reliance Petroleum",
+      "address": "DAG NO RS-49/179, JL NO 64, TOUZI 16, SARGACHI, MURSHIDABAD DURGAPUR West Bengal 742101 IN, Baharampur, Mankara",
+      "lat": 24.1031886,
+      "lng": 88.27702680000002,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ60tw8F58-TkRinLuZRNz8jY",
+      "name": "IndianOil",
+      "address": "Ground Floor Tarakpur, Berhampore - Amtala Road, Gaznipur",
+      "lat": 24.0666126,
+      "lng": 88.28191799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJD809pDp5-TkR3zm2k3uQSOI",
+      "name": "petrol pumps",
+      "address": "Rangamati Chandpara",
+      "lat": 24.01842839999999,
+      "lng": 88.18944770000002,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ1fUEqAh5-TkRDIlcg2sZk8g",
+      "name": "SAHABUL SK",
+      "address": "12, Rangamati Chandpara",
+      "lat": 24.0179592,
+      "lng": 88.1893668,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJE8pyi915-TkRnY5lEtoaxrI",
+      "name": "Ismail Sk",
+      "address": "Ranga Mati, Chand Para, CHANDPARA",
+      "lat": 24.0176596,
+      "lng": 88.18985459999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ39Z6Oe_V-zkRO6QI46cnw0Y",
+      "name": "⛽ (HP)GHOSH REFILLING STATION .⛽ HP PUMP⛽",
+      "address": "Ground Floor, Chainage 206KM, NH 34, Nabagram, Mukundapur",
+      "lat": 24.1461833,
+      "lng": 88.19142400000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg5CGfgB5-TkRXZcZ8TFxhlk",
+      "name": "BPCL Shiv Durga service station",
+      "address": "258M+6F7, Karnasubarna, Rangamati Chandpara",
+      "lat": 24.015549,
+      "lng": 88.18368679999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJx0jHcbJ9-TkRhM_SoCs1bKk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Plot No 4148, Berhampore - Amtala Road, Kharsadanga",
+      "lat": 24.064346,
+      "lng": 88.28955599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqZMPNPd9-TkRK4cBmO1NylI",
+      "name": "MANDOL FILLING STATION 2",
+      "address": "Between kumardaha, ghat and katabagan, Berhampore",
+      "lat": 24.0631524,
+      "lng": 88.30890079999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH6Pq_OJ9-TkRvOI7KxRf7j8",
+      "name": "HP Petrol Pump Maa filing station",
+      "address": "48G6+CPG, State Highway 11, Janmahammadpur",
+      "lat": 24.1260597,
+      "lng": 88.3115327,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJubndJ7t9-TkRDjWLLscUB98",
+      "name": "IndianOil",
+      "address": "Plot No 1905, Banjetia, Janmahammadpur",
+      "lat": 24.125263,
+      "lng": 88.31727900000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtxmLXQBj-TkRok6jh3jBeQM",
+      "name": "IndianOil",
+      "address": "Primary Hospital, Ground Floor Baharan, Baruipara, Hariharpara near, Near, Baruipara",
+      "lat": 24.0509305,
+      "lng": 88.3573025,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgQ9g5oRh-TkRsMMxHTFM5_g",
+      "name": "Inline Filling Station",
+      "address": "Murshidabad, Indian Oil Retail Outlet Kismat Imadpur,Baharan, Hariharpara",
+      "lat": 24.0509246,
+      "lng": 88.3573119,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0VOcmW5j-TkRpWyLqtgrSAM",
+      "name": "Bharat Petroleum Filling Station - Hariharpara",
+      "address": "2CX2+V27, Berhampore - Amtala Road, Miyarbagan",
+      "lat": 24.0496697,
+      "lng": 88.40004990000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJtyoG8IDY-zkR0v6vgcvnzuQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, B, Durlavpur, Kuluberia, Daulatabad",
+      "lat": 24.1389254,
+      "lng": 88.3645958,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJp_3JHABh-TkR_giPHKc8vko",
+      "name": "Indian Oil Fuel Station - Hariharpara",
+      "address": "2CW8+62C, Hariharpara",
+      "lat": 24.045641,
+      "lng": 88.41530259999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpQ4Sc0xh-TkRebgGLWKHxg0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Hariharpara",
+      "lat": 24.044851,
+      "lng": 88.41568099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-9zoFZnY-zkRmHVKyQiXEsY",
+      "name": "IndianOil",
+      "address": "Ground Floor Daultabad, B, Durlavpur",
+      "lat": 24.142799,
+      "lng": 88.378783,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrQOLNEHW-zkRCmh3H3i6Azo",
+      "name": "IndianOil",
+      "address": "Ground Floor Sahamatganj, Murshidabad",
+      "lat": 24.162277,
+      "lng": 88.27053099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRciLnMOB-TkR-2OIbNph018",
+      "name": "IndianOil",
+      "address": "Lock No 21004, 93429, Gopgram",
+      "lat": 24.1513688,
+      "lng": 88.1845145,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ0sTCGXV-zkR6jWZA0E3UK4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Lalbagh - Palsanda Road, Nabagram, Murshidabad",
+      "lat": 24.1815877,
+      "lng": 88.203625,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgTLrQMLV-zkRzMdSA5kZgI4",
+      "name": "Farhana Petrol Pump",
+      "address": "Farhana Petrol Pump, Azimganj Road",
+      "lat": 24.1990629,
+      "lng": 88.2426193,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJYRh8kJXX-zkRD4rC9vA0R-M",
+      "name": "Ajit Store",
+      "address": "Murshidabad Station Road, 57Hf, Lalbagh, Murshidabad",
+      "lat": 24.1662857,
+      "lng": 88.275183,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJA468AADX-zkRFDl3KV2IoX0",
+      "name": "Khadija Filling station",
+      "address": "57GJ+937",
+      "lat": 24.17590390000001,
+      "lng": 88.2801785,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ83g19fbX-zkRAr4IviwatGg",
+      "name": "IndianOil",
+      "address": "Indian Oil Petrol/Diesel R.O, SH - 11, Hamdampur, Pilkhana, Murshidabad",
+      "lat": 24.1565625,
+      "lng": 88.2929375,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjRnXFQDX-zkRiQb9DVIsqb8",
+      "name": "Salam Mahajan Filling Station সালাম মহাজন ফিলিং স্টেশন",
+      "address": "579Q+MQP, Murshidabad",
+      "lat": 24.16921250000001,
+      "lng": 88.2894531,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1ddtZRHX-zkR7s9WHnzue3E",
+      "name": "BPCL Petrol Pump",
+      "address": "57WM+4WF, Ransagar",
+      "lat": 24.19531199999999,
+      "lng": 88.28478799999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJU6eFAwDf-zkRixa54jqnm0w",
+      "name": "Chhaighari filling station nayara energy petrol pump",
+      "address": "5C2C+84M, Chhayghari",
+      "lat": 24.1504149,
+      "lng": 88.4206967,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ1VuzKADT-zkRLDMdwVmljrw",
+      "name": "Khadija Filling station",
+      "address": "66HW+JC5",
+      "lat": 24.2290007,
+      "lng": 88.24611829999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJyXCB38_X-zkRr07i6aQUgNU",
+      "name": "IndianOil",
+      "address": "Ground Floor, Azimganj",
+      "lat": 24.219981,
+      "lng": 88.2517278,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBY6SHQDX-zkRNVsFtYVJO3I",
+      "name": "S K SUPER FUELS Indian Oil Petrol Pump",
+      "address": "Welcome Gate, near Jiaganj, Jiaganj Azimganj",
+      "lat": 24.2221305,
+      "lng": 88.2686672,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ0fERwDT-zkRvRQOjsn1_-I",
+      "name": "INDANE GAS SERVIE CENTER",
+      "address": "76M3+7VQ, Unnamed Road, Patkeldanga",
+      "lat": 24.2832258,
+      "lng": 88.2047047,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJAwFGKADX-zkRkxlTL5XD1SQ",
+      "name": "Mohima Service Station BPCL",
+      "address": "67GP+53, Noada",
+      "lat": 24.2254146,
+      "lng": 88.2851628,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBzN8D9bQ-zkRy1awH0X0w_8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Amaipara, Jiaganj",
+      "lat": 24.235201,
+      "lng": 88.285501,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFxxw6CfR-zkRpurzDE3BntU",
+      "name": "IndianOil",
+      "address": "Ground Floor Baghdahar, Amuipara, Dalelpara, Jiaganj",
+      "lat": 24.242211,
+      "lng": 88.284166,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQ6ePbBkr-jkRjLlwBJd8xqQ",
+      "name": "Palsanda Petrol Pump",
+      "address": "Palsanda",
+      "lat": 24.1884375,
+      "lng": 88.1450625,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJd9OScGDR-zkRW97v0VenB1Q",
+      "name": "Basir Pumps",
+      "address": "Amaipara Road, Balarampur",
+      "lat": 24.251332,
+      "lng": 88.2994775,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJax_eGnDb-zkRs66XsBMmKO0",
+      "name": "Kajem Ali",
+      "address": "Kolan, Radhakantapur",
+      "lat": 24.2529233,
+      "lng": 88.3304117,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJd4fxXWXb-zkRjoCETHD53TU",
+      "name": "Rocky Filling Station",
+      "address": "dakhsin sohar, Chhatai",
+      "lat": 24.238648,
+      "lng": 88.395428,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ6dRRIWPd-zkRarrxLYenN-Q",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Dakshin Sahar, Ranitala",
+      "lat": 24.242367,
+      "lng": 88.403139,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrdllCKHb-zkR9Govi2LQOM4",
+      "name": "আলাল গ্যাস ঘর(HP Gas)",
+      "address": "79F9+382, Jibanpur",
+      "lat": 24.2729781,
+      "lng": 88.3680321,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJqR4XDgDd-zkRy6g8klxSH_E",
+      "name": "Sohel Riya",
+      "address": "6CR8+C7P, Gopinathpur",
+      "lat": 24.2409299,
+      "lng": 88.415645,
+      "open_now": null
+    }
+  ]
+}

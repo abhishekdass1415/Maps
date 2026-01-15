@@ -1,0 +1,979 @@
+{
+  "city": "Bharuch",
+  "state": "Gujarat",
+  "count": 121,
+  "center": {
+    "lat": 21.7,
+    "lng": 72.9833
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJOclGOwAl4DsRTQyIpN0sxKE",
+      "name": "Nayara Energy Ltd",
+      "address": "JWCC+M55, GJ SH 6, Sarthan",
+      "lat": 21.62128,
+      "lng": 72.91967,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5UhdQwAl4DsRw0vEkce1MvM",
+      "name": "NAYARA-Matangi Petroleum",
+      "address": "Survey No. 902/1, Paikee 2, Ankleshwar - Hansot Road, At:, Sajod",
+      "lat": 21.6211879,
+      "lng": 72.91980269999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmbuxfuAl4DsRpsV1qkBnGNk",
+      "name": "Gujarat Gas CNG Pump",
+      "address": "JWCC+VRX, Bharuch",
+      "lat": 21.6222346,
+      "lng": 72.9221177,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWQ8BpYsl4DsRyR-TjqkeTTc",
+      "name": "GGS 3",
+      "address": "HWRQ+8G6, Unnamed Road, Adol",
+      "lat": 21.59079599999999,
+      "lng": 72.93877789999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJLV9oGyAn4DsRJlE4rT0RLL0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 298/2, opposite Kadakia Vidhya Gram, NH 64, Ankleshwar - Hansot Road, Ankleshwar",
+      "lat": 21.632513,
+      "lng": 72.96315799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeX0FkE4l4DsRLiS7mXZrbUQ",
+      "name": "CISF Unit ONGC",
+      "address": "Amboli Road, Boidara, Ankleshwar",
+      "lat": 21.6217622,
+      "lng": 72.9713395,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJSawhjYkl4DsRM-ZO00BmdPY",
+      "name": "Ankelshwar GGS4",
+      "address": "HXWC+MJ5, Unnamed Road, Piraman",
+      "lat": 21.5966316,
+      "lng": 72.9716038,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJIybtBwAn4DsR_Xa8UvA6O9k",
+      "name": "Goonj petrolium",
+      "address": "38/1/25, NH64, Modinagar Society, Bhangvad, Ankleshwar",
+      "lat": 21.63505899999999,
+      "lng": 72.9843415,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ7RtlbwAn4DsRZm6HXnQug9Y",
+      "name": "URIYA PUMP(युरिया पम्प)DEF",
+      "address": "MWX5+J5H, Dashan",
+      "lat": 21.6990745,
+      "lng": 72.9079751,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJk5ecCuop4DsRA-sCdGkNf1U",
+      "name": "IndianOil",
+      "address": "Ground Floor Block No 379, Hinglot",
+      "lat": 21.6995192,
+      "lng": 72.90694180000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWzlyF4Ep4DsRZz7iyP5Ow9c",
+      "name": "AMAFHH ENTERPRISE ( bio diesel)",
+      "address": "MVXX+WPX, Hinglot",
+      "lat": 21.6998535,
+      "lng": 72.89936999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4QMy8O0j4DsRlDQME77VBIk",
+      "name": "Bharat Petroleum",
+      "address": "near CNG Petrol Pump & Shalimar Hotel, Ankleshwar - Valia Road, GIDC, Ankleshwar",
+      "lat": 21.6154018,
+      "lng": 73.00579739999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9-VY_Vch4DsRx4xnS4iOzlQ",
+      "name": "Indian Oil",
+      "address": "beside Bus Depot, Plot No. C/5/12, Ankleshwar - Valia Road, Chokdi, Ankleshwar",
+      "lat": 21.6197052,
+      "lng": 73.00295059999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJE73FXP4j4DsRFGp6TsB7zeA",
+      "name": "IndianOil",
+      "address": "S No 557/83, Ankleshwar",
+      "lat": 21.63060699999999,
+      "lng": 72.99747099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMxlN6Kom4DsRn_YxqPMaiio",
+      "name": "IndianOil",
+      "address": "Survey No 2691, Ankleshwar",
+      "lat": 21.634103,
+      "lng": 72.991702,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7YFImHwh4DsRzE_fGR4CNRM",
+      "name": "IndianOil",
+      "address": "Survey No 21/3, P NH 8, Pipaldahad, Gadkhol Patiya, Ankleshwar",
+      "lat": 21.643489,
+      "lng": 73.0150864,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfzT1M4Yj4DsRdUW27KAijos",
+      "name": "IndianOil",
+      "address": "No 245, NH 8, Bhadkodra, Ankleshwar",
+      "lat": 21.5969,
+      "lng": 72.9966,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRVeqXnsh4DsRjhlnqYILs7c",
+      "name": "Essar Petrol Pump",
+      "address": "National Highway 48, Nr, Rajpipla Road, Hifazat Nagar, Ankleshwar",
+      "lat": 21.6422159,
+      "lng": 73.0298406,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJrfLQiTUn4DsRNXrFsTACzsU",
+      "name": "Supreme Gas Service",
+      "address": "Navdeep Complex, opp. Dr. Yusuf Plot, 4, Panchbatti St. Rd, Moti Doongri, Bharuch",
+      "lat": 21.6996012,
+      "lng": 72.98557699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLZ6QbQIj4DsRlAO0Ke8JLmw",
+      "name": "IndianOil",
+      "address": "GJ SH 13, Near silver park society, Kosamdi",
+      "lat": 21.5835009,
+      "lng": 73.03972720000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ02lX6e0j4DsR6ZJmETFBPQA",
+      "name": "Gujarat Gas CNG Station",
+      "address": "J284+2FR, Ankleshwar - Valia Road, Near Hotel Shalimar, Opp.Jayaben Modi Hospital, GIDC, Ankleshwar GIDC, Ankleshwar",
+      "lat": 21.6151128,
+      "lng": 73.0061506,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJXna10Qh4DsRE7CP_OjRfKI",
+      "name": "Gujarat Gas CNG Station",
+      "address": "Bharuch Road, Gadkhol Patiya, Ankleshwar",
+      "lat": 21.645955,
+      "lng": 73.00807689999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJebsQ1P8j4DsRdTqNinLujcs",
+      "name": "Dev Service Station",
+      "address": "GEB, Piraman Naka Navi Nagri, Rod, Ankleshwar",
+      "lat": 21.6314597,
+      "lng": 72.99357909999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ54BIn-Mj4DsRaCNgX7RaFMs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Plot No 2/73, Happy Nagar, Ankleshwar",
+      "lat": 21.6314664,
+      "lng": 72.9943382,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgXLeV_0j4DsRFFpR-KwK6z4",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 8, Ankleshwar",
+      "lat": 21.633474,
+      "lng": 73.00443,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZXtSVvAj4DsRX7pNIxu9UVg",
+      "name": "પહેલ મોર્ટસ",
+      "address": "India",
+      "lat": 21.6193061,
+      "lng": 73.0022942,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJUQtOyS4h4DsRh0Y-wTfJsOI",
+      "name": "IndianOil",
+      "address": "228, National Highway, Old, Ramnagar, Ankleshwar",
+      "lat": 21.6365395,
+      "lng": 73.0048984,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJt0YrlZYh4DsRWsMCwIOPKOc",
+      "name": "Nayara Petrol Pump - Maa Petroleum",
+      "address": "ONGC Entrance Road, Gadkhol Part, ONGC Township, Ankleshwar",
+      "lat": 21.6348136,
+      "lng": 73.01319339999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvZA36Tgh4DsRp70VT442ewA",
+      "name": "Bharat Petroleum, Petrol Pump -Mahima Petroleum",
+      "address": "GADHKOL, ANKLESHWAR, Bharuch",
+      "lat": 21.6462214,
+      "lng": 73.0081472,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvRWLpt8j4DsRoT5TIkkAszA",
+      "name": "Bharat Petroleum, Petrol Pump -G.M Desai & Co",
+      "address": "J2G7+WMJ, Gadkhol Part, Ankleshwar",
+      "lat": 21.62751789999999,
+      "lng": 73.0138315,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQ--TYd8j4DsRHcv45cdITq8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 48, Station Road, Ankleshwar",
+      "lat": 21.6350801,
+      "lng": 73.0209701,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpenubwAj4DsRQU5EweALc_0",
+      "name": "Petrol pump Bpcl Amit Ind Petroleum",
+      "address": "navsarjan bank, near Miranda tools, Ankleshwar GIDC, Ankleshwar",
+      "lat": 21.611494,
+      "lng": 73.0179962,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUSqhrJIj4DsRtS8Ez0REBBs",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 48, Bharuch, Kapodra, Ankleshwar",
+      "lat": 21.5950725,
+      "lng": 72.9971917,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRxRrCtgj4DsRbfZfQf6XwsM",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Rajpipla Chokdi, Rajpipla Road, Ankleshwar",
+      "lat": 21.635767,
+      "lng": 73.027519,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJA8gROuEh4DsRue4seVqUs4k",
+      "name": "OMKRUPA GAS CENTER",
+      "address": "Ankleshwar Road, Gadkhol Part, Parshwanath Society, Andada",
+      "lat": 21.65389889999999,
+      "lng": 73.0207281,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8x7l5WIj4DsRZ-LK6h16o08",
+      "name": "Reliance Petroleum",
+      "address": "212, VILL.KAPODARA, RELIANCE RETAIL OUTLET, NR.CHAINAGE, opp. PANOLI, PLOT NO 204/205, ON NH #8, INDUSTRIAL AREA, Ankleshwar",
+      "lat": 21.5867187,
+      "lng": 72.99685819999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSSBknHwh4DsRvkkG5vExXuI",
+      "name": "Nayara Energy Ltd. - Rutain Petroleum",
+      "address": "GIDC, Ankleshwar",
+      "lat": 21.6443077,
+      "lng": 73.03527009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy8psfRgj4DsRmi4F8YJZO9U",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Ankleshwar",
+      "lat": 21.5956431,
+      "lng": 73.0248601,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbZuHX3gh4DsRqYw5JKZSGPo",
+      "name": "IndianOil",
+      "address": "Ground Floor Sarangpur, NH 8, Motali, Ankleshwar",
+      "lat": 21.645493,
+      "lng": 73.039022,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ64Dqj3wj4DsRlFcJqt3JHL8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Panoli, NH 8, Bakrol",
+      "lat": 21.5773901,
+      "lng": 72.9987301,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ13jvg4Ih4DsRjm0Ph3qq9rk",
+      "name": "Bharat Petroleum Pump Giriraj petroleum",
+      "address": "NH 48, Motali",
+      "lat": 21.646804,
+      "lng": 73.0403594,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe8kfAaoh4DsR7nVxDI8ILUc",
+      "name": "Shree Shakti Petroleum",
+      "address": "Bharuch surat road, National Highway 48, Motali",
+      "lat": 21.6462161,
+      "lng": 73.0408812,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6_ouIgAj4DsRD1m0fT3MQxk",
+      "name": "Garden City Petrol Pump",
+      "address": "H2XR+6QR, Garden City",
+      "lat": 21.598103,
+      "lng": 73.04187630000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJExDupjcn4DsR4p5_brflWIs",
+      "name": "IndianOil",
+      "address": "Ground Floor, Mahatma Gandhi Road, Bharuch",
+      "lat": 21.697805,
+      "lng": 72.983493,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnwxmnQ0n4DsRAD9WM8n4ZLg",
+      "name": "Nayara Petrol Pump - Aquib Petroleum",
+      "address": "Bharuch - Dahej Road, Bharuch",
+      "lat": 21.6946734,
+      "lng": 72.95720779999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ31YYHdIn4DsRBgnfeNE1ppg",
+      "name": "Bharat Petroleum Petrol Pump , DYNAMIC FUELS",
+      "address": "SURVEY NO 305 2 3BHARUCH DAHEJ ROAD DEHGAM, Bharuch",
+      "lat": 21.6948113,
+      "lng": 72.9561549,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCWRg7sYn4DsRAJrQNm4ig4U",
+      "name": "Bharat Petroleum, Petrol & CNG Pump -Intwala Petroleum",
+      "address": "BHARUCH CITY, VEJALPUR, Bharuch",
+      "lat": 21.6983773,
+      "lng": 72.96951469999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXZLlpBIn4DsR0ZTXn_V6T2k",
+      "name": "ESSAR",
+      "address": "India",
+      "lat": 21.697396,
+      "lng": 72.9585726,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJDVvYfzUn4DsR9jyarDokt9w",
+      "name": "IndianOil",
+      "address": "Ground Floor, Railway Station Road, Bharuch",
+      "lat": 21.701178,
+      "lng": 72.990479,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZTN1TAAn4DsR-QEYBNvBS2U",
+      "name": "Cng station",
+      "address": "Shivam Chambers, beside Indian Oil Petrol Pump, nr. Big Bazar, 4, Old Town, Bharuch",
+      "lat": 21.7012704,
+      "lng": 72.9904798,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJaxn_rGAh4DsR5TjY8DgxAlE",
+      "name": "Bharat Petroleum Petrol Pump , SAI SERVICES",
+      "address": "VILLAGE UCHHALI (SUREVY NO. 21/P)SH-64",
+      "lat": 21.6405552,
+      "lng": 73.0717131,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJi5M2KYIj4DsR6WjjJZKiQw8",
+      "name": "Nayara Petrol Pump - Madhav Petroleum",
+      "address": "Survey no. 271, Village: Kararvel, Ankleshwar",
+      "lat": 21.6340891,
+      "lng": 73.0748121,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlfGckTwh4DsRmMfLN0xC0Q4",
+      "name": "GUMANDEV PETROLEUM",
+      "address": "SURVEY NO. 247, STATE HIGHWAY 64, Uchhali",
+      "lat": 21.6436942,
+      "lng": 73.07191820000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1W_bowUh4DsR7sUGK4zGoJI",
+      "name": "Bharat Petroleum, Petrol Pump -Lakshmi Fuel Station",
+      "address": "AMRITPURA, National Highway 48, Bharuch",
+      "lat": 21.6589955,
+      "lng": 73.06016509999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBenV7BMh4DsRdpk9GcAtEjM",
+      "name": "Adarsh Fire Safety & PUC",
+      "address": "At Hotel Highway Compound, near Bharuch Toll plaza, NH-8, Po, Mandvabuzarg",
+      "lat": 21.6702272,
+      "lng": 73.0650126,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDdL2UOUi4DsRrfTkT0kaHio",
+      "name": "CNG Gas Online pump",
+      "address": "H3J2+2PF, Bharuch",
+      "lat": 21.5800558,
+      "lng": 73.0518025,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlVzLfkoj4DsR-l_SEiW-Xa8",
+      "name": "BPCL Petrolpump - Shree Vindeshwari Petroleum",
+      "address": "Ankleshwar - Burhanpur Highway, Kondh",
+      "lat": 21.58003339999999,
+      "lng": 73.0630204,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJk3OKioQh4DsRm8NT5Krayc4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 145, B/2 SH 165, Jhagadia, Mulad",
+      "lat": 21.68459199999999,
+      "lng": 73.072831,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJSXveNAZ4DsR6JQloiWfy00",
+      "name": "IndianOil",
+      "address": "Survey No 70, Old Survey No 175/A Dadheda, Jhagadia, Ambos",
+      "lat": 21.6410981,
+      "lng": 73.1179559,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3StNvv4Z4DsRdqAlpc1O_0s",
+      "name": "IndianOil",
+      "address": "Survey No 132, Avadhar, Ankleshwar",
+      "lat": 21.624991,
+      "lng": 73.120541,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC3J89_Mp4DsRUIPCnNR8C0o",
+      "name": "Petrol Pump",
+      "address": "556, Bharuch - Dahej Road, Hinglot",
+      "lat": 21.7027942,
+      "lng": 72.8914892,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJNTEEuRso4DsR_wGynowhRs0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "RS No 82, SH 6, Vesdada",
+      "lat": 21.705228,
+      "lng": 72.882781,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4wA3RfAp4DsRCWS3LHqjqzI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "S No 160, SH 6, Bharuch - Dahej Road, Vesadara, Bharuch",
+      "lat": 21.707915,
+      "lng": 72.864312,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJk2X3NSYo4DsR-d1y9DwSjEE",
+      "name": "HP Petrol Pump - Coco VesaDada",
+      "address": "Hpcl Petrol Pump Village Vesadara SH6",
+      "lat": 21.7080335,
+      "lng": 72.8643084,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJt2CklUsp4DsRo-YCLU_VK2g",
+      "name": "AK FUELS BPCL",
+      "address": "Ak Fuel, near Hotel indian Bhuva, Bharuch - Dahej Road, Bharuch",
+      "lat": 21.7074835,
+      "lng": 72.857895,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgRQSiiko4DsRGMCnmJr-UEg",
+      "name": "IndianOil",
+      "address": "Survey No 88, Argama, Bhuva",
+      "lat": 21.7084485,
+      "lng": 72.85759019999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJI-oNRl0n4DsRi5J4TH4DIDU",
+      "name": "IndianOil",
+      "address": "PX6C+H8X, Survey No 136/1136/2 & 136/3, Plot No 34 to 36, Dahej Bypass Road, Sherpura, Bharuch",
+      "lat": 21.711451,
+      "lng": 72.97093199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy0Q661qIXzkRVhvrtfupKZ4",
+      "name": "IndianOil",
+      "address": "Jambusar - Bharuch Road, at post, Derol",
+      "lat": 21.7542993,
+      "lng": 72.9329664,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1S9GtN8n4DsRFBwPwwef_cw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 415, SH 6, Dahej Highway, Bharuch",
+      "lat": 21.719013,
+      "lng": 72.977539,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH9ejYvSIXzkRaX1y_RPK6Og",
+      "name": "IndianOil",
+      "address": "B No 313, Derol",
+      "lat": 21.76926409999999,
+      "lng": 72.9253592,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKdTno10n4DsRiQMVAH9uJLg",
+      "name": "Petrol pump",
+      "address": "Shravan Chowkdi, Bharuch",
+      "lat": 21.7219701,
+      "lng": 72.9857846,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJR3s92lUn4DsRV1hGqELlSn0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 49, 1 & 50, Dahej Bypass Road, Nandelav, Bharuch",
+      "lat": 21.722058,
+      "lng": 72.98780599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwZt2yLkg4DsRKWdhkPY47QA",
+      "name": "IndianOil",
+      "address": "Survey No 9/1, Maktampur, Bharuch",
+      "lat": 21.706435,
+      "lng": 73.006502,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJyaGfc1Un4DsRbXvQSgNgdXM",
+      "name": "IOC Petrol Pump",
+      "address": "Bharuch Bypass Road (NH-228), Sherpura, Bharuch",
+      "lat": 21.7230762,
+      "lng": 72.9907889,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJh8KeyZog4DsRZHNcLrj8tIA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, opposite Ramvatika Society, Zadeshwar Road, Bharuch",
+      "lat": 21.7182201,
+      "lng": 73.02829009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-f975Ycn4DsRdIPrMBYjh8A",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Railway Station Road, Bharuch",
+      "lat": 21.701995,
+      "lng": 72.992369,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgb0Ew0kn4DsR0KHM3rcKfHw",
+      "name": "F.M.Amin & Co.",
+      "address": "Railway Station Road, Bharuch",
+      "lat": 21.7020381,
+      "lng": 72.9924497,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJh691UgAh4DsRdJ9EBlHgS04",
+      "name": "CNG Pump, Bharuch",
+      "address": "PX6V+HV6, Bharuch",
+      "lat": 21.7114093,
+      "lng": 72.9946393,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJcad8bLEg4DsRrvWE2FBAwCU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Old NH 8, opposite JP College, Bholav, Bharuch",
+      "lat": 21.7099901,
+      "lng": 73.000501,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJK-9ZcLYh4DsRXRBj99kaWfg",
+      "name": "Bharat Petroleum",
+      "address": "near State Transport Workshop, Old NH 8, near State Transport Workshop, Maitri Nagar Society, Bholav, Bharuch",
+      "lat": 21.7182166,
+      "lng": 73.0032203,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQYQMeK8g4DsR4oaW-32rd0U",
+      "name": "Shiv Shakti Petroleum",
+      "address": "P283+VQ8, Near Narmada Society, Avdhoot Nagar, Bholav, Bharuch",
+      "lat": 21.7171535,
+      "lng": 73.0044501,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2cOaOwCJXzkR8zSZTfmfIZo",
+      "name": "INDIAN OIL",
+      "address": "PXMR+54Q, Rahadpor",
+      "lat": 21.732962,
+      "lng": 72.9903447,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJQRHHGRiLXzkRlLy7Ui78tCo",
+      "name": "IndianOil",
+      "address": "Survey/No 50P, 2 Rahadp, Aragama",
+      "lat": 21.736303,
+      "lng": 72.9958857,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxw_GTREh4DsRPIIN4hZrM7s",
+      "name": "Super Gas Service",
+      "address": "Vishwanath Township, near Tulshidham, S-11, GNFC Bypass Road, Vishvanath Township, Aalekh Society, Bholav, Bharuch",
+      "lat": 21.7193858,
+      "lng": 73.0203475,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTSvAYjMh4DsRtKhrEu4-UfA",
+      "name": "Shell petrol pump",
+      "address": "Zadeshwar Road, Bharuch",
+      "lat": 21.719732,
+      "lng": 73.03147299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJN3rvfgCLXzkR096UrbJUFFM",
+      "name": "Gujarat Gas CNG pump",
+      "address": "99/3, Golden Quadrilateral, Vadadla, Bharuch",
+      "lat": 21.7319892,
+      "lng": 73.02784729999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJEYxH0UaLXzkRv9mZ4Sat-lc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Sur No 19/2, National Highway 48, Vadadla, Bharuch",
+      "lat": 21.749365,
+      "lng": 73.019791,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfQHbOGSLXzkRdPIaxKDc-7Q",
+      "name": "IndianOil",
+      "address": "Survey No 36A/B/C NH 8, Vagusana, Bharthana",
+      "lat": 21.750806,
+      "lng": 73.018905,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCUDqSX8g4DsRmzC3zEapqs8",
+      "name": "IndianOil",
+      "address": "P2HW+G98, Survey No 1683/P Tavra, Jhadeshwar Road, Bharuch",
+      "lat": 21.728801,
+      "lng": 73.04596699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSz-F5qkh4DsRqiDo2vD_AnQ",
+      "name": "OM SAI PETROLEUM",
+      "address": "P2HW+9RM, opposite 7X Rivera, Tavra Road, Bharuch",
+      "lat": 21.7284559,
+      "lng": 73.047033,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJH1THCgAh4DsRx7CeIqYjd48",
+      "name": "Gujarat Gas",
+      "address": "1, Tavra Road, Zanor, Bharuch",
+      "lat": 21.7294488,
+      "lng": 73.0483063,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJb0ixBEeKXzkR7iYvgBKAezI",
+      "name": "Jio-bp",
+      "address": "Besides Hotel Basera, Plot No 56/A/P Nh 8, Bharuch",
+      "lat": 21.758405,
+      "lng": 73.0193184,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ____P4cf4DsR1cavAbHIa0c",
+      "name": "Shiv Petroleum",
+      "address": "Govali",
+      "lat": 21.6944338,
+      "lng": 73.0910281,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkY4rTCwf4DsR5wVg1ch1eTE",
+      "name": "IndianOil",
+      "address": "Survey No 208 Govali, Ambos",
+      "lat": 21.699799,
+      "lng": 73.099588,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXZbl3171XzkRCtYRzabj_oA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Sy No 540, Shuklatirth",
+      "lat": 21.7479901,
+      "lng": 73.0939801,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJi4tLHqwf4DsRxm5GcevMbxs",
+      "name": "IndianOil",
+      "address": "Ground Floor, Jhagadia, Ambos",
+      "lat": 21.699837,
+      "lng": 73.129134,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJc5MbM0-KXzkRoV04ncM3_yM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 48, Vagusana",
+      "lat": 21.764891,
+      "lng": 73.02322099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaUv8Nt6LXzkRDlMdTOhCtt8",
+      "name": "IndianOil",
+      "address": "Ground Floor Vagusana, NH 8, Haldarva",
+      "lat": 21.7654754,
+      "lng": 73.0221837,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJZR7gQCGXzkR1DVcjPNnp7g",
+      "name": "Essar Petrol Station",
+      "address": "RV4W+H66, Saladara",
+      "lat": 21.8064078,
+      "lng": 72.8955122,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJu1qlaQCJXzkR_Uf-LCYKwmg",
+      "name": "NAYARA ENERGY CM PETROLEUM",
+      "address": "RW3V+JM, Dayadara",
+      "lat": 21.803526,
+      "lng": 72.9443379,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJMykRJZqJXzkR8qNID3lhX6o",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 285/1, Survey No 855, Old, Nabipur Road, Tralsa",
+      "lat": 21.803668,
+      "lng": 72.944355,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJK8I8BEOGXzkR24uX1k8ThHg",
+      "name": "Petrol Pump Bhersam",
+      "address": "Bhersam",
+      "lat": 21.7771473,
+      "lng": 72.86581079999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ6RNELxSPXzkRxMsWA_LuTXI",
+      "name": "VIP PETROLEUM",
+      "address": "Survey No 410, Samni, Road, Dayadara",
+      "lat": 21.8366345,
+      "lng": 72.9278322,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGSTy-7KLXzkRIgfZgD4ooU0",
+      "name": "Bharat Petroleum BP Luvara Ghar",
+      "address": "opposite Gurudwara, Bharuch to Vadodara, NH 48, Luwara",
+      "lat": 21.7767012,
+      "lng": 73.026243,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCYSbH7OLXzkR5qkDqiOafg0",
+      "name": "IndianOil",
+      "address": "Survey No 56/P Luvara, NH 8, Bharthana, Bharuch",
+      "lat": 21.775691,
+      "lng": 73.025751,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfxozaJ2LXzkRJrLaYmhHgrI",
+      "name": "IndianOil",
+      "address": "Ground Floor, Near Hotel Prince, NH 8, Nabipur",
+      "lat": 21.8090148,
+      "lng": 73.0397521,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOyq0oVCJXzkRjW3vfXxVoeA",
+      "name": "IndianOil",
+      "address": "Kuvadar",
+      "lat": 21.804857,
+      "lng": 72.98602129999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJN_vkVUOLXzkRSKbTr87vd0k",
+      "name": "Shell Petrol Pump",
+      "address": "Golden Quadrilateral Nh 48, Taluka & District",
+      "lat": 21.772871,
+      "lng": 73.02477999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJF2aYAQCLXzkRVNnlwEOJ2RQ",
+      "name": "BPCL SHIVKRUPA PETROLEUM",
+      "address": "BPCL SHIVKRUPA PETROLEUM, Nabipur",
+      "lat": 21.790447,
+      "lng": 73.032909,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJi-XWHgCLXzkRQ6wMZ_hxvjc",
+      "name": "Rang petroleum",
+      "address": "R269+PR, Bori",
+      "lat": 21.8118076,
+      "lng": 73.01954959999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJWTRbGACLXzkRY_cqhskXPdk",
+      "name": "Jio-bp",
+      "address": "Survey No 612, near Khodiyar Kathiyawadi dhaba, National Highway 48, Nabipur",
+      "lat": 21.795723,
+      "lng": 73.0347901,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ09bTQgCLXzkRPKSgSpggBIg",
+      "name": "JIO BP Petroleum",
+      "address": "near SAHIL HOTEL, NH-8, NABIPUR BRIDGE, Nabipur",
+      "lat": 21.8017796,
+      "lng": 73.037624,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ227LGACLXzkRy4x_tRoAP3U",
+      "name": "Reliance jio petrol pump nabipur",
+      "address": "R26P+HC7, Nabipur",
+      "lat": 21.8114016,
+      "lng": 73.0360542,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJB7lmBoKMXzkROYnvH_-A6m4",
+      "name": "BS Petroleum",
+      "address": "R2FW+4R7, Kargat",
+      "lat": 21.8227799,
+      "lng": 73.0470342,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJN-stcoWLXzkRk5DcLJMUKXk",
+      "name": "Roshni Petroleum",
+      "address": "Roshni Petroleum, Samlod",
+      "lat": 21.8222319,
+      "lng": 73.0869048,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJf41Kjcb1XzkRrxWzkVPS55g",
+      "name": "IndianOil",
+      "address": "SB No 447 Samlod, Bharthana",
+      "lat": 21.822988,
+      "lng": 73.091092,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJW40dVB31XzkRM-d_raI2GXY",
+      "name": "IndianOil",
+      "address": "Block No 51, Survey No 330, P/6/7, Argama, Nikora",
+      "lat": 21.78396,
+      "lng": 73.12272399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJv9GvdjH1XzkRP4g6dOJSMQ4",
+      "name": "bapupetroleum",
+      "address": "Bapu Petrolem, Samlod",
+      "lat": 21.8245247,
+      "lng": 73.09392489999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKbhr0JGMXzkR52PVXt2Ckvs",
+      "name": "IndianOil",
+      "address": "Survey No 572 & 573 Zangar, Bharthana",
+      "lat": 21.838513,
+      "lng": 73.05285099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM18fSQCNXzkR_GXVT4VHRKI",
+      "name": "KABIR PETROLEUM & CNG STATION",
+      "address": "R3Q3+F45, Bharuch",
+      "lat": 21.8386365,
+      "lng": 73.05287469999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJO9p3uv6NXzkR-V0fnCPLy4s",
+      "name": "IndianOil",
+      "address": "Nh8, Jhanghar",
+      "lat": 21.8386785,
+      "lng": 73.05388669999999,
+      "open_now": true
+    }
+  ]
+}

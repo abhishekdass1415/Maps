@@ -1,0 +1,507 @@
+{
+  "city": "Rourkela",
+  "state": "Odisha",
+  "count": 62,
+  "center": {
+    "lat": 22.2604,
+    "lng": 84.8536
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJi8335QcZIDoRmBf1_dLPWVI",
+      "name": "Bharat Petroleum, Petrol Pump -Rourkela Fuels",
+      "address": "National Highway 23, Deogaon",
+      "lat": 22.214806,
+      "lng": 84.81605739999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbbl2oegZIDoR-wxr0xXL-fo",
+      "name": "Bharat Petrol Pump",
+      "address": "State Highway 10, Vedvyas, Rourkela",
+      "lat": 22.2312225,
+      "lng": 84.7840409,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4VpjN1gXIDoR8DEO_h7p2Kg",
+      "name": "Bharat Petroleum, Petrol Pump -D.B.Service Center",
+      "address": "VEDVYAS CHOWK, SUNDERGARH, SUNDERGARH",
+      "lat": 22.2367144,
+      "lng": 84.77131539999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ76CM1XQZIDoRrZdLoWl8nzc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Raghunathpali, Civil Township, Rourkela",
+      "lat": 22.2277887,
+      "lng": 84.8177159,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBQvDVwsZIDoR_Qf_EgIjbZI",
+      "name": "IndianOil",
+      "address": "Civil Township, Panposh Road, Brahmani Tarang, Rourkela",
+      "lat": 22.2272933,
+      "lng": 84.82027049999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfb90ujcXIDoRRRLtdELwgVc",
+      "name": "IndianOil",
+      "address": "Ground Floor, Beldehi, Balanda",
+      "lat": 22.2397667,
+      "lng": 84.75113499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJG4R7UzAXIDoRxAks95WMnu8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, SH 10, Beldihi",
+      "lat": 22.24040099999999,
+      "lng": 84.7442501,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo9K9kB4aIDoRAOvDs2cfQLg",
+      "name": "IndianOil",
+      "address": "Plot No 198/199, Kuarmunda",
+      "lat": 22.2547212,
+      "lng": 84.78990259999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEQ89cwAZIDoRQC6evIbaETQ",
+      "name": "Satyabadi fuels KSK",
+      "address": "5RW6+8FW, Garjan Village Road, Raghunathpali, Rourkela",
+      "lat": 22.1958546,
+      "lng": 84.811216,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJGd0TIkEZIDoRqMIPpzwB2gw",
+      "name": "Star Fuels",
+      "address": "Bus Stop, T.C.I, National Highway, Dandiapali, Rourkela",
+      "lat": 22.2273291,
+      "lng": 84.78991049999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJQVTh6MZIDoRtUf_DwcCAuI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 7/8, NH 23, Panposh, Rourkela",
+      "lat": 22.2211412,
+      "lng": 84.8072957,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJv1iDMqEZIDoRcPIwMOci9lw",
+      "name": "IndianOil",
+      "address": "Ground Floor, Civil Township, near Chamber Of Commerce, Road",
+      "lat": 22.221739,
+      "lng": 84.811859,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-yAfQYIiIDoRH4kxmaEL2mo",
+      "name": "IndianOil",
+      "address": "Brahmini Tarang, No 32, Lathikata, Khairbani",
+      "lat": 22.1527093,
+      "lng": 84.8079497,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2aCvdgAZIDoRYxnUk7RNHEw",
+      "name": "Bharat Petroleum, Petrol Pump -Bhimsen Filling Station",
+      "address": "VEDVYAS CHOWK, SUNDERGARH, SUNDERGARH",
+      "lat": 22.235013,
+      "lng": 84.777981,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJp7koRp4ZIDoRKO8bzQ5JtRU",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bisra Raod,Deogaon Chowk, Kudarbahal",
+      "lat": 22.205665,
+      "lng": 84.8321083,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMypEuVkXIDoR6gZsk6dHsA0",
+      "name": "IndianOil",
+      "address": "Ground Floor, Vedvyas, Rourkela",
+      "lat": 22.2363184,
+      "lng": 84.76960919999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYXjO28EjIDoRJe5wRFIpyrI",
+      "name": "IndianOil",
+      "address": "Ground Floor Khairbani, Birkera",
+      "lat": 22.1478718,
+      "lng": 84.80781789999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfRMm_voZIDoRC8TZjrEWdfY",
+      "name": "Arjun Fuel",
+      "address": "Krishna Filling Station, Civil Township, Rourkela",
+      "lat": 22.2279396,
+      "lng": 84.8179658,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJDfIOmoYXIDoR41YA_4A5ZTY",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sawmill Chowk, Vedvyas, Rourkela",
+      "lat": 22.2370409,
+      "lng": 84.7647408,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvzP83z4XIDoRd4HVIibTx7U",
+      "name": "Goibhanga Petrol Pump.",
+      "address": "Kalunga, Goibhanga",
+      "lat": 22.2299321,
+      "lng": 84.74981319999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJBYGc1-MZIDoRWkk48Uevgx8",
+      "name": "IndianOil",
+      "address": "Unit No 39, Chhend Colony, Rourkela",
+      "lat": 22.2352181,
+      "lng": 84.8088374,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOS4UU3MZIDoRX2zbEjGy4yw",
+      "name": "Bharat Petroleum, Petrol Pump -Hindustan Automobiles",
+      "address": "PANPOSH,ROURKELA,SUNDERGAR, SUNDERGARH",
+      "lat": 22.2276094,
+      "lng": 84.820984,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8xXrY68ZIDoRUPPEAOfASe8",
+      "name": "IndianOil",
+      "address": "Ground Floor Rourkela, Fertilizer Township, Sundergarh",
+      "lat": 22.1909309,
+      "lng": 84.8480706,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ07BGt88YIDoRcWxVZPU4LIQ",
+      "name": "Fetcol Petrol Pump TO OHS 22 DISTANCE",
+      "address": "near, Ranchi-Rourkela-Barkote Highway, A - Block, Jalda, Rourkela",
+      "lat": 22.1911515,
+      "lng": 84.8483871,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ7a-fSckYIDoRbmH4U3EJc60",
+      "name": "Bharat Petroleum",
+      "address": "Rangoli Chowk, Jalda, Rourkela",
+      "lat": 22.1866068,
+      "lng": 84.8504322,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJX74xaoQXIDoR1yfKP64o41Y",
+      "name": "Bharat Petroleum Petrol Pump , MAA BHAWANI FILLING STATION",
+      "address": "MALIKPALIKALUNGA, Sundergarh",
+      "lat": 22.2399626,
+      "lng": 84.7413576,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPa9BNG8ZIDoR60kkY6wZx-g",
+      "name": "Chhend Petrol Pump",
+      "address": "Sector 9, Rourkela",
+      "lat": 22.2380877,
+      "lng": 84.8304287,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhZbjTAAZIDoR2S93TbzDeBU",
+      "name": "Cng station",
+      "address": "6RQJ+H6X, Sector 9, Rourkela",
+      "lat": 22.2389926,
+      "lng": 84.83061579999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJdaLmW24ZIDoRaikIXkiZE80",
+      "name": "Gas repair and fillup shop",
+      "address": "Parmar Building, Chandrapur, Udit Nagar, Rourkela",
+      "lat": 22.2266692,
+      "lng": 84.8478931,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJG_6CeYMXIDoRlme_SdoJPJ0",
+      "name": "IndianOil - SWAGAT",
+      "address": "Ground Floor, San Nuagaon, Brahmani Tarang, SH 10, Beldihi",
+      "lat": 22.2348741,
+      "lng": 84.7241808,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPyg7Z9oWIDoRTGL8VsODcgo",
+      "name": "dianOil",
+      "address": "India",
+      "lat": 22.2351695,
+      "lng": 84.7240977,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJSzL-NZQbIDoRjUMZfNkkt9s",
+      "name": "Bharat Petroleum, Petrol Pump -Mohan Lal Patel & Co./Sbp",
+      "address": "GOLBAZAR, SAMBALPUR, SAMBALPUR",
+      "lat": 22.2620194,
+      "lng": 84.78144689999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMzy6XP4bIDoRcY01usgfESw",
+      "name": "Sector 17 Petrol Pump Satyam Service Center",
+      "address": "Sector-17, Rourkela",
+      "lat": 22.2547617,
+      "lng": 84.8532218,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJR8AZmF8fIDoRFIw5XO_6CY0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Suidhi, Hatibandha",
+      "lat": 22.159528,
+      "lng": 84.8757601,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJE-jBXb0eIDoR7QoOVh7s8KY",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sector 2, Sundergarh",
+      "lat": 22.240248,
+      "lng": 84.877274,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7WB3zAIcIDoRm60Mfa2Rxn4",
+      "name": "IndianOil",
+      "address": "Ground Floor, Ambagan, Sector 19, Raurkela Industrialship",
+      "lat": 22.255061,
+      "lng": 84.866997,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJF_QuXR0fIDoRGAzrCMNoiXA",
+      "name": "Hp Gas office (Utkal) Jalda",
+      "address": "5VP8+9RG, OCL Industrial Township, Rourkela",
+      "lat": 22.1853604,
+      "lng": 84.866869,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_14EqcgeIDoRTrXulGJKBCs",
+      "name": "IndianOil",
+      "address": "Sahayog Petrol Pump, Bisra Chowk Road, Rourkela",
+      "lat": 22.2237604,
+      "lng": 84.867143,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJp3I5dLUfIDoR7uq2-yf_nkg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, opposite Railway Station, Station Road, Rourkela",
+      "lat": 22.225601,
+      "lng": 84.86092099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwcyWGjUZIDoRsSN8ATwBwsk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Udit Nagar, Sundergarh",
+      "lat": 22.2262891,
+      "lng": 84.8547844,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGW0UObkeIDoRGPBg_Sp9Fcc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "PB No 50, Ring Road, Rourkela",
+      "lat": 22.2335201,
+      "lng": 84.87180750000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe7zPAsweIDoRb8PJpzalz0E",
+      "name": "Utkal Automotive Private Limited",
+      "address": "HPCL PETROL PUMP CAMPUS, next to Konark Cinema Hall, Ring Road, Rourkela",
+      "lat": 22.2337311,
+      "lng": 84.8718866,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJE0LBXhsfIDoRq75KPT2Uv8w",
+      "name": "Indane Gas Godown",
+      "address": "6VQ6+V7H, Sector 6, Rourkela",
+      "lat": 22.2396921,
+      "lng": 84.8607497,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJmys_GosfIDoR1Oqj-Icl2js",
+      "name": "GAIL GAS COCO CNG STATION",
+      "address": "6VQH+W23, Sector 2, Rourkela",
+      "lat": 22.2397658,
+      "lng": 84.8775393,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJyRRZQWgfIDoRYx4IZayglAo",
+      "name": "Bharat Petroleum, Petrol Pump -Dhanraj & Co",
+      "address": "AMBAGAN,ROURKELA,SUNDERGAR, SUNDERGARH",
+      "lat": 22.2529914,
+      "lng": 84.8665439,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9aI8td4bIDoREEyOmDm1nt8",
+      "name": "IndianOil",
+      "address": "Township Rourkela, Sector-17, Sundergarh",
+      "lat": 22.254438,
+      "lng": 84.852745,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJW5AERRkfIDoRVgxRbIoAcos",
+      "name": "Bharat Petroleum, Petrol Pump -Shri Shri Filling Point",
+      "address": "Sector 2, Rourkela",
+      "lat": 22.2537099,
+      "lng": 84.8808773,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkwpb7rshIDoRm_TCkZ1z0wc",
+      "name": "IndianOil",
+      "address": "Ground Floor, Lathikata",
+      "lat": 22.1277167,
+      "lng": 84.88348669999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXcSGVKAQIDoRUes4mh_bCRU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Kuarmunda",
+      "lat": 22.271517,
+      "lng": 84.771427,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJn5HhUYMQIDoRqpMRPPuGVWc",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kuarmunda",
+      "lat": 22.2857301,
+      "lng": 84.7686621,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH_mm_oQQIDoRPhn3G6OQPZw",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kuarmunda",
+      "lat": 22.287828,
+      "lng": 84.76566299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqT5OIAARIDoRLTZbOJuoHZo",
+      "name": "Baishnabi filling Station",
+      "address": "7QQ8+496, Kuarmunda",
+      "lat": 22.2878431,
+      "lng": 84.7656564,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoYR8s9MdIDoR5iOsaSzMvgk",
+      "name": "IndianOil",
+      "address": "Ground Floor, Jagda Road, Jhirpani, Rourkela",
+      "lat": 22.2628217,
+      "lng": 84.9019667,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMf3HxtMdIDoRs8K3AqaP79c",
+      "name": "Sachin Service Station",
+      "address": "India",
+      "lat": 22.26200039999999,
+      "lng": 84.9026473,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJCYMntCz0HzoRUVciX9ykZUA",
+      "name": "Bharat Petroleum",
+      "address": "Purunabisra",
+      "lat": 22.2493606,
+      "lng": 84.9820771,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJT1rxPyz0HzoRA6BW4Q7H9Ys",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bisra",
+      "lat": 22.2493905,
+      "lng": 84.9861383,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBQDAshv1HzoRTykEqN_Y9QI",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kapatmunda",
+      "lat": 22.2474196,
+      "lng": 84.97437900000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJw4yucgD1HzoRUP6WllDIROI",
+      "name": "AMIR COLONY BUS STOP",
+      "address": "6XXJ+R4V, Bangurkela Chord Cabin, Bhumijtola",
+      "lat": 22.2496088,
+      "lng": 84.9802941,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJa9NTeCj1HzoRx-2n658YyMw",
+      "name": "IndianOil",
+      "address": "Ground Floor, Ajaikela, Daraikela, Bisra",
+      "lat": 22.2556247,
+      "lng": 84.99935789999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJi-bhXAADIDoRpDhpxR-6lYg",
+      "name": "श्री श्याम मोटर्स युरिया डी ई एफ भोजपुर सुन्दरगढ़",
+      "address": "9VP9+PW8, Bhojpur",
+      "lat": 22.3867842,
+      "lng": 84.8698228,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJgSHgTQD3HzoRNlJlCN0e6BE",
+      "name": "AARAV FUELS KSK",
+      "address": "Tangarpali",
+      "lat": 22.3439464,
+      "lng": 84.9911084,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOUV5B2_5HzoRVhFmZxqvfTA",
+      "name": "Bharat Petroleum, Petrol Pump -Maa Shakti Fuel Centre",
+      "address": "NUAGAON, SUNDERGARH, SUNDERGARH",
+      "lat": 22.3930893,
+      "lng": 84.9514336,
+      "open_now": true
+    }
+  ]
+}

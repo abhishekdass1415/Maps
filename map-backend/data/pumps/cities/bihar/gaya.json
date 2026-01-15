@@ -1,0 +1,707 @@
+{
+  "city": "Gaya",
+  "state": "Bihar",
+  "count": 87,
+  "center": {
+    "lat": 24.7433,
+    "lng": 85.0089
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJj5q028Es8zkR5ejHSXhKOw4",
+      "name": "Bharat Petroleum Siddharth Filling Station",
+      "address": "Belsar, Gaya NH-83, Gay a, Gaya-Dobhi Road, Bodh Gaya",
+      "lat": 24.6970985,
+      "lng": 84.96096299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmVjh2JYs8zkRPpZ9lkZAqWs",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 83, Mastpura, Bodh Gaya",
+      "lat": 24.7098383,
+      "lng": 84.9653283,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkXqNPQAt8zkRhQY3N_9z7fY",
+      "name": "Devkuli Toll Plaza",
+      "address": "MX85+9CG, Gaya-Dobhi Road, Pathalgarh",
+      "lat": 24.6659442,
+      "lng": 84.9585645,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ-2ZF4b4t8zkRz4I_TXhDhqE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Khasra No 662, Thana No 419 Domuhan, Gaya-Dobhi Road, Matihani",
+      "lat": 24.651731,
+      "lng": 84.952411,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFXB__cwt8zkR5BsqnObhTrA",
+      "name": "Maa Kamla service station",
+      "address": "MX22+3JV, Bodh Gaya",
+      "lat": 24.6494988,
+      "lng": 84.9514468,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJv-ZzOAAt8zkRu5BNCggyUgA",
+      "name": "Bharat Petroleum",
+      "address": "JWVX+6HP, National Highway 22, Matihani",
+      "lat": 24.643755,
+      "lng": 84.9490953,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJCbsCriwt8zkRzdTxmCjCH8k",
+      "name": "BELWANTI MAA FUEL STATION GAYA",
+      "address": "near AIRPORT, NH-83, Gaya-Dobhi Road, Hario",
+      "lat": 24.713725,
+      "lng": 84.96691109999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkUArXdQt8zkR1Q3E18JsQ6w",
+      "name": "My home",
+      "address": "Bodhgaya, rajapur, Gaya",
+      "lat": 24.6821924,
+      "lng": 84.99073489999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJG4QgHgAt8zkRw_9vr4_ZHDs",
+      "name": "Jai Hanuman petrol pump",
+      "address": "MXCV+FCP, Mocharim, Sirajpur",
+      "lat": 24.6711757,
+      "lng": 84.9935677,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6aBSQprTjDkRfY2Dtcp3wCc",
+      "name": "Ujjain Fuels",
+      "address": "PV4Q+MRC, Cherki - Gaya Road, Kurmawan",
+      "lat": 24.7066885,
+      "lng": 84.8895203,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJVaHHBgor8zkR8UM8EKKIaPU",
+      "name": "Bharat Petroleum, Petrol Pump -Swati Service Station",
+      "address": "Gaya-Dobhi Road, Gaya",
+      "lat": 24.73676489999999,
+      "lng": 84.9657484,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJfYJNsUYr8zkR2k4xD4S_78I",
+      "name": "Bharat Petroleum, Petrol Pump -Hindustan Automobiles",
+      "address": "BODH GAYA1,GAYA, Gaya",
+      "lat": 24.7370782,
+      "lng": 84.96558979999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ62s4B5HVjDkR5Bo-pfYTBOI",
+      "name": "HP Petrol Pump - विशुनगंज",
+      "address": "Sherghati - Cherki - Gaya Road, Gaya",
+      "lat": 24.7414798,
+      "lng": 84.9288641,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVT0Q9DAt8zkRHpQyFv_BNFk",
+      "name": "IndianOil",
+      "address": "Ground Floor Silaunja, Bodh Gaya",
+      "lat": 24.683808,
+      "lng": 85.01768799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCw0WJQss8zkRONc5aiuydT8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Khata No, Riverside Road, Plot No 2810 & 2797, Gaya - Bodhgaya Road, Amwan, Gaya",
+      "lat": 24.7226941,
+      "lng": 85.0034148,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqc6UMPQr8zkROBSUftLa1Hs",
+      "name": "IndianOil",
+      "address": "Ground Floor Bodh Gaya Rd, Suryapura, Amwan Main Road, Bodh Gaya",
+      "lat": 24.7299997,
+      "lng": 85.0068371,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJO5GupJwn8zkRAF8ksTHUnqE",
+      "name": "IndianOil",
+      "address": "Ground Floor Gaya Fatehpur Rd, State Highway 70, Kanwan",
+      "lat": 24.7312086,
+      "lng": 85.1242784,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJv68JzD8n8zkRabYTR5O8h2Y",
+      "name": "Mahesh fuel station",
+      "address": "near Bartara Bazar, Tel Bigha",
+      "lat": 24.7316535,
+      "lng": 85.1242731,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ7GqPgAl8zkRLh4WxrnD2iw",
+      "name": "इंडियन ऑयल पेट्रोल पंप अकल बीघा",
+      "address": "M455+62, Barman",
+      "lat": 24.6580306,
+      "lng": 85.10756119999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJUbnDyv4q8zkRi7iOxu86EoI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, opposite Jail, Gaya - Sherghati Road, Gaya",
+      "lat": 24.778681,
+      "lng": 84.977881,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKdr0q1wq8zkRICAC4EoD3wU",
+      "name": "Bharat Petroleum BP Gaya",
+      "address": "QXRR+GQJ, Judges Colony, Gaya",
+      "lat": 24.7913273,
+      "lng": 84.99189559999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJf8_OS_Mr8zkRAxu1mZ6ADUk",
+      "name": "Bharat Petroleum Petrol Pump , UJJAIN FUELS",
+      "address": "Shankar Road, GAYA International Airport, Gaya",
+      "lat": 24.7460227,
+      "lng": 84.95095979999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJvfUa36Ar8zkRD9H1W1GbYxk",
+      "name": "BELWANTI MAA FUEL STATION",
+      "address": "BELWANTI MAA FUEL STATION, Chandauti, Gaya",
+      "lat": 24.7461589,
+      "lng": 84.96393169999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTX3g6wEr8zkRdfeXybWJg1M",
+      "name": "CNG pump",
+      "address": "PXW7+JH, Chandauti, Hario",
+      "lat": 24.7465911,
+      "lng": 84.96399799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJD92O5c3VjDkRv8pRRuy6h_0",
+      "name": "Badal Kumar",
+      "address": "63, Cherki Road, Gaya",
+      "lat": 24.74062139999999,
+      "lng": 84.91023679999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZzYp9Cor8zkRHXngmb1spIc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Vir Kunwar Singh Colony, Gaya",
+      "lat": 24.7711023,
+      "lng": 84.9549303,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB4eVc9kr8zkR49yCZcjdXcc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Chapardah Road, near Ambedkar Market, Kaler Road, Gaya",
+      "lat": 24.772941,
+      "lng": 84.95508099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTYeAOQAr8zkRD_4stc6tqYE",
+      "name": "OC SUPPLY DEPOT PHARPUR GAYA",
+      "address": "QXC6+5JJ, Gaya",
+      "lat": 24.770456,
+      "lng": 84.9615264,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJpbzy5wUr8zkRpiQe5zc7iuk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 83, Gaya Bypass Road, Gaya",
+      "lat": 24.7623301,
+      "lng": 84.9759807,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjTNcQ_wq8zkRDynkHxpeD40",
+      "name": "IndianOil",
+      "address": "More, Chandauti, Gaya",
+      "lat": 24.7526609,
+      "lng": 84.98929749999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJt4Cc_-8r8zkRf2Dz9FguGQQ",
+      "name": "Bharat Petroleum, Petrol Pump -B. K.Mukherjee & Sons",
+      "address": "SHERGHATI TOWN,GAYA, Gaya",
+      "lat": 24.77863,
+      "lng": 84.9772041,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ75UiyrEr8zkRS56Zo7dxRS0",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 24.7647633,
+      "lng": 84.9933696,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJkaOu1WUr8zkRq3ARMUdZh2A",
+      "name": "Gaya Petrozone",
+      "address": "1, Gaya-Dobhi Road, Rock Area, Maranpur, Gaya",
+      "lat": 24.7645372,
+      "lng": 84.9938512,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRwWd9lAq8zkRTy-_oDEzRm8",
+      "name": "IndianOil",
+      "address": "Ground Floor, Jail Road, Gaya",
+      "lat": 24.7814319,
+      "lng": 84.9848001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ52WsDNYr8zkRULlz0fvG7Ok",
+      "name": "Bharat Petroleum, Petrol Pump -BP-Gaya",
+      "address": "Katari Hill, Gaya",
+      "lat": 24.7831111,
+      "lng": 84.9892301,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJuwEX2JAr8zkR5oNXum3RAZY",
+      "name": "IndianOil",
+      "address": "Chandauti Road, Katari, Gaya",
+      "lat": 24.7960411,
+      "lng": 84.97444709999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzSKeIQAr8zkRGN5cjBEFeDk",
+      "name": "DAYAL SERVICE STATION",
+      "address": "QXMV+WF4, Gewalbigha, Gaya",
+      "lat": 24.7851389,
+      "lng": 84.9933611,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJRfF6IFQr8zkRt8YT3Sk0Rv0",
+      "name": "IndianOil",
+      "address": "Ground Floor, Gewalbigha, Gaya",
+      "lat": 24.78513299999999,
+      "lng": 84.993371,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJN57Wqicr8zkRQsAy4rD0IxU",
+      "name": "Om Shree Hari Energy Station",
+      "address": "Shankar Road, Ghughari Tand, Gaya",
+      "lat": 24.7719151,
+      "lng": 85.0048226,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ02w34cor8zkRTm0kRQr19SM",
+      "name": "Bharat Petroleum",
+      "address": "Q2C3+QWQ, Shankar Road, Chand Chaura, Gaya",
+      "lat": 24.7719539,
+      "lng": 85.004864,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJCSyqbkYq8zkROCVNasv6YMI",
+      "name": "Saraogi Petrol Pump",
+      "address": "South, Church Road, Gaya",
+      "lat": 24.7872949,
+      "lng": 84.99829299999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJievpdG4r8zkRX1LY8BnacZU",
+      "name": "Bharat Petroleum, Petrol Pump -Vishal Service Station",
+      "address": "AWAGILA , MANPUR, Gaya",
+      "lat": 24.7877001,
+      "lng": 84.99874849999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ8-CjU7Ur8zkRB8mepM2DRw8",
+      "name": "Bharat Petroleum, Petrol Pump -M Service Station",
+      "address": "GAYA TOWN1,GAYA, Gaya",
+      "lat": 24.7877001,
+      "lng": 84.99874849999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJawh6lqYr8zkRklK_cYCZ3wk",
+      "name": "Petrol Pump",
+      "address": "QXRW+GCX, Tekari Road, Jaiprakash Nagar, Gaya",
+      "lat": 24.7913724,
+      "lng": 84.99611949999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5fucZLUr8zkRporJs3kXdyo",
+      "name": "Kochar petrol pump",
+      "address": "near Kocher petrol pump, South, Church Road, Jaiprakash Nagar, Gaya",
+      "lat": 24.787431,
+      "lng": 85.000371,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ2-ixVEYq8zkRusWUSIaMaW8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near North Church, Road, Gaya",
+      "lat": 24.7880501,
+      "lng": 84.99992010000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJi9YwhD0q8zkReW3QNry3XLc",
+      "name": "Petrol Pump",
+      "address": "Q2W6+R2R, Shaheed Road, Dulhingunj, Gaya",
+      "lat": 24.7971204,
+      "lng": 85.0100183,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJy5gmBmsq8zkR9kzwQJge-IE",
+      "name": "Petrol Pump",
+      "address": "Station Road, Gol Bagicha, Gaya",
+      "lat": 24.8009349,
+      "lng": 85.0000924,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNerwDfUp8zkR9Aa4b6V9U7Q",
+      "name": "Vishal Bharat Petrol Pump",
+      "address": "R22G+323, State Highway 4, Manpur",
+      "lat": 24.8001484,
+      "lng": 85.0250332,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3_wSQysq8zkRcoXUK8WDtYs",
+      "name": "M.A PETROL POINT",
+      "address": "Q2G9+4HV, Salempur Surhari More Gaya, Bhadeja",
+      "lat": 24.775374,
+      "lng": 85.01891069999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ4c18vTIr8zkRfShbxNAaDnI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Manpur",
+      "lat": 24.7755517,
+      "lng": 85.0183313,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJt3U61Y4p8zkRvoDdvIdrmzs",
+      "name": "IndianOil",
+      "address": "Ground Floor Gaya Fatehpur Rd, Bhadeji, Surheri, Alipur, Gaya",
+      "lat": 24.7766706,
+      "lng": 85.0329007,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVxCOFdEp8zkR2yozslvZ6LY",
+      "name": "IndianOil",
+      "address": "SH-70, Gaya - Rajauli Road, Majhauli",
+      "lat": 24.7661653,
+      "lng": 85.0458745,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUXNp4gwp8zkR9YTj50El5CM",
+      "name": "Indian Oil",
+      "address": "India",
+      "lat": 24.76625289999999,
+      "lng": 85.0458603,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJl6oH1kAq8zkRcFWMT2qj0Bk",
+      "name": "IndianOil",
+      "address": "Ground Floor, Swarajpuri Road, Gaya",
+      "lat": 24.79117399999999,
+      "lng": 85.000374,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJiQHS1UAq8zkR1edmOF1phuE",
+      "name": "Kashinath Petrol Pump",
+      "address": "QXRX+MX5, State Highway 7, Nagmatia Colony, Gaya",
+      "lat": 24.7916384,
+      "lng": 84.9999694,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJFdfc35Ir8zkRQUu3aJbxc0A",
+      "name": "Ola Cabs - Gaya",
+      "address": "9th floor, Aziza Plaza, Enayat Colony, Gaya",
+      "lat": 24.7934013,
+      "lng": 85.00080729999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJu2l_jkMr8zkRwDVwWAs74dA",
+      "name": "IndianOil",
+      "address": "Ground Floor, Arjaeur Road, Gaya",
+      "lat": 24.7937058,
+      "lng": 85.0002075,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJX-OI38Qp8zkRJKtWNVhDNDE",
+      "name": "Nitish Fuel Tank",
+      "address": "1, Nauranga",
+      "lat": 24.792341,
+      "lng": 85.03714889999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJtwjHfxcq8zkRLpmu4_fftTU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Kirani Ghat, Murarpur, Gaya",
+      "lat": 24.7991882,
+      "lng": 85.0122739,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6Xr2cbAr8zkR6yQ-JmfcwdQ",
+      "name": "M Service station",
+      "address": "Q2X6+V4V, Shaheed Road, Murarpur, Gaya",
+      "lat": 24.7997284,
+      "lng": 85.01030899999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ3caEJ_Up8zkRpmmwu0c6j5c",
+      "name": "ONKAAR AUTO",
+      "address": "Gaya - Nawada - Sikandra Road, Abgilla, Gaya",
+      "lat": 24.7990583,
+      "lng": 85.0258638,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx_3i7kIp8zkR3WUkjkOwbw8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Khasra No 6839/68, Khata No 1154, 2317, Baijal Tetariya",
+      "lat": 24.78717929999999,
+      "lng": 85.0545197,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfYPH0ewp8zkReP22N7uY31g",
+      "name": "Mehta Service Station",
+      "address": "NH 82, Gaya",
+      "lat": 24.798911,
+      "lng": 85.03685449999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJyRlfos0p8zkROkeJYQvs1VE",
+      "name": "Bharat Petroleum CNG Station",
+      "address": "Q2XX+68G, Manpur",
+      "lat": 24.798065,
+      "lng": 85.0483431,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJpbZDo8Yo8zkRxXC9A2h7pkM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Muffasil, Sohai Pur",
+      "lat": 24.7452559,
+      "lng": 85.0809785,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY35LOXwr8zkRsZ8qlecCvFM",
+      "name": "Bharat Petroleum, Petrol Pump -Saraogi Petrol Stn",
+      "address": "GAYA TOWN3,GAYA BUS STAND,, Gaya",
+      "lat": 24.8112732,
+      "lng": 85.01634849999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ0W3JCWwo8zkRKIeMTlzm33E",
+      "name": "HP PETROL PUMP - VIDYA HP",
+      "address": "Thana No 292, Budhgere, Muffasil, Kaiya",
+      "lat": 24.796338,
+      "lng": 85.0864418,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ84spiKop8zkRt4LIUR7JUZI",
+      "name": "IndianOil",
+      "address": "Ground Floor, Lakhan Pur",
+      "lat": 24.79706,
+      "lng": 85.0669961,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2xpODCUl8zkRvPaMwxA4xz4",
+      "name": "Jio-bp",
+      "address": "near Bartara Bazar, Ground Floor Tankuppa, near Bartara Bazar, Bartara, Aropur",
+      "lat": 24.7236114,
+      "lng": 85.1432289,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvwoflU_V8jkRNd6ufNOs_N0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Khata No 58, SH 7, Plot No 629, Kujapi, Kewali",
+      "lat": 24.832635,
+      "lng": 84.9495566,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUZnFknLV8jkRZoZZ5un9Ojo",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bairagi, Chandauti, Kewali",
+      "lat": 24.8276252,
+      "lng": 84.95902579999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy8v9b7fV8jkRROGrRewx-4E",
+      "name": "Pradeep petrolemum",
+      "address": "RXR3+276, Kewali",
+      "lat": 24.8400358,
+      "lng": 84.95314139999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJ6z0kWQrjTkR0Dqe5hv9iUY",
+      "name": "IndianOil",
+      "address": "Ground Floor, Chandauti, Sadar, Bairagi, Churi",
+      "lat": 24.8450383,
+      "lng": 84.9353828,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxeB6fPbV8jkRFg3tW0QZw8s",
+      "name": "H & R NEYAJIPUR ENERGY STATION",
+      "address": "NEYAJIPUR, Gaya",
+      "lat": 24.8323174,
+      "lng": 84.97423350000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq3X-GQDV8jkRVytkhMl_2gs",
+      "name": "Petrol pump",
+      "address": "RXMF+8J, Aradih",
+      "lat": 24.83332829999999,
+      "lng": 84.97406,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJzeq2m0PV8jkRQ454QtGoY8E",
+      "name": "ANEK RAJ FUEL STATION",
+      "address": "NH 22, PLOT NO.-365, PATNA BYPASS, Gaya",
+      "lat": 24.8333417,
+      "lng": 84.9742169,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPQTOgX0q8zkRG5-2lVzYYm4",
+      "name": "Suman Petroleum",
+      "address": "GPD road, Kujapi",
+      "lat": 24.8115097,
+      "lng": 84.9818999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3zJ44ffV8jkRYDfHvm-Lg-s",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Gaya - Patna Main Road, K P Colony, Gaya",
+      "lat": 24.821611,
+      "lng": 85.012074,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC0ouw4XV8jkRNEDOQBYqzXA",
+      "name": "Bharat Petroleum Petrol Pump , SHRUTI SERVICE STATION",
+      "address": "KANDI, MOUZA RASALPUR, Gaya",
+      "lat": 24.854217,
+      "lng": 85.00361099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ27MFJXDW8jkRrys30EUUwxw",
+      "name": "IndianOil",
+      "address": "SH-4, Manpur",
+      "lat": 24.8134743,
+      "lng": 85.028075,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjWM4Jzgp8zkRzNFYk7VZpl4",
+      "name": "Bharat Petroleum Petrol Pump , SIDDHARTH SERVICE STATION",
+      "address": "Khizersarai Bypass Road, Manpur",
+      "lat": 24.812941,
+      "lng": 85.03618510000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1w0qSwDX8jkRSNypD2x1W8U",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Khizersarai Road, Buniyadganj, Gaya",
+      "lat": 24.82990969999999,
+      "lng": 85.0299941,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx9li2KnX8jkR2mfJY-czaxQ",
+      "name": "IndianOil",
+      "address": "Ground Floor Khanjahanpur, Buniyad Ganj, Alipur",
+      "lat": 24.824049,
+      "lng": 85.043719,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJ-qjLMjV8jkR9Hb2JVx2y44",
+      "name": "IndianOil",
+      "address": "Ground Floor Rasalpur, Bairagi, Gaya",
+      "lat": 24.859952,
+      "lng": 85.00199099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTRnfJXDW8jkRSMSqJhXf5Lk",
+      "name": "Indian Oil",
+      "address": "India",
+      "lat": 24.85540259999999,
+      "lng": 85.0334056,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJkQukBpEn8zkR1LAASqxb3-8",
+      "name": "Bharat Petroleum Petrol Pump , JAGDISH SINGH FUEL STATION",
+      "address": "VILL - BHIKAMPURPO, Pale",
+      "lat": 24.8101934,
+      "lng": 85.13455259999999,
+      "open_now": true
+    }
+  ]
+}

@@ -1,0 +1,971 @@
+{
+  "city": "Udaipur",
+  "state": "Rajasthan",
+  "count": 120,
+  "center": {
+    "lat": 24.5854,
+    "lng": 73.7125
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJxQ2q37bvZzkRTbeqpCd9Lxg",
+      "name": "Auto LPG Pump",
+      "address": "GMMJ+5Q2, National Highway 8, Sector 14, Hiran Magri, Gordhan Vilas Rural",
+      "lat": 24.5328914,
+      "lng": 73.68190249999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlwrwlrvvZzkRjySX2mB_5ZY",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 8, Goverdhan Villas, Dhundi, Udaipur",
+      "lat": 24.540687,
+      "lng": 73.68520099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKV8jI6fvZzkRTPatlCxBedI",
+      "name": "Nayara Petrol Pump",
+      "address": "Sabina, Khera, Plot No. 1-2, 100 Feet Road, Sector 14, Hiran Magri, Udaipur",
+      "lat": 24.5422131,
+      "lng": 73.6983611,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRceCMSHuZzkRI4sd0mh2pto",
+      "name": "HP PETROL PUMP - CHOUDHARY PETROLEUM HOUSE",
+      "address": "Ahemdabad Road, Udaipur",
+      "lat": 24.496775,
+      "lng": 73.6551574,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgdu2Le7vZzkRno33c7GfqpY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 8, Balicha",
+      "lat": 24.513205,
+      "lng": 73.666748,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJa956bjDuZzkRIxZEXWN2aZ8",
+      "name": "IndianOil",
+      "address": "Ground Floor, Valicha, NH 8, Dhundi, Udaipur",
+      "lat": 24.51218799999999,
+      "lng": 73.66713399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6-ey5eHxZzkRWFdNVhamUoU",
+      "name": "Dalal Fueling Station",
+      "address": "FMV3+C8V, Lai",
+      "lat": 24.4936221,
+      "lng": 73.6533058,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJD7o-YADxZzkRPEDXaZe52zI",
+      "name": "V max petroleum",
+      "address": "FMV3+C8W, Lai",
+      "lat": 24.4936053,
+      "lng": 73.6533194,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJB68NiVLvZzkRM4VEsuR0DlQ",
+      "name": "Patel Filling Station BPCL Dealer N.H.-8 Balicha Bypass",
+      "address": "N.H.8 BALICHA, BYPASS, Udaipur",
+      "lat": 24.5223514,
+      "lng": 73.6747462,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg2iSc1bvZzkRYGd9XmGPp_I",
+      "name": "ADANI CNG station",
+      "address": "DUNGARPUR-UDAIPUR ROAD, Balicha",
+      "lat": 24.5224076,
+      "lng": 73.674889,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg-0ncQDxZzkRXdJy4AFkK1M",
+      "name": "Aadyaashakti maa filling station",
+      "address": "HJ3X+JWR, Rani Road, Malla Talai, Udaipur",
+      "lat": 24.55412279999999,
+      "lng": 73.6497681,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJDcoqiRnwZzkRIKgbdSU9dQs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, SH 50, Sisarma, Udaipur",
+      "lat": 24.562303,
+      "lng": 73.65538099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIQHUbinvZzkRYyscO6LksnY",
+      "name": "KSV Filling Station",
+      "address": "GMJW+JQC, Nela bypass road, Gordhan Vilas Rural",
+      "lat": 24.5315679,
+      "lng": 73.6968885,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJk5PJ2avvZzkR_h_3-64ioa8",
+      "name": "IndianOil",
+      "address": "Ground Floor Nela, Udaipur Byepass, H Magri, Udaipur",
+      "lat": 24.53153,
+      "lng": 73.697401,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDVzF_JfvZzkRZ6AaxY7a3pA",
+      "name": "LAKECITY CNG CENTER",
+      "address": "India",
+      "lat": 24.5483812,
+      "lng": 73.6882499,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJX30dFwDvZzkRGnF9_UgWWgo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, 100 Feet Road, Sector 13, Hiran Magri, Udaipur",
+      "lat": 24.5486657,
+      "lng": 73.6947971,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJk_9nqIrtZzkRSu9wvFt9cUs",
+      "name": "IndianOil",
+      "address": "Ground Floor Kaya, Road, Dhundi, Ahmedabad",
+      "lat": 24.4516001,
+      "lng": 73.6537001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJObNVpdzvZzkRcqHeGsu1Qxk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Sector 11, Hiran Magri, Udaipur",
+      "lat": 24.56133,
+      "lng": 73.69360999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXzaRbAvvZzkRIWPeD74nFEk",
+      "name": "MEERA GAS SERVICE",
+      "address": "262, Sector No.11, Hiran Magri, Udaipur",
+      "lat": 24.5596053,
+      "lng": 73.69601829999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ18nVVA7vZzkRrHIy8vLFu_E",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Jaisamand Road, Savina, Udaipur",
+      "lat": 24.5419101,
+      "lng": 73.7095701,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0WvoVnnvZzkRZgz0UD6Etis",
+      "name": "Bharat Petroleum, Petrol Pump -Karni Roop Service Centre",
+      "address": "Udaipur Road, Patel Bahwan, Udaipur",
+      "lat": 24.5652254,
+      "lng": 73.6937581,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy9EfnPPlZzkRgiyXEDaBDO8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Rampura Chauraha, near Eklingnath Garden, Udaipur",
+      "lat": 24.5834201,
+      "lng": 73.6546501,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6y1baMTlZzkR86Y7X2JWPWk",
+      "name": "Petrol Pump",
+      "address": "आजाद नगर, एकलव्य कॉलोनी, सीसराम रुरल",
+      "lat": 24.5835809,
+      "lng": 73.6570004,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJod7e483vZzkR6ggL62y-jWs",
+      "name": "Bharat Petroleum, Petrol Pump -Raj Filling Station",
+      "address": "UIT SUBCITY CENTRE, Udaipur",
+      "lat": 24.5596751,
+      "lng": 73.70372449999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJodvq-_vvZzkRjaPwrQmZ_fQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Reti Stand, Plot No 5, Tekri road, Udaipur",
+      "lat": 24.562228,
+      "lng": 73.701571,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJZR2ghHvZzkR_ON04NCUUUw",
+      "name": "IndianOil",
+      "address": "Gokul Village Road, Sector 9, Udaipur",
+      "lat": 24.5448526,
+      "lng": 73.7153842,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQVWJ527vZzkR-JRTIpfF-ZQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Sector 6, Hiran Magri, Udaipur",
+      "lat": 24.559361,
+      "lng": 73.716871,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8TrpkH_lZzkRcaIB5-MQCuU",
+      "name": "IndianOil",
+      "address": "Ground Floor, City Station Road, Udaipur",
+      "lat": 24.5745001,
+      "lng": 73.69970099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDwvjmn_lZzkREHExcTJWjjk",
+      "name": "Hindustan Petroleum Petrol Pump",
+      "address": "National Highway 927A, Jawahar Nagar, Ganga Gali, Udaipur",
+      "lat": 24.5749056,
+      "lng": 73.6997916,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJl2tbtlLlZzkRnFLk61GA1x4",
+      "name": "BPCL Petrol pump (Dalal Brothers)",
+      "address": "SEWASHAM CIRCLE, Pathon ki Magri, Sevashram Choraha, Sundarwas, Subhash Nagar, Udaipur",
+      "lat": 24.581618,
+      "lng": 73.71958029999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlyJtvXnlZzkR3rQwlvo6Pp0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Nara Khada Chowk, opposite Town Hall, Udaipur",
+      "lat": 24.5815701,
+      "lng": 73.69590099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJewCFak_vZzkR_rQE8e2iJZk",
+      "name": "IndianOil",
+      "address": "Ground Floor, Jaisamand Road, Dakan Kotra",
+      "lat": 24.5057911,
+      "lng": 73.737126,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2W30PwDvZzkRgBKXRQ-ltMk",
+      "name": "Girja Vyas Petrol Pump - RK Puram,Udaipur",
+      "address": "GPV8+X47, Gokul Village Road, Gokul Village, Sector 9, Udaipur",
+      "lat": 24.5449036,
+      "lng": 73.7153039,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDyvUjGnvZzkRVmbWPh25nTg",
+      "name": "Essar Fuel Station",
+      "address": "Sector 6, Udaipur",
+      "lat": 24.5582622,
+      "lng": 73.7227554,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJN5QQPELvZzkREp9XtX8oqlo",
+      "name": "IndianOil",
+      "address": "Ground Floor Jhamarkotra Road, Hiran Magri Main Road, Manva Kheda, Udaipur",
+      "lat": 24.5594001,
+      "lng": 73.726101,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ46xLrxbvZzkR2NZJNK3WZ_4",
+      "name": "Bharat Petroleum Petrol Pump , SHREE KISHAN FILLING STATION",
+      "address": "Main Jhamarkotra Road, Udaipur",
+      "lat": 24.555521,
+      "lng": 73.73792999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpXLdjIjvZzkRHoCU8AVSEtc",
+      "name": "Pandit filling station",
+      "address": "Central Area, Udaipur",
+      "lat": 24.5633672,
+      "lng": 73.70186369999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMagXdMzoZzkRE9V3AxSjqbY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Kaladwas, Road, Eklingpura",
+      "lat": 24.549411,
+      "lng": 73.75195099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe3cC9BDvZzkReMtcgWnlgMw",
+      "name": "Petrol pump",
+      "address": "HP86+2RQ, Street Number 7, Central Area, Udaipur",
+      "lat": 24.5650827,
+      "lng": 73.7121188,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ11T2KNroZzkRHtZ1WZ18hls",
+      "name": "IndianOil",
+      "address": "Ground Floor Kaladwas, Girwa, Udaipur",
+      "lat": 24.5391,
+      "lng": 73.7620001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXzQN2tTvZzkRKYctmnPS374",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sector 4, Hiran Magri, Udaipur",
+      "lat": 24.5676011,
+      "lng": 73.72158859999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWZEmCavpZzkRKfVvH1WTcas",
+      "name": "Nayara Petrol Pump - Shrinath Filling Station",
+      "address": "Umarda road, Udaipur",
+      "lat": 24.5356389,
+      "lng": 73.7670387,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9Q4G2_XvZzkRQXzFs2dq5S8",
+      "name": "BPCL Radhe Krishna Filling Station",
+      "address": "Manwa khera, Pratapnagar, Eklingpura",
+      "lat": 24.5630044,
+      "lng": 73.740073,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFWicTMyRZzkRRfZ59kXRlDQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 8, Hiran Magri Main Road, Udaipur",
+      "lat": 24.5712653,
+      "lng": 73.7221465,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1wR6EEbvZzkRJ0OfHofSWC8",
+      "name": "Bharat Petroleum Petrol Pump , PATEL FUEL STATION",
+      "address": "PLOT NO 2, 4, Savina Main Road, Hiran Magri, Udaipur",
+      "lat": 24.5714041,
+      "lng": 73.7228504,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwds2EQDlZzkR82PjP5hUHJk",
+      "name": "Adani Cng pump",
+      "address": "NH927A, Udaipole, Jawahar Nagar, Ganga Gali, Udaipur",
+      "lat": 24.5748407,
+      "lng": 73.6997773,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJVx6sclTvZzkRGfJJH1HLhRw",
+      "name": "Shree Ramkripa Filling Station",
+      "address": "HPCV+V9R, Road Number 1, NH-8, Square Near FCI Office, Madri Industrial Area, Transport Nagar, Udaipur",
+      "lat": 24.5722437,
+      "lng": 73.74339499999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJA8sr3KbvZzkRgwkvN032dek",
+      "name": "Baba Ramdevji Filling Station",
+      "address": "B, opp. Airtel Office, 173, Road Number 12, Madri Industrial Area, Udaipur",
+      "lat": 24.5750648,
+      "lng": 73.7422819,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJJw5nTirvZzkRayUaoV64lYM",
+      "name": "Baba Ramdev Ji Fuels",
+      "address": "near Airtel Zonel Office, 01, Khempura Main Road, Udaipur",
+      "lat": 24.5751779,
+      "lng": 73.7422327,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ65L0A3nlZzkRFSyplETaRrU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Road, Surajpole, Udaipur",
+      "lat": 24.5801201,
+      "lng": 73.6973801,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeZCVBHnlZzkRsnghF_VnkRs",
+      "name": "IndianOil",
+      "address": "Ground Floor, Surajpole, Nada Khada, Udaipur",
+      "lat": 24.58040009999999,
+      "lng": 73.697301,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaZqjpXnlZzkRksIbYGuPNVo",
+      "name": "Bharat Petroleum, Petrol Pump -Udaipur Filling Station",
+      "address": "Ashoka Cinema Road, Shakti Nagar, Udaipur",
+      "lat": 24.5812157,
+      "lng": 73.6969658,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhYgkUQDvZzkRbHXW5istAUc",
+      "name": "Cng Petrol Diesel",
+      "address": "HPFW+WFG, Transport Nagar, Udaipur",
+      "lat": 24.5755033,
+      "lng": 73.7466283,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ9fM2eQDvZzkRj-bVyLNjPRo",
+      "name": "BP UDAIPUR (BPCL COCO)",
+      "address": "road no 1, E-263, Madri Industrial Area, Transport Nagar, Udaipur",
+      "lat": 24.5755377,
+      "lng": 73.7467424,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJseNIEgDlZzkRXfW6BJfDmUI",
+      "name": "Hp petrol pump",
+      "address": "opp. Town Hall, 5, Panchsheel Marg, Thakkre Baba Conlony, Bapu Bazar, Shakti Nagar, Udaipur",
+      "lat": 24.5815396,
+      "lng": 73.6964376,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJCS0Lw-fpZzkRWELBqgW4WYM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, opposite Reliance Chemotex, Transport Nagar, Udaipur",
+      "lat": 24.567438,
+      "lng": 73.761777,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJyy_W5V_lZzkRzdXhDu5HloM",
+      "name": "IndianOil",
+      "address": "Ground Floor Chittorgarh Rd, Dungla, Udaipur, Mangalwar",
+      "lat": 24.585445,
+      "lng": 73.712479,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJz_BTdZDpZzkRTaxVSr0iq44",
+      "name": "IndianOil",
+      "address": "Ground Floor Bhoiyon Ki Pancholi, Kanpur",
+      "lat": 24.5671483,
+      "lng": 73.7645291,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYw4tP5foZzkRoT7DwSTHtok",
+      "name": "IndianOil",
+      "address": "Ground Floor, H Magri, Girwa, Udaipur",
+      "lat": 24.5674699,
+      "lng": 73.7761189,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJp0bXcQDpZzkRRseYgEacX44",
+      "name": "बालाजी फिलिंग स्टेशन लकडवास",
+      "address": "HR33+C5X, Lakadwas",
+      "lat": 24.5536196,
+      "lng": 73.80299169999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJle15ZgDrZzkRGOybTZ_Fyfw",
+      "name": "S N mince Diesel Pump",
+      "address": "FRPQ+PJ5, Way to Personal Office, Jhamar Kotra",
+      "lat": 24.4867516,
+      "lng": 73.83911599999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJzwsScHLlZzkRDe_y8SZ6VMQ",
+      "name": "Bharat Petrol Pump, Chetak Circle",
+      "address": "National Highway 76A, Hospital Road, Chamanpura, Udaipur",
+      "lat": 24.5907599,
+      "lng": 73.6894272,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_7ndtHPlZzkRl28l2MT5RD0",
+      "name": "IndianOil",
+      "address": "Ground Floor Chetak Circle, &, Hospital Road, Dhundi, Udaipur",
+      "lat": 24.5907001,
+      "lng": 73.6922001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJw85zpnblZzkRCs0Btc0InpI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Hospital Road, Udaipur",
+      "lat": 24.589795,
+      "lng": 73.69526499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6QIQ7pnlZzkRdmMWmRHogNY",
+      "name": "Bharat Petroleum, Petrol Pump -Udai Filling Station",
+      "address": "100 Feet Rd, Near, University Road, Keshav Nagar, Udaipur",
+      "lat": 24.5919215,
+      "lng": 73.7113729,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbdbSJ0DlZzkRQ8EizuN4HbM",
+      "name": "Tea Store",
+      "address": "B181, Neemuch Kheda, Udaipur",
+      "lat": 24.6111404,
+      "lng": 73.67895279999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJxaNUiW3lZzkRBZhhJK1eMAA",
+      "name": "Aadarsh Indane Gramin Vitrak",
+      "address": "3rd Street, Akola",
+      "lat": 24.6063741,
+      "lng": 73.6859813,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKW5FfdHlZzkRoiiTxt8Od6Y",
+      "name": "Gurukripa Petroleum Exchange",
+      "address": "Damani Building, 7, Hospital Road, Seth Ji Ki Bari , Opposite MB Hospital, Chamanpura, Udaipur",
+      "lat": 24.590569,
+      "lng": 73.691935,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJcxpOiwzlZzkR9ChUSaRyAyo",
+      "name": "IndianOil",
+      "address": "Ground Floor, Dhundi, Panchwati, Sardarpura",
+      "lat": 24.5976001,
+      "lng": 73.69330099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7ZjrWwXlZzkRsfmsCU5QfFw",
+      "name": "Nayara Petrol Pump, Kedaar Petroleum Pvt Ltd",
+      "address": "Nayara Fuel Station, New Fatehpura, Panchwati, Udaipur",
+      "lat": 24.60643689999999,
+      "lng": 73.68997279999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJT-ey9vPlZzkRzZB84uSaF3M",
+      "name": "tulsi filling station",
+      "address": "HMQW+VC4, DHUNIMATA, Udaipur",
+      "lat": 24.5896418,
+      "lng": 73.6960757,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPQJERADlZzkRrkrI27pY_q8",
+      "name": "Bharat Petroleum Pump",
+      "address": "1, opp. gurudwara, near new BPCL petrol pump, opp, Gurudwara Road, Shastri Circle, Shakti Nagar, Udaipur",
+      "lat": 24.5866952,
+      "lng": 73.69799600000002,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJNYNzPuLlZzkRZM_gxc_Xg-k",
+      "name": "IndianOil",
+      "address": "Ground Floor, 80 Ft Road Ashoka Palace Rd, H Magri Phulla, Udaipur",
+      "lat": 24.6024507,
+      "lng": 73.70066899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqZ_rx_LlZzkR-L4jUoHxkfw",
+      "name": "Adani CNG",
+      "address": "RK Circle, Pulla Bhuwana, Udaipur",
+      "lat": 24.6074398,
+      "lng": 73.6987486,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYwI-3AflZzkR54QBQNKs6sk",
+      "name": "Bharat Petroleum, Petrol Pump -Diggaj Fuels",
+      "address": "Shobhagpura, Udaipur",
+      "lat": 24.6073654,
+      "lng": 73.698813,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC2nr2_zkZzkRcmEdYOw9oEw",
+      "name": "IndianOil",
+      "address": "Ground Floor, Saiphon Chourha, H Magri, Bedla Road, Fatehpura, Udaipur",
+      "lat": 24.6208624,
+      "lng": 73.6898832,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJu_Z5YP_lZzkR1ktbBR9URWM",
+      "name": "Sai Kripa Fuels Petrol Pump",
+      "address": "khasra number 1470, Plot no. 1, 1475, New Bhupalpura, Udaipur",
+      "lat": 24.5914357,
+      "lng": 73.7042347,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJI5hcn5zlZzkR2YLpwkTEgQA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, 100 Feet Road, Shobhagpura, Udaipur",
+      "lat": 24.600267,
+      "lng": 73.709069,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2328IqrlZzkRH8RBb85AWoc",
+      "name": "Sai Filling petrol Station",
+      "address": "near Coca cola factory, Badgaon Main Road, Ramgiri, Udaipur",
+      "lat": 24.6440509,
+      "lng": 73.6752337,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmR8kD6HlZzkRmK7MWHFuLxQ",
+      "name": "Nayara Petrol Pump - Yuvin Petroleum",
+      "address": "JP48+FCW, Shobhagpura, Udaipur",
+      "lat": 24.606226,
+      "lng": 73.7156627,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJp8FAJRHmZzkRxB4Rbi_pMYs",
+      "name": "Nayara Petrol Pump Transport Nagar",
+      "address": "1-C, Airport Rd, Janakpuri, N.B. Nagar, Bedwas Airport Road Janakpuri, N Bhairway Nagar, Bedwas, Transport Nagar, Jharnon Ki Sarai",
+      "lat": 24.59396049999999,
+      "lng": 73.7628625,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJX4nOShbmZzkRsaPgJwBMNuU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 76, Bedwas, Udaipur",
+      "lat": 24.5939334,
+      "lng": 73.764814,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJF-kv0G3kZzkRp83Y3AZlQCc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, opposite Zohra Marble, Amberi",
+      "lat": 24.6533746,
+      "lng": 73.7191259,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHQuN5cTlZzkRj7yvricCsPQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Khasra No 489, Airport Road, Sunderwas, Udaipur",
+      "lat": 24.586828,
+      "lng": 73.739229,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3ZP8HADlZzkRuVYxw0RJ6NI",
+      "name": "Jagdish filling station",
+      "address": "New, Old RTO Road, Pratap Nagar, Udaipur",
+      "lat": 24.5987314,
+      "lng": 73.7446966,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJo2SnA-LlZzkRKQpbIHGfwQo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Khasra No 1157/231/A & 1154 Plot No 3/A/1, A/2 & B/1, Pratap Nagar, Udaipur",
+      "lat": 24.5950012,
+      "lng": 73.7465637,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmTmrDQnlZzkRWVD1w_tEnVo",
+      "name": "New BPCL petrol pump Meera Nagar Bhuwana",
+      "address": "JP97+7F9, Bhuwana, Udaipur",
+      "lat": 24.6181543,
+      "lng": 73.7137398,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJLwRH48HnZzkRnPqe3ZXXO6A",
+      "name": "Bharat Petroleum, Petrol Pump -Eklingji Service Centre",
+      "address": "Bhuwana, Udaipur",
+      "lat": 24.591305,
+      "lng": 73.75026559999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaSHZ-wjmZzkRQprDvHhucK0",
+      "name": "MS Vishal Filling Station - Bharat petroleum",
+      "address": "HQR2+VCX, Near Ambe Mata Mandir, Airport Road, Pratap Nagar, Udaipur",
+      "lat": 24.5922493,
+      "lng": 73.7511184,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfffEdcDnZzkRIkMGRTjM6wY",
+      "name": "Nayara Petrol Pump",
+      "address": "Power House, Debari, NH76, Udaipur",
+      "lat": 24.6086,
+      "lng": 73.816479,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLW9DlnDnZzkRlu8yvLWsabk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No MDR 36A, RIICO Industrial Area, Gudli",
+      "lat": 24.640228,
+      "lng": 73.82891099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIYXOXmTdZzkRc74xWeflirw",
+      "name": "Hari Priya Filling Station",
+      "address": "Dabak, Udaipur Road, Udaipur",
+      "lat": 24.6205939,
+      "lng": 73.849642,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJiWs6tRfmZzkR7JtPqnkk2RE",
+      "name": "Bharat Petroleum, Petrol Pump -Siddhartha Energy Station",
+      "address": "SIDDHARTHA ENERGY STAT, Udaipur",
+      "lat": 24.5947015,
+      "lng": 73.76970220000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSTN-38rnZzkR6kCce30BoLc",
+      "name": "VC Filling Station",
+      "address": "Airport Road, Nakoda Nagar, Udaipur",
+      "lat": 24.5915759,
+      "lng": 73.7552132,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsbbkIVTnZzkRn_abbhZY0a8",
+      "name": "CNG PUMP (UDAIPUR ECO ENERGY)",
+      "address": "Bheru Singh Ji Ki Bari, Rajasthan Vidhya Peeth, At, Pratap Nagar, Udaipur",
+      "lat": 24.5916205,
+      "lng": 73.7542382,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJF7yBWuPnZzkRP3tNuOCx3TI",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kurabad Road, Bichhri, Dhundi, Debari",
+      "lat": 24.591995,
+      "lng": 73.82940099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP5y41hTnZzkR3JNdg5pyshA",
+      "name": "IndianOil",
+      "address": "Ground Floor Dabok Chour, Chouraha, Pratapnagar, Udaipur",
+      "lat": 24.6100743,
+      "lng": 73.8232957,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe5UprHjlZzkRKTvtgnB1dxk",
+      "name": "IndianOil",
+      "address": "Ground Floor, Dabok Chour, Pratapnagar Chouraha, Dabok",
+      "lat": 24.6100743,
+      "lng": 73.8232957,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-wBsDMjnZzkR1FcZlr2bS3M",
+      "name": "DEBARI GATE FILLING STATION",
+      "address": "JQM3+2XW, VILLLEGE VADA, DHINKLI",
+      "lat": 24.6326046,
+      "lng": 73.7549628,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJe2Hcl_3nZzkRhI_MOejuTCM",
+      "name": "Harikripa fuel station",
+      "address": "Plot no. 1, Gudli",
+      "lat": 24.6257893,
+      "lng": 73.8216233,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs5hB-WLDZzkRs4krMAyz0cA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Kurabad Road, Girwa, Debari",
+      "lat": 24.5762625,
+      "lng": 73.8459738,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM7Wp2KXCZzkRW9KIm46aziQ",
+      "name": "Quality Filling Station",
+      "address": "HRGW+5XW, Unnamed Road, 313024, Sakroda",
+      "lat": 24.5754158,
+      "lng": 73.8477936,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZXtedInnZzkRK7-4Px2xUOA",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Reliance Pump, Bhalon Ka Guda, Debari",
+      "lat": 24.6180274,
+      "lng": 73.838669,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJW57uZQDnZzkRlCWQ7nWLBrU",
+      "name": "Relaince petrol pump debari",
+      "address": "JR9Q+8RP, Tulsidas Ji Ki Sarai",
+      "lat": 24.6181796,
+      "lng": 73.83962489999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJhwHwZ1HjZzkRMNQ9TKVFuEw",
+      "name": "IndianOil",
+      "address": "opposite BSF Camp, Ground Floor NH 27,, Rathoro Ka Guda, opposite BSF Camp, Udaipur",
+      "lat": 24.6676273,
+      "lng": 73.66022339999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhQHjZNv8ZzkRuz56c0yzWN8",
+      "name": "IndianOil",
+      "address": "Ground Floor, Girwa, Dhundi, Barodiya",
+      "lat": 24.6941298,
+      "lng": 73.6360931,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEdA0XgT9ZzkRdgLD-3rP3YM",
+      "name": "HARIHAR FILLING STATION",
+      "address": "teh badgaon NH27, Barodiya",
+      "lat": 24.6945749,
+      "lng": 73.63614369999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJt8N6S9rlZzkRdSKYudxhQ2E",
+      "name": "Fuel Marchant",
+      "address": "Lakhawali Road, Bedla, Udaipur",
+      "lat": 24.6467816,
+      "lng": 73.6905902,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ_7UXlOr9ZzkR1xJ-b71L9CA",
+      "name": "Bharat Petroleum, Petrol Pump -Badrinath Filling Station",
+      "address": "Oswal Bhavan, Bara Bazar Road, Nada Khada, Udaipur",
+      "lat": 24.7214205,
+      "lng": 73.6289082,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsZavcQDlZzkROzMhT_VTiUY",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 8, Bhuwana, Udaipur",
+      "lat": 24.629311,
+      "lng": 73.711775,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMeo2cgDlZzkR3ey06x82xNA",
+      "name": "Cng pump",
+      "address": "Indian Oil Corporation, Ashok Chowk, Adarsh Nagar, Jaipur",
+      "lat": 24.6292438,
+      "lng": 73.7117659,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJp6S1UBDlZzkR_Hj4caMnVNc",
+      "name": "Eklingji Service center",
+      "address": "NH 8, Sukher, Udaipur",
+      "lat": 24.6389352,
+      "lng": 73.7154031,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs6vOCDrlZzkRi-WAsUdMKTo",
+      "name": "R.K. Fuels",
+      "address": "near bank of baroda, Sukher Road, Udaipur",
+      "lat": 24.6379514,
+      "lng": 73.7158884,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQcsQfpvlZzkRpNW9cfrrAOI",
+      "name": "Diamond Motors BPCL Petrol Pump",
+      "address": "Sukher Road, Sukher",
+      "lat": 24.6469671,
+      "lng": 73.71839659999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQ-ESO07kZzkRAkKeZzMzSSM",
+      "name": "Amritdhara Submersible Pumps",
+      "address": "JPH7+48G, Sulabh Shochalaya Road, Sukher",
+      "lat": 24.6278219,
+      "lng": 73.7133422,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJW4CtR9zlZzkRoed-bZ7qmWU",
+      "name": "DEBARI GATE FILLING STATION 2",
+      "address": "MP3J+7XX, Dheekli Road, Udaipur",
+      "lat": 24.6532303,
+      "lng": 73.7324759,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJqwGNZaTjZzkR0bYUIL_iBJ4",
+      "name": "IndianOil",
+      "address": "Ground Floor, Mohanpura",
+      "lat": 24.71049290000001,
+      "lng": 73.7314253,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs7PKIgDjZzkR0dTdTrkyO3k",
+      "name": "SHREEJlCNG",
+      "address": "NH 8, NATHDWARA ROAD, Mohanpura",
+      "lat": 24.710505,
+      "lng": 73.73172269999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJdYld21bjZzkRigUAFYy3gXw",
+      "name": "Royal Biodiesel Feeling Station",
+      "address": "Opp. Prem Sagar Dhaba, NH-8 Eklingji Bypass,Nathdwara, Road, Udaipur",
+      "lat": 24.7238518,
+      "lng": 73.73163810000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJwbPhGPzdZzkR-iRHBB2JdZE",
+      "name": "IndianOil",
+      "address": "Ground Floor Mavli, Ghasa, Road, Bijanwas",
+      "lat": 24.6942,
+      "lng": 73.8480001,
+      "open_now": true
+    }
+  ]
+}

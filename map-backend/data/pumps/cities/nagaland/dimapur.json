@@ -1,0 +1,1035 @@
+{
+  "city": "Dimapur",
+  "state": "Nagaland",
+  "count": 128,
+  "center": {
+    "lat": 25.8833,
+    "lng": 93.7333
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJD-zEZB3jRTcRhzAwvaL1HFE",
+      "name": "IndianOil",
+      "address": "Ground Floor, Diezephe",
+      "lat": 25.8386922,
+      "lng": 93.7024457,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1eexTQH7RTcRr21Xb9550vU",
+      "name": "IndianOil",
+      "address": "Ground Floor, Dhansiripar",
+      "lat": 25.7909323,
+      "lng": 93.6281628,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJf_xDP7edRjcRXy12CiO1Z30",
+      "name": "IndianOil",
+      "address": "Ground Floor, Diphu",
+      "lat": 25.8047519,
+      "lng": 93.6036711,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKwXOgcnjRTcRVi_kS2Unhfc",
+      "name": "Zalal",
+      "address": "Diphu Rduuuggh",
+      "lat": 25.8579586,
+      "lng": 93.7127024,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ1x_AOLzjRTcRPFIilkSxEnc",
+      "name": "IndianOil",
+      "address": "Ground Floor Marcofed, Sukhovi",
+      "lat": 25.77925669999999,
+      "lng": 93.7253234,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEzs02P_9RTcRW1q-ZbfTjwU",
+      "name": "M/S DGM SHOKHUVI",
+      "address": "ROAD, GATE, Sukhovi",
+      "lat": 25.7758927,
+      "lng": 93.7229725,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJCd4NYgD9RTcRL7v_w8Siaps",
+      "name": "HP PETROL PUMP SHOKHUVI",
+      "address": "QPGF+75F, Dimapur",
+      "lat": 25.7756983,
+      "lng": 93.7229242,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ13545GP9RTcRtKRlKUiHQTU",
+      "name": "M/S MARCOFED ZUNHEBOTO",
+      "address": "Unnamed Road, Zunheboto, Dimapur",
+      "lat": 25.7773366,
+      "lng": 93.7242151,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKYyEip_9RTcRJyN1QaAPl_U",
+      "name": "Bharat Petroleum Petrol Pump , M.K. ASSERTION STATION",
+      "address": "146/0375, NH-29, TSIEPEMAPO. & PS, Medziphema",
+      "lat": 25.7759344,
+      "lng": 93.7238645,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJQFKUVv9RTcRgwC_lK6CwXs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Patta No, SVC/259, Shokhuvi, Chümoukedima, Dimapur",
+      "lat": 25.7680583,
+      "lng": 93.7195521,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTa2wR7f7RTcR5Abz61cHA0M",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Chumoukedima, Dhansiripar",
+      "lat": 25.7634455,
+      "lng": 93.6089587,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWbAYSFwIRjcR7BnNkUeXtFA",
+      "name": "Petrol Pump",
+      "address": "RQJH+638, 7th Mile, Dimapur",
+      "lat": 25.83052959999999,
+      "lng": 93.7777186,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJBYR9X2IIRjcR4d86K64q_No",
+      "name": "Rashmi filling Station",
+      "address": "NH 39, Dimapur",
+      "lat": 25.817988,
+      "lng": 93.7826813,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrcpDPVAIRjcRQDhF8y6zp3o",
+      "name": "IndianOil",
+      "address": "6th Mile, Dimapur",
+      "lat": 25.8403884,
+      "lng": 93.7747277,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFwDEmHcJRjcRF8_dcZ2xGxg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Peren Road, Virazouma, Chümoukedima, Dimapur",
+      "lat": 25.8041667,
+      "lng": 93.7494722,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8b0aPZ79RTcRrcJ-OIhXh24",
+      "name": "IndianOil",
+      "address": "Ground Floor, Chümoukedima, Tenyiphe I",
+      "lat": 25.8114603,
+      "lng": 93.7583049,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP0nxTQcJRjcRMpgNXdrtuT0",
+      "name": "IndianOil",
+      "address": "Ward No 10 Chumukedima, Khovanala, Road, Khopoanaula, Dimapur",
+      "lat": 25.815305,
+      "lng": 93.763579,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTeAg8JXjRTcR5WtFT8ZigTo",
+      "name": "Marcofed Ikishe Service Station",
+      "address": "Ikishe Villages, Sovima Road, Disagaphu",
+      "lat": 25.8490367,
+      "lng": 93.73297780000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJYckv07AJRjcRFGyvgp0kBbg",
+      "name": "Marcofed Ikishe",
+      "address": "Ikishe Village, 5th Mile, Dimapur",
+      "lat": 25.8467341,
+      "lng": 93.7501463,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJy9rC_tgJRjcRNRo20MkHKm4",
+      "name": "GREEN FUEL STATION",
+      "address": "2nd Gate Surzha Rd, Dimapur",
+      "lat": 25.8058065,
+      "lng": 93.7773033,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNdQ4g1UJRjcRi6Ks-_mUpME",
+      "name": "M/S GREEN FUEL STATION Chumoukedima",
+      "address": "Church Road, Chümoukedima, Dimapur",
+      "lat": 25.8070185,
+      "lng": 93.78016389999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJge-I_1IJRjcREJbcBCVNBDo",
+      "name": "IndianOil",
+      "address": "Ground Floor, Chumukedima, National Highway 29, 7th Mile, Tenyiphe I",
+      "lat": 25.829717,
+      "lng": 93.77718499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJI9o7MOQJRjcR599W1gejrEE",
+      "name": "Marcofed 7thmile Indian oil petrol",
+      "address": "National Highway 29, 7th Mile, Dimapur",
+      "lat": 25.8321588,
+      "lng": 93.77716319999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGfyWA_UJRjcRkyLRBjF4IRM",
+      "name": "AM PM GAS STATION",
+      "address": "AMPM GAS Station, Kohima Road, 7th Mile, Dimapur",
+      "lat": 25.8306113,
+      "lng": 93.7780097,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJG66oft0JRjcRvsQNdQmK0js",
+      "name": "Nagaland State Co Operative Marketing And Consumer Fed Ltd",
+      "address": "Sugar Mill, Dimapur",
+      "lat": 25.8488583,
+      "lng": 93.7714233,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJK53hvpYJRjcR4I6NowZYdYg",
+      "name": "Swudu Filling Station",
+      "address": "near Rincho Academy, 53, Selouphe Diphupar Road, Sovima, Chumukedima, Dimapur",
+      "lat": 25.8556486,
+      "lng": 93.7616121,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJvXlbBw_jRTcRTQYTORdvBeA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Thilixu, Dimapur",
+      "lat": 25.8637915,
+      "lng": 93.72968399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8T7nIufjRTcRPwmk-PkUa_A",
+      "name": "IndianOil",
+      "address": "Block 7, Thahekhu",
+      "lat": 25.863601,
+      "lng": 93.722679,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9fh8krMJRjcRQAKVNbnSviI",
+      "name": "IndianOil",
+      "address": "Ground Floor, National Highway 29, Dimapur",
+      "lat": 25.854801,
+      "lng": 93.76976499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ731-R6IHRjcRB0Aukn23bvY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Chümoukedima, Dimapur",
+      "lat": 25.8019809,
+      "lng": 93.7934348,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdbC7iuoJRjcRkz0M0VgfIGs",
+      "name": "IndianOil",
+      "address": "Ground Floor, Near Patkai Auto Nomash College, National Highway 29, Chümoukedima, SeithekemaA",
+      "lat": 25.8102284,
+      "lng": 93.7986299,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7UKcDdwJRjcR6whZhHeZXX4",
+      "name": "Premium Fuel Station",
+      "address": "Dimapur Bypass, Niuland",
+      "lat": 25.8059561,
+      "lng": 93.79893009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYexpDwAJRjcRshUcVlOpWvA",
+      "name": "Kushiabill village",
+      "address": "RQ4X+5H6, Dimapur Bypass, Khusiabil",
+      "lat": 25.8054131,
+      "lng": 93.79890569999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJezWN3IPjRTcRvfufu4-VUEs",
+      "name": "IndianOil",
+      "address": "Ground Floor, Thilixu, Medziphema",
+      "lat": 25.8735985,
+      "lng": 93.73729,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdUnkVmcJRjcRge4vDw7C8ls",
+      "name": "Grace Service Station",
+      "address": "VQ88+JQR, Diphupar, 4th Mile, Dimapur",
+      "lat": 25.866616,
+      "lng": 93.76689669999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm3qFx53jRTcRbf6L_1R3bYg",
+      "name": "Jordan Service Station Bharat Petroleum",
+      "address": "SH36, Thahekhu Village, Dimapur",
+      "lat": 25.8768768,
+      "lng": 93.71577309999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ86ki478JRjcRgq01vxdodSs",
+      "name": "Choice Filling Station",
+      "address": "3rd Mile, Dimapur",
+      "lat": 25.87429029999999,
+      "lng": 93.7645397,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJf_vw4GMJRjcR_6wuHOcHX3c",
+      "name": "Pure Energy Bharat Petroleum",
+      "address": "VPJW+7V4, Full Nagarjan Road, Dimapur",
+      "lat": 25.8806444,
+      "lng": 93.7471885,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxa7SQXvhRTcRS41eD0C6LQ8",
+      "name": "Marco Fed Seithekema C",
+      "address": "SeithekemaC",
+      "lat": 25.8296535,
+      "lng": 93.81013639999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJIdgQU7QFRjcRspaPl_wrH0c",
+      "name": "IndianOil",
+      "address": "Ground Floor Kukidolong, NH 29, Medziphema",
+      "lat": 25.7632289,
+      "lng": 93.83143539999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS9E5nNEFRjcRoB5l66ulZ7Q",
+      "name": "IndianOil",
+      "address": "Ground Floor, Jharnapani, Medziphema",
+      "lat": 25.761573,
+      "lng": 93.83278399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJa_KThqkLRjcRPQR0WA57neA",
+      "name": "Indian oil",
+      "address": "Ground Floor, Showuba, Khopanala",
+      "lat": 25.8478464,
+      "lng": 93.8182988,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC_5qKAAJRjcRRoHJQsmTwOs",
+      "name": "Premium fuel station",
+      "address": "RRX9+4CX, Bypass Road, Disagaphu",
+      "lat": 25.8478567,
+      "lng": 93.818615,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ76AqqAAJRjcRgKgSERBLi90",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Nihoto",
+      "lat": 25.8526417,
+      "lng": 93.8030282,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCzWTV1MJRjcRSDguGLtsTZU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Kocharihola",
+      "lat": 25.849217,
+      "lng": 93.8223709,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3eK0ffsJRjcReOJzCNTatEg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Bypass, Diphupar, Shouba Old",
+      "lat": 25.8536371,
+      "lng": 93.81823419999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-xEJZT4HRjcRN03PzbUflL0",
+      "name": "VIVOLIE SERVICE STATION",
+      "address": "National Highway 29, Kukidolong, Dimapur",
+      "lat": 25.7699777,
+      "lng": 93.8173628,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ6fbOYLoJRjcRMiQfiaOlfJE",
+      "name": "Foot hill service",
+      "address": "old showba, rd, Niuland",
+      "lat": 25.8590256,
+      "lng": 93.81123129999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJp5FiitQJRjcRJMMWqKnw5OQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Showba Old, Ground Floor Foothill Road, near Niuland, Bypass, Dimapur",
+      "lat": 25.8590601,
+      "lng": 93.8115401,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmfkEtoIJRjcRKQDvY0otghw",
+      "name": "IndianOil",
+      "address": "Patta No 628, Aoyimti",
+      "lat": 25.8614438,
+      "lng": 93.8018736,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGwQ0GQAJRjcRNAjPVT_ZacI",
+      "name": "Roso uddin",
+      "address": "VR66+V9, Kocharihola",
+      "lat": 25.8621455,
+      "lng": 93.81090879999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJI2hObGoJRjcRGRzB_7wY4HM",
+      "name": "IndianOil",
+      "address": "Ground Floor Khel Naga United, 4th Mile, Phuswu, Dimapur",
+      "lat": 25.863203,
+      "lng": 93.793751,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlddR1boJRjcR2_nop-zULfY",
+      "name": "Gk Filling Station",
+      "address": "24naga United, Naga United Village, Golaghat",
+      "lat": 25.8641557,
+      "lng": 93.8022405,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ0WpG8eoFRjcR4G6cz1WrJoc",
+      "name": "Ms ONG AGENCY",
+      "address": "Jharnapani, Dimapur",
+      "lat": 25.7601682,
+      "lng": 93.83641949999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJt-PEIt4JRjcReo5eGRvRqm0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Thahekhu",
+      "lat": 25.873894,
+      "lng": 93.811754,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1Yz7vyAJRjcRrgnCoPc01mo",
+      "name": "Mayo Enterprise",
+      "address": "Pherima",
+      "lat": 25.8749525,
+      "lng": 93.8231024,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ2YvDgd0FRjcRmh2d1coSqU0",
+      "name": "Medziphema auto center",
+      "address": "National Highway 29, Jharnapani, Medziphema",
+      "lat": 25.7573506,
+      "lng": 93.84804199999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJA34SSY8HRjcRFGgu7D9Zbtw",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kuhuboto",
+      "lat": 25.88419069999999,
+      "lng": 93.8107256,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkSlXAjwJRjcRoQJSb3x8XJA",
+      "name": "N M Filling Station",
+      "address": "Village Nihoto, Taluka, Kuhuboto",
+      "lat": 25.8844936,
+      "lng": 93.8106739,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJC4MjoHjhRTcRZoRnCwNKqao",
+      "name": "IndianOil",
+      "address": "Ground Floor, Adc Court, Junction, Dimapur",
+      "lat": 25.907029,
+      "lng": 93.70261,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJaH3e3jhRTcRsSLT2zZavUM",
+      "name": "Nayara Petrol Pump",
+      "address": "NH-36, Duncan Bosti, Dimapur",
+      "lat": 25.9087298,
+      "lng": 93.7026413,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ93dZIoXhRTcRB4ji9JemEOI",
+      "name": "Essar Petrol Pump",
+      "address": "WP56+X9X, Landmark Colony, Dimapur",
+      "lat": 25.9099994,
+      "lng": 93.71098459999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJd5M_9o_hRTcR4escVK3rVdU",
+      "name": "Naga Service(Bharat Petrol Pump)",
+      "address": "WP67+472, P.W.D Colony, Fellowship Colony, Dimapur",
+      "lat": 25.9102624,
+      "lng": 93.7131251,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJiTzFDCDiRTcRCYPelKFEoo4",
+      "name": "Friendship service station Bharat Petroleum",
+      "address": "Army Supply, Road, Lhomithi Colony, Signal Bosti, Dimapur",
+      "lat": 25.8988506,
+      "lng": 93.7219633,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ17whHAXiRTcRLkZ0iXbQQEk",
+      "name": "Essar Petrol Pump",
+      "address": "Half Nagarjan Road, Kuda Village, Half Nagarjan, Dimapur",
+      "lat": 25.8897682,
+      "lng": 93.7349469,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmZQ_7QTiRTcR8jKnMHGWV9g",
+      "name": "M/S. Nagarjan Services Station",
+      "address": "Half Nagarjan Road, Kuda Village, Half Nagarjan, Dimapur",
+      "lat": 25.891496,
+      "lng": 93.73503570000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_yjltEvjRTcRzg-mJ0b6plo",
+      "name": "Ummeed Prison Welfare Service Station",
+      "address": "district Jail, near Eden Hospital, Oriental Colony, Dimapur",
+      "lat": 25.899661,
+      "lng": 93.6997167,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJF1W5V37hRTcRQ0UnTw9p_04",
+      "name": "IndianOil",
+      "address": "Ground Floor, Oriental Colony, Dimapur",
+      "lat": 25.902692,
+      "lng": 93.699753,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3e1d9lThRTcRREqbX5N_RKY",
+      "name": "Kiphire Filling Centre",
+      "address": "H/no. 29, Jk Cottage, Oriental Colony, Dimapur",
+      "lat": 25.9012043,
+      "lng": 93.70246499999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJKzThQybhRTcRZ5QmIvKw2DI",
+      "name": "Shevah Enterprises",
+      "address": "Building 222, Duncan Basti, Dimapur",
+      "lat": 25.9103827,
+      "lng": 93.70257559999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJd0-YQprhRTcR7hK5uNUF36k",
+      "name": "IndianOil",
+      "address": "Ground Floor, Fellowship Colony, Dimapur",
+      "lat": 25.915111,
+      "lng": 93.71160599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVU9jeyLiRTcRnzNY2w4sZdU",
+      "name": "IndianOil",
+      "address": "Ground Floor, Signal Basti, Dimapur",
+      "lat": 25.891035,
+      "lng": 93.722617,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP4gVXX_hRTcRTXBsiapZjCA",
+      "name": "FaithServices",
+      "address": "5th Mile, Dimapur",
+      "lat": 25.9047866,
+      "lng": 93.7194068,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJe5TXjxThRTcRSjB4hKjNTfk",
+      "name": "Zinyu Gas Service",
+      "address": "Zinyu Gas Service, Tajen Ao Road, Dimapur",
+      "lat": 25.9138746,
+      "lng": 93.71692850000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJL9JBe5LhRTcRVpxYqhw24-Q",
+      "name": "Reliance Petroleum",
+      "address": "Ground Floor, near City Tower, Point, Notun Bosti, Dimapur",
+      "lat": 25.91223100000001,
+      "lng": 93.71959009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeVCEAg_hRTcRTSrzacmLyRE",
+      "name": "Bharat Petroleum, Petrol Pump -NES Dimapur City",
+      "address": "Dimapur",
+      "lat": 25.91183119999999,
+      "lng": 93.7202531,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHbuEv9HhRTcREMFJ3qur7LE",
+      "name": "Kivitoli Petrol Pump",
+      "address": "Shop No 0786, Hotel City Palace, MP Road, Naga Bazar, Police Colony, Dimapur",
+      "lat": 25.9079551,
+      "lng": 93.7262485,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJS5877MbhRTcRAyTYfYP4-JQ",
+      "name": "Nayara Petrol Pump",
+      "address": "Shop No 786, 409, MP Road, Naga Bazar, Police Colony, Dimapur",
+      "lat": 25.9079517,
+      "lng": 93.7264117,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ_____88JRjcRiUOVDMJJp2w",
+      "name": "IndianOil",
+      "address": "Ground Floor, Railway Colony, Dimapur",
+      "lat": 25.905919,
+      "lng": 93.72765799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZUxAYjLhRTcRY3Q0narf3A0",
+      "name": "Bharat Petroleum, Petrol Pump -Friendship Service Stn",
+      "address": "Dimapur",
+      "lat": 25.90941669999999,
+      "lng": 93.7285517,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJ4kIaQDhRTcRpeTkCVDOKwA",
+      "name": "K K SERVICE STATION",
+      "address": "WP6H+M9G, Police Colony, Dimapur",
+      "lat": 25.9116931,
+      "lng": 93.7284512,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJb_ctuFrhRTcRDcXm8Ea3Ac8",
+      "name": "Trinity Fueling Station",
+      "address": "Burma Camp, Dimapur",
+      "lat": 25.9094883,
+      "lng": 93.7296904,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJudCU-a3jRTcRfVHUjE5ljaQ",
+      "name": "IndianOil",
+      "address": "Dag No 91, Full Nagarjan Road, Kuda Village, Dimapur",
+      "lat": 25.8943944,
+      "lng": 93.7349981,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg-ofH2njRTcRuN5la1EfYlA",
+      "name": "IndianOil",
+      "address": "Ground Floor, Half Nagarjan, Dimapur",
+      "lat": 25.891409,
+      "lng": 93.73554,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJUKNKuzhRTcRWyUuILH34qM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Khermahal, Dimapur",
+      "lat": 25.913974,
+      "lng": 93.728089,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJA4WzFJHhRTcRtipd4HoBH7I",
+      "name": "Ms MARCOFED NUILAND",
+      "address": "Niuland",
+      "lat": 25.9201747,
+      "lng": 93.72402059999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJccb6QTDhRTcR0OCVbOFhw6I",
+      "name": "SM LOHE REFILL STATION",
+      "address": "Golaghat Road, Dimapur",
+      "lat": 25.9135616,
+      "lng": 93.7283932,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJPdTpNunhRTcRfxUqUAobaPI",
+      "name": "IndianOil",
+      "address": "Ground Floor, Khermahal, Dimapur",
+      "lat": 25.917316,
+      "lng": 93.729614,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTwI9kwfhRTcR1RP_fDX9xzs",
+      "name": "J K Gas Station",
+      "address": "Building 258, Medzephma, Dimapur",
+      "lat": 25.9172813,
+      "lng": 93.7306564,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJweYC1fbhRTcRJaKMqj0TteY",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kohima, Burma, Disagaphu",
+      "lat": 25.9129328,
+      "lng": 93.7332632,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJI_qtruPhRTcR2K89jZkhKqw",
+      "name": "IndianOil",
+      "address": "Patta No 1, Dag No 3213, 1643 & 29, Burma Camp, Dimapur",
+      "lat": 25.916183,
+      "lng": 93.73254299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvdzNdvEJRjcRC8aZ-bVJDD0",
+      "name": "Petrol Pump",
+      "address": "India",
+      "lat": 25.8898692,
+      "lng": 93.7579123,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXb1MtP3hRTcRIB_3ztMoOY4",
+      "name": "Essar Petrol Pump",
+      "address": "333, Walford Road, Walford Colony, Dimapur",
+      "lat": 25.9064043,
+      "lng": 93.74135930000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJg5V6wwIKRjcRug1S2Qs7XXs",
+      "name": "Highway Service Station",
+      "address": "2 Mile, National Highway 29, Padum Pukhuri, Dimapur",
+      "lat": 25.9003577,
+      "lng": 93.7528131,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJz-3kXQgKRjcROyuTocC4KfY",
+      "name": "IndianOil",
+      "address": "Purna Bazaar, NH 39, Dimapur",
+      "lat": 25.912134,
+      "lng": 93.745654,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhU-O1FkJRjcRMJh0lRIb9gk",
+      "name": "Bharat Petroleum, Petrol Pump -NES Dimapur Nh39",
+      "address": "DIMAPUR NH39, Dimapur",
+      "lat": 25.8932276,
+      "lng": 93.7560957,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY53uDYsJRjcRlckXVDTmB4g",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gorund Floor, Darogajan",
+      "lat": 25.8978717,
+      "lng": 93.7535075,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgWvX9YcJRjcRNyeN-K8q3x0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Nagarjuna Road, Dimapur",
+      "lat": 25.8824062,
+      "lng": 93.75952009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJW4kqMaAJRjcRZBcKcpO9ic0",
+      "name": "J.P Fuel Station",
+      "address": "Full Nagarjan Road, Dimapur",
+      "lat": 25.8824072,
+      "lng": 93.7597045,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBbLFpAIKRjcRHO8T0drmsyQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, Dimapur",
+      "lat": 25.899161,
+      "lng": 93.7530688,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC3X83ucJRjcRF_LGiyySXqI",
+      "name": "M/S AWOMI ENTERPRISES",
+      "address": "Full Nagarjan Road, 3rd Mile, Dimapur",
+      "lat": 25.8824845,
+      "lng": 93.7598435,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJSbZK1LzhRTcR4RFBETUBvmU",
+      "name": "Walford Service Station Walfor",
+      "address": "Walford Road, Dimapur",
+      "lat": 25.9063331,
+      "lng": 93.7414663,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJL3osz6wLRjcR35on42zIFfs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 39, Padum Pukhuri, Dimapur",
+      "lat": 25.9004234,
+      "lng": 93.75228779999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQ9LChOwJRjcRwffLVUhVDP4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Assam Rifles Training Centre, 3rd Mile, Dimapur",
+      "lat": 25.8810012,
+      "lng": 93.76184990000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC6bEjgYKRjcRfmJ4v-CfQDk",
+      "name": "Assam Oil",
+      "address": "WP4X+R42, NH 39, Purana Bazar, Dimapur",
+      "lat": 25.9070071,
+      "lng": 93.7477583,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJU4smEFkLRjcRFWgLpm1S59s",
+      "name": "CHINGJEN SERVICE",
+      "address": "Kohima Rd, Purana Bazar, Dimapur",
+      "lat": 25.9121762,
+      "lng": 93.7458202,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJS6k0pBDhRTcRJQbxumtEHGM",
+      "name": "Geo Filling Station Bharat Petroleum",
+      "address": "WPCM+8XQ, Naga Colony, Burma Camp, Dimapur",
+      "lat": 25.9210007,
+      "lng": 93.7350294,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJvcHMjDjhRTcRtL_noMZ7Rkk",
+      "name": "DAZHANG FUEL STATION",
+      "address": "Bilding 123, Burma Camp, Dimapur",
+      "lat": 25.9210058,
+      "lng": 93.7351936,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJR5sR3oELRjcRX8DTNEzR7WE",
+      "name": "Nagaland State Cooperative Marketing Consumer Fed Ltd",
+      "address": "WQ4X+9W8, Khughovi",
+      "lat": 25.9059197,
+      "lng": 93.7998352,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJtba3aMMLRjcRWhPFBCI1LRc",
+      "name": "M/s MARCOFED WATIYONGPANG",
+      "address": "Watiyongpang Jorhat Mokokchung Rd, Dimapur",
+      "lat": 25.9121147,
+      "lng": 93.7968087,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ6y5iD5QLRjcRjnkietuPHLE",
+      "name": "M/S MARCOFED TULI",
+      "address": "Tuli Town, Jorhat Mokukchung Rd, Dimapur",
+      "lat": 25.912181,
+      "lng": 93.7967403,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJM5ef5rEHRjcREGgc3z9qwjg",
+      "name": "IndianOil",
+      "address": "Ground Floor, Marcofed, Kuhuboto, Khugovi",
+      "lat": 25.9121552,
+      "lng": 93.7965892,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpQCzUAALRjcRMI5if9bkHJw",
+      "name": "MS MARCOFED KHUGHOVI",
+      "address": "Kohima Rd, Khughovi",
+      "lat": 25.9123493,
+      "lng": 93.796748,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHVS1Zp8LRjcRfLcuFB-2Qag",
+      "name": "IndianOil",
+      "address": "Ground Floor, Henivi",
+      "lat": 25.934972,
+      "lng": 93.7924019,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJ-ixA_cLRjcRqTnD8cdM2YQ",
+      "name": "Marcofed",
+      "address": "Khusiabil",
+      "lat": 25.9395935,
+      "lng": 93.7673118,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJF6mGyxwLRjcRAtkOpkTyB_w",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Dimapur",
+      "lat": 25.9402778,
+      "lng": 93.76388890000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmUHccTkLRjcRDxHVJMtZvq8",
+      "name": "MARCOFED KUSHIABILL SERVICE",
+      "address": "Khusiabil",
+      "lat": 25.9407654,
+      "lng": 93.762411,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNRz3B8_hRTcRWVnXzahsjug",
+      "name": "NAYARA ENERGY LAHAORIJAN",
+      "address": "Lahorijan, Dimapur",
+      "lat": 25.9368125,
+      "lng": 93.7309375,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXUalPALhRTcRCauEeaAKlw4",
+      "name": "Lumami Filling station",
+      "address": "bulding 111, Lahorijan, Dimapur",
+      "lat": 25.9306658,
+      "lng": 93.7329061,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJvzDANDDhRTcRiEX2kq74SzE",
+      "name": "Marcofed PFUSTERO",
+      "address": "Zakiesato Colony",
+      "lat": 25.9240402,
+      "lng": 93.7312967,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ47umCADhRTcR4iabWRKvHhs",
+      "name": "Ashok fuel station",
+      "address": "WPGM+F4W, Golaghat Road, Lahorijan, Dimapur",
+      "lat": 25.9262399,
+      "lng": 93.7328139,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJo5OhRqrnRTcRpczHNvz0BUw",
+      "name": "IndianOil",
+      "address": "Ground Floor, Dillai,Baghmari",
+      "lat": 25.967325,
+      "lng": 93.58487699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJF6Ta2ZwKRjcRYPgD4-8hJhM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Khatkhati, Bokajan",
+      "lat": 25.958424,
+      "lng": 93.74636600000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPffwzZsKRjcRXlQpLGSOjbU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Khatkhati",
+      "lat": 25.9626703,
+      "lng": 93.7508563,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL-WR2JcLRjcRZ2-9bDxHKWs",
+      "name": "SK ENTERPRISES",
+      "address": "S K Enterprises, 4th Lane, Dimapur",
+      "lat": 25.9418315,
+      "lng": 93.7594351,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJnVrJ-4_hRTcRN4QkS8LUKSw",
+      "name": "Tir Station",
+      "address": "Bulding232 Kohima, Dimapur",
+      "lat": 25.92107369999999,
+      "lng": 93.7352761,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJeQpoj7HhRTcRFgk9FR5lgJM",
+      "name": "Ms Marcofed Mongsenyimti",
+      "address": "Building 232, Burma Camp, Dimapur",
+      "lat": 25.9210821,
+      "lng": 93.73546089999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJzfrFHwl1RjcR8ejlqiziab0",
+      "name": "IndianOil",
+      "address": "Patta No 12, Bogijan Block 2, DAG No 310149, Gharialdubi, Bokajan",
+      "lat": 26.0160526,
+      "lng": 93.78634749999999,
+      "open_now": true
+    }
+  ]
+}

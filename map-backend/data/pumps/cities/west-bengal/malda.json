@@ -1,0 +1,555 @@
+{
+  "city": "Malda",
+  "state": "West Bengal",
+  "count": 68,
+  "center": {
+    "lat": 25.0108,
+    "lng": 88.1411
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJc_CuRShW-jkREp2RhIgZWiA",
+      "name": "Bharat Petroleum Petrol Pump",
+      "address": "V3Q5+VJ7, Natibpur",
+      "lat": 24.8896573,
+      "lng": 88.05905,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm_0Pr535-jkRVd5170mcIeQ",
+      "name": "Fuel Petroleum",
+      "address": "Charaktala Road, Gangaprasad",
+      "lat": 24.9416168,
+      "lng": 88.0703022,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJv-gg5Gr_-jkRExOqNmCJerk",
+      "name": "M/S GOUR BANGA REFILLING CENTRE",
+      "address": "BYASPUR, KAMLABARI, Malda",
+      "lat": 24.9301111,
+      "lng": 88.1031874,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlTRlxCj5-jkR3qZFiG3amMk",
+      "name": "JUHI ENGINERING WORKS",
+      "address": "near Sujapur, Sujapur Main Road, Kaliachak",
+      "lat": 24.9140089,
+      "lng": 88.08898579999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ71kRYyn_-jkR1Tq5MxeSpLM",
+      "name": "IndianOil",
+      "address": "Ground Floor NH 34, Farakka, near RHS Km Stone, 318 to 323, Road, Malda",
+      "lat": 24.935307,
+      "lng": 88.10662099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbeWhIwD5-jkRJ0_oyq55oWc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, PWD Road, Mothabari",
+      "lat": 24.926283,
+      "lng": 88.0383074,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRStXc0r_-jkR_NstcBvQuuI",
+      "name": "IndianOil",
+      "address": "Ground Floor Soudalapur, Baluchar, Malda",
+      "lat": 24.960249,
+      "lng": 88.10118899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQchmDSH_-jkRsawhBUS0uVA",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kamalabari, Gour, Malda",
+      "lat": 24.9414016,
+      "lng": 88.10879849999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaVjLe1v_-jkRKXiw52dmDX8",
+      "name": "Reliance Petroleum",
+      "address": "Ground Floor, Gourbanga, Kamalabari, Malda",
+      "lat": 24.9423572,
+      "lng": 88.109692,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJD2WrWKH_-jkRtW4DFrjwIbw",
+      "name": "Fuel Payment",
+      "address": "Modhughat, Sujapur",
+      "lat": 24.9098393,
+      "lng": 88.0905733,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJvyxg5Lf5-jkRxHJWkt3Rdho",
+      "name": "Dolphin Enterprise ,Meherapur",
+      "address": "Meherapur",
+      "lat": 24.9497125,
+      "lng": 88.0318906,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgbDYGQD_-jkR2rXtPqQ8Wm0",
+      "name": "Kamalpur Petrol pump",
+      "address": "W4X6+HM4, Gour Malda Station Road, Purana Guamalati",
+      "lat": 24.9488966,
+      "lng": 88.1117,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJxexQfpz5-jkRMjwyeagCcug",
+      "name": "Bharat Petroleum, Petrol Pump -Babla Fuel Service Centre",
+      "address": "KAMALAPUR, PO-MEHERAPUR, Babla",
+      "lat": 24.9591948,
+      "lng": 88.028183,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIzzKSAD_-jkR06QIGN--jtQ",
+      "name": "Maa Draupadi Filling Station",
+      "address": "X428+MV, Arazi Phulbari",
+      "lat": 24.9521067,
+      "lng": 88.1172988,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ0SmbUOH5-jkRaTI1z3qBgV4",
+      "name": "IndianOil",
+      "address": "Lock No 21003/93040 Mothabari, Hamidpur",
+      "lat": 24.910772,
+      "lng": 88.033959,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmUIa5Jb5-jkRNKodkoh-5L4",
+      "name": "POLLUTION KENDRA",
+      "address": "Gita More Road, Jot Gopalkagmari",
+      "lat": 24.9772915,
+      "lng": 88.0337268,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9416Jon5-jkRoOkGhZ3qprI",
+      "name": "IndianOil",
+      "address": "L/No 11013, 93429 Kagmari, Hamidpur",
+      "lat": 24.981373,
+      "lng": 88.03826099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTaGVSypW-jkRlhsA42qKLBU",
+      "name": "IndianOil",
+      "address": "Lock No 12018, 93692, NH 34, Jadupur",
+      "lat": 24.8885771,
+      "lng": 88.05440639999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7_J-eHv7-jkRKbEgZ8Iggeo",
+      "name": "ALEM MIA",
+      "address": "NUTUNPARA SATTARI MALDA NH-81, Malda",
+      "lat": 24.9932226,
+      "lng": 88.0379755,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhxxQIZH7-jkRfbHEtnHDgXQ",
+      "name": "S Mobile Centre",
+      "address": "Mathurapur",
+      "lat": 24.9936376,
+      "lng": 88.0379121,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrdiLw_r_-jkRwU6GplgSgNA",
+      "name": "IndianOil",
+      "address": "Ground Floor Khasimari, Kanchantar, Gour, Malda",
+      "lat": 24.912741,
+      "lng": 88.13188199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJt8wwv_v_-jkRy6nUQo5wQIQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kamalabari, Gabgachhi",
+      "lat": 24.971556,
+      "lng": 88.133652,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ57fuIH3--jkRR4qLBMzVQ30",
+      "name": "IndianOil",
+      "address": "Lock No 21010, 93040, NH 34, Jadupur",
+      "lat": 24.97693599999999,
+      "lng": 88.131485,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnTYMOIZX-jkRn3XFilfPxe4",
+      "name": "IndianOil",
+      "address": "Ground Floor, Maksudpur",
+      "lat": 24.8727957,
+      "lng": 88.0841902,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwdpaoIhX-jkRMq9R18jHdWs",
+      "name": "IndianOil",
+      "address": "Kh No 3206320732083209, PN 1446 & 1447, Bahadurpur",
+      "lat": 24.8848285,
+      "lng": 88.0215121,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs2AdHdn9-jkRy0hWeBDx0HQ",
+      "name": "Bharat Petroleum",
+      "address": "X4RR+CQC, Gour Road, Mokdumpur, Malda",
+      "lat": 24.9906571,
+      "lng": 88.1420476,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOYxzXrv_-jkRL9oQqd1lSgg",
+      "name": "Sumon Stor",
+      "address": "W5M8+82M",
+      "lat": 24.9333369,
+      "lng": 88.1650545,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJP4qk-CX_-jkRmh-9Y24vbeU",
+      "name": "Max Sen",
+      "address": "near Kashipal House, New, Maheshpur",
+      "lat": 24.9769097,
+      "lng": 88.1524445,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJqfsOFrMB-zkREWckkRefC2g",
+      "name": "IndianOil",
+      "address": "73, Jl 120 Khatian, Ajmatpur, Plot No Lr, Old Malda",
+      "lat": 24.9700775,
+      "lng": 88.1719572,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJk_bA7DL_-jkRxvnqWDzaGWY",
+      "name": "Bharat Petroleum- SAHODARI FILLING STATION",
+      "address": "X5H7+25F, Nalagola - Pakuahat - Malda Road, Char Kadir Pur",
+      "lat": 24.9775583,
+      "lng": 88.1629299,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJxzi-FHn--jkRvwM_Zbz30TA",
+      "name": "IndianOil",
+      "address": "Lock No, 21001, 93040, Godraipally Baluchar, Mokdumpur, Malda",
+      "lat": 24.9829965,
+      "lng": 88.13570759999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-SQ3KS__-jkRejgRXdXy3L0",
+      "name": "Bharat Petroleum, Petrol Pump -Bengal Oil Company ( Narayanpur)",
+      "address": "GUAR ROAD MALDA ( NARAY, Malda",
+      "lat": 24.9832448,
+      "lng": 88.13635,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH24NCnj--jkRnoMvtIkbFEQ",
+      "name": "IndianOil",
+      "address": "L No 13016/93429 NH 34, Mukdumpurmalda, Gour, Malda",
+      "lat": 24.987636,
+      "lng": 88.138018,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJh7eFbVb9-jkRLW6E7jeD3A8",
+      "name": "IndianOil",
+      "address": "Kh No LR 784 & 785, PN 210, 213 & 214, Jl No 112, Nityanandpur, Bachamari",
+      "lat": 24.9914058,
+      "lng": 88.16350539999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGR1B-0X9-jkRVUQWBuefvRg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 34, Malda Bypass Road, Nityanandapur",
+      "lat": 24.996503,
+      "lng": 88.165019,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKZ5oaMX9-jkRMHEnMM3gTk4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Rabindra Avenue, Malda",
+      "lat": 25.001107,
+      "lng": 88.139629,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGUi_osEB-zkRed_ZTHTcmmo",
+      "name": "IndianOil",
+      "address": "Ground Floor, Muchia",
+      "lat": 24.9631001,
+      "lng": 88.2041001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqbyWIM_9-jkRkGH_rLx1OXU",
+      "name": "IndianOil",
+      "address": "Lock No 21055, 93040, Rathbari, Baluchar",
+      "lat": 25.0039778,
+      "lng": 88.136556,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLUIowcj9-jkRw_AnpIODmQE",
+      "name": "Asish DD",
+      "address": "Nh34, Rathbari, Malda",
+      "lat": 25.0042085,
+      "lng": 88.1364766,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ96yOKQD9-jkRCWjzonNMmSM",
+      "name": "Malda",
+      "address": "246R+8CQ, Malda",
+      "lat": 25.0108408,
+      "lng": 88.14109669999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJW-ydFhUH-zkRNh-VoMtjQ9o",
+      "name": "IndianOil",
+      "address": "Plot No 1429 Jl No 249, Rishipur, Khatian No Lr 924931932934 Gouramari",
+      "lat": 24.93771630000001,
+      "lng": 88.2536166,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJF-2xZ1IB-zkRyrrFJkfkoYs",
+      "name": "IndianOil",
+      "address": "Nalagola - Pakuahat - Malda Road, Bulbulchandi",
+      "lat": 24.9782239,
+      "lng": 88.2429305,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJc5LYcQCr-zkRDU5rYwTHKJ0",
+      "name": "Mahananda filing station limited",
+      "address": "V6Q6+J73",
+      "lat": 24.88901929999999,
+      "lng": 88.21065779999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJe67WMmxZ-jkRqRgFiD7EtSg",
+      "name": "IndianOil",
+      "address": "Malda, Ground Floor Lakshmipur, English Bazar, Amrity",
+      "lat": 25.017672,
+      "lng": 88.0952101,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJE_Tx03P8-jkRXjh2Gt4NVt4",
+      "name": "Bharat Petroleum",
+      "address": "Pally Teknik, SH-10, Malda",
+      "lat": 25.01628,
+      "lng": 88.097154,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJF-ZvOpb9-jkRMj9r3snGUr4",
+      "name": "Bharat Petroleum, Petrol Pump",
+      "address": "249X+RQ4, Mangalbari",
+      "lat": 25.0195236,
+      "lng": 88.14946119999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0d3Q0HP8-jkRZk7-iZm0fMY",
+      "name": "Lakshmipur Petrol Pump",
+      "address": "238W+R2Q, Daulatpur",
+      "lat": 25.0170973,
+      "lng": 88.0951123,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJnRib95n7-jkRqXobZZaFjRw",
+      "name": "Baniagram Petrol Pump",
+      "address": "23H3+HVW, Bania Gram",
+      "lat": 25.0289773,
+      "lng": 88.05471519999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJsYj5-_D7-jkRtv9ZtoKSJcU",
+      "name": "IndianOil",
+      "address": "Kh No 619765921, JL No 29, Sonatala, Plot No 243, Amrity, Malda",
+      "lat": 25.02926709999999,
+      "lng": 88.05498089999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIwFHRWz8-jkRQsHoBj6fvnw",
+      "name": "IndianOil",
+      "address": "Lock No 12011/93429 Manikchawk Road, Baghbari, Bahirgachhi",
+      "lat": 25.014653,
+      "lng": 88.102942,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_QIi6vn8-jkRY_4aE8m1qNc",
+      "name": "IndianOil",
+      "address": "Lock No 21006, 93429, Jote, Arapur",
+      "lat": 25.039541,
+      "lng": 88.12041500000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdy5pOpb9-jkR-AaFERmk6Ko",
+      "name": "IndianOil",
+      "address": "Lock No 21037/93040, Baluchar",
+      "lat": 25.021132,
+      "lng": 88.15331599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJN68XIYP9-jkRrC16SxE1zDg",
+      "name": "Bharat Petroleum - Bengal oil Petrol Pump",
+      "address": "25J5+QRV, National Highway 12, Malda",
+      "lat": 25.0319922,
+      "lng": 88.159559,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJF2Q3CWz9-jkRD-rbOTgAkfw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Narayanpur, Aradpur",
+      "lat": 25.0528449,
+      "lng": 88.1528244,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4y2Yyzn9-jkRHRPXW9njZp4",
+      "name": "IndianOil - SWAGAT",
+      "address": "Ground Floor Narayanppur, Jatradanga",
+      "lat": 25.069709,
+      "lng": 88.145772,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJt2nR1vj5-jkR-SBM7J1fMMo",
+      "name": "IndianOil",
+      "address": "Ground Floor, Byepass Road, NH34, Sujapur",
+      "lat": 25.0106662,
+      "lng": 88.1699144,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFU848XD9-jkRrbFjzKH6P-g",
+      "name": "Behani Brothers",
+      "address": "Narayanpur PO & DT, Gauhati",
+      "lat": 25.0433415,
+      "lng": 88.15680499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJyWCRsTj9-jkR43G07npqAJE",
+      "name": "COCO Narayanpur (IOCL Jubilee Pump)",
+      "address": "National Highway 12, Mandilpur",
+      "lat": 25.0695962,
+      "lng": 88.1460821,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs70DHAsF-zkRCl8j8XmU_t4",
+      "name": "Anail Petrol Pump (BPCL)",
+      "address": "X7W8+WFR, Nalagola - Pakuahat - Malda Road, Anail",
+      "lat": 24.9973689,
+      "lng": 88.2661524,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNZV2qO3k-jkRJ-fjTqnRak0",
+      "name": "IndianOil",
+      "address": "Ground Floor Kharbari, to, Jhamuria Road, Budhia, Barkol",
+      "lat": 25.117409,
+      "lng": 88.06642900000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4-8jbrvl-jkR_NJy6ePM7Es",
+      "name": "Mamtaj Fuel Service",
+      "address": "Kuchiahi Mamtaj Fuel Service, Pirganj, Pukhuria",
+      "lat": 25.1176632,
+      "lng": 88.066183,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJiVRkfSnj-jkRXFJkUX9OTMg",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kaluadighi, Narayanpur, Malda",
+      "lat": 25.08622,
+      "lng": 88.139702,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjUEvUlzl-jkRBOdAz8W8fiU",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kutubganj, Pukhuria",
+      "lat": 25.1309869,
+      "lng": 88.01967169999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgUKfKTvx-jkRS9JBoFvbzQo",
+      "name": "Haripur Petrol Pump",
+      "address": "Haripur Hatkhola Bus Stop, Haripur, Ekbarna, Ratua, Malda, Pin-732204, NH 81, Chand Para",
+      "lat": 25.0733879,
+      "lng": 87.99504669999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMV3emp_9-jkRo6nGDyky7Cc",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kaluadighi, Narayanpur, Old Malda",
+      "lat": 25.10627,
+      "lng": 88.1486999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuX3PpePj-jkRtrKTdpfyowc",
+      "name": "M/S Shuvra Fuel Station",
+      "address": "446V+6V2, National Highway 12, Gungaon",
+      "lat": 25.1105064,
+      "lng": 88.1446315,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJBS8Dlyvj-jkRC2OIiLP6Mn8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 34, Pandua",
+      "lat": 25.115241,
+      "lng": 88.146273,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGTcvcIri-jkRubo884X6Ptk",
+      "name": "Reliance Petrol Pump",
+      "address": "45H3+M53, Pandua",
+      "lat": 25.129136,
+      "lng": 88.1529192,
+      "open_now": null
+    }
+  ]
+}

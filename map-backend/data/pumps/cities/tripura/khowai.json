@@ -1,0 +1,115 @@
+{
+  "city": "Khowai",
+  "state": "Tripura",
+  "count": 13,
+  "center": {
+    "lat": 24.0667,
+    "lng": 91.6
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJ73Y7RADdUzcRTcY9kB5pWRI",
+      "name": "MS SANSUGFILLING STATION",
+      "address": "2G4P+MH, Dakshin Padmabil",
+      "lat": 24.0067375,
+      "lng": 91.53647989999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ0YYvxETdUzcROHsc285E9QA",
+      "name": "IndianOil",
+      "address": "Ground Floor, Padmabil, Purba Bachaibari",
+      "lat": 24.0239462,
+      "lng": 91.5600575,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl9tFWTHZUzcR6-lMrkFzuFI",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Motor Stand, Kamalpur - Khowai Road",
+      "lat": 24.0653346,
+      "lng": 91.6066834,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfSrZupfbUzcRUANFXf-iAYw",
+      "name": "IndianOil",
+      "address": "Ground Floor, Rajnagar, Purba Ramchandraghat",
+      "lat": 24.0067001,
+      "lng": 91.615968,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRS68RwDZUzcR8gP0wRUP-NE",
+      "name": "M/S Renubala & Sons Petroleum Agency.",
+      "address": "NH-208, Agartala - Khowai Road, Jambura, Khowai",
+      "lat": 24.0538325,
+      "lng": 91.6155644,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWRShFgDFUzcRYWPVA7G4cuI",
+      "name": "MAJUMDER PETROL PUMP",
+      "address": "WJG6+X7J, Kalyanpur, Madhya Kalyanpur",
+      "lat": 23.9274565,
+      "lng": 91.6106461,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJGQDBterbUzcRruhcgl5AsQ0",
+      "name": "IndianOil",
+      "address": "Ground Floor, Rajnagar, Laxminarayanpur",
+      "lat": 24.012947,
+      "lng": 91.67452399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKWzG9FHfUzcR_jO57BaJ5nU",
+      "name": "মেসার্স নিয়াজ ট্রেডার্স",
+      "address": "3GXR+444",
+      "lat": 24.0977565,
+      "lng": 91.5403132,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJXVM_vRbZUzcR57qP3qrBkSk",
+      "name": "IndianOil",
+      "address": "Ground Floor, Khowai",
+      "lat": 24.071243,
+      "lng": 91.60337600000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQxTsn4nfUzcRtHJ_snCWD5k",
+      "name": "m/s sotota anterprice.",
+      "address": "Bazar, Road, Amuroad",
+      "lat": 24.1332505,
+      "lng": 91.5462348,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg7j2lVhfUTcRMWMW6VV-0ek",
+      "name": "রাজা মিয়া এন্ড সন্স",
+      "address": "5GWC+723, N204, Chunarughat",
+      "lat": 24.1956469,
+      "lng": 91.5200333,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJ94UjhvRfUTcRB_9SYv1AbKc",
+      "name": "Nasir Enterprise",
+      "address": "5FMJ+PVJ",
+      "lat": 24.1843292,
+      "lng": 91.4821482,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJAQAAAABfUTcR1HTZvHTRfEA",
+      "name": "মেসার্স এ. আর ট্রেডার্স",
+      "address": "5FMJ+PVJ",
+      "lat": 24.1843292,
+      "lng": 91.4821482,
+      "open_now": true
+    }
+  ]
+}

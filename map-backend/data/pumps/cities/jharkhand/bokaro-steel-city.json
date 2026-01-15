@@ -1,0 +1,587 @@
+{
+  "city": "Bokaro Steel City",
+  "state": "Jharkhand",
+  "count": 72,
+  "center": {
+    "lat": 23.7833,
+    "lng": 85.9833
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJqfDbwXE_9DkRXshlxHKjZlI",
+      "name": "Petrol Pump",
+      "address": "Bahadurpur",
+      "lat": 23.6521616,
+      "lng": 85.9442028,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJe4w-TaZr9DkRVP0jANoTGzk",
+      "name": "IndianOil",
+      "address": "Khata No 37, Plot No 591, Khetko",
+      "lat": 23.7518895,
+      "lng": 85.9063504,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6y5F14Nr9DkR0sERiQopwyc",
+      "name": "IndianOil",
+      "address": "Khata No 24, Plot No 959, Petarwar, Tenughat, Champi",
+      "lat": 23.7400975,
+      "lng": 85.8762665,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcXALiq5B9DkRuOC7RTZJ08k",
+      "name": "Indian Oil, Nageshwar Fuel Centre",
+      "address": "Bokaro, Sonpura, Dantu, Kasmar",
+      "lat": 23.6672151,
+      "lng": 85.9074651,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMwtFAKJB9DkRi2F7_RMoPSM",
+      "name": "General Store",
+      "address": "Chando",
+      "lat": 23.6573211,
+      "lng": 85.9255036,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJEVfpSOBr9DkR3PJf73og2G4",
+      "name": "IndianOil",
+      "address": "Ground Floor Jaridih, Argamo, Bermo, Ghandinagar",
+      "lat": 23.770859,
+      "lng": 85.92761999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5xhwKp5p9DkR88p_JhON_KM",
+      "name": "IndianOil",
+      "address": "PR7V+CX, Ulgara",
+      "lat": 23.7137965,
+      "lng": 85.8448823,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6a3Bkc8U9DkR363M7-oL-AY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Bermo",
+      "lat": 23.7715864,
+      "lng": 85.9399674,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlSRMsFI_9DkRmstHa5AnUK8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Kasmar Bahadurpur Road, Ponda",
+      "lat": 23.651779,
+      "lng": 85.939061,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnwvRxXo_9DkRzzpKf99ymL8",
+      "name": "Bhavna Fuel Station",
+      "address": "MW2Q+MJM, near Sadar Patel Public School, Ramghar - Bokaro Highway, Kamlapur",
+      "lat": 23.6517051,
+      "lng": 85.9390488,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH2Y_fs5r9DkRlH_qmm0wdwY",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kathara",
+      "lat": 23.7754,
+      "lng": 85.88668299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUU8P56Br9DkR3fWU2UvMPO8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Bermo, Kathara",
+      "lat": 23.7758037,
+      "lng": 85.88745589999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIVEv2fY_9DkRaAfTdVMOaWI",
+      "name": "Gola bokaro Jharkhand",
+      "address": "MX56+2J, Bakaspura",
+      "lat": 23.6576123,
+      "lng": 85.9616097,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJUVRHBgY_9DkRrXPVKLwhhp4",
+      "name": "IndianOil",
+      "address": "Ground Floor, Jaina More, Jaridih, Bahadurpur",
+      "lat": 23.6577412,
+      "lng": 85.9618974,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP0ORfIAW9DkREuFdqaFXQmA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Phusro",
+      "lat": 23.7602327,
+      "lng": 86.0141783,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs-qo5kMW9DkRtDVjHMhEsrk",
+      "name": "HP PETROL PUMP - KAILASH MISHRA FUELS",
+      "address": "HP Retail Outlet AT & PO Tantri PS- Jaridih, ON Tantri Tupkadih Road, Ranchi",
+      "lat": 23.742843,
+      "lng": 86.036692,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP9AH4LQ99DkRI2MgpRrKmzE",
+      "name": "Essar Petrol Pump",
+      "address": "National Highway 23, Jena, Tanrmohanpur",
+      "lat": 23.6666603,
+      "lng": 86.0351506,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ5bntb4899DkRpCfcygHetWc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Phusro Road, Jaridih, Jena, Jaina",
+      "lat": 23.6797387,
+      "lng": 86.0221177,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ923gLlM99DkRJZuYrPcK-us",
+      "name": "IndianOil",
+      "address": "Plot No 1306, Khata No 26 Khutri, Jenamore Road, Lakrakhanda, Phusro",
+      "lat": 23.7026281,
+      "lng": 86.0361672,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUT3hSZM_9DkRBgIZ4FWO3rw",
+      "name": "Bharat Petroleum, Petrol Pump -Tripathi Petrol Supply & Ser. Stati",
+      "address": "Dumri - Bermo - Jain Road, Jena, Bokaro Steel City",
+      "lat": 23.6632557,
+      "lng": 85.9829304,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcQ6jOwA99DkR3lD3ONyuW7Y",
+      "name": "HR FUEL KHUTRI",
+      "address": "P23P+37X, Khutri",
+      "lat": 23.7028862,
+      "lng": 86.0367656,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJF3IyejI99DkRGKgTsPZ1H7w",
+      "name": "IndianOil",
+      "address": "Khata No 76, Amlo, Khutri, Jaridih, Plot No 1050, Khutri",
+      "lat": 23.7041526,
+      "lng": 86.0394077,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzep_ly0U9DkRq0hjvQQc-nc",
+      "name": "IndianOil",
+      "address": "Bokaro, Ground Floor Potso,Phusro Bazar",
+      "lat": 23.762724,
+      "lng": 86.002948,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9ezlsi0U9DkR4MszzYvdUrU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Bermo",
+      "lat": 23.7632034,
+      "lng": 86.0042103,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ46L7hWI99DkRoeYVCE1FLW4",
+      "name": "IndianOil",
+      "address": "Ground Floor, Tupkadih, Jaridih, Lakrakhanda, Khutri",
+      "lat": 23.705413,
+      "lng": 86.0423474,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8farblk99DkRwa0rr5BJ6Eg",
+      "name": "ASHOKA AUTO SERVICE",
+      "address": "Jena, Bokaro Steel City",
+      "lat": 23.6677448,
+      "lng": 86.0198103,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJK2Vz0NI99DkRtTyTasKutTw",
+      "name": "Tripathi Petrol PUMP",
+      "address": "23, National Highway, Santi Nagar, Jena, Jaina",
+      "lat": 23.6655056,
+      "lng": 86.0203609,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJOwXb87Q99DkR2omg4I7fsZw",
+      "name": "IndianOil",
+      "address": "Ground Floor Jaina, Jena, Bokaro Steel City",
+      "lat": 23.6638754,
+      "lng": 86.0182811,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ12X37ikU9DkRWXI2jwPOz4Y",
+      "name": "IndianOil",
+      "address": "Railway Station, Ground Floor Bermo, Phusro,Potso, near Phusro, Bokaro",
+      "lat": 23.7665733,
+      "lng": 86.01135289999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCzgDs0kW9DkRR9vDFC2NxaM",
+      "name": "IndianOil",
+      "address": "Khata No 04, Plot No 88, Jarisih, Lakrakhanda, Tantri",
+      "lat": 23.7386108,
+      "lng": 86.0456322,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJc5GQAAA_9DkRfdhHngBLq-4",
+      "name": "Shankar Kumar",
+      "address": "MX35+PC7, Bahadurpur",
+      "lat": 23.6542846,
+      "lng": 85.9585544,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ_2B6A0oW9DkRxeZhL0xNeyg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Tupkadih Road, Jaridih, Tantri",
+      "lat": 23.7374866,
+      "lng": 86.0480566,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRWg4bOYX9DkRj7iyWjchzaA",
+      "name": "IndianOil",
+      "address": "AT & PO, Tantri",
+      "lat": 23.736136,
+      "lng": 86.049872,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJK2TVTQM_9DkRheFD9nFekJE",
+      "name": "JAINA AUTOMOBILES ( NAYARA PETROL PUMP)",
+      "address": "Tand Mohanpur, Jena, Bokaro Steel City",
+      "lat": 23.6669041,
+      "lng": 86.03529139999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXW0p62A99DkRbgBeMcwCrFA",
+      "name": "SHAMBHAVI FUELS (B.I.A.D.A)",
+      "address": "M3Q3+XRH, near Dalmia cement factory, Biada Street, Balidih, Bokaro Steel City",
+      "lat": 23.689932,
+      "lng": 86.0545966,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxY0OmeI89DkRbS_-1sWcO9o",
+      "name": "IndianOil",
+      "address": "Ground Floor, Balidih, Bokaro Steel City",
+      "lat": 23.6653764,
+      "lng": 86.0646484,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9ep8MOI89DkREkvQAL04X9Y",
+      "name": "IndianOil",
+      "address": "Railway Colony, Bokaro Steel City",
+      "lat": 23.6637767,
+      "lng": 86.0675342,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1RTzdgA99DkRUj6x54XYXtQ",
+      "name": "UREA PUMP",
+      "address": "M3M5+C6F, Balidih, Bokaro Steel City",
+      "lat": 23.6835707,
+      "lng": 86.0580585,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMR6olmoX9DkRIizDgYZ0F1g",
+      "name": "SHREE GANESH FUELS",
+      "address": "Main Road ,Turio , Bhandaridah Chandrapura - Pushro, Road, Bokaro Steel City",
+      "lat": 23.7551862,
+      "lng": 86.0533821,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnTrOLtoX9DkRd1MB1h9D_eI",
+      "name": "IndianOil",
+      "address": "Ground Floor Bhandhridah, Chandrapura, Turio",
+      "lat": 23.7554847,
+      "lng": 86.05341,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUWXrMwA99DkRykP-SyfvKEk",
+      "name": "Baba enterprises hp fules",
+      "address": "A-43/134, Housing Colony, Balidih, Bokaro Steel City",
+      "lat": 23.6726837,
+      "lng": 86.06756,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJIZiLYAA99DkRw7hoSRU2auc",
+      "name": "UREA DEF REFILLING CENTRE",
+      "address": "M29W+H9W, Tanr Balidih",
+      "lat": 23.6689937,
+      "lng": 86.04596260000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJkfre620Z9DkRVjLieqBe54U",
+      "name": "Arti Kumari",
+      "address": "Paschimpalli, Paschim Pally, Ghatiari",
+      "lat": 23.7467137,
+      "lng": 86.10688329999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJJUIpcegV9DkR7aeSpoeYhy4",
+      "name": "Supratim Automobiles Petrol Pump",
+      "address": "main road Kurpania, Bermo",
+      "lat": 23.78785989999999,
+      "lng": 85.9334057,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJk4MthLMU9DkRXcXNXXM1dvY",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sunday Bazar, Kurpania",
+      "lat": 23.788232,
+      "lng": 85.9333511,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJN8oQEgBr9DkRjGadzc0r5s8",
+      "name": "IndianOil",
+      "address": "Khata No 117, No 112, Gomia, Hazari",
+      "lat": 23.7821651,
+      "lng": 85.86422809999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJ1-TA-Zr9DkR090KnbMFQu4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Hazari More, Gumia",
+      "lat": 23.7846768,
+      "lng": 85.85898,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJU3olZABr9DkRNP3vuslBVgc",
+      "name": "Nayra petrol pump",
+      "address": "QVM5+W8F, Gumia",
+      "lat": 23.7848168,
+      "lng": 85.85829179999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5bX4MuRr9DkRaBN1Xga6CcQ",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 23.7861303,
+      "lng": 85.85614559999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJU3CQduRr9DkRP0rP5hcvOfw",
+      "name": "Hazarimore Pump",
+      "address": "QVP4+CCF, Gumia",
+      "lat": 23.7860721,
+      "lng": 85.8560485,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJN7oKOott9DkRs_WWaqlKdAw",
+      "name": "Bharat Petroleum Petrol Pump",
+      "address": "RVGG+RM, Kanjkiro",
+      "lat": 23.82711,
+      "lng": 85.87667859999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ19lHuVlt9DkRNv8fdLUcJAU",
+      "name": "Rahish Ansari",
+      "address": "Md Rahish Ansari, Kachho",
+      "lat": 23.8450421,
+      "lng": 85.87916539999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJe6cB9qAW9DkR-UkzbbdE6lY",
+      "name": "IndianOil",
+      "address": "Ground Floor, Dhori, Makoli, Potso",
+      "lat": 23.7863349,
+      "lng": 86.0136704,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQ9G5p6AW9DkRPCO8EjsVzp0",
+      "name": "NAYARA PETROL pUMP/ Ms Ishwar Petrol Pump",
+      "address": "Q2Q6+9WJ, Chapri",
+      "lat": 23.7884744,
+      "lng": 86.0122754,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6zeWwqEW9DkR6XCp0XD1XBY",
+      "name": "Ganga Jagdish Filling Station",
+      "address": "Q2M8+P9F, Makoli Road, Central Colony",
+      "lat": 23.7843182,
+      "lng": 86.0159319,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJIT4oBVcX9DkR9yTJRJth9L0",
+      "name": "Vishveshwar Fuels",
+      "address": "Dumri - Bermo - Jaina Road, Chapri",
+      "lat": 23.796955,
+      "lng": 86.014372,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFSPjGR8R9DkR0CxwAqIWhJo",
+      "name": "Jawed AUTO Electrical",
+      "address": "R2CM+H92, Birni",
+      "lat": 23.8213902,
+      "lng": 86.0333787,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJgW_tLEcR9DkRAcz_PJ8I08o",
+      "name": "IndianOil",
+      "address": "Khata No 10, near Potso, Plot No 146, Nawadih, Bhalmara",
+      "lat": 23.8252866,
+      "lng": 86.0303261,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJf9Fm5TcR9DkRotFF3c_gNV4",
+      "name": "IndianOil",
+      "address": "Mouza No 78, Khata No 18, Plot No 151, Amlo, Birni",
+      "lat": 23.82092,
+      "lng": 86.041657,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDbYVap8Z9DkRgyY8l3FJlso",
+      "name": "Anand Kumar",
+      "address": "Beliyatand, Narra",
+      "lat": 23.7852491,
+      "lng": 86.1075796,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJibDgkpYZ9DkRcpQIMu6uvj0",
+      "name": "Sunil Kumar",
+      "address": "Nara Beliyatand, Near Chandrapura",
+      "lat": 23.78532389999999,
+      "lng": 86.11044419999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ2_HkZ9QR9DkR_-_f5VNoSmY",
+      "name": "IndianOil",
+      "address": "Plot No 1855 Chirudih, Block, Nawadih, Potso",
+      "lat": 23.843746,
+      "lng": 86.051166,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUXbHlsIR9DkRIIQfcK_A9vA",
+      "name": "Kuddush",
+      "address": "Nawadih Main Road, Nawadih",
+      "lat": 23.8472761,
+      "lng": 86.0355911,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJlXdFVz0a9DkRCNwWfh6jJRA",
+      "name": "हिन्दु झटका मिट दुकान",
+      "address": "R4C7+WQ6, Nawadhi Road, Telo",
+      "lat": 23.8222998,
+      "lng": 86.1143803,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJKaQVIykR9DkRZfAWDt8sI2k",
+      "name": "M.S Laxmi Fules.",
+      "address": "Nawadih, Chirudih",
+      "lat": 23.8525308,
+      "lng": 86.04531209999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJkSfsg7_Z9jkR-DdXoolU_do",
+      "name": "IndianOil",
+      "address": "Jb No 6, Nawadih, Plot No 470, Kanjkiro",
+      "lat": 23.8401756,
+      "lng": 85.862481,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3UN3VABt9DkRiSBoa4atNLE",
+      "name": "Budgadda petrol pump",
+      "address": "RVR6+8W9, BTPS Main Road, Burgara",
+      "lat": 23.8402291,
+      "lng": 85.8618479,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ8Xw29RcR9DkRymBo658A6DU",
+      "name": "Krish Kumar",
+      "address": "At, Nawadih, Po, Kharpito",
+      "lat": 23.875187,
+      "lng": 86.0241918,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJbVXT69wR9DkRl2zA6mwLNdo",
+      "name": "Johar Petroleum",
+      "address": "Ps Nawadih, Joharpetroleum Po Surhi Dist, Bokaro",
+      "lat": 23.8925868,
+      "lng": 86.0358724,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJpTOVkNwR9DkRkvRqHcvpRNM",
+      "name": "Bharat Petroleum",
+      "address": "V2VP+4QW, Dumri - Bermo - Jaina Road, Surhi",
+      "lat": 23.8928735,
+      "lng": 86.0369466,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJcbM7rXIR9DkRyuTxUH5LLlU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Nawadih, Phusro, Dumri Road, Surhi",
+      "lat": 23.89584099999999,
+      "lng": 86.039361,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaQBqsJxV8TkR_2GCpulvjao",
+      "name": "IndianOil",
+      "address": "Ground Floor, Asurbandh",
+      "lat": 23.9150536,
+      "lng": 86.03749979999999,
+      "open_now": true
+    }
+  ]
+}

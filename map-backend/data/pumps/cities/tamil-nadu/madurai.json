@@ -1,0 +1,1515 @@
+{
+  "city": "Madurai",
+  "state": "Tamil Nadu",
+  "count": 188,
+  "center": {
+    "lat": 9.9252,
+    "lng": 78.1198
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJqaBiYIvRADsRjx1HbgM2oEk",
+      "name": "HP - Petrol Bunk (S R & Son's)",
+      "address": "MADURAI, RING ROAD, Kappalur",
+      "lat": 9.8424543,
+      "lng": 78.0250853,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJezcAHhTOADsRICUI0Zj264M",
+      "name": "IndianOil",
+      "address": "SY No. 200, 1, Thanakkankulam Main Road, Thiru Nagar",
+      "lat": 9.8827845,
+      "lng": 78.0377622,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9chbimXRADsRzaBQzbnN-ZU",
+      "name": "NAYARA PETROL BUNK",
+      "address": "Thirumangalam, old main road, Vidathakulam",
+      "lat": 9.808866199999999,
+      "lng": 78.0349075,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRbQsV3HQADsRS58j0YDPBQk",
+      "name": "Bharat Petroleum ( JASMINE FILLING STATION )",
+      "address": "R4R3+8R9, Mandela Nagar, Madurai",
+      "lat": 9.8407834,
+      "lng": 78.104624,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC3vbI5bPADsRIMASucvK9Cw",
+      "name": "Bharat Petroleum Corporation Limited",
+      "address": "37,Thiruparankundram, Road, Pasumalai, Madurai",
+      "lat": 9.8969021,
+      "lng": 78.08820759999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS53VPZvPADsR_qCLA1xRA8I",
+      "name": "Bharat Petrol Bunk",
+      "address": "W34X+273, Madurai - Tenkasi Main Road, Pasumpon Nagar, Mathuramalingapuram",
+      "lat": 9.9050014,
+      "lng": 78.09816190000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSytOXwPRADsRqtZDOAMWVS8",
+      "name": "IndianOil",
+      "address": "Ground Floor Kappalur, Near Terminal Junction, Valayankulam",
+      "lat": 9.834238,
+      "lng": 78.04488479999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJi2psCjfRADsRjIePR6TrYmc",
+      "name": "Kappalur CFA",
+      "address": "R2XG+958, Kappalur",
+      "lat": 9.848418799999997,
+      "lng": 78.0254663,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJYx42GJ3PADsRwT6mvw8yvbw",
+      "name": "Sri Meenakshi Auto Mobiles BHARAT PETROLEUM",
+      "address": "221, 3b, GST Main Road, Thiru Nagar",
+      "lat": 9.8806776,
+      "lng": 78.0491933,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJa5fcD5zRADsRrNCLzwzI96M",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "43/2, No 43/3/A, 43/7 & 42/11/A, Chockanathanpatti",
+      "lat": 9.842559999999999,
+      "lng": 78.0263405,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7_iuJP7RADsRYi1zD-VXzT0",
+      "name": "IndianOil",
+      "address": "Lock No 4259 , Sy No 114/2, Kappalurthirumangalam, Austinpatti, Uchapatti",
+      "lat": 9.865318799999999,
+      "lng": 78.02303150000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUwH83DLOADsRJLAzoF-KDUA",
+      "name": "IndianOil",
+      "address": "Ground Floor, Thiruparankundram",
+      "lat": 9.880375599999999,
+      "lng": 78.06388249999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFdBY8fTPADsR7rWywPQqx60",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 172, 4I & 172/13, Thanakkankulam",
+      "lat": 9.882631599999998,
+      "lng": 78.0403616,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6ThuAjjPADsR4GRQSCeU-eg",
+      "name": "IndianOil",
+      "address": "Madurai - Tenkasi Main Road, Thoppur",
+      "lat": 9.873929300000002,
+      "lng": 78.02697429999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVdTcc_XRADsRvKCP_OFb36c",
+      "name": "Landmark to dindigul",
+      "address": "India",
+      "lat": 9.845931199999999,
+      "lng": 78.0206529,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJG8YIAYzTADsRMDTewvila38",
+      "name": "Bharat Petroleum, Petrol Pump - Victory Enterprises",
+      "address": "GST ROAD, SIDCO Industrial Estate, Kappalur",
+      "lat": 9.856543299999998,
+      "lng": 78.0183192,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIy1zkgLSADsR9wdUnFq9teM",
+      "name": "Victory Enterprises",
+      "address": "D-56, SIDCO INDUSTRIAL ESTATE, Victory Enterprises, Kappalur",
+      "lat": 9.857046799999997,
+      "lng": 78.0183236,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8ZPCWUjPADsRjKIIsxxWCIo",
+      "name": "IndianOil",
+      "address": "No 178/2D1, Pandian Nagar, Thanakkankulam",
+      "lat": 9.887364999999999,
+      "lng": 78.043998,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmQgDEVnQADsR9Lp-Hc2odug",
+      "name": "Mithun Filling Station Bharat petroleum",
+      "address": "Madurai",
+      "lat": 9.8274452,
+      "lng": 78.0803818,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJbciT3TLOADsRsjXSkZoBm3I",
+      "name": "IndianOil",
+      "address": "Lock No 33, Pasumalai, Thiruparankundram",
+      "lat": 9.8876651,
+      "lng": 78.075485,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2YzyWwDPADsRgQCyTxrKeaU",
+      "name": "Indian Oil",
+      "address": "V3HP+M43, Thiruparankundram",
+      "lat": 9.879134299999999,
+      "lng": 78.08528690000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJLcEqyGnQADsR2WHTnUzS6e4",
+      "name": "Reliance Aviation Fuelling Station",
+      "address": "Madurai Airport",
+      "lat": 9.838376799999997,
+      "lng": 78.0894326,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJf_pFW7nPADsRlbhsDMbEPEg",
+      "name": "Reliance Petroleum",
+      "address": "V3VJ+MP8, Tirupparankunram Road, Pasumalai, Madurai",
+      "lat": 9.894503999999998,
+      "lng": 78.08130290000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJv0wGLkPRADsRqplUsX-du8E",
+      "name": "Bharat Petroleum Petrol Pump , COMPANY OWNED PUMP",
+      "address": "166/4A, AYYANPAPPAKUDIMADURAI SOUTH TALUK, Madurai",
+      "lat": 9.8652417,
+      "lng": 78.1018422,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-7HN2b3PADsRaj53AckQBRE",
+      "name": "go gas",
+      "address": "V3WP+58G, Tirupparankunram Road, Pasumalai, Madurai",
+      "lat": 9.895429499999999,
+      "lng": 78.08582369999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq6uqWQDTADsRsTd1TJbAlgs",
+      "name": "IndianOil",
+      "address": "TS No 92, Vagaikulam",
+      "lat": 9.829886,
+      "lng": 77.993281,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaWa1VvbPADsRFLNQImlC7p4",
+      "name": "IndianOil",
+      "address": "Tirupparankunram Main Road, Avaniyapuram",
+      "lat": 9.8827591,
+      "lng": 78.10831499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1U_VFJrPADsRQynna2CRME4",
+      "name": "IndianOil",
+      "address": "Ground Floor, Thiruvalluvar Nagar, Madurai",
+      "lat": 9.902359400000002,
+      "lng": 78.09505419999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAfJDJu_TADsRVZHdD4BoJ80",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "39, Madurai Road, Tirumangalam",
+      "lat": 9.825489899999997,
+      "lng": 77.9892734,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJyedhPEzSADsRFMyWXy7blPk",
+      "name": "Susee Petrol Gas Station",
+      "address": "RXGQ+3P6, National Highway 44, Tirumangalam",
+      "lat": 9.8251689,
+      "lng": 77.9892553,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ-QcWOwDTADsRZNFBcciEXZU",
+      "name": "VAIGAI INDANE GAS AGENCY LPG GODOWN SUNGURAMPATTI",
+      "address": "RXCQ+JMR, Tirumangalam",
+      "lat": 9.8216147,
+      "lng": 77.9891394,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZelVHYXNADsRCRAeN8IAy1c",
+      "name": "IndianOil",
+      "address": "Lock No 124, Thirumangalam SH 73, Karadikkal, Madurai",
+      "lat": 9.873160099999998,
+      "lng": 77.982508,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgz9UqoTPADsRnrQ9_a0AdOU",
+      "name": "Petrol Station",
+      "address": "W34X+GQG, Tirupparankunram Road, Andalpuram",
+      "lat": 9.9063147,
+      "lng": 78.0994611,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJn3MRjrHaADsRCI-YeHXu8T4",
+      "name": "HP Petrol Pump",
+      "address": "Villakku, Airport Mattuthavani Ring Road, Avaniyapuram",
+      "lat": 9.8629477,
+      "lng": 78.1237945,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxVC7m3_FADsR37iyFvuW5gM",
+      "name": "IndianOil",
+      "address": "Lock No 44, South Veli Street, Periyar, Madurai Main, Madurai",
+      "lat": 9.911714199999999,
+      "lng": 78.11310399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8ffYm3_FADsRLww9i9gkFw8",
+      "name": "TVS Petrol Pump- Bharat Petroleum",
+      "address": "W468+J57, 211, South Veli Street, South Gate, Periyar, Madurai Main, Madurai",
+      "lat": 9.911546099999999,
+      "lng": 78.1148716,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqQmjk3_FADsRXCrcYYok1fg",
+      "name": "Edison Enterprises Petrol Bunk, Dealer - Bharat Petroleum",
+      "address": "MADURAI TOWN, S.VELI STREE, Madurai",
+      "lat": 9.911806100000002,
+      "lng": 78.11244669999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0yewNXbPADsRoVoS4pu4ZVw",
+      "name": "IndianOil",
+      "address": "opposite PRC HO, Bypass Road Arul Nagar, opposite PRC HO, Madurai",
+      "lat": 9.913266099999998,
+      "lng": 78.096176,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJz-kGE4_FADsRQcaVWBZqKdg",
+      "name": "BP Petrol Pump",
+      "address": "W4G9+5C6, Tamil Sangam Road, Madurai Main, Poondhotam",
+      "lat": 9.925409,
+      "lng": 78.1185239,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxwVMr7TaADsRviNAKX2_-Ag",
+      "name": "IndianOil",
+      "address": "Ground Floor, Postal Training Centre, near Perungudi, Ring Road, Madurai",
+      "lat": 9.868832,
+      "lng": 78.128419,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4X0Q-lDFADsRdxBXIHuuxFU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Avaniyapuram Bypass Road, Vallanathapuram, Avaniyapuram",
+      "lat": 9.8781903,
+      "lng": 78.119243,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFY_pVFrFADsReIVVCiNfnUs",
+      "name": "IndianOil",
+      "address": "Lock No 6, Thandhai Pariyar Nagar",
+      "lat": 9.8821631,
+      "lng": 78.119301,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmf_WxRbFADsRzwg4hX-VkHo",
+      "name": "Bharat Petroleum COCO Pump, BP CHINTHAMANI",
+      "address": "Ring Road, Madurai - Thoothukudi Highway, Chinthamani",
+      "lat": 9.880257999999998,
+      "lng": 78.1374562,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ04S7w8vFADsRC4T8Hy29MlY",
+      "name": "GasPlus Auto LPG -Madurai",
+      "address": "Avaniyapuram Bypass Road, Madurai",
+      "lat": 9.885673699999998,
+      "lng": 78.117932,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXTF-8STFADsRhcrrYa6zl94",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 3, Ground Floor, near Toll Gate, Ring Road, Chinna Anuppanadi",
+      "lat": 9.884594199999999,
+      "lng": 78.1473244,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJw8zpmz3FADsRAZ9u1bn5Mjg",
+      "name": "RMR Fuels",
+      "address": "Nayara Petrol Bunk, 09, Nedugulam Main Road, Chinthamani",
+      "lat": 9.8908606,
+      "lng": 78.14189329999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ8buhnD3FADsRrFSlo48vYN8",
+      "name": "NAYARA",
+      "address": "India",
+      "lat": 9.891052199999999,
+      "lng": 78.1418494,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ_321bo_FADsRQoiBR9AO02k",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "82, Aruppukottai Road, Madurai",
+      "lat": 9.898470399999999,
+      "lng": 78.11971580000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuetfRjHbADsREQddE1N7Jjk",
+      "name": "IndianOil",
+      "address": "Ground Floor, SH 195, A, Pottapalaiyam",
+      "lat": 9.8406571,
+      "lng": 78.1627658,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJc_aDEADFADsRNeOwJ_iMmfw",
+      "name": "COCO Bharat Petroleum Villapuram",
+      "address": "21, Aruppukottai Road, Villapuram",
+      "lat": 9.905332699999997,
+      "lng": 78.1216685,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaYE1B3nFADsROQjfVMxmVF4",
+      "name": "Kerosene Bunk",
+      "address": "W459+WPV, South Gate, Periyar, Madurai Main, Madurai",
+      "lat": 9.909861399999999,
+      "lng": 78.119292,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJwVlXAoHPADsRncjdqem28gY",
+      "name": "IndianOil",
+      "address": "No 83, Lock, 499, Tirupparankunram Road, Pasumalai, Madurai",
+      "lat": 9.9094081,
+      "lng": 78.107773,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbZwVFQDFADsRnsWnYStnehs",
+      "name": "lakshmi petrol bunk, old sumathi petrol bunk",
+      "address": "V5W6+F99, Viraganur",
+      "lat": 9.896165300000002,
+      "lng": 78.16099009999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJW6QOPOHEADsR57X--vrIpFQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, Arasaradi, Viraganur",
+      "lat": 9.896033399999999,
+      "lng": 78.1613816,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQas6bqfFADsRsMZr1ahj8qs",
+      "name": "Bharat Petroleum",
+      "address": "159, near State Bank Of India, Kamarajar Salai",
+      "lat": 9.914476299999999,
+      "lng": 78.1416733,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJcch3bJ7FADsRxHQioq-xIrA",
+      "name": "IndianOil",
+      "address": "Lock No 82, 39 & 40, Old Kuyavar Palayam Road, Madurai",
+      "lat": 9.9148076,
+      "lng": 78.1290471,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJyagNQtHFADsR3FbHgUvwZBk",
+      "name": "Bharath petrolium corporate limited",
+      "address": "near Kambiliyampatti, Kosukurichi, Madurai",
+      "lat": 9.915706199999999,
+      "lng": 78.1193823,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZ6_EhxvFADsR0Ro-s5Z_wdc",
+      "name": "Propel Auto LPG",
+      "address": "95, New Ramnad Road, Near Mariamman Teppakulam, ,Iravathanallur Village, Madurai-South taluk",
+      "lat": 9.9089266,
+      "lng": 78.1497947,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJc9E93QfFADsRVY2LlEQ34nk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 159/2, near Theppakkulam Mariamman Temple, Kamarajar Salai, Teppakulam, Madurai",
+      "lat": 9.912364199999999,
+      "lng": 78.14567009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEb8jH2nFADsRsa8G1KjZdak",
+      "name": "Bharat Petroleum, Petrol Pump -Lakshmi Agency",
+      "address": "VASANTHAM NAGAR,TPK RD,M, Madurai",
+      "lat": 9.917788,
+      "lng": 78.12412599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4RxZLsbFADsRv8HKZsykYB0",
+      "name": "Praveen Fuels",
+      "address": "Uthamapalayam Main Road, Uthamapalayam, Madurai",
+      "lat": 9.918059699999997,
+      "lng": 78.1201167,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJGXgQBAjFADsRO9AIrtWRNqI",
+      "name": "IndianOil",
+      "address": "Lock, 11, New Ramnad Road, Madurai",
+      "lat": 9.913174800000002,
+      "lng": 78.1445068,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSWsncKfFADsRYQNhGUvWprQ",
+      "name": "Muthuvel Motors",
+      "address": "161/B2, Kamarajar Salai, Madurai",
+      "lat": 9.914525099999999,
+      "lng": 78.1415193,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmYh13BHFADsRhj9nzEtIflI",
+      "name": "Reliance Petroleum",
+      "address": "Survey No 1002, No 137, near Mile Stone 2 Km, Nh 49, Kamarajar Salai, Madurai",
+      "lat": 9.914359499999998,
+      "lng": 78.1428272,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJf-UW4YnFADsR_0148j5mGd8",
+      "name": "HP PETROL PUMP (Sri Vinayaka fuel station)",
+      "address": "Koli Medu, 14/1a1",
+      "lat": 9.898116,
+      "lng": 78.1696492,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJh3r0CQDRADsRFs5ovgQ4bDg",
+      "name": "HPCL Company Owned Retail Outlet",
+      "address": "Q3VV+8F8, Eliyarpatti",
+      "lat": 9.7932875,
+      "lng": 78.0937031,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYccmlIfFADsRA4tjs8bMLOM",
+      "name": "IndianOil",
+      "address": "PB No 76, Southern Railway Colony",
+      "lat": 9.9218357,
+      "lng": 78.1120864,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4fP_sErFADsRzgrT7cGtWGs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Railway Station, Westville Street, Madurai",
+      "lat": 9.922000999999998,
+      "lng": 78.11200099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0Y1RzLnEADsRwb6kI6OUm_c",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor K, Puliyankulam",
+      "lat": 9.8831451,
+      "lng": 78.182366,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ62PywofFADsRSvLgCUw6Hxk",
+      "name": "HP PETROL PUMP - KUMARAN AGENCIES ADHOC",
+      "address": "HPC Dealer West, 2, South Veli Street, Panthadi",
+      "lat": 9.922868,
+      "lng": 78.112355,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJT6Z7KYPFADsRkZ0cdN4B4w0",
+      "name": "Vaigai Gas Agency",
+      "address": "29, Vaithiyanathapuram Road, Near Kennet Road, Madurai",
+      "lat": 9.9250331,
+      "lng": 78.1198143,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ5ee38frFADsRWrOd3s1AF7M",
+      "name": "The Tamilnad Petrol Traders Asscn Ltd",
+      "address": "2nd Floor, PR Buildings, R No 10, 37, North Veli Street, Madurai",
+      "lat": 9.9249229,
+      "lng": 78.1141961,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJYQWLtmvPADsRJN7bYRhE9b0",
+      "name": "Shri Kanchivanam Agency",
+      "address": "Arasaradi, Madurai",
+      "lat": 9.923790799999997,
+      "lng": 78.1035194,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ5XY0IBTPADsRHljnUc8W5fU",
+      "name": "Bharat Petroleum, Petrol Pump -Kay Ess Enn Fuels",
+      "address": "PONMENI BYEPASS, MADURAI, Madurai",
+      "lat": 9.921399,
+      "lng": 78.0932237,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUd1XLInFADsROBMI6zgHqd4",
+      "name": "Kesavan Diesel Pump Sevice Station",
+      "address": "near Soundaram Industry, 56/B, Workshop Road, Madurai",
+      "lat": 9.92705,
+      "lng": 78.11635,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJT_LTQFXbADsRgncEfSh1cEo",
+      "name": "BPCL Petroleum",
+      "address": "V6C2+88W, Silaiman",
+      "lat": 9.8708505,
+      "lng": 78.2008397,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJoxKkMQDdADsRbG8x6kzKxvM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "SR No 3, Nanja Land, 4A/1A, Madurai - Rameswaram Highway, Tiruppuvanam",
+      "lat": 9.8320583,
+      "lng": 78.2484016,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLYfRGwDbADsR7YcbzW1dW2o",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 51/1A2, 50/10B & 50/10C1, Keeladi Road, Pasiyapuram",
+      "lat": 9.863144999999998,
+      "lng": 78.1959952,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJr8kbawDbADsRGd-hs83Xeh0",
+      "name": "Indian oil petrol pump",
+      "address": "SH 195, Valayankulam",
+      "lat": 9.8087739,
+      "lng": 78.1772428,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJv5T9O_bDADsRuK5FuxIIeE8",
+      "name": "Bharat Petroleum Petrol Pump , MAHIA FILLING STATION",
+      "address": "MADURAI - SIVAGANGAI ROADVIDATHAKULAM VILLAGE, URANGANPATTI, Madurai",
+      "lat": 9.915496,
+      "lng": 78.228483,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ754PYcHdADsR2zsVmte3GAA",
+      "name": "NAYARA PETROL BULK & EV CHARGING STATION",
+      "address": "R66W+FX4, Kaliyandur",
+      "lat": 9.8111291,
+      "lng": 78.2474479,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJobpQtN7OADsRtY7PQIHY4YQ",
+      "name": "Bharat Petroleum",
+      "address": "Theni Main Road, Nagamalai Pudukottai, Madurai",
+      "lat": 9.9381019,
+      "lng": 78.060694,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJq_6dYCrPADsRVcqsYhGzetk",
+      "name": "Bharat Petroleum",
+      "address": "X328+RJ7, Melakkal Road, Kochadai, Madurai",
+      "lat": 9.952044299999999,
+      "lng": 78.0665547,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ349jcEDPADsRIUWAipvlc5M",
+      "name": "IndianOil",
+      "address": "Kochadai Melakkal Road Melakkal, Road, Kochadai, Madurai",
+      "lat": 9.9357451,
+      "lng": 78.088509,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo_EgjGXPADsRNTZQSq2CMVs",
+      "name": "IndianOil",
+      "address": "47C, Travelers Bunglow Road, Madurai",
+      "lat": 9.927206099999998,
+      "lng": 78.099983,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSfP2ODXPADsRFp8GEmvtc-0",
+      "name": "IndianOil",
+      "address": "No 124 & 1008, Vilangudi, Madurai",
+      "lat": 9.954972099999999,
+      "lng": 78.086342,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg029gU3PADsRY1aZNqRNGsE",
+      "name": "IndianOil",
+      "address": "S No 38/123, Lock No 7 Vilangudi, Koodal Nagar, Madurai",
+      "lat": 9.953296099999998,
+      "lng": 78.099091,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkRPuMGLPADsRUd36fXb9mRA",
+      "name": "TET BPCL PETROL BUNK",
+      "address": "W4H5+7FR, New Jail Road, Ponnagaram, Arappalayam, Ponnagaram Colony",
+      "lat": 9.9282268,
+      "lng": 78.1086447,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJ_m-X73IADsRmOHGOBBrqpI",
+      "name": "HP PETROL PUMP - AYYAPPAN AGENCIES",
+      "address": "HPC Dealer Alaganallur Main Road Near Sivankoil,pothumpu Post, 232a, Vasantham Avenue, Madurai",
+      "lat": 9.97797,
+      "lng": 78.098097,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9ZhulabOADsROKnZ5zTv1Lk",
+      "name": "IndianOil",
+      "address": "Lock No 49, RTD Fdz, Palkalai Nagar",
+      "lat": 9.938391399999999,
+      "lng": 78.02391879999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXT1QMWDPADsRDHz74MnSrZc",
+      "name": "Sri Balaji automobiles Bharath Petroleum Petrol Bunk",
+      "address": "2, 1, Melakkal Road, Kochadai, Thuvariman",
+      "lat": 9.952079699999999,
+      "lng": 78.06652609999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKyAJnZLPADsR_Rx9F7VNwSY",
+      "name": "IndianOil",
+      "address": "Sammatipuram, Kochadai, Keelamathur",
+      "lat": 9.9450919,
+      "lng": 78.0746472,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP5G_SQDPADsR0sqKIQ4iSKQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "N S No 8/3, Kochadai, Madurai",
+      "lat": 9.943764,
+      "lng": 78.07830009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsx9GcxXPADsR4F2SL9k7j4M",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 118, NH 85, Theni Road, Kochadai, Madurai",
+      "lat": 9.932495099999999,
+      "lng": 78.08562049999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbfzqHCXJADsR7l5pqzrew8o",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Old, Dindigul Main Road, Paravai",
+      "lat": 9.968433,
+      "lng": 78.054902,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ369jDVjJADsR8KMu0AKuUI8",
+      "name": "Shell Petrol Pump",
+      "address": "Salem - Madurai Road, Madurai-North taluk",
+      "lat": 9.958027999999999,
+      "lng": 78.07936099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbynw78fJADsRohefrxELgog",
+      "name": "IndianOil",
+      "address": "Paravai 1st Bit, North, Vilangudi, Madurai",
+      "lat": 9.9686176,
+      "lng": 78.0569855,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJV9AMMz_JADsRdFeFk-6DpWY",
+      "name": "IndianOil",
+      "address": "Ground Floor, Samayanallur",
+      "lat": 9.9711115,
+      "lng": 78.04341579999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJr4gEpMjPADsRy3U62i0oFuA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 219/4, Madurai - Dindigul Road, Vilangudi, Madurai",
+      "lat": 9.9552052,
+      "lng": 78.0857224,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeTWZR2_PADsRoZQARdp0PE0",
+      "name": "Bharath Petroleum",
+      "address": "88/1, 88, Theni Road, Arasaradi, Harvey Nagar",
+      "lat": 9.927865899999999,
+      "lng": 78.0981745,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJF-0ls2LPADsR0XX9g3GaHVo",
+      "name": "IndianOil",
+      "address": "Ground Floor, New Jail Road, Madurai",
+      "lat": 9.9278254,
+      "lng": 78.10027769999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjTb7HUzPADsRZmMG0uN6is4",
+      "name": "Propel -Auto LPG Filling Station",
+      "address": "near ARC Parcel Service Sandhi Vidyalaya, No. 28, Dindigul Main Road, Vilangudi, Madurai",
+      "lat": 9.950539099999999,
+      "lng": 78.09475809999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpQ4CknPPADsRYiK52Ro0Fdo",
+      "name": "IndianOil",
+      "address": "No 228, S No 963, 1/4, Lock, Arappalayam, Madurai",
+      "lat": 9.935092000000001,
+      "lng": 78.1015174,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQ_hSo5jPADsRJGjKb7usHXk",
+      "name": "INDIAN OIL PETROL PUMP, (SYED RAFEEK & CO)",
+      "address": "15-2-22, Thathaneri Main Road, Thikathir, Thathaneri",
+      "lat": 9.9440136,
+      "lng": 78.1006178,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq7zLAtDPADsRskq_RcrL6Mw",
+      "name": "ABDULWAHITH K",
+      "address": "Kumuli Main Road, Cumbum, Madurai",
+      "lat": 9.939971799999999,
+      "lng": 78.103487,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ_YcmjVvPADsRWlX-e-4VTLU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "TS No 2458/2, Thathaneri Main Road, Thathaneri",
+      "lat": 9.940354899999997,
+      "lng": 78.103703,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXeyWzdvNADsRJveAIEtdwEw",
+      "name": "Bharat Petroleum Petrol Pump , DSR MAHA ENTERPRISES",
+      "address": "SY.223/9, KONKAR PULIYANGULAMTHENI, Madurai Road, Madurai",
+      "lat": 9.941737,
+      "lng": 77.993984,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9ZiAFADJADsRLUO_uXL7LTQ",
+      "name": "bharat petroleum, company owned dealer operated",
+      "address": "X37W+CV5, Chokkalinga Nagar, Koodal Nagar, Madurai",
+      "lat": 9.963520899999999,
+      "lng": 78.0972231,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKwfxgWnJADsRRHD69PoW8Po",
+      "name": "IndianOil",
+      "address": "Sikander Chavadi Vilangudi, Koodal Nagar, Madurai",
+      "lat": 9.964563900000002,
+      "lng": 78.0969903,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4UHV7yspBzsRQmpq5dR5ic0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 44/2B, Peraiyur Sedapatti, Road, Mangalaseru",
+      "lat": 9.9272014,
+      "lng": 78.116235,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJD1GVKnvMADsRWbOmOu2eZY0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Nagamalaipuram, Checkanurani",
+      "lat": 9.941046199999999,
+      "lng": 77.9823436,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRXirJZbHADsR_W65blWmG20",
+      "name": "IndianOil",
+      "address": "Kulamangalam Main Road, Sellur, Meenambalpuram",
+      "lat": 9.9383462,
+      "lng": 78.1186859,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDx77FOnFADsRV1mZp3WZwUU",
+      "name": "Bharat Petroleum Petrol Bunk",
+      "address": "PT Rajan Road, Chinna Chokikulam",
+      "lat": 9.9421619,
+      "lng": 78.12967780000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFdlRW7vFADsRM5AbTkkP-a0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "4, Sivagangai Main Road, Rajakoor, Sathamangalam",
+      "lat": 9.9255785,
+      "lng": 78.1401539,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpflLpJbFADsRSWM1cObXOJY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "opposite Devar Statue, 123, Palam Station Road, Goripalayam",
+      "lat": 9.929314299999998,
+      "lng": 78.1288471,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ60X4j5XFADsRfrc6Q_b5iWc",
+      "name": "IndianOil",
+      "address": "Ground Floor, Tallakulam",
+      "lat": 9.9319331,
+      "lng": 78.132927,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvxDx0qTFADsRoSVLDZFLWJM",
+      "name": "IndianOil",
+      "address": "Lock No 18, Anna Nagar, Madurai",
+      "lat": 9.924282099999997,
+      "lng": 78.14146889999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJn3laEeDFADsRWBPLrQOw0tc",
+      "name": "IndianOil",
+      "address": "Lock No 52, No 34, Natham Road, Narayanapuram, Tiruppalai, Sivakami Nagar",
+      "lat": 9.956299099999999,
+      "lng": 78.132629,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMdh_luDFADsRRp5T35w_Lgg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 20/2B, near Natham Road, Survey, Athikulam",
+      "lat": 9.953591699999997,
+      "lng": 78.1326172,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJD4WLAs3FADsRXl5-lr-Sx7E",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 173/1BP, RS, Melur Main Road, Madurai",
+      "lat": 9.944602099999997,
+      "lng": 78.1540655,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQy8quzLEADsRVjoGGg_MfDM",
+      "name": "Bharat Petroleum Petrol Pump",
+      "address": "W5W4+GVX, Kurivikaran Road, Industrial Estate, K.Pudur",
+      "lat": 9.946362899999999,
+      "lng": 78.15724589999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJMYCO6W3GADsRPOZ3MO-fsMw",
+      "name": "IndianOil",
+      "address": "Sri Ayappa Nagar, Natham Road, Kananenthal, Madurai",
+      "lat": 9.9698681,
+      "lng": 78.138206,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_XT4ndXFADsR1oLItRJrYVM",
+      "name": "IndianOil",
+      "address": "Alagar Kovil Main Road, Surveyor Colony, Lourdhu Nagar",
+      "lat": 9.9571611,
+      "lng": 78.153442,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7SLP-zfEADsRsyMD2qZ3VM4",
+      "name": "SUPERGAS Auto LPG Station - Thirumala International Cars and Mo",
+      "address": "1A, Uthangudi Ring Road, Near to Pandikovil, Madurai",
+      "lat": 9.937108,
+      "lng": 78.16742599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3WysZC_EADsRbt-eRq43M_I",
+      "name": "IndianOil",
+      "address": "Melur Main Road, Mattuthavani, Uthangudi",
+      "lat": 9.951287099999998,
+      "lng": 78.167343,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOarn4pPFADsRwZqp57y4pDE",
+      "name": "Amman Agencies Bharat petroleum pump",
+      "address": "near kalyan borewells, 1, Palam Station Road, Goripalayam",
+      "lat": 9.9300845,
+      "lng": 78.1268011,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJy3M5qpbFADsRbBe-_vvIORU",
+      "name": "IndianOil",
+      "address": "106, Palam Station Road, Goripalayam",
+      "lat": 9.9295741,
+      "lng": 78.1282277,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdyK_fADFADsRDAxul9f12ok",
+      "name": "Sumathi Enterprises",
+      "address": "W4PF+554, Madurai-North taluk",
+      "lat": 9.935395,
+      "lng": 78.122967,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ0WwKkeXFADsRWEfeFkARMz4",
+      "name": "S. R. N. R. AUTOMOBILES, INDIAN OIL PETROL STATION",
+      "address": "Kulamangalam Main Road, Sellur, Madurai",
+      "lat": 9.9394949,
+      "lng": 78.11875780000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJpdyOEiXHADsRG8CosDUiWVY",
+      "name": "Bharat Petroleum Petrol Pump , M.P.R. AUTOMOBILES",
+      "address": "S.NO.24, Natham Road, PERIAPATTI, Kancharampettai",
+      "lat": 9.9418517,
+      "lng": 78.129375,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKWCXaUnFADsRAjdYueCM6nc",
+      "name": "Sri Hari Filling Station- Bharat Petroleum",
+      "address": "India",
+      "lat": 9.9355818,
+      "lng": 78.1362244,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJOSK1f7_FADsRhvqCY0f9JpA",
+      "name": "IndianOil",
+      "address": "Lock No 45, Tallakulam",
+      "lat": 9.935528699999997,
+      "lng": 78.1366235,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCT1gqsHFADsRmHdIdn6Hd9w",
+      "name": "IndianOil",
+      "address": "2, Race Course Road, Chinna Chokikulam",
+      "lat": 9.9385434,
+      "lng": 78.1363616,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-2HjLkXBADsRhWXOEE6_scs",
+      "name": "IndianOil - SWAGAT",
+      "address": "NH 45B, Melur Main Road, Kodikulam",
+      "lat": 9.9722949,
+      "lng": 78.2163807,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq2vGG0XBADsRdHYAgm7NY4g",
+      "name": "Bharat Petroleum ghar OSTS Othakadai",
+      "address": "Kodikulam Madurai NH-45B Melur , Chainage KM117/200 to 117/400 LHS NH45B, Aruppukottai Rd, Madurai",
+      "lat": 9.97308,
+      "lng": 78.2158,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL4iVKmrEADsRTZwiucSdMhE",
+      "name": "IndianOil",
+      "address": "Sivaganga Road, Karuppayurani",
+      "lat": 9.9317871,
+      "lng": 78.1821137,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ20n_P4bDADsRe0zt1hcRq38",
+      "name": "HP Petrol Bank",
+      "address": "Madurai",
+      "lat": 9.925663,
+      "lng": 78.2062919,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQ7Ci057DADsRzdB2GEXE9lE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 58, Madurai-Sivaganga Road, Thindiyur",
+      "lat": 9.9256858,
+      "lng": 78.2063518,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2ZJibUXEADsRQwOs11UhaSk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 12/3, Ring Road, Vandiyur, Madurai",
+      "lat": 9.927764,
+      "lng": 78.1691432,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ52yNgDFADsRzUbKF4FpsuM",
+      "name": "SV3",
+      "address": "1, Sivaganga Road, KK Nagar",
+      "lat": 9.930125300000002,
+      "lng": 78.1695257,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJE3hEf__FADsRXHfKu5TNsrU",
+      "name": "Shell Ilandhaikulam village madurai",
+      "address": "Trichy - Madurai Highway, Madurai",
+      "lat": 9.944222,
+      "lng": 78.181861,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJta5OzOPFADsRCtZw5MYYsw4",
+      "name": "DHEEPAM TOTAL ENERGIES AUTO FILLING GAS STATION",
+      "address": "151/1, Pandi Kovil Ring Road, Madurai",
+      "lat": 9.942364399999997,
+      "lng": 78.1654417,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS5a2kJfFADsR655rMBH5sK4",
+      "name": "Nayara petrol pump",
+      "address": "X53X+X95, Thiruvathavur Road, Rama Krishna Nagar, Rajakambeeram",
+      "lat": 9.9540527,
+      "lng": 78.1986723,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJC-ze4x7EADsRB2YCpPOhQjo",
+      "name": "IndianOil",
+      "address": "Lock No 72, Uthangudi",
+      "lat": 9.955306799999999,
+      "lng": 78.1822823,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBahwbCTEADsRALoz8XJYZKs",
+      "name": "Go Gas",
+      "address": "X52F+M2C, Madurai",
+      "lat": 9.951691,
+      "lng": 78.1725,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJKaAsVHvDADsR4G8UeVkc9q4",
+      "name": "IndianOil",
+      "address": "Ground Floor, Tirumohur",
+      "lat": 9.9505695,
+      "lng": 78.20927809999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJG0LK5GXDADsRCRCvtJHFH3s",
+      "name": "Thadamani petrol agency",
+      "address": "X625+4J5, Madurai",
+      "lat": 9.950624999999999,
+      "lng": 78.209726,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtVhUV7LFADsRmP6Tyd1p5no",
+      "name": "IndianOil",
+      "address": "Sivagangai Main Road, Melamadai",
+      "lat": 9.9272045,
+      "lng": 78.153284,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3bgaxfTBADsR18hDobAxdus",
+      "name": "Meena LPG Gowdon",
+      "address": "X663+RMX, Kalluppatti - Maravapatty Road",
+      "lat": 9.9621233,
+      "lng": 78.2042231,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ90qMe8jFADsR-H871pNwYXU",
+      "name": "IndianOil",
+      "address": "Ground Floor, Melur Main Road, Madurai",
+      "lat": 9.938533399999999,
+      "lng": 78.14581559999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJA4AteffHADsRE_IAmPp6Ros",
+      "name": "Goldfuels Technology",
+      "address": "32 ANDAMAN NAGAR OTHAKADAI KADACHANENDAL, ROAD, Madurai",
+      "lat": 9.970121599999999,
+      "lng": 78.1801514,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJc7r1HOzFADsRapJU312ghXE",
+      "name": "Pranav - propel Auto gas bunk",
+      "address": "Sambakulam, Sarveyar coloni, Kodikulam",
+      "lat": 9.957513500000001,
+      "lng": 78.1548597,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJibvQndbFADsRSpR2CvYf1wA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "193/1, Alagar Kovil Main Road, Moondrumavadi, K.Pudur",
+      "lat": 9.9542205,
+      "lng": 78.1504405,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjy1kvsfFADsR1bVvO9geaag",
+      "name": "Bharat Petroleum, Petrol Pump -Mkt Motors",
+      "address": "PUDUR, MADURAI, Madurai",
+      "lat": 9.9559056,
+      "lng": 78.15175459999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVadFVQDBADsRwe57JMPKFEA",
+      "name": "LNG Filling Station",
+      "address": "X6C8+Q83, Arumbanur",
+      "lat": 9.971920599999999,
+      "lng": 78.2156409,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJUycd1RLHADsRpJC34k3Udkg",
+      "name": "Bharath Petroleum",
+      "address": "201, Alagar Kovil Main Road, Kadachanendhal",
+      "lat": 9.978669,
+      "lng": 78.1698275,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq5EqKpPGADsRcRuw4bTLkjE",
+      "name": "HP GAS",
+      "address": "India",
+      "lat": 9.980336699999997,
+      "lng": 78.17086429999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJcQLICLrHADsRI_jfcBZjbms",
+      "name": "Nayara Petrol Bunk",
+      "address": "Block No: 3, Oomachikulam-Alanganallur Road, Anthaneri, Kadachanendhal",
+      "lat": 9.9785113,
+      "lng": 78.1648408,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJiS45egPKADsR6ifAa8hO3YE",
+      "name": "Bharat Petroleum",
+      "address": "Service Road,ayyankottai,, nh 7 madurai dindigul highway,, vadipatti taluk, Madurai",
+      "lat": 10.0321868,
+      "lng": 78.0144638,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJObl79h3IADsR0aSRzyKO6OM",
+      "name": "IndianOil",
+      "address": "Lock No 77, No 348/1E, Koodalnagar Rd, A, Alanganallur",
+      "lat": 10.04395,
+      "lng": 78.0948587,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrzvvWbfJADsRLGKFY13LFS4",
+      "name": "SNS FUELS - HP Petrol Pump",
+      "address": "Service Road, Dabhethar Santhai",
+      "lat": 10.0033429,
+      "lng": 78.02098699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuUrnQVLJADsR5sLruaJaK30",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Shop No 13, near Tabedar Sandhai, 2 & 2A, National Highway 44, Thenur",
+      "lat": 10.0036048,
+      "lng": 78.0200705,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVX1WuG7JADsRydkE3QXCguQ",
+      "name": "IndianOil",
+      "address": "Bit 1, No 51/7A, Madurai, Puthumbu, to, Koodal Nager, Pasingapuram",
+      "lat": 9.9965017,
+      "lng": 78.0970002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAcZiwN7JADsRIUnpFstMSiY",
+      "name": "NAYARA PETROL PUMP-KOTTAIYAN CHETTIYAR FILLING STATION",
+      "address": "193/11,193/2 , Pasingapuram village, Madurai-North taluk",
+      "lat": 9.987687099999999,
+      "lng": 78.09972359999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtU-5P73IADsREhfGbJoppSw",
+      "name": "IndianOil",
+      "address": "Ground Floor, Milakaranai",
+      "lat": 9.976510000000001,
+      "lng": 78.09819999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDyjoWFy3ADsRZZB5suiOjdc",
+      "name": "IndianOil",
+      "address": "Ground Floor Kondayampatti Alanganallur Vadipatti, Ayyankottai",
+      "lat": 10.0472192,
+      "lng": 78.03492229999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJ5O9vMe3ADsRBs0pmdI7qks",
+      "name": "IndianOil",
+      "address": "Gr Flr, Alanganallur Sembukodapatti Rd, A, Kallanai",
+      "lat": 10.0462882,
+      "lng": 78.07147719999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmZZvFGjLADsRu51HOVc7W-g",
+      "name": "IndianOil",
+      "address": "No 216/7A2B, Kachirayiruppu",
+      "lat": 9.981105999999999,
+      "lng": 77.9924484,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNc0YEebJADsR4_ja7zbn-cw",
+      "name": "Bharat Petroleum, Petrol Pump -Dhanasekari Agencies",
+      "address": "ALANGANALLUR, Madurai",
+      "lat": 10.0359117,
+      "lng": 78.09201569999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJw1A6zQHLADsR2MrTkuNylC0",
+      "name": "OM SAI FILLING STATION",
+      "address": "XXJH+QQG, Major District Road 262, Ayanthenkarai",
+      "lat": 9.9819345,
+      "lng": 77.9794584,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs8MhI0q1ADsRENDYcNaX0hE",
+      "name": "IndianOil",
+      "address": "near Madras High Court, Ground Floor Thanichiyam Aundipatti Rd, near Madras High Court, Bench, Madurai",
+      "lat": 10.0476737,
+      "lng": 78.00075249999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6-X3sv23ADsR55I7ihxRcew",
+      "name": "IndianOil",
+      "address": "Lock No 156 Alanganallur, Mettupatti",
+      "lat": 10.046818,
+      "lng": 78.10314009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaXFMKADHADsRxptUnZv2zFU",
+      "name": "Petrol bunk",
+      "address": "2/20A, Malligai Street, Bama Nagar, Madurai",
+      "lat": 9.972010999999998,
+      "lng": 78.124687,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJsTgkAKvHADsRUaQDC6jZj4M",
+      "name": "RAMKIRUBA AGENCY",
+      "address": "46A, 1st Street, P and T Nagar, Madurai",
+      "lat": 9.965619799999997,
+      "lng": 78.1264973,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJF7WQ44_HADsR2aKQ2mqIe64",
+      "name": "IndianOil",
+      "address": "Ground Floor, P&T Nagar",
+      "lat": 9.965428099999999,
+      "lng": 78.12634299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2SoccQDHADsRRzeJr1VU94Y",
+      "name": "Bharath Petroleums, GK Filling station",
+      "address": "X5R2+67C, Chettikulam",
+      "lat": 9.990573999999999,
+      "lng": 78.1506299,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJb9gzh6zHADsRr4F5GpxPVRM",
+      "name": "IndianOil",
+      "address": "Lock, No 262, Natham Road, Umachikulam",
+      "lat": 10.0044436,
+      "lng": 78.1503917,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx4s25n_HADsRQViH4EG2Rzs",
+      "name": "IndianOil",
+      "address": "Sellur, Kosakulam, Madurai",
+      "lat": 9.962795699999997,
+      "lng": 78.1186606,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRUgwM4HHADsRHHxUf8Vj3fc",
+      "name": "Bharat Petroleum (COCO)",
+      "address": "Vasantham Arcade, Srinagar Kaveri Main Road, Ezhil Nagar, Iyer Bungalow, Srinagar",
+      "lat": 9.965177899999999,
+      "lng": 78.1355066,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3yHYGuDFADsRyx3mNDMjWNE",
+      "name": "Supergas AutoLPG Refill Station",
+      "address": "X44M+P4Q, Cs Nagar, Sivakami Nagar",
+      "lat": 9.9568358,
+      "lng": 78.132871,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8cLATnHHADsRhah5u1KALdk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "S No 54/4A, 56/2B1, Mandikulam",
+      "lat": 10.018096,
+      "lng": 78.1552308,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ--CMLXnHADsRelvX3XL8rd4",
+      "name": "IndianOil",
+      "address": "Ground Floor, Oomachikulam-Alanganallur Road, Vavidamaruthur",
+      "lat": 10.0418978,
+      "lng": 78.11356909999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq9u0YTLHADsRwkv_vgYc410",
+      "name": "IndianOil",
+      "address": "Ground Floor, Periyapatti",
+      "lat": 10.0268009,
+      "lng": 78.15626329999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeysb9nDHADsRWP6K7FHO0qE",
+      "name": "KARTHIHEYA GAS AGENCY",
+      "address": "25J8+P2H",
+      "lat": 10.0318128,
+      "lng": 78.1651242,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJDwXlpU7HADsRiQ4-nf8NTxo",
+      "name": "Bharat Petroleum Bulk - Solamalai Murugan Automobiles",
+      "address": "Poovakudi Village,Kallanthiri, Alagar Kovil Main Road, Post, Madurai",
+      "lat": 10.031692,
+      "lng": 78.19620499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJekuJCfHADsRJdezGHYOTBY",
+      "name": "IndianOil",
+      "address": "Ground Floor, Alagar Kovil Main Road, Kadachanendhal",
+      "lat": 10.005693,
+      "lng": 78.18580370000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOebuI3TBADsRLwenc3f1Jj4",
+      "name": "AGS & CO",
+      "address": "ROAD, Mangulam",
+      "lat": 9.988792299999998,
+      "lng": 78.23544299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFztSu0-_ADsRAL01daYJVD8",
+      "name": "IndianOil",
+      "address": "Lock No 224, No 77/3B1, A.Valayapatti",
+      "lat": 10.0611955,
+      "lng": 78.2115869,
+      "open_now": true
+    }
+  ]
+}

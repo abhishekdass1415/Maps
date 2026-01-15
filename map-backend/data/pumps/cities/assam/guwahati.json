@@ -1,0 +1,1539 @@
+{
+  "city": "Guwahati",
+  "state": "Assam",
+  "count": 191,
+  "center": {
+    "lat": 26.1445,
+    "lng": 91.7362
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJFQOPl8NDWjcREZBugajdflM",
+      "name": "Assam Oil",
+      "address": "Rani gate, 37, National Highway, Ganakpara, Guwahati",
+      "lat": 26.0987878,
+      "lng": 91.6111936,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIf046HxcWjcRCfCuJ2bZavY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Balaji Temple, NH 37, Bypass, Katabari, Guwahati",
+      "lat": 26.115411,
+      "lng": 91.718491,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCz2Yu3xEWjcRMr4ZZsnE2nA",
+      "name": "IndianOil",
+      "address": "Ground Floor, Khaliha, Dharapur, Bargaon",
+      "lat": 26.137563,
+      "lng": 91.63310200000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1RcvprhcWjcRisyVQiebDbI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Garchuk - Pamohi Road, Pamohi, Guwahati",
+      "lat": 26.1028162,
+      "lng": 91.69200719999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg8pLXUJDWjcRJX7U0UWwpFE",
+      "name": "IndianOil",
+      "address": "Ground Floor, Dipor Bil,Moinakhurung Chowk",
+      "lat": 26.111615,
+      "lng": 91.660027,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTUZzEQBdWjcRo6vio0JyAPU",
+      "name": "DV Kisan Seva Kendra",
+      "address": "4M3X+Q53, Pamohi, Guwahati",
+      "lat": 26.10438689999999,
+      "lng": 91.6979064,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ9QmGUgtdWjcR-rNKDXvy6L8",
+      "name": "Bharat Petroleum",
+      "address": "Boragaon, Guwahati",
+      "lat": 26.1046829,
+      "lng": 91.6984619,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJmREclDddWjcRXvN8-84BOvw",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 37, Garchuk, Boragaon, Guwahati",
+      "lat": 26.118752,
+      "lng": 91.69663899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvYkVwJhcWjcRr0bnjP5UaqM",
+      "name": "IndianOil",
+      "address": "Gotanagar, Paschim Boragaon, Guwahati",
+      "lat": 26.120581,
+      "lng": 91.69448899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlysbZFVbWjcRHd4flxE0b6E",
+      "name": "IndianOil filling station",
+      "address": "Tetelia, Guwahati",
+      "lat": 26.126644,
+      "lng": 91.677582,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ10OtIRtDWjcRk-D97lMTvpA",
+      "name": "IndianOil",
+      "address": "Ground Floor, Borjhar, Kahikuchi",
+      "lat": 26.098815,
+      "lng": 91.611243,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdcDJAL1dWjcRhDjxa9DmYlQ",
+      "name": "ABHINAB SERVICE STATION",
+      "address": "Shop 1, barpeta",
+      "lat": 26.1156114,
+      "lng": 91.7086412,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ0eKPUABdWjcRR6OMpE4ArRk",
+      "name": "বেলগুড়ি",
+      "address": "4P85+8C8, Guwahati",
+      "lat": 26.1157917,
+      "lng": 91.7085933,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJbzWzcWpdWjcRsNo_mWpbGhI",
+      "name": "Brothers Traders",
+      "address": "Shop No 12, nearby New Market, Dharmapur No 1",
+      "lat": 26.1157914,
+      "lng": 91.7085953,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJDQpxc9xdWjcR8Uf43yJa1bo",
+      "name": "Doorstep fuel Delivery",
+      "address": "Lahara Para",
+      "lat": 26.1160612,
+      "lng": 91.7086324,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJjcY6owxdWjcRtiiRY62LmLc",
+      "name": "Hp Petrolium Pvt Ltd",
+      "address": "Hp Petrolium Pvt Ltd, Gorchuk, Guwahati",
+      "lat": 26.1234745,
+      "lng": 91.6979728,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ915Phe9BWjcRNBXoE5OPnaE",
+      "name": "Petrol Pump",
+      "address": "3H3X+H4P, Kallapara",
+      "lat": 26.0539733,
+      "lng": 91.5978177,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqSqu6NBdWjcRvdUQYpMoAYo",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Isbt Complex, Betkuchi, GARCHUK, Guwahati",
+      "lat": 26.115382,
+      "lng": 91.72377999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcYxecQBdWjcRFRzL9Bz2tQw",
+      "name": "ASTC Swagat RO (অসম ৰাজ্যিক পৰিবহণ নিগমৰ ইন্ধন বিক্ৰেতা))",
+      "address": "Isbt, Main, ISBT Flyover, Guwahati",
+      "lat": 26.1153387,
+      "lng": 91.7239788,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMwfyvopDWjcRdnhSvXB2Jb0",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 37, Azara, Guwahati",
+      "lat": 26.1257775,
+      "lng": 91.6188172,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7XDJtllFWjcRVMSUCzWDCfU",
+      "name": "IndianOil",
+      "address": "Gotanagar, Jalukbari, Guwahati",
+      "lat": 26.142143,
+      "lng": 91.675522,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOQ_Vf1ZdWjcRxLB1ZfjHWYI",
+      "name": "Hindustan Petroleum Corporation",
+      "address": "AHOM GAON, Guwahati",
+      "lat": 26.1140625,
+      "lng": 91.72931249999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJS-hbao5FWjcRKZNmIpynJH0",
+      "name": "Pradip oil depot dharapur",
+      "address": "4JQM+478, Dharapur, Guwahati",
+      "lat": 26.137787,
+      "lng": 91.63319399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCdZ-vSFdWjcRbLrFr20AAHs",
+      "name": "CRI PUMPS PVT LTD GUWAHATI BRANCH",
+      "address": "near Binod Nissan show room, Betkuchi, Guwahati",
+      "lat": 26.1124708,
+      "lng": 91.7326068,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKeHpam1cWjcROPjyGEHDsz8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Sawkuchi, Betkuchi, Guwahati",
+      "lat": 26.1124191,
+      "lng": 91.73320319999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQ7JPdIFdWjcRj73WSXEshos",
+      "name": "Amit motor",
+      "address": "4P7J+CXW, Betkuchi, Betkuchi, Lokhra, Guwahati",
+      "lat": 26.1136149,
+      "lng": 91.7324388,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJvapX3hpcWjcRySZ9ExbflPk",
+      "name": "Bharat Petroleum filling station",
+      "address": "Lokhra, Guwahati-bypass, NH 37, Kamrup",
+      "lat": 26.1121707,
+      "lng": 91.74627930000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAS3KZjBfWjcRaA-UkDlzdwA",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 37, Beltola, Beharbari",
+      "lat": 26.1113315,
+      "lng": 91.7508903,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrRaS-hxcWjcR_BOcxwg62BE",
+      "name": "IndianOil",
+      "address": "Kamrup, Fancy Bazar, Bypass Road, Guwahati",
+      "lat": 26.111324,
+      "lng": 91.750911,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJySf3ycVeWjcRht8wK-x802Q",
+      "name": "Bharat Petroleum HKS SERVICE STATION",
+      "address": "4Q6H+8RJ, NH-37, Nalapara, Lalmati, omlogistic",
+      "lat": 26.1108376,
+      "lng": 91.7795196,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJ4criyVfWjcRoI1CIepGnj0",
+      "name": "IndianOil",
+      "address": "Ground Floor, 44, Guwahati",
+      "lat": 26.1126972,
+      "lng": 91.79879799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaTX2rRJcWjcRCYoTqRUBSp4",
+      "name": "IndianOil",
+      "address": "Kamrup, No 37 Lakhra Chariali, Saokuchi",
+      "lat": 26.1120777,
+      "lng": 91.7486923,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJUA5rEldWjcRT0nJkafF1r8",
+      "name": "MUNNA Shaw Ayush Auto Mobile Lokhra GUAWAHTI",
+      "address": "AYUSH AUTO MOBILE, Lokhra Road, Padit Hotal, Guwahati",
+      "lat": 26.1117875,
+      "lng": 91.75168939999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJnSVdsrVfWjcRsQjPvnmo-7I",
+      "name": "Shivam Service Station",
+      "address": "Beharbari Road, Beharbari, Guwahati",
+      "lat": 26.1115328,
+      "lng": 91.7736965,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJRd6njsdeWjcRWmBnNRDcbxU",
+      "name": "IndianOil",
+      "address": "NH 37, Beharbari, Guwahati",
+      "lat": 26.111509,
+      "lng": 91.77381899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdQCCMjJbWjcRyPedcmXZR2Y",
+      "name": "Bharat Petroleum, Petrol Pump -Nes Lokhra Road",
+      "address": "4PGW+C94, Lokhra Road, Sawkuchi, Guwahati",
+      "lat": 26.1265062,
+      "lng": 91.74467489999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1V0C8hBfWjcRgwNun9RKRwE",
+      "name": "Fuel Service Station",
+      "address": "House No-19, Link Road DakhinGaon-Sawkuchi Road, Sawkuchi, Lokhra, Guwahati",
+      "lat": 26.12211839999999,
+      "lng": 91.7610684,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg6Uq3xpbWjcRz_Mb5ZkQsUw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Lokra Lal Ganesh Rd, Sawkuchi, Jyotikuchi, Kamrup",
+      "lat": 26.126521,
+      "lng": 91.744911,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxaepSgtcWjcRPOXJVJcqrFc",
+      "name": "Raj Energy Station,Jyotikuchi",
+      "address": "Jyotikuchi, Guwahati",
+      "lat": 26.130292,
+      "lng": 91.73706659999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpeJ_YfRbWjcReYcJIeHlTgY",
+      "name": "Jyotikhuchi Petrol Pump",
+      "address": "Sonaighuli, Guwahati",
+      "lat": 26.1303296,
+      "lng": 91.7370029,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq5evALhbWjcRJ8BkJTX_4HE",
+      "name": "SUNRISE PETROL PUMP BPCL",
+      "address": "4PHC+G88, Natun Basti, Dhirenpara, Guwahati",
+      "lat": 26.1287953,
+      "lng": 91.7208382,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJucO12oZbWjcRICetjr-9mdo",
+      "name": "IndianOil",
+      "address": "Beltola, Fatasil, Datalpara, Guwahati",
+      "lat": 26.129401,
+      "lng": 91.720551,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy1aC3U1fWjcReDaNZr2dLFA",
+      "name": "Bharat Petroleum, Ghoramara",
+      "address": "123, Hockey Stadium Road, BIKASH NAGAR, Guwahati",
+      "lat": 26.1207065,
+      "lng": 91.7768186,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJyeKMIOVfWjcR_7UMzmnxT5o",
+      "name": "Bharat Petroleum",
+      "address": "4Q7P+RFH, Bhetapara, Guwahati",
+      "lat": 26.1162156,
+      "lng": 91.78671229999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxeBE29dfWjcRzce-I8EBnIM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Beltola Tiniali, Guwahati",
+      "lat": 26.1140977,
+      "lng": 91.7899561,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo9TkbvJbWjcROEPTlF8F2JE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Lokhra Road, Odalbakra, Lal Ganesh, Guwahati",
+      "lat": 26.139031,
+      "lng": 91.740321,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUezbQVBZWjcRAZbp3D_XYNg",
+      "name": "MUSTARD OIL",
+      "address": "4QP6+6V8, DGM Road, Odalbakra, Kahilipara, Guwahati",
+      "lat": 26.135535,
+      "lng": 91.76219479999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJfwe9JBBbWjcRAglddLo3vm8",
+      "name": "M/S choutaki service station",
+      "address": "Choutaki, & Amul factory, Near Kali Mandir, Guwahati",
+      "lat": 26.14086379999999,
+      "lng": 91.7436152,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJFVayipBbWjcRmjDuMqRV0Zo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Bathu Mandir, AK Dev Road, Guwahati",
+      "lat": 26.14188399999999,
+      "lng": 91.726469,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6zZAKu9bWjcRHlO5dCJ8jSo",
+      "name": "IndianOil",
+      "address": "Ground Floor, Metropolitan, Odalbakra, Lal Ganesh, Guwahati",
+      "lat": 26.14291,
+      "lng": 91.741585,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMXgDKu9bWjcRCc4gtAFunOU",
+      "name": "Bharali Service Station",
+      "address": "4PVR+5M8, Lokhra Road, Kalapahar, Lal Ganesh, Guwahati",
+      "lat": 26.14292289999999,
+      "lng": 91.74171369999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJv1QLHghfWjcRDMrrTSOdRnM",
+      "name": "IndianOil",
+      "address": "Beltola - Basistha Road, Bongaon, Guwahati",
+      "lat": 26.116769,
+      "lng": 91.79795299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo9_QZ_D1WjcRjkySBywx54o",
+      "name": "IndianOil",
+      "address": "Ground Floor, 9th Mile, Byrki, Jorabat",
+      "lat": 26.11115,
+      "lng": 91.83984459999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq10oven1WjcRtqtUuCR2uHw",
+      "name": "IndianOil",
+      "address": "Jorabat",
+      "lat": 26.1080688,
+      "lng": 91.84954640000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtR5sasxYWjcRAzQHp0HFDmE",
+      "name": "Bharat petroleum",
+      "address": "Manisha Apartment, 167, Jayanagar Road, Jaya Nagar, Khanapara, Guwahati",
+      "lat": 26.1288458,
+      "lng": 91.8062953,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfWQtZsj1WjcRj0KMtFF84gI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor NH 37, 10th Mile, Khanapara",
+      "lat": 26.10237009999999,
+      "lng": 91.8621409,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAydV0tdYWjcRellVw2FUsdA",
+      "name": "Bharat Petroleum, Petrol Pump -Raja Rajendra Narayan Deb Service S",
+      "address": "Beltola - Basistha Road, Wireless, Basisthpur, Guwahati",
+      "lat": 26.1338595,
+      "lng": 91.79333,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSdV7BdBYWjcRW3zcXkwmZSk",
+      "name": "IndianOil",
+      "address": "GS Road, Rukmini Gaon, Guwahati",
+      "lat": 26.135972,
+      "lng": 91.801814,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe87s5Sb1WjcR8HOfdv8jklg",
+      "name": "IndianOil",
+      "address": "Ground Floor, Byrnihat",
+      "lat": 26.045069,
+      "lng": 91.868116,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq5qBlyD1WjcRYIoV83J9H1w",
+      "name": "Ribhoi Filling Station - Bharat petroleum",
+      "address": "National Highway 40, Byrnihat",
+      "lat": 26.0486426,
+      "lng": 91.8703275,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8xY6aFH0WjcRwjZt4jvckm8",
+      "name": "IndianOil",
+      "address": "Ground Floor NH 40, Byrnihat",
+      "lat": 26.084177,
+      "lng": 91.876863,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7-iq90n0WjcRVS3QMjjcns4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 40, 12th Umpher, Byrnihat",
+      "lat": 26.0885455,
+      "lng": 91.8767627,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqbPsesdYWjcRxOfEY7Te8Ys",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Chachal, VIP Road, Guwahati",
+      "lat": 26.1398914,
+      "lng": 91.81157739999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ33GIlyVZWjcR_BF78R4JmiU",
+      "name": "Bharat Petrol Pump",
+      "address": "4QQP+7F7, Brahmaputra Housing Path, Bhetapara, Guwahati",
+      "lat": 26.1381736,
+      "lng": 91.78616079999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBcSADEr0WjcRczq6rP7lYrc",
+      "name": "IndianOil",
+      "address": "Ground Floor, Jorabat, Byrnihat",
+      "lat": 26.100047,
+      "lng": 91.8747001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfbCUn_30WjcR_-gHgWt3AB8",
+      "name": "Reliance Petroleum",
+      "address": "PATTA NO5, OF 1994, VILLAGE AMULKUCHI, Khanapara",
+      "lat": 26.1038418,
+      "lng": 91.8162042,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJr_p-M3L1WjcRRUsPg1c0q98",
+      "name": "IndianOil",
+      "address": "Ground Floor, Upper, Jorbil Road, Marwet, Khanapara",
+      "lat": 26.0859515,
+      "lng": 91.8443997,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ98v74M71WjcRJcktH4owb5s",
+      "name": "IndianOil",
+      "address": "Gate No 2, Ground Floor 9 Smile, opposite CRP Camp, East Khasi Hills, National Highway 27, Baridua",
+      "lat": 26.1033977,
+      "lng": 91.8391401,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl62xjAT1WjcR5Q5DcZ68pO8",
+      "name": "IndianOil",
+      "address": "Ground Floor, 9th Mile, Baridua Roid Marwet, Khanapara, Byrnihat",
+      "lat": 26.1039428,
+      "lng": 91.83871979999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJKwTWqfX1WjcR1ddUbzl9sgE",
+      "name": "Bharat Petroleum Petrol Pump",
+      "address": "4R2X+67W, Killing Road, Jorabat",
+      "lat": 26.1006225,
+      "lng": 91.84819619999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ4-2Y4fn1WjcR944Yzyi7Y8Q",
+      "name": "VW bharat petroleum Highway Fuel Station",
+      "address": "37, National Highway, Them Marwet, Baridua",
+      "lat": 26.1126527,
+      "lng": 91.8357253,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfdZYaDj1WjcRZTluNezQc1Q",
+      "name": "Nayara Fuel Station",
+      "address": "4R6Q+R3V, National Highway 27, Them Marwet, Guwahati",
+      "lat": 26.111991,
+      "lng": 91.837464,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJR-RHFQD1WjcRdzTtCgoaVoo",
+      "name": "Black diamond refill center",
+      "address": "4R6Q+FW7, 8th mile",
+      "lat": 26.1111564,
+      "lng": 91.83979719999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlTx6ctJfWjcRfoS43BgamTo",
+      "name": "Bharat Petroleum, Petrol Pump -Sanjeebani Fuel Point",
+      "address": "MOIDAM GAON, BELTOLA",
+      "lat": 26.1215345,
+      "lng": 91.7984505,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB1932O_1WjcRifbMVOEMsmk",
+      "name": "IndianOil",
+      "address": "37, National Highway, Bojora N.C.",
+      "lat": 26.110122,
+      "lng": 91.8416814,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0YYsBFRfWjcRqkYh3mivD10",
+      "name": "IndianOil",
+      "address": "Ground Floor, Khanapara, Byrnihat",
+      "lat": 26.11907,
+      "lng": 91.827293,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBZTq9HdfWjcRWrAGcRLFWPY",
+      "name": "IndianOil",
+      "address": "Ground Floor, Themmarwet, NH-37, Khanapara",
+      "lat": 26.11859119999999,
+      "lng": 91.8299901,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeSJiwu71WjcRgSN9RR6CcIk",
+      "name": "IndianOil",
+      "address": "Ground Floor, 9th Mile Baridua Roid Marwet, Khanapara, Byrnihat",
+      "lat": 26.108828,
+      "lng": 91.845218,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNQyaaD31WjcR6s_lbibgkp4",
+      "name": "Marwet oil services pvt ltd",
+      "address": "Baridua 9th Mile",
+      "lat": 26.109082,
+      "lng": 91.845095,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6bsdVhT1WjcRK_j7CrZQeZ4",
+      "name": "IndianOil",
+      "address": "Ground Floor, 9th Mile, Jorabat, Byrnihat",
+      "lat": 26.105764,
+      "lng": 91.85445399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIQnuZMH1WjcRW3yjw_u0igE",
+      "name": "Ri Bhoi Gas Station",
+      "address": "Jorabat",
+      "lat": 26.1059375,
+      "lng": 91.8548125,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuWxzF-9ZWjcR9VWGNtU-FGQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, Lachit Nagar, Guwahati",
+      "lat": 26.128713,
+      "lng": 91.811092,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJufwfBABZWjcRZpsbj76dfLM",
+      "name": "BPCL JAYANAGAR PETROL PUMP",
+      "address": "MINA COMPLEX, below CAFE WINGS, near Bharath Petrol Pump, Jayanagar Road, Jaya Nagar, Six Mile, Guwahati",
+      "lat": 26.12897139999999,
+      "lng": 91.8062549,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJDz0I5cb1WjcR90HbwM_0rME",
+      "name": "Jorabat Refilling Centre",
+      "address": "4V35+H5J, National Highway 37, Jorabat",
+      "lat": 26.1039627,
+      "lng": 91.8579018,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJDz0I5cb1WjcRPRax3Ix1ENY",
+      "name": "IndianOil",
+      "address": "Ground Floor, Khanapara",
+      "lat": 26.104353,
+      "lng": 91.85800599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaeBryzb1WjcRPSH59OF-ZQ8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Amjok, Umtru Dam Road, Byrnihat",
+      "lat": 26.0375528,
+      "lng": 91.8563676,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJw7HYtsn1WjcRHmUV0k_jmY8",
+      "name": "Bharat Petroleum, Petrol Pump -NES Jorabat",
+      "address": "JORABAT, RI BHOI",
+      "lat": 26.1016329,
+      "lng": 91.8637337,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJK77GXQD1WjcR2MIIv1mFYGk",
+      "name": "Relience pump byrnihat",
+      "address": "Jio petrol pump, 1994, Sonai N.C.",
+      "lat": 26.0677195,
+      "lng": 91.87209170000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJV4EMfeL0WjcRs-6TW96WeZ4",
+      "name": "IndianOil - SWAGAT",
+      "address": "Ground Floor Tamulikuchi, 14th Mile, Byrnihat",
+      "lat": 26.0617659,
+      "lng": 91.8712614,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJiafe2Xz1WjcR5QbV7iEwKPk",
+      "name": "IndianOil",
+      "address": "Khana, Ground Floor Mawsmai, 11th Mile, Byrnihat",
+      "lat": 26.101025,
+      "lng": 91.86703,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUbE3ewD1WjcR92yTD61eMHA",
+      "name": "Merrily Service Station",
+      "address": "17 Mile, Pahamlang, Byrnihat",
+      "lat": 26.0515133,
+      "lng": 91.8696411,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhc4MLgD1WjcRwJxxwWQ55r8",
+      "name": "BURNIHAT",
+      "address": "3V29+JV2, Byrnihat",
+      "lat": 26.0515133,
+      "lng": 91.8696411,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJjxCIIyhZWjcRey_CXltOoPI",
+      "name": "Beltola Wireless",
+      "address": "4QMR+WXM, Beltola Road, Wireless, Basisthpur, Guwahati",
+      "lat": 26.134826,
+      "lng": 91.79242459999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJU_H66jVZWjcRutBcLZ2e-_k",
+      "name": "IndianOil",
+      "address": "Ground Floor, Beltola Road, Guwahati",
+      "lat": 26.135214,
+      "lng": 91.792031,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ089I05H1WjcRkQpHQBFP0Cw",
+      "name": "IndianOil",
+      "address": "Ground Floor, next to Meghalaya Plywoods, 13th Mile, Byrnihat, Tamulikuchi, Sonai N.C.",
+      "lat": 26.07667799999999,
+      "lng": 91.87521699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL2rwKgBZWjcR8Axqu_8wNlc",
+      "name": "Kiran service station",
+      "address": "4QPR+5Q8, Wireless, Basisthpur, Guwahati",
+      "lat": 26.1352814,
+      "lng": 91.79199659999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnbBYn831WjcRIjVtM-abaSg",
+      "name": "Premier Mega Hub (India’s Largest Fuel Outlet)",
+      "address": "Jorabat NH 27, Mawsmai",
+      "lat": 26.0996865,
+      "lng": 91.8697335,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4WI9FE71WjcRRSVBvbGw6Iw",
+      "name": "Bharat Petrol pump",
+      "address": "3VRG+PF6, Jorabat",
+      "lat": 26.0917868,
+      "lng": 91.8761294,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHx98XDVbWjcRZ2jBLl7FBFo",
+      "name": "IndianOil",
+      "address": "Ground Floor, Nalbari, Nankar Bhaira, Guwahati",
+      "lat": 26.1504974,
+      "lng": 91.6771943,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_RVmxjNbWjcR-XMgMFeK1n8",
+      "name": "IndianOil",
+      "address": "Ground Floor, Jalukbari, Guwahati",
+      "lat": 26.157867,
+      "lng": 91.6777255,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAVJ4AzFbWjcRyPZ3KvyFpfQ",
+      "name": "NES Adabari Petrol Pump - Bharat petroleum",
+      "address": "5M5M+77Q, Pandu, Guwahati",
+      "lat": 26.1582164,
+      "lng": 91.6832246,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoey4-AVbWjcRu-MnRjhhe6w",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Maligaon, Guwahati",
+      "lat": 26.161045,
+      "lng": 91.7098975,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ5deCRJEWjcR5YapZfLHfcQ",
+      "name": "BPCL Petrol Pump Super Service Station",
+      "address": "Dharapur, Guwahati",
+      "lat": 26.1388875,
+      "lng": 91.6136406,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfdPc2w9EWjcRgObigsl2ydE",
+      "name": "IndianOil",
+      "address": "Ground Floor Bhatapara, Azara, Dharapur",
+      "lat": 26.138433,
+      "lng": 91.60965700000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWSvSlrJbWjcR57xWJMpwRtU",
+      "name": "IndianOil",
+      "address": "Ground Floor, Santipur, Guwahati",
+      "lat": 26.171215,
+      "lng": 91.725517,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNTgM75JaWjcR9r8KymG9SRg",
+      "name": "IndianOil",
+      "address": "Ground Floor Abhoypur, College Nagar, Gauripur",
+      "lat": 26.198787,
+      "lng": 91.70356699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ33SYDLJaWjcRJURDvJKBkqY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Amingaon, Guwahati",
+      "lat": 26.2083669,
+      "lng": 91.6797203,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJG9pr_UpaWjcRVWER0aHLu60",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, TR Phookan Road, Machkhowa, Guwahati",
+      "lat": 26.175152,
+      "lng": 91.7321401,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJW9ecEMRbWjcRGYeKJtJK3mw",
+      "name": "IndianOil",
+      "address": "Lokhra Road, Pahartoli, Guwahati",
+      "lat": 26.156192,
+      "lng": 91.739629,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJn_JXMmBaWjcR86mbRXqk63Q",
+      "name": "IndianOil",
+      "address": "Ground Floor Abhaypur, College Nagar, Changsari",
+      "lat": 26.1992351,
+      "lng": 91.7156136,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCfomxTVaWjcRf8r-8iMWqxU",
+      "name": "IndianOil",
+      "address": "Machkhowa, Guwahati",
+      "lat": 26.177858,
+      "lng": 91.73614099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPZT0FcBbWjcR17zaXa38s9U",
+      "name": "Chandmal Sarawgi & Company",
+      "address": "Adabari, Guwahati",
+      "lat": 26.1578675,
+      "lng": 91.6799144,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDYedczFbWjcRQgepPaxlgNI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Jalukbari, Guwahati",
+      "lat": 26.157937,
+      "lng": 91.6819087,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPXAi87lScYcR4X7aq24VAAw",
+      "name": "A2Z Enterprise",
+      "address": "Rly qno 126B, BBC Colony, Pandu, Guwahati",
+      "lat": 26.1644378,
+      "lng": 91.6822825,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJExp-dm1bWjcRXlwLvsS07NU",
+      "name": "NRL",
+      "address": "5M9H+C5C, Adabari, Guwahati",
+      "lat": 26.1685615,
+      "lng": 91.6778868,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJEbM2Vj1FWjcRW_pBwja4ZJs",
+      "name": "Siddhivinayak service station (Retail outlet of BPCL)",
+      "address": "Guwahati-Hajo Rd, Agyathuri, Amingaon, Guwahati",
+      "lat": 26.1859718,
+      "lng": 91.6567261,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwXdbVj1FWjcRXoiLmisH_ts",
+      "name": "भारत पेट्रोलियम",
+      "address": "India",
+      "lat": 26.1860212,
+      "lng": 91.65676069999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJbVzaCBFFWjcRiMqRk53jMdE",
+      "name": "Bharat Petroleum, Petrol Pump -Dulo Service Station",
+      "address": "AMINGAON,AMINGAON-HAJO ROA, KAMRUP",
+      "lat": 26.1894642,
+      "lng": 91.64964259999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZS6L8SlFWjcRqAUVG7m2CSU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Agyathuri",
+      "lat": 26.190881,
+      "lng": 91.647798,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2TEhc0tFWjcR8sEt_OUyQNI",
+      "name": "IndianOil",
+      "address": "Ground Floor, Opposite Assam Ispat, College Nagar, Amingaon, Guwahati",
+      "lat": 26.2016518,
+      "lng": 91.6739637,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2Z0iMgBFWjcRQjzu2FqGdz4",
+      "name": "Sikha service station",
+      "address": "6M4F+7X4, Mahekhaiti, Amingaon, Guwahati",
+      "lat": 26.2054643,
+      "lng": 91.67479850000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJa8ck515aWjcRFDEMv71bEB0",
+      "name": "Bharat Petroleum, Petrol Pump -Dol Gobinda Filling Station",
+      "address": "North Guwahati, Guwahati",
+      "lat": 26.192359,
+      "lng": 91.7174201,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJp9xDPgxbWjcRG6Oviks4U3A",
+      "name": "IndianOil",
+      "address": "Ground Floor, Amingaon, Guwahati",
+      "lat": 26.208809,
+      "lng": 91.685138,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5zoGwMVbWjcRedaCP62eCA8",
+      "name": "IndianOil",
+      "address": "Cycle Factory, Indian Oil Petrol Pump, Fayal Ahmed Road, Kala Pahar, Guwahati",
+      "lat": 26.1593537,
+      "lng": 91.74045249999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7xBp5BlZWjcRakOy1HMnPWY",
+      "name": "Bharat Petroleum ola hypercharger, Petrol Pump -Nes Zoo Road",
+      "address": "Zoo Road, Guwahati",
+      "lat": 26.1590035,
+      "lng": 91.78170999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvRfopURZWjcRU1cXnRNB3M8",
+      "name": "Bharat Petroleum",
+      "address": "NARAKASUR, Bongshar, Gopinath Nagar, Jonaknagar, Kahilipara, Guwahati",
+      "lat": 26.1425069,
+      "lng": 91.7644972,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7Wc4e3dZWjcRVyKLpewG2tg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Ulubari, Guwahati",
+      "lat": 26.1686908,
+      "lng": 91.7641372,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCd6y_TFaWjcRWYVmMuKg1po",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Assam Trunk Road, Guwahati",
+      "lat": 26.1791835,
+      "lng": 91.74395609999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdatsn4BZWjcRVOAGgW21J-w",
+      "name": "IndianOil",
+      "address": "Ground Floor, Ulubari, Guwahati",
+      "lat": 26.177027,
+      "lng": 91.75410500000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkZc28S5aWjcRpyouDYxEJE0",
+      "name": "IndianOil",
+      "address": "Ground Floor, Paltan Bazaar, Guwahati",
+      "lat": 26.180599,
+      "lng": 91.746742,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsezaWxFZWjcR3qqXVRIf_Ew",
+      "name": "IndianOil",
+      "address": "Ground Floor, Christian Basti, Guwahati",
+      "lat": 26.155626,
+      "lng": 91.778526,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTUH5kp9ZWjcRZY6UGGqlVd4",
+      "name": "IndianOil",
+      "address": "Rajgarh Road, Silpukhuri, Guwahati",
+      "lat": 26.173878,
+      "lng": 91.77251400000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7xBp5BlZWjcR1b2XVJOVJeg",
+      "name": "IndianOil",
+      "address": "Ground Floor, Chariali, Ganeshguri, Guwahati",
+      "lat": 26.151077,
+      "lng": 91.784211,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJW9atsQ9ZWjcRWofP-A1s9D0",
+      "name": "IndianOil",
+      "address": "Ground Floor, RG Baruah Road, Japorigog, Guwahati",
+      "lat": 26.162489,
+      "lng": 91.78062399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvff8HIhZWjcRIt-cpGBnm4g",
+      "name": "IndianOil",
+      "address": "Ground Floor, Ambari, Guwahati",
+      "lat": 26.1854987,
+      "lng": 91.75400789999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJv2mrkCFZWjcR1yguKFVYTc4",
+      "name": "IndianOil",
+      "address": "Ground Floor Kamrup, Fancy Bazar, Guwahati",
+      "lat": 26.1462124,
+      "lng": 91.78847739999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeZPx3OpYWjcR4LFIHlqAdWo",
+      "name": "Bharat Petroleum, Petrol Pump -Baroi Service",
+      "address": "VIP Road, Borbari, Guwahati",
+      "lat": 26.150562,
+      "lng": 91.8113206,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJn6PONVBYWjcRbmK1TY1mcHE",
+      "name": "Bharat Petroleum Petrol Pump bevan service station",
+      "address": "5RM2+249, Maniram Dewan Road, Noonmati, Guwahati",
+      "lat": 26.1825364,
+      "lng": 91.8003513,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdWZpOABZWjcR-dsEAx_Qd_U",
+      "name": "A.S.T.C. Consumer Pump, Rupnagar",
+      "address": "5Q86+PCV, Srimantapur, Chilarai Nagar, Guwahati",
+      "lat": 26.1668592,
+      "lng": 91.7610449,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJLdhhb3hZWjcRVfGQ6UIWObk",
+      "name": "IndianOil",
+      "address": "Ground Floor, Ulubari, Guwahati",
+      "lat": 26.171505,
+      "lng": 91.761948,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCfFa1jZaWjcRLHeDEuCX7UU",
+      "name": "Chhaganmal Sarawgi & Sons",
+      "address": "68, SRCB Road, Lakhtokia, Fancy Bazaar, Guwahati",
+      "lat": 26.1800306,
+      "lng": 91.7406762,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxTfFzIZYWjcRN2TrnaS1p5I",
+      "name": "IndianOil",
+      "address": "VIP Road, Pathar Quarry, Guwahati",
+      "lat": 26.167707,
+      "lng": 91.826736,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzbFw7Y9YWjcR6I2-3SefmA4",
+      "name": "IndianOil",
+      "address": "Ground Floor, VIP Road",
+      "lat": 26.161184,
+      "lng": 91.821495,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJw-IJFkNYWjcRmqZEPYREQkA",
+      "name": "Guwahati Refinery (IOCL)",
+      "address": "5RP5+3HP, Noonmati, Guwahati",
+      "lat": 26.1852129,
+      "lng": 91.8089607,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxzNPgBxZWjcR2nnGwCgbmKA",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Nabajyoti Club, Hengrabari, Guwahati",
+      "lat": 26.1516867,
+      "lng": 91.8113642,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxQmLKgJZWjcRx5dXS6xfjaQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Udeshna Cinema, GS Road, Guwahati",
+      "lat": 26.143509,
+      "lng": 91.79361999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_3tnND1ZWjcRuDebAbm2jQ8",
+      "name": "Vidhan Sabha Petrol Pump",
+      "address": "68, Doctor RP Road, Dispur, Ganeshguri, Guwahati",
+      "lat": 26.1463298,
+      "lng": 91.78897909999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJBWOf78VZWjcR4dSCKB1U49A",
+      "name": "Nayara Petrol Pump",
+      "address": "5R57+J7V, VIP Road, Borbari, Guwahati",
+      "lat": 26.1591868,
+      "lng": 91.81308709999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJB1RhZxhZWjcRAF_xzRe3EpQ",
+      "name": "Naba Service Station",
+      "address": "5Q2M+6XX, Zoo Road, GMC Ward Number 44, Ganeshguri, Guwahati",
+      "lat": 26.15060530000001,
+      "lng": 91.7849966,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_eJ0uBJZWjcRKXeRRNH-X38",
+      "name": "Indian Oil Petrol Pump ⛽ Salma Filling Station",
+      "address": "near Nowapara Masjid, Baghorbori Road, Satgaon, Guwahati",
+      "lat": 26.1424174,
+      "lng": 91.82953529999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4SXpeaFZWjcRaJw93JIMfbs",
+      "name": "D J FUEL CENTRE",
+      "address": "Shop No 1, Sukan Pukhuri, Bhetapa Stadium Rd, Guwahati",
+      "lat": 26.1537719,
+      "lng": 91.78248579999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ24YL-x9ZWjcRVN7-TuQl_Do",
+      "name": "Bharat Petroleum, Petrol Pump, Bhairab Fuel Station.",
+      "address": "4QVH+QHH, Kahilipara Main Road, Kahilipara, Guwahati",
+      "lat": 26.1444497,
+      "lng": 91.7789979,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQYhOk9NZWjcR_WvR1pDmK1Q",
+      "name": "Usha medical hall",
+      "address": "Goruduba",
+      "lat": 26.1575295,
+      "lng": 91.78126739999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZ16pIFhYWjcRhZzHPQXvCok",
+      "name": "IndianOil",
+      "address": "Ground Floor, Geetanagar",
+      "lat": 26.17380959999999,
+      "lng": 91.8027146,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXSjSPABZWjcRMRmMATf5jUc",
+      "name": "R.K.Fabrication",
+      "address": "5Q7H+HR8, Bishnu Rabha Path, bhetapara, Guwahati",
+      "lat": 26.163904,
+      "lng": 91.7795823,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ0cQoj2RYWjcRaIr7FbQMXnM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "2, Zoo-Narengi Road, Mathgharia, Guwahati",
+      "lat": 26.1786711,
+      "lng": 91.81998809999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2eHmAvtZWjcROOuLvp0CSww",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Guwahati Refinery Road, R D Road, Noonmati, Guwahati",
+      "lat": 26.1806903,
+      "lng": 91.8128278,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGwk7WGZYWjcRGdSDhhtV78k",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Guwahati Refinery, R D Road, Noonmati, Guwahati",
+      "lat": 26.1807071,
+      "lng": 91.812826,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBQ0YkWRYWjcR45k55UpIPOY",
+      "name": "IndianOil",
+      "address": "Beltola, Mathgharia, Guwahati",
+      "lat": 26.178654,
+      "lng": 91.821198,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtelPUHJZWjcRo3FRB8RwxoE",
+      "name": "IndianOil",
+      "address": "Opp Assam Flour Mills, GS Road, Bhangagarh, Guwahati",
+      "lat": 26.162964,
+      "lng": 91.770493,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1SjSdp9aWjcRwG3UPmvIh3I",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH-31, College Nagar, Amingaon, Kali Pahar",
+      "lat": 26.217357,
+      "lng": 91.696229,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNY4yOK1bWjcRVnHLdjpGhOY",
+      "name": "BHARAT GAs",
+      "address": "Assam Trunk Road, Maligaon, Guwahati",
+      "lat": 26.2142442,
+      "lng": 91.6368586,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJEdl5awBFWjcRxYr_TDQPd0c",
+      "name": "Dadara service station",
+      "address": "6J9M+FRH, Dadara, No.2 Dalibari",
+      "lat": 26.2186787,
+      "lng": 91.63460889999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJddtsQXNQWjcRKnR3IHR65JA",
+      "name": "IndianOil",
+      "address": "Ground Floor, Baralabari, Changsari",
+      "lat": 26.227644,
+      "lng": 91.69646,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkU7fyYVFWjcRWC8w2xKhU8Q",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Hajo, Dadara, No.2 Dalibari",
+      "lat": 26.2138977,
+      "lng": 91.6295377,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ82aPW6tFWjcRvV4wUYr27c8",
+      "name": "Luit Service Station",
+      "address": "Hajo Rd, Dadara, No.2 Dalibari",
+      "lat": 26.2138262,
+      "lng": 91.62831270000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJqYzK24NFWjcR89S6URb1rew",
+      "name": "IndianOil",
+      "address": "near Police Outpost, Ground Floor Hajo Road,College Nagar, near Police Outpost, Dadara",
+      "lat": 26.21534999999999,
+      "lng": 91.627647,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjUYkMWJFWjcR0qmUDIAIKzg",
+      "name": "Bharat Petroleum, Petrol Pump -Dadara Service Station",
+      "address": "Dadara, No.2 Dalibari",
+      "lat": 26.21566510000001,
+      "lng": 91.6264812,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJiSqvXGBPWjcRO6wHCtbJs6s",
+      "name": "NAYARA PETROL PUMP",
+      "address": "India",
+      "lat": 26.2236385,
+      "lng": 91.619298,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJD24qJSxRWjcRJoXpUg8h5f4",
+      "name": "IndianOil",
+      "address": "Ground Floor, Baralabari, Changsari",
+      "lat": 26.252097,
+      "lng": 91.691862,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg_G3FjlQWjcRyEcHPUO3XqU",
+      "name": "Friends Service Station",
+      "address": "Guwahati-Baihata Rd, Changsari, Main Rd, Silbharal, Guwahati",
+      "lat": 26.2520576,
+      "lng": 91.6921651,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJu6V6IQBRWjcRStIuJ0nuD9A",
+      "name": "Assam Oil",
+      "address": "7M2R+RVG, Guwahati-Baihata Rd, Main Rd, Silbharal, Changsari",
+      "lat": 26.2520663,
+      "lng": 91.69220829999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJJRLPRABRWjcRsj7rfA_vKdA",
+      "name": "Kamala Service Station",
+      "address": "Changsari-Sesa Road, Silbharal, Changsari",
+      "lat": 26.2600107,
+      "lng": 91.6901766,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpZDsm1JPWjcRabUR0QgmhkM",
+      "name": "IndianOil",
+      "address": "Ground Floor Hajo, Bargaon, Dakshin Pakor Kona",
+      "lat": 26.232688,
+      "lng": 91.600005,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsfERIP5PWjcR7hUdwRH3SLY",
+      "name": "Bharat petrolium",
+      "address": "7MGF+M3, Chepti",
+      "lat": 26.2766648,
+      "lng": 91.6726775,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ4aRDDABbWjcRH9oU7zuhN5Y",
+      "name": "DOULGOBINDA ABS SERVO",
+      "address": "6P6P+PX9, Baruah Souk, North Guwahati, Guwahati",
+      "lat": 26.212132,
+      "lng": 91.738579,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJWXxbNQBRWjcR07KnJjUBMTc",
+      "name": "M/s Swarna Fuelling Station (Hindustan Petroleum)",
+      "address": "6PPP+3VW, SH 2, Fulung",
+      "lat": 26.2348181,
+      "lng": 91.73709679999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJI3Y0iRhRWjcRQTLmW5MsFyU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Rangmahal",
+      "lat": 26.2342191,
+      "lng": 91.7379126,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcS1CFARRWjcRSn3uZwbezFE",
+      "name": "Mahakashi Energy Station",
+      "address": "Phulung,Rangmahal SH 2",
+      "lat": 26.2373774,
+      "lng": 91.73818070000002,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJPRlgb49ZWjcRkYsaA3MtH3k",
+      "name": "IndianOil",
+      "address": "Ground Floor, Silpukhuri, Guwahati",
+      "lat": 26.184991,
+      "lng": 91.760353,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlzRuhpBZWjcR41rPALeulwA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, GNB Road, Silpukhuri, Guwahati",
+      "lat": 26.1848305,
+      "lng": 91.76649479999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4UnqrQvhRTcRJvPmcAhL8GQ",
+      "name": "R.O. Pure Water Filling Station",
+      "address": "5QG3+RR8, Crpf, Khatkhati",
+      "lat": 26.1770275,
+      "lng": 91.7545892,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5ZmeDQBZWjcRRyE2vkAqlpc",
+      "name": "CNG FILLING STATION",
+      "address": "ASTC Airport AC, Bus Stop, GS Road, Opposite Flyover Bridge, Ulubari, Guwahati",
+      "lat": 26.1771015,
+      "lng": 91.7551507,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjWJlpqNZWjcRE2aVOsm1f0s",
+      "name": "Najim Store",
+      "address": "near Shubham Elite, 35, Gandhi Basti Road, Guwahati",
+      "lat": 26.1812285,
+      "lng": 91.7633989,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJxzHrB5pZWjcRzthYcv2rE8M",
+      "name": "Government Press",
+      "address": "Near Voltas Building, 190, Maniram Dewan Road, Krishna Nagar, Chandmari, Guwahati",
+      "lat": 26.1841397,
+      "lng": 91.7679529,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ2xuWUABZWjcRycNLj1Kpi7Y",
+      "name": "Indian Oil Fuel Station",
+      "address": "Choonsali, Gopal Nagar, Noonmati, Guwahati",
+      "lat": 26.2015953,
+      "lng": 91.7847299,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJwNdXABZWjcRAfPjkSRf2ts",
+      "name": "Kikori",
+      "address": "I don't know the building name, By Lane No 5, Sarania Hills, Guwahati",
+      "lat": 26.1781403,
+      "lng": 91.77253859999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJrV-vsaRZWjcRXsfBfAkP00c",
+      "name": "IndianOil",
+      "address": "Ground Floor, Chandmari, Guwahati",
+      "lat": 26.183554,
+      "lng": 91.77950299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0Uuiu6BZWjcR0mM7KBqf4gU",
+      "name": "IndianOil",
+      "address": "Ground Floor, Zoo Road, Guwahati",
+      "lat": 26.173189,
+      "lng": 91.77757299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8UQ_WGZYWjcRb2suaMJXAMM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Noonmati, Guwahati",
+      "lat": 26.1815618,
+      "lng": 91.8035393,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ85qmQX9YWjcRO2nYD_ejXBE",
+      "name": "IndianOil",
+      "address": "Ground Floor, Narengi",
+      "lat": 26.176161,
+      "lng": 91.830872,
+      "open_now": true
+    }
+  ]
+}

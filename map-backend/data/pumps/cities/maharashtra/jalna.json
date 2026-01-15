@@ -1,0 +1,571 @@
+{
+  "city": "Jalna",
+  "state": "Maharashtra",
+  "count": 70,
+  "center": {
+    "lat": 19.8833,
+    "lng": 75.8833
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJrbxydJVT2jsRdrt9GCmY0rw",
+      "name": "Mahalaxmi Petroleum",
+      "address": "Nagpur - Aurangabad - Mumbai Highway, Shelgaon",
+      "lat": 19.8725541,
+      "lng": 75.780542,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJF6VcsklX2jsR4oTHlVdZPEw",
+      "name": "Madhur Auto Services",
+      "address": "Madhur Auto Services, near Hotel Nivant, Aurangabad Road, Jalna",
+      "lat": 19.8497084,
+      "lng": 75.8785668,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl4uslmxX2jsRUvIlw-1yP3Q",
+      "name": "Bharat Petroleum, Petrol Pump -Tridhara Auto Service",
+      "address": "AMBAD, JALNA -SHOLAPUR, RD, Jalna",
+      "lat": 19.7858001,
+      "lng": 75.85597779999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-e_JQw1X2jsR2gLKXAJhLa4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Ambad Choufuli, Ambad Road, Indewadi, Jalna",
+      "lat": 19.8099536,
+      "lng": 75.8699306,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3wvikFI3wTsR0PLkhy8Qf2c",
+      "name": "Jio-bp",
+      "address": "Gut No 214, SH 6, Jalna - Aurangabad Road, Nagewadi, Jalna",
+      "lat": 19.8606123,
+      "lng": 75.842894,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHU3AOyxR2jsRibYHXaV8iyI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gut No 195 Nagewadi, opposite MIDC, Jalna",
+      "lat": 19.8599593,
+      "lng": 75.8456497,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1woHRQBR2jsRdrvuV0yKStU",
+      "name": "HP petrol pump",
+      "address": "VR9C+Q54, National Highway 753A, Pirkalyan",
+      "lat": 19.869381,
+      "lng": 75.8204477,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ_5PopzJR2jsRda3tOMLehfI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gat No 299, P Nagewadi, Dawalwadi",
+      "lat": 19.869377,
+      "lng": 75.820611,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJb0-LAlxR2jsRhNWFwv1vTtA",
+      "name": "Mauli Tyers",
+      "address": "VRC7+64M, Jalna",
+      "lat": 19.8705839,
+      "lng": 75.8128081,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJJ33lWVdX2jsRAz_7ct0Fsww",
+      "name": "Balaji Kirana",
+      "address": "Balaji, Jalna",
+      "lat": 19.8513239,
+      "lng": 75.85933310000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJb8AG3ohX2jsR_54jfqVBM1w",
+      "name": "Bharat Petroleum, Petrol Pump -Tirupati Auto Service",
+      "address": "DAVALWADI, JALNA BADNAPUR, Jalna",
+      "lat": 19.8707923,
+      "lng": 75.8070752,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuX_QoF5R2jsR-4iklsWpoAg",
+      "name": "IndianOil",
+      "address": "Ground Floor, Dawalwadi",
+      "lat": 19.8713029,
+      "lng": 75.81250610000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJO3RfRJBX2jsRjWRmsmFY3s0",
+      "name": "Bharat Petroleum Petrol Pump , JAI BHARAT",
+      "address": "Ambad Road, Jalna",
+      "lat": 19.8187177,
+      "lng": 75.8749589,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXxH-xeZT2jsRrbALqG8LumY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Jalna - Aurangabad Road, MIDC, Dawalwadi",
+      "lat": 19.871455,
+      "lng": 75.800398,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0yGmcj5X2jsRFtdayXErsZc",
+      "name": "Vivek Automobiles - IOCL Petrol Pump",
+      "address": "Gut no.166 , At post Wadigodri Taluqa, Ambad Road, Jalna",
+      "lat": 19.8206195,
+      "lng": 75.87659839999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJF12taehT2jsR-MCNE1JbKnA",
+      "name": "A. P. Patel & Company (Diesel Pump)",
+      "address": "VQCV+WJC, Nagpur - Aurangabad - Mumbai Highway, Dawalwadi",
+      "lat": 19.8723183,
+      "lng": 75.7940126,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJfR8ehJJX2jsR8toQeXzdbjY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Vishal Corner, Aurangabad Road, Jalna",
+      "lat": 19.8486369,
+      "lng": 75.8683969,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQ3kUWGxX2jsRQUyE5R5FuQ8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gut No 482, Udan Bridge Road, Ambad Road, Choufuly, Samarth Nagar, Jalna",
+      "lat": 19.8267295,
+      "lng": 75.8797467,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcdUpunFX2jsRNvTXOd1l_XM",
+      "name": "Bharat Petroleum, Petrol Pump -Deepali Multi Services",
+      "address": "beside merit hotel, Aurangabad",
+      "lat": 19.84974429999999,
+      "lng": 75.8707117,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJb2AcVTZX2jsRO4kxObfZm2A",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Jalna - Aurangabad Road, Jalna",
+      "lat": 19.8489064,
+      "lng": 75.8739732,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ760yNwBX2jsRdRk-5enaQao",
+      "name": "ADHOC SHREE SAI PETROLIUM ⛽",
+      "address": "RVMJ+VM6, Jalna",
+      "lat": 19.8346659,
+      "lng": 75.88163449999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJLxbBjxBX2jsRxzLb0iV37gc",
+      "name": "Bharat Petroleum, Petrol Pump -Laxmichand Bechardas",
+      "address": "Jalna Road, Jai Bhawani Nagar, Jalna",
+      "lat": 19.8532488,
+      "lng": 75.87570199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2dS-WgBR2jsRUlsTvI5vJQ8",
+      "name": "TR ekhande Bharat Petroleum",
+      "address": "VRJQ+3C, Nidhona",
+      "lat": 19.880236,
+      "lng": 75.8385922,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjyuaeQhX2jsRKTMFxfqAWGw",
+      "name": "Bharat Petroleum Petrol Pump , HIND PETROLEUM ADHOC",
+      "address": "Railway Station Road, FLYOVER, Jalna",
+      "lat": 19.836191,
+      "lng": 75.884864,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQd2EAE9X2jsR1K0867N1fHw",
+      "name": "HP Petrol Pump Totala Auto",
+      "address": "SUR NO 103/1 Jalna, Aurangabad Jalna Road, Aurangabad",
+      "lat": 19.84942,
+      "lng": 75.88533,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJI3XZH_5Z2jsRCqabgM2tAGY",
+      "name": "IndianOil",
+      "address": "CTS No 2045, Sheet No, opposite Yuvraj Metal, 9/8, Devalgaon Rd, Jalna",
+      "lat": 19.855013,
+      "lng": 75.900032,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJE3fLjlVX2jsRBhc5_hPO080",
+      "name": "Bharat Petroleum Petrol Pump",
+      "address": "VV4X+7Q5, Devalgaon Raja Road, Gyatri Nagar, Jalna",
+      "lat": 19.8556417,
+      "lng": 75.8994857,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ6VhAzL5Z2jsRbLno21EEeWE",
+      "name": "Bharat Petroleum - Jaylaxmi Petroleum",
+      "address": "Jalna",
+      "lat": 19.8287604,
+      "lng": 75.905254,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEw7sZFtX2jsR-UbnwyetaQE",
+      "name": "Nayara Petrol Pump (Pitty)",
+      "address": "RVRR+P4G, Mastgarh, Laxminarayanpura, Jalna",
+      "lat": 19.841815,
+      "lng": 75.89031299999999,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJxZziAS5X2jsROyXw04tL-y8",
+      "name": "LPG Gas Pump",
+      "address": "RVRR+XJ3, Mastgarh, Jalna",
+      "lat": 19.8423841,
+      "lng": 75.89155339999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJQ9uusl5X2jsREH27SX_MeE0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "PB No 49, Railway Station Road, Mastgarh, Jalna",
+      "lat": 19.841651,
+      "lng": 75.894701,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJp2s9m2tX2jsRu5Jqz5A9Huk",
+      "name": "Yashvanti MRF Showroom",
+      "address": "Ram Nagar, Jalna",
+      "lat": 19.8428939,
+      "lng": 75.90059339999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJW82EtFlX2jsRAr-3BpstDf0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Sarojini Devi Road, Jalna",
+      "lat": 19.845901,
+      "lng": 75.89662009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP4BLtkVX2jsRms4xurSBKNE",
+      "name": "M.W.MISHRIKOTKAR BHARAT PETROLEUM PETROL PUMP",
+      "address": "Jalna Road, DEULGAONRAJA, DeulgaonRaja",
+      "lat": 19.8485384,
+      "lng": 75.88940939999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIzIEhidX2jsRH055bDdl96I",
+      "name": "Zyada Gas Auto Lpg Pump",
+      "address": "near bus stand, Aurangabad road Lakkadcot, Jalna",
+      "lat": 19.8481642,
+      "lng": 75.8918456,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJA6NFfj1Y2jsRwD6wYeIQOi8",
+      "name": "भारत पंटोलियम",
+      "address": "India",
+      "lat": 19.7911726,
+      "lng": 75.9141657,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJA-FPM1tX2jsREiITj5iZ0oE",
+      "name": "Indian Auto Gas LPG Bhagwati Auto LPG",
+      "address": "Nivant Hotel, Millat Nagar, Bhawani Nagar, Jalna",
+      "lat": 19.8496689,
+      "lng": 75.879454,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJXXbdT1dX2jsRfY9bv2Yut0E",
+      "name": "BPCL Petrol Pump",
+      "address": "RVXV+8V8, Gyatri Nagar, JALNA NR ST BUS STAND, Jalna",
+      "lat": 19.8482757,
+      "lng": 75.89469059999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNzmQ_ldX2jsRSemnDSnbbTA",
+      "name": "KEN STAR",
+      "address": "India",
+      "lat": 19.8482213,
+      "lng": 75.89963589999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJX-0L5Z1X2jsRKVX7CvT1ahI",
+      "name": "PRUTHVIRAJ PETROLEUM",
+      "address": "Shop No 01, near Fine Staty Hotel D, Rana Road, Jalna",
+      "lat": 19.8512236,
+      "lng": 75.8987867,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJF5DzI-9Z2jsRtE-eoWHVkDM",
+      "name": "IndianOil",
+      "address": "Gut No 276, Ambika Market, 1/1/P, Jalna",
+      "lat": 19.844043,
+      "lng": 75.91393699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJW6P3UdRR2jsRJUoSsxlLBDQ",
+      "name": "Shanti Gas Agency office",
+      "address": "Maheshwari Township, Jalna",
+      "lat": 19.8584082,
+      "lng": 75.88160979999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJGehB1StZ2jsRSmc17v7NTew",
+      "name": "NAVKAR FUELLING STATION",
+      "address": "Devalgaon Raja Road, Jalna",
+      "lat": 19.8537359,
+      "lng": 75.9048416,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdQGgTFZZ2jsRazoOhjdcV0A",
+      "name": "Bharat Petroleum, Petrol Pump -Inderchandra J. Tawarawala",
+      "address": "Sindkhed Raja Road, Jalna",
+      "lat": 19.858643,
+      "lng": 75.9018066,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMb-XeABR2jsRyygxdf-F4xk",
+      "name": "Shri Sai Petroleum",
+      "address": "135, New Mondha, Jalna",
+      "lat": 19.8681812,
+      "lng": 75.8845991,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJbyy7bbdQ2jsRseiYpVxYI9Y",
+      "name": "Essar petrol Pump",
+      "address": "Maheshwari Twp, Jalna, SH-178, Nagpur Aurangabad Mumbai Highway, Jalana, Jalana",
+      "lat": 19.86842,
+      "lng": 75.880387,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJGwbf5alQ2jsRHCYf6HL8NzM",
+      "name": "Bianco",
+      "address": "India",
+      "lat": 19.86642399999999,
+      "lng": 75.8992446,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJk0UO3p5Z2jsRAgx4aq5pyV0",
+      "name": "IndianOil",
+      "address": "No 6A, Ambika Market, near Jalna, Nanded Road, Deomurti, Jalna",
+      "lat": 19.84290379999999,
+      "lng": 75.9419854,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq-yECIZZ2jsRKa1DOyvkrvE",
+      "name": "IndianOil",
+      "address": "Gut No 160, Part Ambika Market, Wadgaon",
+      "lat": 19.7864628,
+      "lng": 75.9803751,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoSU0PQBf2jsR8AmidlgtdA0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 752/I, Sindhi Kalegaon",
+      "lat": 19.832695,
+      "lng": 75.994058,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8SvwHkxb2jsRrosHvcej6Vg",
+      "name": "Nayara Petroliums",
+      "address": "VW9W+9XW, Nava road, Deomurti, Jalna",
+      "lat": 19.8684819,
+      "lng": 75.9474424,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ_7pK-nxb2jsR-gwa5eGhy6A",
+      "name": "Paroma petroleums",
+      "address": "VW9X+G4G, Navha Road, Deomurti, Jalna",
+      "lat": 19.868806,
+      "lng": 75.9478223,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJQ-dageBe2jsRHQx7M_45D2E",
+      "name": "Chhatrapati Petroleum",
+      "address": "Gate No, 171, Jalna - Jintur Road, Sindhi Kalegaon",
+      "lat": 19.8255282,
+      "lng": 76.01628769999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ15rhQ-Be2jsRnHDepRDj63w",
+      "name": "Hind Petroleum, BPCL",
+      "address": "Jalna",
+      "lat": 19.82414259999999,
+      "lng": 76.0177145,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJURwKP1pf2jsRgb2gkJlJGls",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 752/I, Jalna - Jintur Road, Ramnagar",
+      "lat": 19.81911699999999,
+      "lng": 76.029335,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsRrM83pT2jsR7L75tpAfQkw",
+      "name": "kamalakar kale",
+      "address": "WQ7V+GCQ, Najik Pangri",
+      "lat": 19.9138443,
+      "lng": 75.7936053,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJiTzCWIdT2jsRviRBPyLmERs",
+      "name": "मातोश्री गॅस एजन्सी मात्रेवाडी",
+      "address": "VQ84+6V6, Matarewadi",
+      "lat": 19.865547,
+      "lng": 75.7571432,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ497YNZVR2jsRoB4z-AZo1s4",
+      "name": "Suraj Petroleum",
+      "address": "Gut No. 57, Ghanewadi, NH-753 H, Jalna - Bhokardan Road, Jalna",
+      "lat": 19.9077553,
+      "lng": 75.87226509999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx4Fc7ZJQ2jsRkr9b9adTxLQ",
+      "name": "IndianOil",
+      "address": "Gut No 81, Hissa No 6, Jalna - Bhokardan Road, Ambika Market, Gundewadi",
+      "lat": 19.891327,
+      "lng": 75.878682,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq40MeyVT2jsRhgJw_L1cB2A",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Aurangabad Division, Gut No 687 SH 6, Shelgaon, Matrewadi, Badnapur",
+      "lat": 19.8683193,
+      "lng": 75.7475245,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8UZjcm1T2jsRDSiylRnzWrI",
+      "name": "Nirankari Petrol Pump",
+      "address": "GUT NO. 687 AT Matrewadi State Highway No6,post Shelgaon TAH Badnapur, Aurangabad",
+      "lat": 19.8681707,
+      "lng": 75.74755449999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSZaiEQBR2jsRxdghKAEOZ7s",
+      "name": "HP PETROLIUM ADHOC SHREE SAI",
+      "address": "near Hindu Hrudaysamrat Balasaheb Thackeray Maharashtra Samruddhi Mahamarg, No 364, Corridor, Gundewadi",
+      "lat": 19.8886106,
+      "lng": 75.8932396,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYXtOPgBR2jsRBDEYdX0LfAk",
+      "name": "Refreshment services on Samruddhi Highway",
+      "address": "VVQV+C8Q, Jalna",
+      "lat": 19.8885914,
+      "lng": 75.893372,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQ2_bR71b2jsRJVuqGuo5aR8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gut No 204, National Highway 753A, Panshendra, Jalna",
+      "lat": 19.881781,
+      "lng": 75.90702399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbxHn9tZb2jsRvrMyL6eepzc",
+      "name": "IndianOil",
+      "address": "Survey No 83, Devalgaon Raja Road, Jalna",
+      "lat": 19.8865844,
+      "lng": 75.9082993,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3fnnGR9d2jsRY3QNurP6CbI",
+      "name": "Taj petrol pump",
+      "address": "VXRV+74C, Borkhedi",
+      "lat": 19.89068869999999,
+      "lng": 75.9927683,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFXDP24td2jsRsZFHm0zQ9kU",
+      "name": "Bharat Petroleum, MSRDC Fueling Station",
+      "address": "WX9V+8M8, Kadwanchi",
+      "lat": 19.9182788,
+      "lng": 75.9941973,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJh-Xdjk5b2jsRLCF28LtnV8k",
+      "name": "Adblue D.E.F",
+      "address": "WXW3+F9H, Jalna",
+      "lat": 19.9461903,
+      "lng": 75.95347389999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJt_Es0jRb2jsRTGCyZoRG-eY",
+      "name": "IndianOil",
+      "address": "Gut No 1011, Ambika Market, Waghrul",
+      "lat": 19.9571341,
+      "lng": 75.969544,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJz-YTm05F2jsRBs7Q--KwoCE",
+      "name": "Aai petroleum",
+      "address": "XXCR+QC, Gokulnagar",
+      "lat": 19.9719435,
+      "lng": 75.9910183,
+      "open_now": true
+    }
+  ]
+}

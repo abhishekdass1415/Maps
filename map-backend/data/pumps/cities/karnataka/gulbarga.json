@@ -1,0 +1,875 @@
+{
+  "city": "Gulbarga",
+  "state": "Karnataka",
+  "count": 108,
+  "center": {
+    "lat": 17.3333,
+    "lng": 76.8333
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJYSI0IQC_yDsR5DGP72iGOUI",
+      "name": "BHARAT PETROLEUM CORPORATION. LTD",
+      "address": "8Q35+XP2, Sindagi - Kalaburagi Road, Sirasgi",
+      "lat": 17.3048899,
+      "lng": 76.75926179999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJETYeTgC_yDsRh5fMLZpdYVE",
+      "name": "Bharat Petrol Pump - SHREE VIJAYALAXMI PETROLEUMS",
+      "address": "8Q35+XP, Hadgilharuti",
+      "lat": 17.30491199999999,
+      "lng": 76.75926199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6Tn00iS9yDsRihuyG2jTT34",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 150E, Hadagil Haruthi, Halbarga, Sindagi",
+      "lat": 17.2969554,
+      "lng": 76.73244810000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsflxQQC_yDsRSMWCzP9kH-8",
+      "name": "MRPL NEW PUMP",
+      "address": "7R35+5R, Sirnoor",
+      "lat": 17.2529375,
+      "lng": 76.8095625,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJN1URys-VyDsRJTzIZW-TnMc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 50, Sirnoor",
+      "lat": 17.2289011,
+      "lng": 76.799853,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJK_H4CzW_yDsRQvkuPKS6cWA",
+      "name": "BPCL Singade Petroleums",
+      "address": "near radio station, Nandikur village, Nandikur jewargi road, near radio station, Kalaburagi",
+      "lat": 17.2764737,
+      "lng": 76.82115499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAwgzUEu_yDsRYZtlxFCQV-Y",
+      "name": "IndianOil",
+      "address": "Sy No 17, P No, Ram Mandir High Court, 910112021 & 22, Ring Road, Udnoor",
+      "lat": 17.3055596,
+      "lng": 76.8037247,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB0p7HC6_yDsRG3qb6m1rFHw",
+      "name": "IndianOil",
+      "address": "Ground Floor Sirasagi, Afzalpur Road, GB Bahamanipura, Kalaburagi",
+      "lat": 17.3151883,
+      "lng": 76.7907859,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM0BRu2S_yDsRlUTLR-M52Fs",
+      "name": "IndianOil",
+      "address": "Survey No 9/5, NH 218 Kotnoor, New Jewargi Road, Gb Jagath, Kalaburagi",
+      "lat": 17.2907493,
+      "lng": 76.819274,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy8C1Wma_yDsR-KcBFD9hWVs",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kotnoor, Kalaburagi",
+      "lat": 17.296892,
+      "lng": 76.81652100000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKxJjDHy_yDsRvrwd7xZrX9c",
+      "name": "Nayara Petrol Pump (Shree Siddabasaveshwar Petroleum)",
+      "address": "beside Gulbarga High Court, Biddapur Colony, beside Gulbarga High Court, Afzalpur Road, Entrance, Kalaburagi",
+      "lat": 17.3168872,
+      "lng": 76.79521799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQ-XHLKO_yDsRWjNSoz94HB4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Sy No 22, Biddapur Colony, Kalaburagi",
+      "lat": 17.3162625,
+      "lng": 76.7999312,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9z4sYKt5xjsR8hTV4H8YVBk",
+      "name": "Reliance Petroleum - Solapur F &F",
+      "address": "Survey No 48, NH 13, Basavnagar, Solapur",
+      "lat": 17.3167642,
+      "lng": 76.79965299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKf1UELq_yDsRTKztCIu5UC0",
+      "name": "M/s Mankar Fuels - BPCL RO",
+      "address": "near Ram Mandir, New Jewargi Road (Over Bridge, near Ram Mandir, Karuneshwar Nagar, Kalaburagi",
+      "lat": 17.3033595,
+      "lng": 76.8164281,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ04vwZlu_yDsR3T5df_lvRbE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, New Jewargi Road, Kalaburagi",
+      "lat": 17.305888,
+      "lng": 76.81657899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs-nuqEKVyDsRMai11YTQrfw",
+      "name": "Bharat Petroleum, Petrol Pump -Asmitha Petroleum",
+      "address": "FARTABAD, NH-218, GULBARGA, GULBERGA",
+      "lat": 17.198992,
+      "lng": 76.7964196,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDy0Zu7W5yDsR7jyKDyNJo-8",
+      "name": "Reliance Petroleum",
+      "address": "RELIANCE PETRO MARKETING PVT. LTD.,RETAIL OUTLET OLD NO. 126/1E,126/1EE,SH-19,VILLAGESY.NO.126/3A:2A,KAPANOOR VILLAGE TAL. & DIST. GULBARGA Gulbarga Town",
+      "lat": 17.3349717,
+      "lng": 76.76823639999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6c-l0VC_yDsRvnRdHTOAdDw",
+      "name": "IndianOil",
+      "address": "Ground Floor, Old Jewargi Road, Kalaburagi",
+      "lat": 17.3144378,
+      "lng": 76.81996079999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJW8la7rXAyDsRfmiKBnAXVzQ",
+      "name": "IndianOil",
+      "address": "Shahbad Road, Rajapur, Kalaburagi",
+      "lat": 17.3208932,
+      "lng": 76.8484831,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS5If7FXHyDsRDy6zSNAg02Y",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Jajee Complex, College Road, Sangameshwar Nagar, Kalaburagi",
+      "lat": 17.329211,
+      "lng": 76.826961,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJR_s_TdTAyDsR1xtyGsvUr-Y",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Sedam Road, Kalaburagi",
+      "lat": 17.323531,
+      "lng": 76.86912099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtRD_GbS4yDsRu-QViz08UVc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Ring Road, Hirapur Road, Kalaburagi",
+      "lat": 17.32812299999999,
+      "lng": 76.80763800000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7YbqGVfHyDsRwfgUGMKtkwA",
+      "name": "IndianOil",
+      "address": "Halbarga, Brhampur, Kalaburagi",
+      "lat": 17.334133,
+      "lng": 76.829849,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhdK2_U7HyDsR12hlJG1h6YA",
+      "name": "IndianOil",
+      "address": "STBT Cross, Dargah Road, Kalaburagi",
+      "lat": 17.3340956,
+      "lng": 76.84082389999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpwq3ovXByDsRsj0-suK0PsA",
+      "name": "JAMSHETTY PETROLEUM Pump",
+      "address": "Kotnoor, Kalaburagi",
+      "lat": 17.2996069,
+      "lng": 76.8351864,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ64HyYvbByDsRDikAM2eLpn0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 37, 4 & 37/5, Naganalli, Kalaburagi",
+      "lat": 17.2998189,
+      "lng": 76.8361437,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZzA9cjPByDsRGF3AWC1d9vU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 136/A2, Shahbad Road, Kusnoor, Kalaburagi",
+      "lat": 17.2820081,
+      "lng": 76.8710392,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJyTZLGgjByDsRaNIIfsw_oJ0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Plot No 199/P1 & P2 Nandur, Indl Area, Kesaratagi",
+      "lat": 17.2718056,
+      "lng": 76.8781589,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY2xcTMbAyDsR8zuUjoN6z38",
+      "name": "IndianOil",
+      "address": "Ground Floor, Rajapur, Kalaburagi",
+      "lat": 17.312774,
+      "lng": 76.85191560000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJN1eqd8jAyDsREnQajodfOZQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 19/1, Shahbad Road, Rajapur, Kalaburagi",
+      "lat": 17.3149003,
+      "lng": 76.8508664,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvTGsWh6_yDsRm5BkkDeTppI",
+      "name": "IndianOil",
+      "address": "Sy No 64/2, Old Depot Land, Old Jewargi Road, Kalaburagi",
+      "lat": 17.3162837,
+      "lng": 76.82068389999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtVKM6CzByDsRfFyQ5Avnqxg",
+      "name": "RV PETROL PUMP",
+      "address": "8V82+27W, Shahbad Road, Rajapur, Kalaburagi",
+      "lat": 17.3151213,
+      "lng": 76.850701,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJc_To2b2_yDsRIUo8xeLE1OE",
+      "name": "IndianOil",
+      "address": "New Jewargi Road, NGO's Colony, Kalaburagi",
+      "lat": 17.315143,
+      "lng": 76.815801,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZRSf5KnAyDsRK2cAKfeD_tw",
+      "name": "NEW SANI ENGINEERING STORE",
+      "address": "New Janiya Masjeed Complex, Railway Station Bazar Main Road",
+      "lat": 17.3178599,
+      "lng": 76.8263326,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRwYSZ6vAyDsRmV12BUCfNio",
+      "name": "Asian Emission Testing Centre",
+      "address": "Yateem Khana Complex, Station Road, Kalaburagi",
+      "lat": 17.3232312,
+      "lng": 76.8312436,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJ38oWqvAyDsR_F-9LtoiPoo",
+      "name": "IndianOil",
+      "address": "Ground Floor, Station Road, Kalaburagi",
+      "lat": 17.323839,
+      "lng": 76.831253,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBxKz8Gi_yDsRAJQ_OEzfMvQ",
+      "name": "Bharat Petroleum, Petrol Pump -Bhimalli Petroleum",
+      "address": "COURT ROAD, GULBARGA,GULBA, Kalaburagi",
+      "lat": 17.3237195,
+      "lng": 76.82793339999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkxmG6Wq_yDsRTZp9kxAMNHU",
+      "name": "IndianOil",
+      "address": "NEKRTC Depot, Lal Bahadur, Shastri Nagar, Kalaburagi",
+      "lat": 17.3232594,
+      "lng": 76.8207122,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAUAKqqy4yDsR1-Tqw1dpNAs",
+      "name": "IndianOil",
+      "address": "Ground Floor, Jewargi Cross",
+      "lat": 17.323765,
+      "lng": 76.819581,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwatZZwDHyDsRF6_SEQ2qr6c",
+      "name": "Lahoti Petrol Pump Gulbarga",
+      "address": "25846 Lahoti, Kalaburagi",
+      "lat": 17.3252446,
+      "lng": 76.83244549999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZZMbTlPHyDsRVCwx9FkC0Zk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Station Road, Aiwan-E-Shahi Road, Kalaburagi",
+      "lat": 17.325301,
+      "lng": 76.832481,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJN9AqqK24yDsR082_it4GSXA",
+      "name": "ESSAY PETROLEUM",
+      "address": "India",
+      "lat": 17.3266892,
+      "lng": 76.8167922,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJK55dcKy4yDsRO-mfJzgycgo",
+      "name": "ಸ್ನೇಹಾ ಲೇಡೀಸ್ ಟೈಲರ್",
+      "address": "India",
+      "lat": 17.3277373,
+      "lng": 76.8196232,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJA4eVBRXHyDsR4bw5bKm2Qgo",
+      "name": "Sri Siddharoodh Filling Station",
+      "address": "Kalaburagi Division, Shop No 07, Siddharoodh Complex, Near Government School Aurad Road, Janwada, Bidar",
+      "lat": 17.3296403,
+      "lng": 76.83434539999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY9Eis8zAyDsRCf_1qSKy7mQ",
+      "name": "Bilgundi Petrol pump & CNG",
+      "address": "Sedam Road, Rajapur, Kalaburagi",
+      "lat": 17.3263289,
+      "lng": 76.8550243,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJv6e5QwDHyDsRQGySFQB8S_k",
+      "name": "Avinash HP pump",
+      "address": "8RHM+VPV, Kalaburagi",
+      "lat": 17.329731,
+      "lng": 76.8342957,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJadK5YfjHyDsRJUP53chJ6rI",
+      "name": "Manjula petrloums",
+      "address": "shanti niliya, Plot no 52 and 55, yalling nagar, Kalaburagi",
+      "lat": 17.329731,
+      "lng": 76.8342957,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJtTgEawDHyDsRZcV2kCC2WZI",
+      "name": "Sharan Petrolium",
+      "address": "8RHM+VPV, Kalaburagi",
+      "lat": 17.329731,
+      "lng": 76.8342957,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJHWZnSy_HyDsRqEItG5NSXBY",
+      "name": "IndianOil",
+      "address": "Ground Floor, Govt General Hospital, Cross, Sedam",
+      "lat": 17.3285336,
+      "lng": 76.8478344,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIacpGaTHyDsRHq5Ihm8X5Yw",
+      "name": "IndianOil",
+      "address": "Ground Floor, Sedam Road, Kalaburagi",
+      "lat": 17.326494,
+      "lng": 76.856628,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2VczPQDHyDsRLFOBQhoQ6mQ",
+      "name": "Modi Energies",
+      "address": "Modi Cross Road, Sedam Road, Kalaburagi",
+      "lat": 17.3304314,
+      "lng": 76.8365314,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7wjn_oDHyDsRjZGIWsCSsws",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Sedam Road, Kalaburagi",
+      "lat": 17.330477,
+      "lng": 76.836607,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwd2Y7JrHyDsR36swP0Kj-GQ",
+      "name": "VINAYAK PETROLIUMS",
+      "address": "Shop No 07, Vinayak Complex, near Water Tank, Janwada Road, Nawadgeri, Bidar",
+      "lat": 17.3330371,
+      "lng": 76.8328767,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ14N7AjTHyDsR3pSbWQ9u3Dg",
+      "name": "Guru Prasad Oil Ghana",
+      "address": "India",
+      "lat": 17.3320865,
+      "lng": 76.8542824,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJG1yvTADHyDsRtyQ6YYZ1fyM",
+      "name": "USK Auto LPG Gas Pump",
+      "address": "10/21, Chakkar Katta, Maktampura, Kalaburagi",
+      "lat": 17.334572,
+      "lng": 76.8421669,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJGd18IU_HyDsRxDYbNDemn9U",
+      "name": "Go Gas",
+      "address": "8RMR+VW7, STBT, Darga Road, Kalaburagi",
+      "lat": 17.3346571,
+      "lng": 76.84229859999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJCQzeSUbByDsR8f_d2DgUA4s",
+      "name": "IndianOil",
+      "address": "Sedam Road, Kalaburagi",
+      "lat": 17.3161526,
+      "lng": 76.89853480000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqY6oibrDyDsR05Wq1wPTX_g",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, SH 10, Srinivas Saradgi",
+      "lat": 17.3104439,
+      "lng": 76.9242569,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDe-jDQDDyDsRFW1d4fg5CEA",
+      "name": "Shree Shiva Ganesh Fuels",
+      "address": "8W5G+PR, Srinivas Saradgi",
+      "lat": 17.3093125,
+      "lng": 76.92706249999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ33sPLgDByDsR8RlZzupfMQI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Sedam Road, Kalagnoor, Kalaburagi",
+      "lat": 17.315689,
+      "lng": 76.90156499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAzcKyCbDyDsRpa5X36Tp4Vo",
+      "name": "Balamani Petroleum BPCL Dealer",
+      "address": "State Highway 10, Sannur",
+      "lat": 17.3071893,
+      "lng": 76.93905079999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJryEW74TDyDsRx3vBxKipHBU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Sy No 574, SH 10, Srinivas Saradgi",
+      "lat": 17.3070389,
+      "lng": 76.9408706,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaVn2i7m4yDsRXRXqwGtAlzw",
+      "name": "IndianOil",
+      "address": "Survey No 3, 3, Ring Road, Hirapur, Kalaburagi",
+      "lat": 17.3365204,
+      "lng": 76.808331,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBVQ2qJu4yDsRTto0rNst-UY",
+      "name": "IndianOil",
+      "address": "Ground Floor, Aalanda Check Post, Aland Road, Vijay Nagar Colony, Kalaburagi",
+      "lat": 17.3555794,
+      "lng": 76.817584,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-UDATKK5yDsRINWudTpnKpw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, SH 10, Keribhosga",
+      "lat": 17.3799759,
+      "lng": 76.775221,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfcfMSU65yDsR-8QB8yx2-FM",
+      "name": "Balaji Pump",
+      "address": "Serve No 10, Near, Alanda Road, Keribhosga",
+      "lat": 17.3799233,
+      "lng": 76.77592969999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJDWjFoxS5yDsRb-UI2Er9KYU",
+      "name": "Bennur Petroleum",
+      "address": "9R92+GVC",
+      "lat": 17.3688075,
+      "lng": 76.80214169999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJARVEpQ-5yDsR4AF1PDN6bDs",
+      "name": "Bharat Petroleum Petrol Pump , MAHAN MIRACALE WORLD PETROLEUM",
+      "address": "SY NO 67/2BHOSGA CROSS, Aland Road, Halbarga",
+      "lat": 17.382317,
+      "lng": 76.784981,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkYOFAo-4yDsRblugEWl4r40",
+      "name": "IndianOil",
+      "address": "Ground Floor, Aland Road, Kalaburagi",
+      "lat": 17.361845,
+      "lng": 76.81149300000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0WqbLrUHdTkRvQsKF_iZzFg",
+      "name": "IndianOil",
+      "address": "Survey No 226/4, Aland sholapur highway, Alund Bazar, Kalaburagi",
+      "lat": 17.3538358,
+      "lng": 76.8188563,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJccK-qP65yDsR6LBUZzZDpHk",
+      "name": "S.N Brothers Fuels",
+      "address": "9PPQ+22, Savalgi B",
+      "lat": 17.38503159999999,
+      "lng": 76.7375433,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0VZf7X65yDsRgwCui6qt4ng",
+      "name": "Bharat Petroleum, Petrol Pump -Ma Jabbar And Sons",
+      "address": "ALAND RD, GULBARGA, GULBAR, GULBERGA",
+      "lat": 17.3493191,
+      "lng": 76.8217533,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ90k-CKy5yDsRQqobhqnErl8",
+      "name": "Bharat Petroleum, Petrol Pump -M.R.Tappewale Petroleum",
+      "address": "GULBARGA, GULBARGA TOWN,GU, Kalaburagi",
+      "lat": 17.3459142,
+      "lng": 76.826594,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJR0NdlCG6yDsRt8WqgvVsTx4",
+      "name": "IndianOil",
+      "address": "Survey No 90, 2/4, Aland Road, Dannur, Pattan",
+      "lat": 17.3857894,
+      "lng": 76.7290495,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJswwSCYK4yDsRWz39sJ5K9u4",
+      "name": "IndianOil",
+      "address": "Survey No 19P & 20P, Shaik Roza, Ring Road, Kalaburagi",
+      "lat": 17.363891,
+      "lng": 76.825554,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTbEGP1zHyDsRzo5wKKIp6Ms",
+      "name": "ESSAY PETROLEUM",
+      "address": "India",
+      "lat": 17.3439432,
+      "lng": 76.83301829999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJA_zyzmjHyDsRcYF1CSkrK5M",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 178/2, Ring Road Syed Chincholi, Cross, Taj Sultanpur",
+      "lat": 17.3645959,
+      "lng": 76.8268338,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNexHY1vHyDsRZ0mPeqmawOo",
+      "name": "go gas",
+      "address": "India",
+      "lat": 17.3421775,
+      "lng": 76.83538650000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJBZ9uNh_HyDsRG0nWCCOWVVA",
+      "name": "Venkat sai filling station",
+      "address": "near Hotel Balaji, Taj Sultanpur Ring Road, Kalaburagi",
+      "lat": 17.3631861,
+      "lng": 76.8316292,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe4EtKRLHyDsRts7INqcKR5M",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "2 Gunj, Plot No 8/1305/109, Ring Road, Kalaburagi",
+      "lat": 17.3591601,
+      "lng": 76.8541201,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6Qi-dGnHyDsRZwdqahS8WmQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, Nehru Gunj, Kalaburagi",
+      "lat": 17.352039,
+      "lng": 76.841911,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcalxm3LHyDsRzKhzts_TwJ0",
+      "name": "Jio-bp",
+      "address": "Sy No 126, Old No 126/1E, opposite Government Milk Dairy, 3A/2A Sh 19, Kapnoor, Kalaburagi",
+      "lat": 17.3610278,
+      "lng": 76.8470833,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5-hGwn7HyDsRtWDHnSJSvDQ",
+      "name": "IndianOil",
+      "address": "S No 25, Nizampur",
+      "lat": 17.367421,
+      "lng": 76.830331,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBX2OIkbHyDsR1SZqvqhlXQA",
+      "name": "IndianOil",
+      "address": "Ground Floor, Santraswadi, Kalaburagi",
+      "lat": 17.337807,
+      "lng": 76.844849,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo5rhA2jHyDsRIckVHNsPPbg",
+      "name": "ಪ್ರಸನ್ನ ಶುದ್ಧ ಕೊಬ್ಬರಿ ಎಣ್ಣೆ",
+      "address": "8RXQ+F4Q, 3rd Cross Road, Gunj Colony, Kalaburagi",
+      "lat": 17.3487038,
+      "lng": 76.8378686,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ6Q4kgkLHyDsRAWMog-5ThR0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Nehru Gunj, Kalaburagi",
+      "lat": 17.3484501,
+      "lng": 76.8399201,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC1gA3EHHyDsRVeWzBYsOW9g",
+      "name": "AYYAN OIL CENTER",
+      "address": "India",
+      "lat": 17.3485177,
+      "lng": 76.84506019999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJk_j2pujHyDsRr1EMLZc0SQ4",
+      "name": "Bharat Petroleum Petrol Pump , INAMDAR PETROLEUM",
+      "address": "H. NO.- 5-35 & 5-36, B, DARGA MAIN ROAD, Halbarga, Arosa",
+      "lat": 17.345672,
+      "lng": 76.848636,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPaLXlN7HyDsRpa20_Mcdvhw",
+      "name": "IndianOil",
+      "address": "Ground Floor, Road, Nehru Gunj, Kalaburagi",
+      "lat": 17.354921,
+      "lng": 76.84451299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9wy4CG3HyDsR1C2MEwkAC-k",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near KMF, Lahoti Garden Humnabad Road, near KMF, Gunj Road, Kalaburagi",
+      "lat": 17.3584901,
+      "lng": 76.8464601,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJU8GHljnHyDsRRocoCm8_Xas",
+      "name": "Automobile",
+      "address": "Humnabad Rd, Outer, Ring Road, Humnabad, Shivaji Nagar, Kalaburagi",
+      "lat": 17.3602912,
+      "lng": 76.8472044,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJDdBmir7GyDsRemFrHXV7wGA",
+      "name": "IndianOil",
+      "address": "Survey No 195 & 195/5A, Khaja Kotnoor Rd, Ptc Naganahalli, Hagarga",
+      "lat": 17.3497,
+      "lng": 76.8999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRzNSnxjHyDsR71dKze9avkE",
+      "name": "SHAZ MANZIL",
+      "address": "India",
+      "lat": 17.3505505,
+      "lng": 76.8648553,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJnwuIZB_HyDsRMAaNzQb_w78",
+      "name": "IndianOil",
+      "address": "Sy No121, 14, Kapnoor, Kalaburagi",
+      "lat": 17.3629414,
+      "lng": 76.8504584,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqU127dfHyDsR6VZetzMHbjU",
+      "name": "Bharat Petroleum Petrol Pump , TENGLI PETROLEUM",
+      "address": "SY.NO.119/4, NEAR HUMNBAD RING ROADCIRCLE, VILLAGE, Kapnoor, Kalaburagi",
+      "lat": 17.363633,
+      "lng": 76.84983199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWbn_bQvHyDsRJE1Dw7jaiBQ",
+      "name": "TotalEnergies",
+      "address": "India",
+      "lat": 17.3677782,
+      "lng": 76.8511879,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ8_Q7rQvHyDsRKwRAJbkV4q0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 50, Bidar Road, Kapnoor, Kalaburagi",
+      "lat": 17.3696101,
+      "lng": 76.8524901,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUViwbHPHyDsRhRHdmW1Moz8",
+      "name": "Sunco",
+      "address": "India",
+      "lat": 17.365006,
+      "lng": 76.8471751,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJq79vaIHHyDsR83vbwYY41LQ",
+      "name": "IndianOil",
+      "address": "Ground Floor Kapnoor, Humnabad Road, Naganahalli",
+      "lat": 17.3900066,
+      "lng": 76.8648628,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlYMyA3K6yDsRJc2ePpsxzD8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Aland Road, Pattan",
+      "lat": 17.3981067,
+      "lng": 76.7049901,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH1vlyTTGyDsRSiEZoL0WgUQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, Humnabad Road, Uplaon",
+      "lat": 17.4016608,
+      "lng": 76.87186609999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNwktOXnHyDsR1BLw-dTWWXQ",
+      "name": "Gogas Auto LPG Station",
+      "address": "Hanuman Nagar, Yamlimunuligaon, Kalaburagi",
+      "lat": 17.3672002,
+      "lng": 76.832825,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx5nxFgDHyDsRUjiLMxSSUtg",
+      "name": "Venkata Sai Filling Station (Aegis Autogas)",
+      "address": "Shop No 25 Balaji Complex Sultanpur, Ring Road, Taj Nagar, Taj Nagar Colony, Kalaburagi",
+      "lat": 17.3671829,
+      "lng": 76.8304818,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJLXL3yTTGyDsR1Sks-ejEhnQ",
+      "name": "M/s.Mahantappa Biradar Petroleums",
+      "address": "National Highway 218, Uplaon",
+      "lat": 17.4013789,
+      "lng": 76.87246979999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJtbZdnKXHyDsRuABKqV1kYpY",
+      "name": "R.P.PETROLEUMS",
+      "address": "Sy.No-156/1, road connecting to Tawergera to Gulbarga Humnabad road junction.o Tawergera, Cross, Kalaburagi",
+      "lat": 17.4145095,
+      "lng": 76.88217329999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJiwwuLlrJyDsRCQmQT7gflhc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 50, Uplaon",
+      "lat": 17.4219878,
+      "lng": 76.8851636,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-ygltg_JyDsRzoivxoVZmz4",
+      "name": "Nayara Petrol Pump (Manjula Petroleum’s)",
+      "address": "SY NO, 109/12, Humnabad Road, Aurad B Village, Awrad (B, Kalaburagi",
+      "lat": 17.4395678,
+      "lng": 76.8955907,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJG__pSXfJyDsRGhSL_6wiSXQ",
+      "name": "JIO BP (Sajjan Petroleums)",
+      "address": "FW43+QR, Awrad (B)",
+      "lat": 17.4572738,
+      "lng": 76.9046777,
+      "open_now": true
+    }
+  ]
+}

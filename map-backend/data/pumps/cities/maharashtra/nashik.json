@@ -1,0 +1,1667 @@
+{
+  "city": "Nashik",
+  "state": "Maharashtra",
+  "count": 207,
+  "center": {
+    "lat": 20,
+    "lng": 73.7833
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJIffbZVPr3TsRB5-knYU-gB0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near Hotel Gateway, Plot No P8, MIDC Ambad, Nashik",
+      "lat": 19.953481,
+      "lng": 73.754291,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdfWHL5Ps3TsRlnoyX9Tji4E",
+      "name": "Nayara petrol pump",
+      "address": "Amad Nea, Radha Swami, Neer, Amad, Ashok Nagar Road, Bajrang Nagar, Ashoknagar, Nashik",
+      "lat": 19.9801149,
+      "lng": 73.7249839,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAQAAAH3s3TsRTsrrOa9k4mE",
+      "name": "IndianOil Petrol Pump (Satpur Colony)",
+      "address": "Plot No 109, MIDC, Satpur Colony, Nashik",
+      "lat": 19.991127,
+      "lng": 73.732574,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ-aQOz_r3TsR_S_f1DHF6rA",
+      "name": "IndianOil Petrol Pump (Rajiv Nagar)",
+      "address": "Survey No 882/1A, Plot No 5, Rajiv Nagar, Nashik",
+      "lat": 19.9715424,
+      "lng": 73.7734996,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJU2D_vBCT3TsR6WpXo_MXuJw",
+      "name": "HP Petrol Pump",
+      "address": "S NO, 89/1, Agra - Mumbai Highway, MIDC Ambad, Vilholi",
+      "lat": 19.9178277,
+      "lng": 73.7132522,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJN97QJJWT3TsRI47h_wWvOak",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 17/2, opposite Sanjivani Resort, NH 3, Agra - Mumbai Highway, Vilholi",
+      "lat": 19.9338981,
+      "lng": 73.7285469,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrbhqEw6T3TsRrOiHTULEVUM",
+      "name": "Shivneri Petroleum Services BPCL",
+      "address": "SURVEY NO. 19/2A National Highway NH3 MUMBAI - AGRA VILHOLI, SHIVAR, Nashik",
+      "lat": 19.934059,
+      "lng": 73.73097729999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5eY_5iuT3TsRH2AN2yhskVc",
+      "name": "Nashik CNG opp D mart",
+      "address": "WPPJ+7V7, Mumbai - Nashik Expressway",
+      "lat": 19.9356683,
+      "lng": 73.7321783,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJf7noXRKT3TsRJk-tbsa8E3s",
+      "name": "MNGL CNG Station",
+      "address": "Mumbai - Nashik Expressway, Nashik",
+      "lat": 19.9357034,
+      "lng": 73.7322428,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWY3owlyT3TsRVn540DT1Kcw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gut No 42, NH 3, Agra - Mumbai Highway, Rajur Bahula",
+      "lat": 19.9099045,
+      "lng": 73.7046369,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJz46YbjyT3TsRc8HOAPtjQkg",
+      "name": "Bharat Petroleum, Petrol Pump -N.L.Gandhi & Co.",
+      "address": "RAJUR ( NH3 ), Nashik",
+      "lat": 19.9061572,
+      "lng": 73.7008602,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJW6IqlwKT3TsRjab5LDUJELE",
+      "name": "IndianOil Petrol Pump (Akrale)",
+      "address": "Gut, No 64/1/ P, Akrale, Rajur Bahula",
+      "lat": 19.9029937,
+      "lng": 73.70032479999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDQFJKwDt3TsRepXbBi9im7Y",
+      "name": "Shivshakti engineering",
+      "address": "XP2P+MFV, MIDC Ambad, Nashik",
+      "lat": 19.9517471,
+      "lng": 73.7361734,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ0xJXAIjt3TsRhcd34xEwYd4",
+      "name": "IndianOil",
+      "address": "Plot No X1, MIDC Ambad, Nashik",
+      "lat": 19.9502578,
+      "lng": 73.7378502,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJE5K5BmXt3TsRC_EtpDCX3Fw",
+      "name": "IndianOil Petrol Pump (MIDC Ambad)",
+      "address": "Plot No 10/1, MIDC Ambad, Nashik",
+      "lat": 19.9502601,
+      "lng": 73.7378501,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2Sn-mDST3TsR6qwYLg8XYXU",
+      "name": "Prathamesh Petroleum Authorised HPCL Dealership",
+      "address": "opp. Eaton Ltd, MIDC Ambad, Nashik",
+      "lat": 19.9464855,
+      "lng": 73.7409603,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjXN6_KaT3TsRkXyv3zsgkks",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "opposite Blue Cross Ltd, Plot No P/33, Ambad Satpur Link Road, MIDC Ambad, Nashik",
+      "lat": 19.946821,
+      "lng": 73.740944,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo3Pbpjft3TsRvDfkXlFr-Mc",
+      "name": "SHREE SHYAM ENTERPRISES",
+      "address": "Okay Transport, Gat No 05 Plot No 16 Sanjiv Nagar Ambad Link Road, Ambad Link Road, Nashik",
+      "lat": 19.9668152,
+      "lng": 73.72881079999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJR2BsePrt3TsRkhCba2Tn--Q",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "D, Plot, Gut No 230/A to, near Mahindra Cie Company, 24, Ambad Kamatwade Road, Ambad Khurd, Nashik",
+      "lat": 19.966356,
+      "lng": 73.740371,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6Uh5Cp_t3TsRcrgvA9hEF0g",
+      "name": "IndianOil Petrol Pump (Chunchale)",
+      "address": "Plot No 26/27, Ambad Satpur Link Road, Chunchale, Nashik",
+      "lat": 19.9718057,
+      "lng": 73.72988529999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7XWbIQDt3TsRw_k_-4neLOU",
+      "name": "Mahalaxmi Nagar",
+      "address": "3259, Kamod Rd, Sanjay Nagar, Kazipura, Nashik",
+      "lat": 19.966801,
+      "lng": 73.74043390000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ76OwLwCV3TsR9-uAUBewgCc",
+      "name": "BheemaShankar BPCL Petrol Pump",
+      "address": "WQX4+WHF, Samruddhi Park Road, Girdhar Nagar, Damodar Nagar, Pathardi Phata, Nashik",
+      "lat": 19.9497087,
+      "lng": 73.75611529999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJfyPTJwDt3TsRCBktvEt0dVk",
+      "name": "Indian Oil Petrol Diesel Cng Pump",
+      "address": "XPFH+39P, Sanjeev Nagar, Nashik",
+      "lat": 19.9727056,
+      "lng": 73.72843999999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJneG5clHr3TsRMcWqLdg_On4",
+      "name": "Bharat Petroleum, Petrol Pump -Namrata Petroleum",
+      "address": "opp. TAJ HOTEL, Nashik",
+      "lat": 19.9589169,
+      "lng": 73.7559928,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9abgQq_t3TsReNouXGiXsGY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "9C, Plot, No 1, Gut No 222/4C/A/1, To, Ambad Kamatwade Road, Ambad, Nashik",
+      "lat": 19.968657,
+      "lng": 73.743627,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ79LeIwDt3TsRc9nT3jo-ZfE",
+      "name": "Shivanjali petrol pump",
+      "address": "XP9V+QCP, ITI Ambad Road, Murari Nagar, Nashik",
+      "lat": 19.96946,
+      "lng": 73.7435855,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJtzg3XqTt3TsRJKyM5f7LXZs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Mahindra Warehouse, Trimbakeshwar Road, Belgaon Dhaga, Nashik",
+      "lat": 19.9747105,
+      "lng": 73.6900821,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJr-ZxfR3t3TsRGzSpX430kvk",
+      "name": "Bharat Petroleum, Yash Petroleum",
+      "address": "Belgaon Dhaga, Nashik",
+      "lat": 19.9789643,
+      "lng": 73.7006409,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJE9zs15Ls3TsR-NuDiobPjf0",
+      "name": "DURA AUTO LPG GAS",
+      "address": "XPJF+8W8, Ambad Link Road, Medage Nagar, Nashik",
+      "lat": 19.9807783,
+      "lng": 73.7248389,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJb_EvxuGV3TsRRgmfGSD-5Sg",
+      "name": "Vidya Fuel Station",
+      "address": "5, Narhari Nagar Road, Narhari Nagar, Prashant Nagar, Pathardi Phata, Nashik",
+      "lat": 19.952005,
+      "lng": 73.76344250000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJN_vRQZ_t3TsR6Af6rKFeoac",
+      "name": "Bharat Petroleum, Petrol Pump -Shri Sai Petroleum",
+      "address": "Kamatwade, Nashik",
+      "lat": 19.9734305,
+      "lng": 73.7464316,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKYqylPLs3TsRU-gkJV_CRY4",
+      "name": "IndianOil Petrol Pump (Satpur Colony)",
+      "address": "Gut No 476, No 47, No 2/1/2/3/1/4/1/4/2, Plot No 2, Trambakeshwar Road, Satpur Colony, Nashik",
+      "lat": 19.9847742,
+      "lng": 73.7223733,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJG3MQFdnt3TsRdaBgDF0Nv_Q",
+      "name": "Mangalyam Petroleum, BPCL",
+      "address": "near papaya nursery, Link Road, Ambad, Trimbak",
+      "lat": 19.984954,
+      "lng": 73.7240822,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-7g7SfXt3TsRBuBd-WyCTqs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, opposite Sandip University, Trambakeshwar Road, Nashik",
+      "lat": 19.969827,
+      "lng": 73.671286,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBdk9-PyV3TsR7XzohlEaV5c",
+      "name": "IndianOil Petrol Pump (Pathardi Phata)",
+      "address": "Survey No 325/1/2B/1, Plot No 1, Pathardi Shivar, Nashik",
+      "lat": 19.9525049,
+      "lng": 73.76848369999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcemDaeOV3TsRLB6KILGMJvQ",
+      "name": "Shell Petrol Pump",
+      "address": "Pathardi Deolali Link Road, Pathardi Phata, Nashik",
+      "lat": 19.9490746,
+      "lng": 73.77073109999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnRJY4Izs3TsRv_uhKJdI5gw",
+      "name": "Bharat Petroleum, Petrol Pump -Rohit Petroleum Service",
+      "address": "Trambakeshwar Road, Satpur Colony, Nashik",
+      "lat": 19.9867769,
+      "lng": 73.72590819999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ0xIRQDt3TsRrGv7E0vvvT4",
+      "name": "Sabir tyre work",
+      "address": "Rohit petroleum pump, Nagad Road, Chalisgaon",
+      "lat": 19.9870199,
+      "lng": 73.72587349999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ-2h3CjyV3TsRHtWvifXjbho",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gut No 308/A/104, Plot No 104, Deolali Road, Pathardi Phata, Nashik",
+      "lat": 19.945327,
+      "lng": 73.773466,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL-uikUPr3TsRH7vmzD-_GP0",
+      "name": "Mahadev petroleum",
+      "address": "Raj Kamal Row Houses, Raj Kamal Row Houses, 2, Vidya Road, Samarth Nagar, Dnyaneshwar Nagar, Pathardi Phata, Nashik",
+      "lat": 19.95471809999999,
+      "lng": 73.76995529999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFwtZlUrr3TsRCJSWZ8LUyr8",
+      "name": "Bharat Petroleum",
+      "address": "XQ4C+447, Dnyaneshwar Nagar Road, Dnyaneshwar Nagar, Pathardi Phata, Nashik",
+      "lat": 19.9552769,
+      "lng": 73.7703039,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJc6V1kciU3TsRrNUC4EwWn7M",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near Pathardi Gaon, Gut No 1/6 Deolali Road, Pathardi, near Pathardi Gaon, Circle, Nashik",
+      "lat": 19.943212,
+      "lng": 73.775364,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQ7RyQkeV3TsRqFlV3YIW6kQ",
+      "name": "LAXMI PETROLEUM",
+      "address": "Pathardi - Vadner Dumala Road, Pathardi Gaon, Pathardi Phata, Nashik",
+      "lat": 19.9429271,
+      "lng": 73.7755572,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJT8vrLwDr3TsRm-N1aKeqpOA",
+      "name": "Jio BP",
+      "address": "Jio BP Petrol Pump, Rane Nagar, Nashik",
+      "lat": 19.9605854,
+      "lng": 73.7683935,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuUiDRACV3TsRa6Nyaeo9G_E",
+      "name": "Tuljabhavani peteolium",
+      "address": "WQRH+X46, Pathardi - Vadner Dumala Road, Pathardi Gaon, Pathardi Phata, Nashik",
+      "lat": 19.9424217,
+      "lng": 73.7777754,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJKU_EKJTt3TsRX6GAfmaFrwI",
+      "name": "Shell Petrol Pump Ashok Nagar",
+      "address": "Plot No: 7 & 8, Gut No:, 202/A, Gangapur - Satpur Link Road, Pimpalgaon Bahula, Nashik",
+      "lat": 19.9929249,
+      "lng": 73.7113542,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqYLfK7vr3TsR8GjoppP99h8",
+      "name": "H P Gas Agency office",
+      "address": "HP Gas, Bhagwati Gas Agency, Chetana nagar, Rane Nagar, Nashik",
+      "lat": 19.9658408,
+      "lng": 73.7685345,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJEzJv5P_t3TsR6SrBHAhLtfQ",
+      "name": "Driveri",
+      "address": "Mh15jm0906, Nashik",
+      "lat": 19.9903496,
+      "lng": 73.7346048,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZ6UKKIns3TsRXqYlQO3ay5Y",
+      "name": "Kaushalya Petrol Pump",
+      "address": "no 167, Trambakeshwar Road, Satpur Colony, Nashik",
+      "lat": 19.9908343,
+      "lng": 73.7329864,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJk70Xgzzr3TsRGNTWJTC-LCQ",
+      "name": "KUNDAN FUEL PLAZA",
+      "address": "289,290 At Post Chinchave, 03, Agra - Mumbai Highway, Nimbait",
+      "lat": 19.9669711,
+      "lng": 73.76981549999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJxY9-C0fr3TsRYmgm7PJQEW8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 883, opposite Old SBI, 1/2, Rajiv Nagar, Nashik",
+      "lat": 19.9678938,
+      "lng": 73.76967730000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ35ECCgDr3TsRz02JMIUOu-k",
+      "name": "Suman Petrol Pump HPCL DEALER",
+      "address": "1/2, Yogakshem LIC Colony, Rajiv Nagar, Nashik",
+      "lat": 19.9680158,
+      "lng": 73.7696361,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmTcFTADr3TsRPt9EPxgY39g",
+      "name": "SUMAN PETROLEUM",
+      "address": "Suman Petrol Pump, next to Ashoka Hotel, Service Road, Yogakshem LIC Colony, Rane Nagar, Nashik",
+      "lat": 19.9678437,
+      "lng": 73.7698681,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJbiQPH3r3TsR8o7BAkovFrs",
+      "name": "IndianOil Petrol Pump (Khutawad Nagar)",
+      "address": "Survey No 37/4, opp. CITU Mall, Kamatwade Gaon, Nashik",
+      "lat": 19.98724349999999,
+      "lng": 73.7498845,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1-MjYgCV3TsR6s25oJ6AZog",
+      "name": "Ananta Energies",
+      "address": "15/1, Pathardi - Vadner Dumala Road, Nashik",
+      "lat": 19.9411527,
+      "lng": 73.78419459999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJDUPgF73t3TsR9X78iySPUoU",
+      "name": "Shell Petrol Pump",
+      "address": "near BLVD, Trimbakeshwar Road, Satpur",
+      "lat": 19.9916298,
+      "lng": 73.7430517,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJRxBLSO7t3TsRKGzYF8pGqo4",
+      "name": "varsha petroleum",
+      "address": "city central road, Nashik",
+      "lat": 19.9991941,
+      "lng": 73.706594,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ9U0pS2Xr3TsRGxaJZyEkySk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Scheme, Untawadi, CIDCO 4, Ground Floor, near Datta Mandir Stop, Trimurti Chowk, Cidco, Nashik",
+      "lat": 19.98668049999999,
+      "lng": 73.7582881,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3z7qRrLr3TsRdyoYFfF2cy0",
+      "name": "Bharat Petroleum, Petrol Pump -Gayatri Seva",
+      "address": "CIDCO NASIK, Nashik",
+      "lat": 19.9870827,
+      "lng": 73.7580328,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9anJCQDt3TsRXs0OeqdOKgc",
+      "name": "Trikaya Petroleum",
+      "address": "Plot No.92P, Road, MIDC, Satpur Colony, Nashik",
+      "lat": 20.0015177,
+      "lng": 73.72111459999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJYaEZZE-V3TsRH-ccLscvgas",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "S No 57/6/7/8/9/1, Jai Bhavani Road, Nashik Road, Nashik",
+      "lat": 19.9472354,
+      "lng": 73.82613669999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5xYCT1G53TsRNwurkr1gQi4",
+      "name": "IndianOil Petrol Pump (Amgaon)",
+      "address": "Gut No 29, Deolali, Sinner, NH 50, Amgaon",
+      "lat": 19.957265,
+      "lng": 73.82239,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ635plmaV3TsRPO426Dxek7k",
+      "name": "BP Petrol Pump",
+      "address": "Lam Road, Road, Nashik",
+      "lat": 19.93125,
+      "lng": 73.83444,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcfbeAT7r3TsRYXKM3HH-y3U",
+      "name": "IndianOil Petrol Pump (Lekha Nagar)",
+      "address": "Lock No I85, Lekha Road, Agra - Mumbai Highway, Nashik",
+      "lat": 19.9769181,
+      "lng": 73.77688739999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH8IyPGeV3TsRL75zmai5O_I",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "SF No 22/1, Lam Road, Vihitgaon, Nashik",
+      "lat": 19.934181,
+      "lng": 73.8345701,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlRt6WB7r3TsRfyJBS-mFG00",
+      "name": "KALIKA PETROLEUM SERVICES BPCL",
+      "address": "Wadala, Pathardi Road, Vinay Nagar, Indira Nagar, Nashik",
+      "lat": 19.9820488,
+      "lng": 73.79194919999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJa3Ip9MLq3TsRxCNU5olqpQs",
+      "name": "Bharat Petroleum Customer Relation Centre",
+      "address": "XRH5+6PX, Samta Nagar, Nashik",
+      "lat": 19.9781233,
+      "lng": 73.8093458,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJp2kPD1SV3TsRPja_-d2WWBk",
+      "name": "IndianOil Petrol Pump (Deolali Gaon)",
+      "address": "Survey No 11/1B/2A/2/1, Plot No 678, Deolali Gaon, Nashik",
+      "lat": 19.9542663,
+      "lng": 73.83599869999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJa-2p36rq3TsRWJ63n6eKkeA",
+      "name": "IndianOil Petrol Pump (Government Colony)",
+      "address": "Ground Floor, Jail Road, Nashik",
+      "lat": 19.960852,
+      "lng": 73.839371,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuSd1ZnDr3TsRkDKtJvOZhtA",
+      "name": "IndianOil Petrol Pump (Tidke Nagar)",
+      "address": "Ground Floor, Untwadi, Nashik",
+      "lat": 19.9890633,
+      "lng": 73.76053619999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJt-Hf3QLr3TsRlZtJGlPBpGE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Holy Cross Chapel, Old, Agra - Mumbai Highway, Trimbak Naka, Nashik",
+      "lat": 19.996577,
+      "lng": 73.78192489999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIwUZWAjr3TsRq01UkbTkYVU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Trambakeshwar Road, Trimbak Naka, Police Staff Colony, Nashik",
+      "lat": 19.9975467,
+      "lng": 73.7809146,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6_uU43br3TsR8VaG-mWB1qA",
+      "name": "IndianOil Petrol Pump (Parijat Nagar)",
+      "address": "Trambakeshwar Road, Mahatma Nagar, Nashik",
+      "lat": 19.993746,
+      "lng": 73.7509785,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJp8xEzXjr3TsRJOGkAGiRq2I",
+      "name": "Essar Petrol Pump",
+      "address": "XQW3+8GF, Mahatma Nagar, Parijat Nagar, Nashik",
+      "lat": 19.9958021,
+      "lng": 73.7538117,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJKZivDACV3TsRMkAo37-3AVA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near Radhakrishna Hotel, Ground Floor, Pathardi Road Pathardi, near Radhakrishna Hotel, Pathardi - Vadner Dumala Road, Vadner Dumala, Nashik",
+      "lat": 19.9431848,
+      "lng": 73.7912829,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJocrhIcCV3TsROtIla4c2L_U",
+      "name": "Tuljabhavani Petroleum CNG Station",
+      "address": "Tuljabhavi Petroleum, Pathardi - Vadner Dumala Road, Wadner",
+      "lat": 19.94304259999999,
+      "lng": 73.7977394,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSzzzNgCV3TsRDSdpqG66NpA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No, 160/3/2, Vadner Pathardi Road, Road, Vadner Dumala, Nashik",
+      "lat": 19.9430945,
+      "lng": 73.7977046,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJj_whfhSV3TsR6s9xN1NZoEo",
+      "name": "IndianOil Petrol Pump (Deolali Gaon)",
+      "address": "Survey No, 170/2, Pathardi - Vadner Dumala Road, Nashik",
+      "lat": 19.9416583,
+      "lng": 73.8043125,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3Q0foQyV3TsRguhJdBqzgLw",
+      "name": "Army Petrol Pump",
+      "address": "WR88+WV3, KSP Petrol Pump Deolali cantt, Deolali",
+      "lat": 19.9172622,
+      "lng": 73.81717859999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJpV8xAdnq3TsRslpPyt-ukTY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near IT Park, Canal Road, Wadala Gaon, Nashik",
+      "lat": 19.970431,
+      "lng": 73.79812009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3-0OIE-V3TsR2rZQ_iUe8wY",
+      "name": "Gaikwad Petroleum",
+      "address": "opposite STATE BANK OF INDIA, GAIKWAD PETROLEUM ARTILLERY CENTER ROAD, opposite STATE BANK OF INDIA, NASHII ROAD, Nashik",
+      "lat": 19.9494796,
+      "lng": 73.8258256,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMdKkTADr3TsRHh35z0sZm0c",
+      "name": "Kokni Faiz Energy Station",
+      "address": "Plot no 4, 67/3/5/1, Param Pujya Ravishankarji Marg, Wadala Gaon, Nashik",
+      "lat": 19.972241,
+      "lng": 73.801401,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJozEQkhfr3TsRQFaAYkHUknc",
+      "name": "Gs Caltex",
+      "address": "India",
+      "lat": 19.9791435,
+      "lng": 73.7823013,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ-8v4VwDr3TsR395A7Px0nKE",
+      "name": "Bharat Petroleum, Petrol Pump",
+      "address": "19, Ashoka Marg, kalpataru, NagarNashik, Kalpataru Nagar, Nashik",
+      "lat": 19.9783441,
+      "lng": 73.80139,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ9SX7-F3r3TsRRcmGkNHQLMQ",
+      "name": "Khode Petroleum",
+      "address": "Wadala Road, Nashik",
+      "lat": 19.9808667,
+      "lng": 73.7924482,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJy9FcH4WV3TsRhyDUgSmD4rQ",
+      "name": "IndianOil Petrol Pump (Deolali Gaon)",
+      "address": "Lock No 13011, Deolali Camp Housana, Road, Nashik",
+      "lat": 19.903885,
+      "lng": 73.831696,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC3ToD07r3TsR0AHjGWlMJbk",
+      "name": "Bharat Petroleum, Petrol Pump -Prakash Automobiles",
+      "address": "NASIK ( NR NASERDI BRIDGE, Nashik",
+      "lat": 19.9834839,
+      "lng": 73.78224,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvej0BQbr3TsRzOG053tT9JE",
+      "name": "IndianOil Petrol Pump (Rehnuma Nagar)",
+      "address": "Survey No 864/4/5/1 Plot, No 1B, Rehnuma Nagar, Nashik",
+      "lat": 19.9827999,
+      "lng": 73.7924917,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJh7JWMK6_3TsRPAeoxat6gWc",
+      "name": "IndianOil Petrol Pump (Adgaon)",
+      "address": "Ground Floor, NH 60, Adgaon, Nashik",
+      "lat": 19.9252981,
+      "lng": 73.8781632,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgUvMHAC_3TsRRKFoM5BPLAc",
+      "name": "MGNL CNG PUMP",
+      "address": "WVQ3+QRR, Nashik - Pune Road, Chehdi, Nashik",
+      "lat": 19.9394753,
+      "lng": 73.8545024,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9584k7m_3TsRX1Mn5V2CD6g",
+      "name": "HP Petrol Pump",
+      "address": "Nashik",
+      "lat": 19.9292852,
+      "lng": 73.8702994,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH0bOi3a_3TsRYKx9faVjPv0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gut No 1447, opposite Gupta Hospital, Palse, Nashik",
+      "lat": 19.929574,
+      "lng": 73.870334,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJyWh5SgC_3TsRJwjMd2OyXhg",
+      "name": "NISARG PETROLEUM",
+      "address": "Nisarag Lawns, Aute Nagar, Bridge Nagar, Nashik",
+      "lat": 19.9458604,
+      "lng": 73.8490739,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJc2NSR--_3TsRilSYIP26nx4",
+      "name": "Sakshi Petrol Pump",
+      "address": "near Sinnar Phata, Gut No 190 Pune Road, near Sinnar Phata, Samangaon Road, Nashik",
+      "lat": 19.9469788,
+      "lng": 73.847388,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuc3HGVSV3TsRD1mjX5auktc",
+      "name": "Bharat Petroleum, Petrol Pump -B.Shanker Petroleum",
+      "address": "NASIK ROAD ( NR RLY STN ), Nashik",
+      "lat": 19.947912,
+      "lng": 73.840788,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ4U9E81eV3TsRFK05pkG19Fk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Ambedkar Road, Nashik Road, Nashik",
+      "lat": 19.94848499999999,
+      "lng": 73.84060459999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm-bf6leV3TsRp8TD494i_Lg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Railway Station, Ambedkar Road, Nashik Road, Nashik",
+      "lat": 19.9493737,
+      "lng": 73.84055049999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx1ZmXMiV3TsRw-TQ9pQaPjg",
+      "name": "Bharat Petroleum, Petrol Pump -R.H.Thorat & Company",
+      "address": "Jail Road, Kala Nagar, Nashik",
+      "lat": 19.9601587,
+      "lng": 73.83912169999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJId-x_Ci_3TsRe_bRwZJPi7k",
+      "name": "Bharat Petroleum, Petrol Pump -Janseva Transport",
+      "address": "SHINDE,SAIKHEDA RD, Nashik - Pune Road, Nashik",
+      "lat": 19.919475,
+      "lng": 73.88833819999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjRbVA42V3TsRJi9_RYt_JJE",
+      "name": "Nayara Meher Petrol Pump",
+      "address": "Lam Road, Deolali Camp, Nashik",
+      "lat": 19.8921506,
+      "lng": 73.832894,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJJ3sO7Kfq3TsRa7-UyTKz9PM",
+      "name": "श्री स्वामी समर्थ ग्राफिक्स",
+      "address": "India",
+      "lat": 19.9724371,
+      "lng": 73.8408402,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJzwhW3W3A3TsRqzR-n6FfRDE",
+      "name": "IndianOil Petrol Pump (Adgaon)",
+      "address": "Ground Floor Deolali, Adgaon, Eklahare",
+      "lat": 19.9750126,
+      "lng": 73.8704328,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCdyhMADB3TsRtEYHGq8rRbU",
+      "name": "Siddhai petroleum",
+      "address": "XVH3+5Q4, Pawar Wadi, Nashik",
+      "lat": 19.9778822,
+      "lng": 73.854468,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJp4OKmAnr3TsREzDgv9Z5Nj0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "S No 70/3, Takli Road, Adhav Mala, Dasak, Nashik",
+      "lat": 19.977546,
+      "lng": 73.8318318,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuQ4PhTaV3TsRbGsNbokHtNE",
+      "name": "Bharat Petroleum Petrol Pump , OM SAI DATTA PETROLEUM",
+      "address": "S. NO, 4/1C, Lam Road, Nashik",
+      "lat": 19.87901829999999,
+      "lng": 73.8378242,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2yPLfx_A3TsR4MKFZskPNxY",
+      "name": "Bharat Petroleum Adhav Petroleum CNG",
+      "address": "SURVEY NO 3A/3F/3, PLOT NO 1/1, Jail Road, ROA, Dasak, Nashik",
+      "lat": 19.9831347,
+      "lng": 73.845049,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXyN1LiDA3TsRUP0FPH3Md7s",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Nasik Road, Jail Road, Dasak, Nashik",
+      "lat": 19.983828,
+      "lng": 73.844501,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs3-Fth-_3TsRXB4EMsZLzpQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "GAT No 474/4, Plot No 1 SH 37, Saikheda Rd, Jakhori, Shinde",
+      "lat": 19.9218401,
+      "lng": 73.910574,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfXMvBea-3TsRABF2PGu4cUk",
+      "name": "IndianOil Petrol Pump (Kaudasar)",
+      "address": "Lock, 12031, Nashik - Pune Road, Kaudasar, Nashik",
+      "lat": 19.90854,
+      "lng": 73.9069877,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKXctXOi-3TsR10eAeNlQtck",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Nashik - Pune Road, Shinde",
+      "lat": 19.90633099999999,
+      "lng": 73.909751,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOQNNLwC_3TsR2XuOuGJ5Lr8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Road, Chandgiqri, Chandgiri",
+      "lat": 19.931242,
+      "lng": 73.91643599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm0oKKye_3TsRboVzMNH6hmw",
+      "name": "Saishraddha kisan seva Petroleum",
+      "address": "Jakhori",
+      "lat": 19.9233485,
+      "lng": 73.918407,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJs9r9RwDr3TsRtGEE7vUeMfs",
+      "name": "DLK Petroleum",
+      "address": "Takli Road, Samta Nagar, Nashik",
+      "lat": 19.9848502,
+      "lng": 73.819447,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8b7_L0Tr3TsRStaJfdG6y8Q",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 12, 3 Agartakli, Takli Road, Samta Nagar, Nashik",
+      "lat": 19.9851168,
+      "lng": 73.8193139,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ75lCrQCW3TsR3j6KO4dNDPI",
+      "name": "IndianOil Petrol Pump (Bhagur)",
+      "address": "Ground Floor, Rahuri",
+      "lat": 19.8661295,
+      "lng": 73.8360675,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMf6EUgeW3TsRbRIw48nMkEY",
+      "name": "Gajanan Maharaj KSK",
+      "address": "Bhagur - Vinchuri Dalvi - Pandhurli Road",
+      "lat": 19.8660994,
+      "lng": 73.83587659999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY3Tt4yjr3TsRIRnCjCKTApc",
+      "name": "IndianOil Petrol Pump (Dwarka)",
+      "address": "Lock No 12029, Pune Highway, Bodhale Nagar, Nashik",
+      "lat": 19.980472,
+      "lng": 73.8067793,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKVC2VADB3TsRPKqbWcpEwog",
+      "name": "Sai Pandhari CNG Station",
+      "address": "800m from, Sambhajinagar Highway, Nandur Naka, Nashik",
+      "lat": 19.9983932,
+      "lng": 73.8509754,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJr1FTumXr3TsRHr-qOoW49I0",
+      "name": "Bharat Petroleum, Petrol Pump -H.L.Dhatrak & Sons",
+      "address": "NASHIK, NR VIJAY MAMTA, Nashik",
+      "lat": 19.9822175,
+      "lng": 73.8045664,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqadMdbzB3TsRWXtoYADl7_U",
+      "name": "Sai Enterprises (BPCL Petrol Pump)",
+      "address": "near Nandur Naka, Aurangabad Road, Madsangavi, Nashik",
+      "lat": 19.9993734,
+      "lng": 73.8617663,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJt83FkNPt3TsR9NJGwQf290s",
+      "name": "DN PATIL Petroleum",
+      "address": "2MJW+RQ3, Gangapur Road, Govardhan",
+      "lat": 20.0320227,
+      "lng": 73.6969144,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJL6JCIGnt3TsRhuhKl6hJc30",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "PN 184, 185, Pimpalgaon Bahula, Gut No 193/A, 190 & 191 Shiwar, Satpur Colony, Nashik",
+      "lat": 20.002704,
+      "lng": 73.711038,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ75U4sb_t3TsRGSjpkb5uIVo",
+      "name": "Shri Siddhivinayak petroleum Jio BP",
+      "address": "Shri siddhivinayak petroleum, opp. motiwala college, Gangapur - Satpur Link Road, Nashik",
+      "lat": 20.019249,
+      "lng": 73.7186418,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP9uIQ1Ht3TsRfKuneTXAAaM",
+      "name": "BP-SOMESHWAR (BHARAT PETROLEUM)",
+      "address": "Gangapur Road, Nashik",
+      "lat": 20.0204315,
+      "lng": 73.72850129999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxVEPx1nt3TsR3eCdS8cGPFs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "opposite Anand Power Limited, Plot No 3, Swargiya Sitamai Sawliram Kale Marg, Kamgar Nagar, Satpur Colony, Nashik",
+      "lat": 20.00312599999999,
+      "lng": 73.74060399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9_KJxXvs3TsRkaD4tMbbjvw",
+      "name": "Jio-bp",
+      "address": "Bus Stop, Plot No 1 & 2 Anandwalli, near Ganesh Nagar, Swargiya Sitamai Sawliram Kale Marg, Satpur Colony, Nashik",
+      "lat": 20.0045161,
+      "lng": 73.7410082,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkeRW3-rt3TsR6plmm0vhr9U",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gat No 64/1/2, Plot, Cherry Hills, Gangapur Road, Gangapur, Nashik",
+      "lat": 20.0123339,
+      "lng": 73.7469862,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXaDTBonr3TsRkPW5sbMGchw",
+      "name": "IndianOil Petrol Pump (Savarkar Nagar)",
+      "address": "Ground Floor, Gangapur Road, Nashik",
+      "lat": 20.012551,
+      "lng": 73.75085399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL8FxTrnr3TsRjp-fthDF0WA",
+      "name": "Rahul Petrol Pump",
+      "address": "Gangapur Road, Architects Colony, Ashtavinayak Colony, Veer Sawarkar Nagar, Nashik",
+      "lat": 20.0123642,
+      "lng": 73.7520466,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJfcDoh8Tr3TsRP_4Sm8OoOnQ",
+      "name": "Mulani's Petrol Pump",
+      "address": "Master Colony, Trimbak Road, Nashik",
+      "lat": 20.0002162,
+      "lng": 73.75924619999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJtc1u9-3r3TsRpltuGJiVR8Q",
+      "name": "Bharat Petroleum, Petrol Pump -Vinod Automobiles",
+      "address": "TRIMBAK RD NASIK, Nashik",
+      "lat": 19.9948403,
+      "lng": 73.76285020000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEVtLVkjr3TsR_KdBEpWlWyk",
+      "name": "Bharat Petroleum, Petrol Pump -Shradha Petrol Pump",
+      "address": "C.B.S.NASIK, Nashik",
+      "lat": 20.0046163,
+      "lng": 73.76320460000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvQOgeefr3TsR8xEdUVavfUg",
+      "name": "Bharat Petroleum, Petrol Pump -Godavari Service Station",
+      "address": "Ram Wadi, Nashik",
+      "lat": 20.0112068,
+      "lng": 73.7763731,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOzhn1tfr3TsRdMn3YmuLxDw",
+      "name": "Ashok Police Petrol Pump Bharat Petroleum",
+      "address": "Sharanpur Road, Old Pandit Colony, Police Staff Colony, Nashik",
+      "lat": 20.0010725,
+      "lng": 73.7775327,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwy8KKADr3TsR0bKNgq0kXEQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 36/2/2, near Shraddha Lawns, S, Ram Wadi Road, Kausalya Nagar, Ram Wadi, Nashik",
+      "lat": 20.012173,
+      "lng": 73.777221,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ-T5_Kzr3TsR6WCnbyRgeR0",
+      "name": "Palija HP Petrol Pump",
+      "address": "Malegaon Motor Stand, Panchavati, Nashik",
+      "lat": 20.0098801,
+      "lng": 73.792481,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8Tn_GF7q3TsRiQmqOIsr1Q4",
+      "name": "Essar pragati Petrol Pump",
+      "address": "2R58+CX2, Aurangabad Road, Swaminarayan nagar, Nashik",
+      "lat": 20.0085165,
+      "lng": 73.8173864,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeW2aTi_q3TsRCkOn45lbhRc",
+      "name": "Nayara Petrol Pump",
+      "address": "Maharashtra State Highway 17, Vaiduwadi, Mhasrul Gaon, Manora",
+      "lat": 20.0427484,
+      "lng": 73.8056347,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkTcwWKzr3TsRYraVe40DuR0",
+      "name": "Shweta HP gas Agency",
+      "address": "Peth Phata, Opp. State Bank, Panchavati, Nashik",
+      "lat": 20.01307989999999,
+      "lng": 73.79191019999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUVTSm-zr3TsRvlaHfEIs7Bo",
+      "name": "Om service station & CNG pump",
+      "address": "Prasanna Arcade, National Highway 848, Trimbak Naka, Shalimar, Nashik",
+      "lat": 19.9978767,
+      "lng": 73.7815847,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTWbB_8zr3TsRCXsDw6vavmg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Old Mumbai Agra Road, Trambakeshwar Road, Nashik",
+      "lat": 19.997536,
+      "lng": 73.78108399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP0MIFQDr3TsRS7MyY7PI21Y",
+      "name": "Bharat petroleum CNG station",
+      "address": "Karan House, 1373K, Kanhere Wadi, Trimbak Naka, Shalimar, Nashik",
+      "lat": 19.9975491,
+      "lng": 73.7810378,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJKThtDQDr3TsRo7uE2vJ6_eM",
+      "name": "Salimir",
+      "address": "XQVJ+V6H, Matoshree Nagar, Nashik",
+      "lat": 19.9946913,
+      "lng": 73.78061,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJkWjffabr3TsROJpK0mTXJsY",
+      "name": "Sadbhavna Petrol Pump",
+      "address": "2Q4J+74G, Police Staff Colony, Nashik",
+      "lat": 20.0056876,
+      "lng": 73.7803297,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGcMXGADr3TsRgyG7jFOfjIw",
+      "name": "Satpur",
+      "address": "XQXR+P2C, Nashik",
+      "lat": 19.9993217,
+      "lng": 73.79001880000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ6VXzqAbr3TsRWGCHoCnyrQo",
+      "name": "BAFANA TYRES - (CEAT, JK, MRF , APOLLO, BRIDGESTONE,CONTINENTAL,YOKOHAMA)",
+      "address": "02, 03, Sarvodaya complex, bus stop, opposite to Ganjmal, 60 Feet Road, Ganjmal, Nashik",
+      "lat": 19.9954744,
+      "lng": 73.78832009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS-fyOgHr3TsRXaRuwfqNfw0",
+      "name": "National Home Auto Service",
+      "address": "XQXQ+2W3, Old Adgaon Naka Road, Panchavati, Opposite Katya Maruti Police Station, Nashik",
+      "lat": 19.9975115,
+      "lng": 73.7897864,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJM5LFkgPr3TsRmemLb8TzZ_c",
+      "name": "Mobil",
+      "address": "XQVQ+HWG, Pune Road, Renuka Nagar, Nashik",
+      "lat": 19.99393989999999,
+      "lng": 73.7898261,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJUwoYUKzr3TsRwZ-oPc6mDF4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Malegaon Stand, Panchavati, Nashik",
+      "lat": 20.0094488,
+      "lng": 73.7912466,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJYhjBwjr3TsR2SH6_thZcFk",
+      "name": "IndianOil Petrol Pump (Panchavati)",
+      "address": "Lock No 12030, Motor Stand, Panchavati, Nashik",
+      "lat": 20.009705,
+      "lng": 73.792046,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe8G9g3rr3TsRi9gGrZl_lcU",
+      "name": "Bharat Petroleum, Petrol Pump -Khalsa Automobiles",
+      "address": "PANCHAWATI NASIK, Ahilyabai Holkar Bridge, Panchavati, Nashik",
+      "lat": 20.010037,
+      "lng": 73.79271469999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ07D_TVrq3TsRjF6hnXu2MPk",
+      "name": "IndianOil Petrol Pump (Om Nagar)",
+      "address": "near Haldi Lonws, Adgaon Naka, Om Nagar, Nashik",
+      "lat": 20.0109019,
+      "lng": 73.8057523,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhQY7PWzr3TsRm0_iKLcXR-U",
+      "name": "IndianOil Petrol Pump (Om Nagar)",
+      "address": "Lock No 11019, Agra - Mumbai Highway, Adgaon Naka, Panchavati, Nashik",
+      "lat": 20.01028999999999,
+      "lng": 73.807671,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6Wr5Sznr3TsRxBte2-2T0MA",
+      "name": "Sahadev Petroleum",
+      "address": "Tapovan Road, Nashik",
+      "lat": 19.9927848,
+      "lng": 73.80942,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY8GovoXr3TsRErWmrCy3bYo",
+      "name": "Mauli Petroleum Service",
+      "address": "Samarth Nagar, Makhmalabad, Nashik",
+      "lat": 20.0269597,
+      "lng": 73.7885812,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsUZLJTPr3TsRThk9RbaT0ts",
+      "name": "IndianOil Petrol Pump (Makhmalabad)",
+      "address": "Gut No 76/2, near APMC Market, Plot No 6/1, Durga Nagar, Nashik",
+      "lat": 20.0312025,
+      "lng": 73.7952511,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJu8t_LADr3TsRwDix73C7vWk",
+      "name": "Nyra Petrol Pump Aurangabad Road",
+      "address": "2R58+GX3, Aurangabad Road, Madsangavi, Nashik",
+      "lat": 20.0087726,
+      "lng": 73.81740789999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJiy6kZwDr3TsRQw5I6rYOwMQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 55/4, Plot No 4 & 5, Makhmalabad Road, Nashik",
+      "lat": 20.033308,
+      "lng": 73.7828669,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsYhdAOrr3TsRZDVLdoF6mJU",
+      "name": "Yugandhar Petroleum",
+      "address": "Ghadge mala, Makhmalabad Road, Nashik",
+      "lat": 20.0333204,
+      "lng": 73.7828684,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJAdASsRLr3TsR1g0qQXTeQAM",
+      "name": "BPCL ME & Sons",
+      "address": "14, Peth Road, Durga Nagar, Sneha Nagar, Nashik",
+      "lat": 20.0317259,
+      "lng": 73.79526729999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKfiNEtjB3TsRAF-xv1PiuDk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Jatra Link Road, Nandur, Dasak, Nashik",
+      "lat": 20.009871,
+      "lng": 73.843514,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJx3LAAazr3TsR0w6AGH_8dAw",
+      "name": "Rajvin Petroleum",
+      "address": "Siddhivinayak Chowk, near NilgIri bag Road, Chhatrapati Sambhaji Nagar Road, Nashik",
+      "lat": 20.001664,
+      "lng": 73.8313996,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJk9Mrw2fr3TsR8ypEXvaOoVs",
+      "name": "BPCL kimaya Petroleum",
+      "address": "Aurangabad Road, Kailash Nagar, Nashik",
+      "lat": 20.0049272,
+      "lng": 73.8265831,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCQzAJRXr3TsRaC79KHBrh7U",
+      "name": "Shell",
+      "address": "Aurangabad - Nashik Highway, Nashik",
+      "lat": 20.005965,
+      "lng": 73.823725,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsZlNcd7B3TsRtjCGKbid-ZE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor NH 3, Konark Ngr, Agra - Mumbai Highway, Adgaon, Nashik",
+      "lat": 20.028041,
+      "lng": 73.84740099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbVBZ853r3TsR1laxKLBAwt4",
+      "name": "Nayara Suvarna Krishna Petroleum",
+      "address": "2R9G+5WH, Audumbar Nagar, Near Bali Mandir, Munbai, Agra - Mumbai Highway, Nashik",
+      "lat": 20.0179255,
+      "lng": 73.8273557,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2xfV_5rr3TsRAG8pXw252Hk",
+      "name": "MNGL CNG PUMP next to KK Wagh College",
+      "address": "2R8F+6PX, Service Road, Pachwati, Sri Ram Nagar, Konark Nagar, Nashik",
+      "lat": 20.0156132,
+      "lng": 73.8243518,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFZA2HjHq3TsRTAE1d_tm7co",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gut No 233/1/A, Plot No 22, Dindori Rd NH 3, Rasbihari, Meri Link Road, Mhaske Nagar, Nashik",
+      "lat": 20.0267701,
+      "lng": 73.82765599999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy08_mTPB3TsR15KaL51sqSY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gut No 1507, near Old Jakat Naka, NH 3, Agra - Mumbai Highway, Adgaon, Nashik",
+      "lat": 20.0356817,
+      "lng": 73.8638151,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0bGmMQDB3TsRQ2yllLS5UjU",
+      "name": "Bharat Petroleum - BP Adgaon",
+      "address": "2VP7+PQH, Vasantdadanagar, Adgaon, Nashik",
+      "lat": 20.036609,
+      "lng": 73.863848,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJTb79zjnB3TsRTDiRNMO0axE",
+      "name": "IndianOil",
+      "address": "No 2, Gut No 1470, Adgaon, Nashik",
+      "lat": 20.0375169,
+      "lng": 73.86574329999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9diHqrnB3TsRRXqIH77PavY",
+      "name": "IndianOil Petrol Pump (Odha)",
+      "address": "Gut No, 329/2, Odha",
+      "lat": 19.9975186,
+      "lng": 73.9027803,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSx5sGADB3TsRuISB2hrft-M",
+      "name": "Near jatra hotel cng",
+      "address": "2VVF+HRF, Nashik",
+      "lat": 20.0439415,
+      "lng": 73.8745591,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ0QjW1Y_B3TsR_istk5UR5Fg",
+      "name": "IndianOil Petrol Pump (Jadhav Mala)",
+      "address": "Truck Terminal, Agra - Mumbai Highway, Adgaon, Nashik",
+      "lat": 20.0439088,
+      "lng": 73.8746901,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5VtO7NjB3TsRuBxWKDcUOD4",
+      "name": "Shell",
+      "address": "opp. Truck Terminal, Nashik Road, नाशिक",
+      "lat": 20.045426,
+      "lng": 73.874382,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGQkiszHq3TsRdBqmVz7O1Bc",
+      "name": "Jio-bp",
+      "address": "Plot No 6, Survey No 207, 7/A, Dindori Road, Mhasrul Shivar, Nashik",
+      "lat": 20.0357314,
+      "lng": 73.80323419999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2cQZWU_r3TsRknU30NEeDfM",
+      "name": "Bharat Petroleum, Petrol Pump -Ichamani Construction & Co",
+      "address": "NASHIK-DINDORI RD- ICHAMA, Nashik",
+      "lat": 20.03730599999999,
+      "lng": 73.8038935,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJy3Sg5SDv3TsRz3CyRE9tuYU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gut No 338, beside DSB Bank, Girnare Road, Dugaon",
+      "lat": 20.0707555,
+      "lng": 73.6782755,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJM627bDDu3TsRn0pE43CYBHM",
+      "name": "IndianOil Petrol Pump (Girnare)",
+      "address": "26, Makhmalabad Rd, Ashwamegh Nagar, Makhmalabad, Nashik",
+      "lat": 20.071594,
+      "lng": 73.666923,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGwRZawDp3TsRPF1JLu17sps",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Makhmalabad, Nashik",
+      "lat": 20.052259,
+      "lng": 73.762404,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJucefbg7v3TsRUgJ0WgtR6Ok",
+      "name": "M/S ASHTAVINAYAK PETROLEUM",
+      "address": "Dugaon Girnare Road, A/P Girnare Tal, Dist, Nashik",
+      "lat": 20.0745396,
+      "lng": 73.6593154,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVSuRrEDp3TsRisNWmzwzBTc",
+      "name": "IndianOil Petrol Pump (Omkar Nagar)",
+      "address": "Shiv Petroleum, Peth Road, Nashik",
+      "lat": 20.0715032,
+      "lng": 73.7784746,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrTshY_np3TsR94w-h1AkQMo",
+      "name": "SB Vinayaka Petrol Pump & CNG Gas Pump (BPCL)",
+      "address": "3QGH+6P, Gawalwadi",
+      "lat": 20.075508,
+      "lng": 73.779305,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL6q2MsHp3TsRGNcgLGmLGlE",
+      "name": "Nayara - Navkar Petroleum",
+      "address": "Peth Road, Makhmalabad, Nashik",
+      "lat": 20.0656703,
+      "lng": 73.7806791,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOdKozr_p3TsR00mJUom5l74",
+      "name": "IndianOil Petrol Pump (Lakhamapur)",
+      "address": "Survey No 261/2 Ramshej, Dindori",
+      "lat": 20.1142509,
+      "lng": 73.76291049999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwQeSYfnr3TsRf6JyTGnxLKU",
+      "name": "Petrol pump",
+      "address": "2QXH+3HW, Makhmalabad, Nashik",
+      "lat": 20.0460927,
+      "lng": 73.7786765,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq_tCg7bx3TsRFhagJV6VanU",
+      "name": "Shree Parvatiraj Petroleum",
+      "address": "3JCR+PCF, Nashik",
+      "lat": 20.0718153,
+      "lng": 73.6410503,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYc74D7bx3TsRQGCcCyGxO6Y",
+      "name": "Trimbakraj petroleum girnare harsul road",
+      "address": "Gut No 460, 2/2, Vilwandi, Girnare",
+      "lat": 20.0727199,
+      "lng": 73.6405657,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoQTOkP3q3TsRDB0fg3CBEV4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground floor, Dwarka Circle, near Godavari Hotel, Agra Road, Nashik",
+      "lat": 20.0405862,
+      "lng": 73.78044919999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJF1bnmBzp3TsR42lEpdVKNdo",
+      "name": "Ramshej Aashewadi(Adblue pump)",
+      "address": "4QC8+45F, Ramshej",
+      "lat": 20.1203086,
+      "lng": 73.7654367,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJz4NKgK_p3TsRm6c8fmXFd98",
+      "name": "IndianOil Petrol Pump (Akrale)",
+      "address": "Plot No 196/1B Dhakambe, Dindori, Akrale",
+      "lat": 20.0835948,
+      "lng": 73.8037973,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS6QoCpHr3TsR_UCSwt2di_Y",
+      "name": "CNG BPCL Shree Gajanan Petroelum",
+      "address": "Devbhumi Apartment, Maharashtra State Highway 26, Near Rau Hotel, Omkar Nagar, Nashik",
+      "lat": 20.047008,
+      "lng": 73.7927906,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhZzmSpLp3TsRZZZtFJXeG6o",
+      "name": "Bhawani Shankar Petroleum Co",
+      "address": "Dindori Road, Nashik",
+      "lat": 20.0523519,
+      "lng": 73.804861,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJBUgxpgjr3TsRPyRoI9JIVAk",
+      "name": "Reliance Petroleum",
+      "address": "C, Plot, Fitness Society, Survey No, 207/B, Dindori Road, Mhasrul Gaon, Shivar",
+      "lat": 20.0456957,
+      "lng": 73.80459610000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4UvIvi_q3TsRTqJl2FECoT4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "S No 234 Plot, 3, Dindori Road, Mhasrul Gaon, Nashik",
+      "lat": 20.03900459999999,
+      "lng": 73.8048144,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUUgo4FHo3TsRJtdQu-VdM4E",
+      "name": "Bharat Petroleum, Petrol Pump -Navnath Petroleum",
+      "address": "DHAKAMBE, Nashik",
+      "lat": 20.10239619999999,
+      "lng": 73.80662199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs1p1ygnp3TsRZhaOHjh058M",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gut No 329, A SH 17, Dindori Road, Nashik",
+      "lat": 20.111054,
+      "lng": 73.808052,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzzf1VGno3TsRfZ5V6_K5h84",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near Khatwad, Gut No 212/B, Nashik Dindori Road SH 17, Dindori, near Khatwad, Pimpalnare",
+      "lat": 20.1245286,
+      "lng": 73.812225,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe4mZiMPD3TsRi6ic11IBRMM",
+      "name": "Bharat Petroleum",
+      "address": "National Highway 3, Vijay Nagar",
+      "lat": 20.073587,
+      "lng": 73.9068418,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZY1lJcLD3TsRyuEBuZrzA3I",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gat No 23/2/1 NH 3, Niphad, Agra - Mumbai Highway, Ojhar",
+      "lat": 20.0754367,
+      "lng": 73.9103063,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJz2nJLuvD3TsRHuTYCUNIGzk",
+      "name": "Jio-bp",
+      "address": "opposite Panchwad Nagar, Gat No 2436/2 Mumbai Agra Road, NH 3, Ozhar, opposite Panchwad Nagar, Mig, Nashik",
+      "lat": 20.0822805,
+      "lng": 73.9155952,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkWW8qMfD3TsRn6hkrK8qWg4",
+      "name": "BPCL - Adgaon ( Smartfleet -OTP - Petrol - Diesel - EV Charging)",
+      "address": "Survey No.1866, near Garware Point, Agra - Mumbai Highway, NH3, Adgaon, Nashik",
+      "lat": 20.0586716,
+      "lng": 73.8881899,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ26RjjdTD3TsRwd5SQVCsT1k",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 150, NH 13, Agra - Mumbai Highway, Jaulakedindori",
+      "lat": 20.061371,
+      "lng": 73.891171,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlfPCotPD3TsRKj5hcp1m2-w",
+      "name": "IndianOil Petrol Pump (Dindori)",
+      "address": "Survey No 172, Hissa No 172, Agra - Mumbai Highway, Jaulke",
+      "lat": 20.0645022,
+      "lng": 73.8927313,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJF-40ZP_D3TsRpFOhMVRUw2w",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near Nashik International Airport, Gat No 577 Airport Road, Dindori, near Nashik International Airport, Janori",
+      "lat": 20.091108,
+      "lng": 73.893492,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB7fpeZPD3TsRI_O99kfOiyI",
+      "name": "IndianOil Petrol Pump (Shivaji Nagar)",
+      "address": "Ground Floor, Agra - Mumbai Highway, Korapgaon, Ojhar",
+      "lat": 20.085268,
+      "lng": 73.918961,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaR7iLq_D3TsRUvYY4-KOfUY",
+      "name": "Bharat Petroleum, Petrol Pump -R.B.Gaikhe & Sons Nh3",
+      "address": "OZAR ( NH3 ), Nashik",
+      "lat": 20.088017,
+      "lng": 73.9223885,
+      "open_now": true
+    }
+  ]
+}

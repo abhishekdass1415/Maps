@@ -1,0 +1,667 @@
+{
+  "city": "Kolar",
+  "state": "Karnataka",
+  "count": 82,
+  "center": {
+    "lat": 13.1333,
+    "lng": 78.1333
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJqQwXF4b6rTsRzIjHM8FPm6A",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 75, Bengaluru - Tirupati Highway, Medarahalli, Kolar",
+      "lat": 13.1193313,
+      "lng": 78.084876,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2aQNOgDlrTsRHZHN7o7ab60",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Vakkaleri Hobli, SH 99, Vakkaleri, Kolar",
+      "lat": 13.055927,
+      "lng": 78.08531500000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJv5EHDADlrTsRREzzM-DFPJQ",
+      "name": "Sri CHOWDESHWARI WEIGHERS",
+      "address": "333P+8M, Muduvathi",
+      "lat": 13.0532563,
+      "lng": 78.0866284,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJYQIOVQ3lrTsRq0RhFGHwbYM",
+      "name": "Bharat Petroleum, Petrol Pump -S L N Filling Station",
+      "address": "VOKKALERI, Kolar",
+      "lat": 13.076669,
+      "lng": 78.04104699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs5sGTEflrTsREyl66DKilP0",
+      "name": "BADAR SS fuel station",
+      "address": "Chowdnednahalli Village, Vokkaleri",
+      "lat": 13.0716493,
+      "lng": 78.03808819999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_yOi0WHlrTsRUR9LzU78iQw",
+      "name": "IndianOil",
+      "address": "Sy No 11/1, Vokkaleri",
+      "lat": 13.0689288,
+      "lng": 78.035168,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJi8RcG7rkrTsRN4zk6-e-ACM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 9 Malur, Main Road, Vokkaleri",
+      "lat": 13.068509,
+      "lng": 78.033885,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJU81F8S3lrTsRNN6N75CCbv8",
+      "name": "IndianOil",
+      "address": "Survey No 209/5 Bangarpet, Road, Hobli, Sulikunte, Vokkaleri",
+      "lat": 13.0412191,
+      "lng": 78.105746,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaT6RGwD7rTsRF16N1NYnW_k",
+      "name": "Sy no.14/1, arabikothanur village, kolar taluk, kolar district",
+      "address": "428M+4GM, Arabikothanur",
+      "lat": 13.1153463,
+      "lng": 78.03380779999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJm4GlI737rTsRXb8FYpBjykQ",
+      "name": "Nayara Fuel Station / RV Fuel Station",
+      "address": "439P+G75, Bettani",
+      "lat": 13.1187563,
+      "lng": 78.08574260000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUx7F2f_6rTsR-uEAkuV7gBE",
+      "name": "IndianOil",
+      "address": "Survey No 13, Siddanahalli, Arabikothanur",
+      "lat": 13.1231447,
+      "lng": 78.0654349,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmXr2FS3krTsRLfN0hGaNa8o",
+      "name": "Bharat Petroleum",
+      "address": "0/21, State Highway 95, Tekal",
+      "lat": 12.998952,
+      "lng": 78.0637582,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJOYjoU3HlrTsRD9zpx1gE8Tw",
+      "name": "Petroleum bunker",
+      "address": "X3X7+9Q5, Kempanahalli",
+      "lat": 12.998423,
+      "lng": 78.063783,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJBVCUgX_7rTsR-gOHE2fzRCw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 75, Vakkaleri Hobli, Kolar",
+      "lat": 13.12042,
+      "lng": 78.095016,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY2td3gr7rTsRrk1kmJSEMPw",
+      "name": "Green View Service Station",
+      "address": "136, Ammerahalli",
+      "lat": 13.1147533,
+      "lng": 78.10548159999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ74FWVIfwrTsR-DOKdXt8DG0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 73/1, Old, MB Road, Sultan Thippasandra, Kolar",
+      "lat": 13.12795,
+      "lng": 78.11672109999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkc7GKsnurTsRmz4vbCcAn1k",
+      "name": "Bharath petrol pump",
+      "address": "253F+794, CSRP Colony, Bangarapet",
+      "lat": 13.0031398,
+      "lng": 78.17346309999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBwuBCtLvrTsRpjzTjwcuSKw",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 13.0725042,
+      "lng": 78.15228669999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJYzZkHADvrTsRdnmsxb1Vu4w",
+      "name": "Hudukula",
+      "address": "35F3+55, Pakarahalli",
+      "lat": 13.0729904,
+      "lng": 78.1529003,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJY1PlcsnvrTsRd3PspmXlYlM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 325, 1 & 325/2, Hudukula Road, Kasaba Hobli, Bangarapet",
+      "lat": 13.080697,
+      "lng": 78.1509576,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeVY7oAvvrTsRA4YScZXiY5c",
+      "name": "IndianOil",
+      "address": "Survey No 14/3, Kasaba, Maderahalli",
+      "lat": 13.027634,
+      "lng": 78.13823,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLW-j6lXvrTsRr9HWAypAKD0",
+      "name": "MRPL HiQ Petrol Station (SRS Fuel Station)",
+      "address": "Sy No, Sy No 13/5 Kuppanahalli, &, Bangarpet Road, Chikka Ankandahalli",
+      "lat": 13.0368943,
+      "lng": 78.1595663,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwY63fv_urTsRGXMrfQ93Bvc",
+      "name": "IndianOil",
+      "address": "Survey No 48, Apmcyard, Chikka Ankandahalli",
+      "lat": 13.0350394,
+      "lng": 78.1665907,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKx9feJLxrTsRIq0YJ80Via0",
+      "name": "Srinivasa Fuel Station",
+      "address": "447Q+CVV, Vinoba Nagar, Kolar",
+      "lat": 13.1136138,
+      "lng": 78.1396821,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJf0FV6aHxrTsREeIr4gHOIEc",
+      "name": "BPCL PETROL BUNK|| KMR Service Station",
+      "address": "sy no 24/1 &24/2 Towards Kolar, to, Tekal Road, Kolar",
+      "lat": 13.118436,
+      "lng": 78.1264793,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdVmtsb_xrTsRcTK0XWaXAm0",
+      "name": "APEX Filling Point (NAYARA Energy Limited)",
+      "address": "Bangarpet Road, C.Byregowda Nagar, Kolar",
+      "lat": 13.1191891,
+      "lng": 78.13603719999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJt8hJg1XxrTsRvjyuDI1AsI0",
+      "name": "Bhairavi Fuel Station Indianoil Petrol Bunk",
+      "address": "4, Tekal Road, Jayanagara, Kolar",
+      "lat": 13.1213512,
+      "lng": 78.1268796,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwTchPNbxrTsRk5fy_2IfKxY",
+      "name": "Manju Petrol station V Manjunatha",
+      "address": "46/7, Kolar",
+      "lat": 13.1216878,
+      "lng": 78.1264719,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJRcqrzXjwrTsRexCMCEnYBM4",
+      "name": "PRADHAN MANTRI KISAN SAMRIDDHI KENDRA",
+      "address": "India",
+      "lat": 13.1216785,
+      "lng": 78.11280550000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTdKETADxrTsRRVmH89K3QJ4",
+      "name": "KPC FUEL STATION NAYARA",
+      "address": "44C7+X5R, Kalavanchi, Kolar",
+      "lat": 13.1218041,
+      "lng": 78.11299819999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo3OFe1HxrTsRHUrYCwLTOso",
+      "name": "Fuel Station M V Nagaraja",
+      "address": "46/6",
+      "lat": 13.1252351,
+      "lng": 78.1348696,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ-2MGB3_wrTsRLxcMLiIIeLY",
+      "name": "APEX PETRO PARK",
+      "address": "Kolar - Malur Road, Kalavanchi, Kolar",
+      "lat": 13.1229972,
+      "lng": 78.1130766,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdUWJgH_wrTsRnuOZKFO4uck",
+      "name": "IndianOil",
+      "address": "Ground Floor, opposite Apmc Yard, Kolar Bypass Road, Arehalli, Kolar",
+      "lat": 13.1249002,
+      "lng": 78.1108759,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4-P5D37wrTsR3fTTK7NPV_Q",
+      "name": "Reliance Petroleum",
+      "address": "Sy No 8 & 12, 30 & 32 15Th Ward, Harohalli Road, Arahalli",
+      "lat": 13.1272225,
+      "lng": 78.11639559999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8etJRFzxrTsRdl5AQXizYsU",
+      "name": "Sri Raghavendra fuel park",
+      "address": "Honnenahalli",
+      "lat": 13.1236724,
+      "lng": 78.1631099,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq6mM7cXurTsRsipcJJU2N8g",
+      "name": "IndianOil",
+      "address": "Sy No 1955, SH 5, Bangarpet Road, Arehalli, Kolar",
+      "lat": 13.0064804,
+      "lng": 78.17241630000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJiecLpvnwrTsRg_3haQHRDG4",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 13.132761,
+      "lng": 78.1475523,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJeVJnb_PwrTsRD626FAtihik",
+      "name": "IndianOil",
+      "address": "No 442, near Govt Boys College, Gowripete, Arehalli",
+      "lat": 13.1344276,
+      "lng": 78.1356474,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJc2ty1RnxrTsRDlQyauLXn_A",
+      "name": "Shree Bhyraveshwara Fuel Station (Bharat Petroleum)",
+      "address": "Taluk and District, Bhatrahalli SH96, Bethamangala Road, Kolar",
+      "lat": 13.1134336,
+      "lng": 78.1896917,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJh0uEumHvrTsRdgLMmCwbs-8",
+      "name": "Goldtown fuel station",
+      "address": "Harati Main Road, Karahalli, Bangarapet",
+      "lat": 13.0041558,
+      "lng": 78.1847593,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJSRQ3w2jvrTsRs2eV3qTKW4I",
+      "name": "IndianOil",
+      "address": "Survey No 5/1, Karahalli, Bangarapet",
+      "lat": 13.003985,
+      "lng": 78.184731,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJu3naSsnurTsRk2VQlXC7cKo",
+      "name": "Reliance Petroleum",
+      "address": "No 5248, Old Survey No 201/2A, Kolar Rd Karahalli, Bangarpet, Kasaba Hobli, Kolar",
+      "lat": 13.0014684,
+      "lng": 78.17373289999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJp417w0r5rTsR3gLnTxrtHuE",
+      "name": "Bharat Petroleum, Petrol Pump -Srilakshmi Venkateswara Fuelstation",
+      "address": "Vemagal",
+      "lat": 13.1893433,
+      "lng": 78.0208336,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNxwqjhDxrTsR_bgdF9bdrFw",
+      "name": "Bharath Petroleum Corporation Limited",
+      "address": "SH5, Opp To Ambedkar Boys Hostel, K.G.F. road, Fort Area, Kolar",
+      "lat": 13.1377573,
+      "lng": 78.1361965,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJz58s0Ef7rTsReMAQKpzUehM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 86/2, NH 4, Vakkaleri Hobli, Kendatti",
+      "lat": 13.1311152,
+      "lng": 78.0280238,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEc1NL2_7rTsRevtCEOYrV1M",
+      "name": "Manjunatha Bk",
+      "address": "2, Bangalore",
+      "lat": 13.1309073,
+      "lng": 78.0279845,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJTfHILhr6rTsRJ7CF3adJZOw",
+      "name": "IOC - Welcome Petro Junction",
+      "address": "H Gollahalli Village, Kolar, Kolar - Chikkaballapur Road, Gollahalli",
+      "lat": 13.163047,
+      "lng": 78.094111,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ3ede12b5rTsRqA8FYN5SkP0",
+      "name": "Nayara - Sri Maruthi Fuel Station",
+      "address": "Sy no 1/4 nandhikamanahalli Medihala gate, hobli, Vemagal",
+      "lat": 13.1760593,
+      "lng": 78.0453612,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlZAz9HD8rTsRbiDYnIUy0K4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 141/3, Bangalore Tirupati Highway Kurki, NH 75, Narsapura",
+      "lat": 13.1357356,
+      "lng": 78.0156477,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJex49vQD8rTsRbsPhAIbJX7U",
+      "name": "NAYARA-CMS Fuel Station",
+      "address": "India",
+      "lat": 13.1640921,
+      "lng": 78.0187467,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ1aP9EwDxrTsRZruH4Rkcvyc",
+      "name": "Vayuputhra Indane Gas Godown",
+      "address": "Gas godown, Kolar Amanikere",
+      "lat": 13.1502717,
+      "lng": 78.1239772,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJa7rSYAD_rTsRppBVw_dcK6E",
+      "name": "MRPL HIQ PUMP",
+      "address": "52G9+Q8G, road, Vemagal, Sujjanahalli",
+      "lat": 13.1769491,
+      "lng": 78.0183246,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJcUHoepbwrTsRl9NQ-VYXpVg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Kolar-Chikkaballapur Road, Kolar",
+      "lat": 13.150008,
+      "lng": 78.12522659999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0R29TwDxrTsRqeE3g_mYgtY",
+      "name": "Badar ss fuel station",
+      "address": "44QH+CXR, Chowdadenahalli",
+      "lat": 13.1386236,
+      "lng": 78.1299045,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJV7URSJTwrTsREQ-979lqUTc",
+      "name": "IndianOil",
+      "address": "Ward No 31, 213 & 214, Survey No, Chikkaballapur Road, Sarige Nagar, Arehalli, Kolar",
+      "lat": 13.1475015,
+      "lng": 78.12969939999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTRXXDDDxrTsRf0ycc8pW0Ow",
+      "name": "Bharat Petroleum, Petrol Pump -Sri Sai Hanuman Service Station",
+      "address": "44WJ+JFR, KOLAR TOWN ON CHICKBALLAPU, Rahmath Nagar, Kolar",
+      "lat": 13.1467607,
+      "lng": 78.1307575,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcdu68WvxrTsRgSUdALuaMIg",
+      "name": "VISMAYA HP GAS GODOWN",
+      "address": "135/2, Kodikannur, village, Arahalli",
+      "lat": 13.1567775,
+      "lng": 78.1314122,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ-7rMb2rxrTsRpXFdKZTTKxs",
+      "name": "Gana Enterprises",
+      "address": "45, Kolar",
+      "lat": 13.1351473,
+      "lng": 78.142254,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ63_4n1_xrTsRP-rSHyM-qtI",
+      "name": "IndianOil",
+      "address": "Survey No 408, 2 & 410/2, Arehalli, Gandhi Nagar, Kolar Amanikere",
+      "lat": 13.1370281,
+      "lng": 78.1422691,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs7cpye_wrTsRCdsjqxZy0X8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, MB Road, Kolar",
+      "lat": 13.1413851,
+      "lng": 78.1396657,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuTI9RNLxrTsRliJpDppuV3Y",
+      "name": "NAYARA ENERGY - PJ FUEL PARK",
+      "address": "45J5+G4C, MB Road, Tamaka Industrial Area, Tamaka",
+      "lat": 13.1313246,
+      "lng": 78.1577501,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJp3-j9NTxrTsRMHI4Ca-NlU8",
+      "name": "Bharath petroleum",
+      "address": "547Q+7C6, State Highway 99",
+      "lat": 13.1631644,
+      "lng": 78.13851199999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJVeSHO8XxrTsRWMdwnOwbCsU",
+      "name": "IndianOil",
+      "address": "Survey No 25/3, Barandahalli, Kasaba, Kolar",
+      "lat": 13.163441,
+      "lng": 78.138504,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8bORSDHxrTsRNALW4T8TFeY",
+      "name": "IndianOil",
+      "address": "Survey No 25/3 Barandahalli, Kasaba, Sampangiram Nagar, Bengaluru",
+      "lat": 13.1636714,
+      "lng": 78.13841769999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4abD2nbxrTsRxtHsqQKWxTI",
+      "name": "IndianOil",
+      "address": "No 10/1 Kumbarahalli, Hobli, Arehalli, Tamaka",
+      "lat": 13.1358002,
+      "lng": 78.18719709999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrZhwSVLxrTsRgwL-T5rVWnk",
+      "name": "Nayara Energy- Rathna Petrol Station",
+      "address": "beside Rathna Convention Centre, Chadumanahalli",
+      "lat": 13.1364497,
+      "lng": 78.1934334,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo3HzXADxrTsRWX1KHylXUNc",
+      "name": "A V G Fuel Station",
+      "address": "45PV+9W, Kalahastipura",
+      "lat": 13.135977,
+      "lng": 78.19426,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgyobT8_3rTsRSzmvYLICNY0",
+      "name": "Nayara petrol pump-Krishna Service Station",
+      "address": "55X3+PR, Thoradevandahalli",
+      "lat": 13.1994407,
+      "lng": 78.1545664,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJX4masbfzrTsRydq2Tikqtzo",
+      "name": "Shell Petrol Pump",
+      "address": "Bengaluru - Tirupati Highway, Vadagur",
+      "lat": 13.138758,
+      "lng": 78.208449,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM2pXCgDzrTsRzcRXZm-FDiA",
+      "name": "Kolar CNG station Bharath Petroleum",
+      "address": "46Q6+78R, Vadagur",
+      "lat": 13.1382396,
+      "lng": 78.2107617,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZ-y4IKvzrTsRPb_LZLIKtWk",
+      "name": "Bharat petroleum",
+      "address": "National Highway 75, Vadagur",
+      "lat": 13.1384828,
+      "lng": 78.2106874,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJh0rTDQDzrTsRiLWFC-lEEXc",
+      "name": "Indian Oil - ACS Filling Station",
+      "address": "Sy. No 58/12, Kolar district, Nernahalli",
+      "lat": 13.1437659,
+      "lng": 78.2394284,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOwdMkAfzrTsRAFDpSm_gcDw",
+      "name": "IndianOil",
+      "address": "Ground Floor Nernahalli, Huttur, Arehalli, Thambihalli",
+      "lat": 13.1462257,
+      "lng": 78.2550645,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJu-8swYzwrTsRmpmJm5R0dMY",
+      "name": "R.P.G.Service Station",
+      "address": "NH 75 Huthur, Bengaluru",
+      "lat": 13.1467409,
+      "lng": 78.2554372,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJR8e_Esn-rTsRLK2xxaOEDwY",
+      "name": "IndianOil",
+      "address": "Ground Floor, Vemagal",
+      "lat": 13.195662,
+      "lng": 78.009697,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2X6aidH5rTsRXVgb4zk4ORU",
+      "name": "BPCL Petrol Bunk",
+      "address": "Sugaturu",
+      "lat": 13.211895,
+      "lng": 78.10126029999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJjQq220r_rTsRKHVKOouKQcs",
+      "name": "Manjunath service Station(Iocl)",
+      "address": "52W5+FR2, Bheemapura",
+      "lat": 13.1961402,
+      "lng": 78.0095175,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJcdRJSiX3rTsRMjJtWToJ65A",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 216, 6A1, State Highway 99, Muduvadi",
+      "lat": 13.230774,
+      "lng": 78.16343499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGxgvWIz3rTsR8F_xuvDH994",
+      "name": "Manju Petrol Pump",
+      "address": "56, Mudavada",
+      "lat": 13.2329592,
+      "lng": 78.1658843,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJk-XF4973rTsRT-N5CnaTHUM",
+      "name": "RADHAKRISHNA ENERGY. Bharat petroleum corporation limited.",
+      "address": "Doddaganjuru, Madikere cross, to, Kolar - Srinivaspur Road, Chinthamani",
+      "lat": 13.2412363,
+      "lng": 78.169933,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8RwSWKz3rTsRc_LiV8ho_Vw",
+      "name": "Rojar Filling Station",
+      "address": "789, Rojarpalli, Santhe Gate",
+      "lat": 13.2534334,
+      "lng": 78.1753018,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJv7lsEQD3rTsRjxGWa7kG9RE",
+      "name": "V k fuel station indian oil petrol pump",
+      "address": "758H+2CW, Kolar - Srinivaspur Road, Hoohalli",
+      "lat": 13.2653856,
+      "lng": 78.17824259999999,
+      "open_now": true
+    }
+  ]
+}

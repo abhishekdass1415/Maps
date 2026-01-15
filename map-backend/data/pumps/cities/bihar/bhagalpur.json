@@ -1,0 +1,387 @@
+{
+  "city": "Bhagalpur",
+  "state": "Bihar",
+  "count": 47,
+  "center": {
+    "lat": 25.2299,
+    "lng": 87.0062
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJwwQFF4JM8DkRMqd8kJSoCBo",
+      "name": "IndianOil",
+      "address": "Ground Floor, Chack, Masak, Bhagalpur",
+      "lat": 25.1562663,
+      "lng": 86.93658459999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJd7iHGIJM8DkRBKnhLdzhi6Q",
+      "name": "LD Fuels",
+      "address": "5W4P+9PQ, State Highway 25, Kajraily",
+      "lat": 25.1559608,
+      "lng": 86.9368463,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJo1YXUQBL8DkRTbQ0fwVNzuo",
+      "name": "Baijani",
+      "address": "5XHF+59W, State Highway 19, Baijani",
+      "lat": 25.178062,
+      "lng": 86.97331,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJzcWQa-ZL8DkRJjtIJFPaOXM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Baijani Road, Pista",
+      "lat": 25.1778014,
+      "lng": 86.97401219999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8YzaEJpL8DkR_PUWfCaiFck",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Banka - Amarpur - Bhagalpur Road, Kajraily, Gaura Chauki",
+      "lat": 25.201433,
+      "lng": 86.94950899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq0ywT81L8DkRgCwIjCZX8B4",
+      "name": "Rabiya Petrol Pump",
+      "address": "6W3X+2VC, Nisf Ambe",
+      "lat": 25.2025747,
+      "lng": 86.94964499999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJF8L_didL8DkRNOZwKIUKk6s",
+      "name": "HP PETROL PUMP - JUGNU PETROLEUM",
+      "address": "At-jhiktia,p.s.sajour,block-shahkund ON shahkund Road, Nathnagar, Patna",
+      "lat": 25.20338,
+      "lng": 86.91498899999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJL0kGv_NL8DkRTAuuTngPj2s",
+      "name": "M/s Shyam Ganga Petrol Supply & Co.",
+      "address": "1, Bhagalpur - Hansdiha Road, Jamni",
+      "lat": 25.1931963,
+      "lng": 86.9739479,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ9XcnBVSz8TkR0fkHR7DNbj0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Gr Floor, Nathnagar Shahkund Rd, Sajaur Shahkund, Kishanpur Amkhoria",
+      "lat": 25.1346488,
+      "lng": 86.8902538,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJF6h8jM1L8DkRAp4l1aKldT4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Jagadishpur",
+      "lat": 25.201251,
+      "lng": 86.972071,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbV-BiAtP8DkRWu9R6xz7WTw",
+      "name": "IndianOil",
+      "address": "Ground Floor Kaneri, Jagadishpur",
+      "lat": 25.126531,
+      "lng": 86.985821,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuUEhQauz8TkRf0mCiwsfWLA",
+      "name": "Jugnu Petroleum Jhikatia",
+      "address": "Jhiktia",
+      "lat": 25.1251047,
+      "lng": 86.8869326,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ2fjJ2NBP8DkR6xotW_zMPCI",
+      "name": "Maa Shakti Fuel Centre",
+      "address": "4XFP+GC4, Jagadishpur",
+      "lat": 25.123765,
+      "lng": 86.9860798,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ14jwwfVI8DkR0sZIO5EktRI",
+      "name": "IndianOil",
+      "address": "Ground Floor Jamsi, Lodipur, Bhagalpur",
+      "lat": 25.205435,
+      "lng": 87.03846,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZXCPkIVP8DkRK199a0qJLSw",
+      "name": "IndianOil",
+      "address": "Ground Floor, Birnoudh, Agarpur",
+      "lat": 25.13687089999999,
+      "lng": 87.0610993,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKWg7qghJ8DkR-3sMoIIXMwc",
+      "name": "IndianOil",
+      "address": "Ground Floor Kohrapo, Mirjanhat, Lodipur",
+      "lat": 25.2180509,
+      "lng": 86.9978246,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuTF6xtpJ8DkR5fWth0FUGZ0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Lodhipur, Bishunpur Jichho",
+      "lat": 25.2241642,
+      "lng": 87.0109861,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJt22LfjlJ8DkRnmsryTXVHRM",
+      "name": "Silk city petroleum",
+      "address": "62H6+9F3, JIcho, Bhagalpur",
+      "lat": 25.2287961,
+      "lng": 87.0047232,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvVxOz-tD8DkRmvU34O5o-Nc",
+      "name": "IndianOil",
+      "address": "Ground Floor, Jagdishpur - Sanhola Road, Mirnagar",
+      "lat": 25.0930499,
+      "lng": 87.0681036,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4bhUgS7l8jkReuB0bKG-yDY",
+      "name": "IndianOil",
+      "address": "Ground Floor, Rajgir",
+      "lat": 25.0930206,
+      "lng": 87.0681163,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjf-FeBJK8DkRQpolU4MQCWw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Tatarpur, Bhagalpur",
+      "lat": 25.2408801,
+      "lng": 86.96543009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJz2gqLQ5K8DkRrjk3Tur1vAM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Lowernath Nagar, Bhagalpur",
+      "lat": 25.2416643,
+      "lng": 86.9701331,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJV_ykYkK18TkRbfhB4PD0-CU",
+      "name": "Bharat Petroleum",
+      "address": "Akbar Nagar, NH-80, Sultanganj Bhagalpur Road, Bhagalpur",
+      "lat": 25.236173,
+      "lng": 86.882921,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-e6mG2m18TkRlb8J21YZkiQ",
+      "name": "Petrol Pump",
+      "address": "6VPH+7H4, Damodarpur",
+      "lat": 25.2356325,
+      "lng": 86.8789407,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJk1DXGv1J8DkRpQ6MQatSU1Q",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kachahri Road, Chowk, Bhagalpur",
+      "lat": 25.2509084,
+      "lng": 86.990527,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS-LP-ApL8DkRs4WKWsJMjF8",
+      "name": "Bharat Petroleum, Petrol Pump -Jain Petrol Station",
+      "address": "TATARWA,NATHNAGAR RD,BHAGA, Tatarpur, Bhagalpur",
+      "lat": 25.2409291,
+      "lng": 86.9670414,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxYSjfUpL8DkRVGjeL7FBb2c",
+      "name": "Bharat Petrol Pump",
+      "address": "6XPC+8Q5, Tilkamanjhi, Bhagalpur",
+      "lat": 25.23575259999999,
+      "lng": 86.97197109999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJyUxYnUtL8DkRyB-YcH0Bqps",
+      "name": "IndianOil",
+      "address": "Ground Floor, Hussainabad, Kajraily",
+      "lat": 25.22816699999999,
+      "lng": 86.973118,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeX8hcwBJ8DkR0MuUAN0YLIc",
+      "name": "Ravi kumar",
+      "address": "Mandal tola, Khutaha",
+      "lat": 25.2262697,
+      "lng": 86.97492220000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJKYiMpkBL8DkRtgp7Ebfzu6c",
+      "name": "IndianOil",
+      "address": "Ground Floor Bounsi Road, Chowk, Gurhatta, Bhagalpur",
+      "lat": 25.237906,
+      "lng": 86.974907,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJaznOqU-18TkReRzKQ-9dMuI",
+      "name": "IndianOil",
+      "address": "Ground Floor, Nathnagar, Khutaha",
+      "lat": 25.2365484,
+      "lng": 86.8942825,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIbEJbfhJ8DkROab4OTXO2xs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Ishakchak, Bhagalpur",
+      "lat": 25.242901,
+      "lng": 86.983161,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0zzzBzxJ8DkReUr5zD6tvGI",
+      "name": "Shekhar Gas",
+      "address": "6XWQ+X64, RBSS Sahay Road, Bhikhanpur, Bhagalpur",
+      "lat": 25.2473758,
+      "lng": 86.9880759,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJpXhv-R9J8DkRQrTIevI-1VU",
+      "name": "SUNLIGHT ENTERPRISES ~ Thë Çömplêtë Îñtèrîór Sôlütīôñ",
+      "address": "Gumti no-3, Bhikhanpur, Bhagalpur",
+      "lat": 25.2482806,
+      "lng": 86.9887821,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPXSX3jZJ8DkR-h1N5Y4xJI4",
+      "name": "Bharat Petroleum, Petrol Pump -Hari Om Fuel Center",
+      "address": "BAHADURPUR,BHAGLPUR TOWN, Bhagalpur",
+      "lat": 25.25213570000001,
+      "lng": 86.9869987,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJN8LaRO-18TkR9hcZh4-wfUk",
+      "name": "Bharat Petroleum Petrol Pump , MAHABIR FUEL CENTRE",
+      "address": "AT & PO GAURIPURPS-THANA, Bihpur",
+      "lat": 25.25,
+      "lng": 86.88000000000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ-R8paQA38DkRu33zY1pVC8s",
+      "name": "Cng",
+      "address": "Tilka Manjhi Chowk, Katahalbari, Khanjarpur, Bhagalpur",
+      "lat": 25.253978,
+      "lng": 87.000301,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ_4pUaNVJ8DkRdfIfkv7LgGM",
+      "name": "Hari Om Fuel Centre - BPCL Petrol Pump",
+      "address": "7239+7FM, Near Airport, Bhagalpur, Bhagalpur",
+      "lat": 25.2532044,
+      "lng": 87.01866179999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJk12r2kJJ8DkRHq7fi8TfdP0",
+      "name": "Raja Store",
+      "address": "Sardho",
+      "lat": 25.2313656,
+      "lng": 87.0211434,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJySSK9htI8DkRGz8fXp2ONZ8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Sabour",
+      "lat": 25.248301,
+      "lng": 87.0482504,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQZVuOIgz8DkRu86IXb0dQyI",
+      "name": "BPCL PETROL PUMP MAHABIR FUEL CENTRE",
+      "address": "Jairampur Urf Lattipur",
+      "lat": 25.348638,
+      "lng": 86.9541706,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJP5h-UT838DkRJ_CBGnrvdsM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Setu Naugachia, near Vikramashila, Zero Mile Road, Jagatpur",
+      "lat": 25.3305057,
+      "lng": 87.0419005,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJr8yDlBA38DkR6SQ5WJFelXc",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bhatgama, Naugachhia",
+      "lat": 25.317263,
+      "lng": 87.03376,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDfqoWww38DkRiQtundyMBAg",
+      "name": "TECHNO PETROLEUM",
+      "address": "VIKRAMSHILA SETU-NAUGACHIA, ZERO MILE ROAD, Jagatpur",
+      "lat": 25.33085599999999,
+      "lng": 87.0419881,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl_2fzqk38DkRLh5KlT8mMsA",
+      "name": "Mohi fuel centre",
+      "address": "Sahu Parbatta, nawgachia, Nawgachia",
+      "lat": 25.34143599999999,
+      "lng": 87.0493195,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoUT-Ut8w8DkRNLKUOY_cVZM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kisan Seva Kendra, Kaluchak Bispuria, Kharik",
+      "lat": 25.3669037,
+      "lng": 87.0181769,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ7njPAA78DkRU0Ck5eM9WDI",
+      "name": "Petrol pump",
+      "address": "9389+7MF, Naugachhia",
+      "lat": 25.3652313,
+      "lng": 87.0685491,
+      "open_now": null
+    }
+  ]
+}

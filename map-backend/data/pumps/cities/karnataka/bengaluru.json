@@ -1,0 +1,2299 @@
+{
+  "city": "Bengaluru",
+  "state": "Karnataka",
+  "count": 286,
+  "center": {
+    "lat": 12.9716,
+    "lng": 77.5946
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJ9dYp7yo-rjsREBm4keC1FN8",
+      "name": "IndianOil Petrol Pump",
+      "address": "near Rani Chennamma Circle, 281, 100 Feet Ring Road, Padmanabhanagar, Banashankari, Bengaluru",
+      "lat": 12.9222146,
+      "lng": 77.5600343,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0wLeTvcVrjsRu-8tKDtwW-w",
+      "name": "Shell",
+      "address": "opp. Ramaka Mandir, 127 Bull Temple Rd, opp. Ramaka Mandir, Channi Rd, Bengaluru",
+      "lat": 12.953503,
+      "lng": 77.56741,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJa4AmUsY_rjsRGEkesifhMjc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 113, near Veeranjaneya Temple, Uttarahalli Hobli, Bengaluru",
+      "lat": 12.9061966,
+      "lng": 77.5424532,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmyebbW9ArjsR2hgLof72rDI",
+      "name": "IndianOil",
+      "address": "NH 209, Kanakapura Main Road, Talaghattapura, Bengaluru",
+      "lat": 12.8588467,
+      "lng": 77.52888999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVSOWow8_rjsRgX4LplTb4hE",
+      "name": "IndianOil",
+      "address": "Khata No 2563, Sy No 25/2/B1, 25B, Mylasandra, Kengeri, Reflex Housing Layout, Hemmigepura Ward 198, Rajarajeshwari Nagar, Bengaluru",
+      "lat": 12.904101,
+      "lng": 77.506783,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFerJruU-rjsRezEC81kotNE",
+      "name": "IndianOil",
+      "address": "Sy No 36, Kengeri Pattanagere, Mysore Road, Hobli, Rajarajeshwari Nagar, Bengaluru",
+      "lat": 12.9260529,
+      "lng": 77.5017163,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9eTCL4rwrTsRo8QJuNDZAFM",
+      "name": "IndianOil",
+      "address": "Ward No 17, 366, Arehalli, Kolar",
+      "lat": 12.9114138,
+      "lng": 77.541045,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ343sg1g-rjsRHkBWzp4Pz_g",
+      "name": "IndianOil",
+      "address": "Ground Floor, Javarandoddi, Rajarajeshwari Nagar, Bengaluru",
+      "lat": 12.9327287,
+      "lng": 77.51647419999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbUvdYdY_rjsRJzeLUqjBA04",
+      "name": "IndianOil",
+      "address": "Sy No 27/1, Kadirenahalli Uttarahalli Hobli, Padmanabhanagar, Bengaluru",
+      "lat": 12.9134068,
+      "lng": 77.55969329999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJG23UvF0-rjsRgThobWnhVSE",
+      "name": "Bharat Petroleum Corporation ltd",
+      "address": "opposite Melody Apartment, Mysore Road, Nayanda Halli, Bengaluru",
+      "lat": 12.9382061,
+      "lng": 77.522193,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoVMWuTw-rjsRtukvhfIRXoU",
+      "name": "IndianOil",
+      "address": "No 33/1, Seetha Circle, 80 Feet Road, SBM Colony, 3rd Stage, Banashankari, Bengaluru",
+      "lat": 12.9303458,
+      "lng": 77.5533755,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVblKdy8-rjsR5Vxh_xKi4nw",
+      "name": "Panchamukhi Fuel Station",
+      "address": "125, Kathriguppe Main Road, Kathreguppe, Banashankari 3rd Stage, Bengaluru",
+      "lat": 12.9304759,
+      "lng": 77.55391310000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYbbjC10VrjsRse5dkCoQ4A0",
+      "name": "IndianOil",
+      "address": "No 30 Yelchenahalli, NH 209, Kanakapura Main Road, Bengaluru",
+      "lat": 12.896609,
+      "lng": 77.570984,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4VE_djs-rjsRGH5NjllXMLw",
+      "name": "Mamatha Petroleum - Nayara Oil Ltd.",
+      "address": "near Seetha Circle, No 3989 & 3990, 80 Feet Road, Girinagar, Bengaluru",
+      "lat": 12.9357689,
+      "lng": 77.54765929999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCxSFuXpBrjsRf8lYXDGKDkw",
+      "name": "IndianOil",
+      "address": "Survey No 307, 1308/1, Kanakapura Main Road, Pattareddy Palya, Bolare",
+      "lat": 12.8864567,
+      "lng": 77.56467339999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9fybSWk-rjsRRo6t9rsR_PY",
+      "name": "IndianOil",
+      "address": "Ground Floor, opposite Bhel Nayan, Mysore Road, Danahalli, Bengaluru",
+      "lat": 12.947197,
+      "lng": 77.5336708,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHys44ic_rjsRLgP5h3CbIA0",
+      "name": "Shell",
+      "address": "15/3-15/4, Kengeri Ring Road, Kengeri Satellite Town, Bengaluru",
+      "lat": 12.91564,
+      "lng": 77.48171700000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgy8hb3cVrjsRvHDEUfZzY-g",
+      "name": "IndianOil",
+      "address": "opposite Banashankari Temple, No 73 8Th KM, Kanakapura Main Road, Bengaluru",
+      "lat": 12.9171119,
+      "lng": 77.574135,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJq4W9y2o-rjsRvI7Ujcc8Ew4",
+      "name": "Nayara Petrol Pump MC Fuels",
+      "address": "25, 50 Feet Main Road, 1st phase Girinagar, Avalahalli, Banashankari 1st Stage, Banashankari, Bengaluru",
+      "lat": 12.9436627,
+      "lng": 77.5388138,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJi9aASsI-rjsR9GoPjM_Yr9g",
+      "name": "IndianOil",
+      "address": "40/6, Outer Ring Road, Nagdevanahalli, Bengaluru",
+      "lat": 12.9327646,
+      "lng": 77.4902615,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL7oCF2UVrjsRGsKhtbLtW0Q",
+      "name": "Bharat Petroleum Corporation ltd",
+      "address": "Near, No 69/4 JP Nagar, Gangadhara Nagar, Sarakki Gate, Bengaluru",
+      "lat": 12.9078808,
+      "lng": 77.5711242,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJV2MAmAU-rjsR7dGWL8LrkHE",
+      "name": "Shell",
+      "address": "322, Mysore Road, Bengaluru",
+      "lat": 12.947168,
+      "lng": 77.53268,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrX01Dsg4rjsR1jifn7cNytU",
+      "name": "IndianOil",
+      "address": "Khata No 6079, No 42/5, Nagadevanahalli Main Road, Kengeri Hobli, Bengaluru",
+      "lat": 12.9325795,
+      "lng": 77.4888093,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJQtgiYA-rjsRoyRrZLNQr2Y",
+      "name": "IndianOil",
+      "address": "Sy No 55/2, Sri Lakshmi Vallabha Nilayam, Doctor Puneeth Rajkumar Road, Metro Lay Out, Nayanda Halli, Bengaluru",
+      "lat": 12.9483864,
+      "lng": 77.5230981,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzc42dIIVrjsRSChRYQuZ3hk",
+      "name": "IndianOil",
+      "address": "Site No 6, opposite GK Convention Hall, 9th Main Road, Banashankari, Bengaluru",
+      "lat": 12.9209318,
+      "lng": 77.56940639999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs6BvUsc_rjsR_fgMJn37S5w",
+      "name": "ESSAR",
+      "address": "WFQV+723, Devaraj Arash Layout, Sonnenahalli, Nagdevanahalli, Bengaluru",
+      "lat": 12.9381401,
+      "lng": 77.4925533,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvQXL1JoVrjsRI6-JFEV510c",
+      "name": "IndianOil",
+      "address": "240243, Krishna Rajendra Road, Banashankari Stage II, Banashankari, Bengaluru",
+      "lat": 12.9297646,
+      "lng": 77.5735613,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-1GkbWUVrjsR-Vuajvf_PeY",
+      "name": "Shell",
+      "address": "100, Doctor Puneeth Rajkumar Road, Bengaluru",
+      "lat": 12.906554,
+      "lng": 77.57929,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMdfEgPgVrjsRseX3kW_Sri4",
+      "name": "IndianOil",
+      "address": "No 147, Anantharamaiah Compound, Mysore Road, Azad Nagar, Bengaluru",
+      "lat": 12.9536735,
+      "lng": 77.5421449,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm4eH54oVrjsRc0JCLrQaEh4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No, 73/7, 3rd Cross Road, Mount Joy Extension, Hanumanthnagar, Bengaluru",
+      "lat": 12.9415087,
+      "lng": 77.5641517,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJu_uk7g0-rjsRuE8e4KeP7aA",
+      "name": "Samriddhi Petro Products Pvt.Ltd Unigas",
+      "address": "342/19, Mysore Road, New Guddadahalli, Bapuji Nagar, Bengaluru",
+      "lat": 12.9544434,
+      "lng": 77.543706,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjVdSAEEVrjsRxOm3LRGo3XM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Ramaiah Garden, Puttenahalli, J. P. Nagar, Bengaluru",
+      "lat": 12.896025,
+      "lng": 77.58185379999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ1m8b3k-rjsR7XbExWp0z_o",
+      "name": "IndianOil",
+      "address": "Sy No 976/956, 80 Feet Road, Chandra Layout, Bengaluru",
+      "lat": 12.95801,
+      "lng": 77.5239955,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHfn0_ss4rjsR8GfDSo0rfdQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 232, Mysore Road, Babusapalya, Hobli, Kengeri, Bengaluru",
+      "lat": 12.8985548,
+      "lng": 77.4646233,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJI5hGonY-rjsRFIvVPGwc-OQ",
+      "name": "Bharat Petroleum Petrol Pump , GOWDAS",
+      "address": "SY NO 329/3, ATTIGUPPE,VIJAYANAGAR, Chord Road, Attiguppe, Bengaluru",
+      "lat": 12.9599142,
+      "lng": 77.5326767,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJW7lxlA8-rjsRVeFMEK3h4Fc",
+      "name": "Gopi Indane Gas Agency Godown",
+      "address": "16/1, Pipeline Road, KB Nagar, Kasthuriba Nagar, Azad Nagar, Bengaluru",
+      "lat": 12.9553622,
+      "lng": 77.5493651,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ4SbroA8-rjsRom8h9ksXZKE",
+      "name": "IndianOil",
+      "address": "269/3, Mysore Road, Kasthuriba Nagar, Bengaluru",
+      "lat": 12.9557367,
+      "lng": 77.5489752,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_05AYps-rjsRmmiCMwvEzaM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 34/4, Plot No 1, Outer Ring Road, Kottigepalya, Kengeri, Mallathahalli, Bengaluru",
+      "lat": 12.9570313,
+      "lng": 77.5027401,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdbmbJhUVrjsRSD0_t21GUwo",
+      "name": "SUPERGAS Auto LPG Station",
+      "address": "Site No-1,2& 3, 24th Main Road, JP Nagar 6th Phase, Bengaluru",
+      "lat": 12.901359,
+      "lng": 77.585672,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ29IXwZYVrjsRNwZ47ylafp4",
+      "name": "Bharat Petroleum Corporation ltd",
+      "address": "Southend Circle, Jayanagar, Bengaluru",
+      "lat": 12.9365547,
+      "lng": 77.5805109,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQULpUesVrjsRM6CUe5BNwG4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "45, Vanivilas Road, Basavanagudi, Bengaluru",
+      "lat": 12.9480351,
+      "lng": 77.5733845,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJK43lk5QVrjsRMkYnPCA_KS0",
+      "name": "IndianOil",
+      "address": "Ground floor, Rashtriya Vidyalaya Road, Basavanagudi, Bengaluru",
+      "lat": 12.941932,
+      "lng": 77.580376,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWxyv6RAVrjsRuW91BqR2kW4",
+      "name": "IndianOil",
+      "address": "Outer Ring Road, Sarakki Industrial Layout, Phase 2, J. P. Nagar, Bengaluru",
+      "lat": 12.9069855,
+      "lng": 77.59449099999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJW0rxz-M9rjsRceAZ6nyZPjU",
+      "name": "IndianOil",
+      "address": "Sy No, Gowripalya, 369 & 370, Sri Krishnadevaraya Road, Telecom Layout, Bengaluru",
+      "lat": 12.9674207,
+      "lng": 77.5462556,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJG0yR0L8VrjsRwx3OMQkH1_U",
+      "name": "Sipani Total Gaz",
+      "address": "10, T Mariappa Road, Jaya Nagar 1st Block, Jaya Nagar East, Jayanagar, Bengaluru",
+      "lat": 12.9420477,
+      "lng": 77.5854052,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJe5bQlwU-rjsRjAIi6WyW6us",
+      "name": "Shell",
+      "address": "Mysore Road, Kengeri Hobli, Bengaluru",
+      "lat": 12.906804,
+      "lng": 77.473185,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ5Ce13FArjsRV8TqizGg8mM",
+      "name": "Shell",
+      "address": "Kanakapura Main Road, Uttarahalli Hobli, Bengaluru",
+      "lat": 12.862863,
+      "lng": 77.53117999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQd0zn_n6rTsRq71ISs0oNEY",
+      "name": "Santosh Filling Station",
+      "address": "Survey No 36, Vokkaleri, NH 4, Hobli, Medihala, Maderahalli",
+      "lat": 12.9019885,
+      "lng": 77.52698819999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJj6pJdRs_rjsRtzztB0WY-n8",
+      "name": "Padmalaya Fuels",
+      "address": "#209, behind Water tank, near, Dr.Vishnuvardhan Road, Poorna Prajna Layout, Katte, Bengaluru",
+      "lat": 12.9048964,
+      "lng": 77.5289863,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJk7n1t0k_rjsRuNgNURDbciE",
+      "name": "Sri Ragavendra Medical",
+      "address": "39, Channasandra Main Rd, 2nd Main Road, Channasandra, Rajarajeshwari Nagar, Channsandra",
+      "lat": 12.9030721,
+      "lng": 77.51672180000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJx6ddcSk_rjsR9e95bQqz5Yw",
+      "name": "Bharath Petroleum, Sri Nageshwar petrol station",
+      "address": "VGVC+2FQ, Karnpalya Village, Bengaluru",
+      "lat": 12.892548,
+      "lng": 77.5215168,
+      "open_now": false
+    },
+    {
+      "place_id": "ChIJS-jMslM_rjsR95Q1AI9WqaQ",
+      "name": "Kariyanna palya",
+      "address": "VGRC+W9Q, Karnpalya Village, Bengaluru",
+      "lat": 12.8923372,
+      "lng": 77.5209974,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJIWgUtHw_rjsRvv9hy5cpJ1w",
+      "name": "USK Auto Gas",
+      "address": "WG47+C2Q, Hemmigepura Ward 198, Rajarajeshwari Nagar, Bengaluru",
+      "lat": 12.9060846,
+      "lng": 77.5125978,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZxQhRQA_rjsR6Pc0IIL3FDw",
+      "name": "cpil 237",
+      "address": "WG56+MX9, Rajarajeshwari Nagar, Bengaluru",
+      "lat": 12.9090347,
+      "lng": 77.5124931,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJW_YIwLY_rjsRT2PB1iImFSo",
+      "name": "Anand Enterprises",
+      "address": "3, 3Rd Cross Srinivasa Colony, Arehalli, AGS Layout, Bengaluru",
+      "lat": 12.9120452,
+      "lng": 77.5346606,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJIb5ROmM_rjsRE6BV4iHv5zE",
+      "name": "IndianOil",
+      "address": "Sy No 247, opposite Meenakshi Public School, 769/16, Kenchena Halli Road, Rajarajeshwari Nagar, Bengaluru",
+      "lat": 12.9124212,
+      "lng": 77.5137977,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL_aYJCg_rjsRPkhZC6p1OZg",
+      "name": "IndianOil",
+      "address": "Survey No 22/4B Uttrahalli, Hobli, Arehalli, Arch, Bengaluru",
+      "lat": 12.9087784,
+      "lng": 77.5386857,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJM1kDKbA_rjsRUan7TZ8D0Wg",
+      "name": "Essay Petroleum",
+      "address": "1391, 43rd Main Road, Arehalli, Kodipur, Bengaluru",
+      "lat": 12.9090517,
+      "lng": 77.5388304,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJpxPlHg8_rjsRWkF2pV7Igcc",
+      "name": "Shell Petrol Pump",
+      "address": "Uttarahalli Main Road, Bengaluru",
+      "lat": 12.903916,
+      "lng": 77.508434,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMz1tJgA_rjsRY34tWwtZoaU",
+      "name": "Panchamukhi Fuel Station",
+      "address": "317, 80 Feet Road, VBHCS, 5th Stage, Rajarajeshwari Nagar, Bengaluru",
+      "lat": 12.9151111,
+      "lng": 77.5158333,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwa_kgJkUrjsRzRYAfG7YFFM",
+      "name": "IndianOil",
+      "address": "No Ca/11, A19, Th Main Road, Sector 2, HSR Layout, Bengaluru",
+      "lat": 12.90729,
+      "lng": 77.644684,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIxwztq4VrjsRPRcUCnyZQb4",
+      "name": "IndianOil",
+      "address": "No 43/1, Bannerghatta Road, Jayanagar, Bengaluru",
+      "lat": 12.928605,
+      "lng": 77.600731,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqZyY1sgUrjsRd0_mGFZv5KQ",
+      "name": "IndianOil",
+      "address": "4, 6th Main Road, BTM 2nd Stage, Bengaluru",
+      "lat": 12.9163592,
+      "lng": 77.605283,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm08CaQcVrjsRGmWcggq8ZRg",
+      "name": "Total Energies",
+      "address": "Bannerghatta Road, New Gurappana Palya, 1st Stage, BTM 1st Stage, Bengaluru",
+      "lat": 12.9213569,
+      "lng": 77.6004246,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJq3NPE1YUrjsRRc7yY3L8wFc",
+      "name": "SUPERGAS Auto LPG Station - Sapthagiri Enterprises",
+      "address": "2/26, BEML Main Road, Maruthi Nagar, Madiwala, Bengaluru",
+      "lat": 12.924324,
+      "lng": 77.614532,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGYhjFVEUrjsRErckHueGuFo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, next to St Johns Hospital, Hosur Road, Koramangala, Bengaluru",
+      "lat": 12.9300655,
+      "lng": 77.6150254,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNc-4cFIUrjsR7kndzWu8emM",
+      "name": "IndianOil",
+      "address": "New Mental, Hosur Main Road, beside Bigbazar, Hospital Road, Bengaluru",
+      "lat": 12.933548,
+      "lng": 77.61142009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPaf9zL8UrjsRx2CA0u4t_pM",
+      "name": "Shell",
+      "address": "near Shell Petrol Pump, 137 20th Main, Hosur Road, Bommanahalli, Bengaluru",
+      "lat": 12.9005571,
+      "lng": 77.6335166,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1-MIrcZqrjsRzFby7mDaDRA",
+      "name": "IndianOil",
+      "address": "opposite Lakshmi Theatre, 23/1, Gottigere - Kengeri Road, Kalena Agrahara, Bengaluru",
+      "lat": 12.8601744,
+      "lng": 77.5899585,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL4JG6ccVrjsRYyIKr0k7jv4",
+      "name": "Bharat Petroleum Corporation ltd",
+      "address": "opposite 10th Cross Road, 53, Hosur Main Road, Arekempanahalli, Wilson Garden, Bengaluru",
+      "lat": 12.9457943,
+      "lng": 77.5952751,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJK_ylv8cVrjsRMov1DipUcWo",
+      "name": "Aegis Autogas",
+      "address": "Reliance TimeOut Corner, Wilson Garden, Hosur Main Road, Arekempanahalli, Hombegowda Nagar, Bengaluru",
+      "lat": 12.9461189,
+      "lng": 77.5949792,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJP0sKWY4UrjsRELVEEJYOlW4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "opposite JSS Public School, CA Site No 1, 14th Main Road, Sector 4, HSR Layout, Bengaluru",
+      "lat": 12.9152997,
+      "lng": 77.6383182,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXz0ZZ10UrjsReFsHgg7RaAA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 7456, 4th Block, Koramangala, Bengaluru",
+      "lat": 12.9336115,
+      "lng": 77.63037949999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeZ1kGMQVrjsR6y3GbpW6TP4",
+      "name": "Shell",
+      "address": "Hosur Road, Mavalli, Bengaluru",
+      "lat": 12.9496054,
+      "lng": 77.5928571,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNV9Qw2MUrjsRPamWXVRqje4",
+      "name": "Nayara Petrol Pump",
+      "address": "1st Main Road, Koramangala, Bengaluru",
+      "lat": 12.9280599,
+      "lng": 77.6372119,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgWmu8UMUrjsRy9zWhe4PTuU",
+      "name": "IndianOil",
+      "address": "6, 80 Feet Road, Koramangala, Bengaluru",
+      "lat": 12.9454928,
+      "lng": 77.6184968,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl9gekMMVrjsR5swhlPHpHQg",
+      "name": "IndianOil",
+      "address": "No 2, Dr MH, Marigowda Road, Sudhama Nagar, Bengaluru",
+      "lat": 12.9521491,
+      "lng": 77.5892154,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJr7nwVIYUrjsRIO5kkegWuMM",
+      "name": "IndianOil",
+      "address": "Survey No 38, Ring Road, Sector 4, HSR Layout, Bengaluru",
+      "lat": 12.9210236,
+      "lng": 77.6448992,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuSCRwk1rrjsRMit8cJkex6w",
+      "name": "IndianOil",
+      "address": "Sy No 65, next to Manipal County Road, Singasandra, Bengaluru",
+      "lat": 12.8741093,
+      "lng": 77.6411957,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJh7f9zL8UrjsR4bORFlPBtHI",
+      "name": "IndianOil",
+      "address": "13/1, Hosur Road, Singasandra, Bengaluru",
+      "lat": 12.8812099,
+      "lng": 77.64530169999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMbnzA0gUrjsRag6SrLXkRCY",
+      "name": "IndianOil",
+      "address": "61, 80 Feet Road, Koramangala, Bengaluru",
+      "lat": 12.9496397,
+      "lng": 77.6209284,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWTaEpt0VrjsRENUxu2byMSE",
+      "name": "Gogas Auto LPG",
+      "address": "5, Lal Bagh Main Road, Vinobha Nagar, Sudhama Nagar, Bengaluru",
+      "lat": 12.9586423,
+      "lng": 77.5868661,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJc9Hsd_JqrjsR5J6xbX6N-8c",
+      "name": "Bharat Petroleum Corporation ltd",
+      "address": "No 17, near Kolifarm Gate, 1A1, Bannerghatta Road, Basavanapura, Bengaluru",
+      "lat": 12.8426982,
+      "lng": 77.5884688,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJw-oNKn4UrjsRB7KutfyqOIg",
+      "name": "IndianOil",
+      "address": "Khata No 267, No 97, 6/1, Sarjapur Road, Agara Village, Bengaluru",
+      "lat": 12.9247825,
+      "lng": 77.65069319999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ44s6Cd4VrjsRP1mBJiI7Ro4",
+      "name": "TotalGaz LPG Station",
+      "address": "9th Floor, G9, 1st Cross Road, Sampangi Rama Nagara, Sampangi Rama Nagar, Bengaluru",
+      "lat": 12.9615297,
+      "lng": 77.5856386,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJb1hsjl4TrjsRrMoKvgpnQT0",
+      "name": "IndianOil",
+      "address": "Site No 3839 & 40, RRR Group, Haralur",
+      "lat": 12.8990184,
+      "lng": 77.6584068,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsxM8vgkWrjsRz5F_o-Kaie8",
+      "name": "MAHENDRA ASSOCIATES",
+      "address": "54, Sadar Patrappa Road, Bengaluru",
+      "lat": 12.9648033,
+      "lng": 77.58095639999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOSjGmh9rrjsR65H79G5Anvk",
+      "name": "IndianOil",
+      "address": "Sy No 76, 2 & 72/6, Begur Hobli, Mylasandra, Bengaluru",
+      "lat": 12.842356,
+      "lng": 77.618515,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7_yVpv0VrjsRKywZCmCeCAQ",
+      "name": "Bharat Petroleum Corporation ltd",
+      "address": "No.24, opposite CCB Office, 1, Mysore Road, Briand Circle, Bengaluru",
+      "lat": 12.9640549,
+      "lng": 77.57043829999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBQJrlfVqrjsRiTnD11euAWc",
+      "name": "IndianOil",
+      "address": "No 36 & 37, Anekal Bannergatta Road, Bannerughatta, Kalkere",
+      "lat": 12.832959,
+      "lng": 77.589218,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpZ7N3HkWrjsRoHK39_xMVH4",
+      "name": "Shell",
+      "address": "next to UB City, 24, Vittal Mallya Road, Bengaluru",
+      "lat": 12.971323,
+      "lng": 77.59702999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJb-eKI3ATrjsRW3lacy-te3o",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Sy No 23, Haralur Main Road, Ambalipura, Sarjapura, Bengaluru",
+      "lat": 12.914749,
+      "lng": 77.666963,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ58Ll2f0UrjsRwF8fdK3QMLQ",
+      "name": "Bharat Petroleum Corporation ltd",
+      "address": "next to Madiwala, No 58, Hosur Road, Madiwala, Police Station, Bengaluru",
+      "lat": 12.92081,
+      "lng": 77.62083,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4T3nGBAVrjsRAPFWivOz14Q",
+      "name": "IndianOil",
+      "address": "No 52/A, 9th Cross Road, 2nd Phase, J. P. Nagar, Bengaluru",
+      "lat": 12.9103864,
+      "lng": 77.5948524,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeVq-lEATrjsRrE6lRyUNM_A",
+      "name": "Shell",
+      "address": "Hosa Rd, Hobli, Srvyno25/1, Varthur",
+      "lat": 12.899336,
+      "lng": 77.675489,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJc9iyb7RsrjsRV2RKK0b2Vv4",
+      "name": "IndianOil",
+      "address": "Ground Floor, Junction, Naganathapura, Rayasandra, Bengaluru",
+      "lat": 12.8761804,
+      "lng": 77.67152200000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJt6I3BLMTrjsRfLrebdMRqKY",
+      "name": "IndianOil",
+      "address": "Survey No, 27 Varthur, Hobli, Kadubeesanahalli, Bengaluru",
+      "lat": 12.9411827,
+      "lng": 77.6957042,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ10kdtY8TrjsRFfVAorPnzoY",
+      "name": "Shell",
+      "address": "Sarjapur - Marathahalli Road, Hobli, Varthur",
+      "lat": 12.895359,
+      "lng": 77.722931,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC7xnbTMSrjsRZqVWEETjCwQ",
+      "name": "IndianOil",
+      "address": "Sy No 11/5, Hobli, Chikkabellandur, Varthur",
+      "lat": 12.9555501,
+      "lng": 77.6911326,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJyXjSvwUUrjsRv9Z69mV_s40",
+      "name": "IndianOil",
+      "address": "HAL Old Airport Road, Kodihalli, Bengaluru",
+      "lat": 12.960028,
+      "lng": 77.645752,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_VNWm_8TrjsRo1Qlt70FAFs",
+      "name": "IndianOil",
+      "address": "Ground Floor, HAL 3rd Stage, Jeevan Bima Nagar, Bengaluru",
+      "lat": 12.9673414,
+      "lng": 77.65438530000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9bIlOlURrjsRLqZB8ugsQS8",
+      "name": "Bharat Petroleum Corporation ltd",
+      "address": "next to Sri Ganesha Temple, 32, New Thippasandra Main Road, Annayappa Colony, New Tippasandra, Bengaluru",
+      "lat": 12.9718794,
+      "lng": 77.65444,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJE9QwXMATrjsRtm-xFqd5z5Y",
+      "name": "Shell Select",
+      "address": "Unnamed Road, Owners Court Layout, Eastwood Township, Junnasandra",
+      "lat": 12.8993544,
+      "lng": 77.6750277,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3wjkBZATrjsRSGlsbizEc-c",
+      "name": "Shell Fuel Station",
+      "address": "Plot No.6, Sy No.27/2, Haralur Road, Ambalipura Village, Varthur, Hobli, Bengaluru",
+      "lat": 12.9128775,
+      "lng": 77.6654308,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_451IMETrjsR7BWiKD19qiU",
+      "name": "Parama - Essar & Aegis Petrol Bunk",
+      "address": "VMR4+R8Q, opp. Lake, Haralur, Haralur Main Road, Bengaluru",
+      "lat": 12.892081,
+      "lng": 77.6558723,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJiZ4ugrcTrjsRBbKxPMlQDvI",
+      "name": "RAJARAJESWARI EMISSION TESTING CENTRE",
+      "address": "HP Petrol Pump, Haralur Main Road, Bengaluru",
+      "lat": 12.9146142,
+      "lng": 77.6668254,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJWTsi1XMVrjsRXoNAGGhrGq4",
+      "name": "IndianOil",
+      "address": "Sy No 58, 4 Hobli, Kudlu Road, Hosapalaya, Sarjapura, Bengaluru",
+      "lat": 12.8933987,
+      "lng": 77.6507917,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJW9na1QQTrjsRv5izZEWbp0c",
+      "name": "Bharat Petroleum Corporation Ltd",
+      "address": "Survey No 45, 1, Sarjapur - Marathahalli Road, Kaikondrahalli, Bengaluru",
+      "lat": 12.9149276,
+      "lng": 77.6754833,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJSzOHAAVrjsRqzZCVm5TwJ0",
+      "name": "LPG AUTO GAS (Indian petrol)",
+      "address": "WJ4W+W42, 25th A Cross Road, Garden Layout, Sector 2, HSR Layout, Bengaluru",
+      "lat": 12.9072747,
+      "lng": 77.64526760000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJxd2WgvoTrjsR7Puz6gP1zcg",
+      "name": "Kunal industries",
+      "address": "VMMF+MP5, Meenakshi Layout, Bengaluru",
+      "lat": 12.8841469,
+      "lng": 77.6743712,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJL7yQu5IVrjsR6dGia89EzR8",
+      "name": "A1 Stop",
+      "address": "382, 9th Main Hongasandra GB Palya Road, AECS Layout, Bengaluru",
+      "lat": 12.8856339,
+      "lng": 77.65232139999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZQjM0L8TrjsR_ni_cXxbBb4",
+      "name": "Shell Wipro Gate",
+      "address": "Ambalipura - Sarjapur Rd, Hobli, Varthur",
+      "lat": 12.9111052,
+      "lng": 77.6831261,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoRZ_sxkVrjsRV9rUGC_o1XI",
+      "name": "Shell Petrol Pump HSR Layout",
+      "address": "29a, 23rd Cross Road, HSR Layout, Bengaluru",
+      "lat": 12.909029,
+      "lng": 77.644367,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJze5D3IwUrjsRK6VegOfqlsg",
+      "name": "Bharat Petroleum Corporation ltd",
+      "address": "CA Site 29/A 27th Main Road, 80, Feet Road, Bengaluru",
+      "lat": 12.9198926,
+      "lng": 77.65143189999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM7ZxwVgVrjsRKDFssWlISdE",
+      "name": "Emission Test",
+      "address": "WM92+XH6, 1st Sector, HSR Layout, Bengaluru",
+      "lat": 12.919901,
+      "lng": 77.6513786,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJmYcPsBQTrjsR8bTcynzfMo8",
+      "name": "IndianOil",
+      "address": "Survey No 81/2, opposite NTR College, Bda, Outer Ring Road, Bellandur, Doddabanahalli",
+      "lat": 12.9234712,
+      "lng": 77.6698976,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYxaa0XUTrjsRoYx61OVfz34",
+      "name": "Shell",
+      "address": "80/2, Outer Ring Road, 80/2, Bengaluru",
+      "lat": 12.923162,
+      "lng": 77.67138,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJyWnMznUTrjsRyBPOmkGRrpg",
+      "name": "Propel Auto LPG Gas Station",
+      "address": "80, near Citrus Hotel, 3, Outer Ring Road, Bellandur, Bengaluru",
+      "lat": 12.9233972,
+      "lng": 77.67188949999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9wejXwAVrjsR7oZFbCYiVkM",
+      "name": "lpg auto gas bunk",
+      "address": "1, Kudlu Main Road, Krishna Reddy Industrial Area, Hosapalaya, Muneshwara Nagar, Bengaluru",
+      "lat": 12.8903348,
+      "lng": 77.6436655,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJR3QKqxATrjsRZm707Ff1wFk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 83/12 Dodkanhalli Sarjapur Road, Varthur, Hobli, Bengaluru",
+      "lat": 12.90967,
+      "lng": 77.68771699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsScIaEATrjsR2_53yYMkBNc",
+      "name": "Jio-bp pulse",
+      "address": "Embassy Pristine Aster, Ibbaluru, Bellandur, Bengaluru",
+      "lat": 12.927016,
+      "lng": 77.66180399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzY4jU6psrjsRSyg5M_hAi-U",
+      "name": "Sri Ram Enterprises",
+      "address": "1, Hosa Road, Bengaluru",
+      "lat": 12.8764396,
+      "lng": 77.6564074,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuxof4a9trjsRd-AKxLzKze0",
+      "name": "Nayara Petrol Pump",
+      "address": "Rayasandra Main Road, Choodasandra, Bengaluru",
+      "lat": 12.8764892,
+      "lng": 77.6742093,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwRoQxNsVrjsR4zWH9RfEAN8",
+      "name": "GAIL Gas CNG Station",
+      "address": "Sterling Infinia Block-1, STERLING INFINIA, Sarjapur - Marathahalli Road, Agara Village, Jakkasandra Extension, HSR Layout, Bengaluru",
+      "lat": 12.9247851,
+      "lng": 77.65049379999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJY0S4ahoVrjsRj4FKKuhJIVs",
+      "name": "IndianOil",
+      "address": "Survey No 82/2, Singasandra, Bengaluru",
+      "lat": 12.8854131,
+      "lng": 77.6418443,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ186IYAAVrjsR3jUtAG6q1o0",
+      "name": "FASTAG Activation Point",
+      "address": "C/O SOWBHAGYA &CO,IOC PETROL PUMP,OPP TO NANDAS HOTEL-38,19 TH MAIN, Outer Ring Road, Agara Village, 1st Sector, HSR Layout, Bengaluru",
+      "lat": 12.9212873,
+      "lng": 77.6447554,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZSpwpqgTrjsR6bcO5a5Fw7g",
+      "name": "Essar aegis petrol Station",
+      "address": "Bellanduru Junction City Light Apartment, Bellandur, Bengaluru",
+      "lat": 12.9265727,
+      "lng": 77.6771224,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ2-p-QBkTrjsRHaBlWXMNtdw",
+      "name": "IndianOil",
+      "address": "near Wipro Office, 20, Sarjapur Main Road, Carmelaram, Doddakannelli, Bengaluru",
+      "lat": 12.908346,
+      "lng": 77.692337,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJW4tDPkEVrjsR9psowcBuaMA",
+      "name": "Shell petrol pump",
+      "address": "49 Hosur Road Begurhobli, Situated at, Singasandra, Bengaluru",
+      "lat": 12.883492,
+      "lng": 77.642851,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtXbdvNwVrjsR5VrO1se1sIU",
+      "name": "Goutam Mahakur Fuels",
+      "address": "82, 2nd Cross Road, Bommanahalli, Bengaluru",
+      "lat": 12.8985033,
+      "lng": 77.63603069999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ4YVgnlQVrjsRVAy_9WrgI3E",
+      "name": "Mataji gas ajency",
+      "address": "Muniyappa Complex Old, 27th Cross Road, 7th Sector, HSR Layout, Bengaluru",
+      "lat": 12.9071363,
+      "lng": 77.6353199,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlY_u1pUVrjsR2ZEsOmEoCWo",
+      "name": "Kanthraj G R Service",
+      "address": "68, Manganpalya, Main Road, Manganpalya, Bengaluru",
+      "lat": 12.9000168,
+      "lng": 77.6345772,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ7XRcSwAVrjsRBCO7yNaGk7Y",
+      "name": "GAIL CNG PUMP",
+      "address": "267, Mico Layout, Garvebhavi Palya, Bengaluru",
+      "lat": 12.8965042,
+      "lng": 77.6349718,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJDemoQe89rjsRevDoAekb7Lg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 78/1, opposite Veeresh Theatre, Magadi Main Road, Bengaluru",
+      "lat": 12.9772832,
+      "lng": 77.5464879,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-R5R65M9rjsRCulPensZcxY",
+      "name": "Indian Oil Petrol Bunk",
+      "address": "7th Main Road, Saneguruvanahalli, Basaveshwar Nagar, Bengaluru",
+      "lat": 12.9917664,
+      "lng": 77.5458601,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJc2zhb-U9rjsRL3RomtGd2FA",
+      "name": "IndianOil",
+      "address": "No 93 WC Road, Junction, Magadi Main Road, Bengaluru",
+      "lat": 12.9755324,
+      "lng": 77.5483163,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJH9EiPcI9rjsRI3tzL6BSBpo",
+      "name": "IndianOil",
+      "address": "Plot No 8, Magadi Main Road, Gandhi Layout, Agrahara Dasarahalli, Bengaluru",
+      "lat": 12.9806252,
+      "lng": 77.5376197,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBRGQa8QQrjsR16GIvG6C9Hw",
+      "name": "Bharat Petroleum Corporation ltd",
+      "address": "93 5th Cross, near Central School, Dr, Doctor Rajkumar Road, SSI Industrial Area, Bengaluru",
+      "lat": 12.9805953,
+      "lng": 77.5571782,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMwOwz1o8rjsRvv1RT9a5UmA",
+      "name": "IndianOil",
+      "address": "No 16/12 Yeshwanthpura, Hobli, Hegganahalli, Bengaluru",
+      "lat": 12.9967501,
+      "lng": 77.5020146,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrWcm6sk9rjsRXax9ngwJj4g",
+      "name": "IndianOil",
+      "address": "Sy No 50, Magadi Main Road, Kamakshipalya, Bengaluru",
+      "lat": 12.985241,
+      "lng": 77.523315,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6TQlB8o9rjsRajL5y_aOF5o",
+      "name": "Bharat Petroleum Corporation ltd",
+      "address": "No.50, Sy, No 17, Magadi Main Road, Kamakshipalya, Bengaluru",
+      "lat": 12.9861826,
+      "lng": 77.52152749999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhxeueus9rjsRrZgWRehZCs4",
+      "name": "IndianOil",
+      "address": "Havanur Complex, No 99, 3rd State, 2nd Block, Main Road Chord Rd, Circle, Basaveshwar Nagar, Bengaluru",
+      "lat": 12.9877797,
+      "lng": 77.5372659,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQZ49eLE9rjsREDa1ekuZH8Q",
+      "name": "IndianOil",
+      "address": "Sy No 48 & 49 Laggere, Hobli, Sumanahalli Flyover, Yeshwanthpur, Bengaluru",
+      "lat": 12.9946226,
+      "lng": 77.52262929999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_7yYhOw9rjsRtrybphYFn8k",
+      "name": "SUPERGAS Auto LPG station - PP Auto SUPERGAS",
+      "address": "84, Chord Road, 3 Stage, 2nd Block, 3rd Stage, Basaveshwar Nagar, Bengaluru",
+      "lat": 12.9852491,
+      "lng": 77.5450893,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-Ug8qvE9rjsRmG7nP01mbnw",
+      "name": "IndianOil",
+      "address": "10, 3rd Cross, Doctor Rajkumar Road, S.S.I.Area, 6th Block, Rajajinagar, Bengaluru",
+      "lat": 12.981062,
+      "lng": 77.55828009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYyxF0Ww8rjsRK0AQ1jfG8Go",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Magadi Main Road, Bengaluru",
+      "lat": 12.9848911,
+      "lng": 77.4849502,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNXBKZ_k8rjsRF8w1iHYugR4",
+      "name": "HP Petrol Bunk",
+      "address": "Bus Stop, Rd, 2nd Stage, Peenya Industrial Area Phase IV, Peenya, Bengaluru",
+      "lat": 13.0135373,
+      "lng": 77.5088239,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJw-rUwXI8rjsRN9irINTu608",
+      "name": "Shell",
+      "address": "Magadi Main Road, Bengaluru",
+      "lat": 12.98565,
+      "lng": 77.48004999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJv9EWceQ8rjsRQIK9efAHo9w",
+      "name": "IndianOil",
+      "address": "Plot No 460B, 4th Phase, Peenya, Nelagadaranahalli",
+      "lat": 13.023345,
+      "lng": 77.51020330000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJo5RIF3M8rjsRMgoL4K0XzP4",
+      "name": "Balaji Petro Services ( Nayara Energy ltd. )",
+      "address": "Survery No 76, Kempegowdanagar, Byadarahalli, Bengaluru",
+      "lat": 12.9858507,
+      "lng": 77.4779866,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs_6bDnM8rjsRKOtesUBQLeI",
+      "name": "IndianOil",
+      "address": "11/4A, Magadi Main Road, Gollarapalya, Hosahalli, Bengaluru",
+      "lat": 12.986421,
+      "lng": 77.47758499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJu0CYXMP_wDsRW0CpCS1QwoU",
+      "name": "SUPERGAS Auto LPG Station - Vijayshree Auto Gas",
+      "address": "473-474, Thimmaiah Road, 3 Stage, 2nd Block, Mahaganapathi Nagar, Rajajinagar, Bengaluru",
+      "lat": 13.0177881,
+      "lng": 77.54254139999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsasu5iIWrjsRfBw0Fp_v8kw",
+      "name": "IndianOil",
+      "address": "Sirur Park Road, Seshadripuram, Bengaluru",
+      "lat": 12.990829,
+      "lng": 77.571579,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHRc-Tw09rjsRBkzsQVA-G6M",
+      "name": "IndianOil",
+      "address": "Devaraja Truck Terminal, Site No P2, Kanteerava Studio Road, Road, Yeswanthpur, Bengaluru",
+      "lat": 13.0201825,
+      "lng": 77.5382925,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgcPo8Hg9rjsRQrW91HQ3KPU",
+      "name": "Shell",
+      "address": "Doctor Rajkumar Road, Rajajinagar, Bengaluru",
+      "lat": 13.01243,
+      "lng": 77.55381,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM7E6pSIWrjsRdC2tFGBqCXY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "136, Subedar Chatram Road, Seshadripuram, Bengaluru",
+      "lat": 12.9896829,
+      "lng": 77.57260649999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJt7w25Xo9rjsRmrtoM8cMaI4",
+      "name": "DARS AUTO LPG, Yeshwanthpur",
+      "address": "Bus Stop, Nelamangala - Majestic Service Road, Yeshwanthpur Industrial Suburb, Yeswanthpur, Bengaluru",
+      "lat": 13.0195701,
+      "lng": 77.5527383,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJa9_Sxno9rjsRlQchsh_jALI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near Govardhan Theater, Tumkur Road, Yeswanthpur, Bengaluru",
+      "lat": 13.020632,
+      "lng": 77.552097,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuU_OAXY8rjsRpVe_MScJPcs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Sy No 21 Magadi Main Road, Golharhatti, Hosahalli, Bengaluru",
+      "lat": 12.9896349,
+      "lng": 77.4702506,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQ165Gmw9rjsRL3nrfcOkiwQ",
+      "name": "IOC - Namrata Agency",
+      "address": "Nelamangala - Majestic Service Road, Yeshwanthpur Industrial Area, Yeshwanthpur Industrial Suburb, Yeswanthpur, Bengaluru",
+      "lat": 13.0260475,
+      "lng": 77.5442989,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8xko_W49rjsR7TKZxdwH2aQ",
+      "name": "Shell",
+      "address": "62339, Shell Petrol Pump 099009, 36, Tumkur Road, Yeshwanthpur Industrial Area, Phase 1, Yeswanthpur, Bengaluru",
+      "lat": 13.024924,
+      "lng": 77.54742999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJV9GcWDkWrjsRgRNxbJvMTEs",
+      "name": "Total Gas",
+      "address": "1st Main, DN Ramaiah Layout, 135, Seshadripuram Main Road, Seshadripuram, Bengaluru",
+      "lat": 12.9951274,
+      "lng": 77.5791017,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJd3jSpj09rjsRrah_ZzzVF3I",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Bengaluru Tumkur Rd, NH 4, CA Site, Bda Indl, Peenya, Bengaluru",
+      "lat": 13.0335884,
+      "lng": 77.5309427,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0Y9u9XoWrjsRB0_j1PSoQl8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "6, Kasturba Road, Bengaluru",
+      "lat": 12.975903,
+      "lng": 77.5978703,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVVqFEG8WrjsR_MNU-VrDwXI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "5, Raj Bhavan Road, Bengaluru",
+      "lat": 12.982293,
+      "lng": 77.59411589999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJufOPnvYWrjsRm7aYn4c_UiU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 87, Coles Road, Frazer Town, Bengaluru",
+      "lat": 12.9965,
+      "lng": 77.61183,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ293jKOUWrjsRYAsaAegfpHI",
+      "name": "IndianOil",
+      "address": "Sagaya Madha Church Compound, Clarke Road, Sagayapura, Lingarajapuram, Bengaluru",
+      "lat": 13.004795,
+      "lng": 77.6196803,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJYeJ-pv4WrjsRvWJCeydI8Q4",
+      "name": "IndianOil",
+      "address": "Ground Floor, behind Mediscan Home, Tannery Road, Bengaluru",
+      "lat": 13.0113577,
+      "lng": 77.6159727,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAQw_vcIWrjsRm9Rq-aDR650",
+      "name": "Bharat Petroleum Corporation ltd",
+      "address": "No 33, 33, near Orion East Mall, 6 & 33/7, Dodda Banaswadi Main Road, Bengaluru",
+      "lat": 13.001598,
+      "lng": 77.6315347,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJK1twJcgXrjsRO65H1cOzN-g",
+      "name": "Shell",
+      "address": "9, Bellary Road, Bengaluru",
+      "lat": 13.021147,
+      "lng": 77.58429,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-_T6F68XrjsR81ZLZVDoyV8",
+      "name": "IndianOil",
+      "address": "1, Adi Kabir Ashram Main Road, Narayanappa Garden, RT Nagar, Bengaluru",
+      "lat": 13.022407,
+      "lng": 77.6005194,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP_4WhgcXrjsRiwu38wQY5e4",
+      "name": "IndianOil",
+      "address": "9 1, LR Bande Road, Bengaluru",
+      "lat": 13.0221876,
+      "lng": 77.6080673,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJc3Qfu8IWrjsRCm-HEISJ3Ok",
+      "name": "IndianOil",
+      "address": "No 1, 1, Hennur Main Road, Kachamaranahalli, Lingarajapuram, Bengaluru",
+      "lat": 13.014785,
+      "lng": 77.628494,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJh4dAc7gXrjsRoPgfh78MZuw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "26, Bellary Road, Bengaluru",
+      "lat": 13.0247579,
+      "lng": 77.5852836,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpdOvzR8XrjsRNfOQ1Fxuxc4",
+      "name": "Aegis Essar Petrol Bunk",
+      "address": "1252, Hennur Main Road, RK Hegde Nagar, Stage 1, Kadugondanahalli, Bengaluru",
+      "lat": 13.0148192,
+      "lng": 77.6277858,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJYbrvRyYRrjsRkm6fSIwGHOg",
+      "name": "IndianOil",
+      "address": "Dodda Banaswadi Main Road, Ramamurthy Nagar, Bengaluru",
+      "lat": 13.0076151,
+      "lng": 77.64127069999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJybHtFw8XrjsRdGYAbrQ6jJo",
+      "name": "IndianOil",
+      "address": "6, Shampura Main Road, Kadugondanahalli, Bengaluru",
+      "lat": 13.0266729,
+      "lng": 77.6149318,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJofoZyikRrjsRhGFCcYj-_UM",
+      "name": "IndianOil",
+      "address": "6, Outer Ring Road, Gajendra Nagar, Banaswadi, Bengaluru",
+      "lat": 13.0148278,
+      "lng": 77.66194809999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ8TpeVIRrjsRgWb_ySClIBA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, DRDO Township, C V Raman Nagar, Bengaluru",
+      "lat": 12.9812119,
+      "lng": 77.6571268,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJD9Wd9kkRrjsRqKYKAGNufLg",
+      "name": "Shell",
+      "address": "Old Madras Road, K R Puram Hobli, Bengaluru",
+      "lat": 12.991871,
+      "lng": 77.65959,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJne_Jo3ERrjsRvOUu2wc2u6Y",
+      "name": "IndianOil",
+      "address": "No 525, 6, Mahadevpura Flyover, Mahadevapura, Bengaluru",
+      "lat": 12.9870392,
+      "lng": 77.6904926,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ673vlg0RrjsRq76_IHYZ2uI",
+      "name": "Shell",
+      "address": "ITPL Main Road, Main Road, Whitefield, Bengaluru",
+      "lat": 12.998097,
+      "lng": 77.68916999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGzFV4hsRrjsR4oY7TplfUWA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 16 & 17, Ramamurthi Nagar Main Road, ITI Colony, Bengaluru",
+      "lat": 13.0102856,
+      "lng": 77.6820006,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ79E5IIURrjsRZG8ZnqPwnJU",
+      "name": "Shell",
+      "address": "Graphite India Main Road, ITPL Main Road, Vill, Hoodi, Bengaluru",
+      "lat": 12.982598,
+      "lng": 77.70814,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkdIVRK8YrjsRV7IhmVLjmls",
+      "name": "Bharat Petroleum Corporation ltd",
+      "address": "Survey No 116 Singanayakanahalli, Avalahalli, Bengaluru",
+      "lat": 13.0138958,
+      "lng": 77.64169489999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJF9pnCpcRrjsR7MVY69m4YbE",
+      "name": "SUPERGAS Auto LPG Station - Red August Liquefied",
+      "address": "H.no. 8/1, K.R.Puram Hoble Mahadevpura, Whitefield Main Road, Hoodi, Bengaluru",
+      "lat": 12.9925082,
+      "lng": 77.71251149999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvTCV7yMSrjsRhemEkX2KnF0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near Brooke Fields, 123/2, ITPL Main Road, Kundalahalli, Bengaluru",
+      "lat": 12.966731,
+      "lng": 77.717705,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJk1ck7JQRrjsRZqldy4jD2zU",
+      "name": "Bharat Petroleum Corporation ltd",
+      "address": "opposite Zuri Hotel, No 230/1, Srinidhi Industrial Complex Survey No 11647, opposite Zuri Hotel, Whitefield Main Road, Hoodi, Bengaluru",
+      "lat": 12.9913119,
+      "lng": 77.72179899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzVbrlq0RrjsRrdC2C8b6LL4",
+      "name": "Nayara Energy Fuel Station",
+      "address": "2P76+56M, 37/2, Basavanapura Main Road, adjsent sbi batterly, Basavanapura, Krishnarajapuram, Bengaluru",
+      "lat": 13.0142589,
+      "lng": 77.7097773,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMT7M4VIQrjsRC4lSJ5Otvuk",
+      "name": "IndianOil",
+      "address": "NH 4, Madras Rd, Bhattarahalli, Krishnarajapuram, Bengaluru",
+      "lat": 13.0192651,
+      "lng": 77.70784309999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJZx4Vt8TrjsRFPXvaOAWQw8",
+      "name": "Shell",
+      "address": "93, Ramamurthi Nagar Main Road, Dooravani Nagar, Bengaluru",
+      "lat": 13.0117667,
+      "lng": 77.6726197,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTwMtSjkXrjsR3YIleU1JE5A",
+      "name": "IndianOil",
+      "address": "Ground Floor, 5th Mile Frazer Town, Hennur, HBR Layout, Bengaluru",
+      "lat": 13.0325815,
+      "lng": 77.6368334,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJD7QjFsAQrjsR3eTOF_phBeY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 327, Kalkere Main Road, Kalkere, Bengaluru",
+      "lat": 13.0376988,
+      "lng": 77.6756576,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMWRjPwYUrjsRFzKvmwGOtuE",
+      "name": "Bharat Petroleum Corporation ltd",
+      "address": "Door No, opposite Manipal Hospital, 134, HAL Old Airport Road, Kodihalli, Bengaluru",
+      "lat": 12.9599169,
+      "lng": 77.6495369,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ89ZIzB8XrjsRUGZJvQx3HYw",
+      "name": "Shell",
+      "address": "Hennur Main Road, Kacharakanahalli, Bengaluru",
+      "lat": 13.014719,
+      "lng": 77.62808,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJn1ldbbsWrjsRmEKyJ4K-45A",
+      "name": "IndianOil",
+      "address": "C8, Old Madras Road, Binnamangala, Stage 1, Indiranagar, Bengaluru",
+      "lat": 12.9826973,
+      "lng": 77.6376995,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJn5bWkswTrjsRFu5joyayCSQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "45/2, Varthur Main Road, Marathahalli, Bengaluru",
+      "lat": 12.9564914,
+      "lng": 77.6974987,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJt3B6-QcUrjsRRF-9EzzULSE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "HAL Old Airport Road, Murugeshpalya, Bengaluru",
+      "lat": 12.9592651,
+      "lng": 77.6533762,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqaSHqHcTrjsRuuYBh6kB0RY",
+      "name": "Rajendra Fuel",
+      "address": "P, 17, 9th A Main Road, Sector 12, Jeevan Bima Nagar, Bengaluru",
+      "lat": 12.9679163,
+      "lng": 77.6564322,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJp0afrI4TrjsREtYNV9MziBQ",
+      "name": "Bharat Petroleum Corporation ltd",
+      "address": "Survey No 62, CA Site No P2, Kodihalli, Bengaluru",
+      "lat": 12.9677086,
+      "lng": 77.6559833,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-3uNHwATrjsRCKmJelFC6Io",
+      "name": "Fraud 🤬, don't use this petrol bunk",
+      "address": "Ground Floor, HAL 3rd Stage, DOS Colony, Jeevan Bima Nagar, Bengaluru",
+      "lat": 12.9673873,
+      "lng": 77.6544444,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJH31cpQERrjsRfwsEvtSjoSE",
+      "name": "Greencity Emission Testing Center",
+      "address": "Bayarappa Layout, Suddaguntapalya, C V Raman Nagar, Bengaluru",
+      "lat": 12.9812117,
+      "lng": 77.6570481,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeU9piwoRrjsRMuQnaK1jVs0",
+      "name": "Fastag Activation",
+      "address": "XMJ4+GR2, HP Petrol Pumpa DRDO, Bengaluru",
+      "lat": 12.9812546,
+      "lng": 77.65701100000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8xLzNQMRrjsRyeCUELHIxS0",
+      "name": "GasPlus Auto LPG - Kaggadaspura",
+      "address": "1456, Kondappa Layout, Kaggadasapura, Bengaluru",
+      "lat": 12.977791,
+      "lng": 77.6792206,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWbqO32YRrjsR2imiCgH8wzY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "443/283/A & 445/284/A, Kaggadasapura Main Road, C V Raman Nagar, Bengaluru",
+      "lat": 12.9782153,
+      "lng": 77.67942239999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJURHTpPETrjsRhqUw05bhiuM",
+      "name": "IndianOil Aviation Fuel Station",
+      "address": "XM47+55F, Airport Arrival Road, HAL Airport Area, HAL, Bengaluru",
+      "lat": 12.9554285,
+      "lng": 77.6629114,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWcCM_G0TrjsRBMMB70a51Eo",
+      "name": "Shell",
+      "address": "204, Basavanagar Main Road, Doddanekkundi, Bengaluru",
+      "lat": 12.971211,
+      "lng": 77.68186,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsXPrZnIXrjsR1_buQhKAfD0",
+      "name": "Shell Petrol Station",
+      "address": "New, New Thippasandra Main Road, HAL 3rd Stage, Colony New 515, New Tippasandra, Bengaluru",
+      "lat": 12.9740972,
+      "lng": 77.6470731,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC2HuVAATrjsR8xCvqxFeHwk",
+      "name": "Petrol bunk",
+      "address": "7-705, 7th Main Road, Murugeshpalya, Vinayaka Nagar, Bengaluru",
+      "lat": 12.9536144,
+      "lng": 77.65806429999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ0Tr9bE8RrjsRMUwi5yH4z6w",
+      "name": "Shell",
+      "address": "WARD NO.83, C V Raman Nagar, Bengaluru",
+      "lat": 12.9920235,
+      "lng": 77.65958669999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJc5SupbQ8rjsRGTtPAx8sMro",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 48, Jindal Nagar, Chikkabidarakallu, Bengaluru",
+      "lat": 13.0514894,
+      "lng": 77.48832279999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbeO0vSg9rjsRXBbP-2KROCY",
+      "name": "IndianOil",
+      "address": "No 1, Dasara, Yeshwanthpur Ayyappa, Maheshwaramma Temple Road, Hobli, Prashanth Nagar, Bengaluru",
+      "lat": 13.0438693,
+      "lng": 77.5208686,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_YCEVPsjrjsR3UQhA74oiF0",
+      "name": "IndianOil",
+      "address": "39, Hesarghatta Road, Bagalakunte, Bengaluru",
+      "lat": 13.055399,
+      "lng": 77.50748399999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJF5FoID09rjsRINrV5U55UBQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, opposite Metro Station Peenya Industry, Tumkur Road, Peenya, Bengaluru",
+      "lat": 13.0362233,
+      "lng": 77.5235378,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUTRoptE8rjsRePae54ebBbg",
+      "name": "IndianOil",
+      "address": "Ground Floor, Hesarghatta Road, 8th Mile, T. Dasarahalli, Bengaluru",
+      "lat": 13.0456857,
+      "lng": 77.50751819999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP4yt09E8rjsRtiIwx5MkfEU",
+      "name": "IndianOil",
+      "address": "8th, Mile Stone, Tumkur Road, Nagasandra, Bengaluru",
+      "lat": 13.0454629,
+      "lng": 77.5052278,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJU-J9_SwjrjsRaBJhO24Q8gE",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 73, Khata No 254, Hesarghatta Road, Mallasandra, Yeshwanthpur, Bengaluru",
+      "lat": 13.0556814,
+      "lng": 77.50748329999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAXYJYs48rjsR-XjyPnudh4Q",
+      "name": "Shell",
+      "address": "Tumkur Rd Dasarahalli, Vill, Nagasandra, Bengaluru",
+      "lat": 13.046599,
+      "lng": 77.502285,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3V4Ue1o9rjsRSVhXuTLRYEY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "No 2, MES Ring Road, Bengaluru",
+      "lat": 13.0435343,
+      "lng": 77.55377899999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJO5ZeYNwirjsREOZBX2XHyZg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No, 21/4A, Abbigere Road, Chikkabanavara, Bengaluru",
+      "lat": 13.0725118,
+      "lng": 77.5245199,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJvzjDxGM9rjsRDAuVlYN2-PE",
+      "name": "IndianOil",
+      "address": "Plot No 101, Stage 3, 1st Cross Road, Gokul 1, Yeswanthpur, Bengaluru",
+      "lat": 13.0264301,
+      "lng": 77.557613,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ_gOmN0XrjsR9VPLBP23SUY",
+      "name": "IOC - Fouzdar Petroleums",
+      "address": "Jaladarsini Layout, Sanjayanagara, Bengaluru",
+      "lat": 13.032444,
+      "lng": 77.569881,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJyaI_jFk9rjsR1FuHV8Dp8tE",
+      "name": "IndianOil",
+      "address": "8A/8B, New BEL Road, RMV Extension, ITI Layout, Bengaluru",
+      "lat": 13.0324309,
+      "lng": 77.5699169,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ51Aou6EirjsRcQ4lSAxkAu0",
+      "name": "IndianOil",
+      "address": "M.S.Palya Circle, Vidyaranyapura, Bengaluru",
+      "lat": 13.0809954,
+      "lng": 77.5487945,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGW3D-9wXrjsRzQ34Cr4MxQs",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Site No 6, near Ramaiah Institute Of Technology Ms Ramaiah Hospital, New BEL Road, Devasandra Layout, Bengaluru",
+      "lat": 13.030609,
+      "lng": 77.57095389999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC6hGaBEjrjsRutBCdKmB4UI",
+      "name": "IndianOil",
+      "address": "Sy No 40/8, Hesarghatta Road, Chikkabanavara, Bengaluru",
+      "lat": 13.0828489,
+      "lng": 77.4998106,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ_7daA8YrjsRp8sgwShOvco",
+      "name": "IndianOil",
+      "address": "3H8C+8J3, Thindlu Main Road, Kodigehalli, 3/5, Vidyaranyapura, Sir MV Layout, Dhanalakshmi Layout, Virupakshapura, Bengaluru",
+      "lat": 13.0650556,
+      "lng": 77.57083360000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9czE_MMXrjsRPh4-BWpucYw",
+      "name": "IndianOil",
+      "address": "2HJJ+447, 2nd Stage, KEB Layout, Sanjayanagara, Bengaluru",
+      "lat": 13.029127,
+      "lng": 77.578789,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXyd-SR4YrjsRqAIDnKbl1TQ",
+      "name": "IndianOil",
+      "address": "Sy No 17, opposite Chairmans Club, 2, Kodigehalli Main Road, Bengaluru",
+      "lat": 13.0579421,
+      "lng": 77.5863396,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJX0mhbJEXrjsRiIkn6P26Ixg",
+      "name": "Nithin & Co - Essar Fuel Station",
+      "address": "Subramani Nagar, Guddadahalli, Hebbal, Bengaluru",
+      "lat": 13.0421333,
+      "lng": 77.5921524,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJU3NyeKUkrjsRLKfvCSmwHxQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, Madanayakanahalli, Tumkur Road, Bengaluru",
+      "lat": 13.0624509,
+      "lng": 77.4577546,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhYzriCYYrjsRsEwBrjWKFWY",
+      "name": "IndianOil",
+      "address": "Plot No 106/7, Bellary Road, Bengaluru",
+      "lat": 13.0582922,
+      "lng": 77.5938429,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJfZmxrloirjsRy67joF4S0Qo",
+      "name": "Nayara Petrol Bunk",
+      "address": "Bylakere",
+      "lat": 13.1110426,
+      "lng": 77.5276329,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcxZzow09rjsRiob9s2OM59o",
+      "name": "IndianOil",
+      "address": "Plot No P3, Peenya 1st Stage, Indus Estate, Peenya, Bengaluru",
+      "lat": 13.0395411,
+      "lng": 77.5186167,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC9LEPCM9rjsRJhfI0LUp79o",
+      "name": "IOC - Satish Service Station",
+      "address": "Peenya 1st Stage, Peenya, Bengaluru",
+      "lat": 13.035303,
+      "lng": 77.526338,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJYf27tT09rjsRfOt-z6afBrE",
+      "name": "GAIL GAS CNG BUNK",
+      "address": "Chokkasandra, Peenya, Bengaluru",
+      "lat": 13.0370133,
+      "lng": 77.51790009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxeBuziA9rjsRU4snnMied4w",
+      "name": "SKIDTECH ENGINEERING (STEP Gas)",
+      "address": "Chokkasandra, Peenya, Bengaluru",
+      "lat": 13.0366961,
+      "lng": 77.51787999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVVzeC3TVsTsRU3LyorpWaIU",
+      "name": "Jio-bp",
+      "address": "Survey No 11/2, Nh 4, Nelamangala - Majestic Service Road, Dobbaspet",
+      "lat": 13.0423192,
+      "lng": 77.5154882,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJc5prNkw9rjsR2NG9DkaOJac",
+      "name": "IndianOil",
+      "address": "2, 100 Feet Road, Peenya, Bengaluru",
+      "lat": 13.035362,
+      "lng": 77.518056,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHw_8bUcYrjsRfpuG5m4zUtU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, opposite Jakkur Aerodrome, Bellary Road, South Western Zone, Bengaluru",
+      "lat": 13.0812514,
+      "lng": 77.5927232,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ05C9WFkYrjsRP5uRWJkELEk",
+      "name": "IndianOil",
+      "address": "near NES Office Road, Yelahanka New Town, Bengaluru",
+      "lat": 13.0975815,
+      "lng": 77.5913881,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0SSWAggZrjsRpbPHgV725OQ",
+      "name": "IndianOil",
+      "address": "Sy No 89 Yelahanka, Kogilu Main Road, Srinivaspur, Hobli",
+      "lat": 13.1042923,
+      "lng": 77.6198043,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuXBblDYWrjsReq_ETJFLJiQ",
+      "name": "Shell",
+      "address": "Sankey Road, Sadashiva Nagar, Bengaluru",
+      "lat": 13.005,
+      "lng": 77.58086,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJn-PGJ_kYrjsRhJj3Uq44Gb0",
+      "name": "IndianOil",
+      "address": "No 1666/3, Bellary Road, Yelahanka, Bengaluru",
+      "lat": 13.1060857,
+      "lng": 77.6012059,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhQ8uQJEXrjsRzapMQDWXWmE",
+      "name": "UNI GAS",
+      "address": "2HRR+QQ6, Shanimahatma Temple Road",
+      "lat": 13.041915,
+      "lng": 77.5918751,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJoVqzFhAXrjsR4zSvkJMdE88",
+      "name": "Surya Auto gas",
+      "address": "2HQW+MHM, Chinana Layout, Guddadahalli, Hebbal, Bengaluru",
+      "lat": 13.0392948,
+      "lng": 77.59630949999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJN3hq0wgXrjsRx36PqXS8T8M",
+      "name": "Nagpals garage",
+      "address": "81, Bellary Road, Subramani Nagar, Bayanna Layout, Hebbal, Bengaluru",
+      "lat": 13.0408776,
+      "lng": 77.58977639999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ7XijOGIXrjsRpe0wZk9IFvI",
+      "name": "Jilu Autogas",
+      "address": "2JQ2+QQW, 5th Cross Road, M.R.Garden, Vishwanatha Naganahalli, Hebbal, Bengaluru",
+      "lat": 13.03948,
+      "lng": 77.60194,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtVdnEAAXrjsRnH-48sT4Guk",
+      "name": "SLV RAGI FUELS",
+      "address": "14, Chamundi Nagar Main Road, Seethappa Layout, Chamundi Nagar, Hebbal, Bengaluru",
+      "lat": 13.0331367,
+      "lng": 77.5991107,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ02LLvKAXrjsRk5zX-5sPBlE",
+      "name": "Bharath petrol bunk",
+      "address": "Chamundi Nagar, Hebbal, Bengaluru",
+      "lat": 13.0330619,
+      "lng": 77.599105,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ6eksOmYXrjsRTsCItNWZuNE",
+      "name": "sri venkateshwara fuels",
+      "address": "59, 1st Main Road, Kanaka Nagar, Hebbal, Bengaluru",
+      "lat": 13.0370272,
+      "lng": 77.60682179999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJEblJpawXrjsR6p5j0brouAo",
+      "name": "NAYARA PETROL",
+      "address": "23, 1st Cross Road, Naganahalli, Hebbal, Bengaluru",
+      "lat": 13.037027,
+      "lng": 77.6068824,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJf1JTHhIXrjsR00SYYHpKNS4",
+      "name": "BMTC BUS DEPO",
+      "address": "39, 6th Main Road, HMT Layout, Hebbal, Bengaluru",
+      "lat": 13.0288244,
+      "lng": 77.59318739999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJA1wicvYRrjsROmKkW_9yQLU",
+      "name": "IndianOil",
+      "address": "Survey No 52/6, Horamavu Agara, Bengaluru",
+      "lat": 13.0385686,
+      "lng": 77.65964819999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBTsj4DoRrjsRcn1uxUlXiIk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No, 24/1, Horamavu Agara Road, KR Puram, Bengaluru",
+      "lat": 13.032407,
+      "lng": 77.660018,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ569X5yoRrjsRRbQHo1CvP9k",
+      "name": "Bharat petroleum station",
+      "address": "MR Complex, Kalkere Main Road, Dodda Kempaiah Layout, Kalkere, Bengaluru",
+      "lat": 13.0313552,
+      "lng": 77.6696676,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJYxi9RMQQrjsReDj4nLbRdqU",
+      "name": "Seeti Bhairaveswara Auto LPG",
+      "address": "2MJ9+9J8, Rajkumar Layout, Esther Enclave Layout, Bengaluru",
+      "lat": 13.0309146,
+      "lng": 77.66908389999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhxkqXcQQrjsRxo3b4HDKpvI",
+      "name": "ESSAY PETROLEUM",
+      "address": "India",
+      "lat": 13.030819,
+      "lng": 77.66918609999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ_X-kVaQRrjsRaYXQ44kaMfU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Bileshivale Main Road, Kyalasanahalli, Byrathi",
+      "lat": 13.054821,
+      "lng": 77.664148,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJySfnHQARrjsRbvuXS3S7IIY",
+      "name": "FASTAG Activation & Sales",
+      "address": "3M47+3F3, Bileshivale Main Road, Hanumanthappa Layout, Essel gardens, Bengaluru",
+      "lat": 13.0551354,
+      "lng": 77.66365739999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJWaUukz0RrjsRAvYKEIesv-0",
+      "name": "SSR FUEL STATION",
+      "address": "International Airport, No 25/4, Byrathi-Kyalasanahalli, Kothanur Post Opp Hennur - Bagalur, Link Road, Bengaluru",
+      "lat": 13.0552758,
+      "lng": 77.6637756,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5-j_XwARrjsRoINe6ZOKHik",
+      "name": "CONFIDENCE PETROLEUM INDIA LTD",
+      "address": "55, K Channasandra, Bengaluru",
+      "lat": 13.0423276,
+      "lng": 77.679694,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQ1FN6UURrjsRNAfG-KqaBJY",
+      "name": "IndianOil",
+      "address": "Sy No 79, 1 Hobli, Main Road, Bileshivale",
+      "lat": 13.052597,
+      "lng": 77.67531029999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJf9F4J0IRrjsRuItCBu2w5ww",
+      "name": "IndianOil",
+      "address": "Sy No 50/3, Kyalasanahalli, Bengaluru",
+      "lat": 13.0558613,
+      "lng": 77.65692340000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNbpgmpoRrjsRcVYeyNYEtFI",
+      "name": "INDIAN OIL PETROL BUNK - M/s LAKSHANA ENTERPEISES",
+      "address": "Sy No. 39/6, K.Channasandra, Kanakanagara Main Road, Post, Horamavu, Bengaluru",
+      "lat": 13.038961,
+      "lng": 77.68158059999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcWlhOpoQrjsRZwSguRz1yhg",
+      "name": "IndianOil",
+      "address": "Sy No 35/1, Hobli, Rampura, Bidarahalli",
+      "lat": 13.0522977,
+      "lng": 77.68299309999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJU4VTrDcRrjsR4lwPtwaAhl4",
+      "name": "SUPERGAS AUTO LPG- S V AUTO LPG - Horamavu",
+      "address": "Bangalore Division, No.117/ 54,Hobli-KR Puram Hormavu Main Road, Horamavu Bangalore South",
+      "lat": 13.0216445,
+      "lng": 77.6574206,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJpy16a7kXrjsR7xnzRxx_C84",
+      "name": "Shell Fuel Station",
+      "address": "New Airport Rd Krishnarajapura, Hobli, Bengaluru",
+      "lat": 13.044172,
+      "lng": 77.642855,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJscWC9TMXrjsRNi7uLthZn-Y",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "JK Fuel Station Hennur Main Rd, Byrathi, Bidarahalli, Uttarahalli Hobli, Bengaluru",
+      "lat": 13.056853,
+      "lng": 77.648387,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJsYiBN_kXrjsRTcHbqLlw1uU",
+      "name": "Nayara Petrol Pump - Suryodaya Service Station",
+      "address": "Hennur Bande, Hennur Gardens, Bengaluru",
+      "lat": 13.0384372,
+      "lng": 77.6416108,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZRyC7lUXrjsRU6Lu88iLbAc",
+      "name": "Patel Service Station Bharath Petroleum Corporation Limited",
+      "address": "9/2, Hennur Bagalur Main Road, Kothanur, Bengaluru",
+      "lat": 13.059357,
+      "lng": 77.6489555,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKdLRcAwXrjsR5TsxiXe0Z_w",
+      "name": "Bharat Petroleum Corporation ltd",
+      "address": "Site No 617/563, near Vijaya Bank, 9/1, Kothanur, Bengaluru",
+      "lat": 13.0592708,
+      "lng": 77.6485728,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2xFj_NYRrjsReDv8Migeso0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 136/1, KR Pura 1, Kalkere Main Road, Kalkere, Bengaluru",
+      "lat": 13.022062,
+      "lng": 77.678839,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFRwx5R4RrjsRXwhkN4Cfr0E",
+      "name": "Shell Petrol Pump",
+      "address": "136, Kowdenahalli Main Road, Kalkere, Bengaluru",
+      "lat": 13.021402,
+      "lng": 77.678842,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPbQ3bjsRrjsRn5lryN5TgW4",
+      "name": "Gail gas CNG",
+      "address": "2M89+H9Q, Hoysala Nagar, Horamavu, Bengaluru",
+      "lat": 13.0165276,
+      "lng": 77.66854169999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJl-1F2p8XrjsR0m-t-dlrhag",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Site No 334 & 335, Byraveshwara Layout, Kempe Gowda Road, Hennur Gardens, Bengaluru",
+      "lat": 13.0396865,
+      "lng": 77.6385102,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJI_B-HgARrjsRjDEvdaVKELc",
+      "name": "Indane Gas Godown",
+      "address": "2MFM+RWH, Jinkethimmanahalli, Varanasi, Bengaluru",
+      "lat": 13.0247131,
+      "lng": 77.6846082,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJtZYL7icRrjsR5cFCE15tTUo",
+      "name": "Sri Sai Sirish Enterprises Dealer : BPCL",
+      "address": "Survey No 15, near Ayurveda Hospital, 17 40/42, Thambu Chetty Palya Main Road, Hoysala Nagar, Bengaluru",
+      "lat": 13.0153369,
+      "lng": 77.666467,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGR5j_kQRrjsRnZr4-_424XE",
+      "name": "Bharat Petroleum Corporation ltd",
+      "address": "No 2, Kalkere Main Road, Ramamurthy Nagar, Bengaluru",
+      "lat": 13.0182523,
+      "lng": 77.67796729999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQweNpCkRrjsRWy0ayy9hHqo",
+      "name": "Bharat Petroleum Corporation ltd",
+      "address": "15, Site, near Ramamurthy Nagar, Plot No, Ramamurthi Nagar Main Road, Banaswadi, Bengaluru",
+      "lat": 13.0133004,
+      "lng": 77.6614335,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKVfifdURrjsRFYWV24X8R5o",
+      "name": "POLLUTION TEST OR EMISSION TEST &ALL VEHICLE INSURANCE DONE HERE....",
+      "address": "INDIAN OIL BUNK, Thambu Chetty Palya Main Road, Bengaluru",
+      "lat": 13.0208038,
+      "lng": 77.6852904,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_fD_KIsRrjsRQ5qNusw__r0",
+      "name": "IndianOil",
+      "address": "Sy No 9, Thambu Chetty Palya Main Road, Kowdenahalli, Bengaluru",
+      "lat": 13.0207617,
+      "lng": 77.68531810000002,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuV65XRgRrjsRx_XYSsM_FPY",
+      "name": "Emission Testing Center",
+      "address": "2M68+WJX, Ramamurthy Nagar, Banaswadi, Krishna Reddy Layout, Ramamurthy Nagar, Bengaluru",
+      "lat": 13.012361,
+      "lng": 77.6666169,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJRxXpZlwRrjsRU8LWLx34y1I",
+      "name": "IndianOil",
+      "address": "Rammurthy Nagar, Banaswadi, Bengaluru",
+      "lat": 13.0123459,
+      "lng": 77.66661719999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJF0-7MDsZrjsR5SBfwG-gOXs",
+      "name": "Bharat petroleum",
+      "address": "28/2, 28/2, Kothanur Main Road, BDS Nagar, Narayanapura, Bengaluru",
+      "lat": 13.0648716,
+      "lng": 77.6458901,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ-yGPNScRrjsRcKTyhuA6kfc",
+      "name": "GasPlus Auto LPG - TC Palya",
+      "address": "Bhakthi Yoga Ashrama, Sri Sai Garden Layout, P and T Layout, SBI Bank Colony, Battarahalli, Bengaluru",
+      "lat": 13.0223345,
+      "lng": 77.6891404,
+      "open_now": true
+    }
+  ]
+}

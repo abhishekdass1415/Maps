@@ -1,0 +1,467 @@
+{
+  "city": "Tezpur",
+  "state": "Assam",
+  "count": 57,
+  "center": {
+    "lat": 26.6386,
+    "lng": 92.8005
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJT6F23tnoRDcRxGM1KZlfQ8M",
+      "name": "Shell",
+      "address": "715, Mouza, Mahabhairab, Tezpur",
+      "lat": 26.622629,
+      "lng": 92.847509,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVVVVVUXoRDcRGzbVMPM7rQo",
+      "name": "Shell",
+      "address": "JR85+94Q, PS, Tezpur",
+      "lat": 26.6159653,
+      "lng": 92.807864,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ9RBk9jboRDcR80Oog5PJSa8",
+      "name": "IndianOil",
+      "address": "Ground Floor, Tezpur",
+      "lat": 26.620167,
+      "lng": 92.7953201,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM5kNNTXoRDcRhYaxSXIa7sg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Hospital Road, Tezpur",
+      "lat": 26.627806,
+      "lng": 92.796578,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJHyN1nybpRDcRq8BOcSpx5uk",
+      "name": "Dridha Agri Nayara Energy Limited",
+      "address": "Civil Hospital Hatipilkhana Link Road, Mahabhairab, Tezpur",
+      "lat": 26.6276276,
+      "lng": 92.7906319,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3WkVBADnRDcR_fk2sZNzd70",
+      "name": "Adani CNG Station, Aambagan",
+      "address": "GR7Q+FJR, SH 3, Pub Larimukh",
+      "lat": 26.51372019999999,
+      "lng": 92.8390314,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJUTasGSHnRDcRZul4IXZTgBQ",
+      "name": "Bharat Petroleum: Petrol Pump",
+      "address": "GR7Q+CH8, Ambagan Loakhowa Main Road, near Tinimani, Ambagan",
+      "lat": 26.513531,
+      "lng": 92.8389515,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJL09_4ifkRDcRcSRPkpLVXMA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor Borbogia, Kulidonga, Kaliabor, Ambagan, Nagaon",
+      "lat": 26.5223369,
+      "lng": 92.8600556,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEYsnfUvlRDcR9xnEwRrj2_w",
+      "name": "IndianOil",
+      "address": "Ground Floor Kaliabor, Ambagan, Bhari Dhowa",
+      "lat": 26.5205314,
+      "lng": 92.8585041,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhZ7_EgDnRDcRzqItVJ87OQA",
+      "name": "Jayshri Mandal (Dipali)",
+      "address": "GV94+CVV, Ambagan, Dakhin Bhomoraguri",
+      "lat": 26.5186229,
+      "lng": 92.85715909999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJvbkr5KPlRDcRrRIgATB02b0",
+      "name": "Indian Oil Petrol Pump Naltoli",
+      "address": "Dhanekhowa",
+      "lat": 26.5503534,
+      "lng": 92.89267249999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkwDENADlRDcROWwO6NjGpe0",
+      "name": "Bharat Petroleum petrol station",
+      "address": "GWV8+G42, Ouguri",
+      "lat": 26.5437519,
+      "lng": 92.91525610000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJhfgZfADlRDcRb92ereuX9aQ",
+      "name": "Adani CNG Station, Kaliabor Tiniali",
+      "address": "GWV8+G42, Ouguri",
+      "lat": 26.5436499,
+      "lng": 92.91520009999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJSzGELUrlRDcRFoChRn3qJ8s",
+      "name": "Kaliabor energy station (BPCL)",
+      "address": "Kaliabor, National Highway 715, Nagaon",
+      "lat": 26.54394019999999,
+      "lng": 92.9160414,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJxaSVeQDvRDcRnfkaMNlbUlo",
+      "name": "D E F . Diesel EXHAIDT Bhomoraguri",
+      "address": "JVH6+V38, Bhomoraguri",
+      "lat": 26.62965590000001,
+      "lng": 92.8602042,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ1YuOS9b7RDcRuOo_Ye8h9H4",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 37, Kathterongaon, Kuwaritol",
+      "lat": 26.560489,
+      "lng": 92.9434,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWwqxIgDpRDcRhIjlXjxAkkc",
+      "name": "NJ FILLING STATION",
+      "address": "NJ FILLING STATION, Bhojkhowa Gaon, Bhomoraguri",
+      "lat": 26.6344541,
+      "lng": 92.8401011,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAUqEl_HBRDcR5lcyivmqoFY",
+      "name": "Bharat Petroleum Petrol Pump",
+      "address": "MQP7+4MM, Dekachuburi, Tezpur",
+      "lat": 26.6853279,
+      "lng": 92.7641639,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7TD2RprDRDcRL3FceNC9D9g",
+      "name": "Reliance Petroleum",
+      "address": "A.B. Filling Station, Dag No 290(Old)/390(New),Khatian No PattaNo124(Old)/340(Ne Chatrachal",
+      "lat": 26.6619443,
+      "lng": 92.71748009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJPzsNdijCRDcRzfUbaZMaV5s",
+      "name": "IndianOil",
+      "address": "Ground Floor, Haleswar, Balipara, Dihingia,Dekargaon, Beseria",
+      "lat": 26.674271,
+      "lng": 92.74804700000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJr4MM3nTCRDcR9jvJnGNUwwk",
+      "name": "NRL Petrol Pump",
+      "address": "Tezpur Main Road, Ketekibari, Tezpur",
+      "lat": 26.6505308,
+      "lng": 92.7752605,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVwbfYdbDRDcRMfQxow_h-eU",
+      "name": "Nayara Petrol Pump - Anudiv Energy Station",
+      "address": "HS SChool, near Bihaguri, Borakata Pathar",
+      "lat": 26.6764119,
+      "lng": 92.707771,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJweJlIwXCRDcRGQEH_0ntMSs",
+      "name": "H.P petrol pump",
+      "address": "MS/HSD HIMATSINGKA AUTO ENTERPRISE, Base Hospital Road, Baruachuburi, Ketekibari, Tezpur",
+      "lat": 26.665723,
+      "lng": 92.7682761,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ71oJ3eXDRDcRhAmBUl6DdvQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Dekargaon, Tezpur",
+      "lat": 26.666409,
+      "lng": 92.76888699999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJRwqIQnjpRDcRyXlrzzSwg0Y",
+      "name": "IndianOil",
+      "address": "Ground Floor, Gabhoru, Behali, Tezpur",
+      "lat": 26.6440569,
+      "lng": 92.78143759999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJr48RS9fpRDcRQSpWz-Rkh1s",
+      "name": "IndianOil",
+      "address": "Ground Floor, Dadara, Behali, Tezpur",
+      "lat": 26.638984,
+      "lng": 92.782322,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3V2RgMXDRDcRWqPBj8wIKHQ",
+      "name": "Amar Stor",
+      "address": "Dekargaon, Beseria, Tezpur",
+      "lat": 26.6746305,
+      "lng": 92.76734410000002,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJaYkFJADpRDcRGhD0fvzvX8Q",
+      "name": "Indian Oil Petrol Pump",
+      "address": "JQWQ+CG4, Kharati, Majgaon, Tezpur",
+      "lat": 26.6460203,
+      "lng": 92.7888376,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJybrbdwDpRDcRNFUdNQQDcwk",
+      "name": "Fuel Stop HQ IOCL Pump",
+      "address": "JQWQ+CG4, Kharati, Majgaon, Tezpur",
+      "lat": 26.6460949,
+      "lng": 92.7888473,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ9b4OXerpRDcRtiCZNlqnD1E",
+      "name": "IndianOil",
+      "address": "NH 37A, Paruwa Chariali, Tezpur",
+      "lat": 26.6529265,
+      "lng": 92.7943378,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJD51eaurpRDcRP6MlCyqDccg",
+      "name": "Lahkar indian oil Petrol Pump",
+      "address": "37A, National Highway, Lokhra, Majgaon, Tezpur",
+      "lat": 26.65317,
+      "lng": 92.79523809999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJz9cAf3DBRDcRG2Im_4al51w",
+      "name": "Reliance Petroleum",
+      "address": "PATTA NO:24,185,DAG NO: 681,682, VILL:KARARA,MOUZA:PANDURI, P.S:RANGIA Dolegaon Assam IN 783154, Gar Bhitar",
+      "lat": 26.6933557,
+      "lng": 92.7592379,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS3_pY7jpRDcRFCAa5dYuC2c",
+      "name": "Dhanua Nagar Petrol Pump",
+      "address": "GNB Road, Mahabhairab, Tezpur",
+      "lat": 26.6423667,
+      "lng": 92.7987778,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJgde5PwDrRDcRq2cvX0c_JZg",
+      "name": "95 SBPO",
+      "address": "MQWH+F8, Tezpur",
+      "lat": 26.6961252,
+      "lng": 92.7783391,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJAQAAACzpRDcRM_22jTj0GPA",
+      "name": "shell petrol pump. Roys & Rais service station",
+      "address": "Batamari, Tezpur",
+      "lat": 26.644554,
+      "lng": 92.8317656,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWe7SuFjpRDcR7bdkxIdu0Iw",
+      "name": "Gas station",
+      "address": "JRV9+P72, Dolabari Kalibari Road, Dolabari, Tezpur",
+      "lat": 26.64425109999999,
+      "lng": 92.8181444,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJpzdjVwDpRDcRNIkHXPvTHt4",
+      "name": "Reliance jio petrol pump",
+      "address": "Near, Dolabari flyover, Dolabari, No.1 Dolabari",
+      "lat": 26.652666,
+      "lng": 92.82351,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLR5hLt3pRDcRaqRduJbEx04",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, No.1, Teen Mile, Dolabari, Tezpur",
+      "lat": 26.6547222,
+      "lng": 92.825001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ60GlEgDpRDcReBnJXmEfcb0",
+      "name": "Jio petrol pump",
+      "address": "MR97+H45, Dolabari, Tezpur",
+      "lat": 26.6688861,
+      "lng": 92.81284629999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJQ8wLfADrRDcRvqyhCREqb7A",
+      "name": "Dhanraj Singh servo station",
+      "address": "MRH8+QF4, Tezpur University Road, Napaam, Tezpur",
+      "lat": 26.6793846,
+      "lng": 92.81620009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJTSMkkAbrRDcR5esQXEZEqBw",
+      "name": "Nayara petrol pump Amolapam",
+      "address": "Tezpur University Road, University, Tezpur",
+      "lat": 26.6961228,
+      "lng": 92.84013589999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJUbYwi9TBRDcR4BL30JXbmy4",
+      "name": "Binduguri",
+      "address": "PPVP+J73, Bindukuri Gaon",
+      "lat": 26.7440053,
+      "lng": 92.73568,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJmV9gqC_ARDcRm7NlCntdiMU",
+      "name": "IndianOil",
+      "address": "Ground Floor Goraimarip, Goraimarip, Chariduar",
+      "lat": 26.732347,
+      "lng": 92.77032799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2YvmEADBRDcRpiHRQ9_9yxg",
+      "name": "NEGDCL CGS",
+      "address": "QQ25+P98, Uhani Pathar Batabari",
+      "lat": 26.75179039999999,
+      "lng": 92.7584378,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJjwnDrvDBRDcRugmG3gl7_WA",
+      "name": "Bharat Petroleum Petroleum Pump",
+      "address": "QQ5G+5V8, Uhani Pathar Batabari",
+      "lat": 26.7579479,
+      "lng": 92.775967,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJZxJv6hrBRDcR243jVAchYow",
+      "name": "Ahshana Filling Station",
+      "address": "Ghoramari, Balipara",
+      "lat": 26.7582368,
+      "lng": 92.77610609999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJB7JvHQDHRDcRgiDP5rYjuho",
+      "name": "Vardaan Energy",
+      "address": "Nirai Ati",
+      "lat": 26.7229922,
+      "lng": 92.65319219999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJex1ALWLrRDcR7JEmS_-xDTI",
+      "name": "IndianOil",
+      "address": "Ground Floor, Dhula, Mansiri",
+      "lat": 26.7457411,
+      "lng": 92.797901,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuUTXuKXBRDcRCZ2D6gXkxCU",
+      "name": "Nayara Fuel",
+      "address": "QQ8G+CW, Uhani Pathar Dhekidal",
+      "lat": 26.7660625,
+      "lng": 92.77731250000001,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ4xvPM3nrRDcRgs7xctzjj1c",
+      "name": "Driver",
+      "address": "Asikur, Napaam, Na-Pam Gaon",
+      "lat": 26.7199782,
+      "lng": 92.8276308,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJy9ZF0sHrRDcR3gteKLAZTkM",
+      "name": "SSP Filling Station",
+      "address": "center, Mansiri",
+      "lat": 26.7586069,
+      "lng": 92.834884,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJf1k6DMvtRDcRRRQAwt19rZ0",
+      "name": "M/S MB Refill Station, BPCL",
+      "address": "opp. Shiva Mandir, khadoichuk, Jamugurihat",
+      "lat": 26.7204629,
+      "lng": 92.9122519,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJW_nEKhjtRDcRrxuVFyEqD0w",
+      "name": "Nayara Energy Petrol Pump, Jamugurihat",
+      "address": "PWCC+GJ8, Patalar Chuk Road, Jamugurihat",
+      "lat": 26.7213574,
+      "lng": 92.9221859,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6YGGibHtRDcRLfU25El_ylE",
+      "name": "Reliance Petroleum",
+      "address": "VILLAGE: KONWARGAON, MOUZA: DHAKUAKHANA, REVENUE CIRCLE OFFICE:, Pol, Dhakuakhana",
+      "lat": 26.7524013,
+      "lng": 92.9053169,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzSoRkCuTRDcRObdydaST9PM",
+      "name": "IndianOil",
+      "address": "Ground Floor, Murhadol",
+      "lat": 26.7360613,
+      "lng": 92.9267928,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVQ1XPQDtRDcRt_c0ij0MSak",
+      "name": "Barat pretoleum",
+      "address": "PWPG+VM5, Niz-Borbhagia",
+      "lat": 26.7359633,
+      "lng": 92.92725329999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJk9YJp4TyRDcRadQ2Tbz0QKs",
+      "name": "IndianOil",
+      "address": "Ground Floor Gameripal, Jamugurihat",
+      "lat": 26.729826,
+      "lng": 92.94291899999999,
+      "open_now": true
+    }
+  ]
+}

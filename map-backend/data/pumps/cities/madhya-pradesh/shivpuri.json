@@ -1,0 +1,163 @@
+{
+  "city": "Shivpuri",
+  "state": "Madhya Pradesh",
+  "count": 19,
+  "center": {
+    "lat": 24.7333,
+    "lng": 77.6667
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJ3__lkhY_ejkR02PYJUhpWtg",
+      "name": "IndianOil",
+      "address": "Shop No 84, 2/1, Amrod, Myapur",
+      "lat": 24.70167959999999,
+      "lng": 77.58604799999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJM9p4xZM5ejkRd2hNxkl6dOg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, SH 20, Guna - Ashoknagar Road, Shadora",
+      "lat": 24.6219801,
+      "lng": 77.59876009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJz6ABBek5ejkRzJM-d181eRU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 697/1/2 SH 10, Shadora, Muhal Milak",
+      "lat": 24.625421,
+      "lng": 77.575619,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkYmc-FQ4ejkRXAOzw56kgwQ",
+      "name": "B P Pump Shadora",
+      "address": "JJC3+GM7, Shadora",
+      "lat": 24.6212934,
+      "lng": 77.6041714,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJgdVu6JlHejkR7Y_fL_jqtt0",
+      "name": "Agrawal energy station",
+      "address": "Seji, Choraha, Pahada",
+      "lat": 24.6428858,
+      "lng": 77.54247649999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVRCiJK1HejkRr5RRE6PBPGA",
+      "name": "IndianOil",
+      "address": "S No 440, 01, Amrod, Pili Ghata",
+      "lat": 24.649955,
+      "lng": 77.5244517,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeX-jLQA7ejkRuwPRDYIx0Fg",
+      "name": "INDIAN OIL SHANTI ENERGY STATION",
+      "address": "JM44+6W6, Guna - Ashoknagar Road, Patel Nagar, Guna",
+      "lat": 24.6055465,
+      "lng": 77.6572647,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjQdsukk7ejkRQAt02ND9MWE",
+      "name": "Easar pump garima agency",
+      "address": "MP4P+5X9, Tarawali",
+      "lat": 24.6554,
+      "lng": 77.7374832,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJseJLXBI6ejkRWuJtSlcvyiw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "316 313/2, Khasra No 313, 1 314, Guna - Ashoknagar Road, Ratikheda",
+      "lat": 24.5978278,
+      "lng": 77.6732088,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ28Teq707ejkRY2KK05imT8g",
+      "name": "Bansal Capital Sales & Service",
+      "address": "Ratikheda",
+      "lat": 24.5968913,
+      "lng": 77.6715081,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBwb-x3A7ejkRmOQOE21mz2g",
+      "name": "IndianOil",
+      "address": "Ground Floor, SH 20, Ashoknagar",
+      "lat": 24.6263121,
+      "lng": 77.7350956,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIT68kgwjejkRFx3Jj7eWqt0",
+      "name": "IndianOil",
+      "address": "Ground Floor, SH 20, Chandan Bhetha, Ashoknagar",
+      "lat": 24.712826,
+      "lng": 77.78385999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVVVVVXo9ejkRNFtVyMvMIzk",
+      "name": "IndianOil",
+      "address": "Ground Floor, Mahidpur, Taluka, Bamnawar",
+      "lat": 24.757381,
+      "lng": 77.7088746,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOcJSZgAjejkR9XmZbe5M2TQ",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "near Ashoknagar - Esagarh Road, Survey No 19/1 SH 20, Isagarh, near Ashoknagar - Esagarh Road, Ashok Nagar, Saras Khedi",
+      "lat": 24.7399105,
+      "lng": 77.78789479999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ7SDiZywjejkR4o8NMqUSwp4",
+      "name": "Hindustan Petroleum",
+      "address": "QQCW+HHG, Vijaypura",
+      "lat": 24.7714362,
+      "lng": 77.7964418,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6zfugOEUejkRBUnSOs0EDDo",
+      "name": "IndianOil",
+      "address": "Lock No 1169/219, Naisarai, Isagarh, Aamkheda",
+      "lat": 24.8139923,
+      "lng": 77.5904939,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJdwl8FuIUejkRb27TSz9SpF8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Naisarai",
+      "lat": 24.8072409,
+      "lng": 77.5964091,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFxLMi7AVejkRc4RsUEqCSVA",
+      "name": "Petrol Pump",
+      "address": "Aditya",
+      "lat": 24.8086918,
+      "lng": 77.5938817,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJj8sbbgAVejkR4ApzhjBDxdc",
+      "name": "D.D. PETROL PUMP ( BHARAT PETROLEUM CORPORATION LTD)",
+      "address": "RHCX+3QH, Dungasara Road, naisarai, Dungasara",
+      "lat": 24.8201921,
+      "lng": 77.5994829,
+      "open_now": true
+    }
+  ]
+}

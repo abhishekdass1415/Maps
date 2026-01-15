@@ -1,0 +1,939 @@
+{
+  "city": "Tumkur",
+  "state": "Karnataka",
+  "count": 116,
+  "center": {
+    "lat": 13.34,
+    "lng": 77.1
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJg0ZAgkIpsDsR0VqU1BByZyE",
+      "name": "IndianOil",
+      "address": "Survey No 115/1, Hobli, Ariyur, Gulur",
+      "lat": 13.2813009,
+      "lng": 77.0884293,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZWnvE0MpsDsR-FgjV6UXXig",
+      "name": "Bharat Petroleum Petrol Bunk",
+      "address": "Gulur Amanikere",
+      "lat": 13.2852468,
+      "lng": 77.08912149999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJR6nPe70psDsRVsfHjWdlBXo",
+      "name": "SLV BPCL",
+      "address": "63F6+FCJ, State Highway 33, Pannasandra",
+      "lat": 13.2237202,
+      "lng": 77.06101369999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKUUzBvopsDsREXaC_1b4568",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "AK Kaval, Survey No 228/6, Kunigal-Tumkur Road, Naraganahalli",
+      "lat": 13.246784,
+      "lng": 77.082245,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlQ-pGAApsDsRxAeYHfKK17Q",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 80, SH 33, Tumkur Road, Kunigal, Doddahosur",
+      "lat": 13.268897,
+      "lng": 77.08787199999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1Wkm4CoosDsRt-I2XPu7Rm8",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 14/2, Khata No 5, Hebbur SH 33, Kunigal-Tumkur Road, Nagavalli",
+      "lat": 13.2145825,
+      "lng": 77.0549449,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQbxwCFqGsDsR-0L4FB5yRyM",
+      "name": "IndianOil",
+      "address": "Survey No 134, Bhaktharahalli, 2A, Hobli, Sirivara",
+      "lat": 13.2150859,
+      "lng": 77.001206,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKU3wNwAlsDsRf1zGXfkjbAk",
+      "name": "Nayara Shivashakthi Fuels",
+      "address": "Sy No. 41/3B, NH 206 Near Tumkur Co-operative Milk Producers Societies Union Office, Mallasandra",
+      "lat": 13.3330122,
+      "lng": 77.0032612,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJC81oCgAvsDsRy6Zio6OmHIE",
+      "name": "Bharat petroleum Bank",
+      "address": "833R+VJ, Maralur Amanikere",
+      "lat": 13.3047062,
+      "lng": 77.09150939999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJuzPXW3wssDsRMz3a3V-AAjw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Siddaganga Mata Road, Math, Kyathasandra",
+      "lat": 13.3150517,
+      "lng": 77.14487240000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJf5oq75susDsRDzvIMYa590Y",
+      "name": "Bharat Petrol Bunk apoorva service station",
+      "address": "83MW+96X, Tumkur Main Road, Sadashivanagar, Tumakuru",
+      "lat": 13.333492,
+      "lng": 77.09561169999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4___70MssDsR6wAzr4RyUu4",
+      "name": "BG SHIVAPRAKASH MIRJI PETROL BUNK BHARAT PETROLEUM",
+      "address": "NH 206, Batawadi, Tumakuru",
+      "lat": 13.328381,
+      "lng": 77.1307186,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJW7BRopEusDsRyVYgBCxHjU4",
+      "name": "Bharat Petroleum - Rajnish Fuel Station",
+      "address": "83PP+5PG, Bypass Rd, Ring Road, Veersagar, Near Dhanah Palace, Sadashivanagar, Tumakuru",
+      "lat": 13.3354346,
+      "lng": 77.0868131,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJnUiM1JktsDsRltp9IgcTMHw",
+      "name": "KS FUEL STATION (MRPL)",
+      "address": "Outer Ring Road, Bypass Road, Gedalahalli, Bangalore",
+      "lat": 13.3144261,
+      "lng": 77.10405639999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbyCqgKktsDsRJU8_RoPy8UM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Jayanagar Extension, Outer Ring Road, Jayanagar West, Tumakuru",
+      "lat": 13.313253,
+      "lng": 77.115871,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJh70CvpEusDsRAbeBqLH7D_4",
+      "name": "Aegis Autogas - Sri Someshwara Autogas",
+      "address": "8479+432, Bypass Road, Danah Nagar, Jayanagar West, Tumakuru",
+      "lat": 13.3127698,
+      "lng": 77.1176517,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ6_kumxUvsDsRLxIYfzTx7cU",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Khata No 9663 Ward, No 29, Maralur, Tumakuru",
+      "lat": 13.316727,
+      "lng": 77.089591,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4SSTRmUtsDsRu_NNhRkFuc8",
+      "name": "Jai Bhajarangi fuel station",
+      "address": "Shettihalli Main Road, Jayanagar East, Tumakuru",
+      "lat": 13.3133207,
+      "lng": 77.1215763,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9Sp3vXQssDsR_SEekbsekk8",
+      "name": "IndianOil",
+      "address": "Ground Floor, Ring Road, Shetty Halli, Tumakuru",
+      "lat": 13.31055,
+      "lng": 77.1268734,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJn6tOB8gtsDsR0b9-SVhZrAI",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 31/4, Upparahalli Main Road, Geddalahalli, Tumakuru",
+      "lat": 13.317564,
+      "lng": 77.108781,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ_c9oEwAtsDsRsL97WDObCJk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 75, 1A/12 & 13, Baddi Halli Main Road, Kasaba Hobli, Shetty Halli, Tumakuru",
+      "lat": 13.311561,
+      "lng": 77.12806200000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ847Ke4UtsDsRmLa8rl9b_34",
+      "name": "Byraveshwara fuels",
+      "address": "Ring Road, Tumakuru",
+      "lat": 13.3108753,
+      "lng": 77.1314025,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJw_DVVh0tsDsRQDnyAgmTwps",
+      "name": "SRJ Indian petroleum",
+      "address": "Bangalore-Shimoga Bypass Road, Gokula Extension, Tumakuru",
+      "lat": 13.3097135,
+      "lng": 77.1345048,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3XhCSu0tsDsRSPWNXoGe-SM",
+      "name": "Sri Balaji Fuel Zone",
+      "address": "Shettihalli Main Road, Jayanagar West, Tumakuru",
+      "lat": 13.3192248,
+      "lng": 77.1207431,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJT3Ho7-YtsDsRwY4gKRxm05E",
+      "name": "BP TUMKUR CITY COCO Bharat Petroleum corporation Ltd",
+      "address": "near BPCL Petrol Bunk, Upparalli Geddalahalli, near BPCL Petrol Bunk, Ring Road, Tumakuru",
+      "lat": 13.3246578,
+      "lng": 77.1097843,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJEeYozcYtsDsRz4Sq7EluK3Y",
+      "name": "IndianOil",
+      "address": "Survey No 31, 5 & 33/2, Circle, Batawadi, Agalagurki",
+      "lat": 13.3190973,
+      "lng": 77.12747089999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJlZ6KdgAtsDsR8IpqSTdcAVA",
+      "name": "SHIVSHAKTIPETROLEUMS",
+      "address": "849H+R38, 80 Feet Road, TUDA Layout, Tumakuru",
+      "lat": 13.3195321,
+      "lng": 77.1276977,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJhYxZGc0vsDsRgqCe34SZsrg",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 49/1, Plot No 3, Kunigal-Tumkur Road, Maralur, Tumakuru",
+      "lat": 13.326359,
+      "lng": 77.09362100000001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJcb_ykyotsDsRHv5j1_JRavA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 98/6, Outer, Ring Road, Kyathasandra",
+      "lat": 13.307924,
+      "lng": 77.147819,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJuy5-qIrVrzsR-Kcc33TCBQ4",
+      "name": "IndianOil",
+      "address": "Survey No 25, Gulur",
+      "lat": 13.2150998,
+      "lng": 77.1261064,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQ1rcVY_VrzsRKWdP-FI7vNQ",
+      "name": "S G R Fuels bhartiya petroleum ltd",
+      "address": "647G+WMR, Arehalli",
+      "lat": 13.2148611,
+      "lng": 77.1266405,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJxXCh_DQtsDsRB4kExEuD-Yk",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Kasaba, Tumakuru",
+      "lat": 13.3286208,
+      "lng": 77.1220158,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJr88oiJstsDsR5HYh0GFpKZk",
+      "name": "KK1 TM ENTERPRISES",
+      "address": "847X+322, Indira Nagar, Kyathasandra",
+      "lat": 13.3126355,
+      "lng": 77.1475243,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJX576eT0rsDsRSbPWdBwqJTk",
+      "name": "Bharat Petroleum, Petrol Pump -Siddalinga Petrol & Diesel Bunk",
+      "address": "Kyathasandra",
+      "lat": 13.3137918,
+      "lng": 77.14670749999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJkRFCn84tsDsRUnAged0EnJg",
+      "name": "Go gas",
+      "address": "84FM+MV8, Chandana Complex, Tumakuru",
+      "lat": 13.323877,
+      "lng": 77.13478409999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJxWhpsQ4tsDsRhOZJm9Nn7JU",
+      "name": "Nayara Ramjay Petroleum",
+      "address": "near Ramjay Orthopedic centre, Kunigal-Tumkur Road, banashankari nagar, Tumakuru",
+      "lat": 13.3340499,
+      "lng": 77.0962783,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP5h3lpstsDsRYp6Iu_EvlUQ",
+      "name": "SHIVDEV PETROLEUMS",
+      "address": "SS Puram Main Road, Entrance, Tumakuru",
+      "lat": 13.3338142,
+      "lng": 77.10955659999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ327a92MvsDsRKcrqhIqTbSY",
+      "name": "Aegis Autogas LPG Station - Vijetha Fuels",
+      "address": "No.29, Veerasagara Ring Road, Tumkur, Tumakura, Tumakuru",
+      "lat": 13.3360172,
+      "lng": 77.0868845,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJNWPR5OQtsDsR4egjT_OXbBg",
+      "name": "SIPANI_TotalEnergies - Tumkur",
+      "address": "84Q4+9CG, Ward No. 18, Tumkur, Tumakuru",
+      "lat": 13.338444,
+      "lng": 77.10606539999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJS6_QJyYssDsRpcTkBfv3abQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kariappa Road, KR Extn, Barline, Tumkur, Tumakuru",
+      "lat": 13.3387044,
+      "lng": 77.1037786,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJw9hZFY4usDsRn8SKvhH-49E",
+      "name": "IndianOil",
+      "address": "Survey No 31, 1 Veerasagra, Ring Road, Tumakuru",
+      "lat": 13.3390294,
+      "lng": 77.086801,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJSbqPmoMusDsRytbLHa8WS9A",
+      "name": "C. M. P. Swamy Traders",
+      "address": "beside Veerashiva Samaja Building, beside TMCC BANK, 1st, Vinayakanagar Road, Ward No. 18, Tumakuru",
+      "lat": 13.3415693,
+      "lng": 77.0979809,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ91JWURLVsTsRn_MuW05V-B4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Sy No 14 Nelamangala, Sompura, Nijagal",
+      "lat": 13.2466009,
+      "lng": 77.2261631,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJDyk1jIvvzjsRhuBipwlk0jM",
+      "name": "IndianOil",
+      "address": "Survey No 128, 2 Gandhinagar, Railway Station, opposite Hirehalli, Tumakuru",
+      "lat": 13.2800209,
+      "lng": 77.1872144,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFaTCBAArsDsROEzNKXQpSuk",
+      "name": "𝗧𝗶𝘄𝗮𝗿𝗶 𝗛𝗶𝗴𝗵𝘄𝗮𝘆 𝗙𝘂𝗲𝗹𝘀 , indian oil",
+      "address": "75GV+39X, Tumakuru",
+      "lat": 13.2752301,
+      "lng": 77.193499,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJjaPzR_TVsTsRIG5kkhVB4SA",
+      "name": "AJITH FUELS",
+      "address": "7674+7C9, Hale Nijagal",
+      "lat": 13.2631606,
+      "lng": 77.2060977,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJU-2omDMtmTkRniVw60p1vD8",
+      "name": "IndianOil",
+      "address": "Survey No 59/2A4 & 59/2A5 Nandihalli, hubli, Urdigere",
+      "lat": 13.2631097,
+      "lng": 77.2064572,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLetPlx_VsTsRDkYyEkC-JJo",
+      "name": "Bharat Petroleum S R S H Fuels Station",
+      "address": "30/6,30/7,Halenijagal Dabbaspete NH4 Tumkur Road, Rural, Bengaluru",
+      "lat": 13.2620794,
+      "lng": 77.20738349999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIweVKgDVsTsRyqLE3NG_exA",
+      "name": "Good will fuel station Indian oil",
+      "address": "7665+FF6, Hale Nijagal",
+      "lat": 13.2611589,
+      "lng": 77.2086485,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ1dgWZwDVsTsRSbeMiIuxUpQ",
+      "name": "SLN FUELS, Nelamangala",
+      "address": "Hale Nijagal",
+      "lat": 13.2598125,
+      "lng": 77.2093125,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm_v8dyPVsTsR9Bk53orkqUg",
+      "name": "Indian Oil Petrol Bunk",
+      "address": "Hale Nijagal",
+      "lat": 13.256471,
+      "lng": 77.2125276,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGSjMa0vVsTsRiorPIFo8mgs",
+      "name": "Bharat Petroleum, Petrol Pump -Sannidhi Service Station",
+      "address": "Hale Nijagal",
+      "lat": 13.2564764,
+      "lng": 77.2138916,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJK9L7XwDVsTsRo70mlGZtTkQ",
+      "name": "Reliance Petrol Pump Parking",
+      "address": "66XF+JCW, Nijagal",
+      "lat": 13.2496249,
+      "lng": 77.2240162,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJo6jZdwzVsTsRFKk8QLbb-RE",
+      "name": "IndianOil",
+      "address": "Old NH 4 Bangalore Pune, Highway, Dobbaspet",
+      "lat": 13.2448857,
+      "lng": 77.2301545,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJt1FeOA3VsTsRZUjAKcWsZIM",
+      "name": "IndianOil",
+      "address": "Sy No 6, Nijagal, Tumkur Road, Bangalore",
+      "lat": 13.2441437,
+      "lng": 77.230367,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJU5q0VqMlsDsRpmvxT_H4LS4",
+      "name": "IndianOil",
+      "address": "Sy No 96/1, Khata No 313/521 MH Patna, Adagur, Amanikere, Gubbi",
+      "lat": 13.332635,
+      "lng": 76.981296,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJOxOJfoYusDsRPMpGjNYqaa4",
+      "name": "IndianOil",
+      "address": "Ground Floor, opposite Maruthi Theatre, Bangalore - Honnavar Highway, Barline, Tumakuru",
+      "lat": 13.344106,
+      "lng": 77.093693,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ57BM3QvsDsRgdLPa43LVog",
+      "name": "MRPL PETROL PUMP",
+      "address": "82RV+XRX, Bangalore - Honnavar Highway, Heggere",
+      "lat": 13.3427709,
+      "lng": 77.0439944,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ24-RC_0vsDsRGc6qe1OWteo",
+      "name": "Bharat Petroleum, Petrol Pump -N S FUELLING SERVICES",
+      "address": "AGALAKOTE, Tumakuru",
+      "lat": 13.3432609,
+      "lng": 77.0612428,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJywkEN0susDsRWszHdPKShLg",
+      "name": "Bellavi Petroleum Service,TCB Highway.",
+      "address": "and District, Kannenahalli Bugudanahalli Post TCB State Highway Bellavi Hobli Tumkur Taluk",
+      "lat": 13.3664476,
+      "lng": 77.0570614,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJI4CNs8svsDsRGZvWgbs2W2s",
+      "name": "IndianOil",
+      "address": "Survey No 80/1, Bugudanahalli",
+      "lat": 13.3730449,
+      "lng": 77.05253359999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbWgcs1QvsDsRi-OUhw-7epc",
+      "name": "SRI B P S FUELS",
+      "address": "opposite Tata showroom, Bheemasandra, Tumakuru",
+      "lat": 13.345476,
+      "lng": 77.07939499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJX6JKLAktsDsRmqOK_Cvkflg",
+      "name": "IndianOil",
+      "address": "Ground Floor, beside Kuvempunagar, 1st Cross, 1st Main Road, Tumakuru",
+      "lat": 13.3455224,
+      "lng": 77.07972579999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2b-mv_UvsDsRhRjy_fnVXOo",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, near Gubbi Gate, Gubbi Road, Tumakuru",
+      "lat": 13.3449922,
+      "lng": 77.0833895,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJGTGyHpIvsDsRQwo-s4o68QU",
+      "name": "Shell",
+      "address": "Amani Khare, Bangalore - Honnavar Highway, Tumakuru",
+      "lat": 13.345242,
+      "lng": 77.08471,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFzkS1Y4usDsRKMsq4zL_UKQ",
+      "name": "G. M. MOTORS",
+      "address": "India",
+      "lat": 13.3433649,
+      "lng": 77.0879957,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJlzSGfNsvsDsRCLncaLp0SPw",
+      "name": "Reliance Petroleum",
+      "address": "ward no.2, MUNICIPAL NO. 278/293/316-1, B.H.ROAD, 577301, Bhadravati",
+      "lat": 13.3452119,
+      "lng": 77.0897299,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJQxXqlMEvsDsRD-TZOBeqIF4",
+      "name": "Mahaboob Auto Electricals",
+      "address": "Mahaboob Auto Electricals, Road, Dibbur, Tumakuru",
+      "lat": 13.3483741,
+      "lng": 77.0894283,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJt0djOtYvsDsREeM_EgVvD7Y",
+      "name": "Chethan Chintu",
+      "address": "near Garden Pertol Pump, Garden Road, Dibbur, Tumakuru",
+      "lat": 13.349616,
+      "lng": 77.09145269999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJTc8auXsvsDsRHvsT5Zqrgys",
+      "name": "IndianOil",
+      "address": "No 226/3 Tumkur Amanikere, Barline, Tumkur, Tumakuru",
+      "lat": 13.3498801,
+      "lng": 77.09152499999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL7dGvYkvsDsRKElDPU7xGN0",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 749, 11 750/12, Bangalore - Honnavar Highway, Mandipet, Tumakuru",
+      "lat": 13.3429924,
+      "lng": 77.093862,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJLQLQNekvsDsRjrppyBgniCQ",
+      "name": "HP AUTO CARE CENTRE",
+      "address": "near BG palya circle, Bangalore - Honnavar Highway, Tumakuru",
+      "lat": 13.3429861,
+      "lng": 77.0939265,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJJcIh-tUtsDsRFVdWIkvq6OI",
+      "name": "IndianOil",
+      "address": "near Venkateshwara Engineering Works, Ground Floor Sira Road,Arakere, near Venkateshwara Engineering Works, Tumakuru",
+      "lat": 13.354818,
+      "lng": 77.102852,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqbcQky4ssDsRZL-A5ypU37g",
+      "name": "Bharat Petroleum, Petrol Pump -Sree Shiva Shankari Fuels",
+      "address": "Kotitopu, Tumakuru",
+      "lat": 13.3433452,
+      "lng": 77.1101876,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJWWWu29ctsDsRDQfyTn8faXg",
+      "name": "M/s. Shivaganesh Fuels",
+      "address": "9453+R39, Sira Road, Tumakuru",
+      "lat": 13.3595317,
+      "lng": 77.10274299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJIbvXDsMtsDsRO-aunvvP2WA",
+      "name": "Bharat Petroleum CNG gas",
+      "address": "9498+RH9, Satyamangala, Tumakuru",
+      "lat": 13.3695353,
+      "lng": 77.11647839999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9Ztw8kwssDsRpfRLA7yGM-U",
+      "name": "IndianOil",
+      "address": "Ground Floor, Belagumba, Tumakuru",
+      "lat": 13.3489008,
+      "lng": 77.1340063,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ2w3RywUusDsRU65rdbYG87c",
+      "name": "Indian Oil Petrol Bunk",
+      "address": "93VR+757, Madras Bombay Trunk Road, Antharasanahalli, Tumakuru",
+      "lat": 13.3931532,
+      "lng": 77.0904201,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJe9XtKu8xsDsRLH_XGLAgCuc",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 180/2, NH 4, Tumkur-Sira Road, Oorukere",
+      "lat": 13.4083434,
+      "lng": 77.0853293,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY0fQowktsDsR_a9czu8jN-I",
+      "name": "Shell petrol bunk",
+      "address": "near Kodi Basavanna Temple, State Highway 33, near Kodi Basavanna Temple, Sira Road, Tumakuru",
+      "lat": 13.3506494,
+      "lng": 77.1032098,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0_DuZNUtsDsRMfh1Xo_Jbh4",
+      "name": "IndianOil",
+      "address": "TUDA Layout, Tumakuru",
+      "lat": 13.351923,
+      "lng": 77.1029701,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJwYjiAfMtsDsRP1ZfjeY50H4",
+      "name": "Essar Gas Station",
+      "address": "9453+5CG, Sira Road, TUDA Layout, Tumakuru",
+      "lat": 13.3579488,
+      "lng": 77.1035837,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ9Yc-3dctsDsRxI78KUT5rbc",
+      "name": "ಭಾರತ್ ಪೆಟರೋಲಿಯಂ",
+      "address": "India",
+      "lat": 13.3597263,
+      "lng": 77.1031308,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJB3eHoCktsDsRH9bOdwM4RqA",
+      "name": "Hp petrol bunk",
+      "address": "Survey No 266, 3 266/4 & 266/5, Belagumba Road, Tumakuru",
+      "lat": 13.346529,
+      "lng": 77.125619,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJbaIhXFkrsDsRaRLmcUMkTDc",
+      "name": "TIWARI HIGHWAY FUELS",
+      "address": "Survey No 66/1, Chikkahalli, NH 48, Tumakuru",
+      "lat": 13.3497842,
+      "lng": 77.124517,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJB1uSZjUssDsRRRcpFTbeBuc",
+      "name": "SreeRanga Gas Godown,Ganeshnagar",
+      "address": "84XG+P2R, Belagumba, Tumakuru",
+      "lat": 13.3493603,
+      "lng": 77.1250187,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJuyxRUoMtsDsRCFJBheKoYJw",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Sy No 101/3D, Srinivasa Service Station, TCB - NH4 Road, Antharasanahalli, Tumakuru",
+      "lat": 13.371842,
+      "lng": 77.111785,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJG0UcGsQvsDsRGl0grennte8",
+      "name": "Mookambika Agencies BPCL",
+      "address": "93GX+9QF, Nagannanapalya, Lingapura, Thimmalapura",
+      "lat": 13.3759302,
+      "lng": 77.0994075,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ8-Yk5-wvsDsRb3anFSED36o",
+      "name": "Bharat Petroleum",
+      "address": "93GX+MQ2, Thimmalapura",
+      "lat": 13.3766461,
+      "lng": 77.0993945,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJO-4kWagtsDsRNTFkzVOF0WU",
+      "name": "Bharat Petroleum Petrol Pump , GRR PETROZ",
+      "address": "Madhugiri Road, ROADANTHARASANHALLI, Tumakuru",
+      "lat": 13.3755267,
+      "lng": 77.1125875,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmRZnsX_TsTsR1WfcTmt2v6s",
+      "name": "IndianOil",
+      "address": "Survey No 18/5 Urdigere, Anupanahalli",
+      "lat": 13.3133367,
+      "lng": 77.2380957,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJf8rLIQDTsTsRmcF6SNjiZqw",
+      "name": "Bharat Petroleum",
+      "address": "86QG+RJ8, Tumakuru",
+      "lat": 13.3395422,
+      "lng": 77.226569,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJFUgabg3TsTsRGZBFvzRa_Tc",
+      "name": "Bharat Petroleum",
+      "address": "86PJ+83M, State Highway 3, Urdigere",
+      "lat": 13.3358388,
+      "lng": 77.2301598,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJ4ctPFNvTsTsR5HjVgacsuW0",
+      "name": "Bharat Petroleum, Petrol Pump -Shree Purushotham Fuel Station",
+      "address": "URDIGERE, Tumakuru",
+      "lat": 13.3556178,
+      "lng": 77.2291122,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJVXz67XbTsTsRz6kbak42xsM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey No 169, 1A4, Koretagere Road, Urdigere",
+      "lat": 13.3456249,
+      "lng": 77.23169299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJY2IALAAtsDsRntbVdd686vI",
+      "name": "Bharat Ecofuels Private Limited",
+      "address": "94Q9+WX9, Yallapura, Tumakuru",
+      "lat": 13.3895739,
+      "lng": 77.119755,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJhbz_QvEtsDsRJhHwWjFKaf4",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "M R Service Station Kortagere Road, Post, Yellapur, Tumakuru",
+      "lat": 13.38912,
+      "lng": 77.11886,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJMxpx5wwwsDsRgAUCnDPZNFM",
+      "name": "Someshwara Petrol Bunk",
+      "address": "C269+RC2, Bellavi",
+      "lat": 13.4120077,
+      "lng": 77.0185127,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJKWhiN2sxsDsRR8iPKipdTIQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, Kisan Seva Kendra, Gandhi Nagar, Bellavi",
+      "lat": 13.4117023,
+      "lng": 77.0183164,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJA0gru3YwsDsRsHcc-XuzUV0",
+      "name": "Bharat Petroleum",
+      "address": "India",
+      "lat": 13.4196813,
+      "lng": 77.0152269,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJSU7lKwA7sDsRbKF1l9nvyOY",
+      "name": "MRPL brundavana fuels",
+      "address": "CXJV+PGG, Devarajanahalli",
+      "lat": 13.4318027,
+      "lng": 76.99382229999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJg2iA_tAxsDsR_4_2JoDfSbI",
+      "name": "Bharat Petroleum, Petrol Pump -Vinayaka Fuel Station",
+      "address": "ANTHRASANA HALLI VILLAGE, Tumakuru",
+      "lat": 13.4216706,
+      "lng": 77.0732656,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJp_O6DLU7sDsRVj2pzDqenuA",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Hobli, Devarajannahalli, Bellavi",
+      "lat": 13.4414924,
+      "lng": 76.9852231,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeytcM1oxsDsRjeoXxj_Z5ns",
+      "name": "IndianOil",
+      "address": "Survey No 1, Khatha No 16/16, Kora, Hobli, Vasanthanarasapura",
+      "lat": 13.4673754,
+      "lng": 77.0403303,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJV6-1RcQwsDsR8NGNa28eA74",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Sy No 19/4 Kora, Hobli, Vasanthanarasapura",
+      "lat": 13.4681102,
+      "lng": 77.0403485,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJCQDC9OoxsDsRaQYDYHzxGoo",
+      "name": "Bharat petroleum Padmashree fuel park petrol Bunk",
+      "address": "Vasanthanarasapura,Pune-Sira highway sira NH4,Near VRL hotel,Vasanthanarasapura, industrial area, Tumakuru",
+      "lat": 13.4713268,
+      "lng": 77.0369051,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ3XTEywUusDsRRJ6P2gzB4ic",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 4, Rangapura, Arakere",
+      "lat": 13.3861259,
+      "lng": 77.09505279999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXxTbywUusDsRhPARCLecXnk",
+      "name": "vianOil",
+      "address": "India",
+      "lat": 13.3860168,
+      "lng": 77.0955379,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJFehS6nMysDsRCtxEwKMo_wg",
+      "name": "IndianOil",
+      "address": "Survey No 8, 58/68/7, Kasaba, Amalapura",
+      "lat": 13.402275,
+      "lng": 77.128714,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJV0i2HWgzsDsR2AuXM-8jx9c",
+      "name": "IndianOil",
+      "address": "Ground Floor Amalapura, Madhugiri Road, Bellavi",
+      "lat": 13.403669,
+      "lng": 77.13018009999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJeSXo0M0zsDsRwSSgX7WA2Ac",
+      "name": "IndianOil",
+      "address": "Survey No 84, 2, Chikkathotlukere Main Road, Arakere",
+      "lat": 13.446387,
+      "lng": 77.11618299999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAQAAAFAysDsRg7RMUFYwOwg",
+      "name": "Shell",
+      "address": "C4JP+9RC, Tumakuru",
+      "lat": 13.4309449,
+      "lng": 77.1370115,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJmxOS1_oysDsR0ENVNy0lmiM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Survey 47/2, Kora Hobli, Obalapura",
+      "lat": 13.4348823,
+      "lng": 77.1596071,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbxtijw7NsTsRV9oB9xeozJ8",
+      "name": "BPCL - SLR Fuel Station",
+      "address": "C66M+XG, Neelagondanahalli",
+      "lat": 13.4124975,
+      "lng": 77.2338693,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJzcIAq87TsTsRhl1IrLn6UaY",
+      "name": "IndianOil",
+      "address": "Survey No 37/3 Vaddarahalli, Koratagere, Anupanahalli",
+      "lat": 13.3997652,
+      "lng": 77.2376402,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs3TPjWLNsTsRDxWcPUWzHcE",
+      "name": "Sri Bhagyalakshmi Filling Station",
+      "address": "Syno:25/5, Neelagondanahalli",
+      "lat": 13.4227681,
+      "lng": 77.240608,
+      "open_now": true
+    }
+  ]
+}

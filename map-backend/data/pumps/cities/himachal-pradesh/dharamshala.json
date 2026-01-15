@@ -1,0 +1,323 @@
+{
+  "city": "Dharamshala",
+  "state": "Himachal Pradesh",
+  "count": 39,
+  "center": {
+    "lat": 32.2068,
+    "lng": 76.3065
+  },
+  "pumps": [
+    {
+      "place_id": "ChIJU6yMRZFaGzkRtiTngndwXpY",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, National Highway 154, Banoi",
+      "lat": 32.172591,
+      "lng": 76.254701,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJbarUsb9PGzkRPabHnem6JVM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, Matour",
+      "lat": 32.1240801,
+      "lng": 76.296401,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJg6O5HpRbGzkRolNJ40I8zxk",
+      "name": "IndianOil",
+      "address": "near Shahpur, Ground Floor, KM Stone 65/150 Pathankot, near Shahpur, Manali Road, Bhanala, Palampur",
+      "lat": 32.199001,
+      "lng": 76.1976,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXd8w4KlaGzkR0Q__T528oRM",
+      "name": "Bharat Petroleum, Aggarwal Filling Station",
+      "address": "Kangra NH-20, Mandi - Pathankot Road, Gaggal",
+      "lat": 32.152649,
+      "lng": 76.27102,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJed_UVdNRGzkRB2BrBdozfDY",
+      "name": "IndianOil",
+      "address": "Ground Floor, NH 20, Mandi - Pathankot Road, Gaggal",
+      "lat": 32.1508832,
+      "lng": 76.2721111,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJAdfoKwRbGzkRoadCYuettqs",
+      "name": "Reliance Petroleum",
+      "address": "Ground Floor, Rajol",
+      "lat": 32.174791,
+      "lng": 76.241096,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ18oe9tFbGzkR8Xenphp2kPg",
+      "name": "IndianOil",
+      "address": "56HH+24, Mundla",
+      "lat": 32.1777516,
+      "lng": 76.227944,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJTB4lvlPGzkRoUpvuQBuZqA",
+      "name": "Bharat Petroleum, Petrol Pump -Maa Jwalaji Filling Station",
+      "address": "JAWAJI, DEHRA ROAD, JAWAJL",
+      "lat": 32.11461449999999,
+      "lng": 76.28181719999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJm0XG7o9PGzkRKKFriWJYMW0",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Bus Stand, NH 88, Shimla Road, Kangra",
+      "lat": 32.1143955,
+      "lng": 76.28201179999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJBx_GPxFPGzkRo1fMyjJRH08",
+      "name": "Hp gas",
+      "address": "472C+FXV, Haripur, New Kangra, Kangra",
+      "lat": 32.1012338,
+      "lng": 76.272413,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJI1vhJeNRGzkRKuY3ReaUNe4",
+      "name": "IndianOil",
+      "address": "adjacent Kanshi Ram School, Ground Floor Gaggal Dharamshala Road,Bagli Near, adjacent Kanshi Ram School, Kangra",
+      "lat": 32.1572001,
+      "lng": 76.2871001,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJt9B9R9lPGzkRGEMHJb9zi-M",
+      "name": "IndianOil",
+      "address": "Ground Floor, Tanda Kachiyari Kangr, Ghiana Kalan",
+      "lat": 32.11089799999999,
+      "lng": 76.306809,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJJ5jkk7dbGzkRTjSos_qLzZQ",
+      "name": "IndianOil",
+      "address": "Ground Floor, Bagru, Shahpur,Bajrehar, Churtha",
+      "lat": 32.19516399999999,
+      "lng": 76.200499,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJZ70grNlbGzkRDOy5SW8oSjc",
+      "name": "MAHADEVA FILLING STATION PETROL PUMP KANGRA RAIT HIMACHAL PRADESH",
+      "address": "Mandi - Pathankot Road, Har",
+      "lat": 32.1954639,
+      "lng": 76.20075609999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJxd5rGYNOGzkRx_4NzPDBLwU",
+      "name": "IndianOil",
+      "address": "Ground Floor, near Prem Bus Workshop, NH 20, Mandi - Pathankot Road, Baldhar",
+      "lat": 32.10178940000001,
+      "lng": 76.36035869999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJoTVEswtRGzkRouuYZpOTbkM",
+      "name": "Hindustan Petroleum LPG Store",
+      "address": "Dari, Dharamshala",
+      "lat": 32.20041870000001,
+      "lng": 76.3366556,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJi9Nwd3NRGzkR6bbx5rfhVfI",
+      "name": "IndianOil",
+      "address": "Ground Floor Sakoh, Dharamshala",
+      "lat": 32.175899,
+      "lng": 76.308117,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJqZhadVRNGzkRuu56ABBAK4g",
+      "name": "Maa Sheetal filling station Nayara Filling Station",
+      "address": "49W8+6Q9, Kangra",
+      "lat": 32.1460629,
+      "lng": 76.36715769999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJtacJlJ5RGzkRWgrMnd9J-Dw",
+      "name": "IndianOil",
+      "address": "Ground Floor, opposite Club Mahindra Hotel, Dharamshala - Palampur Road, Shillachowk, Dari, Sidhbari",
+      "lat": 32.194428,
+      "lng": 76.345081,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJs06RNQtNGzkR2eD1dO4uumk",
+      "name": "IndianOil",
+      "address": "Ground Floor, Chamunda Malan, Road, Kardiana",
+      "lat": 32.138784,
+      "lng": 76.414473,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJw3zvNHdSGzkRc9nnSFPwrCc",
+      "name": "IndianOil",
+      "address": "Ground Floor, Dharamshala Palampur Rd, State Highway 17, Tang Narwana, Kardiana",
+      "lat": 32.165497,
+      "lng": 76.396772,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ0Vb4rVVMGzkRMCdtFDke8PM",
+      "name": "Hindustan Petroleum Corporation Limited",
+      "address": "Ground Floor, NH 154, Mandi - Pathankot Road, Nagrota Bagwan",
+      "lat": 32.112731,
+      "lng": 76.407461,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4_5mff5NGzkRZrQ4zHhHe5s",
+      "name": "IndianOil",
+      "address": "Ground Floor, Nagrota NH 20, Mandi - Pathankot Road, Lower Baldhar",
+      "lat": 32.1107,
+      "lng": 76.38799999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ-9lqRABTGzkR5txsjuCmYG8",
+      "name": "Chamunda Filling Station",
+      "address": "597W+RV6, Machhan",
+      "lat": 32.16517149999999,
+      "lng": 76.3967337,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJSzDid3JTGzkRYuJC1sS-HrM",
+      "name": "Kiran Filling Station (Bharat Petroleum)",
+      "address": "MDR 78 , Village Balehar Khas , Narwana, Dharamshala",
+      "lat": 32.1687878,
+      "lng": 76.39114339999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJP0_vlEFMGzkR4iqsEURcJPA",
+      "name": "HP PETROL PUMP - POOJA HP CENTER",
+      "address": "Tehsil Baroh, Shimla",
+      "lat": 32.093674,
+      "lng": 76.39144999999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJmcVTZ71NGzkRqoNBDTUEH5k",
+      "name": "K M FILLING STATION",
+      "address": "gujrehra, Nagrota Bagwan",
+      "lat": 32.1061686,
+      "lng": 76.4312279,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJXayXRhpNGzkRIXjtmFyL5Qg",
+      "name": "IndianOil",
+      "address": "Ground Floor Gopalpur, Palampur, Arth Jhikli",
+      "lat": 32.145367,
+      "lng": 76.446919,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ5VBSTgBNGzkRHHpqA-7gK9Y",
+      "name": "K M filling station",
+      "address": "4C2P+V3F, National Highway 154, Drang, Cheli",
+      "lat": 32.1021972,
+      "lng": 76.43516079999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJB1nuUQBTGzkR6dPPARQmcUw",
+      "name": "Parbhu ji patrol pump",
+      "address": "Vill jatoli, Rakkar",
+      "lat": 32.1971606,
+      "lng": 76.37096369999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJMyFEv6NNGzkRdfe1mP3nXyY",
+      "name": "IndianOil",
+      "address": "Ground Floor, Palampur,Darang, Ghaneta",
+      "lat": 32.096424,
+      "lng": 76.439751,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJL57UNuBQGzkRKA5rSYsxS_0",
+      "name": "Mann Filling Station",
+      "address": "MDR45, Kotwali Bazar Road, Dharamshala",
+      "lat": 32.2143685,
+      "lng": 76.31675059999999,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJrYSCFQBbGzkRlE_6dVc45cA",
+      "name": "Belonia",
+      "address": "North, sonai, Chari",
+      "lat": 32.2073465,
+      "lng": 76.2609463,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJtWbZ2JtQGzkRUdfCyPjTcCI",
+      "name": "IndianOil",
+      "address": "Ground Floor, Gharoh",
+      "lat": 32.207788,
+      "lng": 76.278757,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJR5XlHgBZGzkRJmiBuvqISw8",
+      "name": "Darini",
+      "address": "7654+FHV, Shahpur Tahal Mata Road, Khariri",
+      "lat": 32.2589017,
+      "lng": 76.2061567,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJA5DJ0Q9fGzkRSIMSc1XFYJo",
+      "name": "IndianOil",
+      "address": "Ground Floor Hatli Draman, Bilana, Sihunta",
+      "lat": 32.2328546,
+      "lng": 76.1719284,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJ4fJhh6ZeGzkR-EiQzhd82DE",
+      "name": "Harsh enterprises Filling Station (BPCL)",
+      "address": "Dramman, Kangra, NH-20, Mandi Pathankot Road, Shahpur, Shahpur",
+      "lat": 32.22813999999999,
+      "lng": 76.163877,
+      "open_now": true
+    },
+    {
+      "place_id": "ChIJtfsCc-BQGzkRZn6SQfh1NPI",
+      "name": "HRTC Filling Station",
+      "address": "6888+M8V, Sudher, Dharamshala",
+      "lat": 32.21674199999999,
+      "lng": 76.31578689999999,
+      "open_now": null
+    },
+    {
+      "place_id": "ChIJySFUU71fGzkR8ZU3Dz2EULY",
+      "name": "NAYARA PETROL PUMP - Verma Filling Station",
+      "address": "Verma Filling Station, Draman, Manjgran",
+      "lat": 32.228239,
+      "lng": 76.16037779999999,
+      "open_now": true
+    }
+  ]
+}
