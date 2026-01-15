@@ -5,11 +5,12 @@ import {
   Marker,
   Popup,
   useMapEvents,
-  useMap
+  useMap,
+  Polyline
 } from "react-leaflet";
 import MarkerClusterGroup from "react-leaflet-cluster";
 import type { Map as LeafletMap } from "leaflet";
-import { fetchCategories, fetchNearbyPlaces, fetchPlaces, fetchCities, searchPlaces } from "./api";
+import { fetchCategories, fetchNearbyPlaces, fetchPlaces, fetchCities, searchPlaces, fetchCityCoordinates, getDirections } from "./api";
 
 type Category = {
   slug: string;
@@ -113,6 +114,14 @@ export default function App() {
   const [selectedResultId, setSelectedResultId] = useState<string | null>(null);
   const [isSearchMode, setIsSearchMode] = useState(false);
 
+  // Directions state
+  const [showDirections, setShowDirections] = useState(false);
+  const [origin, setOrigin] = useState<{ lat: number; lng: number } | null>(null);
+  const [destination, setDestination] = useState<{ lat: number; lng: number; name: string } | null>(null);
+  const [route, setRoute] = useState<Array<[number, number]> | null>(null);
+  const [directionsInfo, setDirectionsInfo] = useState<{ distance: string; duration: string } | null>(null);
+  const [isGettingDirections, setIsGettingDirections] = useState(false);
+
   const mapRef = useRef<LeafletMap | null>(null);
   const searchTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
   const searchInputRef = useRef<HTMLInputElement | null>(null);
@@ -172,18 +181,23 @@ export default function App() {
 
     if (!mapRef.current) return;
 
-    const map = mapRef.current;
-    const zoom = map.getZoom();
-
-    // 🚫 Don't fetch when zoomed out
-    if (zoom < 7) {
-      setPlaces([]);
-      setZoomMessage("Zoom in to see places");
-      return;
-    }
-
     setLoading(true);
     try {
+      // Get city coordinates and zoom to city
+      try {
+        const cityCoords = await fetchCityCoordinates(city);
+        if (cityCoords && cityCoords.latitude && cityCoords.longitude) {
+          mapRef.current.flyTo(
+            [cityCoords.latitude, cityCoords.longitude],
+            12, // Zoom level for city view
+            { duration: 1 }
+          );
+        }
+      } catch (error) {
+        console.error("Failed to get city coordinates:", error);
+      }
+
+      // Fetch places for the city
       const params: { city: string; category?: string } = { city };
       if (selectedCategory) {
         params.category = selectedCategory;
@@ -256,12 +270,85 @@ export default function App() {
     // Replace markers (don't merge)
     setPlaces([place]);
     
+    // Set as destination for directions
+    setDestination({
+      lat: place.latitude,
+      lng: place.longitude,
+      name: place.name
+    });
+    
     // Focus marker
     if (mapRef.current) {
       mapRef.current.flyTo([place.latitude, place.longitude], 14, {
         duration: 1
       });
     }
+  };
+
+  // Get user's current location
+  const getUserLocation = () => {
+    if (navigator.geolocation) {
+      navigator.geolocation.getCurrentPosition(
+        (position) => {
+          setOrigin({
+            lat: position.coords.latitude,
+            lng: position.coords.longitude
+          });
+        },
+        (error) => {
+          console.error("Error getting location:", error);
+          alert("Unable to get your location. Please allow location access.");
+        }
+      );
+    } else {
+      alert("Geolocation is not supported by your browser.");
+    }
+  };
+
+  // Get directions
+  const handleGetDirections = async () => {
+    if (!origin || !destination) {
+      alert("Please set origin and destination");
+      return;
+    }
+
+    setIsGettingDirections(true);
+    try {
+      const directions = await getDirections(
+        origin.lat,
+        origin.lng,
+        destination.lat,
+        destination.lng
+      );
+      
+      // Convert coordinates to [lat, lng] tuples for Leaflet
+      const routeCoords = directions.coordinates.map((coord: [number, number]) => [coord[0], coord[1]] as [number, number]);
+      setRoute(routeCoords);
+      setDirectionsInfo({
+        distance: directions.distance,
+        duration: directions.duration
+      });
+      setShowDirections(true);
+
+      // Fit map to show entire route
+      if (mapRef.current && routeCoords.length > 0) {
+        const bounds = routeCoords.map(coord => [coord[0], coord[1]] as [number, number]);
+        mapRef.current.fitBounds(bounds as any, { padding: [50, 50] });
+      }
+    } catch (error) {
+      console.error("Failed to get directions:", error);
+      alert("Failed to get directions. Please try again.");
+    } finally {
+      setIsGettingDirections(false);
+    }
+  };
+
+  const clearDirections = () => {
+    setRoute(null);
+    setDirectionsInfo(null);
+    setShowDirections(false);
+    setOrigin(null);
+    setDestination(null);
   };
 
   // Close dropdown when clicking outside
@@ -288,7 +375,11 @@ export default function App() {
     <div className={`app-root ${isSidebarOpen ? "sidebar-open" : "sidebar-closed"}`}>
       {/* SIDEBAR */}
       <div className={`sidebar ${isSidebarOpen ? "open" : "closed"}`}>
-        <button className="reset-btn" onClick={handleReset}>
+        <button 
+          className="reset-btn" 
+          onClick={handleReset}
+          disabled={loading}
+        >
           Reset Map
         </button>
 
@@ -322,6 +413,52 @@ export default function App() {
             {c.displayName}
           </div>
         ))}
+
+        <h3>Directions</h3>
+        <div className="directions-controls">
+          <button
+            className="directions-btn"
+            onClick={getUserLocation}
+            disabled={isGettingDirections}
+          >
+            Use My Location
+          </button>
+          {origin && (
+            <div className="directions-info">
+              Origin: {origin.lat.toFixed(4)}, {origin.lng.toFixed(4)}
+            </div>
+          )}
+          {destination && (
+            <div className="directions-info">
+              Destination: {destination.name}
+            </div>
+          )}
+          {origin && destination && (
+            <>
+              <button
+                className="directions-btn primary"
+                onClick={handleGetDirections}
+                disabled={isGettingDirections}
+              >
+                {isGettingDirections ? "Getting Directions..." : "Get Directions"}
+              </button>
+              {showDirections && (
+                <button
+                  className="directions-btn"
+                  onClick={clearDirections}
+                >
+                  Clear Route
+                </button>
+              )}
+            </>
+          )}
+          {directionsInfo && (
+            <div className="directions-stats">
+              <div>Distance: {directionsInfo.distance}</div>
+              <div>Duration: {directionsInfo.duration}</div>
+            </div>
+          )}
+        </div>
       </div>
 
       {/* MAP */}
@@ -341,6 +478,22 @@ export default function App() {
                   setShowResultsDropdown(true);
                 }
               }}
+              onKeyDown={(e) => {
+                // Enter key: trigger search if there are results
+                if (e.key === "Enter" && searchResults.length > 0 && !isSearching) {
+                  e.preventDefault();
+                  const firstResult = searchResults[0];
+                  if (firstResult) {
+                    handleResultClick(firstResult);
+                  }
+                }
+                // Escape key: close dropdown
+                if (e.key === "Escape") {
+                  setShowResultsDropdown(false);
+                  searchInputRef.current?.blur();
+                }
+              }}
+              disabled={isSearching}
             />
             {isSearching && (
               <span className="search-loading">⟳</span>
@@ -401,13 +554,45 @@ export default function App() {
             setLoading={setLoading}
           />
 
+          {/* Directions route */}
+          {route && route.length > 0 && (
+            <Polyline
+              positions={route}
+              color="#2563eb"
+              weight={4}
+              opacity={0.7}
+            />
+          )}
+
+          {/* Origin marker */}
+          {origin && (
+            <Marker position={[origin.lat, origin.lng]}>
+              <Popup>Your Location</Popup>
+            </Marker>
+          )}
+
+          {/* Destination marker */}
+          {destination && (
+            <Marker position={[destination.lat, destination.lng]}>
+              <Popup>{destination.name}</Popup>
+            </Marker>
+          )}
+
           <MarkerClusterGroup chunkedLoading>
             {places.map((p) => (
               <Marker
                 key={p.id}
                 position={[p.latitude, p.longitude]}
                 eventHandlers={{
-                  click: () => setSelectedResultId(p.id)
+                  click: () => {
+                    setSelectedResultId(p.id);
+                    // Set as destination when marker clicked
+                    setDestination({
+                      lat: p.latitude,
+                      lng: p.longitude,
+                      name: p.name
+                    });
+                  }
                 }}
               >
                 <Popup autoPan={false}>
@@ -417,6 +602,23 @@ export default function App() {
                       {[p.city, p.state].filter(Boolean).join(", ")}
                     </div>
                   )}
+                  <button
+                    style={{
+                      marginTop: "8px",
+                      padding: "4px 8px",
+                      fontSize: "12px",
+                      cursor: "pointer"
+                    }}
+                    onClick={() => {
+                      setDestination({
+                        lat: p.latitude,
+                        lng: p.longitude,
+                        name: p.name
+                      });
+                    }}
+                  >
+                    Set as Destination
+                  </button>
                 </Popup>
               </Marker>
             ))}

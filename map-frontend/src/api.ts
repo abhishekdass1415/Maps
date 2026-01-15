@@ -43,4 +43,29 @@ export async function searchPlaces(query: string) {
     const res = await fetch("http://localhost:4000/api/places/cities");
     return res.json();
   }
+
+  export async function fetchCityCoordinates(cityName: string) {
+    const res = await fetch(
+      `http://localhost:4000/api/places/city/${encodeURIComponent(cityName)}/coordinates`
+    );
+    if (!res.ok) {
+      throw new Error("City not found");
+    }
+    return res.json();
+  }
+
+  export async function getDirections(
+    originLat: number,
+    originLng: number,
+    destLat: number,
+    destLng: number
+  ) {
+    const res = await fetch(
+      `http://localhost:4000/api/directions?origin=${originLat},${originLng}&destination=${destLat},${destLng}`
+    );
+    if (!res.ok) {
+      throw new Error("Failed to get directions");
+    }
+    return res.json();
+  }
   
