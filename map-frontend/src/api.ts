@@ -2,7 +2,7 @@
 // - Local dev: falls back to http://localhost:4000/api
 // - Production (Vercel): set VITE_API_BASE_URL in environment variables to your Render backend URL + /api
 const API_BASE =
-  (import.meta as any).env?.VITE_API_BASE_URL || "http://localhost:4000/api";
+  (import.meta as any).env?.VITE_API_BASE_URL ||   "https://map-backend-bc2ly6q8g-abhishek-dass-projects.vercel.app/"
 
 export async function fetchCategories() {
   const res = await fetch(`${API_BASE}/categories`);

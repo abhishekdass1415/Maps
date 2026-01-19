@@ -11,7 +11,13 @@ import directionsRouter from "./routes/directions";
 
 const app = express();
 
-app.use(cors());
+// app.use(cors());
+app.use(
+  cors({
+    origin: "*"
+  })
+);
+
 app.use(express.json());
 
 // Dev-only request logging
