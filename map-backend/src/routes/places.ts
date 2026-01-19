@@ -2,6 +2,7 @@ import { Router } from "express";
 import { prisma } from "../db";
 import { getPlacesWithFallback } from "../services/placeService";
 import { smartSearch } from "../services/searchService";
+import { getPlaceDetails } from "../services/placeDetailsService";
 
 const router = Router();
 
@@ -71,6 +72,34 @@ router.get("/city/:cityName/coordinates", async (req, res) => {
     latitude: avgLat,
     longitude: avgLng
   });
+});
+
+/* -------------------- PLACE DETAILS -------------------- */
+router.get("/:id/details", async (req, res) => {
+  const placeId = req.params.id;
+
+  if (!placeId) {
+    return res.status(400).json({
+      error: "Place ID required"
+    });
+  }
+
+  try {
+    const details = await getPlaceDetails(placeId);
+
+    if (!details) {
+      return res.status(404).json({
+        error: "Place not found"
+      });
+    }
+
+    res.json(details);
+  } catch (error) {
+    console.error("Error fetching place details:", error);
+    res.status(500).json({
+      error: "Failed to fetch place details"
+    });
+  }
 });
 
 /* -------------------- SEARCH / FILTER (ENHANCED WITH SMART SEARCH) -------------------- */

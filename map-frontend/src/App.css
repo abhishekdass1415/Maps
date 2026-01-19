@@ -523,3 +523,327 @@ html, body, #root {
     max-width: calc(100% - 60px);
   }
 }
+
+/* ===== PLACE DETAILS CARD ===== */
+.place-details-card {
+  position: fixed;
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);
+  z-index: 1001;
+  max-width: 400px;
+  max-height: 85vh;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  pointer-events: auto;
+  animation: slideIn 0.3s ease-out;
+}
+
+@keyframes slideIn {
+  from {
+    opacity: 0;
+    transform: translateX(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+/* Desktop: Right-side floating */
+@media (min-width: 769px) {
+  .place-details-card {
+    top: 80px;
+    right: 20px;
+    width: 380px;
+  }
+  
+  .app-root.sidebar-open .place-details-card {
+    right: 20px;
+  }
+}
+
+/* Mobile: Bottom sheet */
+@media (max-width: 768px) {
+  .place-details-card {
+    bottom: 0;
+    left: 0;
+    right: 0;
+    max-width: 100%;
+    max-height: 70vh;
+    border-radius: 16px 16px 0 0;
+    animation: slideUp 0.3s ease-out;
+  }
+  
+  @keyframes slideUp {
+    from {
+      opacity: 0;
+      transform: translateY(100%);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+}
+
+/* Header */
+.place-details-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 16px;
+  border-bottom: 1px solid #e5e7eb;
+  background: #f9fafb;
+}
+
+.place-details-title-section {
+  flex: 1;
+  min-width: 0;
+}
+
+.place-details-name {
+  margin: 0;
+  font-size: 18px;
+  font-weight: 600;
+  color: #1a1a1a;
+  line-height: 1.3;
+  margin-bottom: 4px;
+}
+
+.place-details-category {
+  display: inline-block;
+  font-size: 12px;
+  color: #6b7280;
+  background: #e5e7eb;
+  padding: 2px 8px;
+  border-radius: 4px;
+  text-transform: capitalize;
+}
+
+.close-btn {
+  background: none;
+  border: none;
+  font-size: 24px;
+  color: #6b7280;
+  cursor: pointer;
+  padding: 0;
+  width: 32px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  transition: background 0.2s, color 0.2s;
+  flex-shrink: 0;
+  margin-left: 12px;
+}
+
+.close-btn:hover {
+  background: #e5e7eb;
+  color: #1a1a1a;
+}
+
+/* Body */
+.place-details-body {
+  padding: 16px;
+  overflow-y: auto;
+  flex: 1;
+}
+
+/* Photo Carousel */
+.photo-carousel {
+  margin-bottom: 16px;
+}
+
+.photo-carousel-container {
+  display: flex;
+  gap: 8px;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+  margin-bottom: 8px;
+  scrollbar-width: thin;
+}
+
+.photo-carousel-container::-webkit-scrollbar {
+  height: 4px;
+}
+
+.photo-carousel-container::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 2px;
+}
+
+.photo-carousel-container::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 2px;
+}
+
+.photo-carousel-image {
+  width: 100%;
+  min-width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 8px;
+  scroll-snap-align: start;
+  cursor: pointer;
+  transition: opacity 0.2s;
+}
+
+.photo-carousel-image:hover {
+  opacity: 0.9;
+}
+
+.photo-carousel-indicators {
+  display: flex;
+  justify-content: center;
+  gap: 6px;
+  margin-top: 8px;
+}
+
+.photo-indicator {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  border: none;
+  background: #d1d5db;
+  cursor: pointer;
+  padding: 0;
+  transition: background 0.2s, transform 0.2s;
+}
+
+.photo-indicator.active {
+  background: #2563eb;
+  transform: scale(1.2);
+}
+
+/* Fields */
+.place-details-field {
+  margin-bottom: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.place-details-field:last-child {
+  margin-bottom: 0;
+}
+
+.field-label {
+  font-size: 12px;
+  font-weight: 500;
+  color: #6b7280;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.field-value {
+  font-size: 14px;
+  color: #1a1a1a;
+  line-height: 1.5;
+}
+
+.field-value.link {
+  color: #2563eb;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.field-value.link:hover {
+  color: #1d4ed8;
+  text-decoration: underline;
+}
+
+.opening-status {
+  font-weight: 600;
+  font-size: 14px;
+}
+
+/* Footer */
+.place-details-footer {
+  padding: 16px;
+  border-top: 1px solid #e5e7eb;
+  display: flex;
+  gap: 8px;
+  background: #f9fafb;
+}
+
+.view-on-map-btn {
+  flex: 1;
+  background: #2563eb;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 16px;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background 0.2s, transform 0.1s;
+}
+
+.view-on-map-btn:hover {
+  background: #1d4ed8;
+  transform: translateY(-1px);
+}
+
+.view-on-map-btn:active {
+  transform: translateY(0);
+}
+
+.directions-btn-placeholder {
+  flex: 1;
+  background: #e5e7eb;
+  color: #6b7280;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 16px;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: not-allowed;
+  opacity: 0.6;
+}
+
+/* Loading State */
+.place-details-card.loading {
+  pointer-events: none;
+}
+
+.skeleton-text,
+.skeleton-image {
+  background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+  background-size: 200% 100%;
+  animation: loading 1.5s infinite;
+  border-radius: 4px;
+}
+
+.skeleton-image {
+  border-radius: 8px;
+}
+
+@keyframes loading {
+  0% {
+    background-position: 200% 0;
+  }
+  100% {
+    background-position: -200% 0;
+  }
+}
+
+/* Error State */
+.place-details-card.error {
+  border-left: 4px solid #ef4444;
+}
+
+.place-details-card.error .place-details-body {
+  color: #ef4444;
+}
+
+/* Ensure card doesn't overlap search bar on mobile */
+@media (max-width: 768px) {
+  .place-details-card {
+    bottom: 0;
+    max-height: calc(70vh - 80px);
+  }
+}

@@ -11,6 +11,7 @@ import {
 import MarkerClusterGroup from "react-leaflet-cluster";
 import type { Map as LeafletMap } from "leaflet";
 import { fetchCategories, fetchNearbyPlaces, fetchPlaces, fetchCities, searchPlaces, fetchCityCoordinates, getDirections } from "./api";
+import PlaceDetailsCard from "./PlaceDetailsCard";
 
 type Category = {
   slug: string;
@@ -113,6 +114,10 @@ export default function App() {
   const [showResultsDropdown, setShowResultsDropdown] = useState(false);
   const [selectedResultId, setSelectedResultId] = useState<string | null>(null);
   const [isSearchMode, setIsSearchMode] = useState(false);
+
+  // Place details card state
+  const [selectedPlaceId, setSelectedPlaceId] = useState<string | null>(null);
+  const [selectedPlaceCoords, setSelectedPlaceCoords] = useState<{ lat: number; lng: number } | null>(null);
 
   // Directions state
   const [showDirections, setShowDirections] = useState(false);
@@ -276,6 +281,10 @@ export default function App() {
       lng: place.longitude,
       name: place.name
     });
+    
+    // Open place details card
+    setSelectedPlaceId(place.id);
+    setSelectedPlaceCoords({ lat: place.latitude, lng: place.longitude });
     
     // Focus marker
     if (mapRef.current) {
@@ -592,6 +601,9 @@ export default function App() {
                       lng: p.longitude,
                       name: p.name
                     });
+                    // Open place details card
+                    setSelectedPlaceId(p.id);
+                    setSelectedPlaceCoords({ lat: p.latitude, lng: p.longitude });
                   }
                 }}
               >
@@ -627,6 +639,24 @@ export default function App() {
 
         {loading && (
           <div className="map-overlay">Loading places…</div>
+        )}
+
+        {/* Place Details Card */}
+        {selectedPlaceId && selectedPlaceCoords && (
+          <PlaceDetailsCard
+            placeId={selectedPlaceId}
+            onClose={() => {
+              setSelectedPlaceId(null);
+              setSelectedPlaceCoords(null);
+            }}
+            onViewOnMap={() => {
+              if (mapRef.current && selectedPlaceCoords) {
+                mapRef.current.flyTo([selectedPlaceCoords.lat, selectedPlaceCoords.lng], 15, {
+                  duration: 1
+                });
+              }
+            }}
+          />
         )}
       </div>
     </div>
