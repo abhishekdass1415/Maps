@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "npx prisma generate && tsc",
+    "build": "node ./node_modules/prisma/build/index.js generate && tsc",
     "start": "node dist/server.js",
     "import:pumps": "ts-node src/importPumpsFromFolders.ts"
   },
