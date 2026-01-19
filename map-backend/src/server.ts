@@ -13,10 +13,17 @@ const app = express();
 
 // app.use(cors());
 app.use(
+
   cors({
-    origin: "*"
+    origin: true,              // allow any origin dynamically
+    methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
+    allowedHeaders: ["Content-Type", "Authorization"],
+    credentials: false        // MUST be false when allowing all origins
   })
 );
+
+
+
 
 app.use(express.json());
 

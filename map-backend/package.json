@@ -5,7 +5,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "node ./node_modules/prisma/build/index.js generate && node ./node_modules/typescript/bin/tsc",
-    "start": "node dist/server.js",
+    "start": "nodemon dist/server.js",
+    "dev": "nodemon --watch src --ext ts --exec \"npx ts-node src/server.ts\"",
     "import:pumps": "ts-node src/importPumpsFromFolders.ts"
   },
   "keywords": [],
@@ -23,6 +24,7 @@
     "@types/cors": "^2.8.19",
     "@types/express": "^5.0.6",
     "@types/node": "^25.0.3",
+    "nodemon": "^3.1.11",
     "prisma": "^6.19.1",
     "ts-node": "^10.9.2",
     "typescript": "^5.9.3"
